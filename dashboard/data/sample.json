@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "tradeDate": "2026-06-02",
+    "phase": "盘后复盘",
+    "source": "sample"
+  },
+  "indices": [
+    { "name": "上证指数", "price": "3,118.42", "changePct": 0.42 },
+    { "name": "深证成指", "price": "9,872.64", "changePct": 0.68 },
+    { "name": "创业板指", "price": "2,024.18", "changePct": -0.16 },
+    { "name": "科创50", "price": "912.07", "changePct": 1.12 }
+  ],
+  "emotion": {
+    "score": 68,
+    "tag": "中等偏强",
+    "title": "题材活跃，但一致性未到高潮",
+    "brief": "涨停数量维持高位，连板高度打开；但炸板率仍偏高，适合围绕主线做分歧低吸和前排确认，不适合追后排加速。",
+    "factors": [
+      { "label": "涨停家数", "value": "72", "valueClass": "up" },
+      { "label": "跌停家数", "value": "8", "valueClass": "down" },
+      { "label": "连板家数", "value": "18", "valueClass": "up" },
+      { "label": "炸板率", "value": "31%", "valueClass": "flat" }
+    ]
+  },
+  "temperature": {
+    "limitUp": 72,
+    "limitDown": 8,
+    "failRate": 31,
+    "maxLadder": 6
+  },
+  "discipline": [
+    "只做主线前排或板块核心中军，后排冲高不追。",
+    "情绪分歧日先看承接，强修复再动手。",
+    "单票亏损触及交易计划止损线，先降仓再复盘。",
+    "全仓只留给确定性极高的系统性行情，题材博弈不全仓。"
+  ],
+  "limitUps": [
+    {
+      "code": "300136",
+      "name": "信维通信",
+      "boards": 1,
+      "tags": ["商业航天", "卫星互联网", "消费电子"],
+      "sealAmount": "3.4亿",
+      "turnover": "成交 22.8亿",
+      "reason": "低轨卫星与终端射频链条情绪发酵，叠加消费电子反弹。"
+    },
+    {
+      "code": "002829",
+      "name": "星网宇达",
+      "boards": 3,
+      "tags": ["商业航天", "无人系统"],
+      "sealAmount": "5.1亿",
+      "turnover": "成交 9.6亿",
+      "reason": "商业航天前排连板，板块高度标的。"
+    },
+    {
+      "code": "600118",
+      "name": "中国卫星",
+      "boards": 1,
+      "tags": ["卫星导航", "央企"],
+      "sealAmount": "2.8亿",
+      "turnover": "成交 18.2亿",
+      "reason": "卫星产业链权重中军补涨。"
+    },
+    {
+      "code": "002938",
+      "name": "鹏鼎控股",
+      "boards": 1,
+      "tags": ["AI手机", "消费电子", "PCB"],
+      "sealAmount": "1.9亿",
+      "turnover": "成交 16.7亿",
+      "reason": "AI硬件链条修复，PCB资金回流。"
+    },
+    {
+      "code": "603728",
+      "name": "鸣志电器",
+      "boards": 2,
+      "tags": ["机器人", "电机"],
+      "sealAmount": "2.2亿",
+      "turnover": "成交 11.4亿",
+      "reason": "机器人执行器方向延续强势。"
+    }
+  ],
+  "ladder": [
+    { "level": 6, "stocks": ["航天晨光"] },
+    { "level": 4, "stocks": ["西测测试", "天银机电"] },
+    { "level": 3, "stocks": ["星网宇达", "上海沪工"] },
+    { "level": 2, "stocks": ["鸣志电器", "华体科技", "福达股份"] }
+  ],
+  "flows": {
+    "industries": [
+      { "name": "通信设备", "netInflow": 188000, "note": "卫星互联网与AI终端共振" },
+      { "name": "半导体", "netInflow": 142000, "note": "先进封装、存储链条回流" },
+      { "name": "软件开发", "netInflow": 76000, "note": "AI应用端轮动" },
+      { "name": "白酒", "netInflow": -98000, "note": "防御资金流出" },
+      { "name": "房地产", "netInflow": -126000, "note": "政策预期降温" }
+    ],
+    "concepts": [
+      { "name": "商业航天", "netInflow": 236000, "note": "SpaceX/低轨卫星情绪扩散" },
+      { "name": "AI手机", "netInflow": 121000, "note": "消费电子中军走强" },
+      { "name": "人形机器人", "netInflow": 98000, "note": "执行器与电机方向活跃" },
+      { "name": "银行", "netInflow": -72000, "note": "高股息短线休整" },
+      { "name": "煤炭", "netInflow": -83000, "note": "资源股资金切出" }
+    ]
+  },
+  "risks": [
+    "商业航天若前排炸板，后排题材股容易出现高开低走。",
+    "指数缩量反弹时，题材轮动速度会加快，追涨容错率下降。",
+    "业绩空窗期更容易炒概念，公告澄清和监管问询是主要风险。",
+    "单一题材仓位超过六成时，先按账户风险预算处理。"
+  ],
+  "limitDowns": [
+    {
+      "code": "600000",
+      "name": "示例银行",
+      "changePct": "-10.01",
+      "tags": ["银行", "高股息"],
+      "reason": "资金从防御方向切向成长题材。"
+    },
+    {
+      "code": "000000",
+      "name": "示例地产",
+      "changePct": "-9.98",
+      "tags": ["房地产", "政策链"],
+      "reason": "板块预期降温，前期获利盘兑现。"
+    }
+  ],
+  "watchPlan": [
+    {
+      "title": "商业航天",
+      "rule": "只看前排承接和中军放量，后排连续缩量加速不接。"
+    },
+    {
+      "title": "AI硬件",
+      "rule": "若PCB、连接器、散热同步走强，可作为第二主线观察。"
+    },
+    {
+      "title": "账户风控",
+      "rule": "单票持仓超过六成时，先定义止损线，再考虑加仓逻辑。"
+    }
+  ]
+}

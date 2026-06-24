@@ -1,0 +1,75 @@
+name: Refresh A-share review dashboard
+
+on:
+  workflow_dispatch:
+    inputs:
+      trade_date:
+        description: "Trade date, e.g. 2026-06-10. Leave empty to use today in Asia/Shanghai."
+        required: false
+        type: string
+  schedule:
+    # Three review snapshots on A-share trading days.
+    # 03:30 UTC = 11:30 Asia/Shanghai, for noon review.
+    # 07:30 UTC = 15:30 Asia/Shanghai, for closing review.
+    # 13:00 UTC = 21:00 Asia/Shanghai, for full evening review.
+    - cron: "30 3 * * 1-5"
+    - cron: "30 7 * * 1-5"
+    - cron: "0 13 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-dashboard
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install data dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate latest market data
+        env:
+          INPUT_TRADE_DATE: ${{ inputs.trade_date }}
+        run: |
+          TRADE_DATE="${INPUT_TRADE_DATE:-$(python dashboard/scripts/resolve_trade_date.py)}"
+          if python dashboard/scripts/fetch_daily.py --date "$TRADE_DATE" --out dashboard/data/daily.json; then
+            python dashboard/scripts/write_refresh_status.py \
+              --trade-date "$TRADE_DATE" \
+              --success true \
+              --message "GitHub Actions refreshed market data."
+          else
+            echo "::warning::Market data refresh failed; keeping existing dashboard/data/daily.json."
+            python dashboard/scripts/write_refresh_status.py \
+              --trade-date "$TRADE_DATE" \
+              --success false \
+              --message "GitHub Actions could not refresh market data; kept previous snapshot."
+          fi
+
+      - name: Build branch-published site
+        run: python dashboard/scripts/build_static_site.py --out .
+
+      - name: Commit refreshed dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html app.js styles.css data/daily.json data/refresh-status.json data/sample.json dashboard/data/daily.json dashboard/data/refresh-status.json
+          if git diff --cached --quiet; then
+            echo "No dashboard changes to publish."
+            exit 0
+          fi
+          git commit -m "Refresh A-share review dashboard $(TZ=Asia/Shanghai date '+%F %H:%M')"
+          git push

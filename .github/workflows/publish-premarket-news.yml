@@ -1,0 +1,70 @@
+name: Refresh A-share pre-market news
+
+on:
+  workflow_dispatch:
+    inputs:
+      news_date:
+        description: "News date, e.g. 2026-06-24. Leave empty to use today in Asia/Shanghai."
+        required: false
+        type: string
+  schedule:
+    # 00:30 UTC = 08:30 Asia/Shanghai.
+    - cron: "30 0 * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-dashboard
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install data dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate pre-market news
+        env:
+          INPUT_NEWS_DATE: ${{ inputs.news_date }}
+        run: |
+          NEWS_DATE="${INPUT_NEWS_DATE:-$(TZ=Asia/Shanghai date +%F)}"
+          if python dashboard/scripts/fetch_news.py --date "$NEWS_DATE" --out dashboard/data/daily.json; then
+            python dashboard/scripts/write_refresh_status.py \
+              --trade-date "$NEWS_DATE" \
+              --success true \
+              --message "GitHub Actions refreshed pre-market news; market data remains the latest closing snapshot."
+          else
+            echo "::warning::Pre-market news refresh failed; keeping existing dashboard snapshot."
+            python dashboard/scripts/write_refresh_status.py \
+              --trade-date "$NEWS_DATE" \
+              --success false \
+              --message "GitHub Actions could not refresh pre-market news; kept the previous dashboard snapshot."
+          fi
+
+      - name: Build branch-published site
+        run: python dashboard/scripts/build_static_site.py --out .
+
+      - name: Commit refreshed dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html app.js styles.css data/daily.json data/refresh-status.json data/sample.json dashboard/data/daily.json dashboard/data/refresh-status.json
+          if git diff --cached --quiet; then
+            echo "No pre-market news changes to publish."
+            exit 0
+          fi
+          git commit -m "Refresh A-share pre-market news $(TZ=Asia/Shanghai date '+%F %H:%M')"
+          git push

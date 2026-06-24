@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A股短线复盘看板</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">A-SHARE SHORTLINE DESK</p>
+          <h1>短线复盘看板</h1>
+        </div>
+        <div class="session-card">
+          <span id="tradeDate">--</span>
+          <strong id="marketPhase">盘后复盘</strong>
+          <small id="generatedAt">--</small>
+          <small id="refreshStatus">定时复盘 --</small>
+          <button id="refreshBtn" type="button" title="重新读取数据">刷新</button>
+        </div>
+      </header>
+
+      <nav class="sheet-tabs" id="sheetTabs" aria-label="看板分区">
+        <button class="active" data-sheet-target="overview" type="button">总览</button>
+        <button data-sheet-target="execution" type="button">明日执行</button>
+        <button data-sheet-target="news" type="button">新闻催化</button>
+        <button data-sheet-target="candidates" type="button">候选股票</button>
+        <button data-sheet-target="market" type="button">市场盘面</button>
+        <button data-sheet-target="capital" type="button">板块资金</button>
+        <button data-sheet-target="risk" type="button">风险复盘</button>
+      </nav>
+
+      <section class="ticker-strip" id="indexStrip" aria-label="主要指数" data-sheet="overview"></section>
+
+      <section class="panel report-panel" data-sheet="overview">
+        <div class="panel-title">
+          <span>自动复盘报告</span>
+          <div class="segmented" id="reportTabs" role="tablist" aria-label="报告阶段"></div>
+        </div>
+        <div id="reportContent" class="report-content"></div>
+      </section>
+
+      <section class="summary-grid" data-sheet="overview">
+        <article class="panel hero-panel">
+          <div class="panel-title">
+            <span>市场情绪</span>
+            <small id="emotionTag">--</small>
+          </div>
+          <div class="emotion-meter">
+            <div class="meter-ring">
+              <span id="emotionScore">--</span>
+            </div>
+            <div class="emotion-copy">
+              <strong id="emotionTitle">等待数据</strong>
+              <p id="emotionBrief">读取 daily.json 后自动生成复盘摘要。</p>
+            </div>
+          </div>
+          <div class="heat-bars" id="heatBars"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-title">
+            <span>涨跌停温度</span>
+            <small>赚钱效应</small>
+          </div>
+          <div class="stat-grid" id="temperatureStats"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-title">
+            <span>今日纪律</span>
+            <small>交易前先看</small>
+          </div>
+          <ul class="discipline-list" id="disciplineList"></ul>
+        </article>
+      </section>
+
+      <section class="panel execution-panel" data-sheet="execution">
+        <div class="panel-title">
+          <span>明日执行表</span>
+          <small>条件触发，不做幻想单</small>
+        </div>
+        <div id="executionPlan" class="execution-plan"></div>
+      </section>
+
+      <section class="panel news-panel" data-sheet="news">
+        <div class="panel-title">
+          <span>新闻催化</span>
+          <small>快讯/公告/财经日历</small>
+        </div>
+        <div id="newsBrief" class="news-brief"></div>
+      </section>
+
+      <section class="panel calculator-panel" data-sheet="candidates">
+        <div class="panel-title">
+          <span>个股打分计算器</span>
+          <small id="scoreModeHint">本地服务实时计算</small>
+        </div>
+        <form id="scoreForm" class="score-form">
+          <input id="scoreCode" name="code" type="text" inputmode="latin" autocomplete="off" placeholder="输入股票代码，如 300750" />
+          <select id="scoreMode" name="mode" aria-label="交易模式">
+            <option value="auto">自动识别</option>
+            <option value="leader">龙头分歧</option>
+            <option value="trend">容量趋势</option>
+            <option value="20cm">20cm弹性</option>
+          </select>
+          <button type="submit">计算</button>
+        </form>
+        <div id="scoreResult" class="score-result">
+          <div class="risk-item">输入代码后输出评分、买点、止损、仓位和风险提示。公网静态版暂不支持实时计算，请用本地服务打开。</div>
+        </div>
+      </section>
+
+      <section class="panel" data-sheet="candidates">
+        <div class="panel-title">
+          <span>明日候选股票池</span>
+          <small>A池/B池/C池</small>
+        </div>
+        <div id="candidatePools" class="candidate-pools"></div>
+      </section>
+
+      <section class="main-grid" data-sheet="market">
+        <article class="panel wide">
+          <div class="panel-title">
+            <span>涨停票归因</span>
+            <div class="segmented" role="tablist" aria-label="涨停筛选">
+              <button class="active" data-limit-filter="all" type="button">全部</button>
+              <button data-limit-filter="multi" type="button">连板</button>
+              <button data-limit-filter="first" type="button">首板</button>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>股票</th>
+                  <th>板数</th>
+                  <th>板块/概念</th>
+                  <th>封单/成交</th>
+                  <th>原因</th>
+                </tr>
+              </thead>
+              <tbody id="limitUpTable"></tbody>
+            </table>
+          </div>
+        </article>
+
+        <aside class="panel">
+          <div class="panel-title">
+            <span>连板梯队</span>
+            <small>高度与断板</small>
+          </div>
+          <div id="ladderList" class="ladder-list"></div>
+        </aside>
+      </section>
+
+      <section class="flow-grid" data-sheet="capital">
+        <article class="panel">
+          <div class="panel-title">
+            <span>行业资金</span>
+            <small>主力净流入</small>
+          </div>
+          <div id="industryFlow" class="flow-list"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-title">
+            <span>概念资金</span>
+            <small>主题热度</small>
+          </div>
+          <div id="conceptFlow" class="flow-list"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-title">
+            <span>风险雷达</span>
+            <small>先避坑</small>
+          </div>
+          <div id="riskRadar" class="risk-list"></div>
+        </article>
+      </section>
+
+      <section class="flow-grid" data-sheet="capital">
+        <article class="panel">
+          <div class="panel-title">
+            <span>强于大盘</span>
+            <small>逆势/超额上涨</small>
+          </div>
+          <div id="againstUp" class="flow-list"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-title">
+            <span>弱于大盘</span>
+            <small>逆势/超额下跌</small>
+          </div>
+          <div id="againstDown" class="flow-list"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-title">
+            <span>大盘基准</span>
+            <small>板块比较用</small>
+          </div>
+          <div id="marketBenchmark" class="watch-plan"></div>
+        </article>
+      </section>
+
+      <section class="main-grid" data-sheet="capital">
+        <article class="panel wide">
+          <div class="panel-title">
+            <span>后续关注</span>
+            <small>抗跌/共振/资金强流入</small>
+          </div>
+          <div id="focusBoards" class="focus-grid"></div>
+        </article>
+        <aside class="panel">
+          <div class="panel-title">
+            <span>关注逻辑</span>
+            <small>明日候选主线</small>
+          </div>
+          <div id="focusSummary" class="watch-plan"></div>
+        </aside>
+      </section>
+
+      <section class="panel" data-sheet="capital">
+        <div class="panel-title">
+          <span>走势分析图</span>
+          <small>历史走势/强弱结构</small>
+        </div>
+        <div id="trendCharts" class="trend-grid"></div>
+      </section>
+
+      <section class="main-grid" data-sheet="risk">
+        <article class="panel wide">
+          <div class="panel-title">
+            <span>跌停与负反馈</span>
+            <small>亏钱效应来源</small>
+          </div>
+          <div class="table-wrap compact">
+            <table>
+              <thead>
+                <tr>
+                  <th>股票</th>
+                  <th>跌幅</th>
+                  <th>板块/概念</th>
+                  <th>原因</th>
+                </tr>
+              </thead>
+              <tbody id="limitDownTable"></tbody>
+            </table>
+          </div>
+        </article>
+        <aside class="panel">
+          <div class="panel-title">
+            <span>明日观察</span>
+            <small>只做强条件</small>
+          </div>
+          <div id="watchPlan" class="watch-plan"></div>
+        </aside>
+      </section>
+
+      <footer class="site-footer">
+        <strong>免责声明</strong>
+        <p>本页面内容仅为个人/团队交易复盘、数据整理与策略研究记录，不构成任何投资建议、收益承诺或买卖依据。市场有风险，交易需独立判断并自行承担风险。</p>
+        <p id="runtimeNotice">公网静态版展示的是最近一次自动生成快照；本地服务版可使用实时刷新和个股打分。</p>
+      </footer>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>

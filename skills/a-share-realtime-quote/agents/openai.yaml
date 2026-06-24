@@ -1,0 +1,4 @@
+interface:
+  display_name: "A股实时行情"
+  short_description: "三源fallback获取A股实时股价"
+  default_prompt: "Use $a-share-realtime-quote to get the latest A-share price with Eastmoney, Tencent, and Sina fallback."
