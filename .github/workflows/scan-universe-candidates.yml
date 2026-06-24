@@ -8,9 +8,8 @@ on:
         required: false
         type: string
   schedule:
-    # Finish before the 11:30 and 21:00 dashboard refreshes.
-    - cron: "0 3 * * 1-5"
-    - cron: "30 12 * * 1-5"
+    # 08:00 UTC = 16:00 Asia/Shanghai on trading weekdays.
+    - cron: "0 8 * * 1-5"
 
 permissions:
   contents: write
