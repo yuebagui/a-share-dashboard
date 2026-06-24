@@ -21,6 +21,7 @@ DEFAULT_OUTPUT = REPO_ROOT
 FILES = [
     ("index.html", "index.html"),
     ("app.js", "app.js"),
+    ("public-calculator.js", "public-calculator.js"),
     ("styles.css", "styles.css"),
     ("data/daily.json", "data/daily.json"),
     ("data/refresh-status.json", "data/refresh-status.json"),

@@ -60,10 +60,6 @@ function setActiveSheet(sheet) {
 
 async function handleScoreSubmit(event) {
   event.preventDefault();
-  if (!isLocalRuntime()) {
-    renderStaticCalculatorNotice();
-    return;
-  }
   const form = event.currentTarget;
   const code = document.getElementById("scoreCode").value.trim();
   const mode = document.getElementById("scoreMode").value;
@@ -78,7 +74,10 @@ async function handleScoreSubmit(event) {
   button.textContent = "计算中";
   target.innerHTML = `<div class="risk-item">正在读取行情和 K 线，请稍等。</div>`;
   try {
-    const result = await fetchJson(`/api/score?code=${encodeURIComponent(code)}&mode=${encodeURIComponent(mode)}`);
+    const useLocalApi = isLocalRuntime() && !new URLSearchParams(window.location.search).has("publicScore");
+    const result = useLocalApi
+      ? await fetchJson(`/api/score?code=${encodeURIComponent(code)}&mode=${encodeURIComponent(mode)}`)
+      : await window.PublicStockCalculator.score(code, mode);
     if (!result.ok) {
       throw new Error(result.error || result.stderr || "计算失败");
     }
@@ -86,7 +85,7 @@ async function handleScoreSubmit(event) {
   } catch (error) {
     target.innerHTML = `
       <div class="risk-item">
-        实时计算不可用：${escapeHtml(error.message || "未知错误")}。公网静态页面没有本地 API；请用 <span class="muted">dashboard/scripts/open_dashboard.command</span> 或本地服务打开。
+        实时计算不可用：${escapeHtml(error.message || "未知错误")}。请稍后重试，或改用 6 位股票代码查询。
       </div>
     `;
   } finally {
@@ -138,29 +137,13 @@ function updateRuntimeMode() {
   const notice = document.getElementById("runtimeNotice");
   const form = document.getElementById("scoreForm");
   if (hint) {
-    hint.textContent = local ? "本地服务实时计算" : "公网静态版已降级";
+    hint.textContent = local ? "本地服务实时计算" : "公网浏览器实时计算";
   }
   if (notice) {
     notice.textContent = local
       ? "本地服务版支持实时刷新和个股打分；公网发布版展示最近一次自动生成快照。"
-      : "公网静态版展示最近一次自动生成快照；实时个股打分需要在本地服务中使用。";
+      : "公网版展示自动复盘快照，并可在浏览器中使用实时个股打分。";
   }
-  if (!local && form) {
-    form.querySelectorAll("input, select, button").forEach((control) => {
-      control.disabled = true;
-    });
-    renderStaticCalculatorNotice();
-  }
-}
-
-function renderStaticCalculatorNotice() {
-  const target = document.getElementById("scoreResult");
-  if (!target) return;
-  target.innerHTML = `
-    <div class="risk-item">
-      公网静态版不连接本地 API，不能实时计算个股。请参考候选池里预生成的技术评分；如需输入任意代码评分，请在本机启动 dashboard/scripts/serve_dashboard.py。
-    </div>
-  `;
 }
 
 function isLocalRuntime() {

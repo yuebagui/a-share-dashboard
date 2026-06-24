@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>A股短线复盘看板</title>
-    <link rel="stylesheet" href="./styles.css?v=20260624-sheet-fix-1" />
+    <link rel="stylesheet" href="./styles.css?v=20260624-public-score-1" />
   </head>
   <body>
     <main class="shell">
@@ -99,7 +99,7 @@
           <small id="scoreModeHint">本地服务实时计算</small>
         </div>
         <form id="scoreForm" class="score-form">
-          <input id="scoreCode" name="code" type="text" inputmode="latin" autocomplete="off" placeholder="输入股票代码，如 300750" />
+          <input id="scoreCode" name="code" type="text" autocomplete="off" placeholder="输入代码或名称，如 300750 / 宁德时代" />
           <select id="scoreMode" name="mode" aria-label="交易模式">
             <option value="auto">自动识别</option>
             <option value="leader">龙头分歧</option>
@@ -109,7 +109,7 @@
           <button type="submit">计算</button>
         </form>
         <div id="scoreResult" class="score-result">
-          <div class="risk-item">输入代码后输出评分、买点、止损、仓位和风险提示。公网静态版暂不支持实时计算，请用本地服务打开。</div>
+          <div class="risk-item">输入股票代码或名称，输出实时评分、买点、止损、仓位和风险提示。</div>
         </div>
       </section>
 
@@ -285,6 +285,7 @@
         activateSheet("overview");
       })();
     </script>
-    <script src="./app.js?v=20260624-sheet-fix-1"></script>
+    <script src="./public-calculator.js?v=20260624-public-score-1"></script>
+    <script src="./app.js?v=20260624-public-score-1"></script>
   </body>
 </html>
