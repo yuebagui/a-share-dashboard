@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>A股短线复盘看板</title>
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./styles.css?v=20260624-sheet-fix-1" />
   </head>
   <body>
     <main class="shell">
@@ -264,6 +264,27 @@
         <p id="runtimeNotice">公网静态版展示的是最近一次自动生成快照；本地服务版可使用实时刷新和个股打分。</p>
       </footer>
     </main>
-    <script src="./app.js"></script>
+    <script>
+      (() => {
+        const tabs = document.getElementById("sheetTabs");
+        if (!tabs) return;
+
+        const activateSheet = (sheet) => {
+          document.querySelectorAll("[data-sheet-target]").forEach((button) => {
+            button.classList.toggle("active", button.dataset.sheetTarget === sheet);
+          });
+          document.querySelectorAll("[data-sheet]").forEach((section) => {
+            section.hidden = section.dataset.sheet !== sheet;
+          });
+        };
+
+        tabs.addEventListener("click", (event) => {
+          const button = event.target.closest("[data-sheet-target]");
+          if (button) activateSheet(button.dataset.sheetTarget);
+        });
+        activateSheet("overview");
+      })();
+    </script>
+    <script src="./app.js?v=20260624-sheet-fix-1"></script>
   </body>
 </html>
