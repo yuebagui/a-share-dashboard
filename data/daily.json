@@ -1,12 +1,10 @@
 {
   "meta": {
-    "tradeDate": "2026-06-24",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-06-24 20:31:55",
+    "tradeDate": "2026-06-25",
+    "phase": "盘中快照",
+    "generatedAt": "2026-06-25 00:03:50",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [
-      "candidate-technical partial failures: 603407:eastmoney: only 32 bars; tencent: only 32 bars | 301669:eastmoney: Remote end closed connection without response; tencent: only 11 bars"
-    ]
+    "errors": []
   },
   "indices": [
     {
@@ -81648,7 +81646,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -81811,272 +81810,299 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-06-24",
-    "generatedAt": "2026-06-24 20:33:51",
+    "tradeDate": "2026-06-25",
+    "generatedAt": "2026-06-25 00:04:55",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 8 条；主题映射集中在 半导体、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
-        "name": "半导体",
-        "score": 15,
-        "isFocusBoard": true
-      },
-      {
         "name": "有色稀土",
-        "score": 13,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 8,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "军工",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "太湖远大:解除股权质押的公告",
-        "summary": "太湖远大(920118)：太湖远大:解除股权质押的公告",
-        "publishedAt": "2026-06-24",
+        "title": "旭光电子:旭光电子股票交易严重异常波动公告",
+        "summary": "旭光电子(600353)：旭光电子:旭光电子股票交易严重异常波动公告",
+        "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920118/AN202606241823815867.html",
+        "url": "https://data.eastmoney.com/notices/detail/600353/AN202606241823818936.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "太湖远大(920118)"
+          "旭光电子(600353)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "6-1-1关于国旅文化投资集团股份有限公司申请注册环节反馈意见落实函的回复(国旅文化投资集团股份有限公司)",
-        "summary": "国旅联合(600358)：6-1-1关于国旅文化投资集团股份有限公司申请注册环节反馈意见落实函的回复(国旅文化投资集团股份有限公司)",
-        "publishedAt": "2026-06-24",
+        "title": "*ST未名:关于股票交易异常波动的公告",
+        "summary": "*ST未名(002581)：*ST未名:关于股票交易异常波动的公告",
+        "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600358/AN202606241823811544.html",
+        "url": "https://data.eastmoney.com/notices/detail/002581/AN202606241823818763.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "国旅联合(600358)"
+          "*ST未名(002581)"
         ],
         "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "*ST益通:关于公司审计委员会聘任自查整改中介机构的公告",
-        "summary": "*ST益通(300430)：*ST益通:关于公司审计委员会聘任自查整改中介机构的公告",
-        "publishedAt": "2026-06-24",
+        "title": "*ST宇顺:浙商证券股份有限公司关于深圳市宇顺电子股份有限公司2025年年报问询函回复的核查意见",
+        "summary": "*ST宇顺(002289)：*ST宇顺:浙商证券股份有限公司关于深圳市宇顺电子股份有限公司2025年年报问询函回复的核查意见",
+        "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300430/AN202606241823818050.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST益通(300430)"
-        ],
-        "importance": 1,
-        "noticeType": "审计机构变更"
-      },
-      {
-        "title": "*ST元道:关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-        "summary": "*ST元道(301139)：*ST元道:关于参加新疆辖区上市公司2026年投资者网上集体接待日活动的公告",
-        "publishedAt": "2026-06-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301139/AN202606241823817815.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST元道(301139)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "德尔玛:关于持股5%以上股东股份减持计划预披露的公告",
-        "summary": "德尔玛(301332)：德尔玛:关于持股5%以上股东股份减持计划预披露的公告",
-        "publishedAt": "2026-06-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301332/AN202606241823817586.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "德尔玛(301332)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "广联航空:关于特定股东减持计划实施完毕的公告",
-        "summary": "广联航空(300900)：广联航空:关于特定股东减持计划实施完毕的公告",
-        "publishedAt": "2026-06-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300900/AN202606241823817576.html",
+        "url": "https://data.eastmoney.com/notices/detail/002289/AN202606241823818718.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "军工"
+          "金融"
         ],
         "tickers": [
-          "广联航空(300900)"
+          "*ST宇顺(002289)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "阿为特:中汇会计师事务所(特殊普通合伙)关于对上海阿为特精密机械股份有限公司2025年年报问询函的回复",
-        "summary": "阿为特(920693)：阿为特:中汇会计师事务所(特殊普通合伙)关于对上海阿为特精密机械股份有限公司2025年年报问询函的回复",
-        "publishedAt": "2026-06-24",
+        "title": "*ST宇顺:股票交易异常波动暨风险提示公告",
+        "summary": "*ST宇顺(002289)：*ST宇顺:股票交易异常波动暨风险提示公告",
+        "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920693/AN202606241823817565.html",
+        "url": "https://data.eastmoney.com/notices/detail/002289/AN202606241823818717.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "阿为特(920693)"
+          "*ST宇顺(002289)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "*ST宇顺:上海众华资产评估有限公司关于对深圳市宇顺电子股份有限公司年报问询函的回复",
+        "summary": "*ST宇顺(002289)：*ST宇顺:上海众华资产评估有限公司关于对深圳市宇顺电子股份有限公司年报问询函的回复",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002289/AN202606241823818721.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST宇顺(002289)"
+        ],
+        "importance": 1,
+        "noticeType": "问询函其他公告"
+      },
+      {
+        "title": "*ST宇顺:关于公司股票交易撤销退市风险警示暨停复牌的公告",
+        "summary": "*ST宇顺(002289)：*ST宇顺:关于公司股票交易撤销退市风险警示暨停复牌的公告",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002289/AN202606241823818716.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST宇顺(002289)"
+        ],
+        "importance": 1,
+        "noticeType": "撤销退市风险警示"
+      },
+      {
+        "title": "*ST宇顺:深圳宣达会计师事务所(普通合伙)关于对深圳市宇顺电子股份有限公司2025年年度报告问询函的回复",
+        "summary": "*ST宇顺(002289)：*ST宇顺:深圳宣达会计师事务所(普通合伙)关于对深圳市宇顺电子股份有限公司2025年年度报告问询函的回复",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002289/AN202606241823818719.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST宇顺(002289)"
         ],
         "importance": 1,
         "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "阿为特:关于对北京证券交易所2025年年报问询函的回复公告",
-        "summary": "阿为特(920693)：阿为特:关于对北京证券交易所2025年年报问询函的回复公告",
-        "publishedAt": "2026-06-24",
+        "title": "*ST宇顺:北京国枫律师事务所关于深圳市宇顺电子股份有限公司2025年年报问询函相关问题的专项核查意见",
+        "summary": "*ST宇顺(002289)：*ST宇顺:北京国枫律师事务所关于深圳市宇顺电子股份有限公司2025年年报问询函相关问题的专项核查意见",
+        "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920693/AN202606241823817566.html",
+        "url": "https://data.eastmoney.com/notices/detail/002289/AN202606241823818720.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "阿为特(920693)"
+          "*ST宇顺(002289)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "普门科技:深圳普门科技股份有限公司关于2025年年度报告的信息披露监管问询函的回复公告",
+        "summary": "普门科技(688389)：普门科技:深圳普门科技股份有限公司关于2025年年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688389/AN202606241823818708.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "普门科技(688389)"
         ],
         "importance": 1,
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "万兴科技:关于回购公司股份方案暨取得金融机构股票回购贷款承诺函的公告",
-        "summary": "万兴科技(300624)：万兴科技:关于回购公司股份方案暨取得金融机构股票回购贷款承诺函的公告",
-        "publishedAt": "2026-06-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300624/AN202606241823815425.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "万兴科技(300624)"
-        ],
-        "importance": 1,
-        "noticeType": "借贷"
-      },
-      {
-        "title": "高争民爆:002827高争民爆投资者关系管理信息20260624",
-        "summary": "高争民爆(002827)：高争民爆:002827高争民爆投资者关系管理信息20260624",
-        "publishedAt": "2026-06-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002827/AN202606241823818014.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "高争民爆(002827)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "新大陆:000997新大陆业绩说明会活动信息20260624",
-        "summary": "新大陆(000997)：新大陆:000997新大陆业绩说明会活动信息20260624",
-        "publishedAt": "2026-06-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000997/AN202606241823817550.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新大陆(000997)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "地铁设计:2026年6月24日投资者关系活动记录表",
-        "summary": "地铁设计(003013)：地铁设计:2026年6月24日投资者关系活动记录表",
-        "publishedAt": "2026-06-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003013/AN202606241823817829.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "地铁设计(003013)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美国截至6月19日当周API原油库存变动(万桶)",
-        "summary": "美国截至6月19日当周API原油库存变动(万桶)；公布 -76.5，预期 -499.5，前值 -833.0。",
-        "publishedAt": "2026-06-24 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "美国、卡塔尔、尼日利亚和阿尔及利亚敦促欧盟修改甲烷法规 并警告天然气供应和价格的风险",
+        "summary": "美国、卡塔尔、尼日利亚和阿尔及利亚敦促欧盟修改甲烷法规，并警告天然气供应和价格的风险。",
+        "publishedAt": "2026-06-24 23:55:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606243781818418.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "能源"
         ],
         "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "特朗普批评汽油价格下跌不够快 称已命令司法部展开调查",
+        "summary": "【特朗普批评汽油价格下跌不够快 称已命令司法部展开调查】美国总统特朗普抱怨汽油价格下降速度不够快，称他已下令司法部调查汽油价格。“大型石油公司并没有像他们支付的石油价格大幅下降那样，相应地下调加油站的汽油价格，”他发帖称，“汽油价格最好能比我现在看到的降得快得多！”",
+        "publishedAt": "2026-06-24 23:53:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606243781818132.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国内商品期市夜盘收盘多数下跌 化工品跌幅居前",
+        "summary": "【国内商品期市夜盘收盘多数下跌 化工品跌幅居前】国内商品期市夜盘收盘多数下跌，化工品跌幅居前，INE20号胶跌5.72%；能源品全部下跌，DCE LPG跌3.53%；农副产品多数下跌，CZCE棉花跌1.38%；油脂油料多数下跌，DCE棕榈油跌1.36%；非金属建材涨跌参半，DCE PVC跌0.22%；黑色系涨幅居前，DCE焦炭涨1.00%。",
+        "publishedAt": "2026-06-24 23:02:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606243781804978.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "大连电瓷:2026年限制性股票激励计划(草案)摘要",
+        "summary": "大连电瓷(002606)：大连电瓷:2026年限制性股票激励计划(草案)摘要",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002606/AN202606241823818573.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大连电瓷(002606)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "大连电瓷:2026年限制性股票激励计划(草案)",
+        "summary": "大连电瓷(002606)：大连电瓷:2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002606/AN202606241823818577.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大连电瓷(002606)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "大连电瓷:上市公司股权激励计划自查表",
+        "summary": "大连电瓷(002606)：大连电瓷:上市公司股权激励计划自查表",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002606/AN202606241823818576.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大连电瓷(002606)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励其他事项公告"
+      },
+      {
+        "title": "美国6月23日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国6月23日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 278826.27。",
+        "publishedAt": "2026-06-25 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国截至6月19日当周API汽油库存变动(万桶)",
-        "summary": "美国截至6月19日当周API汽油库存变动(万桶)；公布 123.8，预期 -35.0，前值 247.9。",
-        "publishedAt": "2026-06-24 04:30",
+        "title": "美国6月24日iShares白银持仓-每日更新(吨)",
+        "summary": "美国6月24日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 14941.91。",
+        "publishedAt": "2026-06-25 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -82088,9 +82114,9 @@
         "noticeType": ""
       },
       {
-        "title": "美国6月22日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国6月22日COMEX黄金库存-每日更新(百盎司)；公布 278826.27，预期 nan，前值 279883.2。",
-        "publishedAt": "2026-06-24 06:30",
+        "title": "美国6月24日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国6月24日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 469.65。",
+        "publishedAt": "2026-06-25 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -82099,52 +82125,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月23日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国6月23日iShares黄金持仓-每日更新(吨)；公布 469.65，预期 nan，前值 470.35。",
-        "publishedAt": "2026-06-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月23日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国6月23日SPDR黄金持仓-每日更新(吨)；公布 1017.64，预期 nan，前值 1022.2。",
-        "publishedAt": "2026-06-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月23日iShares白银持仓-每日更新(吨)",
-        "summary": "美国6月23日iShares白银持仓-每日更新(吨)；公布 14941.91，预期 nan，前值 15023.49。",
-        "publishedAt": "2026-06-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -82315,7 +82295,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -82328,15 +82308,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-24 20:33:51",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 8 条；主题映射集中在 半导体、有色稀土、能源。",
+        "generatedAt": "2026-06-25 00:04:55",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：存储芯片、半导体、中芯国际概念；首看 存储芯片 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -82367,7 +82347,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-06-24 20:31:55",
+        "generatedAt": "2026-06-25 00:03:50",
         "summary": "上午情绪分 100，涨停 98 家，跌停 12 家，炸板 23 家，连板 12 家，最高 4 板。",
         "sections": [
           {
@@ -82406,7 +82386,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-06-24 20:31:55",
+        "generatedAt": "2026-06-25 00:03:50",
         "summary": "市场温度 中，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -82432,7 +82412,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 12 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：太湖远大:解除股权质押的公告；6-1-1关于国旅文化投资集团股份有限公司申请注册环节反馈意见落实函的回复(国旅文化投资集团股份有限公司)。",
+              "新闻/公告风险：旭光电子:旭光电子股票交易严重异常波动公告；*ST未名:关于股票交易异常波动的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
