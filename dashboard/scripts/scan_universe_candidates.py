@@ -19,11 +19,17 @@ import fetch_daily
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_OUT = ROOT / "data" / "universe-candidates.json"
 DEFAULT_DAILY = ROOT / "data" / "daily.json"
+UNIVERSE_FILE = ROOT / "data" / "stock-universe.json"
 MAIN_BOARD_PREFIXES = ("000", "001", "002", "003", "600", "601", "603", "605")
 CHINEXT_PREFIXES = ("300", "301")
 
 
 def get_universe(ak) -> list[dict[str, str]]:
+    if UNIVERSE_FILE.exists():
+        cached = json.loads(UNIVERSE_FILE.read_text(encoding="utf-8"))
+        items = cached.get("items") or []
+        if items:
+            return items
     frame = ak.stock_info_a_code_name()
     items = []
     for _, row in frame.iterrows():
