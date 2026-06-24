@@ -59,21 +59,6 @@ jobs:
               --message "GitHub Actions could not refresh market data; kept previous snapshot."
           fi
 
-      - name: Scan main boards and ChiNext
-        if: github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && (github.event.schedule == '30 3 * * 1-5' || github.event.schedule == '0 13 * * 1-5'))
-        env:
-          INPUT_TRADE_DATE: ${{ inputs.trade_date }}
-        run: |
-          TRADE_DATE="${INPUT_TRADE_DATE:-$(python dashboard/scripts/resolve_trade_date.py)}"
-          if python dashboard/scripts/scan_universe_candidates.py \
-            --date "$TRADE_DATE" \
-            --out dashboard/data/universe-candidates.json \
-            --daily dashboard/data/daily.json; then
-            echo "Full-universe candidate scan completed."
-          else
-            echo "::warning::Full-universe scan failed; keeping previous candidate cache."
-          fi
-
       - name: Build branch-published site
         run: python dashboard/scripts/build_static_site.py --out .
 

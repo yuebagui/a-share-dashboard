@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime
 from pathlib import Path
@@ -48,8 +49,19 @@ def is_excluded_name(name: str) -> bool:
     return "ST" in upper or "退" in name
 
 
-def scan_one(calculator, stock: dict[str, str], timeout: float) -> dict[str, Any]:
-    bars, source = calculator.fetch_bars(stock["code"], timeout=timeout)
+def scan_one(calculator, stock: dict[str, str], timeout: float, retries: int) -> dict[str, Any]:
+    last_error: Exception | None = None
+    for attempt in range(retries + 1):
+        try:
+            bars, source = calculator.fetch_bars(stock["code"], timeout=timeout)
+            break
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+            if attempt >= retries:
+                raise
+            time.sleep(1.5 * (attempt + 1))
+    else:
+        raise RuntimeError(str(last_error))
     last = bars[-1]
     previous_close = bars[-2].close if len(bars) >= 2 else last.close
     quote = calculator.Quote(
@@ -204,14 +216,26 @@ def main() -> int:
     parser.add_argument("--date", default=date.today().isoformat())
     parser.add_argument("--out", default=str(DEFAULT_OUT))
     parser.add_argument("--daily", default=str(DEFAULT_DAILY))
-    parser.add_argument("--workers", type=int, default=24)
-    parser.add_argument("--timeout", type=float, default=5.0)
+    parser.add_argument("--workers", type=int, default=6)
+    parser.add_argument("--timeout", type=float, default=8.0)
+    parser.add_argument("--retries", type=int, default=2)
     parser.add_argument("--limit", type=int, default=0, help="Development-only universe limit")
+    parser.add_argument("--shard-index", type=int, default=0)
+    parser.add_argument("--shard-count", type=int, default=1)
     args = parser.parse_args()
 
     ak = fetch_daily.import_akshare()
     calculator = fetch_daily.import_calculator()
     universe = get_universe(ak)
+    full_universe_size = len(universe)
+    if args.shard_count < 1 or not 0 <= args.shard_index < args.shard_count:
+        print("Invalid shard configuration.")
+        return 1
+    universe = [
+        stock
+        for index, stock in enumerate(universe)
+        if index % args.shard_count == args.shard_index
+    ]
     if args.limit > 0:
         universe = universe[: args.limit]
     if not universe:
@@ -222,7 +246,7 @@ def main() -> int:
     failures: list[str] = []
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
         futures = {
-            executor.submit(scan_one, calculator, stock, args.timeout): stock
+            executor.submit(scan_one, calculator, stock, args.timeout, args.retries): stock
             for stock in universe
         }
         for index, future in enumerate(as_completed(futures), 1):
@@ -235,6 +259,11 @@ def main() -> int:
                 print(f"scanned={index}/{len(universe)} success={len(candidates)} failed={len(failures)}")
 
     payload = build_payload(args.date, universe, candidates, failures)
+    payload["shard"] = {
+        "index": args.shard_index,
+        "count": args.shard_count,
+        "fullUniverseSize": full_universe_size,
+    }
     if payload["technicalCoverage"]["scored"] < max(10, int(len(universe) * 0.5)):
         print("Universe scan coverage is below 50%; keeping previous cache.")
         return 1
