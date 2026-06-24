@@ -1,6 +1,10 @@
 name: Scan full A-share candidate universe
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "dashboard/data/scan-request.txt"
   workflow_dispatch:
     inputs:
       trade_date:
