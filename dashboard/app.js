@@ -357,7 +357,17 @@ function renderCandidatePools() {
     target.innerHTML = `<div class="risk-item">暂无候选股票池，等待盘后数据生成。</div>`;
     return;
   }
-  target.innerHTML = pools
+  const coverage = candidatePools.technicalCoverage || {};
+  target.innerHTML = `
+    <div class="candidate-coverage">
+      <span>股票池 ${coverage.universe ?? "--"}</span>
+      <span>成功评分 ${coverage.scored ?? "--"}</span>
+      <span>大于60分 ${coverage.qualified ?? "--"}</span>
+      <span>失败 ${coverage.failed ?? "--"}</span>
+      <span>${escapeHtml(candidatePools.generatedAt || "--")}</span>
+    </div>
+    <div class="candidate-pool-grid">
+      ${pools
     .map(
       (pool) => `
         <article class="candidate-pool">
@@ -374,7 +384,9 @@ function renderCandidatePools() {
         </article>
       `,
     )
-    .join("");
+    .join("")}
+    </div>
+  `;
 }
 
 function renderCandidateItem(item) {

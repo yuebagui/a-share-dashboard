@@ -26,6 +26,7 @@ FILES = [
     ("data/daily.json", "data/daily.json"),
     ("data/refresh-status.json", "data/refresh-status.json"),
     ("data/sample.json", "data/sample.json"),
+    ("data/universe-candidates.json", "data/universe-candidates.json"),
 ]
 
 

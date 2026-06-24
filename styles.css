@@ -586,7 +586,26 @@ h1 {
 
 .candidate-pools {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.candidate-coverage {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.candidate-coverage span {
+  padding: 6px 8px;
+  color: var(--steel);
+  background: var(--surface-2);
+  border: 1px solid var(--line);
+  font-size: 12px;
+}
+
+.candidate-pool-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
 }
 
@@ -1265,7 +1284,7 @@ td {
   .main-grid,
   .flow-grid,
   .focus-grid,
-  .candidate-pools,
+  .candidate-pool-grid,
   .execution-items,
   .news-grid,
   .report-grid,
@@ -1299,7 +1318,7 @@ td {
   .flow-grid,
   .heat-bars,
   .focus-grid,
-  .candidate-pools,
+  .candidate-pool-grid,
   .execution-grid,
   .execution-items,
   .news-grid,

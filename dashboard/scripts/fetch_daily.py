@@ -24,6 +24,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 PROJECT_ROOT = ROOT.parent
 OUT_FILE = ROOT / "data" / "daily.json"
+UNIVERSE_CANDIDATES_FILE = ROOT / "data" / "universe-candidates.json"
 CALCULATOR_SCRIPT = PROJECT_ROOT / "skills" / "short-term-stock-calculator" / "scripts" / "calculator.py"
 TECHNICAL_SCORE_LIMIT_PER_POOL = 5
 NON_TRADING_BOARD_PATTERN = re.compile(
@@ -337,13 +338,15 @@ def build_daily(trade_date: str) -> dict[str, Any]:
         "maxLadder": max_ladder,
     }
     market_level = classify_market_level(emotion.get("score", 0), temperature)
-    candidate_pools = build_candidate_pools(limit_ups, broken_boards, focus_boards, market_level)
-    candidate_pools = safe_call(
-        lambda: enrich_candidate_pools_with_technical(candidate_pools, errors),
-        candidate_pools,
-        errors,
-        "candidate-technical",
-    )
+    event_candidate_pools = build_candidate_pools(limit_ups, broken_boards, focus_boards, market_level)
+    candidate_pools = load_universe_candidate_pools(market_level, errors)
+    if not candidate_pools:
+        candidate_pools = safe_call(
+            lambda: enrich_candidate_pools_with_technical(event_candidate_pools, errors),
+            event_candidate_pools,
+            errors,
+            "candidate-technical",
+        )
     news_brief = safe_call(
         lambda: build_news_brief(ak, trade_date, focus_boards),
         build_empty_news_brief(trade_date, ["news: source unavailable"]),
@@ -973,6 +976,24 @@ def build_candidate_pools(
             },
         ],
     }
+
+
+def load_universe_candidate_pools(market_level: str, errors: list[str]) -> dict[str, Any] | None:
+    if not UNIVERSE_CANDIDATES_FILE.exists():
+        return None
+    try:
+        payload = json.loads(UNIVERSE_CANDIDATES_FILE.read_text(encoding="utf-8"))
+        pools = payload.get("pools") or []
+        if not pools:
+            return None
+        return {
+            **payload,
+            "marketLevel": market_level,
+            "source": "full-universe technical scan",
+        }
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"universe-candidates: {exc}")
+        return None
 
 
 def enrich_candidate_pools_with_technical(candidate_pools: dict[str, Any], errors: list[str]) -> dict[str, Any]:
