@@ -1,12 +1,10 @@
 {
   "meta": {
-    "tradeDate": "2026-06-25",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-06-25 20:15:40",
+    "tradeDate": "2026-06-26",
+    "phase": "盘中快照",
+    "generatedAt": "2026-06-26 00:36:26",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [
-      "limit-downs: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    ]
+    "errors": []
   },
   "indices": [
     {
@@ -47,10 +45,10 @@
     "note": "沪市+深市；创业板、科创板已包含在对应市场，不重复累计。"
   },
   "emotion": {
-    "score": 100,
+    "score": 93,
     "tag": "强势",
     "title": "赚钱效应强，围绕主线前排做确认",
-    "brief": "涨停 86 家，跌停 0 家，炸板 31 家，连板 16 家，最高 5 板。",
+    "brief": "涨停 86 家，跌停 17 家，炸板 31 家，连板 16 家，最高 5 板。",
     "factors": [
       {
         "label": "涨停家数",
@@ -59,7 +57,7 @@
       },
       {
         "label": "跌停家数",
-        "value": "0",
+        "value": "17",
         "valueClass": "down"
       },
       {
@@ -76,7 +74,7 @@
   },
   "temperature": {
     "limitUp": 86,
-    "limitDown": 0,
+    "limitDown": 17,
     "failRate": 26,
     "maxLadder": 5
   },
@@ -2075,10 +2073,165 @@
   ],
   "risks": [
     "今日炸板 31 只，追高前先看前排封单和回封质量。",
+    "今日跌停 17 只，负反馈未完全消失，后排题材容错率下降。",
     "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
     "板块资金是短线情绪线索，不替代公告、财报和订单验证。"
   ],
-  "limitDowns": [],
+  "limitDowns": [
+    {
+      "code": "003013",
+      "name": "地铁设计",
+      "changePct": "-10.02",
+      "tags": [
+        "工程咨询"
+      ],
+      "reason": "连续跌停 1，封单 9.4万，开板 21 次"
+    },
+    {
+      "code": "603716",
+      "name": "塞力医疗",
+      "changePct": "-9.99",
+      "tags": [
+        "医药商业"
+      ],
+      "reason": "连续跌停 1，封单 117.7万，开板 6 次"
+    },
+    {
+      "code": "002072",
+      "name": "凯瑞德",
+      "changePct": "-10.02",
+      "tags": [
+        "贸易Ⅱ"
+      ],
+      "reason": "连续跌停 1，封单 154.1万，开板 6 次"
+    },
+    {
+      "code": "603790",
+      "name": "雅运股份",
+      "changePct": "-9.98",
+      "tags": [
+        "化学制品"
+      ],
+      "reason": "连续跌停 1，封单 396.0万，开板 11 次"
+    },
+    {
+      "code": "002946",
+      "name": "新乳业",
+      "changePct": "-10.00",
+      "tags": [
+        "饮料乳品"
+      ],
+      "reason": "连续跌停 1，封单 441.4万，开板 13 次"
+    },
+    {
+      "code": "002354",
+      "name": "天娱数科",
+      "changePct": "-9.98",
+      "tags": [
+        "广告营销"
+      ],
+      "reason": "连续跌停 1，封单 448.3万，开板 22 次"
+    },
+    {
+      "code": "605566",
+      "name": "福莱蒽特",
+      "changePct": "-10.00",
+      "tags": [
+        "化学制品"
+      ],
+      "reason": "连续跌停 2，封单 504.7万，开板 6 次"
+    },
+    {
+      "code": "001211",
+      "name": "双枪科技",
+      "changePct": "-9.98",
+      "tags": [
+        "家居用品"
+      ],
+      "reason": "连续跌停 1，封单 548.1万，开板 0 次"
+    },
+    {
+      "code": "603177",
+      "name": "德创环保",
+      "changePct": "-9.95",
+      "tags": [
+        "环境治理"
+      ],
+      "reason": "连续跌停 1，封单 602.6万，开板 30 次"
+    },
+    {
+      "code": "603578",
+      "name": "三星新材",
+      "changePct": "-10.01",
+      "tags": [
+        "家电零部"
+      ],
+      "reason": "连续跌停 1，封单 721.7万，开板 14 次"
+    },
+    {
+      "code": "600719",
+      "name": "大连热电",
+      "changePct": "-9.99",
+      "tags": [
+        "电力"
+      ],
+      "reason": "连续跌停 1，封单 727.0万，开板 8 次"
+    },
+    {
+      "code": "002397",
+      "name": "梦洁股份",
+      "changePct": "-9.93",
+      "tags": [
+        "服装家纺"
+      ],
+      "reason": "连续跌停 1，封单 1006.8万，开板 14 次"
+    },
+    {
+      "code": "002687",
+      "name": "乔治白",
+      "changePct": "-10.06",
+      "tags": [
+        "服装家纺"
+      ],
+      "reason": "连续跌停 1，封单 1467.4万，开板 4 次"
+    },
+    {
+      "code": "603318",
+      "name": "水发燃气",
+      "changePct": "-9.98",
+      "tags": [
+        "燃气Ⅱ"
+      ],
+      "reason": "连续跌停 2，封单 1802.1万，开板 7 次"
+    },
+    {
+      "code": "002931",
+      "name": "锋龙股份",
+      "changePct": "-10.00",
+      "tags": [
+        "通用设备"
+      ],
+      "reason": "连续跌停 1，封单 4172.9万，开板 4 次"
+    },
+    {
+      "code": "603201",
+      "name": "常润股份",
+      "changePct": "-9.99",
+      "tags": [
+        "汽车零部"
+      ],
+      "reason": "连续跌停 2，封单 4172.9万，开板 6 次"
+    },
+    {
+      "code": "688639",
+      "name": "华恒生物",
+      "changePct": "-20.00",
+      "tags": [
+        "化学制品"
+      ],
+      "reason": "连续跌停 1，封单 2.1亿，开板 0 次"
+    }
+  ],
   "watchPlan": [
     {
       "title": "最强概念",
@@ -2098,7 +2251,7 @@
     "generatedAt": "2026-06-25 18:27:34",
     "scoreThreshold": 60,
     "universe": "沪深主板+创业板，排除ST/退市/数据不足",
-    "marketLevel": "强",
+    "marketLevel": "中",
     "summary": [
       {
         "title": "沪深主板",
@@ -65558,11 +65711,11 @@
     "source": "full-universe technical scan"
   },
   "executionPlan": {
-    "marketLevel": "强",
-    "emotionScore": 100,
-    "totalPosition": "75%-100%",
-    "singlePosition": "不超过50%",
-    "stance": "可主动围绕主线前排做确认，但后排只看不追。",
+    "marketLevel": "中",
+    "emotionScore": 93,
+    "totalPosition": "50%-75%",
+    "singlePosition": "不超过35%",
+    "stance": "只做主线核心和容量确认，等待分歧后的承接。",
     "focusThemes": [
       "元件",
       "证券",
@@ -65718,213 +65871,253 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-06-25",
-    "generatedAt": "2026-06-25 20:16:53",
+    "tradeDate": "2026-06-26",
+    "generatedAt": "2026-06-26 00:37:20",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 金融、有色稀土、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
-        "name": "金融",
+        "name": "有色稀土",
         "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
+        "name": "金融",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "国民技术:关于股东部分A股股份解质押及质押的公告",
-        "summary": "国民技术(300077)：国民技术:关于股东部分A股股份解质押及质押的公告",
-        "publishedAt": "2026-06-25",
+        "title": "长电科技:江苏长电科技股份有限公司股票交易价格异常波动公告",
+        "summary": "长电科技(600584)：长电科技:江苏长电科技股份有限公司股票交易价格异常波动公告",
+        "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300077/AN202606251823855365.html",
+        "url": "https://data.eastmoney.com/notices/detail/600584/AN202606251823863177.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "国民技术(300077)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "立华股份:关于实际控制人之一致行动人股份质押展期的公告",
-        "summary": "立华股份(300761)：立华股份:关于实际控制人之一致行动人股份质押展期的公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300761/AN202606251823855285.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "立华股份(300761)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "长荣股份:关于公司股价异动的公告",
-        "summary": "长荣股份(300195)：长荣股份:关于公司股价异动的公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300195/AN202606251823855069.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "长荣股份(300195)"
+          "长电科技(600584)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "银邦股份:银邦股份关于公司持股5%以上股东减持股份计划实施完毕的公告",
-        "summary": "银邦股份(300337)：银邦股份:银邦股份关于公司持股5%以上股东减持股份计划实施完毕的公告",
-        "publishedAt": "2026-06-25",
+        "title": "*ST中基:第十届董事会第二十四次临时会议决议公告",
+        "summary": "*ST中基(000972)：*ST中基:第十届董事会第二十四次临时会议决议公告",
+        "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300337/AN202606251823854875.html",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862823.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "银邦股份(300337)"
+          "*ST中基(000972)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "董事会决议公告"
       },
       {
-        "title": "多浦乐:关于持股5%以上股东股份触及1%整数倍的提示性公告",
-        "summary": "多浦乐(301528)：多浦乐:关于持股5%以上股东股份触及1%整数倍的提示性公告",
-        "publishedAt": "2026-06-25",
+        "title": "*ST中基:关于深圳证券交易所2025年年报问询函的回复公告",
+        "summary": "*ST中基(000972)：*ST中基:关于深圳证券交易所2025年年报问询函的回复公告",
+        "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301528/AN202606251823854738.html",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862818.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST中基(000972)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "*ST中基:中基健康产业股份有限公司2025年半年度报告(更正后)",
+        "summary": "*ST中基(000972)：*ST中基:中基健康产业股份有限公司2025年半年度报告(更正后)",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862824.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "多浦乐(301528)"
+          "*ST中基(000972)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "半年度报告全文"
       },
       {
-        "title": "新特电气：控股股东、实控人及其一致行动人拟合计减持不超3%公司股份",
-        "summary": "【新特电气：控股股东、实控人及其一致行动人拟合计减持不超3%公司股份】新特电气公告，控股股东、实际控制人及其一致行动人谭勇、宗丽丽、李淑芹和宗宝峰计划以集中竞价或大宗交易方式减持公司股份数量不超过1119.37万股，占公司总股本的比例为3%。",
-        "publishedAt": "2026-06-25 20:11:20",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783279124.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "*ST中基:关于前期会计差错更正的公告",
+        "summary": "*ST中基(000972)：*ST中基:关于前期会计差错更正的公告",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862820.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "*ST中基(000972)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "会计差错更正公告"
       },
       {
-        "title": "天虹股份：持股5%以上股东五龙公司拟减持不超3%股份",
-        "summary": "【天虹股份：持股5%以上股东五龙公司拟减持不超3%股份】6月25日，天虹股份(002419.SZ)公告称，公司持股5%以上股东五龙贸易有限公司计划自2026年7月20日起的3个月内，以集中竞价、大宗交易方式减持公司股份不超过34,237,696股，即不超过公司总股本的3%。",
-        "publishedAt": "2026-06-25 20:08:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783277723.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "*ST中基:中基健康产业股份有限公司2025年第三季度报告(更正后)",
+        "summary": "*ST中基(000972)：*ST中基:中基健康产业股份有限公司2025年第三季度报告(更正后)",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862817.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "*ST中基(000972)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "三季度报告全文"
       },
       {
-        "title": "捷安高科：股东拟减持不超200万股公司股份",
-        "summary": "【捷安高科：股东拟减持不超200万股公司股份】捷安高科(300845.SZ)公告称，持股4.2396%的股东南京嘉景企业管理合伙企业（有限合伙）拟以集中竞价方式减持公司股份不超过200万股，占公司总股本比例不超过0.9726%。",
-        "publishedAt": "2026-06-25 20:00:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783259279.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "*ST中基:中基健康2025年年报会计师问询函回复-中兴华报字(2026)第630005号",
+        "summary": "*ST中基(000972)：*ST中基:中基健康2025年年报会计师问询函回复-中兴华报字(2026)第630005号",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862822.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "*ST中基(000972)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "市场监管总局发布《网络销售重点工业产品清单（2026年版）》",
-        "summary": "【市场监管总局发布《网络销售重点工业产品清单（2026年版）》】为加强网络销售重点工业产品质量安全监管，市场监管总局制定了《网络销售重点工业产品清单（2026年版）》，现予公告，自2026年12月1日起施行。对纳入清单的重点工业产品，电子商务经营者应当严格履行《网络销售重点工业产品质量安全监督管理规定》的各项义务。",
-        "publishedAt": "2026-06-25 19:55:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783257690.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "*ST中基:关于公司股票交易撤销退市风险警示暨股票停复牌的公告",
+        "summary": "*ST中基(000972)：*ST中基:关于公司股票交易撤销退市风险警示暨股票停复牌的公告",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862819.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "*ST中基(000972)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "撤销退市风险警示"
       },
       {
-        "title": "昀冢科技：5月7日至6月25日股价累计上涨277.95% 明起停牌核查",
-        "summary": "【昀冢科技：5月7日至6月25日股价累计上涨277.95% 明起停牌核查】昀冢科技(688260.SH)公告称，公司股票自2026年5月7日至6月25日期间多次触及异常波动及严重异常波动，累计上涨277.95%，显著偏离基本面。为维护投资者利益，公司股票将于2026年6月26日开市起停牌，预计停牌不超过3个交易日。公司基本面未发生重大变化，MLCC业务主要…",
-        "publishedAt": "2026-06-25 19:52:00",
+        "title": "*ST中基:关于前期会计差错更正后的财务报表",
+        "summary": "*ST中基(000972)：*ST中基:关于前期会计差错更正后的财务报表",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862821.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST中基(000972)"
+        ],
+        "importance": 1,
+        "noticeType": "会计差错更正公告"
+      },
+      {
+        "title": "*ST中基:中基健康产业股份有限公司2025年年度报告(更正后)",
+        "summary": "*ST中基(000972)：*ST中基:中基健康产业股份有限公司2025年年度报告(更正后)",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000972/AN202606251823862806.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST中基(000972)"
+        ],
+        "importance": 1,
+        "noticeType": "年度报告全文"
+      },
+      {
+        "title": "北大荒:关于《黑龙江北大荒农业股份有限公司股票交易异常波动有关事项的询证函》的回函",
+        "summary": "北大荒(600598)：北大荒:关于《黑龙江北大荒农业股份有限公司股票交易异常波动有关事项的询证函》的回函",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600598/AN202606251823861412.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "北大荒(600598)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "波斯湾原油出口反弹至本轮冲突前水平的75%",
+        "summary": "波斯湾原油出口反弹至本轮冲突前水平的75%。",
+        "publishedAt": "2026-06-26 00:07:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783255347.html",
+        "url": "https://finance.eastmoney.com/a/202606263783469177.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "AI算力"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "光库科技:关于全资子公司拟签订物业租赁合同暨关联交易的公告",
-        "summary": "光库科技(300620)：光库科技:关于全资子公司拟签订物业租赁合同暨关联交易的公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300620/AN202606251823855441.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "惠丰钻石：公司散热产品收入极少 占营业收入比例极低",
+        "summary": "【惠丰钻石：公司散热产品收入极少 占营业收入比例极低】惠丰钻石发布风险提示公告，公司是一家专业从事人造金刚石单晶微粉、微粉延伸应用产品及CVD金刚石材料的研发、生产和销售的高新技术企业，主要产品包括金刚石微粉、金刚石破碎整形料及CVD培育钻石等。经自查，公司目前生产经营情况正常，公司主营业务未发生重大变化。近期金刚石散热应用相关概念关注度较高，但截至目前，…",
+        "publishedAt": "2026-06-25 23:38:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606253783461671.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "光库科技(300620)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": ""
       },
       {
-        "title": "光库科技:中信证券股份有限公司关于珠海光库科技股份有限公司全资子公司拟签订物业租赁合同暨关联交易的核查意见",
-        "summary": "光库科技(300620)：光库科技:中信证券股份有限公司关于珠海光库科技股份有限公司全资子公司拟签订物业租赁合同暨关联交易的核查意见",
-        "publishedAt": "2026-06-25",
+        "title": "城投控股:上海城投控股股份有限公司关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
+        "summary": "城投控股(600649)：城投控股:上海城投控股股份有限公司关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
+        "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300620/AN202606251823855442.html",
+        "url": "https://data.eastmoney.com/notices/detail/600649/AN202606251823863786.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -65932,108 +66125,67 @@
           "金融"
         ],
         "tickers": [
-          "光库科技(300620)"
+          "城投控股(600649)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "回购进展情况"
       },
       {
-        "title": "力合科技:关于高级管理人员增持公司股份的公告",
-        "summary": "力合科技(300800)：力合科技:关于高级管理人员增持公司股份的公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300800/AN202606251823855081.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "力合科技(300800)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "软通动力:2026年6月25日-投资者关系活动记录表",
-        "summary": "软通动力(301236)：软通动力:2026年6月25日-投资者关系活动记录表",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301236/AN202606251823854677.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "软通动力(301236)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "博盈特焊:2026年6月25日投资者关系活动记录表",
-        "summary": "博盈特焊(301468)：博盈特焊:2026年6月25日投资者关系活动记录表",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301468/AN202606251823854102.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博盈特焊(301468)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "孩子王:2026年06月25日投资者关系活动记录表",
-        "summary": "孩子王(301078)：孩子王:2026年06月25日投资者关系活动记录表",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301078/AN202606251823854315.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "孩子王(301078)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "可孚医疗:关于回购公司股份实施结果暨股份变动公告",
-        "summary": "可孚医疗(301087)：可孚医疗:关于回购公司股份实施结果暨股份变动公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301087/AN202606251823854595.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药",
-          "金融"
-        ],
-        "tickers": [
-          "可孚医疗(301087)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "派林生物：回购公司股份比例达到1%",
-        "summary": "【派林生物：回购公司股份比例达到1%】派林生物6月25日公告，截至2026年6月25日，公司通过回购专用账户以集中竞价方式回购公司股份10,551,791股，占公司总股本的1.11%。",
-        "publishedAt": "2026-06-25 19:51:15",
+        "title": "美最高法院裁决支持特朗普强硬移民政策",
+        "summary": "【美最高法院裁决支持特朗普强硬移民政策】美国最高法院25日作出两项有关移民案件的关键裁决，支持特朗普政府的强硬移民政策。其中一项裁决允许特朗普政府取消数十万名海地和叙利亚移民享有的临时保护身份，这将使他们失去免于被驱逐的法律保护。另一项裁决则允许特朗普政府实施阻止寻求庇护者踏上美国领土的相关政策。",
+        "publishedAt": "2026-06-26 00:10:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783255878.html",
+        "url": "https://finance.eastmoney.com/a/202606263783469542.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至6月24日美联储资产负债表(万亿美元)",
+        "summary": "美国截至6月24日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.74。",
+        "publishedAt": "2026-06-26 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月25日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国6月25日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 469.3。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月25日iShares白银持仓-每日更新(吨)",
+        "summary": "美国6月25日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 14918.0。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -66258,12 +66410,12 @@
     }
   ],
   "reports": {
-    "active": "post-market",
-    "marketLevel": "强",
+    "active": "noon",
+    "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
-      "total": "75%-100%",
-      "single": "不超过50%"
+      "total": "50%-75%",
+      "single": "不超过35%"
     },
     "disclaimer": "免责声明：本页面内容仅为个人/团队交易复盘、数据整理与策略研究记录，不构成任何投资建议、收益承诺或买卖依据。市场有风险，交易需独立判断并自行承担风险。",
     "items": [
@@ -66271,15 +66423,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-25 20:16:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 金融、有色稀土、医药。",
+        "generatedAt": "2026-06-26 00:37:20",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
-              "市场温度参考为强，总仓位按75%-100%控制。",
+              "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：元件、证券、共封装光学(CPO)；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -66310,13 +66462,13 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-06-25 20:15:40",
-        "summary": "上午情绪分 100，涨停 86 家，跌停 0 家，炸板 31 家，连板 16 家，最高 5 板。",
+        "generatedAt": "2026-06-26 00:36:26",
+        "summary": "上午情绪分 93，涨停 86 家，跌停 17 家，炸板 31 家，连板 16 家，最高 5 板。",
         "sections": [
           {
             "title": "上午盘面",
             "items": [
-              "涨停 86 家，跌停 0 家，炸板率 26%，最高连板 5 板。",
+              "涨停 86 家，跌停 17 家，炸板率 26%，最高连板 5 板。",
               "主线候选：元件、证券、共封装光学(CPO)；首看 元件 的前排承接和中军量能。",
               "弱势方向：贵金属、IT服务、汽车零部件，相关后排不做反包幻想。"
             ]
@@ -66325,7 +66477,7 @@
             "title": "午后执行",
             "items": [
               "午后可围绕主线核心做确认，优先等分歧承接。",
-              "单票仓位上限参考 不超过50%，不在一致加速时追后排。",
+              "单票仓位上限参考 不超过35%，不在一致加速时追后排。",
               "若炸板和跌停继续扩大，停止开新仓，只观察核心承接。"
             ]
           }
@@ -66349,15 +66501,15 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-06-25 20:15:40",
-        "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
+        "generatedAt": "2026-06-26 00:36:26",
+        "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
             "title": "市场温度",
             "items": [
-              "情绪分 100，涨停 86，跌停 0，炸板 31。",
-              "连板高度 5 板，当前仓位纪律：总仓位 75%-100%，单票 不超过50%。",
-              "今日负反馈：跌停 0 只，炸板 31 只。"
+              "情绪分 93，涨停 86，跌停 17，炸板 31。",
+              "连板高度 5 板，当前仓位纪律：总仓位 50%-75%，单票 不超过35%。",
+              "今日负反馈：跌停 17 只，炸板 31 只。"
             ]
           },
           {
@@ -66366,16 +66518,16 @@
               "主线候选：元件、证券、共封装光学(CPO)；首看 元件 的前排承接和中军量能。",
               "连板前排：兴业科技5板、宏柏新材3板、太极实业2板、返利科技2板、亚翔集成2板。只看换手承接和板块带动，不追一致后排。",
               "明日候选观察：沪深主板 >60：中原证券、永茂泰；创业板 >60：洁雅股份、亿纬锂能。",
-              "明日执行首看：洁雅股份(首看)、中原证券(首看)、永茂泰(首看)、药明康德(首看)；总仓位上限 75%-100%。"
+              "明日执行首看：洁雅股份(首看)、中原证券(首看)、永茂泰(首看)、药明康德(首看)；总仓位上限 50%-75%。"
             ]
           },
           {
             "title": "风险与纪律",
             "items": [
               "今日炸板 31 只，追高前先看前排封单和回封质量。",
+              "今日跌停 17 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：国民技术:关于股东部分A股股份解质押及质押的公告；立华股份:关于实际控制人之一致行动人股份质押展期的公告。",
+              "新闻/公告风险：长电科技:江苏长电科技股份有限公司股票交易价格异常波动公告；*ST中基:第十届董事会第二十四次临时会议决议公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
