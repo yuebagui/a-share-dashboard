@@ -561,7 +561,7 @@ function renderScoreMetric(label, value) {
 }
 
 function renderIndices() {
-  const html = dashboardData.indices
+  const indexHtml = dashboardData.indices
     .map((item) => {
       const trendClass = item.changePct > 0 ? "up" : item.changePct < 0 ? "down" : "flat";
       return `
@@ -569,11 +569,23 @@ function renderIndices() {
           <small>${item.name}</small>
           <strong>${item.price}</strong>
           <span class="${trendClass}">${formatSigned(item.changePct)}%</span>
+          <em>成交 ${escapeHtml(item.turnover || "--")}</em>
         </article>
       `;
     })
     .join("");
-  document.getElementById("indexStrip").innerHTML = html;
+  const marketTurnover = dashboardData.marketTurnover;
+  const turnoverHtml = marketTurnover
+    ? `
+      <article class="ticker-card turnover-card" title="${escapeHtml(marketTurnover.note || "")}">
+        <small>${escapeHtml(marketTurnover.label || "两市成交额")}</small>
+        <strong>${escapeHtml(marketTurnover.amount || "--")}</strong>
+        <span class="flat">沪 ${escapeHtml(marketTurnover.shanghai || "--")} · 深 ${escapeHtml(marketTurnover.shenzhen || "--")}</span>
+        <em>不重复计入创业板/科创板</em>
+      </article>
+    `
+    : "";
+  document.getElementById("indexStrip").innerHTML = indexHtml + turnoverHtml;
 }
 
 function renderEmotion() {

@@ -82,11 +82,14 @@ def get_indices_sina(ak) -> list[dict[str, Any]]:
         if row.empty:
             continue
         item = row.iloc[0]
+        turnover_value = to_float(item.get("成交额"))
         result.append(
             {
                 "name": display_name,
                 "price": f"{to_float(item.get('最新价')):,.2f}",
                 "changePct": round(to_float(item.get("涨跌幅")), 2),
+                "turnover": market_amount_text(turnover_value),
+                "turnoverValue": turnover_value,
             }
         )
     return result
@@ -106,11 +109,14 @@ def get_indices_eastmoney(ak) -> list[dict[str, Any]]:
         if row.empty:
             continue
         item = row.iloc[0]
+        turnover_value = to_float(item.get("成交额"))
         result.append(
             {
                 "name": display_name,
                 "price": f"{to_float(item.get('最新价')):,.2f}",
                 "changePct": round(to_float(item.get("涨跌幅")), 2),
+                "turnover": market_amount_text(turnover_value),
+                "turnoverValue": turnover_value,
             }
         )
     return result
@@ -364,6 +370,7 @@ def build_daily(trade_date: str) -> dict[str, Any]:
             "errors": errors,
         },
         "indices": indices,
+        "marketTurnover": build_market_turnover(indices),
         "emotion": emotion,
         "temperature": temperature,
         "discipline": [
@@ -1772,6 +1779,30 @@ def amount_text(value) -> str:
     if abs(number) >= 10000:
         return f"{number / 10000:.1f}万"
     return f"{number:.0f}"
+
+
+def market_amount_text(value) -> str:
+    number = to_float(value)
+    if abs(number) >= 1000000000000:
+        return f"{number / 1000000000000:.2f}万亿"
+    if abs(number) >= 100000000:
+        return f"{number / 100000000:.0f}亿"
+    return amount_text(number)
+
+
+def build_market_turnover(indices: list[dict[str, Any]]) -> dict[str, Any]:
+    by_name = {item.get("name"): item for item in indices}
+    shanghai = to_float(by_name.get("上证指数", {}).get("turnoverValue"))
+    shenzhen = to_float(by_name.get("深证成指", {}).get("turnoverValue"))
+    total = shanghai + shenzhen
+    return {
+        "label": "两市成交额",
+        "amount": market_amount_text(total) if total else "--",
+        "amountValue": total,
+        "shanghai": market_amount_text(shanghai) if shanghai else "--",
+        "shenzhen": market_amount_text(shenzhen) if shenzhen else "--",
+        "note": "沪市+深市；创业板、科创板已包含在对应市场，不重复累计。",
+    }
 
 
 def time_text(value) -> str:
