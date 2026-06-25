@@ -1,12 +1,14 @@
 {
   "meta": {
     "tradeDate": "2026-06-25",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-06-25 18:35:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": [
       "candidate-technical partial failures: 600584:eastmoney: Remote end closed connection without response; tencent: HTTP Error 501: Not Implemented | 000823:eastmoney: Remote end closed connection without response; tencent: HTTP Error 501: Not Implemented | 002080:eastmoney: Remote end closed connection without response; tencent: HTTP Error 501: Not Implemented | 002674:eastmoney: Remote end closed connection without response; tencent: HTTP Error 501: Not Implemented | 603678:eastmoney: Remote end closed connection without response; tencent: HTTP Error 501: Not Implemented | 300223:eastmoney: Remote end closed connection without response; tencent: HTTP Error 501: Not Implemented"
-    ]
+    ],
+    "marketGeneratedAt": "2026-06-25 18:35:07",
+    "lastNewsAt": "2026-06-25 19:13:40"
   },
   "indices": [
     {
@@ -3094,29 +3096,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-06-25",
-    "generatedAt": "2026-06-25 18:35:33",
+    "generatedAt": "2026-06-25 19:13:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 有色稀土、金融、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 有色稀土、金融、半导体。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 5,
+        "score": 14,
         "isFocusBoard": false
       },
       {
@@ -3130,242 +3122,285 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 3,
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST云创:关于公司股票将被终止上市的风险提示公告",
-        "summary": "*ST云创(920305)：*ST云创:关于公司股票将被终止上市的风险提示公告",
+        "title": "利和兴:股票交易严重异常波动公告",
+        "summary": "利和兴(301013)：利和兴:股票交易严重异常波动公告",
         "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920305/AN202606251823852837.html",
+        "url": "https://data.eastmoney.com/notices/detail/301013/AN202606251823854584.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST云创(920305)"
-        ],
-        "importance": 1,
-        "noticeType": "终止上市风险提示"
-      },
-      {
-        "title": "龙磁科技:股票交易异常波动公告",
-        "summary": "龙磁科技(300835)：龙磁科技:股票交易异常波动公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300835/AN202606251823852260.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "龙磁科技(300835)"
+          "利和兴(301013)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "8-1发行人及中介机构关于审核中心落实意见函的回复(深圳核心医疗科技股份有限公司)",
-        "summary": "核心医疗(A25243)：8-1发行人及中介机构关于审核中心落实意见函的回复(深圳核心医疗科技股份有限公司)",
+        "title": "关于对广州市嘉诚国际物流股份有限公司及有关责任人予以监管警示的决定",
+        "summary": "嘉诚国际(603535)：关于对广州市嘉诚国际物流股份有限公司及有关责任人予以监管警示的决定",
         "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A25243/AN202606251823851822.html",
+        "url": "https://data.eastmoney.com/notices/detail/603535/AN202606251823854314.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "核心医疗(A25243)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板发行上市问询与回复"
-      },
-      {
-        "title": "同力股份:首次回购股份暨回购进展情况公告",
-        "summary": "同力股份(920599)：同力股份:首次回购股份暨回购进展情况公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920599/AN202606251823852879.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "同力股份(920599)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "京东方Ａ:028-2026年6月25日投资者关系活动记录表",
-        "summary": "京东方A(000725)：京东方Ａ:028-2026年6月25日投资者关系活动记录表",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000725/AN202606251823852589.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [],
         "tickers": [
-          "京东方A(000725)"
+          "嘉诚国际(603535)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "上交所股票监管关注"
       },
       {
-        "title": "维科精密:投资者关系活动记录表",
-        "summary": "维科精密(301499)：维科精密:投资者关系活动记录表",
+        "title": "火星人:关于控股股东、实际控制人部分股份质押的公告",
+        "summary": "火星人(300894)：火星人:关于控股股东、实际控制人部分股份质押的公告",
         "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301499/AN202606251823852220.html",
+        "url": "https://data.eastmoney.com/notices/detail/300894/AN202606251823854223.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "维科精密(301499)"
+          "火星人(300894)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "湖北宜化:2026年6月25日投资者关系活动记录表",
-        "summary": "湖北宜化(000422)：湖北宜化:2026年6月25日投资者关系活动记录表",
+        "title": "通用电梯:关于实际控制人减持股份比例触及1%及5%整数倍暨披露《简式权益变动报告书》的提示性公告",
+        "summary": "通用电梯(300931)：通用电梯:关于实际控制人减持股份比例触及1%及5%整数倍暨披露《简式权益变动报告书》的提示性公告",
         "publishedAt": "2026-06-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000422/AN202606251823852027.html",
+        "url": "https://data.eastmoney.com/notices/detail/300931/AN202606251823854227.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "湖北宜化(000422)"
+          "通用电梯(300931)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "权益变动报告书"
       },
       {
-        "title": "华锐精密:投资者关系活动记录表(2026年6月24日至2026年6月25日)",
-        "summary": "华锐精密(688059)：华锐精密:投资者关系活动记录表(2026年6月24日至2026年6月25日)",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688059/AN202606251823852157.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华锐精密(688059)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "深圳机场:2026年6月23日投资者关系活动记录表",
-        "summary": "深圳机场(000089)：深圳机场:2026年6月23日投资者关系活动记录表",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000089/AN202606251823851425.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深圳机场(000089)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "山东路桥:山东高速路桥集团股份有限公司2025年面向专业投资者公开发行科技创新公司债券(第一期)2026年付息公告",
-        "summary": "山东路桥(000498)：山东路桥:山东高速路桥集团股份有限公司2025年面向专业投资者公开发行科技创新公司债券(第一期)2026年付息公告",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000498/AN202606251823851764.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "山东路桥(000498)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "潞化科技:山西潞安化工科技股份有限公司2025年年度业绩说明会问答总结",
-        "summary": "潞化科技(600691)：潞化科技:山西潞安化工科技股份有限公司2025年年度业绩说明会问答总结",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600691/AN202606251823851607.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "潞化科技(600691)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "新亚制程:002388新亚制程投资者关系管理信息20260625",
-        "summary": "新亚制程(002388)：新亚制程:002388新亚制程投资者关系管理信息20260625",
-        "publishedAt": "2026-06-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002388/AN202606251823851556.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新亚制程(002388)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "全球首个低轨通信星座全栈开源生态发布",
-        "summary": "【全球首个低轨通信星座全栈开源生态发布】在MWC 上海期间，时空道宇发布全球首个低轨通信星座全栈开源生态，截至目前累计收获超两百家生态合作伙伴合作意向，现场签约订单规模突破亿元，覆盖智能网联、海洋渔业、工程机械、能源、低空经济、智慧农业等领域。",
-        "publishedAt": "2026-06-25 18:16:38",
+        "title": "市场监管总局召开2026年第二次企业公平竞争座谈会",
+        "summary": "【市场监管总局召开2026年第二次企业公平竞争座谈会】6月25日，市场监管总局召开2026年第二次企业公平竞争座谈会。来自制造业、人工智能、医药、建筑等领域7家企业负责人，围绕“破除各种卡点堵点，维护市场公平竞争”进行交流。总局党组成员、副局长孟扬主持座谈会并讲话。",
+        "publishedAt": "2026-06-25 19:10:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783200372.html",
+        "url": "https://finance.eastmoney.com/a/202606253783225136.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
-          "低空经济",
-          "能源"
+          "AI算力",
+          "医药"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "牧原股份：拟以3亿港元-5亿港元回购公司H股股份",
-        "summary": "【牧原股份：拟以3亿港元-5亿港元回购公司H股股份】牧原股份(002714.SZ)公告称，公司董事会审议通过H股回购方案，拟回购总金额不低于3亿港元且不超过5亿港元的H股股份，资金来源为自有资金或自筹资金。",
-        "publishedAt": "2026-06-25 18:12:01",
+        "title": "嘉诚国际：公司及相关责任人收到广东证监局警示函",
+        "summary": "【嘉诚国际：公司及相关责任人收到广东证监局警示函】嘉诚国际6月25日公告，公司于近日收到中国证券监督管理委员会广东监管局下发的《关于对广州市嘉诚国际物流股份有限公司采取责令改正措施并对段容文等采取出具警示函措施的决定》。",
+        "publishedAt": "2026-06-25 19:02:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783199186.html",
+        "url": "https://finance.eastmoney.com/a/202606253783221723.html",
         "category": "market",
         "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "爱尔眼科:关于部分募集资金投资项目延期的公告",
+        "summary": "爱尔眼科(300015)：爱尔眼科:关于部分募集资金投资项目延期的公告",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300015/AN202606251823854587.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "爱尔眼科(300015)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "信德新材:2026年6月25日投资者关系活动记录表",
+        "summary": "信德新材(301349)：信德新材:2026年6月25日投资者关系活动记录表",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301349/AN202606251823854316.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "信德新材(301349)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华立科技:关于调整2024年股票期权与限制性股票激励计划相关权益价格的公告",
+        "summary": "华立科技(301011)：华立科技:关于调整2024年股票期权与限制性股票激励计划相关权益价格的公告",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301011/AN202606251823854395.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华立科技(301011)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "爱尔眼科:华泰联合证券有限责任公司关于爱尔眼科医院集团股份有限公司部分募集资金投资项目延期的核查意见",
+        "summary": "爱尔眼科(300015)：爱尔眼科:华泰联合证券有限责任公司关于爱尔眼科医院集团股份有限公司部分募集资金投资项目延期的核查意见",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300015/AN202606251823854400.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
           "金融"
         ],
+        "tickers": [
+          "爱尔眼科(300015)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "博盈特焊:2026年6月23日投资者关系活动记录表（更新后）",
+        "summary": "博盈特焊(301468)：博盈特焊:2026年6月23日投资者关系活动记录表（更新后）",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301468/AN202606251823853949.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "博盈特焊(301468)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "新赣江:关于使用闲置自有资金购买理财产品进展的公告",
+        "summary": "新赣江(920367)：新赣江:关于使用闲置自有资金购买理财产品进展的公告",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920367/AN202606251823854283.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新赣江(920367)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "广发证券:广发证券股份有限公司2024年面向专业投资者公开发行公司债券(第六期)兑付兑息暨摘牌的公告",
+        "summary": "广发证券(000776)：广发证券:广发证券股份有限公司2024年面向专业投资者公开发行公司债券(第六期)兑付兑息暨摘牌的公告",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000776/AN202606251823854224.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "广发证券(000776)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "美登科技:投资者关系活动记录表",
+        "summary": "美登科技(920227)：美登科技:投资者关系活动记录表",
+        "publishedAt": "2026-06-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920227/AN202606251823854089.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美登科技(920227)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中船特气：股票交易停牌核查完成 将于6月26日复牌",
+        "summary": "【中船特气：股票交易停牌核查完成 将于6月26日复牌】中船特气6月25日公告，公司股票交易停牌核查已完成，经向上海证券交易所申请，公司股票将于2026年6月26日开市起复牌。近期六氟化钨产品关注度较高，公司关注到有媒体报道及市场传闻提及公司六氟化钨产品产能、产品价格、产品规格、产品订单等内容。公司现就六氟化钨产品相关事项说明如下：截至本公告披露日，公司六氟…",
+        "publishedAt": "2026-06-25 19:05:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606253783221694.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "有色稀土",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "云南铜业：向专业投资者公开发行不超50亿元公司债券注册申请获同意批复",
+        "summary": "【云南铜业：向专业投资者公开发行不超50亿元公司债券注册申请获同意批复】云南铜业公告，公司于近日收到中国证券监督管理委员会《关于同意云南铜业股份有限公司向专业投资者公开发行公司债券注册的批复》，同意公司向专业投资者公开发行面值总额不超过50亿元公司债券的注册申请。",
+        "publishedAt": "2026-06-25 18:54:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606253783218645.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "有色稀土",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美的集团：顺德液冷智造基地预计2027年8月投产 实现液冷核心组件自主规模化量产",
+        "summary": "【美的集团：顺德液冷智造基地预计2027年8月投产 实现液冷核心组件自主规模化量产】美的集团在路演活动中表示，公司已于2026年3月启动顺德液冷智造基地建设，总投资超10亿元，推动自然冷磁悬浮冷水机、CDU等核心产品规模化生产，构建从研发、制造到交付的全链条液冷能力。该基地预计2027年8月投产，实现液冷核心组件自主规模化量产。",
+        "publishedAt": "2026-06-25 18:48:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606253783215935.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -3373,52 +3408,6 @@
       {
         "title": "美国6月23日COMEX黄金库存-每日更新(百盎司)",
         "summary": "美国6月23日COMEX黄金库存-每日更新(百盎司)；公布 278099.02，预期 nan，前值 278826.27。",
-        "publishedAt": "2026-06-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月24日iShares白银持仓-每日更新(吨)",
-        "summary": "美国6月24日iShares白银持仓-每日更新(吨)；公布 14918.0，预期 nan，前值 14941.91。",
-        "publishedAt": "2026-06-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月24日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国6月24日iShares黄金持仓-每日更新(吨)；公布 469.3，预期 nan，前值 469.65。",
-        "publishedAt": "2026-06-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月24日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国6月24日SPDR黄金持仓-每日更新(吨)；公布 1013.36，预期 nan，前值 1017.64。",
         "publishedAt": "2026-06-25 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -3654,7 +3643,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -3667,15 +3656,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-25 18:35:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 有色稀土、金融、医药。",
+        "generatedAt": "2026-06-25 19:13:40",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 有色稀土、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：元件、证券、共封装光学(CPO)；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -3771,7 +3760,7 @@
               "今日炸板 31 只，追高前先看前排封单和回封质量。",
               "今日跌停 17 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST云创:关于公司股票将被终止上市的风险提示公告；龙磁科技:股票交易异常波动公告。",
+              "新闻/公告风险：利和兴:股票交易严重异常波动公告；关于对广州市嘉诚国际物流股份有限公司及有关责任人予以监管警示的决定。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
