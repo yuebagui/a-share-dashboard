@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-06-26",
     "phase": "盘中快照",
-    "generatedAt": "2026-06-26 00:36:26",
+    "generatedAt": "2026-06-26 03:32:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -68862,7 +68862,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -69026,34 +69027,29 @@
   },
   "newsBrief": {
     "tradeDate": "2026-06-26",
-    "generatedAt": "2026-06-26 00:37:20",
+    "generatedAt": "2026-06-26 03:33:05",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 11 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 2,
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 2,
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 4,
         "isFocusBoard": false
       }
     ],
@@ -69237,36 +69233,6 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "波斯湾原油出口反弹至本轮冲突前水平的75%",
-        "summary": "波斯湾原油出口反弹至本轮冲突前水平的75%。",
-        "publishedAt": "2026-06-26 00:07:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263783469177.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "惠丰钻石：公司散热产品收入极少 占营业收入比例极低",
-        "summary": "【惠丰钻石：公司散热产品收入极少 占营业收入比例极低】惠丰钻石发布风险提示公告，公司是一家专业从事人造金刚石单晶微粉、微粉延伸应用产品及CVD金刚石材料的研发、生产和销售的高新技术企业，主要产品包括金刚石微粉、金刚石破碎整形料及CVD培育钻石等。经自查，公司目前生产经营情况正常，公司主营业务未发生重大变化。近期金刚石散热应用相关概念关注度较高，但截至目前，…",
-        "publishedAt": "2026-06-25 23:38:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606253783461671.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "城投控股:上海城投控股股份有限公司关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
         "summary": "城投控股(600649)：城投控股:上海城投控股股份有限公司关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
         "publishedAt": "2026-06-26",
@@ -69283,20 +69249,6 @@
         ],
         "importance": 1,
         "noticeType": "回购进展情况"
-      },
-      {
-        "title": "美最高法院裁决支持特朗普强硬移民政策",
-        "summary": "【美最高法院裁决支持特朗普强硬移民政策】美国最高法院25日作出两项有关移民案件的关键裁决，支持特朗普政府的强硬移民政策。其中一项裁决允许特朗普政府取消数十万名海地和叙利亚移民享有的临时保护身份，这将使他们失去免于被驱逐的法律保护。另一项裁决则允许特朗普政府实施阻止寻求庇护者踏上美国领土的相关政策。",
-        "publishedAt": "2026-06-26 00:10:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263783469542.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       },
       {
         "title": "美国截至6月24日美联储资产负债表(万亿美元)",
@@ -69332,6 +69284,52 @@
         "title": "美国6月25日iShares白银持仓-每日更新(吨)",
         "summary": "美国6月25日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 14918.0。",
         "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月24日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国6月24日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 278099.02。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月25日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国6月25日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1013.36。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本6月东京CPI年率(%)",
+        "summary": "日本6月东京CPI年率(%)；公布 nan，预期 1.6，前值 1.4。",
+        "publishedAt": "2026-06-26 07:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -69577,15 +69575,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-26 00:37:20",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-06-26 03:33:05",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 11 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：元件、证券、共封装光学(CPO)；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69616,7 +69614,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-06-26 00:36:26",
+        "generatedAt": "2026-06-26 03:32:07",
         "summary": "上午情绪分 93，涨停 86 家，跌停 17 家，炸板 31 家，连板 16 家，最高 5 板。",
         "sections": [
           {
@@ -69655,7 +69653,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-06-26 00:36:26",
+        "generatedAt": "2026-06-26 03:32:07",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
