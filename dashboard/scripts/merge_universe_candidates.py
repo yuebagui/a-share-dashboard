@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import math
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -26,8 +27,12 @@ def main() -> int:
     payloads = [json.loads(path.read_text(encoding="utf-8")) for path in files]
     expected = max(int(item.get("shard", {}).get("count", 1)) for item in payloads)
     indexes = {int(item.get("shard", {}).get("index", -1)) for item in payloads}
-    if len(payloads) != expected or indexes != set(range(expected)):
-        print(f"Incomplete shards: expected={expected} found={sorted(indexes)}")
+    minimum_shards = math.ceil(expected * 0.8)
+    if len(payloads) < minimum_shards or not indexes.issubset(set(range(expected))):
+        print(
+            f"Insufficient shards: expected={expected} minimum={minimum_shards} "
+            f"found={sorted(indexes)}"
+        )
         return 1
 
     main_items = []
@@ -41,12 +46,17 @@ def main() -> int:
 
     main_items.sort(key=fetch_daily.candidate_sort_key, reverse=True)
     chinext_items.sort(key=fetch_daily.candidate_sort_key, reverse=True)
+    full_universe = max(
+        int(item.get("shard", {}).get("fullUniverseSize", 0))
+        for item in payloads
+    )
+    scored = sum(int(item.get("technicalCoverage", {}).get("scored", 0)) for item in payloads)
     coverage = {
-        "universe": sum(int(item.get("technicalCoverage", {}).get("universe", 0)) for item in payloads),
-        "scored": sum(int(item.get("technicalCoverage", {}).get("scored", 0)) for item in payloads),
+        "universe": full_universe,
+        "scored": scored,
         "qualified": len(main_items) + len(chinext_items),
-        "failed": sum(int(item.get("technicalCoverage", {}).get("failed", 0)) for item in payloads),
-        "source": "Tencent/Eastmoney daily K-line, 6-runner sharded scan",
+        "failed": max(0, full_universe - scored),
+        "source": f"Tencent/Eastmoney daily K-line, {expected}-runner sharded scan",
     }
     if coverage["scored"] < max(10, int(coverage["universe"] * 0.8)):
         print(f"Merged coverage below 80%: {coverage}")
