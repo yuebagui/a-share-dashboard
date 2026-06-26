@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-06-26",
     "phase": "盘后复盘",
-    "generatedAt": "2026-06-26 20:04:11",
+    "generatedAt": "2026-06-26 23:40:57",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -68557,15 +68557,15 @@
   },
   "newsBrief": {
     "tradeDate": "2026-06-26",
-    "generatedAt": "2026-06-26 20:05:13",
+    "generatedAt": "2026-06-26 23:42:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 9 条；主题映射集中在 金融、有色稀土、汽车链。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 半导体、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
-        "isFocusBoard": false
+        "name": "半导体",
+        "score": 10,
+        "isFocusBoard": true
       },
       {
         "name": "有色稀土",
@@ -68573,154 +68573,96 @@
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
+        "name": "AI算力",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "开特股份:开特股份及华源证券关于第一轮问询的回复(豁免版)",
-        "summary": "开特股份(920978)：开特股份:开特股份及华源证券关于第一轮问询的回复(豁免版)",
+        "title": "ST派瑞:2025年度股东会决议公告",
+        "summary": "ST派瑞(300831)：ST派瑞:2025年度股东会决议公告",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920978/AN202606261824773389.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "开特股份(920978)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "开特股份:中审众环会计师事务所关于开特股份第一轮问询的回复(豁免版)",
-        "summary": "开特股份(920978)：开特股份:中审众环会计师事务所关于开特股份第一轮问询的回复(豁免版)",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920978/AN202606261824773390.html",
+        "url": "https://data.eastmoney.com/notices/detail/300831/AN202606261824849166.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "开特股份(920978)"
+          "ST派瑞(300831)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "分配方案决议公告"
       },
       {
-        "title": "北京君正:股东减持股份实施情况公告",
-        "summary": "北京君正(300223)：北京君正:股东减持股份实施情况公告",
+        "title": "普蕊斯:关于公司股东减持计划实施完成的公告",
+        "summary": "普蕊斯(301257)：普蕊斯:关于公司股东减持计划实施完成的公告",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300223/AN202606261824766555.html",
+        "url": "https://data.eastmoney.com/notices/detail/301257/AN202606261825005940.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "北京君正(300223)"
+          "普蕊斯(301257)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "信濠光电:关于股票交易异常波动的公告",
-        "summary": "信濠光电(301051)：信濠光电:关于股票交易异常波动的公告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301051/AN202606261824764697.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "信濠光电(301051)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "瑞星股份:关于对北京证券交易所2025年年报问询函的回复公告",
-        "summary": "瑞星股份(920717)：瑞星股份:关于对北京证券交易所2025年年报问询函的回复公告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920717/AN202606261824764297.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "瑞星股份(920717)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "瑞星股份:大信会计师事务所(特殊普通合伙)关于河北瑞星燃气设备股份有限公司2025年年报问询函相关问题的核查意见",
-        "summary": "瑞星股份(920717)：瑞星股份:大信会计师事务所(特殊普通合伙)关于河北瑞星燃气设备股份有限公司2025年年报问询函相关问题的核查意见",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920717/AN202606261824764298.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "瑞星股份(920717)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "荃银高科：因年报虚假记载收处罚告知书 将被ST",
-        "summary": "【荃银高科：因年报虚假记载收处罚告知书 将被ST】荃银高科6月27日公告，公司收到中国证券监督管理委员会安徽监管局下发的《行政处罚事先告知书》，因公司披露的2024年年度报告存在虚假记载事项，根据相关规定，公司股票交易将被实施其他风险警示，但不触及重大违法强制退市的情形。",
-        "publishedAt": "2026-06-26 19:56:04",
+        "title": "欧洲股市收盘 STOXX 600指数下跌0.78%",
+        "summary": "欧洲股市收盘，STOXX600指数下跌0.78%。",
+        "publishedAt": "2026-06-26 23:33:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784961072.html",
+        "url": "https://finance.eastmoney.com/a/202606263785177257.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "费城半导体指数跌幅再度扩大至5%",
+        "summary": "【费城半导体指数跌幅再度扩大至5%】短暂收窄跌幅后，费城半导体指数跌幅再度扩大至5%。个股方面，英伟达股价下跌1.49%，台积电股价下跌2.79%，博通股价下跌3.2%，美光科技股价下跌4.65%，超威半导体股价下跌3.78%，阿斯麦股价下跌3.36%，英特尔股价下跌3.61%，ARM股价下跌5.01%。",
+        "publishedAt": "2026-06-26 23:20:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606263785173595.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "金融"
+          "半导体",
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "国际复材：2025年电子细纱及细纱制品营业收入占比18.22% 总体占比较小",
-        "summary": "【国际复材：2025年电子细纱及细纱制品营业收入占比18.22% 总体占比较小】国际复材(301526.SZ)发布异动公告，2025年度，公司电子细纱及细纱制品营业收入占比18.22%，总体占比较小。目前公司相关业务经营情况稳定，无重大未披露事项，敬请投资者理性看待行业热点，审慎防范概念炒作风险。",
-        "publishedAt": "2026-06-26 19:38:24",
+        "title": "美光科技股价再度下跌5.1%",
+        "summary": "美光科技股价再度下跌5.1%，报1151.435美元/股，总市值报1.30万亿美元。",
+        "publishedAt": "2026-06-26 23:16:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784951476.html",
+        "url": "https://finance.eastmoney.com/a/202606263785164325.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -68730,11 +68672,11 @@
         "noticeType": ""
       },
       {
-        "title": "湖南裕能：宁德时代减持触及1%整数倍 持股比例降至6.85%",
-        "summary": "【湖南裕能：宁德时代减持触及1%整数倍 持股比例降至6.85%】湖南裕能(301358.SZ)公告称，公司持股5%以上股东宁德时代于2026年6月26日通过集中竞价方式减持公司股份210.5万股，占公司总股本的0.25%。",
-        "publishedAt": "2026-06-26 19:37:16",
+        "title": "爱旭股份：控股股东一致行动人义乌衡英拟减持不超0.02%公司股份",
+        "summary": "【爱旭股份：控股股东一致行动人义乌衡英拟减持不超0.02%公司股份】爱旭股份6月26日公告，公司控股股东之一致行动人、员工持股平台义乌市衡英企业管理合伙企业（有限合伙）计划自2026年7月20日起至2026年10月19日止，通过集中竞价方式减持公司股份不超过36.88万股，占总股本的比例不超过0.02%。减持原因为其一名非在职员工、非关联自然人合伙人因个人…",
+        "publishedAt": "2026-06-26 23:10:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784948883.html",
+        "url": "https://finance.eastmoney.com/a/202606263785162488.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -68744,125 +68686,171 @@
         "noticeType": ""
       },
       {
-        "title": "苏宁环球:000718苏宁环球投资者关系管理信息20260626",
-        "summary": "苏宁环球(000718)：苏宁环球:000718苏宁环球投资者关系管理信息20260626",
+        "title": "立昂技术:2026年新疆辖区上市公司投资者网上集体接待日活动投资者关系活动记录表",
+        "summary": "立昂技术(300603)：立昂技术:2026年新疆辖区上市公司投资者网上集体接待日活动投资者关系活动记录表",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000718/AN202606261824780181.html",
+        "url": "https://data.eastmoney.com/notices/detail/300603/AN202606261824919912.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "苏宁环球(000718)"
+          "立昂技术(300603)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "天山生物:300313天山生物投资者关系管理信息20260626",
-        "summary": "天山生物(300313)：天山生物:300313天山生物投资者关系管理信息20260626",
+        "title": "怡达股份:2025年度暨2026年第一季度业绩说明会投资者活动记录表",
+        "summary": "怡达股份(300721)：怡达股份:2025年度暨2026年第一季度业绩说明会投资者活动记录表",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300313/AN202606261824769675.html",
+        "url": "https://data.eastmoney.com/notices/detail/300721/AN202606261824621563.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "天山生物(300313)"
+          "怡达股份(300721)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "赢合科技:关于回购注销部分限制性股票的减资公告",
-        "summary": "赢合科技(300457)：赢合科技:关于回购注销部分限制性股票的减资公告",
+        "title": "中石科技:关于调整2025年限制性股票激励计划授予价格的公告",
+        "summary": "中石科技(300684)：中石科技:关于调整2025年限制性股票激励计划授予价格的公告",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300457/AN202606261824771863.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "赢合科技(300457)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "银禧科技:2026年半年度业绩预告",
-        "summary": "银禧科技(300221)：银禧科技:2026年半年度业绩预告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300221/AN202606261824763012.html",
+        "url": "https://data.eastmoney.com/notices/detail/300684/AN202606261824622382.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "银禧科技(300221)"
+          "中石科技(300684)"
         ],
         "importance": 1,
-        "noticeType": "业绩预告"
+        "noticeType": "股权激励行权价（数量）调整"
       },
       {
-        "title": "川宁生物:伊犁川宁生物技术股份有限公司投资者关系活动记录表",
-        "summary": "川宁生物(301301)：川宁生物:伊犁川宁生物技术股份有限公司投资者关系活动记录表",
+        "title": "2-2法律意见书(申报稿)(日联科技集团股份有限公司)",
+        "summary": "日联科技(688531)：2-2法律意见书(申报稿)(日联科技集团股份有限公司)",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301301/AN202606261824754875.html",
+        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235767.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "川宁生物(301301)"
+          "日联科技(688531)"
+        ],
+        "importance": 1,
+        "noticeType": "科创板并购重组法律意见书"
+      },
+      {
+        "title": "3-1本次重组涉及的拟购买资产最近两年的财务报告和审计报告(申报稿)(日联科技集团股份有限公司)",
+        "summary": "日联科技(688531)：3-1本次重组涉及的拟购买资产最近两年的财务报告和审计报告(申报稿)(日联科技集团股份有限公司)",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235765.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "日联科技(688531)"
+        ],
+        "importance": 1,
+        "noticeType": "科创板并购重组审计报告"
+      },
+      {
+        "title": "2-1独立财务顾问报告(申报稿)(日联科技集团股份有限公司)",
+        "summary": "日联科技(688531)：2-1独立财务顾问报告(申报稿)(日联科技集团股份有限公司)",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235763.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "日联科技(688531)"
+        ],
+        "importance": 1,
+        "noticeType": "科创板并购重组独立财务顾问报告"
+      },
+      {
+        "title": "3-2本次重组涉及的拟购买资产的评估报告及评估说明,或者估值报告(申报稿)(日联科技集团股份有限公司)",
+        "summary": "日联科技(688531)：3-2本次重组涉及的拟购买资产的评估报告及评估说明,或者估值报告(申报稿)(日联科技集团股份有限公司)",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235766.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "日联科技(688531)"
+        ],
+        "importance": 1,
+        "noticeType": "科创板并购重组资产评估报告"
+      },
+      {
+        "title": "莱茵生物:002166莱茵生物投资者关系管理信息20260626",
+        "summary": "莱茵生物(002166)：莱茵生物:002166莱茵生物投资者关系管理信息20260626",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002166/AN202606261825234889.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "莱茵生物(002166)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "中富电路:关于调整2026年限制性股票激励计划相关事项的公告",
-        "summary": "中富电路(300814)：中富电路:关于调整2026年限制性股票激励计划相关事项的公告",
+        "title": "1-1日联科技集团股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金报告书(申报稿)",
+        "summary": "日联科技(688531)：1-1日联科技集团股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金报告书(申报稿)",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300814/AN202606261824759318.html",
+        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825234784.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中富电路(300814)"
+          "日联科技(688531)"
         ],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": "科创板并购重组报告书申报稿"
       },
       {
-        "title": "江苏雷利：拟1000万元参股机器人零部件公司汇科智控",
-        "summary": "【江苏雷利：拟1000万元参股机器人零部件公司汇科智控】江苏雷利(300660.SZ)公告称，公司拟与关联方苏达、华盛共同投资杭州汇科智控科技有限公司，公司以自有资金出资1000万元，占增资后注册资本14.2857%。汇科智控主营机器人力控制臂及核心零部件，目前处于研发阶段，尚未量产。",
-        "publishedAt": "2026-06-26 19:53:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784961130.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "斯迪克:300806斯迪克投资者关系管理信息20260626",
+        "summary": "斯迪克(300806)：斯迪克:300806斯迪克投资者关系管理信息20260626",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300806/AN202606261825123568.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "机器人"
+        "themes": [],
+        "tickers": [
+          "斯迪克(300806)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "光智科技：拟3.01亿元增资收购先锐科技50.08%股权",
-        "summary": "【光智科技：拟3.01亿元增资收购先锐科技50.08%股权】光智科技(300489.SZ)公告称，公司拟与清远先导、先锐科技签署投资协议，以增资形式投资先锐科技，取得其50.0832%股权，实现控股。本次增资总金额为3.01亿元，增资完成后，先锐科技将成为公司控股子公司，纳入合并报表。",
-        "publishedAt": "2026-06-26 19:46:34",
+        "title": "大唐发电：8月26日将派发股息0.10694港元/股",
+        "summary": "【大唐发电：8月26日将派发股息0.10694港元/股】大唐发电（00991.HK）公告，公司2025年年度末期股息每股0.10694港元，股息派发日为2026年8月26日。除净日为2026年6月30日，记录日期为2026年7月9日。本次股息以港元派发，对应人民币每股0.093元，按汇率1人民币兑1.14984港元折算。H股股东需注意代扣所得税事项：港股通…",
+        "publishedAt": "2026-06-26 22:59:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784955223.html",
+        "url": "https://finance.eastmoney.com/a/202606263785158360.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -69148,15 +69136,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-26 20:05:13",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 9 条；主题映射集中在 金融、有色稀土、汽车链。",
+        "generatedAt": "2026-06-26 23:42:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 半导体、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：光学光电子、半导体；首看 光学光电子 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、汽车链；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69187,7 +69175,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-06-26 20:04:11",
+        "generatedAt": "2026-06-26 23:40:57",
         "summary": "上午情绪分 32，涨停 60 家，跌停 30 家，炸板 35 家，连板 8 家，最高 6 板。",
         "sections": [
           {
@@ -69226,7 +69214,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-06-26 20:04:11",
+        "generatedAt": "2026-06-26 23:40:57",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -69252,7 +69240,7 @@
               "今日炸板 35 只，追高前先看前排封单和回封质量。",
               "今日跌停 30 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 数据中心(AIDC)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：开特股份:开特股份及华源证券关于第一轮问询的回复(豁免版)；开特股份:中审众环会计师事务所关于开特股份第一轮问询的回复(豁免版)。",
+              "新闻/公告风险：ST派瑞:2025年度股东会决议公告；普蕊斯:关于公司股东减持计划实施完成的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
