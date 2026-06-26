@@ -569,7 +569,7 @@ function renderIndices() {
           <small>${item.name}</small>
           <strong>${item.price}</strong>
           <span class="${trendClass}">${formatSigned(item.changePct)}%</span>
-          <em>成交 ${escapeHtml(item.turnover || "--")}</em>
+          <em>成交 ${escapeHtml(item.turnover || "--")} · ${escapeHtml(formatIndexSource(item))}</em>
         </article>
       `;
     })
@@ -918,6 +918,11 @@ function formatMoney(value) {
   const unit = Math.abs(value) >= 10000 ? "亿" : "万";
   const normalized = unit === "亿" ? value / 10000 : value;
   return `${value > 0 ? "+" : ""}${money.format(normalized)}${unit}`;
+}
+
+function formatIndexSource(item) {
+  const time = item.quoteTime ? item.quoteTime.split(" ").pop() : "";
+  return [item.source, time].filter(Boolean).join(" · ") || "快照";
 }
 
 function formatMaybe(value) {

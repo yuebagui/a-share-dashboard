@@ -15,6 +15,7 @@ import importlib.util
 import json
 import re
 import sys
+import urllib.request
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
@@ -63,9 +64,53 @@ def import_akshare():
 
 def get_indices(ak) -> list[dict[str, Any]]:
     try:
-        return get_indices_sina(ak)
+        return get_indices_tencent()
     except Exception:
-        return get_indices_eastmoney(ak)
+        try:
+            return get_indices_sina(ak)
+        except Exception:
+            return get_indices_eastmoney(ak)
+
+
+def get_indices_tencent() -> list[dict[str, Any]]:
+    wanted = {
+        "sh000001": "上证指数",
+        "sz399001": "深证成指",
+        "sz399006": "创业板指",
+        "sh000688": "科创50",
+    }
+    url = f"https://qt.gtimg.cn/q={','.join(wanted)}"
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": "Mozilla/5.0", "Referer": "https://gu.qq.com/"},
+    )
+    with urllib.request.urlopen(request, timeout=15) as response:
+        text = response.read().decode("gbk", errors="replace")
+    result = []
+    for raw_line in text.splitlines():
+        match = re.match(r'v_([^=]+)="(.*)";', raw_line.strip())
+        if not match or match.group(1) not in wanted:
+            continue
+        code = match.group(1)
+        parts = match.group(2).split("~")
+        if len(parts) < 36:
+            continue
+        turnover_bits = parts[35].split("/")
+        turnover_value = to_float(turnover_bits[2] if len(turnover_bits) >= 3 else 0)
+        result.append(
+            {
+                "name": wanted[code],
+                "price": f"{to_float(parts[3]):,.2f}",
+                "changePct": round(to_float(parts[32]), 2),
+                "turnover": market_amount_text(turnover_value),
+                "turnoverValue": turnover_value,
+                "quoteTime": format_quote_time(parts[30]),
+                "source": "腾讯直连",
+            }
+        )
+    if len(result) != len(wanted):
+        raise RuntimeError(f"Tencent index quote incomplete: {len(result)}/{len(wanted)}")
+    return result
 
 
 def get_indices_sina(ak) -> list[dict[str, Any]]:
@@ -90,6 +135,8 @@ def get_indices_sina(ak) -> list[dict[str, Any]]:
                 "changePct": round(to_float(item.get("涨跌幅")), 2),
                 "turnover": market_amount_text(turnover_value),
                 "turnoverValue": turnover_value,
+                "quoteTime": "",
+                "source": "新浪/AkShare",
             }
         )
     return result
@@ -117,6 +164,8 @@ def get_indices_eastmoney(ak) -> list[dict[str, Any]]:
                 "changePct": round(to_float(item.get("涨跌幅")), 2),
                 "turnover": market_amount_text(turnover_value),
                 "turnoverValue": turnover_value,
+                "quoteTime": "",
+                "source": "东方财富/AkShare",
             }
         )
     return result
@@ -1788,6 +1837,13 @@ def market_amount_text(value) -> str:
     if abs(number) >= 100000000:
         return f"{number / 100000000:.0f}亿"
     return amount_text(number)
+
+
+def format_quote_time(value: str) -> str:
+    text = clean_text(value)
+    if len(text) != 14 or not text.isdigit():
+        return text
+    return f"{text[:4]}-{text[4:6]}-{text[6:8]} {text[8:10]}:{text[10:12]}:{text[12:]}"
 
 
 def build_market_turnover(indices: list[dict[str, Any]]) -> dict[str, Any]:

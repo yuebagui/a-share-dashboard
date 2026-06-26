@@ -8,13 +8,15 @@ on:
         required: false
         type: string
   schedule:
-    # Three review snapshots on A-share trading days.
-    # 03:30 UTC = 11:30 Asia/Shanghai, for noon review.
-    # 07:30 UTC = 15:30 Asia/Shanghai, for closing review.
-    # 13:00 UTC = 21:00 Asia/Shanghai, for full evening review.
+    # Primary snapshots plus delayed retries. GitHub cron can occasionally
+    # skip or heavily delay a single scheduled event.
     - cron: "30 3 * * 1-5"
+    - cron: "45 3 * * 1-5"
     - cron: "30 7 * * 1-5"
+    - cron: "45 7 * * 1-5"
+    - cron: "0 8 * * 1-5"
     - cron: "0 13 * * 1-5"
+    - cron: "20 13 * * 1-5"
 
 permissions:
   contents: write
