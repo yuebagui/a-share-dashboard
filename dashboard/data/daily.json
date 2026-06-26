@@ -1,12 +1,14 @@
 {
   "meta": {
     "tradeDate": "2026-06-26",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-06-26 16:21:50",
     "source": "akshare: eastmoney/ths public data",
     "errors": [
       "candidate-technical partial failures: 920363:eastmoney: Remote end closed connection without response; tencent: incomplete response: v_pv_none_match=\"1\";\n; sina: incomplete response: var hq_str_sh920363=\"\";\n"
-    ]
+    ],
+    "marketGeneratedAt": "2026-06-26 16:21:50",
+    "lastNewsAt": "2026-06-26 19:30:45"
   },
   "indices": [
     {
@@ -2834,278 +2836,149 @@
   },
   "newsBrief": {
     "tradeDate": "2026-06-26",
-    "generatedAt": "2026-06-26 16:22:14",
+    "generatedAt": "2026-06-26 19:30:45",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、医药、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 有色稀土、半导体、机器人。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 5,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 5,
+        "score": 6,
         "isFocusBoard": true
       },
       {
+        "name": "机器人",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "尚品宅配:关于股东股份解除质押的公告",
-        "summary": "尚品宅配(300616)：尚品宅配:关于股东股份解除质押的公告",
+        "title": "宁德时代:《期货和衍生品交易内部控制及风险管理制度》(2026年6月修订)",
+        "summary": "宁德时代(300750)：宁德时代:《期货和衍生品交易内部控制及风险管理制度》(2026年6月修订)",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300616/AN202606261824459670.html",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202606261824813635.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "尚品宅配(300616)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "国联水产:关于控股股东及其关联方部分股份解除质押的公告",
-        "summary": "国联水产(300094)：国联水产:关于控股股东及其关联方部分股份解除质押的公告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300094/AN202606261824422327.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "国联水产(300094)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "正强股份:关于使用闲置自有资金进行现金管理的进展公告",
-        "summary": "正强股份(301119)：正强股份:关于使用闲置自有资金进行现金管理的进展公告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301119/AN202606261824473867.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "正强股份(301119)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "港通医疗:关于募投项目重新论证继续实施并延期的公告",
-        "summary": "港通医疗(301515)：港通医疗:关于募投项目重新论证继续实施并延期的公告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301515/AN202606261824473866.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "港通医疗(301515)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "建邦科技:对外投资管理制度",
-        "summary": "建邦科技(920242)：建邦科技:对外投资管理制度",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920242/AN202606261824461003.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "建邦科技(920242)"
+          "宁德时代(300750)"
         ],
         "importance": 1,
         "noticeType": "管理办法/制度"
       },
       {
-        "title": "珠海冠宇:2026-004投资者关系活动记录表2026",
-        "summary": "珠海冠宇(688772)：珠海冠宇:2026-004投资者关系活动记录表2026",
+        "title": "江波龙:关于董事股份减持计划实施完毕的公告",
+        "summary": "江波龙(301308)：江波龙:关于董事股份减持计划实施完毕的公告",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688772/AN202606261824431613.html",
+        "url": "https://data.eastmoney.com/notices/detail/301308/AN202606261824813637.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "珠海冠宇(688772)"
+          "江波龙(301308)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "中晶科技:中晶科技：投资者关系活动记录表",
-        "summary": "中晶科技(003026)：中晶科技:中晶科技：投资者关系活动记录表",
+        "title": "贝达药业:关于股东股份质押变动的公告",
+        "summary": "贝达药业(300558)：贝达药业:关于股东股份质押变动的公告",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003026/AN202606261824425049.html",
+        "url": "https://data.eastmoney.com/notices/detail/300558/AN202606261824799411.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "中晶科技(003026)"
+          "贝达药业(300558)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "乐心医疗:关于部分股票期权完成注销的公告",
-        "summary": "乐心医疗(300562)：乐心医疗:关于部分股票期权完成注销的公告",
+        "title": "移为通信:关于公司部分高级管理人员减持计划实施进展暨减持完毕的公告",
+        "summary": "移为通信(300590)：移为通信:关于公司部分高级管理人员减持计划实施进展暨减持完毕的公告",
         "publishedAt": "2026-06-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300562/AN202606261824429247.html",
+        "url": "https://data.eastmoney.com/notices/detail/300590/AN202606261824795758.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "乐心医疗(300562)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "福昕软件:投资者关系活动记录表(2026年6月)",
-        "summary": "福昕软件(688095)：福昕软件:投资者关系活动记录表(2026年6月)",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688095/AN202606261824398060.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "福昕软件(688095)"
+          "移为通信(300590)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "欧陆通:2026年6月22日-6月26日投资者关系活动记录表",
-        "summary": "欧陆通(300870)：欧陆通:2026年6月22日-6月26日投资者关系活动记录表",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300870/AN202606261824403616.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "欧陆通(300870)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中新赛克:2026年6月25日投资者关系活动记录表",
-        "summary": "中新赛克(002912)：中新赛克:2026年6月25日投资者关系活动记录表",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002912/AN202606261824378096.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中新赛克(002912)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "物产环能:浙江物产环保能源股份有限公司投资者关系活动记录表2026001",
-        "summary": "物产环能(603071)：物产环能:浙江物产环保能源股份有限公司投资者关系活动记录表2026001",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603071/AN202606261824398061.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "物产环能(603071)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "工程机械订单井喷 电动化产品“一机难求”",
-        "summary": "【工程机械订单井喷 电动化产品“一机难求”】每年六月份通常是工程机械行业的传统淡季，但今年却出现了“淡季不淡”的火热景象。走访中发现，多家企业生产线满负荷运转，电动化产品更是“一机难求”，部分订单交付周期大幅延长。",
-        "publishedAt": "2026-06-26 16:10:00",
+        "title": "江波龙：董事李志雄5月12日至6月25日减持240万股 减持计划已实施完毕",
+        "summary": "【江波龙：董事李志雄5月12日至6月25日减持240万股 减持计划已实施完毕】江波龙(301308.SZ)公告称，公司董事李志雄于2026年5月12日至6月25日通过集中竞价方式减持公司股份239.99万股，占公司目前总股本的0.5673%，减持计划已实施完毕。",
+        "publishedAt": "2026-06-26 19:20:52",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784764742.html",
+        "url": "https://finance.eastmoney.com/a/202606263784932351.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "神马股份：控股股东拟增持1.5亿元至3亿元股份",
-        "summary": "【神马股份：控股股东拟增持1.5亿元至3亿元股份】神马股份(600810.SH)公告称，公司控股股东中国平煤神马集团计划自2026年6月29日起6个月内，以不高于8.5元/股的价格，通过集中竞价方式增持公司A股股票，增持资金总额不低于1.5亿元，不超过3亿元。",
-        "publishedAt": "2026-06-26 16:08:16",
+        "title": "博敏电子：控股股东及实控人拟减持不超3%股份",
+        "summary": "【博敏电子：控股股东及实控人拟减持不超3%股份】博敏电子(603936.SH)公告称，公司控股股东、实际控制人徐缓、谢小梅计划自2026年7月20日至10月16日，通过大宗交易和集中竞价方式合计减持不超过1936万股，占公司总股本不超过3%。",
+        "publishedAt": "2026-06-26 19:15:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784762277.html",
+        "url": "https://finance.eastmoney.com/a/202606263784928684.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "境外机构大举增持国债",
-        "summary": "【境外机构大举增持国债】在全球金融市场波动加剧的背景下，国际资本正持续加速布局中国债券资产。彭博社的数据显示，5月境外机构对中国政府债券的持有量环比净增持610亿元，创下2023年12月以来的最大单月增幅。另据中国外汇交易中心数据，5月债券市场境外机构投资者共达成现券交易14048亿元，其中买入7813亿元、卖出6235亿元，全品类债券净买入1578亿元。",
-        "publishedAt": "2026-06-26 16:01:17",
+        "title": "深交所：本周对近期股价异常波动的兴业科技进行重点监控",
+        "summary": "【深交所：本周对近期股价异常波动的兴业科技进行重点监控】深交所公告，2026年6月22日至6月26日，本所共对192起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；对近期股价异常波动的“兴业科技”进行重点监控；共对7起上市公司重大事项进行核查。",
+        "publishedAt": "2026-06-26 19:14:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263784754619.html",
+        "url": "https://finance.eastmoney.com/a/202606263784924394.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
           "金融"
         ],
@@ -3114,47 +2987,181 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至6月24日美联储资产负债表(万亿美元)",
-        "summary": "美国截至6月24日美联储资产负债表(万亿美元)；公布 6.74，预期 nan，前值 6.74。",
-        "publishedAt": "2026-06-26 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "北京君正：职工代表董事张燕祥5月11日至6月25日减持18万股",
+        "summary": "【北京君正：职工代表董事张燕祥5月11日至6月25日减持18万股】北京君正(300223.SZ)公告称，公司职工代表董事张燕祥已完成减持计划，于2026年5月11日至6月25日通过集中竞价方式减持公司股份18万股，占公司总股本0.0372%，减持均价166.01元。减持后，张燕祥持有公司股份56.73万股，占总股本0.1173%。",
+        "publishedAt": "2026-06-26 19:11:54",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606263784924937.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国6月25日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国6月25日iShares黄金持仓-每日更新(吨)；公布 466.43，预期 nan，前值 469.3。",
-        "publishedAt": "2026-06-26 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "怡达股份:2025年度暨2026年第一季度业绩说明会投资者活动记录表",
+        "summary": "怡达股份(300721)：怡达股份:2025年度暨2026年第一季度业绩说明会投资者活动记录表",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300721/AN202606261824621563.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "怡达股份(300721)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中石科技:关于调整2025年限制性股票激励计划授予价格的公告",
+        "summary": "中石科技(300684)：中石科技:关于调整2025年限制性股票激励计划授予价格的公告",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300684/AN202606261824622382.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中石科技(300684)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "拓邦股份:002139拓邦股份投资者关系管理信息20260626",
+        "summary": "拓邦股份(002139)：拓邦股份:002139拓邦股份投资者关系管理信息20260626",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002139/AN202606261824826937.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "拓邦股份(002139)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "安利股份:关于回购公司股份实施完成暨股份变动的公告",
+        "summary": "安利股份(300218)：安利股份:关于回购公司股份实施完成暨股份变动的公告",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300218/AN202606261824813643.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
+        ],
+        "tickers": [
+          "安利股份(300218)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "国际实业:000159国际实业投资者关系管理信息20260626",
+        "summary": "国际实业(000159)：国际实业:000159国际实业投资者关系管理信息20260626",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000159/AN202606261824800111.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国际实业(000159)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "拉卡拉:参与投资设立上海考拉先导人工智能创业投资基金暨关联交易的公告",
+        "summary": "拉卡拉(300773)：拉卡拉:参与投资设立上海考拉先导人工智能创业投资基金暨关联交易的公告",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300773/AN202606261824808158.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [
+          "拉卡拉(300773)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "力源信息:300184力源信息投资者关系管理信息20260626",
+        "summary": "力源信息(300184)：力源信息:300184力源信息投资者关系管理信息20260626",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300184/AN202606261824794766.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "力源信息(300184)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "熙菱信息:关于拟对外投资设立控股子公司的公告",
+        "summary": "熙菱信息(300588)：熙菱信息:关于拟对外投资设立控股子公司的公告",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300588/AN202606261824795749.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "熙菱信息(300588)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "盛合晶微：东盛合芯三维集成芯片制造（一期）项目将于6月29日开工",
+        "summary": "【盛合晶微：东盛合芯三维集成芯片制造（一期）项目将于6月29日开工】盛合晶微(688820.SH)公告称，公司投资建设的东盛合芯三维集成芯片制造(一期)项目将于近日完善相关手续后，于6月29日正式开工建设。该项目总投资约100亿元，旨在扩充超高密度互联三维多芯片集成封装产能，加速前沿研发成果产业化落地。",
+        "publishedAt": "2026-06-26 19:18:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606263784929756.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国6月25日iShares白银持仓-每日更新(吨)",
-        "summary": "美国6月25日iShares白银持仓-每日更新(吨)；公布 14991.13，预期 nan，前值 14918.0。",
-        "publishedAt": "2026-06-26 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
+        "title": "优必选发布轮式工业人形机器人Cruzr Y1",
+        "summary": "【优必选发布轮式工业人形机器人Cruzr Y1】据优必选消息，6月25日，OPPO技术发布会暨供应链技术展于OPPO滨海湾园区正式启幕。优必选旗下Cruzr Y1轮式工业人形机器人全球首次公开亮相，展会现场展示料箱拆垛、码垛全流程。与此同时，优必选同步发布区域独家代理招商政策。",
+        "publishedAt": "2026-06-26 19:16:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606263784927452.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "机器人"
+        ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -3407,7 +3414,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -3420,15 +3427,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-26 16:22:14",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、医药、能源。",
+        "generatedAt": "2026-06-26 19:30:45",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 有色稀土、半导体、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：光学光电子、半导体；首看 光学光电子 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、医药、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -3524,7 +3531,7 @@
               "今日炸板 35 只，追高前先看前排封单和回封质量。",
               "今日跌停 30 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 数据中心(AIDC)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：尚品宅配:关于股东股份解除质押的公告；国联水产:关于控股股东及其关联方部分股份解除质押的公告。",
+              "新闻/公告风险：宁德时代:《期货和衍生品交易内部控制及风险管理制度》(2026年6月修订)；江波龙:关于董事股份减持计划实施完毕的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
