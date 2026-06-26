@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-06-26",
     "phase": "盘后复盘",
-    "generatedAt": "2026-06-26 23:40:57",
+    "generatedAt": "2026-06-27 03:23:59",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -52642,7 +52642,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -52814,38 +52815,18 @@
   },
   "newsBrief": {
     "tradeDate": "2026-06-26",
-    "generatedAt": "2026-06-26 23:42:15",
+    "generatedAt": "2026-06-27 03:24:41",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 半导体、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源。",
     "themes": [
-      {
-        "name": "半导体",
-        "score": 10,
-        "isFocusBoard": true
-      },
       {
         "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
@@ -52868,72 +52849,11 @@
         "noticeType": "分配方案决议公告"
       },
       {
-        "title": "普蕊斯:关于公司股东减持计划实施完成的公告",
-        "summary": "普蕊斯(301257)：普蕊斯:关于公司股东减持计划实施完成的公告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301257/AN202606261825005940.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "普蕊斯(301257)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "欧洲股市收盘 STOXX 600指数下跌0.78%",
-        "summary": "欧洲股市收盘，STOXX600指数下跌0.78%。",
-        "publishedAt": "2026-06-26 23:33:01",
+        "title": "前高盛合伙人警告称美股股票估值应该引起投资者的担忧",
+        "summary": "【前高盛合伙人警告称美股股票估值应该引起投资者的担忧】高盛前合伙人、现任哥伦比亚商学院教授AbbyJosephCohen表示，美股高企的股价可能掩盖了投资者应当更加关注的风险，尤其是在劳动力市场方面。Cohen周五接受采访时说：“估值基本上是在说一切都很棒。”她警告称：“当一切都按完美状态定价时，就是投资者需要担心的时候。”Cohen认为目前正处于一个拐点…",
+        "publishedAt": "2026-06-27 02:27:48",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263785177257.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "费城半导体指数跌幅再度扩大至5%",
-        "summary": "【费城半导体指数跌幅再度扩大至5%】短暂收窄跌幅后，费城半导体指数跌幅再度扩大至5%。个股方面，英伟达股价下跌1.49%，台积电股价下跌2.79%，博通股价下跌3.2%，美光科技股价下跌4.65%，超威半导体股价下跌3.78%，阿斯麦股价下跌3.36%，英特尔股价下跌3.61%，ARM股价下跌5.01%。",
-        "publishedAt": "2026-06-26 23:20:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263785173595.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美光科技股价再度下跌5.1%",
-        "summary": "美光科技股价再度下跌5.1%，报1151.435美元/股，总市值报1.30万亿美元。",
-        "publishedAt": "2026-06-26 23:16:06",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263785164325.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "爱旭股份：控股股东一致行动人义乌衡英拟减持不超0.02%公司股份",
-        "summary": "【爱旭股份：控股股东一致行动人义乌衡英拟减持不超0.02%公司股份】爱旭股份6月26日公告，公司控股股东之一致行动人、员工持股平台义乌市衡英企业管理合伙企业（有限合伙）计划自2026年7月20日起至2026年10月19日止，通过集中竞价方式减持公司股份不超过36.88万股，占总股本的比例不超过0.02%。减持原因为其一名非在职员工、非关联自然人合伙人因个人…",
-        "publishedAt": "2026-06-26 23:10:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263785162488.html",
+        "url": "https://finance.eastmoney.com/a/202606273785199012.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -52989,6 +52909,22 @@
         ],
         "importance": 1,
         "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "合金投资:000633合金投资投资者关系管理信息20260626",
+        "summary": "合金投资(000633)：合金投资:000633合金投资投资者关系管理信息20260626",
+        "publishedAt": "2026-06-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000633/AN202606261825288604.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "合金投资(000633)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "2-2法律意见书(申报稿)(日联科技集团股份有限公司)",
@@ -53103,20 +53039,6 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "大唐发电：8月26日将派发股息0.10694港元/股",
-        "summary": "【大唐发电：8月26日将派发股息0.10694港元/股】大唐发电（00991.HK）公告，公司2025年年度末期股息每股0.10694港元，股息派发日为2026年8月26日。除净日为2026年6月30日，记录日期为2026年7月9日。本次股息以港元派发，对应人民币每股0.093元，按汇率1人民币兑1.14984港元折算。H股股东需注意代扣所得税事项：港股通…",
-        "publishedAt": "2026-06-26 22:59:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606263785158360.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "美国截至6月24日美联储资产负债表(万亿美元)",
         "summary": "美国截至6月24日美联储资产负债表(万亿美元)；公布 6.74，预期 nan，前值 6.74。",
         "publishedAt": "2026-06-26 04:30",
@@ -53126,6 +53048,68 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月25日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国6月25日iShares黄金持仓-每日更新(吨)；公布 466.43，预期 nan，前值 469.3。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月25日iShares白银持仓-每日更新(吨)",
+        "summary": "美国6月25日iShares白银持仓-每日更新(吨)；公布 14991.13，预期 nan，前值 14918.0。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月24日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国6月24日COMEX黄金库存-每日更新(百盎司)；公布 278098.69，预期 nan，前值 278099.02。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月25日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国6月25日SPDR黄金持仓-每日更新(吨)；公布 1007.08，预期 nan，前值 1013.36。",
+        "publishedAt": "2026-06-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -53393,15 +53377,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-26 23:42:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 半导体、有色稀土、AI算力。",
+        "generatedAt": "2026-06-27 03:24:41",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：光学光电子、半导体；首看 光学光电子 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -53432,7 +53416,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-06-26 23:40:57",
+        "generatedAt": "2026-06-27 03:23:59",
         "summary": "上午情绪分 32，涨停 60 家，跌停 30 家，炸板 35 家，连板 8 家，最高 6 板。",
         "sections": [
           {
@@ -53471,7 +53455,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-06-26 23:40:57",
+        "generatedAt": "2026-06-27 03:23:59",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -53497,7 +53481,7 @@
               "今日炸板 35 只，追高前先看前排封单和回封质量。",
               "今日跌停 30 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 数据中心(AIDC)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST派瑞:2025年度股东会决议公告；普蕊斯:关于公司股东减持计划实施完成的公告。",
+              "新闻/公告风险：ST派瑞:2025年度股东会决议公告；前高盛合伙人警告称美股股票估值应该引起投资者的担忧。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
