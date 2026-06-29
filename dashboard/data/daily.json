@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-06-30",
     "phase": "盘中快照",
-    "generatedAt": "2026-06-30 00:44:36",
+    "generatedAt": "2026-06-30 01:49:54",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -53170,7 +53170,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -53342,35 +53343,30 @@
   },
   "newsBrief": {
     "tradeDate": "2026-06-30",
-    "generatedAt": "2026-06-30 00:45:51",
+    "generatedAt": "2026-06-30 01:51:09",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "macro-calendar: HTTP Error 403: "
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 金融、半导体、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 15 条；主题映射集中在 半导体、金融、有色稀土。",
     "themes": [
       {
-        "name": "金融",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
         "name": "半导体",
-        "score": 6,
+        "score": 10,
         "isFocusBoard": true
       },
       {
-        "name": "AI算力",
-        "score": 5,
+        "name": "金融",
+        "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "有色稀土",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
@@ -53571,6 +53567,68 @@
         "noticeType": "董事会决议公告"
       },
       {
+        "title": "以色列防长称以伊可能随时再起冲突",
+        "summary": "【以色列防长称以伊可能随时再起冲突】以色列媒体29日报道说，以国防部长卡茨当天向媒体表示，鉴于复杂的安全局势和在黎巴嫩的军事行动，以色列随时可能与伊朗再次爆发冲突。",
+        "publishedAt": "2026-06-30 01:24:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606303787083850.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "LME金属收盘普遍下跌",
+        "summary": "【LME金属收盘普遍下跌】LME金属收盘普遍下跌，LME期铜收跌79美元，报13278美元/吨。LME期铝收跌92美元，报3088美元/吨。LME期锌收涨2美元，报3474美元/吨。LME期铅收跌10美元，报1894美元/吨。LME期镍收跌388美元，报16311美元/吨。LME期锡收跌178美元，报50375美元/吨。",
+        "publishedAt": "2026-06-30 00:54:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606303787081346.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "欧洲债市：德国国债结束五连涨 油价上涨令市场承压",
+        "summary": "【欧洲债市：德国国债结束五连涨 油价上涨令市场承压】德国国债结束上周连涨行情，收益率曲线略微熊平。本周美国和伊朗的和平谈判重启前夕，能源价格上涨令债市承压。掉期市场隐含的欧洲央行年底前加息幅度为26个基点，高于上周五的24个基点。上周五数据为两个月来的最低水平。由于油价上涨导致短端国债价格下跌，而风险溢价下降推高了长端国债价格，英国国债收益率曲线呈扭曲趋平…",
+        "publishedAt": "2026-06-30 00:50:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606303787081184.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储周一隔夜逆回购协议（RRP）使用规模为35.46亿美元",
+        "summary": "【美联储周一隔夜逆回购协议（RRP）使用规模为35.46亿美元】美联储周一隔夜逆回购协议（RRP）使用规模为35.46亿美元，上个交易日报64.26亿美元。",
+        "publishedAt": "2026-06-30 01:17:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606303787083252.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "鱼子酱生产商鲟龙科技香港IPO公开发售部分获得逾2100倍认购",
         "summary": "【鱼子酱生产商鲟龙科技香港IPO公开发售部分获得逾2100倍认购】根据港交所文件，杭州千岛湖鲟龙科技通过香港首次公开募股(IPO)募集资金总额12.3亿港元。公司将香港IPO发行价定为每股75.50港元，分配给散户投资者的160万股获得2,134.81倍认购，分配给国际投资者的1,470万股获得19.87倍认购，该股将于6月30日开始交易。",
         "publishedAt": "2026-06-30 00:23:27",
@@ -53585,72 +53643,11 @@
         "noticeType": ""
       },
       {
-        "title": "半导体设备股上涨 应用材料涨近10%创历史新高",
-        "summary": "【半导体设备股上涨 应用材料涨近10%创历史新高】周一，美股半导体设备股上涨，应用材料(AMAT.US)涨近10%股价创历史新高，本月涨幅已超50%；科磊(KLAC.US)涨超7%，泛林集团(LRCX.US)涨近6%。消息面上，韩国政府周一宣布该国迄今规模最大的半导体与人工智能产业投资计划，韩国总统李在明主持“三大超级项目”发布会，宣布将在西南部投资约80…",
-        "publishedAt": "2026-06-29 23:21:08",
+        "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
+        "summary": "【伊朗称未来几天内没有与美方开展任何谈判的计划】当地时间29日晚间，伊朗外交部发言人巴加埃对外界表示，伊方未来几天没有与美方开展任何谈判的计划。",
+        "publishedAt": "2026-06-30 01:46:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606293787065416.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "商务部副部长凌激：中方愿深化与中亚国家区域经济合作 推动贸易投资自由化便利化",
-        "summary": "【商务部副部长凌激：中方愿深化与中亚国家区域经济合作 推动贸易投资自由化便利化】中国—中亚经贸合作高官会6月25-26日在新疆乌鲁木齐召开。商务部副部长兼国际贸易谈判副代表凌激表示，在当前国际经贸秩序遭受严重冲击，单边主义和保护主义加剧背景下，中方愿深化与中亚国家区域经济合作，推动贸易投资自由化便利化，加强绿色矿产产供链合作，扩大自中亚国家进口，共同做大合…",
-        "publishedAt": "2026-06-29 23:20:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606293787068068.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美最高法院驳回特朗普性侵女作家案上诉",
-        "summary": "【美最高法院驳回特朗普性侵女作家案上诉 】美国最高法院29日驳回了总统特朗普的上诉，拒绝推翻女作家卡罗尔性侵与诽谤案的判决。最高法院拒绝受理此案，并未说明理由。这意味着最高法院维持了2023年纽约南区联邦法院判定特朗普曾对卡罗尔实施性侵和诽谤，须赔偿500万美元。现年82岁的卡罗尔在2019年控告时任总统特朗普曾在20世纪90年代中期对其性侵。",
-        "publishedAt": "2026-06-30 00:27:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606303787078940.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "墨西哥证券交易所表示 交易暂停的情况已恢复",
-        "summary": "【墨西哥证券交易所表示 交易暂停的情况已恢复】墨西哥证券交易所表示，交易暂停的情况已恢复，此次交易暂停并非由于影响交易引擎运营商MONET的技术问题。",
-        "publishedAt": "2026-06-30 00:22:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606303787078883.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "以防长称以军已做好对伊采取独立军事行动的准备",
-        "summary": "【以防长称以军已做好对伊采取独立军事行动的准备】当地时间29日，以色列国防部长卡茨日前在与军事记者的闭门谈话中，阐述了以色列在黎巴嫩、伊朗及加沙地带等多条战线的最新地缘军事战略。卡茨明确表示，以色列国防军已做好对伊朗采取独立军事行动的准备，并重申以军将在黎巴嫩南部保持长期军事存在。",
-        "publishedAt": "2026-06-30 00:17:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606303787075944.html",
+        "url": "https://finance.eastmoney.com/a/202606303787084481.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -53943,15 +53940,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-30 00:45:51",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 金融、半导体、AI算力。",
+        "generatedAt": "2026-06-30 01:51:09",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 15 条；主题映射集中在 半导体、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：化学制药、医疗服务、半导体；首看 化学制药 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、半导体、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -53982,7 +53979,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-06-30 00:44:36",
+        "generatedAt": "2026-06-30 01:49:54",
         "summary": "上午情绪分 38，涨停 107 家，跌停 38 家，炸板 38 家，连板 9 家，最高 3 板。",
         "sections": [
           {
@@ -54021,7 +54018,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-06-30 00:44:36",
+        "generatedAt": "2026-06-30 01:49:54",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
