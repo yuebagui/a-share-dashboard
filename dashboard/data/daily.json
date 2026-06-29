@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-06-26",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-06-27 03:23:59",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-06-27 03:23:59",
+    "lastNewsAt": "2026-06-29 22:53:37"
   },
   "indices": [
     {
@@ -52814,46 +52816,156 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-06-26",
-    "generatedAt": "2026-06-27 03:24:41",
+    "tradeDate": "2026-06-29",
+    "generatedAt": "2026-06-29 22:53:37",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 能源、金融、新能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "能源",
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "金融",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 5,
+        "isFocusBoard": true
+      },
+      {
+        "name": "汽车链",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST派瑞:2025年度股东会决议公告",
-        "summary": "ST派瑞(300831)：ST派瑞:2025年度股东会决议公告",
-        "publishedAt": "2026-06-26",
+        "title": "*ST动力:第六届董事会第八次会议决议公告",
+        "summary": "*ST动力(300152)：*ST动力:第六届董事会第八次会议决议公告",
+        "publishedAt": "2026-06-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300831/AN202606261824849166.html",
+        "url": "https://data.eastmoney.com/notices/detail/300152/AN202606291826545951.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST派瑞(300831)"
+          "*ST动力(300152)"
         ],
         "importance": 1,
-        "noticeType": "分配方案决议公告"
+        "noticeType": "高管人员任职变动"
       },
       {
-        "title": "前高盛合伙人警告称美股股票估值应该引起投资者的担忧",
-        "summary": "【前高盛合伙人警告称美股股票估值应该引起投资者的担忧】高盛前合伙人、现任哥伦比亚商学院教授AbbyJosephCohen表示，美股高企的股价可能掩盖了投资者应当更加关注的风险，尤其是在劳动力市场方面。Cohen周五接受采访时说：“估值基本上是在说一切都很棒。”她警告称：“当一切都按完美状态定价时，就是投资者需要担心的时候。”Cohen认为目前正处于一个拐点…",
-        "publishedAt": "2026-06-27 02:27:48",
+        "title": "*ST泉为:关于完成董事会换届选举的公告",
+        "summary": "*ST泉为(300716)：*ST泉为:关于完成董事会换届选举的公告",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300716/AN202606291826551727.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST泉为(300716)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "*ST泉为:北京国枫律师事务所关于广东泉为科技股份有限公司2026年第一次临时股东会的法律意见书",
+        "summary": "*ST泉为(300716)：*ST泉为:北京国枫律师事务所关于广东泉为科技股份有限公司2026年第一次临时股东会的法律意见书",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300716/AN202606291826551726.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST泉为(300716)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "*ST泉为:关于公司涉及重大诉讼的进展公告",
+        "summary": "*ST泉为(300716)：*ST泉为:关于公司涉及重大诉讼的进展公告",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300716/AN202606291826551724.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST泉为(300716)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "*ST泉为:2026年第一次临时股东会决议公告",
+        "summary": "*ST泉为(300716)：*ST泉为:2026年第一次临时股东会决议公告",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300716/AN202606291826551725.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST泉为(300716)"
+        ],
+        "importance": 1,
+        "noticeType": "股东大会决议公告"
+      },
+      {
+        "title": "富乐德:关于控股股东的一致行动人提前终止减持计划暨股份减持实施结果的公告",
+        "summary": "富乐德(301297)：富乐德:关于控股股东的一致行动人提前终止减持计划暨股份减持实施结果的公告",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301297/AN202606291826551541.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "富乐德(301297)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "美心翼申：股东拟减持不超2%股份",
+        "summary": "【美心翼申：股东拟减持不超2%股份】美心翼申公告，持股5%以上股东重庆宗申动力机械股份有限公司（当前持股占比13.61%）拟通过集中竞价方式减持不超164.72万股，占公司总股本比例不超2%。",
+        "publishedAt": "2026-06-29 22:49:14",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202606273785199012.html",
+        "url": "https://finance.eastmoney.com/a/202606293787043976.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -52863,215 +52975,141 @@
         "noticeType": ""
       },
       {
-        "title": "立昂技术:2026年新疆辖区上市公司投资者网上集体接待日活动投资者关系活动记录表",
-        "summary": "立昂技术(300603)：立昂技术:2026年新疆辖区上市公司投资者网上集体接待日活动投资者关系活动记录表",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300603/AN202606261824919912.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "立昂技术(300603)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "怡达股份:2025年度暨2026年第一季度业绩说明会投资者活动记录表",
-        "summary": "怡达股份(300721)：怡达股份:2025年度暨2026年第一季度业绩说明会投资者活动记录表",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300721/AN202606261824621563.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "怡达股份(300721)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中石科技:关于调整2025年限制性股票激励计划授予价格的公告",
-        "summary": "中石科技(300684)：中石科技:关于调整2025年限制性股票激励计划授予价格的公告",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300684/AN202606261824622382.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中石科技(300684)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "合金投资:000633合金投资投资者关系管理信息20260626",
-        "summary": "合金投资(000633)：合金投资:000633合金投资投资者关系管理信息20260626",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000633/AN202606261825288604.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "合金投资(000633)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "2-2法律意见书(申报稿)(日联科技集团股份有限公司)",
-        "summary": "日联科技(688531)：2-2法律意见书(申报稿)(日联科技集团股份有限公司)",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235767.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "日联科技(688531)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板并购重组法律意见书"
-      },
-      {
-        "title": "3-1本次重组涉及的拟购买资产最近两年的财务报告和审计报告(申报稿)(日联科技集团股份有限公司)",
-        "summary": "日联科技(688531)：3-1本次重组涉及的拟购买资产最近两年的财务报告和审计报告(申报稿)(日联科技集团股份有限公司)",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235765.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "日联科技(688531)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板并购重组审计报告"
-      },
-      {
-        "title": "2-1独立财务顾问报告(申报稿)(日联科技集团股份有限公司)",
-        "summary": "日联科技(688531)：2-1独立财务顾问报告(申报稿)(日联科技集团股份有限公司)",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235763.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "日联科技(688531)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板并购重组独立财务顾问报告"
-      },
-      {
-        "title": "3-2本次重组涉及的拟购买资产的评估报告及评估说明,或者估值报告(申报稿)(日联科技集团股份有限公司)",
-        "summary": "日联科技(688531)：3-2本次重组涉及的拟购买资产的评估报告及评估说明,或者估值报告(申报稿)(日联科技集团股份有限公司)",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825235766.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "日联科技(688531)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板并购重组资产评估报告"
-      },
-      {
-        "title": "莱茵生物:002166莱茵生物投资者关系管理信息20260626",
-        "summary": "莱茵生物(002166)：莱茵生物:002166莱茵生物投资者关系管理信息20260626",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002166/AN202606261825234889.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "莱茵生物(002166)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "1-1日联科技集团股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金报告书(申报稿)",
-        "summary": "日联科技(688531)：1-1日联科技集团股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金报告书(申报稿)",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688531/AN202606261825234784.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "日联科技(688531)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板并购重组报告书申报稿"
-      },
-      {
-        "title": "斯迪克:300806斯迪克投资者关系管理信息20260626",
-        "summary": "斯迪克(300806)：斯迪克:300806斯迪克投资者关系管理信息20260626",
-        "publishedAt": "2026-06-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300806/AN202606261825123568.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "斯迪克(300806)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美国截至6月24日美联储资产负债表(万亿美元)",
-        "summary": "美国截至6月24日美联储资产负债表(万亿美元)；公布 6.74，预期 nan，前值 6.74。",
-        "publishedAt": "2026-06-26 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月25日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国6月25日iShares黄金持仓-每日更新(吨)；公布 466.43，预期 nan，前值 469.3。",
-        "publishedAt": "2026-06-26 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "兆易创新：公司为无晶圆厂模式 存在上游合作的晶圆厂产能供给进一步紧张的风险",
+        "summary": "【兆易创新：公司为无晶圆厂模式 存在上游合作的晶圆厂产能供给进一步紧张的风险】兆易创新公告称，公司所处存储芯片行业历史上呈现显著的周期性波动特征，目前产品价格已处于历史高位，继续大幅上涨的趋势不可持续，行业供给与需求终将走向再平衡。未来，随着宏观经济环境、行业周期、市场供需关系等多重因素的变化，主要产品价格可能出现相当幅度的回落，届时对公司存储业务的产品售…",
+        "publishedAt": "2026-06-29 22:37:55",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606293787038094.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
-          "有色稀土"
+          "半导体"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国6月25日iShares白银持仓-每日更新(吨)",
-        "summary": "美国6月25日iShares白银持仓-每日更新(吨)；公布 14991.13，预期 nan，前值 14918.0。",
-        "publishedAt": "2026-06-26 06:30",
+        "title": "3-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明,或者估值报告(申报稿)(柳州钢铁股份有限公司)",
+        "summary": "柳钢股份(601003)：3-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明,或者估值报告(申报稿)(柳州钢铁股份有限公司)",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601003/AN202606291826542571.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "柳钢股份(601003)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "君逸数码:关于2025年股票期权激励计划部分股票期权注销完成的公告",
+        "summary": "君逸数码(301172)：君逸数码:关于2025年股票期权激励计划部分股票期权注销完成的公告",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301172/AN202606291826534117.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "君逸数码(301172)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "胜宏科技:300476胜宏科技投资者关系管理信息20260629",
+        "summary": "胜宏科技(300476)：胜宏科技:300476胜宏科技投资者关系管理信息20260629",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300476/AN202606291826552163.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "胜宏科技(300476)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长江证券:长江证券股份有限公司2026年面向专业投资者公开发行公司债券(第二期)票面利率公告",
+        "summary": "长江证券(000783)：长江证券:长江证券股份有限公司2026年面向专业投资者公开发行公司债券(第二期)票面利率公告",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000783/AN202606291826552007.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "长江证券(000783)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "燕京啤酒:000729燕京啤酒投资者关系管理信息20260629",
+        "summary": "燕京啤酒(000729)：燕京啤酒:000729燕京啤酒投资者关系管理信息20260629",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000729/AN202606291826551841.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "燕京啤酒(000729)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "超捷股份:2026年06月29日投资者关系活动记录表",
+        "summary": "超捷股份(301005)：超捷股份:2026年06月29日投资者关系活动记录表",
+        "publishedAt": "2026-06-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301005/AN202606291826551154.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "超捷股份(301005)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "巴兰仕：随着新能源汽车的普及将带动举升机、电池举升机、拆胎机等产品的迭代增长",
+        "summary": "【巴兰仕：随着新能源汽车的普及将带动举升机、电池举升机、拆胎机等产品的迭代增长】巴兰仕发布投资者关系活动记录表，全球汽车保有量稳步增长、车龄老化带动维修设备需求提升；通胀因素导致欧洲等发达经济体本地制造成本上升，进一步凸显中国产品性价比优势；随着新能源汽车的普及将带动举升机、电池举升机、拆胎机等产品的迭代增长。",
+        "publishedAt": "2026-06-29 22:49:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202606293787044179.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "新能源",
+          "汽车链",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中国5月全社会用电量-每月(亿千瓦时)",
+        "summary": "中国5月全社会用电量-每月(亿千瓦时)；公布 nan，预期 nan，前值 8205.0。",
+        "publishedAt": "2026-06-29 14:40",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -53083,25 +53121,23 @@
         "noticeType": ""
       },
       {
-        "title": "美国6月24日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国6月24日COMEX黄金库存-每日更新(百盎司)；公布 278098.69，预期 nan，前值 278099.02。",
-        "publishedAt": "2026-06-26 06:30",
+        "title": "中国5月全社会用电量年率-每月(%)",
+        "summary": "中国5月全社会用电量年率-每月(%)；公布 nan，预期 nan，前值 6.0。",
+        "publishedAt": "2026-06-29 14:40",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国6月25日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国6月25日SPDR黄金持仓-每日更新(吨)；公布 1007.08，预期 nan，前值 1013.36。",
-        "publishedAt": "2026-06-26 06:30",
+        "title": "中国6月29日上期所每日仓单变动-铜(吨)",
+        "summary": "中国6月29日上期所每日仓单变动-铜(吨)；公布 -1239.0，预期 nan，前值 -537.0。",
+        "publishedAt": "2026-06-29 15:10",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -53364,7 +53400,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -53377,15 +53413,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-06-27 03:24:41",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源。",
+        "generatedAt": "2026-06-29 22:53:37",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 能源、金融、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：光学光电子、半导体；首看 光学光电子 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -53481,7 +53517,7 @@
               "今日炸板 35 只，追高前先看前排封单和回封质量。",
               "今日跌停 30 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 数据中心(AIDC)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST派瑞:2025年度股东会决议公告；前高盛合伙人警告称美股股票估值应该引起投资者的担忧。",
+              "新闻/公告风险：*ST动力:第六届董事会第八次会议决议公告；*ST泉为:关于完成董事会换届选举的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
