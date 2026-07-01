@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-01",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-01 03:25:53",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-01 03:25:53",
+    "lastNewsAt": "2026-07-01 19:48:39"
   },
   "indices": [
     {
@@ -67060,267 +67062,117 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-01",
-    "generatedAt": "2026-07-01 03:27:00",
+    "generatedAt": "2026-07-01 19:48:39",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 能源、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、金融、半导体。",
     "themes": [
       {
-        "name": "能源",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 8,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 7,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 5,
+        "score": 11,
         "isFocusBoard": true
       },
       {
-        "name": "新能源",
-        "score": 2,
+        "name": "AI算力",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST星农:ST星农关于公司股东拟转让股份暨控制权发生变更的提示性公告",
-        "summary": "ST星农(603789)：ST星农:ST星农关于公司股东拟转让股份暨控制权发生变更的提示性公告",
+        "title": "卓兆点胶:股东拟减持股份的预披露公告",
+        "summary": "卓兆点胶(920026)：卓兆点胶:股东拟减持股份的预披露公告",
         "publishedAt": "2026-07-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603789/AN202606301826610687.html",
+        "url": "https://data.eastmoney.com/notices/detail/920026/AN202607011826637061.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST星农(603789)"
-        ],
-        "importance": 1,
-        "noticeType": "公司关联方基本资料变更"
-      },
-      {
-        "title": "ST星农:详式权益变动报告书-江苏玖元亨通新能源发展合伙企业(有限合伙)",
-        "summary": "ST星农(603789)：ST星农:详式权益变动报告书-江苏玖元亨通新能源发展合伙企业(有限合伙)",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603789/AN202606301826610686.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "新能源",
-          "能源"
-        ],
-        "tickers": [
-          "ST星农(603789)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "ST星农:ST星农关于筹划控制权变更的进展暨复牌公告",
-        "summary": "ST星农(603789)：ST星农:ST星农关于筹划控制权变更的进展暨复牌公告",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603789/AN202606301826610688.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST星农(603789)"
-        ],
-        "importance": 1,
-        "noticeType": "复牌公告"
-      },
-      {
-        "title": "ST星农:国金证券股份有限公司关于星光农机股份有限公司详式权益变动报告书之财务顾问核查意见",
-        "summary": "ST星农(603789)：ST星农:国金证券股份有限公司关于星光农机股份有限公司详式权益变动报告书之财务顾问核查意见",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603789/AN202606301826610684.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "ST星农(603789)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "ST星农:简式权益变动报告书-钱菊花、湖州新家园投资管理有限公司",
-        "summary": "ST星农(603789)：ST星农:简式权益变动报告书-钱菊花、湖州新家园投资管理有限公司",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603789/AN202606301826610685.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST星农(603789)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "ST新华锦:新华锦关于上海证券交易所对公司2025年年度报告的信息披露监管问询函回复的公告",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦关于上海证券交易所对公司2025年年度报告的信息披露监管问询函回复的公告",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202606301826609931.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "ST新华锦:新华锦关于控股股东及间接控股股东等二十二家公司实质合并重整意向投资人招募的公告",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦关于控股股东及间接控股股东等二十二家公司实质合并重整意向投资人招募的公告",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202606301826609930.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "ST新华锦:评估机构对《关于山东新华锦国际股份有限公司2025年年度报告的信息披露监管问询函》之采矿权评估发表意见",
-        "summary": "ST新华锦(600735)：ST新华锦:评估机构对《关于山东新华锦国际股份有限公司2025年年度报告的信息披露监管问询函》之采矿权评估发表意见",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202606301826609932.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "ST新华锦:中兴华会计师事务所关于山东新华锦国际股份有限公司2025年年度报告的信息披露监管问询函的专项说明",
-        "summary": "ST新华锦(600735)：ST新华锦:中兴华会计师事务所关于山东新华锦国际股份有限公司2025年年度报告的信息披露监管问询函的专项说明",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202606301826609929.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "ST新华锦:新华锦股票交易异常波动公告",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦股票交易异常波动公告",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202606301826609933.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "和辉光电:上海和辉光电股份有限公司关于持股5%以上股东大宗交易减持股份计划公告",
-        "summary": "和辉光电(688538)：和辉光电:上海和辉光电股份有限公司关于持股5%以上股东大宗交易减持股份计划公告",
-        "publishedAt": "2026-07-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688538/AN202606301826609784.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "和辉光电(688538)"
+          "卓兆点胶(920026)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "万通发展:关于信息披露相关事项的澄清暨风险提示公告",
-        "summary": "万通发展(600246)：万通发展:关于信息披露相关事项的澄清暨风险提示公告",
+        "title": "四会富仕:关于股票交易异常波动的公告",
+        "summary": "四会富仕(300852)：四会富仕:关于股票交易异常波动的公告",
         "publishedAt": "2026-07-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600246/AN202606301826608169.html",
+        "url": "https://data.eastmoney.com/notices/detail/300852/AN202607011826636793.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "万通发展(600246)"
+          "四会富仕(300852)"
         ],
         "importance": 1,
-        "noticeType": "澄清公告"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "WTI原油期货价格收于69.50美元/桶 下跌1.25美元",
-        "summary": "【WTI原油期货价格收于69.50美元/桶 下跌1.25美元】WTI原油期货价格收于69.50美元/桶，下跌1.25美元，跌幅为1.77%。",
-        "publishedAt": "2026-07-01 02:31:34",
+        "title": "华新科技：股东恒易有业拟减持不超过1.3136%股份",
+        "summary": "【华新科技：股东恒易有业拟减持不超过1.3136%股份】华新科技公告，持股5%以上股东海南恒易有业投资合伙企业（有限合伙）持有公司股份2784万股，占公司总股本9.1889%，计划减持不超过398万股，占公司总股本1.3136%。",
+        "publishedAt": "2026-07-01 19:38:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013788807675.html",
+        "url": "https://finance.eastmoney.com/a/202607013790438327.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "AI投资热潮成通胀新推手 美联储哈马克称必要时仍需加息",
-        "summary": "【AI投资热潮成通胀新推手 美联储哈马克称必要时仍需加息】当地时间周二，克利夫兰联储主席贝丝·哈马克表示，市场对人工智能(AI)基础设施“近乎无止境的需求”正在推高通胀，不排除支持进一步加息。",
-        "publishedAt": "2026-07-01 01:20:20",
+        "title": "慧智微：股东GZPA拟减持不超0.25%股份",
+        "summary": "【慧智微：股东GZPA拟减持不超0.25%股份】慧智微(688512.SH)公告称，公司股东GZPAHoldingLimited因自身资金需求，拟通过集中竞价、大宗交易方式减持不超过1,184,734股，占公司总股本比例不超过0.25%。",
+        "publishedAt": "2026-07-01 19:38:14",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013788803051.html",
+        "url": "https://finance.eastmoney.com/a/202607013790438048.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "OpenAI前高管回应有没有AI泡沫 OpenAI前高管称烧钱赌模型有风险",
+        "summary": "【OpenAI前高管回应有没有AI泡沫 OpenAI前高管称烧钱赌模型有风险】针对市场热议的AI泡沫与行业风险问题，OpenAI前高管扎克·卡斯在对话中指出不存在全局性AI泡沫。按照他曾提出的“模型收益递减理论”，他认为风险集中在前沿模型层。",
+        "publishedAt": "2026-07-01 19:36:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607013790425633.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "AI算力"
         ],
@@ -67329,11 +67181,195 @@
         "noticeType": ""
       },
       {
-        "title": "美联储周二隔夜逆回购协议（RRP）使用规模为269亿美元",
-        "summary": "【美联储周二隔夜逆回购协议（RRP）使用规模为269亿美元】美联储周二隔夜逆回购协议（RRP）使用规模为269亿美元，上个交易日报35.46亿美元。",
-        "publishedAt": "2026-07-01 01:17:00",
+        "title": "万兴科技:关于回购公司股份的进展公告",
+        "summary": "万兴科技(300624)：万兴科技:关于回购公司股份的进展公告",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300624/AN202607011826635816.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "万兴科技(300624)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "金橙子:投资者关系活动记录表(2026年7月1日)",
+        "summary": "金橙子(688291)：金橙子:投资者关系活动记录表(2026年7月1日)",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688291/AN202607011826634778.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金橙子(688291)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "洲明科技:关于广州轩智文化传播有限公司业绩承诺补偿事项履行完毕的公告",
+        "summary": "洲明科技(300232)：洲明科技:关于广州轩智文化传播有限公司业绩承诺补偿事项履行完毕的公告",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300232/AN202607011826632474.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "洲明科技(300232)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "博亚精工:关于回购公司股份的进展公告",
+        "summary": "博亚精工(300971)：博亚精工:关于回购公司股份的进展公告",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300971/AN202607011826632448.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "博亚精工(300971)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "鲍斯股份:300441鲍斯股份投资者关系管理信息20260701",
+        "summary": "鲍斯股份(300441)：鲍斯股份:300441鲍斯股份投资者关系管理信息20260701",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300441/AN202607011826631254.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鲍斯股份(300441)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长江材料:001296长江材料投资者关系管理信息20260701",
+        "summary": "长江材料(001296)：长江材料:001296长江材料投资者关系管理信息20260701",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001296/AN202607011826629838.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长江材料(001296)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "康美特:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
+        "summary": "康美特(920189)：康美特:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607011826629495.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "康美特(920189)"
+        ],
+        "importance": 1,
+        "noticeType": "首发发行结果公告"
+      },
+      {
+        "title": "2-1重大资产重组报告书(申报稿)(重庆新铝时代科技股份有限公司)",
+        "summary": "新铝时代(301613)：2-1重大资产重组报告书(申报稿)(重庆新铝时代科技股份有限公司)",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301613/AN202607011826628651.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [
+          "新铝时代(301613)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组报告书申报稿"
+      },
+      {
+        "title": "康众医疗:康众医疗关于对外投资进展的公告",
+        "summary": "康众医疗(688607)：康众医疗:康众医疗关于对外投资进展的公告",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688607/AN202606301826593749.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "康众医疗(688607)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "瑞华技术:对外投资设立全资子公司并取得营业执照的公告",
+        "summary": "瑞华技术(920099)：瑞华技术:对外投资设立全资子公司并取得营业执照的公告",
+        "publishedAt": "2026-07-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920099/AN202607011826637571.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "瑞华技术(920099)"
+        ],
+        "importance": 1,
+        "noticeType": "公司关联方基本资料变更"
+      },
+      {
+        "title": "兴业科技：本次收购拟收购磷化铟资产过去三年都未能盈利",
+        "summary": "【兴业科技：本次收购拟收购磷化铟资产过去三年都未能盈利】兴业科技(002674.SZ)公告称，公司股票连续两个交易日收盘价跌幅累计偏离超过20%，属于股票交易异常波动。公司澄清，拟收购磷化铟业务尚需董事会审议，存在不确定性；该业务净资产账面价值预计不超过2500万元，2026年1-5月收入预计不超过500万元，在手订单不超过200万元，对公司当期营收和净利…",
+        "publishedAt": "2026-07-01 19:38:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013788802823.html",
+        "url": "https://finance.eastmoney.com/a/202607013790437187.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "三友联众：拟以4000万元至8000万元回购股份",
+        "summary": "【三友联众：拟以4000万元至8000万元回购股份】7月1日，三友联众发布公告，本次回购股份的用途为股权激励计划，回购股份的方式为集中竞价交易方式进行，回购价格不超过14.57元/股（含），回购资金总额不低于4000万元且不超过8000万元。",
+        "publishedAt": "2026-07-01 19:38:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607013790437738.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -67345,49 +67381,20 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至6月26日当周API原油库存变动(万桶)",
-        "summary": "美国截至6月26日当周API原油库存变动(万桶)；公布 nan，预期 -405.0，前值 -76.5。",
-        "publishedAt": "2026-07-01 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "8天4板多氟多：半导体级氢氟酸营收占比不足2% 目前没有六氟化钨生产线",
+        "summary": "【8天4板多氟多：半导体级氢氟酸营收占比不足2% 目前没有六氟化钨生产线】多氟多(002407.SZ)发布异动公告，公司现有半导体级氢氟酸产能4万吨，但2025年度及2026年第一季度该产品销售额占营业收入较低，不足2%，对公司经营业绩不会产生重大影响。公司目前没有六氟化钨生产线，未有实质性产品，尚未签署任何具有法律约束力的实质性订单协议，尚未产生任何经营…",
+        "publishedAt": "2026-07-01 19:26:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607013790411684.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至6月26日当周API汽油库存变动(万桶)",
-        "summary": "美国截至6月26日当周API汽油库存变动(万桶)；公布 nan，预期 -90.6，前值 123.8。",
-        "publishedAt": "2026-07-01 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月30日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国6月30日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 465.14。",
-        "publishedAt": "2026-07-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
+          "半导体",
           "有色稀土"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -67577,7 +67584,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -67590,15 +67597,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-01 03:27:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 能源、有色稀土、AI算力。",
+        "generatedAt": "2026-07-01 19:48:39",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、汽车电子；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -67694,7 +67701,7 @@
               "今日炸板 26 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST星农:ST星农关于公司股东拟转让股份暨控制权发生变更的提示性公告；ST星农:详式权益变动报告书-江苏玖元亨通新能源发展合伙企业(有限合伙)。",
+              "新闻/公告风险：卓兆点胶:股东拟减持股份的预披露公告；四会富仕:关于股票交易异常波动的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
