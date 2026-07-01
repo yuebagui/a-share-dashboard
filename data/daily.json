@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-02",
     "phase": "盘中快照",
-    "generatedAt": "2026-07-02 00:44:35",
+    "generatedAt": "2026-07-02 03:25:22",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -616,10 +616,10 @@
       ],
       "sealAmount": "1797.8万",
       "turnover": "成交 7.2亿",
-      "reason": "物流方向涨停，涨停统计 1/1，首次封板 09:30:00，炸板 9 次。",
+      "reason": "物流方向涨停，涨停统计 1/1，首次封板 09:30:00，炸板 10 次。",
       "firstSeal": "09:30:00",
       "lastSeal": "10:35:51",
-      "failCount": 9
+      "failCount": 10
     },
     {
       "code": "002313",
@@ -92060,7 +92060,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -92224,11 +92225,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-02",
-    "generatedAt": "2026-07-02 00:45:24",
+    "generatedAt": "2026-07-02 03:26:17",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 10,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 9,
@@ -92240,8 +92246,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 5,
+        "name": "半导体",
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -92251,11 +92257,6 @@
       },
       {
         "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
@@ -92456,41 +92457,11 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "水井坊回复上交所年报问询函：公司收入及利润变动趋势与行业整体保持一致 不存在偏离行业的异常情形",
-        "summary": "【水井坊回复上交所年报问询函：公司收入及利润变动趋势与行业整体保持一致 不存在偏离行业的异常情形】水井坊(600779.SH)公告称，公司回复上交所关于2025年年报的信息披露监管问询函。2025年公司营业收入下降主要系受市场竞争环境变化影响，白酒销量下降以及吨酒单价下降所致；公司成品酒营业收入同比减少21.67亿元，其中核心品臻酿系列，销量减少2,665…",
-        "publishedAt": "2026-07-01 23:40:10",
+        "title": "年内700余家公司回购超660亿元 价值板块龙头扛大旗",
+        "summary": "【年内700余家公司回购超660亿元 价值板块龙头扛大旗】今年上半年，A股市场结构性行情凸显，科技股表现亮眼，电子、通信等板块年内涨幅均超70%。以大消费、大金融为主的价值板块则表现较弱，食品饮料、非银金融、银行等板块年内均跌超10%。在此市场背景下，大批处于估值底部的价值股掀起回购潮。数据显示，年内已落地实施的回购总额突破660亿元；另有一批回购在路上，…",
+        "publishedAt": "2026-07-02 03:08:08",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790637212.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国联邦贸易委员会（FTC）表示 将就一份针对人工智能准确性的政策声明征求公众意见",
-        "summary": "美国联邦贸易委员会（FTC）表示，将就一份针对人工智能准确性的政策声明征求公众意见。",
-        "publishedAt": "2026-07-02 00:30:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607023790647514.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "奥美森：拟回购41.5万-83万股",
-        "summary": "【奥美森：拟回购41.5万-83万股】奥美森公告，公司拟以集中竞价方式回购A股股份41.5万至83万股（含），回购价格上限30元/股；资金来源为自有资金及兴业银行中山分行提供的股票回购专项贷款（专项贷款不超回购资金90%）；本次回购股份将用于实施员工持股计划或股权激励。",
-        "publishedAt": "2026-07-01 23:56:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790642323.html",
+        "url": "https://finance.eastmoney.com/a/202607023790653088.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -92502,15 +92473,47 @@
         "noticeType": ""
       },
       {
-        "title": "达飞轮船（CMA CGM）表示 公司有望在2027年底前超越马士基",
-        "summary": "【达飞轮船（CMA CGM）表示 公司有望在2027年底前超越马士基】达飞轮船（CMACGM）表示，凭借当前的船舶订单，公司有望在2027年底前超越马士基（Maersk），成为全球第二大集装箱航运公司。",
-        "publishedAt": "2026-07-01 23:38:43",
+        "title": "养殖板块底部反弹 政策加码改善生猪供需关系",
+        "summary": "【养殖板块底部反弹 政策加码改善生猪供需关系】下半年首个交易日，A股养殖类题材全线大涨。截至收盘，鸡产业、猪产业指数分别上涨7.21%、6.23%，位居题材涨幅榜前列。相关概念股全线飘红，其中新希望、湘佳股份、益生股份、金新农、新五丰、华统股份等收获涨停板，晓鸣股份、立华股份、禾丰股份、大北农、民和股份、温氏股份等涨超6%。",
+        "publishedAt": "2026-07-02 02:58:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790637457.html",
+        "url": "https://finance.eastmoney.com/a/202607023790653198.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "马斯克否认《华尔街日报》关于SpaceX向投资者展示新型人工智能设备原型的报道",
+        "summary": "马斯克否认《华尔街日报》关于SpaceX向投资者展示新型人工智能设备原型的报道。",
+        "publishedAt": "2026-07-02 02:45:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607023790656867.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储周三隔夜逆回购协议（RRP）使用规模为10.01亿美元",
+        "summary": "【美联储周三隔夜逆回购协议（RRP）使用规模为10.01亿美元】美联储周三隔夜逆回购协议（RRP）使用规模为10.01亿美元，上个交易日报269.00亿美元。",
+        "publishedAt": "2026-07-02 01:18:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607023790651358.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -93081,15 +93084,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-02 00:45:24",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-07-02 03:26:17",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：证券、化学制药、保险；首看 证券 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93120,7 +93123,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-02 00:44:35",
+        "generatedAt": "2026-07-02 03:25:22",
         "summary": "上午情绪分 100，涨停 152 家，跌停 6 家，炸板 74 家，连板 24 家，最高 3 板。",
         "sections": [
           {
@@ -93159,7 +93162,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-02 00:44:35",
+        "generatedAt": "2026-07-02 03:25:22",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
