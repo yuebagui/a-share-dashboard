@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-01",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-01 21:28:08",
+    "generatedAt": "2026-07-01 21:39:05",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -67511,46 +67511,41 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-01",
-    "generatedAt": "2026-07-01 21:29:47",
+    "generatedAt": "2026-07-01 21:40:23",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 AI算力、金融、有色稀土。",
     "themes": [
       {
+        "name": "AI算力",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
-        "score": 13,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 4,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "医药",
         "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -67588,6 +67583,70 @@
         "noticeType": "股票交易异常波动"
       },
       {
+        "title": "费城半导体指数跌幅扩大至4.4%",
+        "summary": "【费城半导体指数跌幅扩大至4.4%】费城半导体指数跌幅扩大至4.4%。英伟达股价下跌3.16%，台积电股价下跌3.04%，博通股价下跌1.76%，美光科技股价下跌7.68%，超威半导体股价下跌4.33%，阿斯麦股价下跌4.14%，英特尔股价下跌4.68%，ARM股价下跌4.42%。",
+        "publishedAt": "2026-07-01 21:34:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607013790540030.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "广钢气体：氦气深地存储项目尚处早期阶段",
+        "summary": "【广钢气体：氦气深地存储项目尚处早期阶段】广钢气体(688548.SH)公告称，公司关注到近期媒体报道及市场报道涉及公司与中国科学院合作、推进的国内氦气小分子深地存储项目已通过环评公示事项。截至目前，该项目尚处于早期建设阶段，后续建设及未来运营对公司经营业绩的影响存在不确定性，敬请广大投资者注意投资风险。",
+        "publishedAt": "2026-07-01 21:32:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607013790539577.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储主席沃什：通胀风险已经下降",
+        "summary": "【美联储主席沃什：通胀风险已经下降】美联储主席沃什表示，通胀风险已经下降。他补充道，“如果有人认为我们会满足于通胀高于2%，那他们会失望的。”",
+        "publishedAt": "2026-07-01 21:31:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607013790535258.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股低开 算力租赁商、存储股大跌",
+        "summary": "【美股低开 算力租赁商、存储股大跌】美股低开，道指跌0.31%，纳指跌0.68%，标普500指数跌0.43%。算力租赁商板块大跌，Nebius跌超12%，CoreWeave跌11%。存储概念股下跌，闪迪跌超7%，西部数据跌超5%，美光科技跌超6%，希捷科技跌7%。Meta涨超6%，公司考虑出售其过剩的AI算力。",
+        "publishedAt": "2026-07-01 21:30:49",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607013790531564.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "西麦食品：股东拟合计减持不超279万股公司股份",
         "summary": "【西麦食品：股东拟合计减持不超279万股公司股份】西麦食品7月1日公告，公司股东贺州铜麦企业管理咨询中心（有限合伙）、实际控制人XIELILING及其一致行动人谢世谊和谢玉菱计划合计减持公司股份不超过279万股，合计减持比例不超过公司总股本的0.8927%。",
         "publishedAt": "2026-07-01 21:23:49",
@@ -67598,22 +67657,6 @@
         "impact": "风险",
         "themes": [
           "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国内商品期货夜盘开盘 主力合约多数下跌",
-        "summary": "国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，LPG跌超3%，原油、甲醇、丁二烯胶、燃油跌超2%，苯乙烯、低硫燃油、乙二醇跌近2%，沥青、塑料、纯苯、对二甲苯、20号胶等跌超1%；涨幅方面，铁矿石涨近2%，菜粕涨超1%，豆粕、豆二、白糖、沪金、纸浆等小幅上涨。",
-        "publishedAt": "2026-07-01 21:00:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790496379.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
         ],
         "tickers": [],
         "importance": 1,
@@ -67790,64 +67833,17 @@
         "noticeType": "对外项目投资"
       },
       {
-        "title": "沃什：人工智能的蓬勃发展在美国表现得最为突出",
-        "summary": "【沃什：人工智能的蓬勃发展在美国表现得最为突出】美联储主席沃什称，AI是否具有通胀效应，应由央行来决定。人工智能的蓬勃发展在美国表现得最为突出。供给扩张将对政策产生重大影响。",
-        "publishedAt": "2026-07-01 21:23:21",
+        "title": "宝塔实业：控股股东宁夏电投拟增持1500万元-3000万元公司股份",
+        "summary": "【宝塔实业：控股股东宁夏电投拟增持1500万元-3000万元公司股份】宝塔实业7月1日公告，公司控股股东宁夏电力投资集团有限公司计划增持公司股份，拟增持股份数量不超过公司总股本的0.42%（即不超过475.96万股），增持金额不低于1500万元，不超过3000万元。",
+        "publishedAt": "2026-07-01 21:29:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790528768.html",
+        "url": "https://finance.eastmoney.com/a/202607013790533576.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "能源"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "野村反驳“半导体见顶论”：“史诗级缺口”将至 涨价与盈利上修仍是最大催化剂",
-        "summary": "【野村反驳“半导体见顶论”：“史诗级缺口”将至 涨价与盈利上修仍是最大催化剂】野村警告，AI半导体周期远未见顶，2026年下半年或迎“史诗级”供应链错配。随着云厂商资本开支持续扩张，先进封装、PCB、CCL等零部件短缺将推动涨价与盈利上修。",
-        "publishedAt": "2026-07-01 21:18:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790525733.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "天际股份：二期1.5万吨六氟磷酸锂新产能已经进入试生产",
-        "summary": "【天际股份：二期1.5万吨六氟磷酸锂新产能已经进入试生产】天际股份在互动平台表示，二期1.5万吨六氟磷酸锂新产能已经进入试生产，公司将根据市场情况动态调整订单结构。",
-        "publishedAt": "2026-07-01 21:16:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790525885.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "信维电科的MLCC是否已通过苹果公司验证？信维通信：相关产品正在验证",
-        "summary": "【信维电科的MLCC是否已通过苹果公司验证？信维通信：相关产品正在验证】有投资者在互动平台提问信维通信：信维电科的MLCC是否已经通过苹果公司的验证？是否已经批量供货苹果公司？信维通信回复称，相关产品正在验证。",
-        "publishedAt": "2026-07-01 21:06:25",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607013790505242.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -68388,15 +68384,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-01 21:29:47",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-07-01 21:40:23",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 AI算力、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：证券、化学制药、保险；首看 证券 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -68427,7 +68423,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-01 21:28:08",
+        "generatedAt": "2026-07-01 21:39:05",
         "summary": "上午情绪分 100，涨停 152 家，跌停 6 家，炸板 74 家，连板 24 家，最高 3 板。",
         "sections": [
           {
@@ -68466,7 +68462,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-01 21:28:08",
+        "generatedAt": "2026-07-01 21:39:05",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
