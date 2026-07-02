@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-02",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-02 19:58:42",
+    "generatedAt": "2026-07-02 21:23:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -91329,10 +91329,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-02",
-    "generatedAt": "2026-07-02 19:59:51",
+    "generatedAt": "2026-07-02 21:24:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 7 条；主题映射集中在 有色稀土、AI算力、汽车链。",
     "themes": [
       {
         "name": "有色稀土",
@@ -91340,18 +91340,23 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
+        "name": "汽车链",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -91360,227 +91365,283 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "天力锂能:天力锂能集团股份有限公司关于股东减持计划期限届满暨实施结果的公告",
-        "summary": "天力锂能(301152)：天力锂能:天力锂能集团股份有限公司关于股东减持计划期限届满暨实施结果的公告",
+        "title": "雷神科技:股东拟减持股份的预披露公告",
+        "summary": "雷神科技(920190)：雷神科技:股东拟减持股份的预披露公告",
         "publishedAt": "2026-07-02",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301152/AN202607021826665246.html",
+        "url": "https://data.eastmoney.com/notices/detail/920190/AN202607021826664062.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
+        "themes": [],
         "tickers": [
-          "天力锂能(301152)"
+          "雷神科技(920190)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "祥源新材:关于股票交易异常波动的公告",
-        "summary": "祥源新材(300980)：祥源新材:关于股票交易异常波动的公告",
+        "title": "南特科技:持股5%以上股东减持股份结果公告",
+        "summary": "南特科技(920124)：南特科技:持股5%以上股东减持股份结果公告",
         "publishedAt": "2026-07-02",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300980/AN202607021826664924.html",
+        "url": "https://data.eastmoney.com/notices/detail/920124/AN202607021826663635.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "祥源新材(300980)"
+          "南特科技(920124)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "瑞凌股份:股票交易异常波动公告",
-        "summary": "瑞凌股份(300154)：瑞凌股份:股票交易异常波动公告",
+        "title": "蠡湖股份:无锡蠡湖增压技术股份有限公司股票交易异常波动公告",
+        "summary": "蠡湖股份(300694)：蠡湖股份:无锡蠡湖增压技术股份有限公司股票交易异常波动公告",
         "publishedAt": "2026-07-02",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300154/AN202607021826664548.html",
+        "url": "https://data.eastmoney.com/notices/detail/300694/AN202607021826668322.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "瑞凌股份(300154)"
+          "蠡湖股份(300694)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "*ST赛为:关于股票交易异常波动的公告",
-        "summary": "*ST赛为(300044)：*ST赛为:关于股票交易异常波动的公告",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300044/AN202607021826664431.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST赛为(300044)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "科源制药:关于股票交易异常波动的公告",
-        "summary": "科源制药(301281)：科源制药:关于股票交易异常波动的公告",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301281/AN202607021826664194.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "科源制药(301281)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "厦门银行:厦门银行股份有限公司投资者关系活动记录表2026年6月",
-        "summary": "厦门银行(601187)：厦门银行:厦门银行股份有限公司投资者关系活动记录表2026年6月",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601187/AN202607021826664957.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "厦门银行(601187)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "狄耐克:关于与关联方共同参与认购投资基金份额的公告",
-        "summary": "狄耐克(300884)：狄耐克:关于与关联方共同参与认购投资基金份额的公告",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300884/AN202607021826664921.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "狄耐克(300884)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "比亚迪:2026年7月2日投资者关系活动记录表",
-        "summary": "比亚迪(002594)：比亚迪:2026年7月2日投资者关系活动记录表",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002594/AN202607021826664740.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "比亚迪(002594)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "威唐工业:关于回购公司股份用于注销并减少注册资本首次回购的公告",
-        "summary": "威唐工业(300707)：威唐工业:关于回购公司股份用于注销并减少注册资本首次回购的公告",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300707/AN202607021826664812.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "威唐工业(300707)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "北京君正:300223北京君正投资者关系管理信息20260701",
-        "summary": "北京君正(300223)：北京君正:300223北京君正投资者关系管理信息20260701",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300223/AN202607021826664683.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "北京君正(300223)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "鸿仕达:关于对外投资设立控股子公司的公告",
-        "summary": "鸿仕达(920125)：鸿仕达:关于对外投资设立控股子公司的公告",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920125/AN202607021826664429.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鸿仕达(920125)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "钒钛股份:000629钒钛股份投资者关系管理信息20260702",
-        "summary": "钒钛股份(000629)：钒钛股份:000629钒钛股份投资者关系管理信息20260702",
-        "publishedAt": "2026-07-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000629/AN202607021826663794.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "钒钛股份(000629)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "精工科技：单关节外骨骼机器人已形成量产能力并投向市场 多关节外骨骼助力机器人第一代样机已完成制作",
-        "summary": "【精工科技：单关节外骨骼机器人已形成量产能力并投向市场 多关节外骨骼助力机器人第一代样机已完成制作】精工科技(002006.SZ)发布投资者关系活动记录表公告，公司外骨骼助力机器人产品包括单关节和多关节两类。其中，单关节(髋关节)外骨骼机器人已形成量产能力并投向市场；多关节外骨骼助力机器人第一代样机已完成制作，目前正在进行性能测试和优化。",
-        "publishedAt": "2026-07-02 19:41:04",
+        "title": "侃股：特殊股价不代表特殊含义",
+        "summary": "【侃股：特殊股价不代表特殊含义】近日，部分高位科技股盘中出现“对子顶”等特殊股价，引发投资者热议。但是，特殊股价与股票后续上涨或下跌没有任何关系，投资者不宜过分解读，影响上市公司股价中长期走势的核心因素依然是估值是否合理。",
+        "publishedAt": "2026-07-02 21:13:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607023792084354.html",
+        "url": "https://finance.eastmoney.com/a/202607023792168132.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国内商品期货夜盘开盘 主力合约多数下跌",
+        "summary": "国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，原油、氧化铝、瓶片、PTA、对二甲苯跌超1%；涨幅方面，沪银、LPG涨超2%，沪金涨超1%，焦煤、纯苯、烧碱、沪锡、20号胶等小幅上涨。",
+        "publishedAt": "2026-07-02 21:00:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607023792139024.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国国债上涨 疲软的就业报告削弱了加息预期",
+        "summary": "【美国国债上涨 疲软的就业报告削弱了加息预期】美国国债上涨，之前发布的美国就业报告弱于预期，促使交易员下调了对美联储将在未来几个月加息的预期。对货币政策变化最敏感的两年期美国国债收益率下跌6个基点，至4.11%，10年期收益率下跌2个基点，至4.46%。",
+        "publishedAt": "2026-07-02 20:56:59",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607023792137232.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "纳斯达克100指数期货涨0.7% 半导体股票盘前全线上涨",
+        "summary": "【纳斯达克100指数期货涨0.7% 半导体股票盘前全线上涨】美国6月非农数据公布后，美股期指拉升，道琼斯指数期货涨0.36%，标普500指数期货涨0.39%，纳斯达克100指数期货涨0.71%。个股方面，美股盘前交易的英伟达涨0.5%，阿斯麦、AMD、台积电涨2%，英特尔、美光科技涨超3%，上述股票此前下跌1%-4%不等。",
+        "publishedAt": "2026-07-02 20:40:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607023792124351.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "久立特材:2026年7月2日投资者关系活动记录表",
+        "summary": "久立特材(002318)：久立特材:2026年7月2日投资者关系活动记录表",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002318/AN202607021826662962.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "久立特材(002318)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "美德乐:关于使用闲置自有资金进行现金管理的进展公告",
+        "summary": "美德乐(920119)：美德乐:关于使用闲置自有资金进行现金管理的进展公告",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920119/AN202607021826662412.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美德乐(920119)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "亚通精工:2026-002亚通精工投资者关系活动记录表",
+        "summary": "亚通精工(603190)：亚通精工:2026-002亚通精工投资者关系活动记录表",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603190/AN202607021826662352.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "亚通精工(603190)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华光环能:投资者关系活动记录表(2026年6月)",
+        "summary": "华光环能(600475)：华光环能:投资者关系活动记录表(2026年6月)",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600475/AN202607021826658942.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华光环能(600475)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鼎龙股份:300054鼎龙股份投资者关系管理信息20260702",
+        "summary": "鼎龙股份(300054)：鼎龙股份:300054鼎龙股份投资者关系管理信息20260702",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607021826668372.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鼎龙股份(300054)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中赋科技:300692中赋科技投资者关系管理信息20260702",
+        "summary": "中赋科技(300692)：中赋科技:300692中赋科技投资者关系管理信息20260702",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300692/AN202607021826667949.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中赋科技(300692)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中赋科技:300692中赋科技投资者关系管理信息20260702",
+        "summary": "中赋科技(300692)：中赋科技:300692中赋科技投资者关系管理信息20260702",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300692/AN202607021826667777.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中赋科技(300692)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "精工科技:002006精工科技投资者关系管理信息20260702",
+        "summary": "精工科技(002006)：精工科技:002006精工科技投资者关系管理信息20260702",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002006/AN202607021826667291.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "精工科技(002006)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "可孚医疗:2026年7月1日投资者关系活动记录表",
+        "summary": "可孚医疗(301087)：可孚医疗:2026年7月1日投资者关系活动记录表",
+        "publishedAt": "2026-07-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301087/AN202607021826667290.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "可孚医疗(301087)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "隆华科技：两款靶材产品通过三星验证并开始批量供货",
+        "summary": "【隆华科技：两款靶材产品通过三星验证并开始批量供货】隆华科技在互动平台表示，公司两款用于显示面板的靶材产品顺利通过韩国三星的品质稽核和产品验证，成功导入其供应商名录并开始批量供货，海外市场拓展取得显著突破。",
+        "publishedAt": "2026-07-02 20:55:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607023792137428.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "机器人"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -91597,66 +91658,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月1日iShares白银持仓-每日更新(吨)",
-        "summary": "美国7月1日iShares白银持仓-每日更新(吨)；公布 14922.22，预期 nan，前值 14922.22。",
-        "publishedAt": "2026-07-02 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月1日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国7月1日SPDR黄金持仓-每日更新(吨)；公布 1005.36，预期 nan，前值 1005.08。",
-        "publishedAt": "2026-07-02 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国6月30日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国6月30日COMEX黄金库存-每日更新(百盎司)；公布 275598.2，预期 nan，前值 275598.2。",
-        "publishedAt": "2026-07-02 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚5月出口月率(%)",
-        "summary": "澳大利亚5月出口月率(%)；公布 2.6，预期 nan，前值 7.2。",
-        "publishedAt": "2026-07-02 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -91959,15 +91960,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-02 19:59:51",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、新能源。",
+        "generatedAt": "2026-07-02 21:24:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 7 条；主题映射集中在 有色稀土、AI算力、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：国企改革、机器人概念、新能源汽车；首看 国企改革 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -91998,7 +91999,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-02 19:58:42",
+        "generatedAt": "2026-07-02 21:23:00",
         "summary": "上午情绪分 48，涨停 93 家，跌停 40 家，炸板 40 家，连板 19 家，最高 4 板。",
         "sections": [
           {
@@ -92037,7 +92038,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-02 19:58:42",
+        "generatedAt": "2026-07-02 21:23:00",
         "summary": "市场温度 弱，情绪周期偏退潮/冰点。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -92063,7 +92064,7 @@
               "今日炸板 40 只，追高前先看前排封单和回封质量。",
               "今日跌停 40 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天力锂能:天力锂能集团股份有限公司关于股东减持计划期限届满暨实施结果的公告；祥源新材:关于股票交易异常波动的公告。",
+              "新闻/公告风险：雷神科技:股东拟减持股份的预披露公告；南特科技:持股5%以上股东减持股份结果公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
