@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-03",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-03 21:25:01",
+    "generatedAt": "2026-07-03 23:36:09",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -102163,38 +102163,33 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-03",
-    "generatedAt": "2026-07-03 21:26:16",
+    "generatedAt": "2026-07-03 23:37:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 10,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 5,
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
+        "name": "低空经济",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
@@ -102249,17 +102244,15 @@
         "noticeType": "科创板发行上市问询与回复"
       },
       {
-        "title": "国内商品期货夜盘开盘 主力合约涨多跌少",
-        "summary": "国内商品期货夜盘开盘，主力合约涨多跌少。涨幅方面，丁二烯胶、沪银、沪锡涨超1%，乙二醇、PVC、沪金、纯苯、沪锌等小幅上涨；跌幅方面，棕榈油、菜粕、原油、铁矿石、玉米等小幅下跌。",
-        "publishedAt": "2026-07-03 21:00:04",
+        "title": "刚果钴出口商面临失去上半年出口配额的风险",
+        "summary": "【刚果钴出口商面临失去上半年出口配额的风险】因行政程序故障导致在7月5日截止日期前发货停滞，刚果钴出口商面临失去上半年出口配额的风险。",
+        "publishedAt": "2026-07-03 22:41:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793800275.html",
+        "url": "https://finance.eastmoney.com/a/202607033793885792.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -102292,6 +102285,72 @@
         "themes": [],
         "tickers": [
           "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "创远信科:关于延期回复北京证券交易所并购重组委员会审议会议落实意见函的公告",
+        "summary": "创远信科(920961)：创远信科:关于延期回复北京证券交易所并购重组委员会审议会议落实意见函的公告",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920961/AN202607031826708764.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "创远信科(920961)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "亿嘉和:2026年6月份投资者活动记录表(2026年6月1日-2026年6月30日)",
+        "summary": "亿嘉和(603666)：亿嘉和:2026年6月份投资者活动记录表(2026年6月1日-2026年6月30日)",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603666/AN202607031826707986.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "亿嘉和(603666)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "光力科技:300480光力科技投资者关系管理信息20260702",
+        "summary": "光力科技(300480)：光力科技:300480光力科技投资者关系管理信息20260702",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300480/AN202607031826707891.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "光力科技(300480)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "迅捷兴:2026年6月9日-6月30日投资者关系活动记录表(编号:202605)",
+        "summary": "迅捷兴(688655)：迅捷兴:2026年6月9日-6月30日投资者关系活动记录表(编号:202605)",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688655/AN202607031826707915.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "迅捷兴(688655)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -102347,107 +102406,11 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "盛弘股份:2026年7月3日投资者关系活动记录表",
-        "summary": "盛弘股份(300693)：盛弘股份:2026年7月3日投资者关系活动记录表",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300693/AN202607031826706957.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盛弘股份(300693)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "同星科技:2026年7月3日投资者关系活动记录表",
-        "summary": "同星科技(301252)：同星科技:2026年7月3日投资者关系活动记录表",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301252/AN202607031826706854.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "同星科技(301252)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "依米康:2026年7月2日投资者关系活动记录表",
-        "summary": "依米康(300249)：依米康:2026年7月2日投资者关系活动记录表",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300249/AN202607031826706836.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "依米康(300249)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "TCL智家:2026年7月2日投资者关系活动记录表",
-        "summary": "TCL智家(002668)：TCL智家:2026年7月2日投资者关系活动记录表",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002668/AN202607031826706859.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "TCL智家(002668)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "明年起部分新能源车全额征收车船税 有何考量？释放什么信号？",
-        "summary": "【明年起部分新能源车全额征收车船税 有何考量？释放什么信号？】7月3日，财政部、税务总局、工业和信息化部三部门联合对外发布《关于调整节能汽车、新能源汽车车船税优惠政策的公告》。《公告》明确，自2027年1月1日起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策。",
-        "publishedAt": "2026-07-03 21:15:00",
+        "title": "电影《小黄人与大怪兽》票房破3000万元",
+        "summary": "【电影《小黄人与大怪兽》票房破3000万元】据灯塔专业版实时数据，截至7月3日20时31分，影片《小黄人与大怪兽》票房突破3000万元。",
+        "publishedAt": "2026-07-03 22:36:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793827077.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "汽车链",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美图公司：首席执行官吴泽源增持160万股公司股份",
-        "summary": "【美图公司：首席执行官吴泽源增持160万股公司股份】美图公司在港交所公告，公司创始人、董事长及首席执行官吴泽源于二零二六年七月三日于香港联合交易所有限公司公开市场以平均价每股4.023港元购入本公司股份160万股。",
-        "publishedAt": "2026-07-03 20:52:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793798449.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "阿科力：拟向特定对象发行股票募资不超3.75亿元 华芯智基将成控股股东",
-        "summary": "【阿科力：拟向特定对象发行股票募资不超3.75亿元 华芯智基将成控股股东】阿科力(603722.SH)公告称，公司拟向特定对象发行A股股票，募集资金总额不超过3.75亿元，全部用于补充流动资金。发行对象为青岛华芯智基投资合伙企业(有限合伙)，其将以现金方式认购。",
-        "publishedAt": "2026-07-03 20:52:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793797421.html",
+        "url": "https://finance.eastmoney.com/a/202607033793883447.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -102474,6 +102437,34 @@
         "title": "美国截至7月3日当周全美钻井总数(口)",
         "summary": "美国截至7月3日当周全美钻井总数(口)；公布 580.0，预期 nan，前值 573.0。",
         "publishedAt": "2026-07-03 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至7月1日美联储资产负债表(万亿美元)",
+        "summary": "美国截至7月1日美联储资产负债表(万亿美元)；公布 6.73，预期 nan，前值 6.74。",
+        "publishedAt": "2026-07-03 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月2日iShares白银持仓-每日更新(吨)",
+        "summary": "美国7月2日iShares白银持仓-每日更新(吨)；公布 14939.01，预期 nan，前值 14922.22。",
+        "publishedAt": "2026-07-03 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -102866,15 +102857,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-03 21:26:16",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-07-03 23:37:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：人形机器人、机器人概念、汽车零部件；首看 人形机器人 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -102905,7 +102896,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-03 21:25:01",
+        "generatedAt": "2026-07-03 23:36:09",
         "summary": "上午情绪分 100，涨停 108 家，跌停 19 家，炸板 52 家，连板 16 家，最高 4 板。",
         "sections": [
           {
@@ -102944,7 +102935,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-03 21:25:01",
+        "generatedAt": "2026-07-03 23:36:09",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
