@@ -2,11 +2,9 @@
   "meta": {
     "tradeDate": "2026-07-03",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-03 19:57:53",
+    "generatedAt": "2026-07-03 21:25:01",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [
-      "limit-downs: HTTPSConnectionPool(host='push2ex.eastmoney.com', port=443): Max retries exceeded with url: /getTopicDTPool?ut=7eea3edcaed734bea9cbfc24409ed989&dpt=wz.ztzt&Pageindex=0&pagesize=10000&sort=fund%3Aasc&date=20260703 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
-    ]
+    "errors": []
   },
   "indices": [
     {
@@ -58,7 +56,7 @@
     "score": 100,
     "tag": "强势",
     "title": "赚钱效应强，围绕主线前排做确认",
-    "brief": "涨停 108 家，跌停 0 家，炸板 52 家，连板 16 家，最高 4 板。",
+    "brief": "涨停 108 家，跌停 19 家，炸板 52 家，连板 16 家，最高 4 板。",
     "factors": [
       {
         "label": "涨停家数",
@@ -67,7 +65,7 @@
       },
       {
         "label": "跌停家数",
-        "value": "0",
+        "value": "19",
         "valueClass": "down"
       },
       {
@@ -84,7 +82,7 @@
   },
   "temperature": {
     "limitUp": 108,
-    "limitDown": 0,
+    "limitDown": 19,
     "failRate": 32,
     "maxLadder": 4
   },
@@ -2458,10 +2456,183 @@
   ],
   "risks": [
     "今日炸板 52 只，追高前先看前排封单和回封质量。",
+    "今日跌停 19 只，负反馈未完全消失，后排题材容错率下降。",
     "概念资金最活跃为 人形机器人，若明日资金转负，相关后排股要防冲高回落。",
     "板块资金是短线情绪线索，不替代公告、财报和订单验证。"
   ],
-  "limitDowns": [],
+  "limitDowns": [
+    {
+      "code": "000890",
+      "name": "法尔胜",
+      "changePct": "-9.98",
+      "tags": [
+        "环保设备"
+      ],
+      "reason": "连续跌停 1，封单 238.6万，开板 40 次"
+    },
+    {
+      "code": "603733",
+      "name": "仙鹤股份",
+      "changePct": "-9.98",
+      "tags": [
+        "造纸"
+      ],
+      "reason": "连续跌停 1，封单 439.3万，开板 4 次"
+    },
+    {
+      "code": "688216",
+      "name": "气派科技",
+      "changePct": "-20.00",
+      "tags": [
+        "半导体"
+      ],
+      "reason": "连续跌停 1，封单 453.1万，开板 4 次"
+    },
+    {
+      "code": "600397",
+      "name": "江钨装备",
+      "changePct": "-10.00",
+      "tags": [
+        "专用设备"
+      ],
+      "reason": "连续跌停 1，封单 666.9万，开板 0 次"
+    },
+    {
+      "code": "688096",
+      "name": "京源环保",
+      "changePct": "-19.98",
+      "tags": [
+        "环境治理"
+      ],
+      "reason": "连续跌停 1，封单 746.8万，开板 14 次"
+    },
+    {
+      "code": "000592",
+      "name": "平潭发展",
+      "changePct": "-10.05",
+      "tags": [
+        "林业Ⅱ"
+      ],
+      "reason": "连续跌停 1，封单 909.2万，开板 25 次"
+    },
+    {
+      "code": "002842",
+      "name": "翔鹭钨业",
+      "changePct": "-10.01",
+      "tags": [
+        "小金属"
+      ],
+      "reason": "连续跌停 1，封单 2025.0万，开板 4 次"
+    },
+    {
+      "code": "605580",
+      "name": "恒盛能源",
+      "changePct": "-10.00",
+      "tags": [
+        "电力"
+      ],
+      "reason": "连续跌停 1，封单 2530.5万，开板 3 次"
+    },
+    {
+      "code": "600184",
+      "name": "光电股份",
+      "changePct": "-10.00",
+      "tags": [
+        "地面兵装"
+      ],
+      "reason": "连续跌停 2，封单 2618.1万，开板 1 次"
+    },
+    {
+      "code": "603379",
+      "name": "三美股份",
+      "changePct": "-10.00",
+      "tags": [
+        "化学制品"
+      ],
+      "reason": "连续跌停 1，封单 3604.6万，开板 14 次"
+    },
+    {
+      "code": "601678",
+      "name": "滨化股份",
+      "changePct": "-10.00",
+      "tags": [
+        "化学原料"
+      ],
+      "reason": "连续跌停 1，封单 4376.4万，开板 6 次"
+    },
+    {
+      "code": "600630",
+      "name": "龙头股份",
+      "changePct": "-10.01",
+      "tags": [
+        "服装家纺"
+      ],
+      "reason": "连续跌停 1，封单 5103.2万，开板 2 次"
+    },
+    {
+      "code": "002106",
+      "name": "莱宝高科",
+      "changePct": "-9.97",
+      "tags": [
+        "光学光电"
+      ],
+      "reason": "连续跌停 2，封单 6904.8万，开板 6 次"
+    },
+    {
+      "code": "605358",
+      "name": "立昂微",
+      "changePct": "-10.01",
+      "tags": [
+        "半导体"
+      ],
+      "reason": "连续跌停 2，封单 8372.2万，开板 2 次"
+    },
+    {
+      "code": "600160",
+      "name": "巨化股份",
+      "changePct": "-9.99",
+      "tags": [
+        "化学制品"
+      ],
+      "reason": "连续跌停 1，封单 1.9亿，开板 7 次"
+    },
+    {
+      "code": "600707",
+      "name": "彩虹股份",
+      "changePct": "-10.01",
+      "tags": [
+        "光学光电"
+      ],
+      "reason": "连续跌停 1，封单 2.3亿，开板 4 次"
+    },
+    {
+      "code": "002407",
+      "name": "多氟多",
+      "changePct": "-10.00",
+      "tags": [
+        "化学制品"
+      ],
+      "reason": "连续跌停 1，封单 3.9亿，开板 14 次"
+    },
+    {
+      "code": "603001",
+      "name": "奥康国际",
+      "changePct": "-9.98",
+      "tags": [
+        "服装家纺"
+      ],
+      "reason": "连续跌停 2，封单 7.1亿，开板 0 次"
+    },
+    {
+      "code": "001399",
+      "name": "惠科股份",
+      "changePct": "-10.00",
+      "tags": [
+        "光学光电"
+      ],
+      "reason": "连续跌停 1，封单 11.6亿，开板 0 次"
+    }
+  ],
   "watchPlan": [
     {
       "title": "最强概念",
@@ -101992,28 +102163,28 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-03",
-    "generatedAt": "2026-07-03 19:58:51",
+    "generatedAt": "2026-07-03 21:26:16",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、有色稀土、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
-        "name": "金融",
-        "score": 19,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 18,
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "新能源",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 3,
         "isFocusBoard": false
       },
@@ -102030,258 +102201,253 @@
     ],
     "items": [
       {
-        "title": "*ST益通:关于控股股东部分股份被冻结的公告",
-        "summary": "*ST益通(300430)：*ST益通:关于控股股东部分股份被冻结的公告",
+        "title": "瑞迪智驱:股票交易异常波动公告",
+        "summary": "瑞迪智驱(301596)：瑞迪智驱:股票交易异常波动公告",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300430/AN202607031826702636.html",
+        "url": "https://data.eastmoney.com/notices/detail/301596/AN202607031826701605.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST益通(300430)"
+          "瑞迪智驱(301596)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "新睿电子:关于签署募集资金三方及四方监管协议的公告",
-        "summary": "新睿电子(920211)：新睿电子:关于签署募集资金三方及四方监管协议的公告",
+        "title": "信濠光电:关于持股5%以上股东部分股份拟被司法拍卖的进展公告",
+        "summary": "信濠光电(301051)：信濠光电:关于持股5%以上股东部分股份拟被司法拍卖的进展公告",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920211/AN202607031826702013.html",
+        "url": "https://data.eastmoney.com/notices/detail/301051/AN202607031826707691.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "新睿电子(920211)"
+          "信濠光电(301051)"
         ],
         "importance": 1,
-        "noticeType": "签订协议"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "东土科技:关于控股股东部分股份解除质押的公告",
-        "summary": "东土科技(300353)：东土科技:关于控股股东部分股份解除质押的公告",
+        "title": "8-1发行人及中介机构关于首轮审核问询函的回复(广东钶锐锶数控技术股份有限公司)",
+        "summary": "钶锐锶(A25178)：8-1发行人及中介机构关于首轮审核问询函的回复(广东钶锐锶数控技术股份有限公司)",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300353/AN202607031826701527.html",
+        "url": "https://data.eastmoney.com/notices/detail/A25178/AN202607031826707241.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "东土科技(300353)"
+          "钶锐锶(A25178)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "科创板发行上市问询与回复"
       },
       {
-        "title": "顺网科技:杭州顺网科技股份有限公司关于控股股东、实际控制人部分股份解除质押及质押展期的公告",
-        "summary": "顺网科技(300113)：顺网科技:杭州顺网科技股份有限公司关于控股股东、实际控制人部分股份解除质押及质押展期的公告",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300113/AN202607031826701403.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "顺网科技(300113)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "亿纬锂能：拟减持不超过3.5%思摩尔国际股票",
-        "summary": "【亿纬锂能：拟减持不超过3.5%思摩尔国际股票】亿纬锂能(300014.SZ)公告称，公司董事会审议通过议案，同意授权董事长在一年内择机减持全资孙公司EBIL持有的不超过思摩尔国际3.5%股票(约21,684.71万股)。此举旨在增强市值管理，优化资产结构，满足研发投入资金需求。减持方式包括大宗交易和集中竞价，具体实施受价格和时间影响，存在不确定性。",
-        "publishedAt": "2026-07-03 19:34:58",
+        "title": "国内商品期货夜盘开盘 主力合约涨多跌少",
+        "summary": "国内商品期货夜盘开盘，主力合约涨多跌少。涨幅方面，丁二烯胶、沪银、沪锡涨超1%，乙二醇、PVC、沪金、纯苯、沪锌等小幅上涨；跌幅方面，棕榈油、菜粕、原油、铁矿石、玉米等小幅下跌。",
+        "publishedAt": "2026-07-03 21:00:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793720921.html",
+        "url": "https://finance.eastmoney.com/a/202607033793800275.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "江波龙:2026年半年度业绩预告",
-        "summary": "江波龙(301308)：江波龙:2026年半年度业绩预告",
+        "title": "腾景科技:腾景科技股份有限公司投资者关系活动记录(2026-006)",
+        "summary": "腾景科技(688195)：腾景科技:腾景科技股份有限公司投资者关系活动记录(2026-006)",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301308/AN202607031826702637.html",
+        "url": "https://data.eastmoney.com/notices/detail/688195/AN202607031826705831.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "江波龙(301308)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "奥美森:投资者关系活动记录表",
-        "summary": "奥美森(920080)：奥美森:投资者关系活动记录表",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920080/AN202607031826702612.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "奥美森(920080)"
+          "腾景科技(688195)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "超图软件:关于回购公司股份的进展公告",
-        "summary": "超图软件(300036)：超图软件:关于回购公司股份的进展公告",
+        "title": "京东方Ａ:030-2026年7月2日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:030-2026年7月2日投资者关系活动记录表",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300036/AN202607031826702493.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "超图软件(300036)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "鼎智科技:董事会薪酬与考核委员会关于2025年股权激励计划首次授予限制性股票第一个解除限售期解除限售条件成就事项的核查意见",
-        "summary": "鼎智科技(920593)：鼎智科技:董事会薪酬与考核委员会关于2025年股权激励计划首次授予限制性股票第一个解除限售期解除限售条件成就事项的核查意见",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920593/AN202607031826702321.html",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202607031826674525.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "鼎智科技(920593)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "鼎智科技:关于2025年股权激励计划首次授予限制性股票第一个解除限售期解除限售条件成就的公告",
-        "summary": "鼎智科技(920593)：鼎智科技:关于2025年股权激励计划首次授予限制性股票第一个解除限售期解除限售条件成就的公告",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920593/AN202607031826702323.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鼎智科技(920593)"
-        ],
-        "importance": 1,
-        "noticeType": "限售股份上市流通"
-      },
-      {
-        "title": "鼎智科技:北京德恒(杭州)律师事务所关于江苏鼎智智能控制科技股份有限公司2025年股权激励计划首次授予限制性股票第一个解除限售期解除限售条件成就事项的法律意见书",
-        "summary": "鼎智科技(920593)：鼎智科技:北京德恒(杭州)律师事务所关于江苏鼎智智能控制科技股份有限公司2025年股权激励计划首次授予限制性股票第一个解除限售期解除限售条件成就事项的法律意见书",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920593/AN202607031826702320.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鼎智科技(920593)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "新益昌:深圳新益昌科技股份有限公司投资者关系活动记录表(2026-004)",
-        "summary": "新益昌(688383)：新益昌:深圳新益昌科技股份有限公司投资者关系活动记录表(2026-004)",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688383/AN202607031826701885.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新益昌(688383)"
+          "京东方A(000725)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "上海证券交易所并购重组审核委员会2026年第10次审议会议公告",
-        "summary": "渤海汽车(600960)：上海证券交易所并购重组审核委员会2026年第10次审议会议公告",
+        "title": "2026年7月3日投资者关系活动记录表",
+        "summary": "集泰股份(002909)：2026年7月3日投资者关系活动记录表",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600960/AN202607031826701698.html",
+        "url": "https://data.eastmoney.com/notices/detail/002909/AN202607031826707794.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "集泰股份(002909)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "太辰光:2025年度分红派息实施公告",
+        "summary": "太辰光(300570)：太辰光:2025年度分红派息实施公告",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300570/AN202607031826707648.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "汽车链",
           "金融"
         ],
         "tickers": [
-          "渤海汽车(600960)"
+          "太辰光(300570)"
         ],
         "importance": 1,
-        "noticeType": "上交所并购重组委会议公告"
+        "noticeType": "分配方案实施"
       },
       {
-        "title": "拓荆科技：拟购买无锡尚积半导体科技股份有限公司的控股权 股票继续停牌",
-        "summary": "【拓荆科技：拟购买无锡尚积半导体科技股份有限公司的控股权 股票继续停牌】拓荆科技公告，公司正在筹划以发行股份及支付现金的方式购买无锡尚积半导体科技股份有限公司的控股权并募集配套资金。鉴于本次交易的相关事项尚存不确定性，为维护投资者利益，避免造成公司股价异常波动，根据上海证券交易所相关规定，公司股票将继续停牌。",
-        "publishedAt": "2026-07-03 19:51:28",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793727897.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "一博科技投资者关系活动记录表-2026年7月3日",
+        "summary": "一博科技(301366)：一博科技投资者关系活动记录表-2026年7月3日",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301366/AN202607031826706958.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "半导体",
-          "金融"
+        "themes": [],
+        "tickers": [
+          "一博科技(301366)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "天赐材料：子公司南通天赐终止年产24.3万吨锂电及含氟新材料项目",
-        "summary": "【天赐材料：子公司南通天赐终止年产24.3万吨锂电及含氟新材料项目】天赐材料(002709.SZ)公告称，公司子公司南通天赐终止年产24.3万吨锂电及含氟新材料项目。该项目原计划总投资26.54亿元，截至2026年6月30日在建工程余额为936.13万元。",
-        "publishedAt": "2026-07-03 19:50:06",
+        "title": "盛弘股份:2026年7月3日投资者关系活动记录表",
+        "summary": "盛弘股份(300693)：盛弘股份:2026年7月3日投资者关系活动记录表",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300693/AN202607031826706957.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盛弘股份(300693)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "同星科技:2026年7月3日投资者关系活动记录表",
+        "summary": "同星科技(301252)：同星科技:2026年7月3日投资者关系活动记录表",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301252/AN202607031826706854.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "同星科技(301252)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "依米康:2026年7月2日投资者关系活动记录表",
+        "summary": "依米康(300249)：依米康:2026年7月2日投资者关系活动记录表",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300249/AN202607031826706836.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "依米康(300249)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "TCL智家:2026年7月2日投资者关系活动记录表",
+        "summary": "TCL智家(002668)：TCL智家:2026年7月2日投资者关系活动记录表",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002668/AN202607031826706859.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "TCL智家(002668)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "明年起部分新能源车全额征收车船税 有何考量？释放什么信号？",
+        "summary": "【明年起部分新能源车全额征收车船税 有何考量？释放什么信号？】7月3日，财政部、税务总局、工业和信息化部三部门联合对外发布《关于调整节能汽车、新能源汽车车船税优惠政策的公告》。《公告》明确，自2027年1月1日起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策。",
+        "publishedAt": "2026-07-03 21:15:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793726798.html",
+        "url": "https://finance.eastmoney.com/a/202607033793827077.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "新能源",
-          "有色稀土"
+          "汽车链",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "茉莉奶白最高56万年薪急招法务 被判赔LV千万元后订单量翻倍",
-        "summary": "【茉莉奶白最高56万年薪急招法务 被判赔LV千万元后订单量翻倍】7月3日，新式茶饮品牌茉莉奶白正在招聘网站上招聘法务岗位，此前品牌被判赔偿路易威登（LV）千万元商标侵权款。界面新闻记者查询招聘平台发现，茉莉奶白公司目前正在招聘多个法务岗位，包括海外法务主管、法务bp和法务经理（知识产权方向）。",
-        "publishedAt": "2026-07-03 19:41:40",
+        "title": "美图公司：首席执行官吴泽源增持160万股公司股份",
+        "summary": "【美图公司：首席执行官吴泽源增持160万股公司股份】美图公司在港交所公告，公司创始人、董事长及首席执行官吴泽源于二零二六年七月三日于香港联合交易所有限公司公开市场以平均价每股4.023港元购入本公司股份160万股。",
+        "publishedAt": "2026-07-03 20:52:23",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033793725957.html",
+        "url": "https://finance.eastmoney.com/a/202607033793798449.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "阿科力：拟向特定对象发行股票募资不超3.75亿元 华芯智基将成控股股东",
+        "summary": "【阿科力：拟向特定对象发行股票募资不超3.75亿元 华芯智基将成控股股东】阿科力(603722.SH)公告称，公司拟向特定对象发行A股股票，募集资金总额不超过3.75亿元，全部用于补充流动资金。发行对象为青岛华芯智基投资合伙企业(有限合伙)，其将以现金方式认购。",
+        "publishedAt": "2026-07-03 20:52:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607033793797421.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -102700,15 +102866,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-03 19:58:51",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、有色稀土、新能源。",
+        "generatedAt": "2026-07-03 21:26:16",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：人形机器人、机器人概念、汽车零部件；首看 人形机器人 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -102739,13 +102905,13 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-03 19:57:53",
-        "summary": "上午情绪分 100，涨停 108 家，跌停 0 家，炸板 52 家，连板 16 家，最高 4 板。",
+        "generatedAt": "2026-07-03 21:25:01",
+        "summary": "上午情绪分 100，涨停 108 家，跌停 19 家，炸板 52 家，连板 16 家，最高 4 板。",
         "sections": [
           {
             "title": "上午盘面",
             "items": [
-              "涨停 108 家，跌停 0 家，炸板率 32%，最高连板 4 板。",
+              "涨停 108 家，跌停 19 家，炸板率 32%，最高连板 4 板。",
               "主线候选：人形机器人、机器人概念、汽车零部件；首看 人形机器人 的前排承接和中军量能。",
               "弱势方向：电子化学品、OLED、化学制品，相关后排不做反包幻想。"
             ]
@@ -102778,15 +102944,15 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-03 19:57:53",
+        "generatedAt": "2026-07-03 21:25:01",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
             "title": "市场温度",
             "items": [
-              "情绪分 100，涨停 108，跌停 0，炸板 52。",
+              "情绪分 100，涨停 108，跌停 19，炸板 52。",
               "连板高度 4 板，当前仓位纪律：总仓位 50%-75%，单票 不超过35%。",
-              "今日负反馈：跌停 0 只，炸板 52 只。"
+              "今日负反馈：跌停 19 只，炸板 52 只。"
             ]
           },
           {
@@ -102802,9 +102968,9 @@
             "title": "风险与纪律",
             "items": [
               "今日炸板 52 只，追高前先看前排封单和回封质量。",
+              "今日跌停 19 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人形机器人，若明日资金转负，相关后排股要防冲高回落。",
-              "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：*ST益通:关于控股股东部分股份被冻结的公告；新睿电子:关于签署募集资金三方及四方监管协议的公告。",
+              "新闻/公告风险：瑞迪智驱:股票交易异常波动公告；信濠光电:关于持股5%以上股东部分股份拟被司法拍卖的进展公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
