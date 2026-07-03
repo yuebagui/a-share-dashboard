@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-03",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-03 02:53:46",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-03 02:53:46",
+    "lastNewsAt": "2026-07-03 18:20:00"
   },
   "indices": [
     {
@@ -102041,24 +102043,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-03",
-    "generatedAt": "2026-07-03 02:54:34",
+    "generatedAt": "2026-07-03 18:20:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、有色稀土、机器人。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 11,
+        "name": "金融",
+        "score": 22,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 7,
+        "name": "机器人",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -102067,18 +102069,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
+        "name": "能源",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -102089,254 +102081,267 @@
     ],
     "items": [
       {
-        "title": "ST龙元:龙元建设关于筹划重大事项的停牌公告",
-        "summary": "ST龙元(600491)：ST龙元:龙元建设关于筹划重大事项的停牌公告",
+        "title": "ST朗进:山东朗进科技股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展公告",
+        "summary": "ST朗进(300594)：ST朗进:山东朗进科技股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展公告",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600491/AN202607021826670135.html",
+        "url": "https://data.eastmoney.com/notices/detail/300594/AN202607031826697386.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST龙元(600491)"
+          "ST朗进(300594)"
         ],
         "importance": 1,
-        "noticeType": "停牌公告"
+        "noticeType": "其它风险提示公告"
       },
       {
-        "title": "ST龙元:龙元建设关于股票交易异常波动的公告",
-        "summary": "ST龙元(600491)：ST龙元:龙元建设关于股票交易异常波动的公告",
+        "title": "发行人及中介机构关于第二轮审核问询函的回复意见(重庆宇隆光电科技股份有限公司)",
+        "summary": "宇隆科技(A25276)：发行人及中介机构关于第二轮审核问询函的回复意见(重庆宇隆光电科技股份有限公司)",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600491/AN202607021826670128.html",
+        "url": "https://data.eastmoney.com/notices/detail/A25276/AN202607031826697233.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST龙元(600491)"
+          "宇隆科技(A25276)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "创业板IPO问询与回复"
       },
       {
-        "title": "ST金顶:广东金唐(龙华)律师事务所关于公司相关事项之专项核查的法律意见书",
-        "summary": "ST金顶(600678)：ST金顶:广东金唐(龙华)律师事务所关于公司相关事项之专项核查的法律意见书",
+        "title": "万辰集团:关于股东部分股份质押的公告",
+        "summary": "万辰集团(300972)：万辰集团:关于股东部分股份质押的公告",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600678/AN202607021826669587.html",
+        "url": "https://data.eastmoney.com/notices/detail/300972/AN202607031826697208.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST金顶(600678)"
+          "万辰集团(300972)"
         ],
         "importance": 1,
-        "noticeType": "法律意见书"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "ST金顶:四川金顶(集团)股份有限公司关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
-        "summary": "ST金顶(600678)：ST金顶:四川金顶(集团)股份有限公司关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
+        "title": "华测导航:关于持股5%以上股东部分股份质押的公告",
+        "summary": "华测导航(300627)：华测导航:关于持股5%以上股东部分股份质押的公告",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600678/AN202607021826669586.html",
+        "url": "https://data.eastmoney.com/notices/detail/300627/AN202607031826696738.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "华测导航(300627)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "长盛轴承：在具身智能零部件领域的收入在主营业务收入中占比低",
+        "summary": "【长盛轴承：在具身智能零部件领域的收入在主营业务收入中占比低】长盛轴承(300718.SZ)公告称，公司主营业务保持平稳，未出现大幅度波动，在具身智能零部件领域的收入在主营业务收入中占比低（不足1%），不会对业绩产生重大影响。敬请广大投资者理性投资，注意风险。",
+        "publishedAt": "2026-07-03 18:11:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607033793678931.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "机器人"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "三部门：拟对金融等重要行业和领域的关键信息基础设施实行重点保护",
+        "summary": "【三部门：拟对金融等重要行业和领域的关键信息基础设施实行重点保护】央行等三部门就《金融业网络安全管理办法（征求意见稿）》公开征求意见。征求意见稿提出，对金融等重要行业和领域的关键信息基础设施实行重点保护。党中央、国务院要求，对涉及多个部门、管理难度大、风险隐患突出的监管事项，要建立健全跨部门综合监管制度。",
+        "publishedAt": "2026-07-03 18:08:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607033793677470.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "ST金顶(600678)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": ""
       },
       {
-        "title": "明志科技:关于股票交易异常波动的更正公告",
-        "summary": "明志科技(688355)：明志科技:关于股票交易异常波动的更正公告",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688355/AN202607021826669429.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "3连板中通国脉：截止目前公司经营能力没有显著改善",
+        "summary": "【3连板中通国脉：截止目前公司经营能力没有显著改善】中通国脉(603559.SH)公告称，敬请广大投资者注意投资风险。截止目前公司经营能力没有显著改善。",
+        "publishedAt": "2026-07-03 18:06:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607033793677376.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "明志科技(688355)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": ""
       },
       {
-        "title": "*ST尔雅:中审众环会计师事务所关于湖北美尔雅股份有限公司2025年年度报告的信息披露监管问询函的回复",
-        "summary": "*ST尔雅(600107)：*ST尔雅:中审众环会计师事务所关于湖北美尔雅股份有限公司2025年年度报告的信息披露监管问询函的回复",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600107/AN202607021826669136.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "3连板宜宾纸业：四川普什醋酸纤维素有限责任公司收到相关客户预付货款38.2万元 暂未签订正式合同",
+        "summary": "【3连板宜宾纸业：四川普什醋酸纤维素有限责任公司收到相关客户预付货款38.2万元 暂未签订正式合同】宜宾纸业(600793.SH)发布股票交易风险提示性公告，部分投资者关注到公司控股子公司四川普什醋酸纤维素有限责任公司与TAC膜相关客户业务合作情况，经公司核查，四川普什醋酸纤维素有限责任公司收到相关客户预付货款38.2万元，暂未签订正式合同，后续能否获取订…",
+        "publishedAt": "2026-07-03 18:01:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607033793676956.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "*ST尔雅(600107)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": ""
       },
       {
-        "title": "*ST尔雅:关于上海证券交易所对公司2025年年度报告的信息披露监管工作函的回复公告",
-        "summary": "*ST尔雅(600107)：*ST尔雅:关于上海证券交易所对公司2025年年度报告的信息披露监管工作函的回复公告",
+        "title": "恒鑫生活:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+        "summary": "恒鑫生活(301501)：恒鑫生活:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600107/AN202607021826669135.html",
+        "url": "https://data.eastmoney.com/notices/detail/301501/AN202607031826697604.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "*ST尔雅(600107)"
+          "恒鑫生活(301501)"
         ],
         "importance": 1,
-        "noticeType": "监管工作函回复公告"
+        "noticeType": "回购进展情况"
       },
       {
-        "title": "*ST禾信:致同会计师事务所(特殊普通合伙)关于广州禾信仪器股份有限公司2025年年度报告的信息披露监管问询函的回复",
-        "summary": "*ST禾信(688622)：*ST禾信:致同会计师事务所(特殊普通合伙)关于广州禾信仪器股份有限公司2025年年度报告的信息披露监管问询函的回复",
+        "title": "耐科装备:安徽耐科装备科技股份有限公司投资者关系活动记录表-2026年7月3日",
+        "summary": "耐科装备(688419)：耐科装备:安徽耐科装备科技股份有限公司投资者关系活动记录表-2026年7月3日",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688622/AN202607021826668801.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST禾信(688622)"
-        ],
-        "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
-      },
-      {
-        "title": "*ST禾信:关于2025年年度报告的信息披露监管问询函的回复公告",
-        "summary": "*ST禾信(688622)：*ST禾信:关于2025年年度报告的信息披露监管问询函的回复公告",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688622/AN202607021826668800.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST禾信(688622)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "埃斯顿:股票交易异常波动公告",
-        "summary": "埃斯顿(002747)：埃斯顿:股票交易异常波动公告",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002747/AN202607021826668787.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "埃斯顿(002747)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "巴西规划部长表示：柴油补贴的取消速度将慢于汽油 以避免价格剧烈波动和供应风险",
-        "summary": "【巴西规划部长表示：柴油补贴的取消速度将慢于汽油 以避免价格剧烈波动和供应风险】巴西规划部长表示，柴油补贴的取消速度将慢于汽油，以避免价格剧烈波动和供应风险。本月可能取消石油出口税或将其降至12%以下。",
-        "publishedAt": "2026-07-03 02:27:30",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033792341998.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "黑石集团旗下QTS放弃弗吉尼亚州大型数据中心项目",
-        "summary": "【黑石集团旗下QTS放弃弗吉尼亚州大型数据中心项目】黑石集团旗下的QTS正放弃其在弗吉尼亚州一处数据中心园区的建设规划，为多年来持续反对该项目的当地居民送上了一场胜利。这家数据中心开发商原本计划将北弗吉尼亚威廉王子县超过800英亩的土地，打造为全球规模最大科技走廊之一的核心组成部分。据知情人士透露，受近期相关司法判决与不断叠加的监管障碍影响，QTS管理层最…",
-        "publishedAt": "2026-07-03 02:21:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033792341817.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "自查自纠出清遗留税务风险 超百家上市公司补税近百亿元",
-        "summary": "【自查自纠出清遗留税务风险 超百家上市公司补税近百亿元】2026年以来，A股市场迎来一批上市公司集中补税，在资本市场引发持续热议。据记者不完全统计，截至目前，年内已有超百家上市公司披露涉税补缴公告，补税金额接近100亿元，补缴税款从数百万元到数亿元不等，覆盖农业、钢铁、医药、能源、电子等多个行业。从已披露的案例来看，本轮上市公司补税的主要原因并非隐匿收入、…",
-        "publishedAt": "2026-07-03 02:07:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033792339533.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "医药",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "京东方Ａ:030-2026年7月2日投资者关系活动记录表",
-        "summary": "京东方A(000725)：京东方Ａ:030-2026年7月2日投资者关系活动记录表",
-        "publishedAt": "2026-07-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000725/AN202607031826674525.html",
+        "url": "https://data.eastmoney.com/notices/detail/688419/AN202607031826697296.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "京东方A(000725)"
+          "耐科装备(688419)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "科泰电源:关于全资子公司签订采购合同暨关联交易的公告",
-        "summary": "科泰电源(300153)：科泰电源:关于全资子公司签订采购合同暨关联交易的公告",
+        "title": "隆华科技:关于全资子公司与关联方共同投资设立合资公司暨关联交易的公告",
+        "summary": "隆华科技(300263)：隆华科技:关于全资子公司与关联方共同投资设立合资公司暨关联交易的公告",
         "publishedAt": "2026-07-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300153/AN202607021826668586.html",
+        "url": "https://data.eastmoney.com/notices/detail/300263/AN202607031826697261.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "科泰电源(300153)"
+          "隆华科技(300263)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": "投资设立公司"
       },
       {
-        "title": "美联储周四隔夜逆回购协议使用规模为21.75亿美元 上个交易日报10.01亿美元",
-        "summary": "美联储周四隔夜逆回购协议（RRP）使用规模为21.75亿美元，上个交易日报10.01亿美元。",
-        "publishedAt": "2026-07-03 01:20:42",
+        "title": "宏裕包材:关于参加湖北辖区上市公司2026年投资者网上集体接待日活动的预告公告",
+        "summary": "宏裕包材(920274)：宏裕包材:关于参加湖北辖区上市公司2026年投资者网上集体接待日活动的预告公告",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920274/AN202607031826697118.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宏裕包材(920274)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "赛科希德:投资者关系活动记录表(2026-002)",
+        "summary": "赛科希德(688338)：赛科希德:投资者关系活动记录表(2026-002)",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688338/AN202607031826697011.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "赛科希德(688338)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "高伟达:关于回购公司股份方案的公告",
+        "summary": "高伟达(300465)：高伟达:关于回购公司股份方案的公告",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300465/AN202607031826696555.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "高伟达(300465)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "永大股份:关于开立募集资金现金管理专用结算账户的公告",
+        "summary": "永大股份(920126)：永大股份:关于开立募集资金现金管理专用结算账户的公告",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920126/AN202607031826696551.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "永大股份(920126)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "奇精机械:2026-002奇精机械投资者关系活动记录表(2026-07-02)",
+        "summary": "奇精机械(603677)：奇精机械:2026-002奇精机械投资者关系活动记录表(2026-07-02)",
+        "publishedAt": "2026-07-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603677/AN202607031826695473.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "奇精机械(603677)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鹏欣资源：拟以2600万元至5000万元回购股份用于员工持股计划或股权激励",
+        "summary": "【鹏欣资源：拟以2600万元至5000万元回购股份用于员工持股计划或股权激励】鹏欣资源(600490.SH)公告称，公司拟以自有资金通过集中竞价交易方式回购股份，回购金额不低于2600万元且不超过5000万元，回购价格不超过9元/股。回购股份将用于实施员工持股计划或股权激励。",
+        "publishedAt": "2026-07-03 18:09:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033792337028.html",
+        "url": "https://finance.eastmoney.com/a/202607033793677674.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -102348,31 +102353,19 @@
         "noticeType": ""
       },
       {
-        "title": "欧洲央行行长拉加德称：确信欧洲央行在6月份加息是正确的选择",
-        "summary": "欧洲央行行长拉加德称，确信欧洲央行在6月份加息是正确的选择，大多数政策制定者此前准备在四月份加息。",
-        "publishedAt": "2026-07-03 00:43:17",
+        "title": "圣诺生物：控股股东拟4000万—5000万元增持公司股份",
+        "summary": "【圣诺生物：控股股东拟4000万—5000万元增持公司股份】圣诺生物公告，控股股东四川赛诺投资有限公司计划4000万元—5000万元增持公司股份，中国银行股份有限公司四川省分行已向赛诺投资出具《贷款承诺函》，同意为赛诺投资增持公司股票提供专项贷款，贷款金额最高不超过4500万元，期限3年。",
+        "publishedAt": "2026-07-03 18:03:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607033792332296.html",
+        "url": "https://finance.eastmoney.com/a/202607033793676687.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至7月1日美联储资产负债表(万亿美元)",
-        "summary": "美国截至7月1日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.74。",
-        "publishedAt": "2026-07-03 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -102660,7 +102653,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -102673,15 +102666,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-03 02:54:34",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-07-03 18:20:00",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、有色稀土、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：国企改革、机器人概念、新能源汽车；首看 国企改革 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -102777,7 +102770,7 @@
               "今日炸板 40 只，追高前先看前排封单和回封质量。",
               "今日跌停 40 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST龙元:龙元建设关于筹划重大事项的停牌公告；ST龙元:龙元建设关于股票交易异常波动的公告。",
+              "新闻/公告风险：ST朗进:山东朗进科技股份有限公司关于公司股票交易被实施其他风险警示相关事项的进展公告；发行人及中介机构关于第二轮审核问询函的回复意见(重庆宇隆光电科技股份有限公司)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
