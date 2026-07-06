@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-07-06",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-07-06 22:47:38",
+    "tradeDate": "2026-07-07",
+    "phase": "盘中快照",
+    "generatedAt": "2026-07-07 00:30:13",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -101481,227 +101481,219 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-06",
-    "generatedAt": "2026-07-06 22:48:15",
+    "tradeDate": "2026-07-07",
+    "generatedAt": "2026-07-07 00:30:53",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 能源、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
-        "name": "能源",
-        "score": 9,
+        "name": "有色稀土",
+        "score": 13,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 9,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 5,
-        "isFocusBoard": true
-      },
-      {
-        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "欧普康视:关于持股5%以上股东部分股份补充质押的公告",
-        "summary": "欧普康视(300595)：欧普康视:关于持股5%以上股东部分股份补充质押的公告",
-        "publishedAt": "2026-07-06",
+        "title": "中天火箭:陕西中天火箭技术股份有限公司关于持股5%以上股东及其一致行动人持股比例变动触及1%整数倍的公告",
+        "summary": "中天火箭(003009)：中天火箭:陕西中天火箭技术股份有限公司关于持股5%以上股东及其一致行动人持股比例变动触及1%整数倍的公告",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300595/AN202607061826746588.html",
+        "url": "https://data.eastmoney.com/notices/detail/003009/AN202607061826754458.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "欧普康视(300595)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "北京君正:股东减持股份实施情况公告",
-        "summary": "北京君正(300223)：北京君正:股东减持股份实施情况公告",
-        "publishedAt": "2026-07-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300223/AN202607061826749701.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "北京君正(300223)"
+          "中天火箭(003009)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "*ST泉为:关于股票交易异常波动的公告",
-        "summary": "*ST泉为(300716)：*ST泉为:关于股票交易异常波动的公告",
-        "publishedAt": "2026-07-06",
+        "title": "共进股份:关于股票交易风险提示公告",
+        "summary": "共进股份(603118)：共进股份:关于股票交易风险提示公告",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300716/AN202607061826753862.html",
+        "url": "https://data.eastmoney.com/notices/detail/603118/AN202607061826754224.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST泉为(300716)"
+          "共进股份(603118)"
+        ],
+        "importance": 1,
+        "noticeType": "风险提示性公告"
+      },
+      {
+        "title": "海南海药:关于股票交易异常波动公告",
+        "summary": "海南海药(000566)：海南海药:关于股票交易异常波动公告",
+        "publishedAt": "2026-07-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000566/AN202607061826754044.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "海南海药(000566)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "*ST泉为:第五届董事会第一次会议决议公告",
-        "summary": "*ST泉为(300716)：*ST泉为:第五届董事会第一次会议决议公告",
-        "publishedAt": "2026-07-06",
+        "title": "良信股份:关于控股股东股份质押及解除质押的公告",
+        "summary": "良信股份(002706)：良信股份:关于控股股东股份质押及解除质押的公告",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300716/AN202607061826753860.html",
+        "url": "https://data.eastmoney.com/notices/detail/002706/AN202607061826753849.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST泉为(300716)"
+          "良信股份(002706)"
         ],
         "importance": 1,
-        "noticeType": "高管人员任职变动"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "特朗普在谈及俄乌冲突时表示认为已经接近取得重大进展",
-        "summary": "特朗普在谈及俄乌冲突时表示，认为已经接近取得重大进展，将向北约谈及俄乌问题。",
-        "publishedAt": "2026-07-06 22:16:17",
+        "title": "博敏电子:博敏电子关于最近五年被证券监管部门和交易所处罚或采取监管措施的公告",
+        "summary": "博敏电子(603936)：博敏电子:博敏电子关于最近五年被证券监管部门和交易所处罚或采取监管措施的公告",
+        "publishedAt": "2026-07-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603936/AN202607061826753807.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "博敏电子(603936)"
+        ],
+        "importance": 1,
+        "noticeType": "处罚"
+      },
+      {
+        "title": "博敏电子:博敏电子关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示及填补回报措施和相关主体承诺的公告",
+        "summary": "博敏电子(603936)：博敏电子:博敏电子关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示及填补回报措施和相关主体承诺的公告",
+        "publishedAt": "2026-07-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603936/AN202607061826753816.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "博敏电子(603936)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "申通快递:德勤华永会计师事务所(特殊普通合伙)关于申通快递股份有限公司申请向不特定对象发行可转换公司债券的审核问询函的回复",
+        "summary": "申通快递(002468)：申通快递:德勤华永会计师事务所(特殊普通合伙)关于申通快递股份有限公司申请向不特定对象发行可转换公司债券的审核问询函的回复",
+        "publishedAt": "2026-07-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002468/AN202607061826753592.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "申通快递(002468)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "钨矿指数大跌近7% 多家上市公司回应：价格小幅回落，但下游需求变动不大",
+        "summary": "【钨矿指数大跌近7% 多家上市公司回应：价格小幅回落，但下游需求变动不大】据中证金牛座，7月6日，钨行业上市公司股价巨震。截至收盘，Wind钨矿指数收盘跌幅达到6.73%。对于股价大跌，多家钨行业上市公司回应记者，近期，钨精矿价格小幅回调，从上周开始就有回调迹象，下游需求变动不大。有上市公司高管告诉记者，2026年3月钨精矿价格曾达到108万元/吨。3月份…",
+        "publishedAt": "2026-07-06 23:17:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607063795481930.html",
+        "url": "https://finance.eastmoney.com/a/202607063795512079.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "有色稀土",
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "广西灾情有可能进一步扩大",
-        "summary": "【广西灾情有可能进一步扩大】7月6日晚广西南宁防汛救灾发布会上介绍，广西此次强降雨导致的水库灾情，险情大、受灾面广、救援复杂程度高，同时还有继续降雨来水的风险。当前抢险救援难度大，受灾群众安置任务重，灾情有可能进一步放大扩大。",
-        "publishedAt": "2026-07-06 22:03:45",
+        "title": "湖北黄石、咸宁发布暴雨红色预警信号",
+        "summary": "【湖北黄石、咸宁发布暴雨红色预警信号】湖北黄石市气象台6日22时47分升级暴雨预警信号为红色：过去1小时大冶最大降水出现在金牛镇（高河）为42毫米。预计今天晚上到明天上午，大冶西部及北部乡镇仍将有40~80毫米降水，最大小时雨强20~50毫米，并伴有雷暴大风，阵风10级以上，山区山洪、地质灾害、城乡积涝、中小河流洪水风险极高，请特别加强防范。湖北咸宁市气象…",
+        "publishedAt": "2026-07-06 23:09:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607063795466364.html",
+        "url": "https://finance.eastmoney.com/a/202607063795508724.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "华骐环保:关于持股5%以上股东增持股份比例触及1%整数倍的公告",
-        "summary": "华骐环保(300929)：华骐环保:关于持股5%以上股东增持股份比例触及1%整数倍的公告",
-        "publishedAt": "2026-07-06",
+        "title": "滨化股份:滨化股份2026年半年度业绩预增公告",
+        "summary": "滨化股份(601678)：滨化股份:滨化股份2026年半年度业绩预增公告",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300929/AN202607061826750516.html",
+        "url": "https://data.eastmoney.com/notices/detail/601678/AN202607061826754630.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "华骐环保(300929)"
+          "滨化股份(601678)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
+        "noticeType": "业绩预告"
       },
       {
-        "title": "则成电子:关于使用部分闲置自有资金进行现金管理的进展公告",
-        "summary": "则成电子(920821)：则成电子:关于使用部分闲置自有资金进行现金管理的进展公告",
-        "publishedAt": "2026-07-06",
+        "title": "博敏电子:博敏电子关于2026年度以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "博敏电子(603936)：博敏电子:博敏电子关于2026年度以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920821/AN202607061826749079.html",
+        "url": "https://data.eastmoney.com/notices/detail/603936/AN202607061826753813.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "则成电子(920821)"
+          "博敏电子(603936)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "获得补贴（资助）"
       },
       {
-        "title": "2026年7月6日投资者关系活动记录表",
-        "summary": "三花智控(002050)：2026年7月6日投资者关系活动记录表",
-        "publishedAt": "2026-07-06",
+        "title": "博敏电子:博敏电子未来三年(2027-2029年)股东分红回报规划",
+        "summary": "博敏电子(603936)：博敏电子:博敏电子未来三年(2027-2029年)股东分红回报规划",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002050/AN202607061826754459.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三花智控(002050)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "乾照光电:关于合伙基金完成备案的进展公告",
-        "summary": "乾照光电(300102)：乾照光电:关于合伙基金完成备案的进展公告",
-        "publishedAt": "2026-07-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300102/AN202607061826753863.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "乾照光电(300102)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "深圳华强:2026年7月6日投资者关系活动记录表",
-        "summary": "深圳华强(000062)：深圳华强:2026年7月6日投资者关系活动记录表",
-        "publishedAt": "2026-07-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000062/AN202607061826753654.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深圳华强(000062)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "新威凌:关于调整2024年限制性股票激励计划回购价格的公告",
-        "summary": "新威凌(920634)：新威凌:关于调整2024年限制性股票激励计划回购价格的公告",
-        "publishedAt": "2026-07-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920634/AN202607061826753664.html",
+        "url": "https://data.eastmoney.com/notices/detail/603936/AN202607061826753809.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -101709,105 +101701,99 @@
           "金融"
         ],
         "tickers": [
-          "新威凌(920634)"
+          "博敏电子(603936)"
         ],
         "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
+        "noticeType": "其他"
       },
       {
-        "title": "新威凌:关于回购注销部分限制性股票方案的公告",
-        "summary": "新威凌(920634)：新威凌:关于回购注销部分限制性股票方案的公告",
-        "publishedAt": "2026-07-06",
+        "title": "粤海饲料:关于注销部分股票期权的公告",
+        "summary": "粤海饲料(001313)：粤海饲料:关于注销部分股票期权的公告",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920634/AN202607061826753659.html",
+        "url": "https://data.eastmoney.com/notices/detail/001313/AN202607061826753746.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "新威凌(920634)"
+          "粤海饲料(001313)"
         ],
         "importance": 1,
-        "noticeType": "回购预案"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "新威凌:国浩律师(长沙)事务所关于湖南新威凌金属新材料科技股份有限公司2024年限制性股票激励计划预留授予部分第一个解除限售期解除限售条件成就、回购价格调整及回购注销部分限制性股票相关事宜之法律意见书",
-        "summary": "新威凌(920634)：新威凌:国浩律师(长沙)事务所关于湖南新威凌金属新材料科技股份有限公司2024年限制性股票激励计划预留授予部分第一个解除限售期解除限售条件成就、回购价格调整及回购注销部分限制性股票相关事宜之法律意见书",
-        "publishedAt": "2026-07-06",
+        "title": "神州数码:关于注销部分股票期权的公告",
+        "summary": "神州数码(000034)：神州数码:关于注销部分股票期权的公告",
+        "publishedAt": "2026-07-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920634/AN202607061826753657.html",
+        "url": "https://data.eastmoney.com/notices/detail/000034/AN202607061826753583.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "新威凌(920634)"
+          "神州数码(000034)"
         ],
         "importance": 1,
-        "noticeType": "法律意见书"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "高盛：世界模型或成未来AI基建的新引擎 将叠加新的计算需求",
-        "summary": "【高盛：世界模型或成未来AI基建的新引擎 将叠加新的计算需求】高盛特别强调，“世界模型”可能成为未来AI基础设施需求的第二引擎。高盛认为，世界模型并非替代大语言模型，而是叠加新的计算需求。若其发展速度超预期，当前围绕算力和电力的投资预测仍可能偏低。",
-        "publishedAt": "2026-07-06 22:15:57",
+        "title": "胜宏科技：前期量产高端产品原材料价格平稳产品定价较为稳定 新产品定价遵循市场化定价原则",
+        "summary": "【胜宏科技：前期量产高端产品原材料价格平稳产品定价较为稳定 新产品定价遵循市场化定价原则】胜宏科技(300476.SZ)发布投资者关系活动记录表公告，公司原材料价格波动主要体现在消费类产品上，公司消费业务相对稳定，已将原材料上涨带来的成本压力合理、有序地向下游客户传导。公司前期量产高端产品原材料价格平稳，产品定价较为稳定，新产品定价遵循市场化定价原则，将根…",
+        "publishedAt": "2026-07-06 23:59:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607063795482742.html",
+        "url": "https://finance.eastmoney.com/a/202607063795521957.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "AI算力",
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "高盛：AI投资重心迈向实体产业 未来6年资本开支或达7.6万亿美元",
-        "summary": "【高盛：AI投资重心迈向实体产业 未来6年资本开支或达7.6万亿美元】高盛在最新报告中称，2026年至2031年，全球围绕计算、数据中心和电力的AI资本开支将达到约7.6万亿美元，年度投入将从2026年的7650亿美元升至2031年的1.64万亿美元。超大规模云厂商到2030年的AI投资或超过6万亿美元。",
-        "publishedAt": "2026-07-06 22:08:56",
+        "title": "美国法官驳回马斯克关于撤销“欺诈推特投资者”判决的请求",
+        "summary": "【美国法官驳回马斯克关于撤销“欺诈推特投资者”判决的请求】美国法官驳回马斯克关于撤销“欺诈推特投资者”判决的请求，但撤销了基于其中一条推文的指控。",
+        "publishedAt": "2026-07-06 23:19:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607063795477812.html",
+        "url": "https://finance.eastmoney.com/a/202607063795512171.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "AI算力",
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "全球6月ANZ商品价格指数月率(%)",
-        "summary": "全球6月ANZ商品价格指数月率(%)；公布 -1.0，预期 nan，前值 0.7。",
-        "publishedAt": "2026-07-06 09:30",
+        "title": "美国7月6日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国7月6日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1001.37。",
+        "publishedAt": "2026-07-07 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
-        "themes": [],
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "全球6月ANZ商品价格指数年率(%)",
-        "summary": "全球6月ANZ商品价格指数年率(%)；公布 2.7，预期 nan，前值 1.3。",
-        "publishedAt": "2026-07-06 09:30",
+        "title": "美国7月6日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国7月6日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.05。",
+        "publishedAt": "2026-07-07 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
-        "themes": [],
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -102104,7 +102090,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -102117,15 +102103,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-06 22:48:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 能源、金融、AI算力。",
+        "generatedAt": "2026-07-07 00:30:53",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、半导体；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -102156,7 +102142,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-06 22:47:38",
+        "generatedAt": "2026-07-07 00:30:13",
         "summary": "上午情绪分 0，涨停 64 家，跌停 46 家，炸板 41 家，连板 8 家，最高 5 板。",
         "sections": [
           {
@@ -102195,7 +102181,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-06 22:47:38",
+        "generatedAt": "2026-07-07 00:30:13",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -102221,7 +102207,7 @@
               "今日炸板 41 只，追高前先看前排封单和回封质量。",
               "今日跌停 46 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 机器人概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：欧普康视:关于持股5%以上股东部分股份补充质押的公告；北京君正:股东减持股份实施情况公告。",
+              "新闻/公告风险：中天火箭:陕西中天火箭技术股份有限公司关于持股5%以上股东及其一致行动人持股比例变动触及1%整数倍的公告；共进股份:关于股票交易风险提示公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
