@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-08",
     "phase": "盘中快照",
-    "generatedAt": "2026-07-08 00:58:28",
+    "generatedAt": "2026-07-08 03:25:40",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -92597,7 +92597,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -92769,20 +92770,23 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-08",
-    "generatedAt": "2026-07-08 00:59:13",
+    "generatedAt": "2026-07-08 03:26:16",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 能源、AI算力、医药。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 能源、金融、有色稀土。",
     "themes": [
       {
         "name": "能源",
-        "score": 10,
+        "score": 17,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "金融",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
@@ -92792,8 +92796,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 6,
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -92986,32 +92995,32 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "高盛称重资产类股下一轮涨势将由盈利推动 料进一步跑赢轻资产类股",
-        "summary": "【高盛称重资产类股下一轮涨势将由盈利推动 料进一步跑赢轻资产类股】高盛集团策略师表示，资本密集型公司本财报季可能公布稳健业绩，进一步跑赢那些更依赖人力或数字资产的同行。“随着实物资产、基础设施和工业产能重拾战略重要性，投资者对此布局仍然不足，”纪尧姆·贾森等人表示。他们指的是“HALO”类公司，即重资产、低淘汰风险公司。一篮子欧洲资本密集型行业股票今年已上…",
-        "publishedAt": "2026-07-08 00:15:07",
+        "title": "现货白银价格下跌3%",
+        "summary": "现货白银价格下跌3%至每盎司60.16美元。",
+        "publishedAt": "2026-07-08 03:05:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797131171.html",
+        "url": "https://finance.eastmoney.com/a/202607083797144865.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "AI算力",
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "特朗普称将取消对土耳其制裁",
-        "summary": "【特朗普称将取消对土耳其制裁】美国总统特朗普7日在土耳其首都安卡拉表示，美国将取消对土耳其的制裁，并就土耳其回归F-35战斗机项目作出决定。",
-        "publishedAt": "2026-07-07 23:49:05",
+        "title": "摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍",
+        "summary": "【摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍】摩根大通分析师RajatGupta表示，尽管特斯拉和SpaceX合并“纸面上看起来合情合理”，但目前围绕合并的猜测低估了阻碍交易的潜在障碍。Gupta称，合并将使首席执行官埃隆·马斯克能够“合并两大平台的愿景、使命和工程领导力”，两家公司共同的人工智能雄心将成为“潜在的战略黏合剂”。不过，这位分析…",
+        "publishedAt": "2026-07-08 02:23:17",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073797124850.html",
+        "url": "https://finance.eastmoney.com/a/202607083797140231.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "AI算力",
+          "汽车链"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -93033,63 +93042,67 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "2026世界人工智能大会下周开幕 300余款产品将在上海首发",
-        "summary": "【2026世界人工智能大会下周开幕 300余款产品将在上海首发】2026世界人工智能大会暨人工智能全球治理高级别会议将于7月17日至20日在上海举行。据7日举行的上海市政府新闻发布会介绍，本届大会展览总面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，其中300余款产品将全球首发。智算、具身两大赛道各汇聚超200家企业。",
-        "publishedAt": "2026-07-08 00:49:22",
+        "title": "央行深化互联互通 债券通“南向通”额度大幅提升",
+        "summary": "【央行深化互联互通 债券通“南向通”额度大幅提升】7月7日，中国人民银行行长潘功胜在香港固定收益及货币峰会暨债券通论坛上表示，当前香港社会稳定、金融市场繁荣，吸引更多的国际投资者和发行人进入香港市场。香港的金融业稳定繁荣与社会稳定进入良性循环状态。人民银行将配合香港特区政府和金融管理部门，聚焦4个重点方向，继续建设好、巩固好和发展好香港国际金融中心。",
+        "publishedAt": "2026-07-08 03:10:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797127575.html",
+        "url": "https://finance.eastmoney.com/a/202607083797143389.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "SK海力士美国IPO据悉获得数倍超额认购",
-        "summary": "【SK海力士美国IPO据悉获得数倍超额认购】SK海力士美国IPO据悉获得数倍超额认购，大约1000名散户投资者参与了7月6日的（管理层营销）电话会。",
-        "publishedAt": "2026-07-07 23:50:29",
+        "title": "美联储周二隔夜逆回购协议（RRP）使用规模为44.84亿美元",
+        "summary": "【美联储周二隔夜逆回购协议（RRP）使用规模为44.84亿美元】美联储周二隔夜逆回购协议（RRP）使用规模为44.84亿美元，上个交易日报27.19亿美元。",
+        "publishedAt": "2026-07-08 01:17:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073797125689.html",
+        "url": "https://finance.eastmoney.com/a/202607083797137112.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
-        "summary": "【特朗普再次声称格陵兰岛“应该由美国控制” 】美国总统特朗普7日在土耳其首都安卡拉与土耳其总统埃尔多安举行双边会议前，再次声称格陵兰岛“应该由美国控制”，而不是丹麦。特朗普在回答记者相关提问时说，“格陵兰岛对丹麦没用，丹麦也并没有真正花钱帮助格陵兰岛”，但格陵兰岛对美国来说很重要。",
-        "publishedAt": "2026-07-08 00:34:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797131787.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "微软在部分应用中替换掉OpenAI和Anthropic 改用自研AI技术",
-        "summary": "微软在部分应用中替换掉OpenAI和Anthropic，改用自研AI技术。",
-        "publishedAt": "2026-07-08 00:27:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797131494.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [
-          "AI算力"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月EIA月报预估-当年WTI原油价格(美元/桶)",
+        "summary": "美国7月EIA月报预估-当年WTI原油价格(美元/桶)；公布 76.26，预期 nan，前值 88.32。",
+        "publishedAt": "2026-07-08 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月EIA月报预估-当年布伦特原油价格(美元/桶)",
+        "summary": "美国7月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 81.82，预期 nan，前值 95.39。",
+        "publishedAt": "2026-07-08 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -93271,15 +93284,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-08 00:59:13",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 能源、AI算力、医药。",
+        "generatedAt": "2026-07-08 03:26:16",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 能源、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：半导体、通信设备；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93310,7 +93323,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-08 00:58:28",
+        "generatedAt": "2026-07-08 03:25:40",
         "summary": "上午情绪分 10，涨停 33 家，跌停 30 家，炸板 23 家，连板 5 家，最高 6 板。",
         "sections": [
           {
@@ -93349,7 +93362,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-08 00:58:28",
+        "generatedAt": "2026-07-08 03:25:40",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
