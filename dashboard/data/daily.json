@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-07-07",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-07-07 20:41:27",
+    "tradeDate": "2026-07-08",
+    "phase": "盘中快照",
+    "generatedAt": "2026-07-08 00:44:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -107690,20 +107690,17 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-07",
-    "generatedAt": "2026-07-07 20:42:21",
+    "tradeDate": "2026-07-08",
+    "generatedAt": "2026-07-08 00:44:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 能源、AI算力、医药。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 7,
+        "name": "能源",
+        "score": 10,
         "isFocusBoard": false
       },
       {
@@ -107712,33 +107709,78 @@
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "医药",
         "score": 6,
-        "isFocusBoard": true
-      },
-      {
-        "name": "能源",
-        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
+        "name": "金融",
+        "score": 6,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST惠伦:关于收到中国证券监督管理委员会广东监管局行政监管措施决定书和深圳证券交易所监管函的公告",
-        "summary": "ST惠伦(300460)：ST惠伦:关于收到中国证券监督管理委员会广东监管局行政监管措施决定书和深圳证券交易所监管函的公告",
-        "publishedAt": "2026-07-07",
+        "title": "祥生医疗:容诚会计师事务所(特殊普通合伙)关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函的专项核查意见",
+        "summary": "祥生医疗(688358)：祥生医疗:容诚会计师事务所(特殊普通合伙)关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函的专项核查意见",
+        "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300460/AN202607071826779056.html",
+        "url": "https://data.eastmoney.com/notices/detail/688358/AN202607071826780288.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "祥生医疗(688358)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "祥生医疗:祥生医疗关于2025年年度报告的信息披露监管问询函的回复公告",
+        "summary": "祥生医疗(688358)：祥生医疗:祥生医疗关于2025年年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688358/AN202607071826780290.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "祥生医疗(688358)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "祥生医疗:国金证券股份有限公司关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函之回复的核查意见",
+        "summary": "祥生医疗(688358)：祥生医疗:国金证券股份有限公司关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函之回复的核查意见",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688358/AN202607071826780289.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "医药",
+          "金融"
+        ],
+        "tickers": [
+          "祥生医疗(688358)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "ST龙韵:上海龙韵文创科技集团股份有限公司关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
+        "summary": "ST龙韵(603729)：ST龙韵:上海龙韵文创科技集团股份有限公司关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603729/AN202607071826780175.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -107746,83 +107788,148 @@
           "金融"
         ],
         "tickers": [
-          "ST惠伦(300460)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "ST惠伦:关于补充披露控股股东及实控人对外签署借款合同及涉诉进展公告",
-        "summary": "ST惠伦(300460)：ST惠伦:关于补充披露控股股东及实控人对外签署借款合同及涉诉进展公告",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300460/AN202607071826779032.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST惠伦(300460)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "三超新材:南京三超新材料股份有限公司与华泰联合证券有限责任公司关于南京三超新材料股份有限公司申请向特定对象发行股票的审核问询函之回复(修订稿)",
-        "summary": "三超新材(300554)：三超新材:南京三超新材料股份有限公司与华泰联合证券有限责任公司关于南京三超新材料股份有限公司申请向特定对象发行股票的审核问询函之回复(修订稿)",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300554/AN202607071826778761.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "三超新材(300554)"
+          "ST龙韵(603729)"
         ],
         "importance": 1,
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "三超新材:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "三超新材(300554)：三超新材:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "publishedAt": "2026-07-07",
+        "title": "ST龙韵:众华会计师事务所(特殊普通合伙)关于对上海龙韵文创科技集团股份有限公司2025年年度报告的信息披露监管问询函之回复",
+        "summary": "ST龙韵(603729)：ST龙韵:众华会计师事务所(特殊普通合伙)关于对上海龙韵文创科技集团股份有限公司2025年年度报告的信息披露监管问询函之回复",
+        "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300554/AN202607071826778760.html",
+        "url": "https://data.eastmoney.com/notices/detail/603729/AN202607071826780176.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "三超新材(300554)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "三超新材:天衡会计师事务所(特殊普通合伙)关于南京三超新材料股份有限公司申请向特定对象发行股票审核问询函的回复(修订稿)",
-        "summary": "三超新材(300554)：三超新材:天衡会计师事务所(特殊普通合伙)关于南京三超新材料股份有限公司申请向特定对象发行股票审核问询函的回复(修订稿)",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300554/AN202607071826778756.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "三超新材(300554)"
+          "ST龙韵(603729)"
         ],
         "importance": 1,
         "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "市场监管总局将开展公平竞争审查抽查",
-        "summary": "【市场监管总局将开展公平竞争审查抽查】记者今天（7日）了解到，公平竞争审查制度积极有效地发挥了促进市场公平竞争和保障全国统一大市场建设的重要作用，市场监管总局近期将组织开展2026年度公平竞争审查抽查，指导各地做到“应审尽审”“凡审必严”。",
-        "publishedAt": "2026-07-07 20:38:43",
+        "title": "*ST亚士:亚士创能关于公司拟先行实施庭外重组事项的补充公告",
+        "summary": "*ST亚士(603378)：*ST亚士:亚士创能关于公司拟先行实施庭外重组事项的补充公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603378/AN202607071826779541.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST亚士(603378)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST岭南:广发证券股份有限公司关于岭南转债2026年第二季度违约处置进展临时受托管理事务报告",
+        "summary": "*ST岭南(002717)：*ST岭南:广发证券股份有限公司关于岭南转债2026年第二季度违约处置进展临时受托管理事务报告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002717/AN202607071826779437.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST岭南(002717)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST岭南:岭南生态文旅股份有限公司向不特定对象发行可转换公司债券2026年度第十七次临时受托管理事务报告",
+        "summary": "*ST岭南(002717)：*ST岭南:岭南生态文旅股份有限公司向不特定对象发行可转换公司债券2026年度第十七次临时受托管理事务报告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002717/AN202607071826779425.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST岭南(002717)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "皇氏集团:股票交易异常波动公告",
+        "summary": "皇氏集团(002329)：皇氏集团:股票交易异常波动公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002329/AN202607071826779286.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "皇氏集团(002329)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "*ST美芝:关于召开2026年第二次临时股东会的通知",
+        "summary": "*ST美芝(002856)：*ST美芝:关于召开2026年第二次临时股东会的通知",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002856/AN202607071826779101.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST美芝(002856)"
+        ],
+        "importance": 1,
+        "noticeType": "召开股东大会通知"
+      },
+      {
+        "title": "青龙管业:关于股票交易异常波动公告",
+        "summary": "青龙管业(002457)：青龙管业:关于股票交易异常波动公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002457/AN202607071826779096.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "青龙管业(002457)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "高盛称重资产类股下一轮涨势将由盈利推动 料进一步跑赢轻资产类股",
+        "summary": "【高盛称重资产类股下一轮涨势将由盈利推动 料进一步跑赢轻资产类股】高盛集团策略师表示，资本密集型公司本财报季可能公布稳健业绩，进一步跑赢那些更依赖人力或数字资产的同行。“随着实物资产、基础设施和工业产能重拾战略重要性，投资者对此布局仍然不足，”纪尧姆·贾森等人表示。他们指的是“HALO”类公司，即重资产、低淘汰风险公司。一篮子欧洲资本密集型行业股票今年已上…",
+        "publishedAt": "2026-07-08 00:15:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073796956156.html",
+        "url": "https://finance.eastmoney.com/a/202607083797131171.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "特朗普称将取消对土耳其制裁",
+        "summary": "【特朗普称将取消对土耳其制裁】美国总统特朗普7日在土耳其首都安卡拉表示，美国将取消对土耳其的制裁，并就土耳其回归F-35战斗机项目作出决定。",
+        "publishedAt": "2026-07-07 23:49:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607073797124850.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -107832,28 +107939,58 @@
         "noticeType": ""
       },
       {
-        "title": "ST惠伦：因未披露控股股东借款合同事项收到广东证监局行政监管措施和深交所监管函",
-        "summary": "【ST惠伦：因未披露控股股东借款合同事项收到广东证监局行政监管措施和深交所监管函】ST惠伦(300460.SZ)公告称，公司及相关当事人收到广东证监局出具的《行政监管措施决定书》和深交所《监管函》。经查，2025年1月20日，控股股东新疆惠伦、实际控制人赵积清与广东仟易伟达股权投资合伙企业签订借款合同，合同涉及董事长变更、董事会改选、股份转让等未来事项安排…",
-        "publishedAt": "2026-07-07 20:36:11",
+        "title": "胜宏科技:300476胜宏科技投资者关系管理信息20260708",
+        "summary": "胜宏科技(300476)：胜宏科技:300476胜宏科技投资者关系管理信息20260708",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300476/AN202607081826782102.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "胜宏科技(300476)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "SK海力士美国IPO据悉获得数倍超额认购",
+        "summary": "【SK海力士美国IPO据悉获得数倍超额认购】SK海力士美国IPO据悉获得数倍超额认购，大约1000名散户投资者参与了7月6日的（管理层营销）电话会。",
+        "publishedAt": "2026-07-07 23:50:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073796947127.html",
+        "url": "https://finance.eastmoney.com/a/202607073797125689.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "SpaceX旗下Colossus数据中心遭关停令 450亿美元协议面临风险",
-        "summary": "【SpaceX旗下Colossus数据中心遭关停令 450亿美元协议面临风险】一项诉讼请求法院下令SpaceX关闭为其Colossus2数据中心供电的燃气轮机，理由是其在未取得所需许可的情况下运营。该诉讼可能会危及SpaceX与Anthropic签订的450亿美元合同中的部分内容。",
-        "publishedAt": "2026-07-07 20:34:34",
+        "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
+        "summary": "【特朗普再次声称格陵兰岛“应该由美国控制” 】美国总统特朗普7日在土耳其首都安卡拉与土耳其总统埃尔多安举行双边会议前，再次声称格陵兰岛“应该由美国控制”，而不是丹麦。特朗普在回答记者相关提问时说，“格陵兰岛对丹麦没用，丹麦也并没有真正花钱帮助格陵兰岛”，但格陵兰岛对美国来说很重要。",
+        "publishedAt": "2026-07-08 00:34:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073796942922.html",
+        "url": "https://finance.eastmoney.com/a/202607083797131787.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "微软在部分应用中替换掉OpenAI和Anthropic 改用自研AI技术",
+        "summary": "微软在部分应用中替换掉OpenAI和Anthropic，改用自研AI技术。",
+        "publishedAt": "2026-07-08 00:27:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607083797131494.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
           "AI算力"
         ],
@@ -107862,161 +107999,15 @@
         "noticeType": ""
       },
       {
-        "title": "市场监管总局多举措整治“内卷式”竞争",
-        "summary": "【市场监管总局多举措整治“内卷式”竞争】记者今天（7日）了解到，今年以来，市场监管总局深入整治“内卷式”竞争。围绕加强监管执法、深化平台治理、强化源头规范等方面部署开展16项专项行动，明确39项预期成果，整治工作取得积极进展。",
-        "publishedAt": "2026-07-07 20:31:59",
+        "title": "文化和旅游部印发《旅游强国建设“十五五”规划》：到2030年国内居民出游人次达到83亿 国内出游总花费达到7.7万亿元",
+        "summary": "【文化和旅游部印发《旅游强国建设“十五五”规划》：到2030年国内居民出游人次达到83亿 国内出游总花费达到7.7万亿元】经国务院同意，文化和旅游部近日印发《旅游强国建设“十五五”规划》。规划提出，到2030年，旅游业高质量发展取得明显成效，现代旅游业体系更加完善，旅游强国建设取得显著进展。旅游业的支柱产业地位更加稳固，旅游业拉动内需、促进就业、活跃市场的…",
+        "publishedAt": "2026-07-08 00:26:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073796939149.html",
+        "url": "https://finance.eastmoney.com/a/202607083797131548.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "中性",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "杭华股份:杭华油墨股份有限公司投资者关系活动记录表(截止2026年7月7日)",
-        "summary": "杭华股份(688571)：杭华股份:杭华油墨股份有限公司投资者关系活动记录表(截止2026年7月7日)",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688571/AN202607071826774104.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "杭华股份(688571)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "标榜股份:关于与专业投资机构共同投资的进展公告",
-        "summary": "标榜股份(301181)：标榜股份:关于与专业投资机构共同投资的进展公告",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301181/AN202607071826771140.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "标榜股份(301181)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "华盛昌:2026年7月7日投资者关系活动记录表",
-        "summary": "华盛昌(002980)：华盛昌:2026年7月7日投资者关系活动记录表",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002980/AN202607071826779022.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华盛昌(002980)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "国信证券:国信证券股份有限公司2026年面向专业投资者公开发行公司债券(第五期)票面利率公告",
-        "summary": "国信证券(002736)：国信证券:国信证券股份有限公司2026年面向专业投资者公开发行公司债券(第五期)票面利率公告",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002736/AN202607071826778938.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国信证券(002736)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "贝达药业:关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
-        "summary": "贝达药业(300558)：贝达药业:关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300558/AN202607071826778551.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "贝达药业(300558)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "贝达药业:关于调整2023年限制性股票激励计划授予价格的公告",
-        "summary": "贝达药业(300558)：贝达药业:关于调整2023年限制性股票激励计划授予价格的公告",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300558/AN202607071826778549.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "贝达药业(300558)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "贝达药业:关于2023年限制性股票激励计划首次授予部分第二个归属期和预留授予部分第一个归属期符合归属条件的公告",
-        "summary": "贝达药业(300558)：贝达药业:关于2023年限制性股票激励计划首次授予部分第二个归属期和预留授予部分第一个归属期符合归属条件的公告",
-        "publishedAt": "2026-07-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300558/AN202607071826778544.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "贝达药业(300558)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "晶科能源新签德国343.79MW飞虎3订单",
-        "summary": "【晶科能源新签德国343.79MW飞虎3订单】据晶科能源消息，近日，晶科能源与德国大型能源开发商正式签署343.79MW高效组件供货协议，全部采用飞虎3（TigerNeo3.0）N型TOPCon高效组件，专项用于德国北部大型地面电站建设。",
-        "publishedAt": "2026-07-07 20:15:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073796929893.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "欧菲光：预计上半年净亏损3.6亿元-4.6亿元",
-        "summary": "【欧菲光：预计上半年净亏损3.6亿元-4.6亿元】欧菲光(002456.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为亏损3.60亿元-4.60亿元。业绩变动主要系存储芯片涨价及下游需求走弱，公司销售订单减少导致毛利减少，政府补助同比减少，少数股东损益同比增加。",
-        "publishedAt": "2026-07-07 20:09:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607073796927922.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -108187,7 +108178,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -108200,15 +108191,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-07 20:42:21",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-07-08 00:44:35",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 能源、AI算力、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：半导体、通信设备；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -108239,7 +108230,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-07 20:41:27",
+        "generatedAt": "2026-07-08 00:44:00",
         "summary": "上午情绪分 10，涨停 33 家，跌停 30 家，炸板 23 家，连板 5 家，最高 6 板。",
         "sections": [
           {
@@ -108278,7 +108269,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-07 20:41:27",
+        "generatedAt": "2026-07-08 00:44:00",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -108304,7 +108295,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 30 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST惠伦:关于收到中国证券监督管理委员会广东监管局行政监管措施决定书和深圳证券交易所监管函的公告；ST惠伦:关于补充披露控股股东及实控人对外签署借款合同及涉诉进展公告。",
+              "新闻/公告风险：祥生医疗:容诚会计师事务所(特殊普通合伙)关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函的专项核查意见；祥生医疗:祥生医疗关于2025年年度报告的信息披露监管问询函的回复公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
