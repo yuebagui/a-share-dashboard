@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-08",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-08 19:20:07",
+    "generatedAt": "2026-07-08 20:10:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -152,10 +152,10 @@
       ],
       "sealAmount": "243.6万",
       "turnover": "成交 13.5亿",
-      "reason": "元件方向涨停，涨停统计 2/2，首次封板 09:30:33，炸板 8 次。",
+      "reason": "元件方向涨停，涨停统计 2/2，首次封板 09:30:33，炸板 9 次。",
       "firstSeal": "09:30:33",
       "lastSeal": "15:00:00",
-      "failCount": 8
+      "failCount": 9
     },
     {
       "code": "600094",
@@ -93153,24 +93153,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-08",
-    "generatedAt": "2026-07-08 19:21:06",
+    "generatedAt": "2026-07-08 20:10:57",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、半导体、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 19,
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 10,
-        "isFocusBoard": true
-      },
-      {
         "name": "能源",
-        "score": 9,
+        "score": 11,
         "isFocusBoard": false
       },
       {
@@ -93179,121 +93174,102 @@
         "isFocusBoard": false
       },
       {
+        "name": "汽车链",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 5,
+        "isFocusBoard": true
+      },
+      {
         "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "每日互动:关于每日互动股份有限公司申请向特定对象发行股票的审核问询函之回复(修订稿)(豁免版)",
-        "summary": "每日互动(300766)：每日互动:关于每日互动股份有限公司申请向特定对象发行股票的审核问询函之回复(修订稿)(豁免版)",
+        "title": "翰博高新:关于公司股价异动的公告",
+        "summary": "翰博高新(301321)：翰博高新:关于公司股价异动的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300766/AN202607081826819237.html",
+        "url": "https://data.eastmoney.com/notices/detail/301321/AN202607081826821535.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "每日互动(300766)"
+          "翰博高新(301321)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "每日互动:天健会计师事务所(特殊普通合伙)关于每日互动股份有限公司向特定对象发行股票的审核问询函中有关财务事项的说明(修订稿)(豁免版)",
-        "summary": "每日互动(300766)：每日互动:天健会计师事务所(特殊普通合伙)关于每日互动股份有限公司向特定对象发行股票的审核问询函中有关财务事项的说明(修订稿)(豁免版)",
+        "title": "2中兴华会计师事务所(特殊普通合伙)《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复",
+        "summary": "金埔园林(301098)：2中兴华会计师事务所(特殊普通合伙)《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300766/AN202607081826819252.html",
+        "url": "https://data.eastmoney.com/notices/detail/301098/AN202607081826820828.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "每日互动(300766)"
+          "金埔园林(301098)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "创业板再融资问询与回复"
       },
       {
-        "title": "信濠光电:关于收到深圳证监局行政监管措施决定书和深圳证券交易所监管函的公告",
-        "summary": "信濠光电(301051)：信濠光电:关于收到深圳证监局行政监管措施决定书和深圳证券交易所监管函的公告",
+        "title": "1发行人和长江保荐《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复",
+        "summary": "金埔园林(301098)：1发行人和长江保荐《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301051/AN202607081826819173.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "信濠光电(301051)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "深交所:森鹰窗业_监管函",
-        "summary": "森鹰窗业(301227)：深交所:森鹰窗业_监管函",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301227/AN202607081826819163.html",
+        "url": "https://data.eastmoney.com/notices/detail/301098/AN202607081826820827.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "森鹰窗业(301227)"
+          "金埔园林(301098)"
         ],
         "importance": 1,
-        "noticeType": "深交所股票监管函"
+        "noticeType": "创业板再融资问询与回复"
       },
       {
-        "title": "ST美晨:关于子公司名下房产被司法拍卖的公告",
-        "summary": "ST美晨(300237)：ST美晨:关于子公司名下房产被司法拍卖的公告",
+        "title": "长亮科技:关于控股股东、实际控制人部分股份补充质押的公告",
+        "summary": "长亮科技(300348)：长亮科技:关于控股股东、实际控制人部分股份补充质押的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300237/AN202607081826819156.html",
+        "url": "https://data.eastmoney.com/notices/detail/300348/AN202607081826820890.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST美晨(300237)"
+          "长亮科技(300348)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "中韩半导体ETF华泰柏瑞(513310)7月9日开市起至当日10:30停牌",
-        "summary": "【中韩半导体ETF华泰柏瑞(513310)7月9日开市起至当日10:30停牌】中韩半导体ETF华泰柏瑞(513310)二级市场交易价格明显高于基金份额参考净值，出现较大幅度溢价。特此提示投资者关注二级市场交易价格溢价风险，投资者如果盲目投资，可能遭受重大损失。为保护投资者的利益，基金将于2026年7月9日开市起至当日10:30停牌。",
-        "publishedAt": "2026-07-08 19:11:38",
+        "title": "运机集团：自贡市博宏丝绸有限公司拟减持不超1.9342%股份",
+        "summary": "【运机集团：自贡市博宏丝绸有限公司拟减持不超1.9342%股份】运机集团公告，持股5%以上股东自贡市博宏丝绸有限公司计划自2026年7月30日至2026年10月29日，通过大宗交易及集中竞价交易方式合计减持公司股份不超过452.14万股（占公司总股本不超过1.9342%）。",
+        "publishedAt": "2026-07-08 19:47:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798541187.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "广西郁江整体已出峰回落 防汛形势依然严峻",
-        "summary": "【广西郁江整体已出峰回落 防汛形势依然严峻】水利部水旱灾害防御司防汛四处处长李琛亮表示，目前，郁江洪水已出峰回落，防汛形势依然比较严峻，但风险基本可控。",
-        "publishedAt": "2026-07-08 19:10:32",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798539053.html",
+        "url": "https://finance.eastmoney.com/a/202607083798563667.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -93303,105 +93279,43 @@
         "noticeType": ""
       },
       {
-        "title": "以军称打死一名哈马斯精锐部队指挥官",
-        "summary": "【以军称打死一名哈马斯精锐部队指挥官】据央视新闻，当地时间8日，以色列国防军发布通告称，以军在7日针对加沙地带南部开展的军事行动中，打死了巴勒斯坦伊斯兰抵抗运动（哈马斯）精锐部队“努赫巴”的一名军事小组指挥官。以军指责其曾参与2023年10月7日对以色列的突袭，称其在冲突期间持续策划、指挥针对以军的袭击，并试图为哈马斯招募新成员。哈马斯方面对此暂无回应。",
-        "publishedAt": "2026-07-08 19:02:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798534738.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "央行：要继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
-        "summary": "【央行：要继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度】中国人民银行货币政策委员会2026年第二季度（总第113次）例会于7月4日召开。会议分析了国内外经济金融形势，认为当前外部环境更加复杂多变，世界经济增长动能疲弱，地缘冲突和经贸摩擦多发频发，主要经济体经济表现分化，通胀走势和货币政策调整存在不确定性。我国经济运行总体平稳、向新向优，高质量发展…",
-        "publishedAt": "2026-07-08 18:54:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798531564.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "祥和实业:浙江天台祥和实业股份有限公司投资者关系活动记录表",
-        "summary": "祥和实业(603500)：祥和实业:浙江天台祥和实业股份有限公司投资者关系活动记录表",
+        "title": "嘉曼服饰:2026年7月8日投资者关系活动记录表",
+        "summary": "嘉曼服饰(301276)：嘉曼服饰:2026年7月8日投资者关系活动记录表",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603500/AN202607081826819166.html",
+        "url": "https://data.eastmoney.com/notices/detail/301276/AN202607081826821748.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "祥和实业(603500)"
+          "嘉曼服饰(301276)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "华数传媒:2026年7月8日投资者关系活动记录表",
-        "summary": "华数传媒(000156)：华数传媒:2026年7月8日投资者关系活动记录表",
+        "title": "思看科技:思看科技2026年6月26日至7月3日投资者关系活动记录表",
+        "summary": "思看科技(688583)：思看科技:思看科技2026年6月26日至7月3日投资者关系活动记录表",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000156/AN202607081826818999.html",
+        "url": "https://data.eastmoney.com/notices/detail/688583/AN202607081826821193.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "华数传媒(000156)"
+          "思看科技(688583)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "锋龙股份:2026年7月8日投资者关系活动记录表",
-        "summary": "锋龙股份(002931)：锋龙股份:2026年7月8日投资者关系活动记录表",
+        "title": "通行宝:关于部分限制性股票回购注销完成的公告",
+        "summary": "通行宝(301339)：通行宝:关于部分限制性股票回购注销完成的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002931/AN202607081826818936.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "锋龙股份(002931)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "新五丰:湖南新五丰股份有限公司投资者关系活动记录表(2026005)",
-        "summary": "新五丰(600975)：新五丰:湖南新五丰股份有限公司投资者关系活动记录表(2026005)",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600975/AN202607081826818959.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新五丰(600975)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "欧伦电气:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "summary": "欧伦电气(920081)：欧伦电气:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920081/AN202607081826818987.html",
+        "url": "https://data.eastmoney.com/notices/detail/301339/AN202607081826820996.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -93409,17 +93323,17 @@
           "金融"
         ],
         "tickers": [
-          "欧伦电气(920081)"
+          "通行宝(301339)"
         ],
         "importance": 1,
-        "noticeType": "首发上市公告书"
+        "noticeType": "股本变动"
       },
       {
-        "title": "欧伦电气:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "summary": "欧伦电气(920081)：欧伦电气:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
+        "title": "亿田智能:《证券投资管理制度》",
+        "summary": "亿田智能(300911)：亿田智能:《证券投资管理制度》",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920081/AN202607081826818986.html",
+        "url": "https://data.eastmoney.com/notices/detail/300911/AN202607081826820988.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -93427,17 +93341,17 @@
           "金融"
         ],
         "tickers": [
-          "欧伦电气(920081)"
+          "亿田智能(300911)"
         ],
         "importance": 1,
-        "noticeType": "首发提示性公告"
+        "noticeType": "管理办法/制度"
       },
       {
-        "title": "龙鑫智能:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "summary": "龙鑫智能(920117)：龙鑫智能:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
+        "title": "派诺科技:关于调整2025年限制性股票激励计划回购价格并回购注销部分限制性股票的公告",
+        "summary": "派诺科技(920375)：派诺科技:关于调整2025年限制性股票激励计划回购价格并回购注销部分限制性股票的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920117/AN202607081826818985.html",
+        "url": "https://data.eastmoney.com/notices/detail/920375/AN202607081826820914.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -93445,17 +93359,67 @@
           "金融"
         ],
         "tickers": [
-          "龙鑫智能(920117)"
+          "派诺科技(920375)"
         ],
         "importance": 1,
-        "noticeType": "首发发行结果公告"
+        "noticeType": "股权激励行权价（数量）调整"
       },
       {
-        "title": "财通福鑫定开混合(501046)7月9日开盘起至当日10:30停牌",
-        "summary": "【财通福鑫定开混合(501046)7月9日开盘起至当日10:30停牌】财通福鑫定开混合(501046)二级市场交易价格明显高于基金份额净值，出现较大幅度溢价。为维护投资者利益，基金将于2026年7月9日开盘起至当日10:30停牌。",
-        "publishedAt": "2026-07-08 19:11:44",
+        "title": "派诺科技:北京市汉坤(深圳)律师事务所关于调整2025年限制性股票激励计划回购数量及价格并回购注销部分限制性股票之法律意见书",
+        "summary": "派诺科技(920375)：派诺科技:北京市汉坤(深圳)律师事务所关于调整2025年限制性股票激励计划回购数量及价格并回购注销部分限制性股票之法律意见书",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920375/AN202607081826820911.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "派诺科技(920375)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "派诺科技:变更部分募集资金用途及募投项目延期的公告",
+        "summary": "派诺科技(920375)：派诺科技:变更部分募集资金用途及募投项目延期的公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920375/AN202607081826820919.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "派诺科技(920375)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "乔锋智能:301603乔锋智能投资者关系管理信息20260708",
+        "summary": "乔锋智能(301603)：乔锋智能:301603乔锋智能投资者关系管理信息20260708",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301603/AN202607081826820819.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "乔锋智能(301603)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "太阳纸业：拟投资不超过50亿元建设广西南宁林浆纸一体化提质增效技改项目",
+        "summary": "【太阳纸业：拟投资不超过50亿元建设广西南宁林浆纸一体化提质增效技改项目】太阳纸业(002078.SZ)公告称，公司拟由全资子公司南宁太阳纸业实施广西南宁林浆纸一体化提质增效技改项目，建设年产50万吨本色化学木浆生产线和年产60万吨特种纸生产线，预计总投资不超过50亿元。",
+        "publishedAt": "2026-07-08 19:48:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798538917.html",
+        "url": "https://finance.eastmoney.com/a/202607083798562521.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -93465,19 +93429,67 @@
         "noticeType": ""
       },
       {
-        "title": "央行：要统筹好总供给和总需求的关系 着力扩大内需、优化供给",
-        "summary": "【央行：要统筹好总供给和总需求的关系 着力扩大内需、优化供给】中国人民银行货币政策委员会召开2026年第二季度例会。会议强调，要牢牢把握高质量发展首要任务，扎实推进中国式现代化，完整准确全面贯彻新发展理念，加快构建新发展格局。统筹好总供给和总需求的关系，着力扩大内需、优化供给，做优增量、盘活存量，增强经济发展内生动力，进一步做强国内大循环，做优国内国际双循…",
-        "publishedAt": "2026-07-08 18:56:10",
+        "title": "江淮汽车：预计上半年净亏损7.4亿元 市场竞争加剧导致销量同比下滑",
+        "summary": "【江淮汽车：预计上半年净亏损7.4亿元 市场竞争加剧导致销量同比下滑】江淮汽车(600418.SH)公告称，预计2026年半年度归属于母公司所有者的净利润为亏损7.4亿元，上年同期亏损7.73亿元。业绩变动主要系市场竞争加剧导致销量同比下滑，联营企业经营亏损使投资收益为-1.3亿元，受汇率波动影响，公司财务费用为1.4亿元左右。",
+        "publishedAt": "2026-07-08 19:36:39",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798532293.html",
+        "url": "https://finance.eastmoney.com/a/202607083798547830.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "汽车链"
         ],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月EIA月报预估-当年WTI原油价格(美元/桶)",
+        "summary": "美国7月EIA月报预估-当年WTI原油价格(美元/桶)；公布 76.26，预期 nan，前值 88.32。",
+        "publishedAt": "2026-07-08 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月EIA月报预估-当年布伦特原油价格(美元/桶)",
+        "summary": "美国7月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 81.82，预期 nan，前值 95.39。",
+        "publishedAt": "2026-07-08 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至7月3日当周API原油库存变动(万桶)",
+        "summary": "美国截至7月3日当周API原油库存变动(万桶)；公布 -39.9，预期 -150.0，前值 -607.2。",
+        "publishedAt": "2026-07-08 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -93596,15 +93608,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-08 19:21:06",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、半导体、能源。",
+        "generatedAt": "2026-07-08 20:10:57",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、半导体、通信设备；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93635,7 +93647,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-08 19:20:07",
+        "generatedAt": "2026-07-08 20:10:07",
         "summary": "上午情绪分 10，涨停 47 家，跌停 41 家，炸板 14 家，连板 8 家，最高 7 板。",
         "sections": [
           {
@@ -93674,7 +93686,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-08 19:20:07",
+        "generatedAt": "2026-07-08 20:10:07",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -93700,7 +93712,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 41 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 新能源汽车，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：每日互动:关于每日互动股份有限公司申请向特定对象发行股票的审核问询函之回复(修订稿)(豁免版)；每日互动:天健会计师事务所(特殊普通合伙)关于每日互动股份有限公司向特定对象发行股票的审核问询函中有关财务事项的说明(修订稿)(豁免版)。",
+              "新闻/公告风险：翰博高新:关于公司股价异动的公告；2中兴华会计师事务所(特殊普通合伙)《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
