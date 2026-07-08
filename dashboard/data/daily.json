@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-08",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-08 21:17:43",
+    "generatedAt": "2026-07-08 23:54:57",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -94167,7 +94167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -94339,19 +94340,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-08",
-    "generatedAt": "2026-07-08 21:18:47",
+    "generatedAt": "2026-07-08 23:55:55",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 2 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 13,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 12,
+        "score": 15,
         "isFocusBoard": false
       },
       {
@@ -94360,13 +94356,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
+        "name": "金融",
+        "score": 9,
         "isFocusBoard": false
       }
     ],
@@ -94388,20 +94379,84 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "2中兴华会计师事务所(特殊普通合伙)《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复",
-        "summary": "金埔园林(301098)：2中兴华会计师事务所(特殊普通合伙)《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复",
+        "title": "300476胜宏科技投资者关系管理信息20260708",
+        "summary": "胜宏科技(300476)：300476胜宏科技投资者关系管理信息20260708",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301098/AN202607081826820828.html",
+        "url": "https://data.eastmoney.com/notices/detail/300476/AN202607081826824672.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "金埔园林(301098)"
+          "胜宏科技(300476)"
         ],
         "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "零点有数:投资者关系活动记录表",
+        "summary": "零点有数(301169)：零点有数:投资者关系活动记录表",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301169/AN202607081826823806.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "零点有数(301169)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "盐湖股份:000792盐湖股份投资者关系管理信息20260708",
+        "summary": "盐湖股份(000792)：盐湖股份:000792盐湖股份投资者关系管理信息20260708",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000792/AN202607081826823579.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盐湖股份(000792)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "4-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明，或者估值报告(注册稿)(广州迈普再生医学科技股份有限公司)",
+        "summary": "迈普医学(301033)：4-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明，或者估值报告(注册稿)(广州迈普再生医学科技股份有限公司)",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301033/AN202607081826822977.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "迈普医学(301033)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组资产评估报告注册稿"
+      },
+      {
+        "title": "绿联科技:2026年7月7日-7月8日投资者关系活动记录表",
+        "summary": "绿联科技(301606)：绿联科技:2026年7月7日-7月8日投资者关系活动记录表",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301606/AN202607081826823011.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "绿联科技(301606)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "国能日新:2026年7月8日投资者关系活动记录表",
@@ -94504,72 +94559,34 @@
         "noticeType": "管理办法/制度"
       },
       {
-        "title": "派诺科技:关于调整2025年限制性股票激励计划回购价格并回购注销部分限制性股票的公告",
-        "summary": "派诺科技(920375)：派诺科技:关于调整2025年限制性股票激励计划回购价格并回购注销部分限制性股票的公告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920375/AN202607081826820914.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "无锡晶海：实控人李松年拟增持180万元-200万元",
+        "summary": "【无锡晶海：实控人李松年拟增持180万元-200万元】无锡晶海公告，持股5%以上股东、实际控制人李松年拟以集中竞价方式增持公司股份180万元至200万元，增持期限为自本公告日起不超过6个月（窗口期不交易）。",
+        "publishedAt": "2026-07-08 23:23:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607083798787493.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "派诺科技：出售CS Energy 1.9707%股权",
+        "summary": "【派诺科技：出售CS Energy 1.9707%股权】派诺科技公告，CSEnergyTechnologyLtd拟以60万美元回购公司全资子公司派诺科技（香港）有限公司持有的1.9707%的股权。本项目公司的投资额为40万美元，出资时间为2025年3月12日，回购价格为60万美元，本项目投资收益20万美元，投资回报率50%。",
+        "publishedAt": "2026-07-08 23:23:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607083798787287.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "派诺科技(920375)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "派诺科技:北京市汉坤(深圳)律师事务所关于调整2025年限制性股票激励计划回购数量及价格并回购注销部分限制性股票之法律意见书",
-        "summary": "派诺科技(920375)：派诺科技:北京市汉坤(深圳)律师事务所关于调整2025年限制性股票激励计划回购数量及价格并回购注销部分限制性股票之法律意见书",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920375/AN202607081826820911.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "派诺科技(920375)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "派诺科技:变更部分募集资金用途及募投项目延期的公告",
-        "summary": "派诺科技(920375)：派诺科技:变更部分募集资金用途及募投项目延期的公告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920375/AN202607081826820919.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "派诺科技(920375)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "乔锋智能:301603乔锋智能投资者关系管理信息20260708",
-        "summary": "乔锋智能(301603)：乔锋智能:301603乔锋智能投资者关系管理信息20260708",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301603/AN202607081826820819.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "乔锋智能(301603)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
         "title": "美国7月EIA月报预估-当年WTI原油价格(美元/桶)",
@@ -94629,36 +94646,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月7日iShares白银持仓-每日更新(吨)",
-        "summary": "美国7月7日iShares白银持仓-每日更新(吨)；公布 14915.1，预期 nan，前值 14899.63。",
-        "publishedAt": "2026-07-08 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月7日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月7日iShares黄金持仓-每日更新(吨)；公布 463.43，预期 nan，前值 462.7。",
-        "publishedAt": "2026-07-08 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -94779,15 +94766,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-08 21:18:47",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 2 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-07-08 23:55:55",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、半导体、通信设备；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -94818,7 +94805,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-08 21:17:43",
+        "generatedAt": "2026-07-08 23:54:57",
         "summary": "上午情绪分 10，涨停 47 家，跌停 41 家，炸板 14 家，连板 8 家，最高 7 板。",
         "sections": [
           {
@@ -94857,7 +94844,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-08 21:17:43",
+        "generatedAt": "2026-07-08 23:54:57",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -94883,7 +94870,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 41 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 新能源汽车，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：翰博高新:关于公司股价异动的公告；2中兴华会计师事务所(特殊普通合伙)《关于金埔园林股份有限公司申请向特定对象发行股票的审核问询函》的回复。",
+              "新闻/公告风险：翰博高新:关于公司股价异动的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
