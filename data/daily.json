@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-08",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-08 03:27:18",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-08 03:27:18",
+    "lastNewsAt": "2026-07-08 17:39:39"
   },
   "indices": [
     {
@@ -92770,30 +92772,30 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-08",
-    "generatedAt": "2026-07-08 03:27:54",
+    "generatedAt": "2026-07-08 17:39:39",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 能源、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
-        "name": "能源",
-        "score": 17,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 12,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 6,
+        "name": "能源",
+        "score": 11,
         "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 5,
+        "isFocusBoard": true
       },
       {
         "name": "AI算力",
@@ -92804,202 +92806,84 @@
         "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "祥生医疗:容诚会计师事务所(特殊普通合伙)关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函的专项核查意见",
-        "summary": "祥生医疗(688358)：祥生医疗:容诚会计师事务所(特殊普通合伙)关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函的专项核查意见",
+        "title": "世纪天鸿:关于控股股东部分股份质押的公告",
+        "summary": "世纪天鸿(300654)：世纪天鸿:关于控股股东部分股份质押的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688358/AN202607071826780288.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "祥生医疗(688358)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "祥生医疗:祥生医疗关于2025年年度报告的信息披露监管问询函的回复公告",
-        "summary": "祥生医疗(688358)：祥生医疗:祥生医疗关于2025年年度报告的信息披露监管问询函的回复公告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688358/AN202607071826780290.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "祥生医疗(688358)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "祥生医疗:国金证券股份有限公司关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函之回复的核查意见",
-        "summary": "祥生医疗(688358)：祥生医疗:国金证券股份有限公司关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函之回复的核查意见",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688358/AN202607071826780289.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "医药",
-          "金融"
-        ],
-        "tickers": [
-          "祥生医疗(688358)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "ST龙韵:上海龙韵文创科技集团股份有限公司关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
-        "summary": "ST龙韵(603729)：ST龙韵:上海龙韵文创科技集团股份有限公司关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603729/AN202607071826780175.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "ST龙韵(603729)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "ST龙韵:众华会计师事务所(特殊普通合伙)关于对上海龙韵文创科技集团股份有限公司2025年年度报告的信息披露监管问询函之回复",
-        "summary": "ST龙韵(603729)：ST龙韵:众华会计师事务所(特殊普通合伙)关于对上海龙韵文创科技集团股份有限公司2025年年度报告的信息披露监管问询函之回复",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603729/AN202607071826780176.html",
+        "url": "https://data.eastmoney.com/notices/detail/300654/AN202607081826817565.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST龙韵(603729)"
+          "世纪天鸿(300654)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "*ST亚士:亚士创能关于公司拟先行实施庭外重组事项的补充公告",
-        "summary": "*ST亚士(603378)：*ST亚士:亚士创能关于公司拟先行实施庭外重组事项的补充公告",
+        "title": "威尔高:关于公司股票交易异常波动的公告",
+        "summary": "威尔高(301251)：威尔高:关于公司股票交易异常波动的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603378/AN202607071826779541.html",
+        "url": "https://data.eastmoney.com/notices/detail/301251/AN202607081826817568.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST亚士(603378)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "*ST岭南:广发证券股份有限公司关于岭南转债2026年第二季度违约处置进展临时受托管理事务报告",
-        "summary": "*ST岭南(002717)：*ST岭南:广发证券股份有限公司关于岭南转债2026年第二季度违约处置进展临时受托管理事务报告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002717/AN202607071826779437.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "*ST岭南(002717)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "*ST岭南:岭南生态文旅股份有限公司向不特定对象发行可转换公司债券2026年度第十七次临时受托管理事务报告",
-        "summary": "*ST岭南(002717)：*ST岭南:岭南生态文旅股份有限公司向不特定对象发行可转换公司债券2026年度第十七次临时受托管理事务报告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002717/AN202607071826779425.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST岭南(002717)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "皇氏集团:股票交易异常波动公告",
-        "summary": "皇氏集团(002329)：皇氏集团:股票交易异常波动公告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002329/AN202607071826779286.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "皇氏集团(002329)"
+          "威尔高(301251)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "*ST美芝:关于召开2026年第二次临时股东会的通知",
-        "summary": "*ST美芝(002856)：*ST美芝:关于召开2026年第二次临时股东会的通知",
+        "title": "森远股份:关于控股股东部分股份解除质押及质押的公告",
+        "summary": "森远股份(300210)：森远股份:关于控股股东部分股份解除质押及质押的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002856/AN202607071826779101.html",
+        "url": "https://data.eastmoney.com/notices/detail/300210/AN202607081826817385.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST美芝(002856)"
+          "森远股份(300210)"
         ],
         "importance": 1,
-        "noticeType": "召开股东大会通知"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "青龙管业:关于股票交易异常波动公告",
-        "summary": "青龙管业(002457)：青龙管业:关于股票交易异常波动公告",
+        "title": "卡莱特:关于开立募集资金专户暨授权签订募集资金专户监管协议的公告",
+        "summary": "卡莱特(301391)：卡莱特:关于开立募集资金专户暨授权签订募集资金专户监管协议的公告",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002457/AN202607071826779096.html",
+        "url": "https://data.eastmoney.com/notices/detail/301391/AN202607081826817320.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "青龙管业(002457)"
+          "卡莱特(301391)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "签订协议"
       },
       {
-        "title": "现货白银价格下跌3%",
-        "summary": "现货白银价格下跌3%至每盎司60.16美元。",
-        "publishedAt": "2026-07-08 03:05:33",
+        "title": "无锡振华：控股股东及其一致行动人拟减持不超过2%股份",
+        "summary": "【无锡振华：控股股东及其一致行动人拟减持不超过2%股份】无锡振华(605319.SH)公告称，公司控股股东无锡君润及其一致行动人钱金祥计划减持公司股份。其中，无锡君润拟减持不超过525.15万股(占总股本1.50%)，钱金祥拟减持不超过175.05万股(占总股本0.50%)。",
+        "publishedAt": "2026-07-08 17:28:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797144865.html",
+        "url": "https://finance.eastmoney.com/a/202607083798457360.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -93009,66 +92893,153 @@
         "noticeType": ""
       },
       {
-        "title": "摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍",
-        "summary": "【摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍】摩根大通分析师RajatGupta表示，尽管特斯拉和SpaceX合并“纸面上看起来合情合理”，但目前围绕合并的猜测低估了阻碍交易的潜在障碍。Gupta称，合并将使首席执行官埃隆·马斯克能够“合并两大平台的愿景、使命和工程领导力”，两家公司共同的人工智能雄心将成为“潜在的战略黏合剂”。不过，这位分析…",
-        "publishedAt": "2026-07-08 02:23:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797140231.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "汽车链"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "胜宏科技:300476胜宏科技投资者关系管理信息20260708",
-        "summary": "胜宏科技(300476)：胜宏科技:300476胜宏科技投资者关系管理信息20260708",
+        "title": "雅化集团:002497雅化集团投资者关系管理信息20260707",
+        "summary": "雅化集团(002497)：雅化集团:002497雅化集团投资者关系管理信息20260707",
         "publishedAt": "2026-07-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300476/AN202607081826782102.html",
+        "url": "https://data.eastmoney.com/notices/detail/002497/AN202607081826817509.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "胜宏科技(300476)"
+          "雅化集团(002497)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "央行深化互联互通 债券通“南向通”额度大幅提升",
-        "summary": "【央行深化互联互通 债券通“南向通”额度大幅提升】7月7日，中国人民银行行长潘功胜在香港固定收益及货币峰会暨债券通论坛上表示，当前香港社会稳定、金融市场繁荣，吸引更多的国际投资者和发行人进入香港市场。香港的金融业稳定繁荣与社会稳定进入良性循环状态。人民银行将配合香港特区政府和金融管理部门，聚焦4个重点方向，继续建设好、巩固好和发展好香港国际金融中心。",
-        "publishedAt": "2026-07-08 03:10:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797143389.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "科拓生物:关于2025年年度权益分派实施后调整回购股份价格上限的公告",
+        "summary": "科拓生物(300858)：科拓生物:关于2025年年度权益分派实施后调整回购股份价格上限的公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300858/AN202607081826817567.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "科拓生物(300858)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回购方案修订"
       },
       {
-        "title": "美联储周二隔夜逆回购协议（RRP）使用规模为44.84亿美元",
-        "summary": "【美联储周二隔夜逆回购协议（RRP）使用规模为44.84亿美元】美联储周二隔夜逆回购协议（RRP）使用规模为44.84亿美元，上个交易日报27.19亿美元。",
-        "publishedAt": "2026-07-08 01:17:02",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083797137112.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "无锡晶海:股东增持股份计划公告",
+        "summary": "无锡晶海(920547)：无锡晶海:股东增持股份计划公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920547/AN202607081826817551.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "无锡晶海(920547)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "新产业:关于以集中竞价方式首次回购股份暨进展的公告",
+        "summary": "新产业(300832)：新产业:关于以集中竞价方式首次回购股份暨进展的公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300832/AN202607081826817505.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
           "金融"
         ],
+        "tickers": [
+          "新产业(300832)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "新产业:回购报告书",
+        "summary": "新产业(300832)：新产业:回购报告书",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300832/AN202607081826817504.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "新产业(300832)"
+        ],
+        "importance": 1,
+        "noticeType": "回购报告书"
+      },
+      {
+        "title": "雅创电子:2026年半年度业绩预告",
+        "summary": "雅创电子(301099)：雅创电子:2026年半年度业绩预告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301099/AN202607081826817386.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "雅创电子(301099)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "卡莱特:证券投资、期货及衍生品交易管理制度",
+        "summary": "卡莱特(301391)：卡莱特:证券投资、期货及衍生品交易管理制度",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301391/AN202607081826817317.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "卡莱特(301391)"
+        ],
+        "importance": 1,
+        "noticeType": "管理办法/制度"
+      },
+      {
+        "title": "新产业:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "summary": "新产业(300832)：新产业:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "publishedAt": "2026-07-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300832/AN202607081826817321.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "新产业(300832)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "伊总统：伊朗拒绝美方“游戏” 坚定维护自身权利",
+        "summary": "【伊总统：伊朗拒绝美方“游戏”，坚定维护自身权利】当地时间7月8日，伊朗总统佩泽希齐扬在社交媒体上发文表示，美国政府作为世界杯主办国的行为，延续了其一贯外交政策做法，包括“改变规则、欺凌对手、制造障碍和欺骗”。他称，这是美方所谓“让美国再次伟大”政策的做法。",
+        "publishedAt": "2026-07-08 17:35:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607083798467622.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -93101,6 +93072,36 @@
         "themes": [
           "能源"
         ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至7月3日当周API原油库存变动(万桶)",
+        "summary": "美国截至7月3日当周API原油库存变动(万桶)；公布 -39.9，预期 -150.0，前值 -607.2。",
+        "publishedAt": "2026-07-08 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至7月3日当周API汽油库存变动(万桶)",
+        "summary": "美国截至7月3日当周API汽油库存变动(万桶)；公布 -292.9，预期 -155.0，前值 -210.6。",
+        "publishedAt": "2026-07-08 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -93271,7 +93272,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -93284,15 +93285,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-08 03:27:54",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 能源、金融、有色稀土。",
+        "generatedAt": "2026-07-08 17:39:39",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：半导体、通信设备；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93388,7 +93389,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 30 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：祥生医疗:容诚会计师事务所(特殊普通合伙)关于无锡祥生医疗科技股份有限公司2025年年度报告的信息披露监管问询函的专项核查意见；祥生医疗:祥生医疗关于2025年年度报告的信息披露监管问询函的回复公告。",
+              "新闻/公告风险：世纪天鸿:关于控股股东部分股份质押的公告；威尔高:关于公司股票交易异常波动的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
