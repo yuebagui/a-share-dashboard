@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-07-08",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-07-08 23:54:57",
+    "tradeDate": "2026-07-09",
+    "phase": "盘中快照",
+    "generatedAt": "2026-07-09 02:08:18",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -94167,7 +94167,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -94338,248 +94339,294 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-08",
-    "generatedAt": "2026-07-08 23:55:55",
+    "tradeDate": "2026-07-09",
+    "generatedAt": "2026-07-09 02:09:07",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、AI算力、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 15,
+        "name": "金融",
+        "score": 18,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "AI算力",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 9,
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "翰博高新:关于公司股价异动的公告",
-        "summary": "翰博高新(301321)：翰博高新:关于公司股价异动的公告",
-        "publishedAt": "2026-07-08",
+        "title": "珍宝岛:国新证券股份有限公司关于黑龙江珍宝岛药业股份有限公司2025年年报问询回复相关问题的核查意见",
+        "summary": "珍宝岛(603567)：珍宝岛:国新证券股份有限公司关于黑龙江珍宝岛药业股份有限公司2025年年报问询回复相关问题的核查意见",
+        "publishedAt": "2026-07-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301321/AN202607081826821535.html",
+        "url": "https://data.eastmoney.com/notices/detail/603567/AN202607081826823503.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "珍宝岛(603567)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "古麒绒材:关于公司持股5%以上股东、特定股东及部分董事、高级管理人员减持股份计划的预披露公告",
+        "summary": "古麒绒材(001390)：古麒绒材:关于公司持股5%以上股东、特定股东及部分董事、高级管理人员减持股份计划的预披露公告",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001390/AN202607081826822969.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "翰博高新(301321)"
+          "古麒绒材(001390)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "电科网安:2026-028:股票交易异常波动公告",
+        "summary": "电科网安(002268)：电科网安:2026-028:股票交易异常波动公告",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002268/AN202607081826822796.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "电科网安(002268)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "300476胜宏科技投资者关系管理信息20260708",
-        "summary": "胜宏科技(300476)：300476胜宏科技投资者关系管理信息20260708",
-        "publishedAt": "2026-07-08",
+        "title": "大名城:公司控股股东及实际控制人关于对股票交易异常波动征询函的回函",
+        "summary": "大名城(600094)：大名城:公司控股股东及实际控制人关于对股票交易异常波动征询函的回函",
+        "publishedAt": "2026-07-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300476/AN202607081826824672.html",
+        "url": "https://data.eastmoney.com/notices/detail/600094/AN202607081826822778.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "胜宏科技(300476)"
+          "大名城(600094)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "零点有数:投资者关系活动记录表",
-        "summary": "零点有数(301169)：零点有数:投资者关系活动记录表",
-        "publishedAt": "2026-07-08",
+        "title": "ST龙大:关于控股股东权益变动触及1%整数倍的公告",
+        "summary": "ST龙大(002726)：ST龙大:关于控股股东权益变动触及1%整数倍的公告",
+        "publishedAt": "2026-07-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301169/AN202607081826823806.html",
+        "url": "https://data.eastmoney.com/notices/detail/002726/AN202607081826822747.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "零点有数(301169)"
+          "ST龙大(002726)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "权益变动报告书"
       },
       {
-        "title": "盐湖股份:000792盐湖股份投资者关系管理信息20260708",
-        "summary": "盐湖股份(000792)：盐湖股份:000792盐湖股份投资者关系管理信息20260708",
-        "publishedAt": "2026-07-08",
+        "title": "ST龙大:联合资信评估股份有限公司关于下调山东龙大美食股份有限公司主体及相关债项信用评级的公告",
+        "summary": "ST龙大(002726)：ST龙大:联合资信评估股份有限公司关于下调山东龙大美食股份有限公司主体及相关债项信用评级的公告",
+        "publishedAt": "2026-07-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000792/AN202607081826823579.html",
+        "url": "https://data.eastmoney.com/notices/detail/002726/AN202607081826822731.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "盐湖股份(000792)"
+          "ST龙大(002726)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "4-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明，或者估值报告(注册稿)(广州迈普再生医学科技股份有限公司)",
-        "summary": "迈普医学(301033)：4-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明，或者估值报告(注册稿)(广州迈普再生医学科技股份有限公司)",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301033/AN202607081826822977.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "迈普医学(301033)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组资产评估报告注册稿"
-      },
-      {
-        "title": "绿联科技:2026年7月7日-7月8日投资者关系活动记录表",
-        "summary": "绿联科技(301606)：绿联科技:2026年7月7日-7月8日投资者关系活动记录表",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301606/AN202607081826823011.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "绿联科技(301606)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "国能日新:2026年7月8日投资者关系活动记录表",
-        "summary": "国能日新(301162)：国能日新:2026年7月8日投资者关系活动记录表",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301162/AN202607081826821950.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国能日新(301162)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "祥源新材:2026年半年度业绩预告",
-        "summary": "祥源新材(300980)：祥源新材:2026年半年度业绩预告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300980/AN202607081826821970.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "祥源新材(300980)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "嘉曼服饰:2026年7月8日投资者关系活动记录表",
-        "summary": "嘉曼服饰(301276)：嘉曼服饰:2026年7月8日投资者关系活动记录表",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301276/AN202607081826821748.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "嘉曼服饰(301276)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "思看科技:思看科技2026年6月26日至7月3日投资者关系活动记录表",
-        "summary": "思看科技(688583)：思看科技:思看科技2026年6月26日至7月3日投资者关系活动记录表",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688583/AN202607081826821193.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "思看科技(688583)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "通行宝:关于部分限制性股票回购注销完成的公告",
-        "summary": "通行宝(301339)：通行宝:关于部分限制性股票回购注销完成的公告",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301339/AN202607081826820996.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "通行宝(301339)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "亿田智能:《证券投资管理制度》",
-        "summary": "亿田智能(300911)：亿田智能:《证券投资管理制度》",
-        "publishedAt": "2026-07-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300911/AN202607081826820988.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "亿田智能(300911)"
-        ],
-        "importance": 1,
-        "noticeType": "管理办法/制度"
-      },
-      {
-        "title": "无锡晶海：实控人李松年拟增持180万元-200万元",
-        "summary": "【无锡晶海：实控人李松年拟增持180万元-200万元】无锡晶海公告，持股5%以上股东、实际控制人李松年拟以集中竞价方式增持公司股份180万元至200万元，增持期限为自本公告日起不超过6个月（窗口期不交易）。",
-        "publishedAt": "2026-07-08 23:23:14",
+        "title": "美联储：所有官员都支持6月份维持利率不变",
+        "summary": "【美联储：所有官员都支持6月份维持利率不变】美联储会议纪要显示，大多数官员指出，由于与人工智能相关的需求、中东冲突或关税，通胀可能仍将保持高位。在这种情况下，几乎所有与会者都表示可能需要采取一些政策收紧措施。官员们均支持维持当前利率目标区间不变。部分官员认为加息有必要，但表示支持在本次会议上维持当前利率区间。少数几位与会人士认为6月FOMC会议有加息的理由。",
+        "publishedAt": "2026-07-09 02:04:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798787493.html",
+        "url": "https://finance.eastmoney.com/a/202607093798835847.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储会议纪要显示 大多数与会者指出 通胀可能仍将保持高位",
+        "summary": "【美联储会议纪要显示 大多数与会者指出 通胀可能仍将保持高位】美联储会议纪要显示，大多数与会者指出，由于与人工智能相关的需求、中东冲突或关税，通胀可能仍将保持高位。在这种情况下，几乎所有与会者都表示可能需要采取一些政策收紧措施。",
+        "publishedAt": "2026-07-09 02:01:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607093798835757.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "巴基斯坦外交部：美伊局势升级不符合任何一方利益",
+        "summary": "【巴基斯坦外交部：美伊局势升级不符合任何一方利益】当地时间8日晚，巴基斯坦外交部发表声明，对当前美伊紧张局势升级表示关切，并指出，冲突再度升级不符合任何一方利益。",
+        "publishedAt": "2026-07-09 01:14:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607093798832071.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "龙蟠科技:江苏龙蟠科技集团股份有限公司2026年限制性股票激励计划激励对象名单",
+        "summary": "龙蟠科技(603906)：龙蟠科技:江苏龙蟠科技集团股份有限公司2026年限制性股票激励计划激励对象名单",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603906/AN202607081826822834.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "龙蟠科技(603906)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励对象名单"
+      },
+      {
+        "title": "龙蟠科技:江苏龙蟠科技集团股份有限公司2026年限制性股票激励计划(草案)",
+        "summary": "龙蟠科技(603906)：龙蟠科技:江苏龙蟠科技集团股份有限公司2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603906/AN202607081826822839.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "龙蟠科技(603906)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "龙蟠科技:江苏龙蟠科技集团股份有限公司2026年限制性股票激励计划(草案)摘要公告",
+        "summary": "龙蟠科技(603906)：龙蟠科技:江苏龙蟠科技集团股份有限公司2026年限制性股票激励计划(草案)摘要公告",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603906/AN202607081826822835.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "龙蟠科技(603906)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "精华制药:关于调整2025年限制性股票回购价格的公告",
+        "summary": "精华制药(002349)：精华制药:关于调整2025年限制性股票回购价格的公告",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002349/AN202607081826822795.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "精华制药(002349)"
+        ],
+        "importance": 1,
+        "noticeType": "回购方案修订"
+      },
+      {
+        "title": "精华制药:关于回购注销部分2025年限制性股票的公告",
+        "summary": "精华制药(002349)：精华制药:关于回购注销部分2025年限制性股票的公告",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002349/AN202607081826822794.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "精华制药(002349)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "精华制药:江苏世纪同仁律师事务所关于精华制药集团股份有限公司2025年限制性股票激励计划调整授予价格、回购注销部分限制性股票之法律意见书(1)",
+        "summary": "精华制药(002349)：精华制药:江苏世纪同仁律师事务所关于精华制药集团股份有限公司2025年限制性股票激励计划调整授予价格、回购注销部分限制性股票之法律意见书(1)",
+        "publishedAt": "2026-07-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002349/AN202607081826822783.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "精华制药(002349)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "美联储周三隔夜逆回购协议（RRP）使用规模为33.47亿美元",
+        "summary": "美联储周三隔夜逆回购协议（RRP）使用规模为33.47亿美元，上个交易日报44.84亿美元。",
+        "publishedAt": "2026-07-09 01:20:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607093798833445.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "派诺科技：出售CS Energy 1.9707%股权",
-        "summary": "【派诺科技：出售CS Energy 1.9707%股权】派诺科技公告，CSEnergyTechnologyLtd拟以60万美元回购公司全资子公司派诺科技（香港）有限公司持有的1.9707%的股权。本项目公司的投资额为40万美元，出资时间为2025年3月12日，回购价格为60万美元，本项目投资收益20万美元，投资回报率50%。",
-        "publishedAt": "2026-07-08 23:23:06",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607083798787287.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [
           "金融"
         ],
@@ -94588,57 +94635,23 @@
         "noticeType": ""
       },
       {
-        "title": "美国7月EIA月报预估-当年WTI原油价格(美元/桶)",
-        "summary": "美国7月EIA月报预估-当年WTI原油价格(美元/桶)；公布 76.26，预期 nan，前值 88.32。",
-        "publishedAt": "2026-07-08 00:00",
+        "title": "美国7月8日10年期国债竞拍-中标利率(%)",
+        "summary": "美国7月8日10年期国债竞拍-中标利率(%)；公布 nan，预期 nan，前值 4.54。",
+        "publishedAt": "2026-07-09 01:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国7月EIA月报预估-当年布伦特原油价格(美元/桶)",
-        "summary": "美国7月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 81.82，预期 nan，前值 95.39。",
-        "publishedAt": "2026-07-08 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至7月3日当周API原油库存变动(万桶)",
-        "summary": "美国截至7月3日当周API原油库存变动(万桶)；公布 -39.9，预期 -150.0，前值 -607.2。",
-        "publishedAt": "2026-07-08 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至7月3日当周API汽油库存变动(万桶)",
-        "summary": "美国截至7月3日当周API汽油库存变动(万桶)；公布 -292.9，预期 -155.0，前值 -210.6。",
-        "publishedAt": "2026-07-08 04:30",
+        "title": "美国7月8日10年期国债竞拍-高收益率(%)",
+        "summary": "美国7月8日10年期国债竞拍-高收益率(%)；公布 4.58，预期 nan，前值 4.54。",
+        "publishedAt": "2026-07-09 01:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -94752,7 +94765,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -94765,15 +94778,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-08 23:55:55",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-07-09 02:09:07",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、AI算力、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、半导体、通信设备；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -94804,7 +94817,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-08 23:54:57",
+        "generatedAt": "2026-07-09 02:08:18",
         "summary": "上午情绪分 10，涨停 47 家，跌停 41 家，炸板 14 家，连板 8 家，最高 7 板。",
         "sections": [
           {
@@ -94843,7 +94856,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-08 23:54:57",
+        "generatedAt": "2026-07-09 02:08:18",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -94869,7 +94882,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 41 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 新能源汽车，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：翰博高新:关于公司股价异动的公告。",
+              "新闻/公告风险：珍宝岛:国新证券股份有限公司关于黑龙江珍宝岛药业股份有限公司2025年年报问询回复相关问题的核查意见；古麒绒材:关于公司持股5%以上股东、特定股东及部分董事、高级管理人员减持股份计划的预披露公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
