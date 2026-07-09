@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-10",
     "phase": "盘中快照",
-    "generatedAt": "2026-07-10 01:08:24",
+    "generatedAt": "2026-07-10 03:08:55",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -94692,28 +94692,33 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-10",
-    "generatedAt": "2026-07-10 01:09:16",
+    "generatedAt": "2026-07-10 03:09:38",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
-        "name": "有色稀土",
+        "name": "金融",
         "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 6,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       }
@@ -94822,6 +94827,52 @@
         "noticeType": "保荐/核查意见"
       },
       {
+        "title": "WTI原油期货结算价格收报72.08美元/桶 下跌1.44美元",
+        "summary": "【WTI原油期货结算价格收报72.08美元/桶 下跌1.44美元】WTI原油期货结算价收报72.08美元/桶，下跌1.44美元，跌幅为1.96%。布伦特原油期货结算价收报76.30美元/桶，下跌1.72美元，跌幅2.2%。",
+        "publishedAt": "2026-07-10 02:31:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103800484010.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储洛根：自愿中央清算机制或提升公开市场操作效率",
+        "summary": "【美联储洛根：自愿中央清算机制或提升公开市场操作效率】达拉斯联储主席洛根表示，如果联邦公开市场委员会通过自愿参与的中央清算机制开展公开市场操作，将有助于提升操作效率和效果，并增强美国金融市场稳定性。洛根指出，相关安排可改善美联储工具的使用，例如常备回购工具。该工具旨在向符合条件的金融机构提供流动性，但目前市场使用率仍较低。部分人士认为，简化清算流程可能提高…",
+        "publishedAt": "2026-07-10 02:03:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103800482245.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "甘肃发布山洪灾害气象风险橙色预警",
+        "summary": "【甘肃发布山洪灾害气象风险橙色预警】甘肃省防汛抗旱指挥部办公室7月10日0时发布山洪灾害气象风险橙色预警：甘肃省水利厅、甘肃省气象局预计，过去6小时甘肃省临夏州中部、甘南州北部已出现50毫米以上降水，最大累积降水为临夏州临夏市81.1毫米。预计未来24小时，定西及临夏东部、甘南北部、兰州南部、白银中南部、陇南西北部等地局部地方有暴雨，最大累计雨量40—80…",
+        "publishedAt": "2026-07-10 01:53:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103800482178.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "民爆光电:民爆光电关于不存在不得参与任何上市公司重大资产重组情形的说明",
         "summary": "民爆光电(301362)：民爆光电:民爆光电关于不存在不得参与任何上市公司重大资产重组情形的说明",
         "publishedAt": "2026-07-10",
@@ -94918,47 +94969,17 @@
         "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "机构扎堆调研AI产业链 上游企业订单充足业绩逐步兑现",
-        "summary": "【机构扎堆调研AI产业链 上游企业订单充足业绩逐步兑现】今年以来，AI（人工智能）赛道行情持续火热，各大机构调研也高度聚焦AI产业链企业。Wind数据显示，截至7月9日，今年二季度以来，A股已有1821家上市公司接待机构调研。其中，AI基础设施领域企业成为机构重点关注对象。叠加2026年半年报业绩预告来看，AI上游企业订单充足，业绩兑现较好。",
-        "publishedAt": "2026-07-10 00:40:00",
+        "title": "高盛禁止员工在金融、政治类预测市场下注",
+        "summary": "【高盛禁止员工在金融、政治类预测市场下注】高盛集团已禁止员工参与预测市场交易，仅体育和娱乐类投注除外。该行的个人交易政策禁止交易涉及特定公司、选举结果或金融市场表现的事件合约。多次违反该政策可能导致解雇或账户封禁，不当交易的员工可能被要求没收收益或将收益捐赠给慈善机构。",
+        "publishedAt": "2026-07-10 02:52:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103800476239.html",
+        "url": "https://finance.eastmoney.com/a/202607103800487749.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "PGIM称30年期美债收益率的重新定价已经开始",
-        "summary": "【PGIM称30年期美债收益率的重新定价已经开始】PGIM的Gregory Peters表示，30年期美国国债收益率重回5%上方，正促使投资者重新思考何种水平才算具有吸引力。Peters预计，美国国债和30年期公司债收益率还将大幅走高，并认为，对长期国债而言，5.5%的收益率是“相当不错”的水平。这位PGIM Credit联席首席投资官在接受采访时表示，鉴…",
-        "publishedAt": "2026-07-10 00:18:28",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103800473883.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "纽约期银突破61美元/盎司 日内涨4.21%",
-        "summary": "【纽约期银突破61美元/盎司 日内涨4.21%】纽约期银突破61美元/盎司，日内涨4.21%。",
-        "publishedAt": "2026-07-10 00:16:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103800473664.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -94980,22 +95001,6 @@
       {
         "title": "美国7月8日COMEX黄金库存-每日更新(百盎司)",
         "summary": "美国7月8日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 271156.23。",
-        "publishedAt": "2026-07-10 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月9日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月9日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.43。",
         "publishedAt": "2026-07-10 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -95146,15 +95151,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-10 01:09:16",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-07-10 03:09:38",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：半导体、存储芯片、芯片概念；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -95185,7 +95190,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-10 01:08:24",
+        "generatedAt": "2026-07-10 03:08:55",
         "summary": "上午情绪分 95，涨停 75 家，跌停 12 家，炸板 17 家，连板 6 家，最高 8 板。",
         "sections": [
           {
@@ -95224,7 +95229,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-10 01:08:24",
+        "generatedAt": "2026-07-10 03:08:55",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
