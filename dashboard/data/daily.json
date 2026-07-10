@@ -1,8 +1,8 @@
 {
   "meta": {
     "tradeDate": "2026-07-10",
-    "phase": "盘中快照",
-    "generatedAt": "2026-07-10 15:03:44",
+    "phase": "盘后复盘",
+    "generatedAt": "2026-07-10 18:32:04",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -1.0,
       "turnover": "1.56万亿",
       "turnoverValue": 1563108691543.0,
-      "quoteTime": "2026-07-10 15:03:00",
+      "quoteTime": "2026-07-10 16:14:02",
       "source": "腾讯直连"
     },
     {
@@ -22,7 +22,7 @@
       "changePct": -2.29,
       "turnover": "1.83万亿",
       "turnoverValue": 1825441561910.0,
-      "quoteTime": "2026-07-10 15:03:21",
+      "quoteTime": "2026-07-10 16:14:21",
       "source": "腾讯直连"
     },
     {
@@ -31,7 +31,7 @@
       "changePct": -4.37,
       "turnover": "8539亿",
       "turnoverValue": 853943335283.0,
-      "quoteTime": "2026-07-10 15:02:36",
+      "quoteTime": "2026-07-10 16:14:36",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -5.53,
       "turnover": "2351亿",
       "turnoverValue": 235095867644.0,
-      "quoteTime": "2026-07-10 15:03:00",
+      "quoteTime": "2026-07-10 16:14:14",
       "source": "腾讯直连"
     }
   ],
@@ -1016,10 +1016,10 @@
       ],
       "sealAmount": "4540.0万",
       "turnover": "成交 4.0亿",
-      "reason": "航运港口方向涨停，涨停统计 1/1，首次封板 10:53:36，炸板 1 次。",
+      "reason": "航运港口方向涨停，涨停统计 1/1，首次封板 10:53:36，炸板 2 次。",
       "firstSeal": "10:53:36",
-      "lastSeal": "10:57:03",
-      "failCount": 1
+      "lastSeal": "15:00:00",
+      "failCount": 2
     },
     {
       "code": "002808",
@@ -1560,10 +1560,10 @@
       ],
       "sealAmount": "3781.3万",
       "turnover": "成交 3.8亿",
-      "reason": "专用设备方向涨停，涨停统计 1/1，首次封板 14:56:40，炸板 0 次。",
+      "reason": "专用设备方向涨停，涨停统计 1/1，首次封板 14:56:40，炸板 1 次。",
       "firstSeal": "14:56:40",
-      "lastSeal": "14:56:40",
-      "failCount": 0
+      "lastSeal": "15:00:00",
+      "failCount": 1
     }
   ],
   "ladder": [
@@ -1587,173 +1587,173 @@
     "industries": [
       {
         "name": "半导体",
-        "netInflow": -2792900.0,
+        "netInflow": -2792600.0,
         "changePct": -5.28,
         "type": "行业",
         "note": "涨跌幅 -5.28%，领涨 托伦斯 +858.85%"
       },
       {
         "name": "通信设备",
-        "netInflow": -1306700.0,
+        "netInflow": -1308300.0,
         "changePct": 0.1,
         "type": "行业",
         "note": "涨跌幅 +0.10%，领涨 移远通信 +10.00%"
       },
       {
         "name": "光学光电子",
-        "netInflow": -1073100.0,
+        "netInflow": -1072600.0,
         "changePct": -1.25,
         "type": "行业",
         "note": "涨跌幅 -1.25%，领涨 乾照光电 +12.18%"
       },
       {
         "name": "元件",
-        "netInflow": -972500.0,
+        "netInflow": -972700.0,
         "changePct": -3.76,
         "type": "行业",
         "note": "涨跌幅 -3.76%，领涨 崇达技术 +5.42%"
       },
       {
         "name": "电池",
-        "netInflow": -758300.0,
+        "netInflow": -759000.0,
         "changePct": -1.56,
         "type": "行业",
         "note": "涨跌幅 -1.56%，领涨 武汉蓝电 +4.78%"
       },
       {
         "name": "电子化学品",
-        "netInflow": -597200.0,
+        "netInflow": -597300.0,
         "changePct": -5.92,
         "type": "行业",
         "note": "涨跌幅 -5.92%，领涨 莱尔科技 +7.66%"
       },
       {
         "name": "化学制品",
-        "netInflow": -465400.0,
+        "netInflow": -465500.0,
         "changePct": -0.3,
         "type": "行业",
         "note": "涨跌幅 -0.30%，领涨 东方材料 +10.01%"
       },
       {
         "name": "证券",
-        "netInflow": -403500.0,
+        "netInflow": -403300.0,
         "changePct": -1.86,
         "type": "行业",
         "note": "涨跌幅 -1.86%，领涨 锦龙股份 +0.82%"
       },
       {
         "name": "计算机设备",
-        "netInflow": 270200.0,
-        "changePct": 1.32,
+        "netInflow": 269600.0,
+        "changePct": 1.26,
         "type": "行业",
-        "note": "涨跌幅 +1.32%，领涨 佳缘科技 +19.99%"
+        "note": "涨跌幅 +1.26%，领涨 佳缘科技 +19.99%"
       },
       {
         "name": "白酒",
-        "netInflow": 264000.0,
-        "changePct": 3.83,
+        "netInflow": 264300.0,
+        "changePct": 3.77,
         "type": "行业",
-        "note": "涨跌幅 +3.83%，领涨 皇台酒业 +7.07%"
+        "note": "涨跌幅 +3.77%，领涨 皇台酒业 +6.86%"
       },
       {
         "name": "自动化设备",
-        "netInflow": -256800.0,
+        "netInflow": -256900.0,
         "changePct": -0.96,
         "type": "行业",
         "note": "涨跌幅 -0.96%，领涨 星辰科技 +19.44%"
       },
       {
         "name": "光伏设备",
-        "netInflow": -252900.0,
+        "netInflow": -252700.0,
         "changePct": 0.89,
         "type": "行业",
-        "note": "涨跌幅 +0.89%，领涨 拉普拉斯 +11.42%"
+        "note": "涨跌幅 +0.89%，领涨 拉普拉斯 +11.22%"
       }
     ],
     "concepts": [
       {
         "name": "芯片概念",
-        "netInflow": -7821100.0,
+        "netInflow": -7824900.0,
         "changePct": -1.46,
         "type": "概念",
         "note": "涨跌幅 -1.46%，领涨 托伦斯 +858.85%"
       },
       {
         "name": "共封装光学(CPO)",
-        "netInflow": -4348700.0,
+        "netInflow": -4350200.0,
         "changePct": -2.58,
         "type": "概念",
         "note": "涨跌幅 -2.58%，领涨 深科达 +15.89%"
       },
       {
         "name": "新能源汽车",
-        "netInflow": -4279500.0,
+        "netInflow": -4281400.0,
         "changePct": 0.07,
         "type": "概念",
         "note": "涨跌幅 +0.07%，领涨 星辰科技 +19.44%"
       },
       {
         "name": "5G",
-        "netInflow": -3894600.0,
+        "netInflow": -3896200.0,
         "changePct": -0.44,
         "type": "概念",
         "note": "涨跌幅 -0.44%，领涨 三维通信 +10.05%"
       },
       {
         "name": "光伏概念",
-        "netInflow": -3742200.0,
+        "netInflow": -3743800.0,
         "changePct": -0.1,
         "type": "概念",
         "note": "涨跌幅 -0.10%，领涨 国林科技 +19.98%"
       },
       {
         "name": "数据中心(AIDC)",
-        "netInflow": -3592500.0,
+        "netInflow": -3596100.0,
         "changePct": 0.18,
         "type": "概念",
         "note": "涨跌幅 +0.18%，领涨 海兰信 +20.01%"
       },
       {
         "name": "汽车电子",
-        "netInflow": -3492600.0,
+        "netInflow": -3494100.0,
         "changePct": -0.91,
         "type": "概念",
         "note": "涨跌幅 -0.91%，领涨 乾照光电 +12.18%"
       },
       {
+        "name": "华为概念",
+        "netInflow": -3472300.0,
+        "changePct": 0.4,
+        "type": "概念",
+        "note": "涨跌幅 +0.40%，领涨 佳缘科技 +19.99%"
+      },
+      {
         "name": "锂电池概念",
-        "netInflow": -3353400.0,
+        "netInflow": -3353700.0,
         "changePct": -0.72,
         "type": "概念",
         "note": "涨跌幅 -0.72%，领涨 捷邦科技 +17.44%"
       },
       {
         "name": "存储芯片",
-        "netInflow": -3308900.0,
+        "netInflow": -3310100.0,
         "changePct": -3.8,
         "type": "概念",
         "note": "涨跌幅 -3.80%，领涨 国林科技 +19.98%"
       },
       {
         "name": "小米概念",
-        "netInflow": -3093500.0,
+        "netInflow": -3094900.0,
         "changePct": -0.49,
         "type": "概念",
         "note": "涨跌幅 -0.49%，领涨 深科达 +15.89%"
       },
       {
         "name": "先进封装",
-        "netInflow": -3091800.0,
+        "netInflow": -3091300.0,
         "changePct": -3.33,
         "type": "概念",
         "note": "涨跌幅 -3.33%，领涨 国林科技 +19.98%"
-      },
-      {
-        "name": "传感器",
-        "netInflow": -2592200.0,
-        "changePct": -0.15,
-        "type": "概念",
-        "note": "涨跌幅 -0.15%，领涨 海兰信 +20.01%"
       }
     ]
   },
@@ -1766,33 +1766,41 @@
       {
         "name": "白酒",
         "type": "行业",
-        "changePct": 3.83,
-        "excessPct": 4.83,
-        "netInflow": 264000.0,
-        "note": "涨跌幅 +3.83%，领涨 皇台酒业 +7.07%"
+        "changePct": 3.77,
+        "excessPct": 4.77,
+        "netInflow": 264300.0,
+        "note": "涨跌幅 +3.77%，领涨 皇台酒业 +6.86%"
       },
       {
         "name": "计算机设备",
         "type": "行业",
-        "changePct": 1.32,
-        "excessPct": 2.32,
-        "netInflow": 270200.0,
-        "note": "涨跌幅 +1.32%，领涨 佳缘科技 +19.99%"
+        "changePct": 1.26,
+        "excessPct": 2.26,
+        "netInflow": 269600.0,
+        "note": "涨跌幅 +1.26%，领涨 佳缘科技 +19.99%"
       },
       {
         "name": "光伏设备",
         "type": "行业",
         "changePct": 0.89,
         "excessPct": 1.89,
-        "netInflow": -252900.0,
-        "note": "涨跌幅 +0.89%，领涨 拉普拉斯 +11.42%"
+        "netInflow": -252700.0,
+        "note": "涨跌幅 +0.89%，领涨 拉普拉斯 +11.22%"
+      },
+      {
+        "name": "华为概念",
+        "type": "概念",
+        "changePct": 0.4,
+        "excessPct": 1.4,
+        "netInflow": -3472300.0,
+        "note": "涨跌幅 +0.40%，领涨 佳缘科技 +19.99%"
       },
       {
         "name": "数据中心(AIDC)",
         "type": "概念",
         "changePct": 0.18,
         "excessPct": 1.18,
-        "netInflow": -3592500.0,
+        "netInflow": -3596100.0,
         "note": "涨跌幅 +0.18%，领涨 海兰信 +20.01%"
       },
       {
@@ -1800,7 +1808,7 @@
         "type": "行业",
         "changePct": 0.1,
         "excessPct": 1.1,
-        "netInflow": -1306700.0,
+        "netInflow": -1308300.0,
         "note": "涨跌幅 +0.10%，领涨 移远通信 +10.00%"
       },
       {
@@ -1808,7 +1816,7 @@
         "type": "概念",
         "changePct": 0.07,
         "excessPct": 1.07,
-        "netInflow": -4279500.0,
+        "netInflow": -4281400.0,
         "note": "涨跌幅 +0.07%，领涨 星辰科技 +19.44%"
       },
       {
@@ -1816,16 +1824,8 @@
         "type": "概念",
         "changePct": -0.1,
         "excessPct": 0.9,
-        "netInflow": -3742200.0,
+        "netInflow": -3743800.0,
         "note": "涨跌幅 -0.10%，领涨 国林科技 +19.98%"
-      },
-      {
-        "name": "传感器",
-        "type": "概念",
-        "changePct": -0.15,
-        "excessPct": 0.85,
-        "netInflow": -2592200.0,
-        "note": "涨跌幅 -0.15%，领涨 海兰信 +20.01%"
       }
     ],
     "down": [
@@ -1834,7 +1834,7 @@
         "type": "行业",
         "changePct": -5.92,
         "excessPct": -4.92,
-        "netInflow": -597200.0,
+        "netInflow": -597300.0,
         "note": "涨跌幅 -5.92%，领涨 莱尔科技 +7.66%"
       },
       {
@@ -1842,7 +1842,7 @@
         "type": "行业",
         "changePct": -5.28,
         "excessPct": -4.28,
-        "netInflow": -2792900.0,
+        "netInflow": -2792600.0,
         "note": "涨跌幅 -5.28%，领涨 托伦斯 +858.85%"
       },
       {
@@ -1850,7 +1850,7 @@
         "type": "概念",
         "changePct": -3.8,
         "excessPct": -2.8,
-        "netInflow": -3308900.0,
+        "netInflow": -3310100.0,
         "note": "涨跌幅 -3.80%，领涨 国林科技 +19.98%"
       },
       {
@@ -1858,7 +1858,7 @@
         "type": "行业",
         "changePct": -3.76,
         "excessPct": -2.76,
-        "netInflow": -972500.0,
+        "netInflow": -972700.0,
         "note": "涨跌幅 -3.76%，领涨 崇达技术 +5.42%"
       },
       {
@@ -1866,7 +1866,7 @@
         "type": "概念",
         "changePct": -3.33,
         "excessPct": -2.33,
-        "netInflow": -3091800.0,
+        "netInflow": -3091300.0,
         "note": "涨跌幅 -3.33%，领涨 国林科技 +19.98%"
       },
       {
@@ -1874,7 +1874,7 @@
         "type": "概念",
         "changePct": -2.58,
         "excessPct": -1.58,
-        "netInflow": -4348700.0,
+        "netInflow": -4350200.0,
         "note": "涨跌幅 -2.58%，领涨 深科达 +15.89%"
       },
       {
@@ -1882,7 +1882,7 @@
         "type": "行业",
         "changePct": -1.86,
         "excessPct": -0.86,
-        "netInflow": -403500.0,
+        "netInflow": -403300.0,
         "note": "涨跌幅 -1.86%，领涨 锦龙股份 +0.82%"
       },
       {
@@ -1890,7 +1890,7 @@
         "type": "行业",
         "changePct": -1.56,
         "excessPct": -0.56,
-        "netInflow": -758300.0,
+        "netInflow": -759000.0,
         "note": "涨跌幅 -1.56%，领涨 武汉蓝电 +4.78%"
       }
     ]
@@ -1906,11 +1906,11 @@
           "资金流入",
           "超额强势"
         ],
-        "changePct": 3.83,
-        "excessPct": 4.83,
-        "netInflow": 264000.0,
-        "reason": "大盘基准 -1.00%，该板块仍上涨 +3.83%；主力净流入 26.4亿",
-        "note": "涨跌幅 +3.83%，领涨 皇台酒业 +7.07%"
+        "changePct": 3.77,
+        "excessPct": 4.77,
+        "netInflow": 264300.0,
+        "reason": "大盘基准 -1.00%，该板块仍上涨 +3.77%；主力净流入 26.4亿",
+        "note": "涨跌幅 +3.77%，领涨 皇台酒业 +6.86%"
       },
       {
         "name": "计算机设备",
@@ -1921,11 +1921,11 @@
           "资金流入",
           "超额强势"
         ],
-        "changePct": 1.32,
-        "excessPct": 2.32,
-        "netInflow": 270200.0,
-        "reason": "大盘基准 -1.00%，该板块仍上涨 +1.32%；主力净流入 27.0亿",
-        "note": "涨跌幅 +1.32%，领涨 佳缘科技 +19.99%"
+        "changePct": 1.26,
+        "excessPct": 2.26,
+        "netInflow": 269600.0,
+        "reason": "大盘基准 -1.00%，该板块仍上涨 +1.26%；主力净流入 27.0亿",
+        "note": "涨跌幅 +1.26%，领涨 佳缘科技 +19.99%"
       },
       {
         "name": "光伏设备",
@@ -1937,9 +1937,22 @@
         ],
         "changePct": 0.89,
         "excessPct": 1.89,
-        "netInflow": -252900.0,
+        "netInflow": -252700.0,
         "reason": "大盘基准 -1.00%，该板块仍上涨 +0.89%",
-        "note": "涨跌幅 +0.89%，领涨 拉普拉斯 +11.42%"
+        "note": "涨跌幅 +0.89%，领涨 拉普拉斯 +11.22%"
+      },
+      {
+        "name": "华为概念",
+        "type": "概念",
+        "score": 8,
+        "labels": [
+          "超额强势"
+        ],
+        "changePct": 0.4,
+        "excessPct": 1.4,
+        "netInflow": -3472300.0,
+        "reason": "涨跌幅 +0.40%，领涨 佳缘科技 +19.99%",
+        "note": "涨跌幅 +0.40%，领涨 佳缘科技 +19.99%"
       },
       {
         "name": "数据中心(AIDC)",
@@ -1950,7 +1963,7 @@
         ],
         "changePct": 0.18,
         "excessPct": 1.18,
-        "netInflow": -3592500.0,
+        "netInflow": -3596100.0,
         "reason": "涨跌幅 +0.18%，领涨 海兰信 +20.01%",
         "note": "涨跌幅 +0.18%，领涨 海兰信 +20.01%"
       },
@@ -1963,7 +1976,7 @@
         ],
         "changePct": 0.1,
         "excessPct": 1.1,
-        "netInflow": -1306700.0,
+        "netInflow": -1308300.0,
         "reason": "涨跌幅 +0.10%，领涨 移远通信 +10.00%",
         "note": "涨跌幅 +0.10%，领涨 移远通信 +10.00%"
       },
@@ -1976,7 +1989,7 @@
         ],
         "changePct": 0.07,
         "excessPct": 1.07,
-        "netInflow": -4279500.0,
+        "netInflow": -4281400.0,
         "reason": "涨跌幅 +0.07%，领涨 星辰科技 +19.44%",
         "note": "涨跌幅 +0.07%，领涨 星辰科技 +19.44%"
       }
@@ -2001,8 +2014,8 @@
         "资金流入",
         "超额强势"
       ],
-      "ret5": 3.83,
-      "ret20": 4.83,
+      "ret5": 3.77,
+      "ret20": 4.77,
       "drawdown": 0,
       "position": 54,
       "trend": "强势结构",
@@ -2010,12 +2023,12 @@
       "bars": [
         {
           "label": "涨幅",
-          "value": 3.83,
+          "value": 3.77,
           "max": 6
         },
         {
           "label": "超额",
-          "value": 4.83,
+          "value": 4.77,
           "max": 6
         },
         {
@@ -2039,8 +2052,8 @@
         "资金流入",
         "超额强势"
       ],
-      "ret5": 1.32,
-      "ret20": 2.32,
+      "ret5": 1.26,
+      "ret20": 2.26,
       "drawdown": 0,
       "position": 43,
       "trend": "强势结构",
@@ -2048,12 +2061,12 @@
       "bars": [
         {
           "label": "涨幅",
-          "value": 1.32,
+          "value": 1.26,
           "max": 6
         },
         {
           "label": "超额",
-          "value": 2.32,
+          "value": 2.26,
           "max": 6
         },
         {
@@ -2107,36 +2120,36 @@
       "points": []
     },
     {
-      "name": "数据中心(AIDC)",
+      "name": "华为概念",
       "type": "概念",
       "labels": [
         "超额强势"
       ],
-      "ret5": 0.18,
-      "ret20": 1.18,
+      "ret5": 0.4,
+      "ret20": 1.4,
       "drawdown": 0,
-      "position": 6,
+      "position": 8,
       "trend": "观察结构",
       "chartType": "snapshot",
       "bars": [
         {
           "label": "涨幅",
-          "value": 0.18,
+          "value": 0.4,
           "max": 6
         },
         {
           "label": "超额",
-          "value": 1.18,
+          "value": 1.4,
           "max": 6
         },
         {
           "label": "资金",
-          "value": -7.18,
+          "value": -6.94,
           "max": 6
         },
         {
           "label": "评分",
-          "value": 0.5,
+          "value": 0.67,
           "max": 8
         }
       ],
@@ -94854,113 +94867,64 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-10",
-    "generatedAt": "2026-07-10 15:05:09",
+    "generatedAt": "2026-07-10 18:33:04",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、新能源。",
     "themes": [
       {
-        "name": "金融",
-        "score": 12,
+        "name": "有色稀土",
+        "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 11,
+        "name": "金融",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 10,
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "军工",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "民爆光电:关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
-        "summary": "民爆光电(301362)：民爆光电:关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+        "title": "ST凯利:关于申请撤销其他风险警示的进展公告",
+        "summary": "ST凯利(300326)：ST凯利:关于申请撤销其他风险警示的进展公告",
         "publishedAt": "2026-07-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851983.html",
+        "url": "https://data.eastmoney.com/notices/detail/300326/AN202607101826876688.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "民爆光电(301362)"
+          "ST凯利(300326)"
         ],
         "importance": 1,
-        "noticeType": "专项说明/独立意见"
+        "noticeType": "申请撤销风险警示及特别处理"
       },
       {
-        "title": "民爆光电:厦门麦达智能科技有限公司关于行政处罚、诉讼、仲裁及诚信情况的承诺函",
-        "summary": "民爆光电(301362)：民爆光电:厦门麦达智能科技有限公司关于行政处罚、诉讼、仲裁及诚信情况的承诺函",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851943.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "处罚"
-      },
-      {
-        "title": "国家医保局发布风险提示 拜耳回应：非本公司",
-        "summary": "【国家医保局发布风险提示 拜耳回应：非本公司】7月7日，国家医保局发布\"风险提示\"。拜耳回应：相关报道所涉及企业并非拜耳公司。拜耳公司一直严格遵守国家法律法规，始终支持中国政府为提升药品可及性和减轻患者负担所作出的努力，身体力行的支持国家医保局的各项工作尤其是集采这项利国利民的举措，并将通过持续的合作创新，助力健康中国2030愿景的早日达成。",
-        "publishedAt": "2026-07-10 14:47:32",
+        "title": "上交所：本周对恒尚节能、有研硅、中船特气等异常波动股票重点监控",
+        "summary": "【上交所：本周对恒尚节能、有研硅、中船特气等异常波动股票重点监控】2026年7月6日至2026年7月10日，上交所对277起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对恒尚节能、有研硅、中船特气等异常波动股票以及财通福鑫LOF等溢价较高的基金进行重点监控，对23起上市公司重大事项等进行专项核查，向证监会上报涉嫌违法违规案件线索1起。",
+        "publishedAt": "2026-07-10 18:18:48",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103801736982.html",
+        "url": "https://finance.eastmoney.com/a/202607103801962747.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "科创50、创业板指跌逾4%",
-        "summary": "【科创50、创业板指跌逾4%】指数走弱，创业板指下挫跌逾4%，沪指跌0.78%，深成指跌1.97%。半导体芯片、算力硬件、证券等方向跌幅居前，沪深京三市下跌个股近1700只。",
-        "publishedAt": "2026-07-10 14:45:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103801732054.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力",
           "金融"
         ],
         "tickers": [],
@@ -94968,213 +94932,221 @@
         "noticeType": ""
       },
       {
-        "title": "平安电工:投资者关系活动记录表",
-        "summary": "平安电工(001359)：平安电工:投资者关系活动记录表",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001359/AN202607101826865683.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "百奥赛图：被维科(香港)减持约7530万港元",
+        "summary": "【百奥赛图：被维科(香港)减持约7530万港元】据港交所披露易数据，百奥赛图-B(02315.HK)当日被维科(香港)经贸有限公司减持110.75万股，均价67.99港元，涉资约7530万港元。后者减持后持股比例由6.38%降至5.38%。",
+        "publishedAt": "2026-07-10 18:15:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103801962570.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "平安电工(001359)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "300733西菱动力投资者关系管理信息20260710",
-        "summary": "西菱动力(300733)：300733西菱动力投资者关系管理信息20260710",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300733/AN202607101826863156.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "西菱动力(300733)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000708中信特钢投资者关系管理信息20260710",
-        "summary": "中信特钢(000708)：000708中信特钢投资者关系管理信息20260710",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000708/AN202607101826862722.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中信特钢(000708)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "国信证券:2026年7月9日投资者关系活动记录表",
-        "summary": "国信证券(002736)：国信证券:2026年7月9日投资者关系活动记录表",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002736/AN202607101826862614.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "英国政府将微软、谷歌、亚马逊和甲骨文指定为关键第三方",
+        "summary": "【英国政府将微软、谷歌、亚马逊和甲骨文指定为关键第三方】英国政府将微软、谷歌、亚马逊和甲骨文指定为关键第三方，置于直接监管之下，以保护英国金融体系。此次指定涉及云服务，旨在最大限度减少云服务中断所带来的影响。",
+        "publishedAt": "2026-07-10 18:12:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103801962070.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "国信证券(002736)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "000883湖北能源投资者关系管理信息20260710",
-        "summary": "湖北能源(000883)：000883湖北能源投资者关系管理信息20260710",
+        "title": "广汽集团:2026年1-6月投资者关系活动记录",
+        "summary": "广汽集团(601238)：广汽集团:2026年1-6月投资者关系活动记录",
         "publishedAt": "2026-07-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000883/AN202607101826862525.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "湖北能源(000883)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "祥源新材:2026年7月9日投资者关系活动记录表",
-        "summary": "祥源新材(300980)：祥源新材:2026年7月9日投资者关系活动记录表",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300980/AN202607101826862199.html",
+        "url": "https://data.eastmoney.com/notices/detail/601238/AN202607101826877161.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "祥源新材(300980)"
+          "广汽集团(601238)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "阳光电源投资者关系活动记录表20260709",
-        "summary": "阳光电源(300274)：阳光电源投资者关系活动记录表20260709",
+        "title": "微创光电:投资者关系活动记录表",
+        "summary": "微创光电(920198)：微创光电:投资者关系活动记录表",
         "publishedAt": "2026-07-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300274/AN202607101826861902.html",
+        "url": "https://data.eastmoney.com/notices/detail/920198/AN202607101826877166.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "阳光电源(300274)"
+          "微创光电(920198)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "002971和远气体投资者关系管理信息20260710",
-        "summary": "和远气体(002971)：002971和远气体投资者关系管理信息20260710",
+        "title": "甘肃能化:2025年面向专业投资者公开发行公司债券(第一期)(品种一)2026年付息公告",
+        "summary": "甘肃能化(000552)：甘肃能化:2025年面向专业投资者公开发行公司债券(第一期)(品种一)2026年付息公告",
         "publishedAt": "2026-07-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002971/AN202607101826860018.html",
+        "url": "https://data.eastmoney.com/notices/detail/000552/AN202607101826877158.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "和远气体(002971)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "民爆光电:民爆光电关于不存在不得参与任何上市公司重大资产重组情形的说明",
-        "summary": "民爆光电(301362)：民爆光电:民爆光电关于不存在不得参与任何上市公司重大资产重组情形的说明",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851989.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "民爆光电:民爆光电董事及高级管理人员关于本次重组摊薄即期回报填补措施的承诺函",
-        "summary": "民爆光电(301362)：民爆光电:民爆光电董事及高级管理人员关于本次重组摊薄即期回报填补措施的承诺函",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851968.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
+          "甘肃能化(000552)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "大立光拿下首笔CPO订单 最快明年中量产",
-        "summary": "【大立光拿下首笔CPO订单 最快明年中量产】大立光布局共封装光学（CPO）新业务，现已拿下首笔订单。该公司董事长林恩平于9日举办的投资者交流会上证实，已有客户敲定光纤阵列（FA）量产订单意向，相关产品预计本月送样，客户将推进快速认证流程。林恩平表示，公司规划在今年三季度末建成CPO试产产线，最快明年年中实现量产并贡献营收。他同时透露，除这家有意向量产的客户…",
-        "publishedAt": "2026-07-10 14:58:03",
+        "title": "万马科技:300698万马科技投资者关系管理信息20260710",
+        "summary": "万马科技(300698)：万马科技:300698万马科技投资者关系管理信息20260710",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300698/AN202607101826876907.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "万马科技(300698)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "云里物里:关于改变募集资金用途、募投项目延期及变更部分募投项目实施地点的公告",
+        "summary": "云里物里(920374)：云里物里:关于改变募集资金用途、募投项目延期及变更部分募投项目实施地点的公告",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920374/AN202607101826876892.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "云里物里(920374)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "永清环保:关于收到2025年度江苏永之清业绩补偿款的进展公告",
+        "summary": "永清环保(300187)：永清环保:关于收到2025年度江苏永之清业绩补偿款的进展公告",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300187/AN202607101826876727.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "永清环保(300187)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "青矩技术:关于持股5%以上股东增持股份触及1%整数倍的提示性公告",
+        "summary": "青矩技术(920208)：青矩技术:关于持股5%以上股东增持股份触及1%整数倍的提示性公告",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920208/AN202607101826876708.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "青矩技术(920208)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "宝莱特:300246宝莱特投资者关系管理信息20260710",
+        "summary": "宝莱特(300246)：宝莱特:300246宝莱特投资者关系管理信息20260710",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300246/AN202607101826876602.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宝莱特(300246)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "武汉蓝电:投资者关系活动记录表",
+        "summary": "武汉蓝电(920779)：武汉蓝电:投资者关系活动记录表",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920779/AN202607101826876417.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "武汉蓝电(920779)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中科三环:000970中科三环投资者关系管理信息20260710",
+        "summary": "中科三环(000970)：中科三环:000970中科三环投资者关系管理信息20260710",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000970/AN202607101826876027.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中科三环(000970)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "倍轻松:【2026-003】投资者关系活动记录表",
+        "summary": "倍轻松(688793)：倍轻松:【2026-003】投资者关系活动记录表",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688793/AN202607101826873987.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "倍轻松(688793)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国产电船订单爆满 到2030年市场规模有望突破500亿元",
+        "summary": "【国产电船订单爆满 到2030年市场规模有望突破500亿元】近期企业内河货运电动船舶订单爆发，企业正积极推进智能化设备改造，实现全流程模块化建造，让造船周期比传统模式缩短一半以上。机构测算，到2030年国内电动船舶全产业链市场规模有望突破500亿元。",
+        "publishedAt": "2026-07-10 18:26:23",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103801749928.html",
+        "url": "https://finance.eastmoney.com/a/202607103801970994.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "A股“炸裂”业绩预告频出 如何布局中报行情？",
-        "summary": "【A股“炸裂”业绩预告频出 如何布局中报行情？】展望下半年，招商证券表示，科技还是贯穿始终的主线。在产业方面，全球市场围绕AI的交易已经步入考察盈利能力的阶段，科技板块内部出现分化，概念炒作将被舍弃，资金有望切换至业绩确定且产业趋势具有持续性的方向，以及部分有望实现产业“从零到一”跨越的领域，建议关注海外算力、国产算力、资源品涨价、商业航天。",
-        "publishedAt": "2026-07-10 14:52:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103801740769.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力",
-          "军工",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "深圳深能创新产业投资有限公司成立 注册资本2800万",
-        "summary": "【深圳深能创新产业投资有限公司成立 注册资本2800万】天眼查App显示，7月9日，深圳深能创新产业投资有限公司成立，法定代表人为敬红，注册资本2800万人民币，经营范围为以自有资金从事投资活动、创业投资，由深圳能源全资持股。",
-        "publishedAt": "2026-07-10 14:40:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103801731045.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -95189,6 +95161,22 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月8日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国7月8日COMEX黄金库存-每日更新(百盎司)；公布 271243.53，预期 nan，前值 271156.23。",
+        "publishedAt": "2026-07-10 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -95835,7 +95823,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "post-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -95848,15 +95836,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-10 15:05:09",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-07-10 18:33:04",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、计算机设备、光伏设备；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -95887,7 +95875,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-10 15:03:44",
+        "generatedAt": "2026-07-10 18:32:04",
         "summary": "上午情绪分 91，涨停 92 家，跌停 4 家，炸板 91 家，连板 10 家，最高 2 板。",
         "sections": [
           {
@@ -95926,7 +95914,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-10 15:03:44",
+        "generatedAt": "2026-07-10 18:32:04",
         "summary": "市场温度 弱，情绪周期偏分歧。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -95952,7 +95940,7 @@
               "今日炸板 91 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：民爆光电:关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明；民爆光电:厦门麦达智能科技有限公司关于行政处罚、诉讼、仲裁及诚信情况的承诺函。",
+              "新闻/公告风险：ST凯利:关于申请撤销其他风险警示的进展公告；上交所：本周对恒尚节能、有研硅、中船特气等异常波动股票重点监控。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
