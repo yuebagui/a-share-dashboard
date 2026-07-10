@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-10",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-10 03:10:50",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-10 03:10:50",
+    "lastNewsAt": "2026-07-10 12:35:04"
   },
   "indices": [
     {
@@ -94692,34 +94694,49 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-10",
-    "generatedAt": "2026-07-10 03:11:38",
+    "generatedAt": "2026-07-10 12:35:04",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 能源、有色稀土、半导体。",
     "themes": [
       {
-        "name": "金融",
-        "score": 11,
+        "name": "能源",
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "半导体",
+        "score": 6,
+        "isFocusBoard": true
+      },
+      {
+        "name": "金融",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "医药",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 4,
         "isFocusBoard": false
       },
       {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
-        "score": 4,
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -94757,120 +94774,152 @@
         "noticeType": "处罚"
       },
       {
-        "title": "民爆光电:中信证券股份有限公司关于本次交易符合《关于加强证券公司在投资银行类业务中聘请第三方等廉洁从业风险防控的意见》的相关规定之核查意见",
-        "summary": "民爆光电(301362)：民爆光电:中信证券股份有限公司关于本次交易符合《关于加强证券公司在投资银行类业务中聘请第三方等廉洁从业风险防控的意见》的相关规定之核查意见",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851971.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "民爆光电:民爆光电董事及高级管理人员关于重组期间减持计划的承诺函",
-        "summary": "民爆光电(301362)：民爆光电:民爆光电董事及高级管理人员关于重组期间减持计划的承诺函",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851945.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "民爆光电:关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
-        "summary": "民爆光电(301362)：民爆光电:关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851948.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "民爆光电:中信证券关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条以及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定的不得参与任何上市公司重大资产重组情形的核查意见",
-        "summary": "民爆光电(301362)：民爆光电:中信证券关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条以及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定的不得参与任何上市公司重大资产重组情形的核查意见",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851964.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "WTI原油期货结算价格收报72.08美元/桶 下跌1.44美元",
-        "summary": "【WTI原油期货结算价格收报72.08美元/桶 下跌1.44美元】WTI原油期货结算价收报72.08美元/桶，下跌1.44美元，跌幅为1.96%。布伦特原油期货结算价收报76.30美元/桶，下跌1.72美元，跌幅2.2%。",
-        "publishedAt": "2026-07-10 02:31:56",
+        "title": "国家市场监管总局质量发展局调研脑机海河实验室",
+        "summary": "【国家市场监管总局质量发展局调研脑机海河实验室】国家市场监管总局质量发展局副局长张蕾蕾一行7月7日调研脑机交互与人机共融海河实验室，实验室主任助理、天津大学医学部医学院副院长杨佳佳参加活动。张蕾蕾表示，脑机接口作为十五五规划纲要前瞻布局的未来产业重点方向，是生命科学和信息科学融合发展的前沿技术方向，是全球科技竞争和产业发展的重要新赛道，在医疗、康养、消费、…",
+        "publishedAt": "2026-07-10 12:13:24",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103800484010.html",
+        "url": "https://finance.eastmoney.com/a/202607103801523968.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "平安电工:投资者关系活动记录表",
+        "summary": "平安电工(001359)：平安电工:投资者关系活动记录表",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001359/AN202607101826865683.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "平安电工(001359)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300733西菱动力投资者关系管理信息20260710",
+        "summary": "西菱动力(300733)：300733西菱动力投资者关系管理信息20260710",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300733/AN202607101826863156.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "西菱动力(300733)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000708中信特钢投资者关系管理信息20260710",
+        "summary": "中信特钢(000708)：000708中信特钢投资者关系管理信息20260710",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000708/AN202607101826862722.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中信特钢(000708)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国信证券:2026年7月9日投资者关系活动记录表",
+        "summary": "国信证券(002736)：国信证券:2026年7月9日投资者关系活动记录表",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002736/AN202607101826862614.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国信证券(002736)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000883湖北能源投资者关系管理信息20260710",
+        "summary": "湖北能源(000883)：000883湖北能源投资者关系管理信息20260710",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000883/AN202607101826862525.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
           "能源"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储洛根：自愿中央清算机制或提升公开市场操作效率",
-        "summary": "【美联储洛根：自愿中央清算机制或提升公开市场操作效率】达拉斯联储主席洛根表示，如果联邦公开市场委员会通过自愿参与的中央清算机制开展公开市场操作，将有助于提升操作效率和效果，并增强美国金融市场稳定性。洛根指出，相关安排可改善美联储工具的使用，例如常备回购工具。该工具旨在向符合条件的金融机构提供流动性，但目前市场使用率仍较低。部分人士认为，简化清算流程可能提高…",
-        "publishedAt": "2026-07-10 02:03:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103800482245.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
+        "tickers": [
+          "湖北能源(000883)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "甘肃发布山洪灾害气象风险橙色预警",
-        "summary": "【甘肃发布山洪灾害气象风险橙色预警】甘肃省防汛抗旱指挥部办公室7月10日0时发布山洪灾害气象风险橙色预警：甘肃省水利厅、甘肃省气象局预计，过去6小时甘肃省临夏州中部、甘南州北部已出现50毫米以上降水，最大累积降水为临夏州临夏市81.1毫米。预计未来24小时，定西及临夏东部、甘南北部、兰州南部、白银中南部、陇南西北部等地局部地方有暴雨，最大累计雨量40—80…",
-        "publishedAt": "2026-07-10 01:53:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103800482178.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "祥源新材:2026年7月9日投资者关系活动记录表",
+        "summary": "祥源新材(300980)：祥源新材:2026年7月9日投资者关系活动记录表",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300980/AN202607101826862199.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "祥源新材(300980)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "阳光电源投资者关系活动记录表20260709",
+        "summary": "阳光电源(300274)：阳光电源投资者关系活动记录表20260709",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300274/AN202607101826861902.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "阳光电源(300274)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002971和远气体投资者关系管理信息20260710",
+        "summary": "和远气体(002971)：002971和远气体投资者关系管理信息20260710",
+        "publishedAt": "2026-07-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002971/AN202607101826860018.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "和远气体(002971)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "民爆光电:民爆光电关于不存在不得参与任何上市公司重大资产重组情形的说明",
@@ -94905,75 +94954,43 @@
         "noticeType": "其他"
       },
       {
-        "title": "民爆光电:关于取消发行股份购买资产配套资金募集暨交易方案不构成重大调整的说明",
-        "summary": "民爆光电(301362)：民爆光电:关于取消发行股份购买资产配套资金募集暨交易方案不构成重大调整的说明",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851960.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "民爆光电:关于本次交易是否构成重大资产重组、关联交易及重组上市的说明",
-        "summary": "民爆光电(301362)：民爆光电:关于本次交易是否构成重大资产重组、关联交易及重组上市的说明",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851996.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "关联交易"
-      },
-      {
-        "title": "民爆光电:厦门麦达智能科技有限公司关于不存在不得参与任何上市公司重大资产重组情形的说明",
-        "summary": "民爆光电(301362)：民爆光电:厦门麦达智能科技有限公司关于不存在不得参与任何上市公司重大资产重组情形的说明",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826852005.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "民爆光电:关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条和第四十四条规定的说明",
-        "summary": "民爆光电(301362)：民爆光电:关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条和第四十四条规定的说明",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301362/AN202607091826851992.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "民爆光电(301362)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "高盛禁止员工在金融、政治类预测市场下注",
-        "summary": "【高盛禁止员工在金融、政治类预测市场下注】高盛集团已禁止员工参与预测市场交易，仅体育和娱乐类投注除外。该行的个人交易政策禁止交易涉及特定公司、选举结果或金融市场表现的事件合约。多次违反该政策可能导致解雇或账户封禁，不当交易的员工可能被要求没收收益或将收益捐赠给慈善机构。",
-        "publishedAt": "2026-07-10 02:52:11",
+        "title": "国家卫健委：加强居民连续用药管理",
+        "summary": "【国家卫健委：加强居民连续用药管理】国家卫生健康委今天发布了《关于加强居民连续用药管理工作的通知》，《通知》为建立科学规范的居民连续用药管理机制，形成公平可及、系统连续、优质高效的用药服务体系提供了政策支撑，主要从三个方面作出具体规定。一是建立健全多层次管理机制。根据省、市、县和紧密型医联体信息化建设实际，拓展区域内居民连续用药管理功能。二是推进用药信息共…",
+        "publishedAt": "2026-07-10 12:24:38",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103800487749.html",
+        "url": "https://finance.eastmoney.com/a/202607103801525384.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "消息称台积电CoWoS 2027年月产能目标至少20万片",
+        "summary": "【消息称台积电CoWoS 2027年月产能目标至少20万片】先进封装产能持续供不应求，台积电加速扩产。供应链指出，台积电所有新厂工程几乎都是24小时轮班施工，加速建设进度。设备厂商表示，据台积电释放出的信息来看，CoWoS月产能2024年约3万多片，2025年达7万片，2026年底原订11万片，但最终突破13万片，2027年扩产目标约20万片，但应为低标。…",
+        "publishedAt": "2026-07-10 12:13:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103801523892.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "南昌金融控股公司增资至69亿",
+        "summary": "【南昌金融控股公司增资至69亿】天眼查App显示，近日，南昌金融控股有限公司发生工商变更，康晓然卸任法定代表人，由惠静接任，同时，注册资本由66亿人民币增至69亿人民币。该公司成立于2018年7月，经营范围包括股权投资、投资管理、创业投资、产业投资、资产投资、金融研究和投资咨询服务等，由南昌市产业投资集团有限公司全资持股。",
+        "publishedAt": "2026-07-10 12:01:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103801521068.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -94985,8 +95002,24 @@
         "noticeType": ""
       },
       {
+        "title": "国家能源局：加快突破超临界二氧化碳发电、CCUS等关键技术 攻关风光灵活高效制氢、规模安全储氢关键技术",
+        "summary": "【国家能源局：加快突破超临界二氧化碳发电、CCUS等关键技术 攻关风光灵活高效制氢、规模安全储氢关键技术】国家能源局印发《能源领域节能降碳行动计划（2026—2028年）》。其中提到，开展低碳零碳负碳前沿技术研发。聚焦化石能源清洁高效利用、可再生能源大规模利用等关键领域，加大前瞻性、战略性的重大前沿科技攻关力度，加快突破超临界二氧化碳发电、CCUS等关键技…",
+        "publishedAt": "2026-07-10 12:01:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607103801521327.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "美国截至7月8日美联储资产负债表(万亿美元)",
-        "summary": "美国截至7月8日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.73。",
+        "summary": "美国截至7月8日美联储资产负债表(万亿美元)；公布 674.0，预期 nan，前值 6.73。",
         "publishedAt": "2026-07-10 04:30",
         "source": "百度财经日历",
         "url": "",
@@ -94994,22 +95027,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月8日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国7月8日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 271156.23。",
-        "publishedAt": "2026-07-10 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -95138,7 +95155,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -95151,15 +95168,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-10 03:11:38",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-07-10 12:35:04",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 能源、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：半导体、存储芯片、芯片概念；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
