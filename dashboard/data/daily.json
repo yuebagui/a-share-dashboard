@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-13",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-13 19:19:54",
+    "generatedAt": "2026-07-13 23:45:36",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -74033,39 +74033,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-13",
-    "generatedAt": "2026-07-13 19:20:20",
+    "generatedAt": "2026-07-13 23:46:02",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、能源、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 10 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
+        "name": "金融",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
-        "score": 5,
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -74076,187 +74061,235 @@
     ],
     "items": [
       {
-        "title": "新强联:关于控股股东部分股份补充质押的公告",
-        "summary": "新强联(300850)：新强联:关于控股股东部分股份补充质押的公告",
+        "title": "国华退:关于公司股票进入退市整理期交易的第八次风险提示公告",
+        "summary": "国华退(000004)：国华退:关于公司股票进入退市整理期交易的第八次风险提示公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300850/AN202607131826933091.html",
+        "url": "https://data.eastmoney.com/notices/detail/000004/AN202607121826910839.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "新强联(300850)"
+          "国华退(000004)"
+        ],
+        "importance": 1,
+        "noticeType": "实施退市风险警示"
+      },
+      {
+        "title": "中富通:关于控股股东、实际控制人进行股份解除质押暨部分股份再质押的公告",
+        "summary": "中富通(300560)：中富通:关于控股股东、实际控制人进行股份解除质押暨部分股份再质押的公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300560/AN202607131826932805.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "中富通(300560)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "名家汇:关于累计及重大诉讼、仲裁情况的进展公告(二十五)",
-        "summary": "名家汇(300506)：名家汇:关于累计及重大诉讼、仲裁情况的进展公告(二十五)",
+        "title": "关于奥精医疗科技股份有限公司相关事项的监管工作函",
+        "summary": "奥精医疗(688613)：关于奥精医疗科技股份有限公司相关事项的监管工作函",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300506/AN202607131826933092.html",
+        "url": "https://data.eastmoney.com/notices/detail/688613/AN202607131826936219.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "医药"
+        ],
         "tickers": [
-          "名家汇(300506)"
+          "奥精医疗(688613)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "上交所股票监管工作函"
       },
       {
-        "title": "6-3天健会计师关于狮头科技发展股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函问询类财务事项的说明(狮头科技发展股份有限公司)",
-        "summary": "狮头股份(600539)：6-3天健会计师关于狮头科技发展股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函问询类财务事项的说明(狮头科技发展股份有限公司)",
+        "title": "盟固利:天津国安盟固利新材料科技股份有限公司与华泰联合证券有限责任公司关于天津国安盟固利新材料科技股份有限公司向特定对象发行股票申请文件的审核问询函的回复(修订稿)",
+        "summary": "盟固利(301487)：盟固利:天津国安盟固利新材料科技股份有限公司与华泰联合证券有限责任公司关于天津国安盟固利新材料科技股份有限公司向特定对象发行股票申请文件的审核问询函的回复(修订稿)",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600539/AN202607131826932980.html",
+        "url": "https://data.eastmoney.com/notices/detail/301487/AN202607131826935506.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "狮头股份(600539)"
+          "盟固利(301487)"
         ],
         "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "6-4国浩律师(南京)事务所关于狮头科技发展股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之补充法律意见书(八)(狮头科技发展股份有限公司)",
-        "summary": "狮头股份(600539)：6-4国浩律师(南京)事务所关于狮头科技发展股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之补充法律意见书(八)(狮头科技发展股份有限公司)",
+        "title": "盟固利:立信会计师事务所(特殊普通合伙)关于天津国安盟固利新材料科技股份有限公司申请向特定对象发行股票的审核问询函回复(修订稿)",
+        "summary": "盟固利(301487)：盟固利:立信会计师事务所(特殊普通合伙)关于天津国安盟固利新材料科技股份有限公司申请向特定对象发行股票的审核问询函回复(修订稿)",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600539/AN202607131826932979.html",
+        "url": "https://data.eastmoney.com/notices/detail/301487/AN202607131826935490.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "狮头股份(600539)"
+          "盟固利(301487)"
         ],
         "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "拉卡拉:拉卡拉支付股份有限公司关于股东部分股份解除质押的公告",
-        "summary": "拉卡拉(300773)：拉卡拉:拉卡拉支付股份有限公司关于股东部分股份解除质押的公告",
+        "title": "盟固利:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "盟固利(301487)：盟固利:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300773/AN202607131826932807.html",
+        "url": "https://data.eastmoney.com/notices/detail/301487/AN202607131826935517.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "拉卡拉(300773)"
+          "盟固利(301487)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "迈赫股份:关于特定股东减持计划期限届满暨实施情况的公告",
-        "summary": "迈赫股份(301199)：迈赫股份:关于特定股东减持计划期限届满暨实施情况的公告",
+        "title": "迪安诊断:关于控股股东及其一致行动人减持股份的预披露公告",
+        "summary": "迪安诊断(300244)：迪安诊断:关于控股股东及其一致行动人减持股份的预披露公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301199/AN202607131826932810.html",
+        "url": "https://data.eastmoney.com/notices/detail/300244/AN202607131826934955.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "迈赫股份(301199)"
+          "迪安诊断(300244)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "中伟新材:2026年半年度业绩预告",
-        "summary": "中伟新材(300919)：中伟新材:2026年半年度业绩预告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300919/AN202607131826932963.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "康比特：股东拟合计减持不超2%股份",
+        "summary": "【康比特：股东拟合计减持不超2%股份】康比特公告，持股5%以上股东张炜、陈庆玥（张炜一致行动人）、银晖国际拟自本公告披露日起15个交易日后的3个月内，分别通过集中竞价或大宗交易减持不超24.4万股、100万股、124.48万股，占总股本比例分别不超0.196%、0.8034%、1%。",
+        "publishedAt": "2026-07-13 23:26:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133804259310.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "中伟新材(300919)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "业绩预告"
+        "noticeType": ""
       },
       {
-        "title": "光大同创:关于调整2026年限制性股票激励计划授予价格的公告",
-        "summary": "光大同创(301387)：光大同创:关于调整2026年限制性股票激励计划授予价格的公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301387/AN202607131826932960.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "欧盟未就第21轮对俄制裁达成一致",
+        "summary": "【欧盟未就第21轮对俄制裁达成一致】当地时间7月13日，欧盟成员国外长会结束，各成员国未能就第21轮对俄罗斯制裁方案达成一致，相关方案因存在分歧而未获通过。欧盟外交与安全政策高级代表卡拉斯在当天欧盟外长会后表示，成员国围绕第21轮对俄制裁方案的相关磋商仍将进行。由于欧盟对俄制裁需获得27个成员国一致同意，任何成员国反对都将导致方案无法通过。",
+        "publishedAt": "2026-07-13 23:23:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133804252043.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "光大同创(301387)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
+        "noticeType": ""
       },
       {
-        "title": "潜能恒信:关于蒙古Ergel-12区块重大合同进展公告",
-        "summary": "潜能恒信(300191)：潜能恒信:关于蒙古Ergel-12区块重大合同进展公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300191/AN202607131826932961.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "潜能恒信(300191)"
+        "title": "美国银行调查：全球基金经理对日元看空情绪达到2022年以来最高",
+        "summary": "【美国银行调查：全球基金经理对日元看空情绪达到2022年以来最高】美国银行调查显示，由于日本财政和货币政策前景风险盖过日本政府干预汇市的可能性，全球投资组合经理对日元的看空情绪升至约四年来最高水平。美国银行策略师RalfPreusser、AdarshSinha等人在7月10日的报告中写道：“投资者对日元汇率的看空程度达到2022年以来最高，推动这一观点的主…",
+        "publishedAt": "2026-07-13 23:12:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133804244828.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": ""
       },
       {
-        "title": "莱宝高科:002106莱宝高科投资者关系管理信息20260709",
-        "summary": "莱宝高科(002106)：莱宝高科:002106莱宝高科投资者关系管理信息20260709",
+        "title": "温氏股份:2026年7月8日-9日投资者关系活动记录表",
+        "summary": "温氏股份(300498)：温氏股份:2026年7月8日-9日投资者关系活动记录表",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002106/AN202607131826932644.html",
+        "url": "https://data.eastmoney.com/notices/detail/300498/AN202607131826936318.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "莱宝高科(002106)"
+          "温氏股份(300498)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "拉卡拉:2026年半年度业绩预告",
-        "summary": "拉卡拉(300773)：拉卡拉:2026年半年度业绩预告",
+        "title": "中科创达:关于子公司与专业机构共同投资的公告",
+        "summary": "中科创达(300496)：中科创达:关于子公司与专业机构共同投资的公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300773/AN202607131826932809.html",
+        "url": "https://data.eastmoney.com/notices/detail/300496/AN202607131826935196.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "拉卡拉(300773)"
+          "中科创达(300496)"
         ],
         "importance": 1,
-        "noticeType": "业绩预告"
+        "noticeType": "其他"
       },
       {
-        "title": "津荣天宇:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "summary": "津荣天宇(300988)：津荣天宇:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "title": "达瑞电子:2026年7月13日投资者关系活动记录表",
+        "summary": "达瑞电子(300976)：达瑞电子:2026年7月13日投资者关系活动记录表",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300988/AN202607131826932806.html",
+        "url": "https://data.eastmoney.com/notices/detail/300976/AN202607131826934962.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "达瑞电子(300976)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "恒实科技:关于控股股东增持股份计划期限届满暨实施完成的公告",
+        "summary": "恒实科技(300513)：恒实科技:关于控股股东增持股份计划期限届满暨实施完成的公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300513/AN202607131826934751.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒实科技(300513)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "戈碧迦:董事会薪酬与考核委员会关于调整2025年股权激励计划限制性股票回购价格的核查意见",
+        "summary": "戈碧迦(920438)：戈碧迦:董事会薪酬与考核委员会关于调整2025年股权激励计划限制性股票回购价格的核查意见",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920438/AN202607131826934730.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -74264,55 +74297,10 @@
           "金融"
         ],
         "tickers": [
-          "津荣天宇(300988)"
+          "戈碧迦(920438)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "康龙化成：预计2026年半年度净利润同比增长4%-10%",
-        "summary": "【康龙化成：预计2026年半年度净利润同比增长4%-10%】康龙化成(300759.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为7.29亿元-7.72亿元，同比增长4%-10%。业绩变动主要系公司深化全球化布局，新签订单同比增长超过30%，其中小分子CDMO服务新签订单同比增长超过50%。",
-        "publishedAt": "2026-07-13 19:14:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607133803985727.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "汇成股份：子公司拟投资不低于75亿元建设先进封装研发产业化项目",
-        "summary": "【汇成股份：子公司拟投资不低于75亿元建设先进封装研发产业化项目】汇成股份(688403.SH)公告称，公司合并报表范围内子公司郑隆芯创拟在上海市嘉定区南翔镇投资建设“HITS先进封装研发产业化项目”，投资总额预计不低于75亿元。该项目旨在把握AI及HPC领域市场机遇，拓展先进封装技术平台。",
-        "publishedAt": "2026-07-13 19:11:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607133803984857.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "宿迁联盛：拟合资设立项目公司投资建设磷化铟衬底项目",
-        "summary": "【宿迁联盛：拟合资设立项目公司投资建设磷化铟衬底项目】宿迁联盛(603065.SH)公告称，公司与朱蓉辉、汇智光芯签署合资协议，共同设立项目公司江苏光铟科技有限公司，投资建设磷化铟衬底项目。项目公司注册资本1000万元，其中公司出资700万元持股70%，朱蓉辉出资200万元持股20%，汇智光芯出资100万元持股10%。",
-        "publishedAt": "2026-07-13 19:07:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607133803980028.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "专项说明/独立意见"
       },
       {
         "title": "中国5月全社会用电量-每月(亿千瓦时)",
@@ -74474,15 +74462,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-13 19:20:20",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、能源、半导体。",
+        "generatedAt": "2026-07-13 23:46:02",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 10 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -74513,7 +74501,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-13 19:19:54",
+        "generatedAt": "2026-07-13 23:45:36",
         "summary": "上午情绪分 0，涨停 29 家，跌停 172 家，炸板 14 家，连板 10 家，最高 3 板。",
         "sections": [
           {
@@ -74552,7 +74540,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-13 19:19:54",
+        "generatedAt": "2026-07-13 23:45:36",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -74578,7 +74566,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 172 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：新强联:关于控股股东部分股份补充质押的公告；名家汇:关于累计及重大诉讼、仲裁情况的进展公告(二十五)。",
+              "新闻/公告风险：国华退:关于公司股票进入退市整理期交易的第八次风险提示公告；中富通:关于控股股东、实际控制人进行股份解除质押暨部分股份再质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
