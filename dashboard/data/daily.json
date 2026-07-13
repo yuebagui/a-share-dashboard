@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-10",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-10 23:40:43",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-10 23:40:43",
+    "lastNewsAt": "2026-07-13 12:09:47"
   },
   "indices": [
     {
@@ -98908,249 +98910,306 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-10",
-    "generatedAt": "2026-07-10 23:42:11",
+    "tradeDate": "2026-07-13",
+    "generatedAt": "2026-07-13 12:09:47",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、半导体、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 11 条；主题映射集中在 AI算力、金融、半导体。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 11,
+        "name": "AI算力",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 11,
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 9,
+        "name": "半导体",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 2,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 4,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "国科微:关于股东股份质押的公告",
-        "summary": "国科微(300672)：国科微:关于股东股份质押的公告",
-        "publishedAt": "2026-07-10",
+        "title": "巨力索具:关于市场传闻的澄清及风险提示的公告",
+        "summary": "巨力索具(002342)：巨力索具:关于市场传闻的澄清及风险提示的公告",
+        "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300672/AN202607101826873696.html",
+        "url": "https://data.eastmoney.com/notices/detail/002342/AN202607121826914023.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "国科微(300672)"
+          "巨力索具(002342)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "澄清公告"
       },
       {
-        "title": "英唐智控:中审众环关于公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复",
-        "summary": "英唐智控(300131)：英唐智控:中审众环关于公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复",
-        "publishedAt": "2026-07-10",
+        "title": "安达智能:天健会计师事务所(特殊普通合伙)关于安达智能2025年年度报告信息披露监管问询函的专项说明",
+        "summary": "安达智能(688125)：安达智能:天健会计师事务所(特殊普通合伙)关于安达智能2025年年度报告信息披露监管问询函的专项说明",
+        "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300131/AN202607101826880195.html",
+        "url": "https://data.eastmoney.com/notices/detail/688125/AN202607121826911470.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "英唐智控(300131)"
+          "安达智能(688125)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "安达智能:关于2025年年度报告信息披露监管问询函的回复公告",
+        "summary": "安达智能(688125)：安达智能:关于2025年年度报告信息披露监管问询函的回复公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688125/AN202607121826911472.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "安达智能(688125)"
         ],
         "importance": 1,
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "金三江:关于三江转债交易严重异常波动暨停牌核查的公告",
-        "summary": "金三江(301059)：金三江:关于三江转债交易严重异常波动暨停牌核查的公告",
-        "publishedAt": "2026-07-10",
+        "title": "安达智能:中国国际金融股份有限公司关于安达智能2025年年度报告的信息披露监管问询函回复的核查意见",
+        "summary": "安达智能(688125)：安达智能:中国国际金融股份有限公司关于安达智能2025年年度报告的信息披露监管问询函回复的核查意见",
+        "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301059/AN202607101826883214.html",
+        "url": "https://data.eastmoney.com/notices/detail/688125/AN202607121826911471.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "安达智能(688125)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST宁视:关于使用部分超募资金永久补充流动资金的公告",
+        "summary": "*ST宁视(300076)：*ST宁视:关于使用部分超募资金永久补充流动资金的公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300076/AN202607121826911233.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "金三江(301059)"
+          "*ST宁视(300076)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "募集资金补充流动资金"
       },
       {
-        "title": "关于对西安曲江文化旅游股份有限公司有关责任人予以监管警示的决定",
-        "summary": "曲江文旅(600706)：关于对西安曲江文化旅游股份有限公司有关责任人予以监管警示的决定",
-        "publishedAt": "2026-07-10",
+        "title": "*ST宁视:第八届董事会第九次会议决议公告",
+        "summary": "*ST宁视(300076)：*ST宁视:第八届董事会第九次会议决议公告",
+        "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600706/AN202607101826881167.html",
+        "url": "https://data.eastmoney.com/notices/detail/300076/AN202607121826911236.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "曲江文旅(600706)"
+          "*ST宁视(300076)"
         ],
         "importance": 1,
-        "noticeType": "上交所股票监管关注"
+        "noticeType": "董事会决议公告"
       },
       {
-        "title": "安井食品:投资者调研记录表-2026年6月",
-        "summary": "安井食品(603345)：安井食品:投资者调研记录表-2026年6月",
-        "publishedAt": "2026-07-10",
+        "title": "*ST宁视:关于召开2026年第二次临时股东会的通知",
+        "summary": "*ST宁视(300076)：*ST宁视:关于召开2026年第二次临时股东会的通知",
+        "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603345/AN202607101826878355.html",
+        "url": "https://data.eastmoney.com/notices/detail/300076/AN202607121826911228.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "安井食品(603345)"
+          "*ST宁视(300076)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "召开股东大会通知"
       },
       {
-        "title": "乔路铭:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "summary": "乔路铭(920079)：乔路铭:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "publishedAt": "2026-07-10",
+        "title": "*ST宁视:平安证券关于宁波GQY视讯股份有限公司使用部分超募资金永久补充流动资金的核查意见",
+        "summary": "*ST宁视(300076)：*ST宁视:平安证券关于宁波GQY视讯股份有限公司使用部分超募资金永久补充流动资金的核查意见",
+        "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920079/AN202607101826876108.html",
+        "url": "https://data.eastmoney.com/notices/detail/300076/AN202607121826911227.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "乔路铭(920079)"
+          "*ST宁视(300076)"
         ],
         "importance": 1,
-        "noticeType": "首发发行结果公告"
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "恒进感应:投资者关系活动记录表",
-        "summary": "恒进感应(920870)：恒进感应:投资者关系活动记录表",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920870/AN202607101826874709.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "恒进感应(920870)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "均瑶健康:投资者关系活动记录表2026-006",
-        "summary": "均瑶健康(605388)：均瑶健康:投资者关系活动记录表2026-006",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605388/AN202607101826872002.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "均瑶健康(605388)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301633港迪技术投资者关系管理信息20260710",
-        "summary": "港迪技术(301633)：301633港迪技术投资者关系管理信息20260710",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301633/AN202607101826871837.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "港迪技术(301633)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "新联电子:2026年7月10日投资者关系活动记录表",
-        "summary": "新联电子(002546)：新联电子:2026年7月10日投资者关系活动记录表",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002546/AN202607101826882147.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新联电子(002546)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金三江:关于股份回购完成暨股份变动的公告",
-        "summary": "金三江(301059)：金三江:关于股份回购完成暨股份变动的公告",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301059/AN202607101826881993.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "金三江(301059)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "新铝时代:关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得深圳证券交易所并购重组审核委员会审核通过的公告",
-        "summary": "新铝时代(301613)：新铝时代:关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得深圳证券交易所并购重组审核委员会审核通过的公告",
-        "publishedAt": "2026-07-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301613/AN202607101826881220.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "有色稀土",
-          "金融"
-        ],
-        "tickers": [
-          "新铝时代(301613)"
-        ],
-        "importance": 1,
-        "noticeType": "增发获准公告"
-      },
-      {
-        "title": "摩根士丹利警告称芯片制造商的定价能力面临更大压力",
-        "summary": "【摩根士丹利警告称芯片制造商的定价能力面临更大压力】摩根士丹利的LisaShalett呼吁投资者对芯片股保持谨慎，她表示，更多迹象表明，芯片制造商的定价能力有限，意味着这些股票可能因为对人工智能支出的乐观情绪而上涨过头。Shalett表示：“我们看到AI数据中心技术栈正在被重新设计，以纳入成本更低的自研芯片，而许多超大规模云服务商如今在自行设计这些芯片。”",
-        "publishedAt": "2026-07-10 23:30:10",
+        "title": "SpaceX上市另有图谋？资深分析师：散户将血本无归 只值每股30美元！",
+        "summary": "【SpaceX上市另有图谋？资深分析师：散户将血本无归 只值每股30美元！】SpaceX股价已从“史诗级IPO”后收盘价超过200美元的高点下跌了约28%，这促使资深投资人乔治·诺布尔（GeorgeNoble）重申了他的看跌立场，并警告称，该股在未来几个月将面临一波内部人士抛售潮，实际只值每股30美元。",
+        "publishedAt": "2026-07-13 11:43:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103802201166.html",
+        "url": "https://finance.eastmoney.com/a/202607133803429414.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "A股午评：深成指半日跌2.61%，全市场超4500只个股飘绿",
+        "summary": "【A股午评：深成指半日跌2.61%，全市场超4500只个股飘绿】7月13日，A股三大指数早盘集体下跌，截至午间收盘，上证指数跌1.54%，深证成指跌2.61%，创业板指跌2.38%；北证50跌3.9%。沪深两市成交额约18528.36亿元，较前一个交易日缩量约3158.23亿元。截至午盘，全市场892只股票上涨、4573只股票下跌，其中26只涨停、45只跌…",
+        "publishedAt": "2026-07-13 11:34:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133803430762.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "沪指下跌1.54% 中药板块走强 MLCC、被动元件概念大跌",
+        "summary": "【午盘播报】沪指下跌1.54%，报3934.74点；深成指下跌2.61%，报14654.49点；创业板指下跌2.38%，报3751.33点，两市半日合计成交18528亿。盘面上，中药、银行、燃气、医药商业、红利股走强，MLCC、军工电子、被动元件概念、影视院线、培育钻石、光纤概念、MicroLED表现不佳，领跌市场。全市场上涨个股有892家，下跌个股有45…",
+        "publishedAt": "2026-07-13 11:30:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133803426068.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "医药",
+          "军工",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "盈康生命:300143盈康生命投资者关系管理信息20260710",
+        "summary": "盈康生命(300143)：盈康生命:300143盈康生命投资者关系管理信息20260710",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300143/AN202607131826921484.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盈康生命(300143)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "晨化股份:关于使用自有闲置资金进行现金管理的进展公告",
+        "summary": "晨化股份(300610)：晨化股份:关于使用自有闲置资金进行现金管理的进展公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300610/AN202607131826921183.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "晨化股份(300610)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "捷邦科技:301326捷邦科技投资者关系管理信息20260713",
+        "summary": "捷邦科技(301326)：捷邦科技:301326捷邦科技投资者关系管理信息20260713",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301326/AN202607131826917847.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "捷邦科技(301326)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "赛力斯:2026年半年度业绩预亏公告",
+        "summary": "赛力斯(601127)：赛力斯:2026年半年度业绩预亏公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601127/AN202607121826911469.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "赛力斯(601127)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "英力股份：AI服务器业务当前仍为前期储备阶段，无大额投入和落地订单",
+        "summary": "【英力股份：AI服务器业务当前仍为前期储备阶段，无大额投入和落地订单】英力股份7月13日在互动平台表示，AI服务器业务当前仍为前期储备阶段，无大额投入和落地订单，暂未安排客户批量送样及量产验证工作，暂无对外可披露的送样测试时间表。",
+        "publishedAt": "2026-07-13 11:57:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133803437920.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -99158,75 +99217,31 @@
         "noticeType": ""
       },
       {
-        "title": "SK集团董事长崔泰源：有一项“规模大得多”的美国投资计划",
-        "summary": "SK集团董事长崔泰源称他有一项“规模大得多”的美国投资计划。",
-        "publishedAt": "2026-07-10 23:04:54",
+        "title": "星钥半导体完成数亿元新一轮融资",
+        "summary": "【星钥半导体完成数亿元新一轮融资】近日，星钥半导体完成了数亿元的新一轮融资，本轮融资由包括鼎晖香港基金在内的战略方和财务机构参与。据公开信息，成立至今，星钥已完成数轮融资，投资人包括高瓴、红杉中国、华登国际、华业天成、经纬、武汉国资、重庆国资、江苏国资等机构。",
+        "publishedAt": "2026-07-13 11:47:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103802194996.html",
+        "url": "https://finance.eastmoney.com/a/202607133803436526.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "半导体"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美联储发布半年期货币政策报告",
-        "summary": "【美联储发布半年期货币政策报告】美联储发布半年期货币政策报告称，包括截尾均值在内的一些通胀指标有所下降。美国劳动力市场总体稳定，生产率强劲。美联储重申维持价格稳定的承诺。",
-        "publishedAt": "2026-07-10 23:01:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607103802192769.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至7月8日美联储资产负债表(万亿美元)",
-        "summary": "美国截至7月8日美联储资产负债表(万亿美元)；公布 674.0，预期 nan，前值 6.73。",
-        "publishedAt": "2026-07-10 04:30",
+        "title": "中国5月全社会用电量-每月(亿千瓦时)",
+        "summary": "中国5月全社会用电量-每月(亿千瓦时)；公布 nan，预期 nan，前值 8205.0。",
+        "publishedAt": "2026-07-13 14:40",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月8日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国7月8日COMEX黄金库存-每日更新(百盎司)；公布 271243.53，预期 nan，前值 271156.23。",
-        "publishedAt": "2026-07-10 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月9日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月9日iShares黄金持仓-每日更新(吨)；公布 462.85，预期 nan，前值 463.43。",
-        "publishedAt": "2026-07-10 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -99873,7 +99888,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -99886,15 +99901,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-10 23:42:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、半导体、金融。",
+        "generatedAt": "2026-07-13 12:09:47",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 11 条；主题映射集中在 AI算力、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、计算机设备、光伏设备；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99990,7 +100005,7 @@
               "今日炸板 91 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：国科微:关于股东股份质押的公告；英唐智控:中审众环关于公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复。",
+              "新闻/公告风险：巨力索具:关于市场传闻的澄清及风险提示的公告；安达智能:天健会计师事务所(特殊普通合伙)关于安达智能2025年年度报告信息披露监管问询函的专项说明。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
