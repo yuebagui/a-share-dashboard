@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-13",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-13 18:38:35",
+    "generatedAt": "2026-07-13 18:43:46",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -99168,106 +99168,169 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-13",
-    "generatedAt": "2026-07-13 18:38:55",
+    "generatedAt": "2026-07-13 18:44:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 7 条；主题映射集中在 金融、有色稀土、能源。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 10 条；主题映射集中在 能源、AI算力、金融。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 7,
-        "isFocusBoard": false
-      },
       {
         "name": "能源",
         "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 5,
+        "name": "AI算力",
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "金融",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "有色稀土",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "鑫宏业:股票交易异常波动公告",
-        "summary": "鑫宏业(301310)：鑫宏业:股票交易异常波动公告",
+        "title": "中富通:关于控股股东、实际控制人进行股份解除质押暨部分股份再质押的公告",
+        "summary": "中富通(300560)：中富通:关于控股股东、实际控制人进行股份解除质押暨部分股份再质押的公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301310/AN202607131826928736.html",
+        "url": "https://data.eastmoney.com/notices/detail/300560/AN202607131826932805.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "鑫宏业(301310)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "争光股份:股票交易异常波动公告",
-        "summary": "争光股份(301092)：争光股份:股票交易异常波动公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301092/AN202607131826928448.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "争光股份(301092)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "ST雪浪:关于公司重大诉讼的公告",
-        "summary": "ST雪浪(300385)：ST雪浪:关于公司重大诉讼的公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300385/AN202607131826928096.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST雪浪(300385)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "矩子科技:关于控股股东、实际控制人部分股份解除质押的公告",
-        "summary": "矩子科技(300802)：矩子科技:关于控股股东、实际控制人部分股份解除质押的公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300802/AN202607131826927801.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "矩子科技(300802)"
+          "中富通(300560)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "6-2东方证券关于狮头股份发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之核查意见(修订稿)(狮头科技发展股份有限公司)",
+        "summary": "狮头股份(600539)：6-2东方证券关于狮头股份发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之核查意见(修订稿)(狮头科技发展股份有限公司)",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600539/AN202607131826933279.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "狮头股份(600539)"
+        ],
+        "importance": 1,
+        "noticeType": "沪主板并购重组问询与回复"
+      },
+      {
+        "title": "6-1关于狮头股份发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复(修订稿)(狮头科技发展股份有限公司)",
+        "summary": "狮头股份(600539)：6-1关于狮头股份发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复(修订稿)(狮头科技发展股份有限公司)",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600539/AN202607131826933278.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "狮头股份(600539)"
+        ],
+        "importance": 1,
+        "noticeType": "沪主板并购重组问询与回复"
+      },
+      {
+        "title": "6-5中联评估关于审核问询函相关问题回复之核查意见(修订稿)(狮头科技发展股份有限公司)",
+        "summary": "狮头股份(600539)：6-5中联评估关于审核问询函相关问题回复之核查意见(修订稿)(狮头科技发展股份有限公司)",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600539/AN202607131826933277.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "狮头股份(600539)"
+        ],
+        "importance": 1,
+        "noticeType": "沪主板并购重组问询与回复"
+      },
+      {
+        "title": "中文在线:关于控股股东、实际控制人部分股份质押的公告",
+        "summary": "中文在线(300364)：中文在线:关于控股股东、实际控制人部分股份质押的公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300364/AN202607131826933326.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "中文在线(300364)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "*ST元道:关于公司股票可能被实施重大违法强制退市的第十一次风险提示公告",
+        "summary": "*ST元道(301139)：*ST元道:关于公司股票可能被实施重大违法强制退市的第十一次风险提示公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301139/AN202607131826933097.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST元道(301139)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "新强联:关于控股股东部分股份补充质押的公告",
+        "summary": "新强联(300850)：新强联:关于控股股东部分股份补充质押的公告",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300850/AN202607131826933091.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "新强联(300850)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "名家汇:关于累计及重大诉讼、仲裁情况的进展公告(二十五)",
+        "summary": "名家汇(300506)：名家汇:关于累计及重大诉讼、仲裁情况的进展公告(二十五)",
+        "publishedAt": "2026-07-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300506/AN202607131826933092.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "名家汇(300506)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
       },
       {
         "title": "钢坯下跌20元/吨 国内钢价或偏弱震荡",
@@ -99300,150 +99363,70 @@
         "noticeType": ""
       },
       {
-        "title": "太极实业：董事王毅勃拟减持不超过5.03万股",
-        "summary": "【太极实业：董事王毅勃拟减持不超过5.03万股】太极实业(600667.SH)公告称，公司董事、总经理王毅勃拟自2026年8月5日至11月4日，通过集中竞价方式减持不超过5.03万股，占公司总股本的0.0024%，减持原因为个人资金需求。",
-        "publishedAt": "2026-07-13 18:18:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607133803928254.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "300278华昌达投资者关系管理活动记录表20260713",
-        "summary": "华昌达(300278)：300278华昌达投资者关系管理活动记录表20260713",
+        "title": "泓淋电力:关于公司控股股东增持公司股份计划的公告",
+        "summary": "泓淋电力(301439)：泓淋电力:关于公司控股股东增持公司股份计划的公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300278/AN202607131826928560.html",
+        "url": "https://data.eastmoney.com/notices/detail/301439/AN202607131826933325.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "能源"
+        ],
         "tickers": [
-          "华昌达(300278)"
+          "泓淋电力(301439)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股东/实际控制人股份增持"
       },
       {
-        "title": "国药现代:投资者关系活动记录表",
-        "summary": "国药现代(600420)：国药现代:投资者关系活动记录表",
+        "title": "飞荣达:2026年半年度业绩预告",
+        "summary": "飞荣达(300602)：飞荣达:2026年半年度业绩预告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600420/AN202607131826928313.html",
+        "url": "https://data.eastmoney.com/notices/detail/300602/AN202607131826933329.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "国药现代(600420)"
+          "飞荣达(300602)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "业绩预告"
       },
       {
-        "title": "江天科技:关于使用闲置自有资金进行现金管理的进展公告",
-        "summary": "江天科技(920121)：江天科技:关于使用闲置自有资金进行现金管理的进展公告",
+        "title": "锦波生物:关于使用闲置自有资金购买理财产品的进展公告",
+        "summary": "锦波生物(920982)：锦波生物:关于使用闲置自有资金购买理财产品的进展公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920121/AN202607131826928228.html",
+        "url": "https://data.eastmoney.com/notices/detail/920982/AN202607131826933246.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "江天科技(920121)"
+          "锦波生物(920982)"
         ],
         "importance": 1,
         "noticeType": "投资理财"
       },
       {
-        "title": "三维通信:2026年7月10日投资者关系活动记录表",
-        "summary": "三维通信(002115)：三维通信:2026年7月10日投资者关系活动记录表",
+        "title": "国航远洋:2026年半年度业绩预告公告",
+        "summary": "国航远洋(920571)：国航远洋:2026年半年度业绩预告公告",
         "publishedAt": "2026-07-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002115/AN202607131826928002.html",
+        "url": "https://data.eastmoney.com/notices/detail/920571/AN202607131826933220.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "三维通信(002115)"
+          "国航远洋(920571)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "申万宏源:申万宏源集团股份有限公司2021年面向专业投资者公开发行公司债券(第二期)(品种二)2026年付息公告",
-        "summary": "申万宏源(000166)：申万宏源:申万宏源集团股份有限公司2021年面向专业投资者公开发行公司债券(第二期)(品种二)2026年付息公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000166/AN202607131826928098.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "申万宏源(000166)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长江证券:2024年面向专业投资者公开发行公司债券(第二期)2026年付息公告",
-        "summary": "长江证券(000783)：长江证券:2024年面向专业投资者公开发行公司债券(第二期)2026年付息公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000783/AN202607131826927939.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长江证券(000783)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "英科医疗:关于参与投资海宁擎川创业投资合伙企业(有限合伙)的进展公告",
-        "summary": "英科医疗(300677)：英科医疗:关于参与投资海宁擎川创业投资合伙企业(有限合伙)的进展公告",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300677/AN202607131826927799.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "英科医疗(300677)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "美迪西:投资者关系活动记录表(2026-07-002)",
-        "summary": "美迪西(688202)：美迪西:投资者关系活动记录表(2026-07-002)",
-        "publishedAt": "2026-07-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688202/AN202607131826927614.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "美迪西(688202)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "业绩预告"
       },
       {
         "title": "拉卡拉：预计2026年半年度净利润同比增长165.96%-205.20%",
@@ -99460,33 +99443,45 @@
         "noticeType": ""
       },
       {
-        "title": "新华保险：预计2026年半年度净利润同比增长40%-60%",
-        "summary": "【新华保险：预计2026年半年度净利润同比增长40%-60%】新华保险(601336.SH)公告称，预计2026年半年度归属于母公司股东的净利润为207.19亿元-236.78亿元，同比增长40%-60%。业绩增长主要因公司深化寿险主业改革，强化投研能力，优化资产配置，取得良好投资收益。",
-        "publishedAt": "2026-07-13 18:16:37",
+        "title": "东方中科：预计2026年上半年归母净利润亏损4000万元-4400万元",
+        "summary": "【东方中科：预计2026年上半年归母净利润亏损4000万元-4400万元】东方中科7月13日公告，预计2026年上半年归母净利润亏损4000万元-4400万元，上年同期亏损4934.09万元。",
+        "publishedAt": "2026-07-13 18:39:15",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607133803926150.html",
+        "url": "https://finance.eastmoney.com/a/202607133803955154.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "中国5月全社会用电量-每月(亿千瓦时)",
-        "summary": "中国5月全社会用电量-每月(亿千瓦时)；公布 nan，预期 nan，前值 8205.0。",
-        "publishedAt": "2026-07-13 14:40",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "沃格光电：预计上半年净亏损1亿元至1.4亿元",
+        "summary": "【沃格光电：预计上半年净亏损1亿元至1.4亿元】7月13日，沃格光电(603773.SH)公告称，预计2026年半年度归属于母公司所有者的净利润为亏损1.00亿元至1.40亿元。由于公司子公司成都沃格显示技术有限公司的8代OLED玻璃精加工产线、江西德虹显示技术有限公司的玻璃基MiniLED新型显示产线、湖北通格微电路科技有限公司的TGV玻璃基线路板业务均…",
+        "publishedAt": "2026-07-13 18:34:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133803944828.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "淳中科技：预计2026年半年度净利润1.25亿元-1.35亿元 同比扭亏为盈",
+        "summary": "【淳中科技：预计2026年半年度净利润1.25亿元-1.35亿元 同比扭亏为盈】淳中科技(603516.SH)公告称，预计2026年半年度归属于上市公司股东的净利润为1.25亿元-1.35亿元，同比扭亏为盈。业绩变动主要系公司持有沐曦股份股票，公允价值变动收益增加所致。",
+        "publishedAt": "2026-07-13 18:34:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607133803946135.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -99605,15 +99600,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-13 18:38:55",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 7 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-07-13 18:44:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 10 条；主题映射集中在 能源、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99644,7 +99639,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-13 18:38:35",
+        "generatedAt": "2026-07-13 18:43:46",
         "summary": "上午情绪分 0，涨停 29 家，跌停 172 家，炸板 14 家，连板 10 家，最高 3 板。",
         "sections": [
           {
@@ -99683,7 +99678,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-13 18:38:35",
+        "generatedAt": "2026-07-13 18:43:46",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -99709,7 +99704,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 172 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：鑫宏业:股票交易异常波动公告；争光股份:股票交易异常波动公告。",
+              "新闻/公告风险：中富通:关于控股股东、实际控制人进行股份解除质押暨部分股份再质押的公告；6-2东方证券关于狮头股份发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之核查意见(修订稿)(狮头科技发展股份有限公司)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
