@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-14",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-14 17:22:08",
+    "generatedAt": "2026-07-14 18:04:40",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -84524,7 +84524,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -84688,255 +84689,280 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-14",
-    "generatedAt": "2026-07-14 17:23:08",
+    "generatedAt": "2026-07-14 18:06:11",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 1 条；主题映射集中在 金融、能源、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、AI算力、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 15,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 5,
+        "score": 29,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
+        "name": "有色稀土",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "新能源",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "爱迪特:关于全资子公司设立募集资金专项账户并签署募集资金三方监管协议的公告",
-        "summary": "爱迪特(301580)：爱迪特:关于全资子公司设立募集资金专项账户并签署募集资金三方监管协议的公告",
+        "title": "立中集团:关于股东部分股份办理股票质押式回购交易业务的公告",
+        "summary": "立中集团(300428)：立中集团:关于股东部分股份办理股票质押式回购交易业务的公告",
         "publishedAt": "2026-07-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301580/AN202607141826955612.html",
+        "url": "https://data.eastmoney.com/notices/detail/300428/AN202607141826957086.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "爱迪特(301580)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "隆华科技:关于全资子公司与关联方共同投资设立合资公司暨关联交易的进展公告",
-        "summary": "隆华科技(300263)：隆华科技:关于全资子公司与关联方共同投资设立合资公司暨关联交易的进展公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300263/AN202607141826955649.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "隆华科技(300263)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "2-1重大资产重组报告书(申报稿)(TCL科技集团股份有限公司)",
-        "summary": "TCL科技(000100)：2-1重大资产重组报告书(申报稿)(TCL科技集团股份有限公司)",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000100/AN202607141826953841.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "TCL科技(000100)"
-        ],
-        "importance": 1,
-        "noticeType": "深主板并购重组报告书申报稿"
-      },
-      {
-        "title": "东利机械:关于调整2024年限制性股票激励计划限制性股票授予价格的公告",
-        "summary": "东利机械(301298)：东利机械:关于调整2024年限制性股票激励计划限制性股票授予价格的公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301298/AN202607141826959380.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东利机械(301298)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "东利机械:关于作废2024年限制性股票激励计划部分限制性股票的公告",
-        "summary": "东利机械(301298)：东利机械:关于作废2024年限制性股票激励计划部分限制性股票的公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301298/AN202607141826959379.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东利机械(301298)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "东利机械:关于2024年限制性股票激励计划第二个归属期符合归属条件的公告",
-        "summary": "东利机械(301298)：东利机械:关于2024年限制性股票激励计划第二个归属期符合归属条件的公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301298/AN202607141826959349.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东利机械(301298)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "联检科技:关于向2026年股票期权激励计划激励对象首次授予股票期权登记完成的公告",
-        "summary": "联检科技(301115)：联检科技:关于向2026年股票期权激励计划激励对象首次授予股票期权登记完成的公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301115/AN202607141826959013.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联检科技(301115)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "爱朋医疗:关于授权公司参与对外投资竞标的公告",
-        "summary": "爱朋医疗(300753)：爱朋医疗:关于授权公司参与对外投资竞标的公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300753/AN202607141826958898.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "爱朋医疗(300753)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "信捷电气:中泰证券股份有限公司关于无锡信捷电气股份有限公司差异化分红事项的核查意见",
-        "summary": "信捷电气(603416)：信捷电气:中泰证券股份有限公司关于无锡信捷电气股份有限公司差异化分红事项的核查意见",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603416/AN202607141826958789.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "信捷电气(603416)"
+          "立中集团(300428)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "龙鑫智能:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "summary": "龙鑫智能(920117)：龙鑫智能:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920117/AN202607141826958785.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "龙鑫智能(920117)"
-        ],
+        "title": "6天3板宿迁联盛：股票交易严重异常波动 存在非理性炒作风险",
+        "summary": "【6天3板宿迁联盛：股票交易严重异常波动 存在非理性炒作风险】宿迁联盛(603065.SH)公告称，公司股票连续30个交易日内累计收盘价格涨跌幅偏离值超过200%，属于股票交易严重异常波动。公司主营业务未发生重大变化，股价短期内连续上涨，存在市场情绪过热、非理性炒作风险，已严重偏离公司基本面，随时存在快速下跌风险。",
+        "publishedAt": "2026-07-14 17:53:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607143805733427.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "首发提示性公告"
+        "noticeType": ""
       },
       {
-        "title": "龙鑫智能:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "summary": "龙鑫智能(920117)：龙鑫智能:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
+        "title": "000408藏格矿业投资者关系管理信息20260714",
+        "summary": "藏格矿业(000408)：000408藏格矿业投资者关系管理信息20260714",
         "publishedAt": "2026-07-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920117/AN202607141826958786.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "龙鑫智能(920117)"
-        ],
-        "importance": 1,
-        "noticeType": "首发上市公告书"
-      },
-      {
-        "title": "300508维宏股份投资者关系管理信息20260714",
-        "summary": "维宏股份(300508)：300508维宏股份投资者关系管理信息20260714",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300508/AN202607141826958478.html",
+        "url": "https://data.eastmoney.com/notices/detail/000408/AN202607141826957274.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "维宏股份(300508)"
+          "藏格矿业(000408)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "东方通信：预计2026年半年度净利润同比增长142.58%",
-        "summary": "【东方通信：预计2026年半年度净利润同比增长142.58%】东方通信(600776.SH)公告称，预计2026年半年度归属于母公司所有者的净利润为3.20亿元，同比增长142.58%。业绩变动主要系本期处置交易性金融资产产生大额投资收益及期末持有的交易性金融资产产生公允价值变动损益，以及经营利润增加。",
-        "publishedAt": "2026-07-14 17:05:28",
+        "title": "亿联网络:2026年半年度业绩预告",
+        "summary": "亿联网络(300628)：亿联网络:2026年半年度业绩预告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300628/AN202607141826957278.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "亿联网络(300628)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "华大基因:关于第三期以集中竞价交易方式首次回购公司股份的公告",
+        "summary": "华大基因(300676)：华大基因:关于第三期以集中竞价交易方式首次回购公司股份的公告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300676/AN202607141826957279.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "华大基因(300676)"
+        ],
+        "importance": 1,
+        "noticeType": "回购实施公告"
+      },
+      {
+        "title": "熊猫乳品:关于股份回购结果暨股份变动的公告",
+        "summary": "熊猫乳品(300898)：熊猫乳品:关于股份回购结果暨股份变动的公告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300898/AN202607141826957160.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "熊猫乳品(300898)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "青木科技:关于以集中竞价交易方式首次回购公司股份的公告",
+        "summary": "青木科技(301110)：青木科技:关于以集中竞价交易方式首次回购公司股份的公告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301110/AN202607141826957111.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "青木科技(301110)"
+        ],
+        "importance": 1,
+        "noticeType": "回购实施公告"
+      },
+      {
+        "title": "紫金银行:2026年7月14日投资者关系活动记录表",
+        "summary": "紫金银行(601860)：紫金银行:2026年7月14日投资者关系活动记录表",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601860/AN202607141826957038.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "紫金银行(601860)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长城证券:长城证券股份有限公司2024年面向专业投资者公开发行公司债券(第三期)(品种一)2026年付息公告",
+        "summary": "长城证券(002939)：长城证券:长城证券股份有限公司2024年面向专业投资者公开发行公司债券(第三期)(品种一)2026年付息公告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002939/AN202607141826957095.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "长城证券(002939)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)发行公告",
+        "summary": "国元证券(000728)：国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)发行公告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000728/AN202607141826957088.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国元证券(000728)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "泽宇智能:2026年半年度业绩预告",
+        "summary": "泽宇智能(301179)：泽宇智能:2026年半年度业绩预告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301179/AN202607141826957089.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "泽宇智能(301179)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)募集说明书",
+        "summary": "国元证券(000728)：国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)募集说明书",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000728/AN202607141826957091.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国元证券(000728)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "长城证券:长城证券股份有限公司2024年面向专业投资者公开发行公司债券(第三期)(品种二)2026年付息公告",
+        "summary": "长城证券(002939)：长城证券:长城证券股份有限公司2024年面向专业投资者公开发行公司债券(第三期)(品种二)2026年付息公告",
+        "publishedAt": "2026-07-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002939/AN202607141826957093.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "长城证券(002939)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "三友医疗：实控人提议9000万元-1.8亿元回购公司股份",
+        "summary": "【三友医疗：实控人提议9000万元-1.8亿元回购公司股份】三友医疗7月14日公告，公司实控人刘明岩、徐农和范湘龙提议公司使用9000万元-1.8亿元的自有资金通过上海证券交易所交易系统以集中竞价交易方式回购公司的部分股份，并在未来适宜时机全部用于员工持股计划或股权激励。",
+        "publishedAt": "2026-07-14 17:55:38",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143805678938.html",
+        "url": "https://finance.eastmoney.com/a/202607143805733814.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
+          "医药",
           "金融"
         ],
         "tickers": [],
@@ -84944,75 +84970,55 @@
         "noticeType": ""
       },
       {
-        "title": "央行：7月15日将开展14000亿元买断式逆回购操作",
-        "summary": "【央行：7月15日将开展14000亿元买断式逆回购操作】为保持银行体系流动性充裕，2026年7月15日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展14000亿元买断式逆回购操作，期限为6个月（184天），到期日为2027年1月15日（遇节假日顺延）。",
-        "publishedAt": "2026-07-14 17:01:32",
+        "title": "中航光电：子公司翔通光科技订单非常饱满 部分已排到27年",
+        "summary": "【中航光电：子公司翔通光科技订单非常饱满 部分已排到27年】有投资者问中航光电，光器件产品订单是否饱满，订单具体排到什么时候？中航光电在互动平台表示，公司子公司翔通光科技订单非常饱满，部分订单已排到27年。",
+        "publishedAt": "2026-07-14 17:52:28",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143805664253.html",
+        "url": "https://finance.eastmoney.com/a/202607143805733269.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "福达合金：预计2026年半年度净利润同比增长938%-1438%",
-        "summary": "【福达合金：预计2026年半年度净利润同比增长938%-1438%】福达合金(603045.SH)公告称，预计2026年半年度归属于上市公司股东的净利润为2.58亿元-3.83亿元，同比增长937.99%-1438.23%。受益于全球电力基建投资扩张及新兴应用领域需求旺盛，同时优化产品结构、开拓高端客户，加工费上涨，主营业务保持良好发展态势。",
-        "publishedAt": "2026-07-14 17:00:35",
+        "title": "高盛：云巨头五年AI资本开支或达5.8万亿美元 单一债券市场难以满足融资需求",
+        "summary": "【高盛：云巨头五年AI资本开支或达5.8万亿美元 单一债券市场难以满足融资需求】高盛股票研究团队预计，微软、亚马逊、Meta、谷歌和甲骨文五家超大规模云厂商在2025至2030财年间的AI资本开支合计将达到5.8万亿美元。",
+        "publishedAt": "2026-07-14 17:55:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143805667546.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "布伦特原油期货突破87美元/桶",
-        "summary": "布伦特原油期货突破87美元/桶，日内涨4.67%。",
-        "publishedAt": "2026-07-14 16:59:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143805670082.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "润都股份：盐酸去甲乌药碱注射液入选广东省创新药械产品目录",
-        "summary": "【润都股份：盐酸去甲乌药碱注射液入选广东省创新药械产品目录】润都股份(002923.SZ)公告称，公司全球首创新药盐酸去甲乌药碱注射液入选广东省已获批创新药械产品目录(第三批)。该药品为心脏负荷试验药物，适用于核素心肌灌注显像以评估心肌缺血。",
-        "publishedAt": "2026-07-14 17:12:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143805682773.html",
+        "url": "https://finance.eastmoney.com/a/202607143805733789.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "医药"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "摩根大通下调Coinbase目标价",
-        "summary": "【摩根大通下调Coinbase目标价】摩根大通将Coinbase目标股价从283美元下调至196美元。",
-        "publishedAt": "2026-07-14 17:11:33",
+        "title": "荣盛石化：预计上半年净利润同比增长730%-764%",
+        "summary": "【荣盛石化：预计上半年净利润同比增长730%-764%】荣盛石化公告，预计2026年半年度归属于上市公司股东的净利润为50.00亿元-52.00亿元，同比增长730.45%-763.67%。",
+        "publishedAt": "2026-07-14 17:54:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143805680179.html",
+        "url": "https://finance.eastmoney.com/a/202607143805732973.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "乌克兰延长战时状态和总动员令至10月31日",
+        "summary": "【乌克兰延长战时状态和总动员令至10月31日】据央视新闻，当地时间7月14日，乌克兰最高拉达批准延长在乌克兰实施的战时状态和总动员令的期限至2026年10月31日。",
+        "publishedAt": "2026-07-14 17:54:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607143805733687.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -85186,15 +85192,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-14 17:23:08",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 1 条；主题映射集中在 金融、能源、医药。",
+        "generatedAt": "2026-07-14 18:06:11",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、AI算力、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：共封装光学(CPO)、元件、2026中报预增；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -85225,7 +85231,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-14 17:22:08",
+        "generatedAt": "2026-07-14 18:04:40",
         "summary": "上午情绪分 63，涨停 81 家，跌停 22 家，炸板 21 家，连板 6 家，最高 3 板。",
         "sections": [
           {
@@ -85264,7 +85270,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-14 17:22:08",
+        "generatedAt": "2026-07-14 18:04:40",
         "summary": "市场温度 中，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -85290,7 +85296,7 @@
               "今日炸板 21 只，追高前先看前排封单和回封质量。",
               "今日跌停 22 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 共封装光学(CPO)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：爱迪特:关于全资子公司设立募集资金专项账户并签署募集资金三方监管协议的公告。",
+              "新闻/公告风险：立中集团:关于股东部分股份办理股票质押式回购交易业务的公告；6天3板宿迁联盛：股票交易严重异常波动 存在非理性炒作风险。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
