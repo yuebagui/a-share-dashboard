@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-15",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-15 17:37:27",
+    "generatedAt": "2026-07-15 18:08:55",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -98659,105 +98659,204 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-15",
-    "generatedAt": "2026-07-15 17:38:40",
+    "generatedAt": "2026-07-15 18:10:09",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 0 条；主题映射集中在 AI算力、半导体、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 能源、AI算力、军工。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 7,
+        "name": "能源",
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "AI算力",
         "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 6,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "医药",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "建发致新:2026年半年度业绩预告",
-        "summary": "建发致新(301584)：建发致新:2026年半年度业绩预告",
+        "title": "科润智控:关于对北京证券交易所2025年年报问询函的回复公告",
+        "summary": "科润智控(920062)：科润智控:关于对北京证券交易所2025年年报问询函的回复公告",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301584/AN202607151826988911.html",
+        "url": "https://data.eastmoney.com/notices/detail/920062/AN202607151826993512.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "科润智控(920062)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "生物谷:股票交易异常波动公告",
+        "summary": "生物谷(920266)：生物谷:股票交易异常波动公告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920266/AN202607151826992296.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "生物谷(920266)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "美之高:员工持股平台减持股份结果公告",
+        "summary": "美之高(920765)：美之高:员工持股平台减持股份结果公告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920765/AN202607151826993510.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "美之高(920765)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "科润智控:天健会计师事务所(特殊普通合伙)关于对科润智能控制股份有限公司2025年年报问询函的回复",
+        "summary": "科润智控(920062)：科润智控:天健会计师事务所(特殊普通合伙)关于对科润智能控制股份有限公司2025年年报问询函的回复",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920062/AN202607151826993511.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "科润智控(920062)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "天力锂能:天力锂能集团股份有限公司关于控股股东、实际控制人之一部分股份被司法拍卖的进展公告",
+        "summary": "天力锂能(301152)：天力锂能:天力锂能集团股份有限公司关于控股股东、实际控制人之一部分股份被司法拍卖的进展公告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301152/AN202607151826993507.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [
+          "天力锂能(301152)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "兰剑智能:投资者关系活动记录表2026011",
+        "summary": "兰剑智能(688557)：兰剑智能:投资者关系活动记录表2026011",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688557/AN202607151826987730.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "建发致新(301584)"
+          "兰剑智能(688557)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "天邑股份:2026年7月15日天邑股份投资者关系活动记录表",
+        "summary": "天邑股份(300504)：天邑股份:2026年7月15日天邑股份投资者关系活动记录表",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300504/AN202607151826993876.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天邑股份(300504)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华凯易佰:关于全资子公司对外投资及购买资产暨关联交易的进展公告",
+        "summary": "华凯易佰(300592)：华凯易佰:关于全资子公司对外投资及购买资产暨关联交易的进展公告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300592/AN202607151826993777.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华凯易佰(300592)"
+        ],
+        "importance": 1,
+        "noticeType": "收购出售资产/股权"
+      },
+      {
+        "title": "大普微:2026年半年度业绩预告",
+        "summary": "大普微(301666)：大普微:2026年半年度业绩预告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301666/AN202607151826993776.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大普微(301666)"
         ],
         "importance": 1,
         "noticeType": "业绩预告"
       },
       {
-        "title": "中晶科技:投资者关系活动记录表",
-        "summary": "中晶科技(003026)：中晶科技:投资者关系活动记录表",
+        "title": "广发证券:广发证券股份有限公司2026年面向专业投资者公开发行公司债券(第六期)在深圳证券交易所上市的公告",
+        "summary": "广发证券(000776)：广发证券:广发证券股份有限公司2026年面向专业投资者公开发行公司债券(第六期)在深圳证券交易所上市的公告",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003026/AN202607151826988732.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中晶科技(003026)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "四方光电:2026年6月投资者关系活动记录表",
-        "summary": "四方光电(688665)：四方光电:2026年6月投资者关系活动记录表",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688665/AN202607151826988577.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "四方光电(688665)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "南极电商:2026年7月15日投资者关系活动记录表",
-        "summary": "南极电商(002127)：南极电商:2026年7月15日投资者关系活动记录表",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002127/AN202607151826988080.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "南极电商(002127)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "恒鑫生活:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "summary": "恒鑫生活(301501)：恒鑫生活:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301501/AN202607151826988241.html",
+        "url": "https://data.eastmoney.com/notices/detail/000776/AN202607151826993555.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -98765,131 +98864,83 @@
           "金融"
         ],
         "tickers": [
-          "恒鑫生活(301501)"
+          "广发证券(000776)"
         ],
         "importance": 1,
-        "noticeType": "借贷"
+        "noticeType": "其他"
       },
       {
-        "title": "东芯股份:东芯半导体股份有限公司投资者关系活动记录表(2026年7月14日)",
-        "summary": "东芯股份(688110)：东芯股份:东芯半导体股份有限公司投资者关系活动记录表(2026年7月14日)",
+        "title": "鹏辉能源:2026年半年度业绩预告",
+        "summary": "鹏辉能源(300438)：鹏辉能源:2026年半年度业绩预告",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688110/AN202607151826987731.html",
+        "url": "https://data.eastmoney.com/notices/detail/300438/AN202607151826993509.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "半导体"
+          "能源"
         ],
         "tickers": [
-          "东芯股份(688110)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "弘讯科技:宁波弘讯科技股份有限公司投资者关系活动记录表20260710",
-        "summary": "弘讯科技(603015)：弘讯科技:宁波弘讯科技股份有限公司投资者关系活动记录表20260710",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603015/AN202607151826987729.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "弘讯科技(603015)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中科曙光:公开发行可转换公司债券网上路演投资者关系活动记录表20260714",
-        "summary": "中科曙光(603019)：中科曙光:公开发行可转换公司债券网上路演投资者关系活动记录表20260714",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603019/AN202607151826987727.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中科曙光(603019)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "三旺通信:深圳市三旺通信股份有限公司投资者关系活动记录表(2026年7月14日)",
-        "summary": "三旺通信(688618)：三旺通信:深圳市三旺通信股份有限公司投资者关系活动记录表(2026年7月14日)",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688618/AN202607151826987732.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三旺通信(688618)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "宏微科技:江苏宏微科技股份有限公司投资者关系活动记录表(2026年7月13日)",
-        "summary": "宏微科技(688711)：宏微科技:江苏宏微科技股份有限公司投资者关系活动记录表(2026年7月13日)",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688711/AN202607151826987728.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宏微科技(688711)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "博纳影业:2026年半年度业绩预告",
-        "summary": "博纳影业(001330)：博纳影业:2026年半年度业绩预告",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001330/AN202607151826981961.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博纳影业(001330)"
+          "鹏辉能源(300438)"
         ],
         "importance": 1,
         "noticeType": "业绩预告"
       },
       {
-        "title": "盘龙药业:002864盘龙药业投资者关系管理信息20260714",
-        "summary": "盘龙药业(002864)：盘龙药业:002864盘龙药业投资者关系管理信息20260714",
+        "title": "中熔电气:西安中熔电气股份有限公司2026年半年度业绩预告",
+        "summary": "中熔电气(301031)：中熔电气:西安中熔电气股份有限公司2026年半年度业绩预告",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002864/AN202607151826978308.html",
+        "url": "https://data.eastmoney.com/notices/detail/301031/AN202607151826993506.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "盘龙药业(002864)"
+          "中熔电气(301031)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "业绩预告"
       },
       {
-        "title": "中国巨石：子公司巨石集团拟建设年产2.5亿米电子布生产线项目",
-        "summary": "【中国巨石：子公司巨石集团拟建设年产2.5亿米电子布生产线项目】中国巨石公告，公司全资子公司巨石集团拟在浙江省桐乡经济开发区启动建设年产2.5亿米电子布生产线建设项目。项目生产线的建设周期为1.5年，项目计划总投资240472.36万元，资金来源为公司自有及自筹资金。",
-        "publishedAt": "2026-07-15 17:27:10",
+        "title": "“引力一号”遥四火箭预计搭载微纳星空6颗“拼车”卫星",
+        "summary": "【“引力一号”遥四火箭预计搭载微纳星空6颗“拼车”卫星】记者获悉，预计7月22日，由海阳东方航天港总装出厂的“引力一号”遥四运载火箭，将搭乘“东方航天港”号发射船，在上海东部海域执行海上卫星发射任务。本次发射为商业“拼车”订单，主要搭载微纳星空的6颗“东坡”系列卫星，含两颗光学卫星和四颗SAR卫星。",
+        "publishedAt": "2026-07-15 18:01:43",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807534940.html",
+        "url": "https://finance.eastmoney.com/a/202607153807567390.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "鹏辉能源：预计上半年净利润8亿元-8.66亿元 同比扭亏",
+        "summary": "【鹏辉能源：预计上半年净利润8亿元-8.66亿元 同比扭亏】鹏辉能源公告，预计2026年半年度归属于上市公司股东的净利润为8亿元-8.66亿元，上年同期亏损8822.67万元。报告期内，公司业绩变动的主要原因是行业向好，公司产品产销两旺，销售订单增加，营业收入增长。",
+        "publishedAt": "2026-07-15 18:00:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807566389.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "劲嘉股份：预计2026年半年度净利润同比下降50.89%-67.26%",
+        "summary": "【劲嘉股份：预计2026年半年度净利润同比下降50.89%-67.26%】劲嘉股份(002191.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为4000万元-6000万元，同比下降50.89%-67.26%。业绩变动主要系联营企业利润下滑导致投资收益减少，以及精品纸包装产品收入下滑、毛利额减少所致。",
+        "publishedAt": "2026-07-15 17:47:52",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807562318.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -98899,16 +98950,15 @@
         "noticeType": ""
       },
       {
-        "title": "SEMI报告：2028年全球半导体设备销售额预计创纪录 达2295亿美元",
-        "summary": "【SEMI报告：2028年全球半导体设备销售额预计创纪录 达2295亿美元】SEMI发布《年中总半导体设备市场预测报告》，其中指出，预测2026年全球半导体制造设备（OEM）总销售额将创下1659亿美元的历史新高，同比增长23.2%。增长势头预计将持续至2028年，总设备销售额有望达到创纪录的2295亿美元，实现连续五年增长，AI驱动的需求正在重塑半导体制…",
-        "publishedAt": "2026-07-15 17:25:17",
+        "title": "IBM推出IBM Power自主运营AI智能体",
+        "summary": "IBM推出IBMPower自主运营AI智能体。",
+        "publishedAt": "2026-07-15 18:01:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807534872.html",
+        "url": "https://finance.eastmoney.com/a/202607153807568629.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [
-          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -98916,59 +98966,31 @@
         "noticeType": ""
       },
       {
-        "title": "通合科技：拟以3500万元至7000万元回购股份用于股权激励",
-        "summary": "【通合科技：拟以3500万元至7000万元回购股份用于股权激励】通合科技(300491.SZ)公告称，公司拟使用自有或自筹资金(含股票回购专项贷款资金)以集中竞价交易方式回购公司A股股份，回购资金总额不低于3500万元且不超过7000万元，回购价格不超过45元/股。回购股份将用于员工持股计划或股权激励计划。",
-        "publishedAt": "2026-07-15 17:15:00",
+        "title": "贝莱德第二季度资产管理规模为15.34万亿美元",
+        "summary": "【贝莱德第二季度资产管理规模为15.34万亿美元】贝莱德（BlackRock）第二季度资产管理规模（AUM）为15.34万亿美元，预估为15.19万亿美元。",
+        "publishedAt": "2026-07-15 18:01:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807526777.html",
+        "url": "https://finance.eastmoney.com/a/202607153807568768.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "圣湘生物：A族链球菌核酸检测试剂盒获医疗器械注册证",
+        "summary": "【圣湘生物：A族链球菌核酸检测试剂盒获医疗器械注册证】圣湘生物(688289.SH)公告称，公司产品A族链球菌核酸检测试剂盒(荧光PCR法)近日获国家药监局颁发的《医疗器械注册证》，用于体外定性检测人咽拭子样本中的A族链球菌核酸。该产品可结合公司呼吸道感染核酸快速检测方案，实现多病原同步检测，有助于提升早期诊断效率、规范抗菌药物使用。",
+        "publishedAt": "2026-07-15 17:57:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807564464.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "金融"
+          "医药"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "九州通：子公司2个品种新增进入国家基药目录",
-        "summary": "【九州通：子公司2个品种新增进入国家基药目录】九州通(600998.SH)公告称，公司控股子公司北京京丰制药集团有限公司及全资子公司北京京丰制药(河北)有限公司的替米沙坦片和盐酸特比萘芬乳膏2个品种新增进入《国家基本药物目录(2026年版)》，该目录自2026年9月1日起施行。",
-        "publishedAt": "2026-07-15 17:33:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807544381.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "灿勤科技：拟募资不超8.51亿元用于6G及先进陶瓷封装等项目",
-        "summary": "【灿勤科技：拟募资不超8.51亿元用于6G及先进陶瓷封装等项目】灿勤科技(688182.SH)公告称，公司拟向特定对象发行A股股票，募集资金总额不超过8.51亿元，用于第六代信息技术研发及产业化项目、先进陶瓷封装产业化项目、信息化升级与数字化工厂建设项目及补充流动资金。",
-        "publishedAt": "2026-07-15 17:22:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807534183.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "华联控股：预计上半年归母净利润同比增长1029.89%-1422.89%",
-        "summary": "【华联控股：预计上半年归母净利润同比增长1029.89%-1422.89%】华联控股7月15日公告，预计2026年上半年归母净利润2300万元-3100万元，同比增长1029.89%-1422.89%。",
-        "publishedAt": "2026-07-15 17:21:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807532798.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -99138,15 +99160,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-15 17:38:40",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 0 条；主题映射集中在 AI算力、半导体、金融。",
+        "generatedAt": "2026-07-15 18:10:09",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 能源、AI算力、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、化学制药、证券；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99177,7 +99199,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-15 17:37:27",
+        "generatedAt": "2026-07-15 18:08:55",
         "summary": "上午情绪分 50，涨停 72 家，跌停 31 家，炸板 21 家，连板 16 家，最高 4 板。",
         "sections": [
           {
@@ -99216,7 +99238,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-15 17:37:27",
+        "generatedAt": "2026-07-15 18:08:55",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -99242,7 +99264,7 @@
               "今日炸板 21 只，追高前先看前排封单和回封质量。",
               "今日跌停 31 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
+              "新闻/公告风险：科润智控:关于对北京证券交易所2025年年报问询函的回复公告；生物谷:股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
