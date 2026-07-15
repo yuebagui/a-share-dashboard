@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-15",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-15 18:08:55",
+    "generatedAt": "2026-07-15 22:58:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -98659,45 +98659,30 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-15",
-    "generatedAt": "2026-07-15 18:10:09",
+    "generatedAt": "2026-07-15 22:59:51",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 能源、AI算力、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 金融、AI算力、半导体。",
     "themes": [
       {
-        "name": "能源",
-        "score": 8,
+        "name": "金融",
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
@@ -98738,54 +98723,64 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "美之高:员工持股平台减持股份结果公告",
-        "summary": "美之高(920765)：美之高:员工持股平台减持股份结果公告",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920765/AN202607151826993510.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "良品铺子：达永有限持股比例降至15.91%",
+        "summary": "【良品铺子：达永有限持股比例降至15.91%】良品铺子(603719.SH)公告称，公司收到持股5%以上股东达永有限公司告知函，达永有限于2026年7月6日至14日期间通过集中竞价及大宗交易方式合计减持公司股份873.34万股，持股比例从17.97%变动至15.91%。",
+        "publishedAt": "2026-07-15 22:39:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807811443.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "美之高(920765)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": ""
       },
       {
-        "title": "科润智控:天健会计师事务所(特殊普通合伙)关于对科润智能控制股份有限公司2025年年报问询函的回复",
-        "summary": "科润智控(920062)：科润智控:天健会计师事务所(特殊普通合伙)关于对科润智能控制股份有限公司2025年年报问询函的回复",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920062/AN202607151826993511.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "未来5年现代农业气象防灾减灾业务能力建设方案出台",
+        "summary": "【未来5年现代农业气象防灾减灾业务能力建设方案出台】中国气象局近日出台了《现代农业气象防灾减灾业务能力建设方案（2026—2030年）》，加快构建新型气象为农服务体系，着力提升数智化、场景化农业气象防灾减灾业务能力。方案明确，到2030年，全国现代农业气象防灾减灾能力将显著提升。国内农业气象灾害风险预警覆盖短中长期，重点区域预警空间分辨率和农业产量预报空间…",
+        "publishedAt": "2026-07-15 22:37:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807807456.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "科润智控(920062)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": ""
       },
       {
-        "title": "天力锂能:天力锂能集团股份有限公司关于控股股东、实际控制人之一部分股份被司法拍卖的进展公告",
-        "summary": "天力锂能(301152)：天力锂能:天力锂能集团股份有限公司关于控股股东、实际控制人之一部分股份被司法拍卖的进展公告",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301152/AN202607151826993507.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "米兰上市的意法半导体股票在下跌3.75%后自动暂停交易",
+        "summary": "米兰上市的意法半导体股票在下跌3.75%后自动暂停交易。",
+        "publishedAt": "2026-07-15 22:36:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807807119.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "有色稀土"
+          "半导体"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "传智教育:003032传智教育投资者关系管理信息20260715",
+        "summary": "传智教育(003032)：传智教育:003032传智教育投资者关系管理信息20260715",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003032/AN202607151826994463.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "天力锂能(301152)"
+          "传智教育(003032)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "调研活动"
       },
       {
         "title": "兰剑智能:投资者关系活动记录表2026011",
@@ -98804,59 +98799,123 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "天邑股份:2026年7月15日天邑股份投资者关系活动记录表",
-        "summary": "天邑股份(300504)：天邑股份:2026年7月15日天邑股份投资者关系活动记录表",
+        "title": "深圳华强:2026年7月15日投资者关系活动记录表",
+        "summary": "深圳华强(000062)：深圳华强:2026年7月15日投资者关系活动记录表",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300504/AN202607151826993876.html",
+        "url": "https://data.eastmoney.com/notices/detail/000062/AN202607151826999619.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "天邑股份(300504)"
+          "深圳华强(000062)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "华凯易佰:关于全资子公司对外投资及购买资产暨关联交易的进展公告",
-        "summary": "华凯易佰(300592)：华凯易佰:关于全资子公司对外投资及购买资产暨关联交易的进展公告",
+        "title": "金力永磁:2026年7月15日投资者关系活动记录表",
+        "summary": "金力永磁(300748)：金力永磁:2026年7月15日投资者关系活动记录表",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300592/AN202607151826993777.html",
+        "url": "https://data.eastmoney.com/notices/detail/300748/AN202607151826999166.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "华凯易佰(300592)"
+          "金力永磁(300748)"
         ],
         "importance": 1,
-        "noticeType": "收购出售资产/股权"
+        "noticeType": "调研活动"
       },
       {
-        "title": "大普微:2026年半年度业绩预告",
-        "summary": "大普微(301666)：大普微:2026年半年度业绩预告",
+        "title": "同兴科技投资者关系管理信息20260715",
+        "summary": "同兴科技(003027)：同兴科技投资者关系管理信息20260715",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301666/AN202607151826993776.html",
+        "url": "https://data.eastmoney.com/notices/detail/003027/AN202607151826999076.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "大普微(301666)"
+          "同兴科技(003027)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "洁美科技:2026年7月14日至7月15日投资者关系活动记录表",
+        "summary": "洁美科技(002859)：洁美科技:2026年7月14日至7月15日投资者关系活动记录表",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002859/AN202607151826998874.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "洁美科技(002859)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "康达新材:2026年7月15日投资者关系活动记录表",
+        "summary": "康达新材(002669)：康达新材:2026年7月15日投资者关系活动记录表",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002669/AN202607151826998424.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "康达新材(002669)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "欣天科技:2026年半年度业绩预告",
+        "summary": "欣天科技(300615)：欣天科技:2026年半年度业绩预告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300615/AN202607151826998171.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "欣天科技(300615)"
         ],
         "importance": 1,
         "noticeType": "业绩预告"
       },
       {
-        "title": "广发证券:广发证券股份有限公司2026年面向专业投资者公开发行公司债券(第六期)在深圳证券交易所上市的公告",
-        "summary": "广发证券(000776)：广发证券:广发证券股份有限公司2026年面向专业投资者公开发行公司债券(第六期)在深圳证券交易所上市的公告",
+        "title": "002226江南化工投资者关系管理信息20260715",
+        "summary": "江南化工(002226)：002226江南化工投资者关系管理信息20260715",
         "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000776/AN202607151826993555.html",
+        "url": "https://data.eastmoney.com/notices/detail/002226/AN202607151826997572.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "江南化工(002226)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)票面利率公告",
+        "summary": "国元证券(000728)：国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)票面利率公告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000728/AN202607151826997563.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -98864,100 +98923,36 @@
           "金融"
         ],
         "tickers": [
-          "广发证券(000776)"
+          "国元证券(000728)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "鹏辉能源:2026年半年度业绩预告",
-        "summary": "鹏辉能源(300438)：鹏辉能源:2026年半年度业绩预告",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300438/AN202607151826993509.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "鹏辉能源(300438)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "中熔电气:西安中熔电气股份有限公司2026年半年度业绩预告",
-        "summary": "中熔电气(301031)：中熔电气:西安中熔电气股份有限公司2026年半年度业绩预告",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301031/AN202607151826993506.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中熔电气(301031)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "“引力一号”遥四火箭预计搭载微纳星空6颗“拼车”卫星",
-        "summary": "【“引力一号”遥四火箭预计搭载微纳星空6颗“拼车”卫星】记者获悉，预计7月22日，由海阳东方航天港总装出厂的“引力一号”遥四运载火箭，将搭乘“东方航天港”号发射船，在上海东部海域执行海上卫星发射任务。本次发射为商业“拼车”订单，主要搭载微纳星空的6颗“东坡”系列卫星，含两颗光学卫星和四颗SAR卫星。",
-        "publishedAt": "2026-07-15 18:01:43",
+        "title": "美联储主席沃什表示 宁愿看到企业进行投资 而不是回购股票",
+        "summary": "美联储主席沃什表示，宁愿看到企业进行投资，而不是回购股票。",
+        "publishedAt": "2026-07-15 22:48:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807567390.html",
+        "url": "https://finance.eastmoney.com/a/202607153807818035.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "军工"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "鹏辉能源：预计上半年净利润8亿元-8.66亿元 同比扭亏",
-        "summary": "【鹏辉能源：预计上半年净利润8亿元-8.66亿元 同比扭亏】鹏辉能源公告，预计2026年半年度归属于上市公司股东的净利润为8亿元-8.66亿元，上年同期亏损8822.67万元。报告期内，公司业绩变动的主要原因是行业向好，公司产品产销两旺，销售订单增加，营业收入增长。",
-        "publishedAt": "2026-07-15 18:00:00",
+        "title": "美联储主席沃什：短期来看 人工智能投资对就业有利",
+        "summary": "【美联储主席沃什：短期来看 人工智能投资对就业有利】美联储主席沃什称他的看法是这些通胀数据并非完美的衡量指标。沃什还表示，短期来看，他认为人工智能投资对就业有利。",
+        "publishedAt": "2026-07-15 22:28:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807566389.html",
+        "url": "https://finance.eastmoney.com/a/202607153807795362.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "劲嘉股份：预计2026年半年度净利润同比下降50.89%-67.26%",
-        "summary": "【劲嘉股份：预计2026年半年度净利润同比下降50.89%-67.26%】劲嘉股份(002191.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为4000万元-6000万元，同比下降50.89%-67.26%。业绩变动主要系联营企业利润下滑导致投资收益减少，以及精品纸包装产品收入下滑、毛利额减少所致。",
-        "publishedAt": "2026-07-15 17:47:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807562318.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "IBM推出IBM Power自主运营AI智能体",
-        "summary": "IBM推出IBMPower自主运营AI智能体。",
-        "publishedAt": "2026-07-15 18:01:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807568629.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [
           "AI算力"
         ],
@@ -98966,31 +98961,15 @@
         "noticeType": ""
       },
       {
-        "title": "贝莱德第二季度资产管理规模为15.34万亿美元",
-        "summary": "【贝莱德第二季度资产管理规模为15.34万亿美元】贝莱德（BlackRock）第二季度资产管理规模（AUM）为15.34万亿美元，预估为15.19万亿美元。",
-        "publishedAt": "2026-07-15 18:01:06",
+        "title": "Exane BNP Paribas将博通公司目标股价从640美元上调至675美元",
+        "summary": "ExaneBNPParibas将博通公司目标股价从640美元上调至675美元。",
+        "publishedAt": "2026-07-15 22:49:59",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807568768.html",
+        "url": "https://finance.eastmoney.com/a/202607153807817717.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "圣湘生物：A族链球菌核酸检测试剂盒获医疗器械注册证",
-        "summary": "【圣湘生物：A族链球菌核酸检测试剂盒获医疗器械注册证】圣湘生物(688289.SH)公告称，公司产品A族链球菌核酸检测试剂盒(荧光PCR法)近日获国家药监局颁发的《医疗器械注册证》，用于体外定性检测人咽拭子样本中的A族链球菌核酸。该产品可结合公司呼吸道感染核酸快速检测方案，实现多病原同步检测，有助于提升早期诊断效率、规范抗菌药物使用。",
-        "publishedAt": "2026-07-15 17:57:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807564464.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "医药"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -99160,15 +99139,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-15 18:10:09",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 能源、AI算力、军工。",
+        "generatedAt": "2026-07-15 22:59:51",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 金融、AI算力、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、化学制药、证券；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99199,7 +99178,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-15 18:08:55",
+        "generatedAt": "2026-07-15 22:58:00",
         "summary": "上午情绪分 50，涨停 72 家，跌停 31 家，炸板 21 家，连板 16 家，最高 4 板。",
         "sections": [
           {
@@ -99238,7 +99217,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-15 18:08:55",
+        "generatedAt": "2026-07-15 22:58:00",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
