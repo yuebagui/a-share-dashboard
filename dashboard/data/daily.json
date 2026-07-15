@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-14",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-14 22:59:48",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-14 22:59:48",
+    "lastNewsAt": "2026-07-15 11:45:56"
   },
   "indices": [
     {
@@ -84688,236 +84690,313 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-14",
-    "generatedAt": "2026-07-14 23:01:06",
+    "tradeDate": "2026-07-15",
+    "generatedAt": "2026-07-15 11:45:56",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 AI算力、金融、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、医药、金融。",
     "themes": [
+      {
+        "name": "有色稀土",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
       {
         "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "欧普康视:关于持股5%以上股东部分股份补充质押的公告",
-        "summary": "欧普康视(300595)：欧普康视:关于持股5%以上股东部分股份补充质押的公告",
-        "publishedAt": "2026-07-14",
+        "title": "ST宁科:ST宁科关于公司及子公司涉及诉讼的公告",
+        "summary": "ST宁科(600165)：ST宁科:ST宁科关于公司及子公司涉及诉讼的公告",
+        "publishedAt": "2026-07-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300595/AN202607141826958504.html",
+        "url": "https://data.eastmoney.com/notices/detail/600165/AN202607141826966681.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "欧普康视(300595)"
+          "ST宁科(600165)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "*ST亿通:关于持股5%以上股东减持计划届满、减持股份比例触及1%及5%整数倍暨简式权益变动报告书的提示性公告",
-        "summary": "*ST亿通(300211)：*ST亿通:关于持股5%以上股东减持计划届满、减持股份比例触及1%及5%整数倍暨简式权益变动报告书的提示性公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300211/AN202607141826961627.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "中证转债指数午盘跌0.18%",
+        "summary": "【中证转债指数午盘跌0.18%】7月15日，中证转债指数午盘下跌0.18%，报499.36点。其中，联瑞转债、银微转债、本川转债、斯达转债、春23转债跌幅居前，分别跌14.92%、10.80%、6.88%、6.60%、6.52%。微芯转债、水羊转债、灵康转债、皓元转债、豪26转债涨幅居前，分别涨10.05%、8.38%、6.12%、6.03%、5.02%。",
+        "publishedAt": "2026-07-15 11:33:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807240565.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "*ST亿通(300211)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "权益变动报告书"
+        "noticeType": ""
       },
       {
-        "title": "壹连科技:关于申请向不特定对象发行可转换公司债券的审核问询函回复及申请文件更新的提示性公告",
-        "summary": "壹连科技(301631)：壹连科技:关于申请向不特定对象发行可转换公司债券的审核问询函回复及申请文件更新的提示性公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301631/AN202607141826965536.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "沪指下跌0.08% 科创50下跌3.67% CRO、医药股爆发 半导体产业链走弱",
+        "summary": "【午盘播报】沪指下跌0.08%，报3963.90点；深成指下跌0.38%，报14868.23点；创业板指下跌0.36%，报3837.23点；科创50指数下跌3.67%，报1936.06点，两市半日合计成交17155亿。盘面上，CRO、医疗服务、医疗美容、重组蛋白、减肥药、创新药涨幅居前，高带宽内存、先进封装、半导体、电子化学品、存储芯片、屏下摄像表现不佳，…",
+        "publishedAt": "2026-07-15 11:30:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807237961.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "壹连科技(301631)"
+        "themes": [
+          "半导体",
+          "医药"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": ""
       },
       {
-        "title": "壹连科技:发行人及保荐机构关于审核问询函的回复",
-        "summary": "壹连科技(301631)：壹连科技:发行人及保荐机构关于审核问询函的回复",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301631/AN202607141826965534.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "新华社：韩国股市极端行情折射“情绪化”投资风险",
+        "summary": "【新华社：韩国股市极端行情折射“情绪化”投资风险】韩国综合股价指数（KOSPI）15日开盘涨幅迅速扩大至7%，因KOSPI200指数期货剧烈波动，韩国证券交易所启动“临时停牌”措施。今年以来，韩国证券交易所已36次启动“临时停牌”措施，更因KOSPI暴跌7次触发熔断机制。近期KOSPI一度进入技术性熊市，14日在前一交易日熔断后上演“深V”反转收涨的“过山…",
+        "publishedAt": "2026-07-15 11:30:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807236843.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "壹连科技(301631)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐代表人（机构）变更"
-      },
-      {
-        "title": "联创股份:关于子公司与专业机构共同投资的公告",
-        "summary": "联创股份(300343)：联创股份:关于子公司与专业机构共同投资的公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300343/AN202607141826963840.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联创股份(300343)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "五洋自控:300420五洋自控投资者关系管理信息20260714",
-        "summary": "五洋自控(300420)：五洋自控:300420五洋自控投资者关系管理信息20260714",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300420/AN202607141826963702.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "五洋自控(300420)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "宏景科技:关于与关联方共同投资设立合资公司暨关联交易的公告",
-        "summary": "宏景科技(301396)：宏景科技:关于与关联方共同投资设立合资公司暨关联交易的公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301396/AN202607141826963024.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宏景科技(301396)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "隆华科技:关于全资子公司与关联方共同投资设立合资公司暨关联交易的进展公告",
-        "summary": "隆华科技(300263)：隆华科技:关于全资子公司与关联方共同投资设立合资公司暨关联交易的进展公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300263/AN202607141826955649.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "隆华科技(300263)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "2-1重大资产重组报告书(申报稿)(TCL科技集团股份有限公司)",
-        "summary": "TCL科技(000100)：2-1重大资产重组报告书(申报稿)(TCL科技集团股份有限公司)",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000100/AN202607141826953841.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "TCL科技(000100)"
-        ],
-        "importance": 1,
-        "noticeType": "深主板并购重组报告书申报稿"
-      },
-      {
-        "title": "001201东瑞股份投资者关系管理信息20260714",
-        "summary": "东瑞股份(001201)：001201东瑞股份投资者关系管理信息20260714",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001201/AN202607141826966123.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东瑞股份(001201)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "国民技术:H股公告(正面盈利预告)",
-        "summary": "国民技术(300077)：国民技术:H股公告(正面盈利预告)",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300077/AN202607141826965633.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国民技术(300077)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "广发证券:广发证券股份有限公司2026年面向专业投资者公开发行短期公司债券(第五期)票面利率公告",
-        "summary": "广发证券(000776)：广发证券:广发证券股份有限公司2026年面向专业投资者公开发行短期公司债券(第五期)票面利率公告",
-        "publishedAt": "2026-07-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000776/AN202607141826965478.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "广发证券(000776)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": ""
       },
       {
-        "title": "2026年度总票房破190亿",
-        "summary": "【2026年度总票房破190亿】据猫眼专业版数据，截至7月14日22时，2026年年度总票房（含预售）突破190亿。《飞驰人生3》《给阿嬷的情书》《镖人：风起大漠》暂列年度票房榜前三位。",
-        "publishedAt": "2026-07-14 22:44:27",
+        "title": "国台办：福建高质量建设两岸融合发展示范区取得阶段性进展",
+        "summary": "【国台办：福建高质量建设两岸融合发展示范区取得阶段性进展】发言人朱凤莲表示，2023年9月《中共中央国务院关于支持福建探索海峡两岸融合发展新路建设两岸融合发展示范区的意见》发布，就支持福建建设两岸融合发展示范区作出了全面的部署。《意见》发布以来，中央台办、国家发展改革委牵头会同市场监管总局等中央和国家机关有关部门，扎实推动《意见》各项重点任务落实落细，支持…",
+        "publishedAt": "2026-07-15 11:17:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143806130785.html",
+        "url": "https://finance.eastmoney.com/a/202607153807220527.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "盘龙药业:002864盘龙药业投资者关系管理信息20260714",
+        "summary": "盘龙药业(002864)：盘龙药业:002864盘龙药业投资者关系管理信息20260714",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002864/AN202607151826978308.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盘龙药业(002864)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中广核技:000881中广核技投资者关系管理信息20260715",
+        "summary": "中广核技(000881)：中广核技:000881中广核技投资者关系管理信息20260715",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000881/AN202607151826976581.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中广核技(000881)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "威帝股份:哈尔滨威帝电子股份有限公司关于签署《关于促成交割先决条件之补充协议》暨重大资产重组进展的公告",
+        "summary": "威帝股份(603023)：威帝股份:哈尔滨威帝电子股份有限公司关于签署《关于促成交割先决条件之补充协议》暨重大资产重组进展的公告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603023/AN202607141826966326.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "威帝股份(603023)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
+      {
+        "title": "乐通股份:2026年半年度业绩预告",
+        "summary": "乐通股份(002319)：乐通股份:2026年半年度业绩预告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002319/AN202607141826965823.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "乐通股份(002319)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "安道麦A:2026年半年度业绩预告附件",
+        "summary": "安道麦A(000553)：安道麦A:2026年半年度业绩预告附件",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000553/AN202607141826965819.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安道麦A(000553)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "安道麦A:2026年半年度业绩预告",
+        "summary": "安道麦A(000553)：安道麦A:2026年半年度业绩预告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000553/AN202607141826965817.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安道麦A(000553)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "安道麦B:2026年半年度业绩预告附件(英文版)",
+        "summary": "安道麦A(000553)：安道麦B:2026年半年度业绩预告附件(英文版)",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000553/AN202607141826965818.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安道麦A(000553)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "安道麦B:2026年半年度业绩预告(英文版)",
+        "summary": "安道麦A(000553)：安道麦B:2026年半年度业绩预告(英文版)",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000553/AN202607141826965821.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安道麦A(000553)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "海洋王:2026年半年度业绩预告",
+        "summary": "海洋王(002724)：海洋王:2026年半年度业绩预告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002724/AN202607141826965802.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海洋王(002724)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "奥佳华:2026年半年度业绩预告",
+        "summary": "奥佳华(002614)：奥佳华:2026年半年度业绩预告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002614/AN202607141826965728.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "奥佳华(002614)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "长鑫科技:主承销商关于长鑫科技集团股份有限公司首次公开发行股票并在科创板上市参与战略配售的投资者核查的专项核查报告",
+        "summary": "长鑫科技(688825)：长鑫科技:主承销商关于长鑫科技集团股份有限公司首次公开发行股票并在科创板上市参与战略配售的投资者核查的专项核查报告",
+        "publishedAt": "2026-07-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688825/AN202607141826965686.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长鑫科技(688825)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "实验猴涨价 “猴茅”净利最高预增超13倍 股价创近4年新高",
+        "summary": "【实验猴涨价 “猴茅”净利最高预增超13倍 股价创近4年新高】7月15日，昭衍新药（603127.SH）股价涨停，截至10:54，报50.62元/股，创近4年来新高，板上封单金额最高16.39亿元，总市值为379.32亿元。昭衍新药表示，今年上半年生物资产市场价格上涨叠加自身自然生长增值，双重因素驱动其公允价值正向变动，为公司业绩作出积极贡献。上半年生物资…",
+        "publishedAt": "2026-07-15 11:22:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607153807232497.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -84927,72 +85006,14 @@
         "noticeType": ""
       },
       {
-        "title": "欧盟和英国签署协议取消直布罗陀与西班牙陆路边检",
-        "summary": "【欧盟和英国签署协议取消直布罗陀与西班牙陆路边检】欧盟和英国14日在布鲁塞尔签署关于直布罗陀未来地位的协议，取消直布罗陀与西班牙陆路边境检查。",
-        "publishedAt": "2026-07-14 22:57:40",
+        "title": "国家统计局：上半年房地产市场出现了积极变化",
+        "summary": "【国家统计局：上半年房地产市场出现了积极变化】国家统计局副局长毛盛勇7月15日在国新办新闻发布会上表示，从上半年的相关数据来看，政策成效逐步显现，房地产市场出现了积极变化。一是一线城市商品住宅销售价格环比连续4个月上涨。二是全国商品房待售面积连续4个月下降，商品房去库存持续推进。三是二手房交易已成为住宅交易的重要组成部分。四是房地产市场预期有所改善，春节后…",
+        "publishedAt": "2026-07-15 11:14:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143806139721.html",
+        "url": "https://finance.eastmoney.com/a/202607153807213419.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储主席沃什表示 劳动力市场似乎处于相当良好的平衡状态",
-        "summary": "美联储主席沃什表示，劳动力市场似乎处于相当良好的平衡状态。",
-        "publishedAt": "2026-07-14 22:50:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143806138772.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储主席沃什表示 30年期抵押贷款利率高企的部分原因是通胀",
-        "summary": "美联储主席沃什表示，30年期抵押贷款利率高企的部分原因是通胀。",
-        "publishedAt": "2026-07-14 22:46:42",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143806132774.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "7月14日全国用电负荷达15.51亿千瓦再创新高",
-        "summary": "【7月14日全国用电负荷达15.51亿千瓦再创新高】继7月10日全国用电负荷15.18亿千瓦首创新高后，7月14日全国用电负荷再创新高，达到15.51亿千瓦。国家发展改革委、国家能源局充分发挥全国统一电力市场体系作用，加强电力互济，7月10日跨省跨区跨网最大输送电力合计2.63亿千瓦，7月14日合计2.78亿千瓦，有力支撑全国用电保障。目前，全国能源电力供…",
-        "publishedAt": "2026-07-14 22:44:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143806132114.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "ST宁科：公司及子公司涉技术秘密侵权诉讼 涉案金额约9.66亿元",
-        "summary": "【ST宁科：公司及子公司涉技术秘密侵权诉讼 涉案金额约9.66亿元】ST宁科(600165.SH)公告称，公司及子公司中科新材因侵害技术秘密纠纷被上海凯赛生物技术股份有限公司起诉，涉案金额合计约9.66亿元。目前案件已由北京高院立案受理，尚未开庭审理。公司一贯尊重知识产权，迄今为止，公司规模化生产月桂二酸的菌株、菌株的制备方法、发酵、提取和精制等涉及的相关…",
-        "publishedAt": "2026-07-14 22:43:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607143806131426.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
@@ -85150,7 +85171,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "修复",
     "positionRule": {
@@ -85163,15 +85184,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-14 23:01:06",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 AI算力、金融、能源。",
+        "generatedAt": "2026-07-15 11:45:56",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、医药、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：共封装光学(CPO)、元件、2026中报预增；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -85267,7 +85288,7 @@
               "今日炸板 21 只，追高前先看前排封单和回封质量。",
               "今日跌停 22 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 共封装光学(CPO)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：欧普康视:关于持股5%以上股东部分股份补充质押的公告；*ST亿通:关于持股5%以上股东减持计划届满、减持股份比例触及1%及5%整数倍暨简式权益变动报告书的提示性公告。",
+              "新闻/公告风险：ST宁科:ST宁科关于公司及子公司涉及诉讼的公告；中证转债指数午盘跌0.18%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
