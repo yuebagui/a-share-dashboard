@@ -2,58 +2,58 @@
   "meta": {
     "tradeDate": "2026-07-16",
     "phase": "盘中快照",
-    "generatedAt": "2026-07-16 13:59:27",
+    "generatedAt": "2026-07-16 14:04:14",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
   "indices": [
     {
       "name": "上证指数",
-      "price": "3,897.72",
-      "changePct": -1.46,
-      "turnover": "8793亿",
-      "turnoverValue": 879307352306.0,
-      "quoteTime": "2026-07-16 13:59:15",
+      "price": "3,891.77",
+      "changePct": -1.61,
+      "turnover": "8939亿",
+      "turnoverValue": 893882884250.0,
+      "quoteTime": "2026-07-16 14:04:00",
       "source": "腾讯直连"
     },
     {
       "name": "深证成指",
-      "price": "14,540.35",
-      "changePct": -1.62,
-      "turnover": "1.01万亿",
-      "turnoverValue": 1007366520367.0,
-      "quoteTime": "2026-07-16 13:59:12",
+      "price": "14,514.69",
+      "changePct": -1.79,
+      "turnover": "1.02万亿",
+      "turnoverValue": 1023017850572.0,
+      "quoteTime": "2026-07-16 14:04:00",
       "source": "腾讯直连"
     },
     {
       "name": "创业板指",
-      "price": "3,707.58",
-      "changePct": -2.55,
-      "turnover": "4490亿",
-      "turnoverValue": 449027659870.0,
-      "quoteTime": "2026-07-16 13:59:12",
+      "price": "3,701.80",
+      "changePct": -2.7,
+      "turnover": "4561亿",
+      "turnoverValue": 456144050876.0,
+      "quoteTime": "2026-07-16 14:04:00",
       "source": "腾讯直连"
     },
     {
       "name": "科创50",
-      "price": "1,859.92",
-      "changePct": -3.34,
-      "turnover": "1363亿",
-      "turnoverValue": 136310667610.0,
-      "quoteTime": "2026-07-16 13:59:15",
+      "price": "1,855.72",
+      "changePct": -3.56,
+      "turnover": "1387亿",
+      "turnoverValue": 138697439737.0,
+      "quoteTime": "2026-07-16 14:04:00",
       "source": "腾讯直连"
     }
   ],
   "marketTurnover": {
     "label": "两市成交额",
-    "amount": "1.89万亿",
-    "amountValue": 1886673872673.0,
-    "shanghai": "8793亿",
-    "shenzhen": "1.01万亿",
+    "amount": "1.92万亿",
+    "amountValue": 1916900734822.0,
+    "shanghai": "8939亿",
+    "shenzhen": "1.02万亿",
     "note": "沪市+深市；创业板、科创板已包含在对应市场，不重复累计。"
   },
   "emotion": {
-    "score": 59,
+    "score": 58,
     "tag": "弱修复",
     "title": "修复力度一般，仓位不宜激进",
     "brief": "涨停 47 家，跌停 18 家，炸板 20 家，连板 13 家，最高 5 板。",
@@ -118,12 +118,12 @@
         "4连板",
         "涨停统计 4/4"
       ],
-      "sealAmount": "7.4万",
-      "turnover": "成交 2708.6万",
-      "reason": "IT服务Ⅱ方向涨停，涨停统计 4/4，首次封板 09:32:39，炸板 10 次。",
+      "sealAmount": "38.9万",
+      "turnover": "成交 2730.5万",
+      "reason": "IT服务Ⅱ方向涨停，涨停统计 4/4，首次封板 09:32:39，炸板 11 次。",
       "firstSeal": "09:32:39",
-      "lastSeal": "13:54:03",
-      "failCount": 10
+      "lastSeal": "14:01:09",
+      "failCount": 11
     },
     {
       "code": "603580",
@@ -150,7 +150,7 @@
         "3连板",
         "涨停统计 22/11"
       ],
-      "sealAmount": "8771.1万",
+      "sealAmount": "8742.0万",
       "turnover": "成交 9.1亿",
       "reason": "元件方向涨停，涨停统计 22/11，首次封板 09:37:03，炸板 2 次。",
       "firstSeal": "09:37:03",
@@ -166,8 +166,8 @@
         "3连板",
         "涨停统计 3/3"
       ],
-      "sealAmount": "2.7亿",
-      "turnover": "成交 37.0亿",
+      "sealAmount": "1.4亿",
+      "turnover": "成交 37.8亿",
       "reason": "医疗器械方向涨停，涨停统计 3/3，首次封板 10:53:00，炸板 1 次。",
       "firstSeal": "10:53:00",
       "lastSeal": "13:57:54",
@@ -214,7 +214,7 @@
         "2连板",
         "涨停统计 2/2"
       ],
-      "sealAmount": "7471.1万",
+      "sealAmount": "7360.2万",
       "turnover": "成交 3.4亿",
       "reason": "家居用品方向涨停，涨停统计 2/2，首次封板 09:36:35，炸板 2 次。",
       "firstSeal": "09:36:35",
@@ -230,7 +230,7 @@
         "2连板",
         "涨停统计 2/2"
       ],
-      "sealAmount": "4008.0万",
+      "sealAmount": "4018.6万",
       "turnover": "成交 2.6亿",
       "reason": "医疗服务方向涨停，涨停统计 2/2，首次封板 09:39:18，炸板 1 次。",
       "firstSeal": "09:39:18",
@@ -262,8 +262,8 @@
         "2连板",
         "涨停统计 2/2"
       ],
-      "sealAmount": "2.0亿",
-      "turnover": "成交 12.9亿",
+      "sealAmount": "1.8亿",
+      "turnover": "成交 13.2亿",
       "reason": "电网设备方向涨停，涨停统计 2/2，首次封板 09:59:18，炸板 0 次。",
       "firstSeal": "09:59:18",
       "lastSeal": "09:59:18",
@@ -278,7 +278,7 @@
         "2连板",
         "涨停统计 2/2"
       ],
-      "sealAmount": "5339.8万",
+      "sealAmount": "5339.6万",
       "turnover": "成交 2.6亿",
       "reason": "一般零售方向涨停，涨停统计 2/2，首次封板 10:32:34，炸板 0 次。",
       "firstSeal": "10:32:34",
@@ -342,7 +342,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "5444.9万",
+      "sealAmount": "5446.5万",
       "turnover": "成交 1.1亿",
       "reason": "通用设备方向涨停，涨停统计 1/1，首次封板 09:34:39，炸板 1 次。",
       "firstSeal": "09:34:39",
@@ -358,7 +358,7 @@
         "首板",
         "涨停统计 6/3"
       ],
-      "sealAmount": "1.1亿",
+      "sealAmount": "1.0亿",
       "turnover": "成交 2.8亿",
       "reason": "影视院线方向涨停，涨停统计 6/3，首次封板 09:34:57，炸板 0 次。",
       "firstSeal": "09:34:57",
@@ -374,7 +374,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "9535.8万",
+      "sealAmount": "9482.3万",
       "turnover": "成交 1.6亿",
       "reason": "消费电子方向涨停，涨停统计 1/1，首次封板 09:36:33，炸板 0 次。",
       "firstSeal": "09:36:33",
@@ -406,7 +406,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "1.2亿",
+      "sealAmount": "1.1亿",
       "turnover": "成交 2.4亿",
       "reason": "消费电子方向涨停，涨停统计 1/1，首次封板 09:37:45，炸板 0 次。",
       "firstSeal": "09:37:45",
@@ -422,8 +422,8 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "3.1亿",
-      "turnover": "成交 5.4亿",
+      "sealAmount": "2.8亿",
+      "turnover": "成交 5.5亿",
       "reason": "软件开发方向涨停，涨停统计 1/1，首次封板 09:38:59，炸板 0 次。",
       "firstSeal": "09:38:59",
       "lastSeal": "09:38:59",
@@ -438,7 +438,7 @@
         "首板",
         "涨停统计 6/3"
       ],
-      "sealAmount": "8584.4万",
+      "sealAmount": "8555.7万",
       "turnover": "成交 2.1亿",
       "reason": "航天装备方向涨停，涨停统计 6/3，首次封板 09:41:36，炸板 0 次。",
       "firstSeal": "09:41:36",
@@ -454,7 +454,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "1674.6万",
+      "sealAmount": "1670.7万",
       "turnover": "成交 1.1亿",
       "reason": "消费电子方向涨停，涨停统计 1/1，首次封板 09:42:30，炸板 1 次。",
       "firstSeal": "09:42:30",
@@ -470,8 +470,8 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "4.4亿",
-      "turnover": "成交 27.1亿",
+      "sealAmount": "4.0亿",
+      "turnover": "成交 27.3亿",
       "reason": "元件方向涨停，涨停统计 1/1，首次封板 09:44:19，炸板 1 次。",
       "firstSeal": "09:44:19",
       "lastSeal": "10:42:59",
@@ -486,8 +486,8 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "1.3亿",
-      "turnover": "成交 5.1亿",
+      "sealAmount": "1.2亿",
+      "turnover": "成交 5.2亿",
       "reason": "元件方向涨停，涨停统计 1/1，首次封板 09:44:45，炸板 0 次。",
       "firstSeal": "09:44:45",
       "lastSeal": "09:44:45",
@@ -518,7 +518,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "3592.5万",
+      "sealAmount": "3574.0万",
       "turnover": "成交 1.8亿",
       "reason": "环境治理方向涨停，涨停统计 1/1，首次封板 09:45:00，炸板 2 次。",
       "firstSeal": "09:45:00",
@@ -550,8 +550,8 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "4696.9万",
-      "turnover": "成交 3.5亿",
+      "sealAmount": "4647.0万",
+      "turnover": "成交 3.6亿",
       "reason": "广告营销方向涨停，涨停统计 1/1，首次封板 09:46:21，炸板 2 次。",
       "firstSeal": "09:46:21",
       "lastSeal": "13:06:54",
@@ -598,7 +598,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "3745.5万",
+      "sealAmount": "3628.5万",
       "turnover": "成交 2.0亿",
       "reason": "汽车零部方向涨停，涨停统计 1/1，首次封板 09:53:18，炸板 2 次。",
       "firstSeal": "09:53:18",
@@ -614,7 +614,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "9595.2万",
+      "sealAmount": "9652.9万",
       "turnover": "成交 5.7亿",
       "reason": "汽车零部方向涨停，涨停统计 1/1，首次封板 09:56:49，炸板 1 次。",
       "firstSeal": "09:56:49",
@@ -646,7 +646,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "1.2亿",
+      "sealAmount": "1.1亿",
       "turnover": "成交 4.4亿",
       "reason": "通信设备方向涨停，涨停统计 1/1，首次封板 10:07:42，炸板 0 次。",
       "firstSeal": "10:07:42",
@@ -694,7 +694,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "8188.2万",
+      "sealAmount": "7962.1万",
       "turnover": "成交 3.8亿",
       "reason": "互联网电方向涨停，涨停统计 1/1，首次封板 10:22:21，炸板 1 次。",
       "firstSeal": "10:22:21",
@@ -710,7 +710,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "1.3亿",
+      "sealAmount": "1.6亿",
       "turnover": "成交 8.0亿",
       "reason": "医疗服务方向涨停，涨停统计 1/1，首次封板 10:25:27，炸板 3 次。",
       "firstSeal": "10:25:27",
@@ -742,7 +742,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "3714.3万",
+      "sealAmount": "2887.1万",
       "turnover": "成交 1.3亿",
       "reason": "房地产开方向涨停，涨停统计 1/1，首次封板 10:58:33，炸板 0 次。",
       "firstSeal": "10:58:33",
@@ -774,7 +774,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "2.4亿",
+      "sealAmount": "2.2亿",
       "turnover": "成交 4.2亿",
       "reason": "医疗服务方向涨停，涨停统计 1/1，首次封板 11:25:44，炸板 1 次。",
       "firstSeal": "11:25:44",
@@ -790,7 +790,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "4202.5万",
+      "sealAmount": "4140.7万",
       "turnover": "成交 2.6亿",
       "reason": "电力方向涨停，涨停统计 1/1，首次封板 13:00:00，炸板 1 次。",
       "firstSeal": "13:00:00",
@@ -806,8 +806,8 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "1179.4万",
-      "turnover": "成交 6365.8万",
+      "sealAmount": "1069.6万",
+      "turnover": "成交 6372.6万",
       "reason": "基础建设方向涨停，涨停统计 1/1，首次封板 13:04:03，炸板 1 次。",
       "firstSeal": "13:04:03",
       "lastSeal": "13:28:51",
@@ -822,7 +822,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "4.4亿",
+      "sealAmount": "4.3亿",
       "turnover": "成交 18.8亿",
       "reason": "中药Ⅱ方向涨停，涨停统计 1/1，首次封板 13:12:57，炸板 1 次。",
       "firstSeal": "13:12:57",
@@ -838,7 +838,7 @@
         "首板",
         "涨停统计 1/1"
       ],
-      "sealAmount": "1.2亿",
+      "sealAmount": "9040.7万",
       "turnover": "成交 2.3亿",
       "reason": "中药Ⅱ方向涨停，涨停统计 1/1，首次封板 13:32:19，炸板 0 次。",
       "firstSeal": "13:32:19",
@@ -885,295 +885,311 @@
     "industries": [
       {
         "name": "通信设备",
-        "netInflow": -561900.0,
-        "changePct": -1.53,
+        "netInflow": -557500.0,
+        "changePct": -1.52,
         "type": "行业",
-        "note": "涨跌幅 -1.53%，领涨 广和通 +14.36%"
-      },
-      {
-        "name": "证券",
-        "netInflow": -264200.0,
-        "changePct": -1.0,
-        "type": "行业",
-        "note": "涨跌幅 -1.00%，领涨 湘财股份 +2.05%"
+        "note": "涨跌幅 -1.52%，领涨 广和通 +13.59%"
       },
       {
         "name": "光学光电子",
-        "netInflow": -263400.0,
-        "changePct": -1.59,
+        "netInflow": -265600.0,
+        "changePct": -1.62,
         "type": "行业",
-        "note": "涨跌幅 -1.59%，领涨 ST合力泰 +5.52%"
+        "note": "涨跌幅 -1.62%，领涨 ST合力泰 +5.52%"
+      },
+      {
+        "name": "证券",
+        "netInflow": -263600.0,
+        "changePct": -1.02,
+        "type": "行业",
+        "note": "涨跌幅 -1.02%，领涨 湘财股份 +2.05%"
       },
       {
         "name": "元件",
-        "netInflow": -246900.0,
-        "changePct": -0.87,
+        "netInflow": -247300.0,
+        "changePct": -0.88,
         "type": "行业",
-        "note": "涨跌幅 -0.87%，领涨 逸豪新材 +20.00%"
+        "note": "涨跌幅 -0.88%，领涨 逸豪新材 +20.00%"
       },
       {
         "name": "消费电子",
-        "netInflow": 214100.0,
-        "changePct": 0.59,
+        "netInflow": 206600.0,
+        "changePct": 0.58,
         "type": "行业",
-        "note": "涨跌幅 +0.59%，领涨 豪声电子 +30.00%"
+        "note": "涨跌幅 +0.58%，领涨 豪声电子 +30.00%"
       },
       {
         "name": "电力",
-        "netInflow": -198600.0,
-        "changePct": -0.74,
+        "netInflow": -204900.0,
+        "changePct": -0.76,
         "type": "行业",
-        "note": "涨跌幅 -0.74%，领涨 立新能源 +9.94%"
+        "note": "涨跌幅 -0.76%，领涨 立新能源 +9.94%"
       },
       {
         "name": "军工装备",
-        "netInflow": -155000.0,
-        "changePct": -0.9,
+        "netInflow": -159400.0,
+        "changePct": -0.82,
         "type": "行业",
-        "note": "涨跌幅 -0.90%，领涨 星网宇达 +9.98%"
+        "note": "涨跌幅 -0.82%，领涨 星网宇达 +9.98%"
       },
       {
         "name": "文化传媒",
-        "netInflow": 148500.0,
-        "changePct": 2.29,
+        "netInflow": 153800.0,
+        "changePct": 2.35,
         "type": "行业",
-        "note": "涨跌幅 +2.29%，领涨 电声股份 +19.97%"
-      },
-      {
-        "name": "建筑材料",
-        "netInflow": -141800.0,
-        "changePct": -0.6,
-        "type": "行业",
-        "note": "涨跌幅 -0.60%，领涨 兔宝宝 +5.44%"
+        "note": "涨跌幅 +2.35%，领涨 电声股份 +19.97%"
       },
       {
         "name": "半导体",
-        "netInflow": -132700.0,
-        "changePct": -4.44,
+        "netInflow": -147300.0,
+        "changePct": -4.39,
         "type": "行业",
-        "note": "涨跌幅 -4.44%，领涨 瑞芯微 +6.81%"
+        "note": "涨跌幅 -4.39%，领涨 瑞芯微 +6.41%"
+      },
+      {
+        "name": "建筑材料",
+        "netInflow": -142500.0,
+        "changePct": -0.63,
+        "type": "行业",
+        "note": "涨跌幅 -0.63%，领涨 兔宝宝 +5.44%"
       },
       {
         "name": "电子化学品",
-        "netInflow": -129200.0,
-        "changePct": -5.02,
+        "netInflow": -132400.0,
+        "changePct": -5.12,
         "type": "行业",
-        "note": "涨跌幅 -5.02%，领涨 中船特气 +3.29%"
+        "note": "涨跌幅 -5.12%，领涨 中船特气 +2.36%"
       },
       {
-        "name": "电池",
-        "netInflow": -119800.0,
-        "changePct": -1.51,
+        "name": "医疗服务",
+        "netInflow": -123600.0,
+        "changePct": 2.62,
         "type": "行业",
-        "note": "涨跌幅 -1.51%，领涨 龙鑫智能 +100.50%"
+        "note": "涨跌幅 +2.62%，领涨 万邦医药 +15.63%"
       }
     ],
     "concepts": [
       {
-        "name": "2026中报预增",
-        "netInflow": -1299700.0,
-        "changePct": -1.48,
+        "name": "芯片概念",
+        "netInflow": -1325000.0,
+        "changePct": -2.46,
         "type": "概念",
-        "note": "涨跌幅 -1.48%，领涨 凯尔达 +12.40%"
+        "note": "涨跌幅 -2.46%，领涨 影石创新 +13.51%"
       },
       {
-        "name": "国企改革",
-        "netInflow": -1037000.0,
-        "changePct": -0.02,
+        "name": "5G",
+        "netInflow": -873200.0,
+        "changePct": -0.89,
         "type": "概念",
-        "note": "涨跌幅 -0.02%，领涨 华智数媒 +10.17%"
+        "note": "涨跌幅 -0.89%，领涨 广和通 +13.70%"
       },
       {
-        "name": "光伏概念",
-        "netInflow": -899400.0,
-        "changePct": -1.31,
+        "name": "共封装光学(CPO)",
+        "netInflow": -803200.0,
+        "changePct": -2.43,
         "type": "概念",
-        "note": "涨跌幅 -1.31%，领涨 *ST元道 +13.82%"
+        "note": "涨跌幅 -2.43%，领涨 景旺电子 +10.00%"
       },
       {
-        "name": "风电",
-        "netInflow": -746000.0,
-        "changePct": -0.99,
+        "name": "PCB概念",
+        "netInflow": -714100.0,
+        "changePct": -2.32,
         "type": "概念",
-        "note": "涨跌幅 -0.99%，领涨 北京科锐 +10.00%"
+        "note": "涨跌幅 -2.32%，领涨 逸豪新材 +20.00%"
       },
       {
         "name": "央企国企改革",
-        "netInflow": -689900.0,
+        "netInflow": -711300.0,
         "changePct": -0.58,
         "type": "概念",
         "note": "涨跌幅 -0.58%，领涨 海南海药 +10.10%"
       },
       {
         "name": "储能",
-        "netInflow": -675600.0,
-        "changePct": -0.81,
+        "netInflow": -683200.0,
+        "changePct": -0.75,
         "type": "概念",
-        "note": "涨跌幅 -0.81%，领涨 *ST元道 +13.46%"
+        "note": "涨跌幅 -0.75%，领涨 *ST元道 +12.36%"
       },
       {
         "name": "新能源汽车",
-        "netInflow": -637800.0,
-        "changePct": -0.84,
+        "netInflow": -633200.0,
+        "changePct": -0.77,
         "type": "概念",
-        "note": "涨跌幅 -0.84%，领涨 电声股份 +19.97%"
+        "note": "涨跌幅 -0.77%，领涨 电声股份 +19.97%"
+      },
+      {
+        "name": "一带一路",
+        "netInflow": -602800.0,
+        "changePct": -0.39,
+        "type": "概念",
+        "note": "涨跌幅 -0.39%，领涨 格林精密 +20.05%"
       },
       {
         "name": "数据中心(AIDC)",
-        "netInflow": -605100.0,
-        "changePct": -0.84,
+        "netInflow": -600200.0,
+        "changePct": -0.75,
         "type": "概念",
-        "note": "涨跌幅 -0.84%，领涨 银信科技 +10.79%"
+        "note": "涨跌幅 -0.75%，领涨 银信科技 +10.24%"
       },
       {
-        "name": "商业航天",
-        "netInflow": -527000.0,
-        "changePct": -1.18,
+        "name": "F5G概念",
+        "netInflow": -573500.0,
+        "changePct": -2.02,
         "type": "概念",
-        "note": "涨跌幅 -1.18%，领涨 格林精密 +20.05%"
+        "note": "涨跌幅 -2.02%，领涨 共进股份 +7.23%"
       },
       {
-        "name": "AI智能体",
-        "netInflow": 516600.0,
-        "changePct": 1.05,
+        "name": "OLED",
+        "netInflow": -572700.0,
+        "changePct": -3.23,
         "type": "概念",
-        "note": "涨跌幅 +1.05%，领涨 电声股份 +19.97%"
+        "note": "涨跌幅 -3.23%，领涨 景旺电子 +10.00%"
       },
       {
-        "name": "中字头股票",
-        "netInflow": -510300.0,
-        "changePct": -0.77,
+        "name": "绿色电力",
+        "netInflow": -550300.0,
+        "changePct": -0.47,
         "type": "概念",
-        "note": "涨跌幅 -0.77%，领涨 中信出版 +4.43%"
-      },
-      {
-        "name": "锂电池概念",
-        "netInflow": -509500.0,
-        "changePct": -1.08,
-        "type": "概念",
-        "note": "涨跌幅 -1.08%，领涨 逸豪新材 +20.00%"
+        "note": "涨跌幅 -0.47%，领涨 文科股份 +10.06%"
       }
     ]
   },
   "againstMarket": {
     "benchmark": {
       "name": "上证指数",
-      "changePct": -1.46
+      "changePct": -1.61
     },
     "up": [
       {
-        "name": "文化传媒",
+        "name": "医疗服务",
         "type": "行业",
-        "changePct": 2.29,
-        "excessPct": 3.75,
-        "netInflow": 148500.0,
-        "note": "涨跌幅 +2.29%，领涨 电声股份 +19.97%"
+        "changePct": 2.62,
+        "excessPct": 4.23,
+        "netInflow": -123600.0,
+        "note": "涨跌幅 +2.62%，领涨 万邦医药 +15.63%"
       },
       {
-        "name": "AI智能体",
-        "type": "概念",
-        "changePct": 1.05,
-        "excessPct": 2.51,
-        "netInflow": 516600.0,
-        "note": "涨跌幅 +1.05%，领涨 电声股份 +19.97%"
+        "name": "文化传媒",
+        "type": "行业",
+        "changePct": 2.35,
+        "excessPct": 3.96,
+        "netInflow": 153800.0,
+        "note": "涨跌幅 +2.35%，领涨 电声股份 +19.97%"
       },
       {
         "name": "消费电子",
         "type": "行业",
-        "changePct": 0.59,
-        "excessPct": 2.05,
-        "netInflow": 214100.0,
-        "note": "涨跌幅 +0.59%，领涨 豪声电子 +30.00%"
+        "changePct": 0.58,
+        "excessPct": 2.19,
+        "netInflow": 206600.0,
+        "note": "涨跌幅 +0.58%，领涨 豪声电子 +30.00%"
       },
       {
-        "name": "国企改革",
+        "name": "一带一路",
         "type": "概念",
-        "changePct": -0.02,
-        "excessPct": 1.44,
-        "netInflow": -1037000.0,
-        "note": "涨跌幅 -0.02%，领涨 华智数媒 +10.17%"
+        "changePct": -0.39,
+        "excessPct": 1.22,
+        "netInflow": -602800.0,
+        "note": "涨跌幅 -0.39%，领涨 格林精密 +20.05%"
+      },
+      {
+        "name": "绿色电力",
+        "type": "概念",
+        "changePct": -0.47,
+        "excessPct": 1.14,
+        "netInflow": -550300.0,
+        "note": "涨跌幅 -0.47%，领涨 文科股份 +10.06%"
       },
       {
         "name": "央企国企改革",
         "type": "概念",
         "changePct": -0.58,
-        "excessPct": 0.88,
-        "netInflow": -689900.0,
+        "excessPct": 1.03,
+        "netInflow": -711300.0,
         "note": "涨跌幅 -0.58%，领涨 海南海药 +10.10%"
       },
       {
         "name": "建筑材料",
         "type": "行业",
-        "changePct": -0.6,
-        "excessPct": 0.86,
-        "netInflow": -141800.0,
-        "note": "涨跌幅 -0.60%，领涨 兔宝宝 +5.44%"
+        "changePct": -0.63,
+        "excessPct": 0.98,
+        "netInflow": -142500.0,
+        "note": "涨跌幅 -0.63%，领涨 兔宝宝 +5.44%"
       },
       {
-        "name": "电力",
-        "type": "行业",
-        "changePct": -0.74,
-        "excessPct": 0.72,
-        "netInflow": -198600.0,
-        "note": "涨跌幅 -0.74%，领涨 立新能源 +9.94%"
-      },
-      {
-        "name": "中字头股票",
+        "name": "数据中心(AIDC)",
         "type": "概念",
-        "changePct": -0.77,
-        "excessPct": 0.69,
-        "netInflow": -510300.0,
-        "note": "涨跌幅 -0.77%，领涨 中信出版 +4.43%"
+        "changePct": -0.75,
+        "excessPct": 0.86,
+        "netInflow": -600200.0,
+        "note": "涨跌幅 -0.75%，领涨 银信科技 +10.24%"
       }
     ],
     "down": [
       {
         "name": "电子化学品",
         "type": "行业",
-        "changePct": -5.02,
-        "excessPct": -3.56,
-        "netInflow": -129200.0,
-        "note": "涨跌幅 -5.02%，领涨 中船特气 +3.29%"
+        "changePct": -5.12,
+        "excessPct": -3.51,
+        "netInflow": -132400.0,
+        "note": "涨跌幅 -5.12%，领涨 中船特气 +2.36%"
       },
       {
         "name": "半导体",
         "type": "行业",
-        "changePct": -4.44,
-        "excessPct": -2.98,
-        "netInflow": -132700.0,
-        "note": "涨跌幅 -4.44%，领涨 瑞芯微 +6.81%"
+        "changePct": -4.39,
+        "excessPct": -2.78,
+        "netInflow": -147300.0,
+        "note": "涨跌幅 -4.39%，领涨 瑞芯微 +6.41%"
+      },
+      {
+        "name": "OLED",
+        "type": "概念",
+        "changePct": -3.23,
+        "excessPct": -1.62,
+        "netInflow": -572700.0,
+        "note": "涨跌幅 -3.23%，领涨 景旺电子 +10.00%"
+      },
+      {
+        "name": "芯片概念",
+        "type": "概念",
+        "changePct": -2.46,
+        "excessPct": -0.85,
+        "netInflow": -1325000.0,
+        "note": "涨跌幅 -2.46%，领涨 影石创新 +13.51%"
+      },
+      {
+        "name": "共封装光学(CPO)",
+        "type": "概念",
+        "changePct": -2.43,
+        "excessPct": -0.82,
+        "netInflow": -803200.0,
+        "note": "涨跌幅 -2.43%，领涨 景旺电子 +10.00%"
+      },
+      {
+        "name": "PCB概念",
+        "type": "概念",
+        "changePct": -2.32,
+        "excessPct": -0.71,
+        "netInflow": -714100.0,
+        "note": "涨跌幅 -2.32%，领涨 逸豪新材 +20.00%"
+      },
+      {
+        "name": "F5G概念",
+        "type": "概念",
+        "changePct": -2.02,
+        "excessPct": -0.41,
+        "netInflow": -573500.0,
+        "note": "涨跌幅 -2.02%，领涨 共进股份 +7.23%"
       },
       {
         "name": "光学光电子",
         "type": "行业",
-        "changePct": -1.59,
-        "excessPct": -0.13,
-        "netInflow": -263400.0,
-        "note": "涨跌幅 -1.59%，领涨 ST合力泰 +5.52%"
-      },
-      {
-        "name": "通信设备",
-        "type": "行业",
-        "changePct": -1.53,
-        "excessPct": -0.07,
-        "netInflow": -561900.0,
-        "note": "涨跌幅 -1.53%，领涨 广和通 +14.36%"
-      },
-      {
-        "name": "电池",
-        "type": "行业",
-        "changePct": -1.51,
-        "excessPct": -0.05,
-        "netInflow": -119800.0,
-        "note": "涨跌幅 -1.51%，领涨 龙鑫智能 +100.50%"
-      },
-      {
-        "name": "2026中报预增",
-        "type": "概念",
-        "changePct": -1.48,
-        "excessPct": -0.02,
-        "netInflow": -1299700.0,
-        "note": "涨跌幅 -1.48%，领涨 凯尔达 +12.40%"
+        "changePct": -1.62,
+        "excessPct": -0.01,
+        "netInflow": -265600.0,
+        "note": "涨跌幅 -1.62%，领涨 ST合力泰 +5.52%"
       }
     ]
   },
@@ -1188,53 +1204,78 @@
           "资金流入",
           "超额强势"
         ],
-        "changePct": 2.29,
-        "excessPct": 3.75,
-        "netInflow": 148500.0,
-        "reason": "大盘基准 -1.46%，该板块仍上涨 +2.29%；主力净流入 14.8亿",
-        "note": "涨跌幅 +2.29%，领涨 电声股份 +19.97%"
+        "changePct": 2.35,
+        "excessPct": 3.96,
+        "netInflow": 153800.0,
+        "reason": "大盘基准 -1.61%，该板块仍上涨 +2.35%；主力净流入 15.4亿",
+        "note": "涨跌幅 +2.35%，领涨 电声股份 +19.97%"
       },
       {
-        "name": "AI智能体",
-        "type": "概念",
-        "score": 52,
+        "name": "医疗服务",
+        "type": "行业",
+        "score": 51,
         "labels": [
           "抗跌走强",
-          "资金流入",
           "超额强势"
         ],
-        "changePct": 1.05,
-        "excessPct": 2.51,
-        "netInflow": 516600.0,
-        "reason": "大盘基准 -1.46%，该板块仍上涨 +1.05%；主力净流入 51.7亿",
-        "note": "涨跌幅 +1.05%，领涨 电声股份 +19.97%"
+        "changePct": 2.62,
+        "excessPct": 4.23,
+        "netInflow": -123600.0,
+        "reason": "大盘基准 -1.61%，该板块仍上涨 +2.62%",
+        "note": "涨跌幅 +2.62%，领涨 万邦医药 +15.63%"
       },
       {
         "name": "消费电子",
         "type": "行业",
-        "score": 15,
+        "score": 16,
         "labels": [
           "资金流入",
           "超额强势"
         ],
-        "changePct": 0.59,
-        "excessPct": 2.05,
-        "netInflow": 214100.0,
-        "reason": "主力净流入 21.4亿",
-        "note": "涨跌幅 +0.59%，领涨 豪声电子 +30.00%"
+        "changePct": 0.58,
+        "excessPct": 2.19,
+        "netInflow": 206600.0,
+        "reason": "主力净流入 20.7亿",
+        "note": "涨跌幅 +0.58%，领涨 豪声电子 +30.00%"
       },
       {
-        "name": "国企改革",
+        "name": "一带一路",
         "type": "概念",
-        "score": 7,
+        "score": 6,
         "labels": [
           "超额强势"
         ],
-        "changePct": -0.02,
-        "excessPct": 1.44,
-        "netInflow": -1037000.0,
-        "reason": "涨跌幅 -0.02%，领涨 华智数媒 +10.17%",
-        "note": "涨跌幅 -0.02%，领涨 华智数媒 +10.17%"
+        "changePct": -0.39,
+        "excessPct": 1.22,
+        "netInflow": -602800.0,
+        "reason": "涨跌幅 -0.39%，领涨 格林精密 +20.05%",
+        "note": "涨跌幅 -0.39%，领涨 格林精密 +20.05%"
+      },
+      {
+        "name": "绿色电力",
+        "type": "概念",
+        "score": 6,
+        "labels": [
+          "超额强势"
+        ],
+        "changePct": -0.47,
+        "excessPct": 1.14,
+        "netInflow": -550300.0,
+        "reason": "涨跌幅 -0.47%，领涨 文科股份 +10.06%",
+        "note": "涨跌幅 -0.47%，领涨 文科股份 +10.06%"
+      },
+      {
+        "name": "央企国企改革",
+        "type": "概念",
+        "score": 5,
+        "labels": [
+          "超额强势"
+        ],
+        "changePct": -0.58,
+        "excessPct": 1.03,
+        "netInflow": -711300.0,
+        "reason": "涨跌幅 -0.58%，领涨 海南海药 +10.10%",
+        "note": "涨跌幅 -0.58%，领涨 海南海药 +10.10%"
       }
     ],
     "summary": [
@@ -1244,7 +1285,7 @@
       },
       {
         "title": "抗跌线索",
-        "rule": "大盘基准 -1.46%，文化传媒仍明显走强，若指数回落可观察资金是否继续抱团。"
+        "rule": "大盘基准 -1.61%，文化传媒仍明显走强，若指数回落可观察资金是否继续抱团。"
       }
     ]
   },
@@ -1257,8 +1298,8 @@
         "资金流入",
         "超额强势"
       ],
-      "ret5": 2.29,
-      "ret20": 3.75,
+      "ret5": 2.35,
+      "ret20": 3.96,
       "drawdown": 0,
       "position": 53,
       "trend": "强势结构",
@@ -1266,17 +1307,17 @@
       "bars": [
         {
           "label": "涨幅",
-          "value": 2.29,
+          "value": 2.35,
           "max": 6
         },
         {
           "label": "超额",
-          "value": 3.75,
+          "value": 3.96,
           "max": 6
         },
         {
           "label": "资金",
-          "value": 0.3,
+          "value": 0.31,
           "max": 6
         },
         {
@@ -1288,38 +1329,37 @@
       "points": []
     },
     {
-      "name": "AI智能体",
-      "type": "概念",
+      "name": "医疗服务",
+      "type": "行业",
       "labels": [
         "抗跌走强",
-        "资金流入",
         "超额强势"
       ],
-      "ret5": 1.05,
-      "ret20": 2.51,
+      "ret5": 2.62,
+      "ret20": 4.23,
       "drawdown": 0,
-      "position": 52,
-      "trend": "强势结构",
+      "position": 51,
+      "trend": "观察结构",
       "chartType": "snapshot",
       "bars": [
         {
           "label": "涨幅",
-          "value": 1.05,
+          "value": 2.62,
           "max": 6
         },
         {
           "label": "超额",
-          "value": 2.51,
+          "value": 4.23,
           "max": 6
         },
         {
           "label": "资金",
-          "value": 1.03,
+          "value": -0.25,
           "max": 6
         },
         {
           "label": "评分",
-          "value": 4.33,
+          "value": 4.25,
           "max": 8
         }
       ],
@@ -1332,67 +1372,67 @@
         "资金流入",
         "超额强势"
       ],
-      "ret5": 0.59,
-      "ret20": 2.05,
+      "ret5": 0.58,
+      "ret20": 2.19,
       "drawdown": 0,
-      "position": 15,
+      "position": 16,
       "trend": "观察结构",
       "chartType": "snapshot",
       "bars": [
         {
           "label": "涨幅",
-          "value": 0.59,
+          "value": 0.58,
           "max": 6
         },
         {
           "label": "超额",
-          "value": 2.05,
+          "value": 2.19,
           "max": 6
         },
         {
           "label": "资金",
-          "value": 0.43,
+          "value": 0.41,
           "max": 6
         },
         {
           "label": "评分",
-          "value": 1.25,
+          "value": 1.33,
           "max": 8
         }
       ],
       "points": []
     },
     {
-      "name": "国企改革",
+      "name": "一带一路",
       "type": "概念",
       "labels": [
         "超额强势"
       ],
-      "ret5": -0.02,
-      "ret20": 1.44,
+      "ret5": -0.39,
+      "ret20": 1.22,
       "drawdown": 0,
-      "position": 7,
+      "position": 6,
       "trend": "观察结构",
       "chartType": "snapshot",
       "bars": [
         {
           "label": "涨幅",
-          "value": -0.02,
+          "value": -0.39,
           "max": 6
         },
         {
           "label": "超额",
-          "value": 1.44,
+          "value": 1.22,
           "max": 6
         },
         {
           "label": "资金",
-          "value": -2.07,
+          "value": -1.21,
           "max": 6
         },
         {
           "label": "评分",
-          "value": 0.58,
+          "value": 0.5,
           "max": 8
         }
       ],
@@ -1402,7 +1442,7 @@
   "risks": [
     "今日炸板 20 只，追高前先看前排封单和回封质量。",
     "今日跌停 18 只，负反馈未完全消失，后排题材容错率下降。",
-    "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
+    "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
     "板块资金是短线情绪线索，不替代公告、财报和订单验证。"
   ],
   "limitDowns": [
@@ -1413,16 +1453,7 @@
       "tags": [
         "种植业"
       ],
-      "reason": "连续跌停 2，封单 51.0万，开板 6 次"
-    },
-    {
-      "code": "600641",
-      "name": "先导基电",
-      "changePct": "-10.00",
-      "tags": [
-        "半导体"
-      ],
-      "reason": "连续跌停 1，封单 138.3万，开板 4 次"
+      "reason": "连续跌停 2，封单 140.8万，开板 6 次"
     },
     {
       "code": "603115",
@@ -1434,22 +1465,22 @@
       "reason": "连续跌停 1，封单 1311.6万，开板 1 次"
     },
     {
-      "code": "603931",
-      "name": "格林达",
-      "changePct": "-10.00",
-      "tags": [
-        "电子化学"
-      ],
-      "reason": "连续跌停 1，封单 2824.0万，开板 0 次"
-    },
-    {
       "code": "603163",
       "name": "圣晖集成",
       "changePct": "-10.00",
       "tags": [
         "专业工程"
       ],
-      "reason": "连续跌停 2，封单 2933.9万，开板 0 次"
+      "reason": "连续跌停 2，封单 2940.3万，开板 0 次"
+    },
+    {
+      "code": "603931",
+      "name": "格林达",
+      "changePct": "-10.00",
+      "tags": [
+        "电子化学"
+      ],
+      "reason": "连续跌停 1，封单 2949.9万，开板 0 次"
     },
     {
       "code": "002289",
@@ -1458,16 +1489,16 @@
       "tags": [
         "光学光电"
       ],
-      "reason": "连续跌停 2，封单 3273.5万，开板 1 次"
+      "reason": "连续跌停 2，封单 3215.3万，开板 1 次"
     },
     {
-      "code": "600360",
-      "name": "华微电子",
-      "changePct": "-9.99",
+      "code": "600641",
+      "name": "先导基电",
+      "changePct": "-10.00",
       "tags": [
         "半导体"
       ],
-      "reason": "连续跌停 2，封单 5610.0万，开板 8 次"
+      "reason": "连续跌停 1，封单 4688.8万，开板 5 次"
     },
     {
       "code": "002674",
@@ -1476,7 +1507,16 @@
       "tags": [
         "纺织制造"
       ],
-      "reason": "连续跌停 2，封单 5657.0万，开板 6 次"
+      "reason": "连续跌停 2，封单 6047.1万，开板 6 次"
+    },
+    {
+      "code": "600360",
+      "name": "华微电子",
+      "changePct": "-9.99",
+      "tags": [
+        "半导体"
+      ],
+      "reason": "连续跌停 2，封单 6151.6万，开板 8 次"
     },
     {
       "code": "002208",
@@ -1485,7 +1525,7 @@
       "tags": [
         "房地产开"
       ],
-      "reason": "连续跌停 3，封单 7071.2万，开板 1 次"
+      "reason": "连续跌停 3，封单 7398.6万，开板 1 次"
     },
     {
       "code": "002080",
@@ -1494,7 +1534,7 @@
       "tags": [
         "玻璃玻纤"
       ],
-      "reason": "连续跌停 1，封单 8458.7万，开板 0 次"
+      "reason": "连续跌停 1，封单 9098.2万，开板 0 次"
     },
     {
       "code": "603698",
@@ -1503,7 +1543,7 @@
       "tags": [
         "专用设备"
       ],
-      "reason": "连续跌停 4，封单 1.0亿，开板 9 次"
+      "reason": "连续跌停 4，封单 1.1亿，开板 9 次"
     },
     {
       "code": "002123",
@@ -1557,7 +1597,7 @@
       "tags": [
         "半导体"
       ],
-      "reason": "连续跌停 2，封单 5.5亿，开板 4 次"
+      "reason": "连续跌停 2，封单 5.7亿，开板 4 次"
     },
     {
       "code": "001309",
@@ -1566,13 +1606,13 @@
       "tags": [
         "半导体"
       ],
-      "reason": "连续跌停 2，封单 76.1亿，开板 0 次"
+      "reason": "连续跌停 2，封单 76.2亿，开板 0 次"
     }
   ],
   "watchPlan": [
     {
       "title": "最强概念",
-      "rule": "AI智能体资金最强，明日只看前排承接和中军是否继续放量。"
+      "rule": "暂无明显净流入概念，降低追涨频率。"
     },
     {
       "title": "最强行业",
@@ -97970,13 +98010,13 @@
   },
   "executionPlan": {
     "marketLevel": "弱",
-    "emotionScore": 59,
+    "emotionScore": 58,
     "totalPosition": "25%-50%",
     "singlePosition": "不超过25%",
     "stance": "防守为主，只允许核心低吸或缩量回踩确认，降低交易频率。",
     "focusThemes": [
       "文化传媒",
-      "AI智能体",
+      "医疗服务",
       "消费电子"
     ],
     "topWatch": [
@@ -98137,29 +98177,26 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-16",
-    "generatedAt": "2026-07-16 14:01:03",
+    "generatedAt": "2026-07-16 14:05:36",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、有色稀土、AI算力。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、金融、AI算力。",
     "themes": [
       {
         "name": "半导体",
-        "score": 11,
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "金融",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
         "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -98170,6 +98207,11 @@
       {
         "name": "机器人",
         "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -98392,6 +98434,22 @@
         "noticeType": "股权激励计划"
       },
       {
+        "title": "临界航天完成2亿元天使轮融资",
+        "summary": "【临界航天完成2亿元天使轮融资】7月16日，临界航天（北京）智能科技有限公司发布公告，称公司完成2亿元天使轮融资。本轮融资由绿洲资本、源码律动、尚势资本、清流资本、东方富海联合投资，高鹄资本担任独家财务顾问。",
+        "publishedAt": "2026-07-16 14:00:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163808906522.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "半导体行业涨价潮蔓延！光刻机巨头据悉酝酿提价 台积电反对",
         "summary": "【半导体行业涨价潮蔓延！光刻机巨头据悉酝酿提价 台积电反对】据媒体援引知情人士报道，全球核心芯片设备供应商阿斯麦计划提高芯片制造设备价格。消息称，阿斯麦近期已与台积电讨论提高其极紫外（EUV）光刻系统的价格。并且阿斯麦最近几周告知部分客户，计划对其深紫外（DUV）光刻系统提价10%。",
         "publishedAt": "2026-07-16 13:55:21",
@@ -98408,63 +98466,47 @@
         "noticeType": ""
       },
       {
-        "title": "政策有望打通技术升级与消费升级的联动通道，线上消费ETF平安涨超3%",
-        "summary": "【政策有望打通技术升级与消费升级的联动通道，线上消费ETF平安涨超3%】截至2026年7月16日13:35，中证沪港深线上消费主题指数(931481)强势上涨3.88%，线上消费ETF平安(159793)上涨3.99%，最新价报0.84元。",
-        "publishedAt": "2026-07-16 13:38:15",
+        "title": "雷军：小米具身基座模型Xiaomi-Robotics-1正式发布",
+        "summary": "【雷军：小米具身基座模型Xiaomi-Robotics-1正式发布】小米创办人、董事长兼CEO雷军在微博发文称，小米具身基座模型Xiaomi-Robotics-1今天正式发布，在具身基座模型领域，初步验证了Scaling Law效应。",
+        "publishedAt": "2026-07-16 14:00:12",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163808884378.html",
+        "url": "https://finance.eastmoney.com/a/202607163808904429.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国7月14日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国7月14日COMEX黄金库存-每日更新(百盎司)；公布 271189.02，预期 nan，前值 271028.94。",
-        "publishedAt": "2026-07-16 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "交通银行调整“用卡无忧”服务 交易短信提醒门槛提至100元",
+        "summary": "【交通银行调整“用卡无忧”服务 交易短信提醒门槛提至100元】7月16日，交通银行发布关于调整部分客户借记卡“用卡无忧”服务交易短信提醒起始金额的公告，为进一步做好客户服务，避免过度提醒，交通银行将自2026年8月15日起对借记卡“用卡无忧”服务进行优化调整。其中针对各地分行原享受区域性优惠的客户，签约服务中“提供每笔交易即时短信提醒”调整为“提供每笔金额…",
+        "publishedAt": "2026-07-16 13:59:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163808907175.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国7月15日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月15日iShares黄金持仓-每日更新(吨)；公布 461.74，预期 nan，前值 461.94。",
-        "publishedAt": "2026-07-16 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月15日iShares白银持仓-每日更新(吨)",
-        "summary": "美国7月15日iShares白银持仓-每日更新(吨)；公布 14957.28，预期 nan，前值 14957.28。",
-        "publishedAt": "2026-07-16 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "沪指再度跌破3900点",
+        "summary": "沪指再度跌破3900点，现跌1.4%。",
+        "publishedAt": "2026-07-16 13:57:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163808901126.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -98487,126 +98529,126 @@
     {
       "code": "603459",
       "name": "红板科技",
-      "changePct": 7.64,
+      "changePct": 5.7,
       "industry": "元件",
       "failCount": 4
     },
     {
       "code": "603893",
       "name": "瑞芯微",
-      "changePct": 6.74,
+      "changePct": 6.09,
       "industry": "半导体",
       "failCount": 1
     },
     {
       "code": "000938",
       "name": "紫光股份",
-      "changePct": 8.44,
+      "changePct": 7.77,
       "industry": "IT服务Ⅱ",
       "failCount": 2
     },
     {
       "code": "000034",
       "name": "神州数码",
-      "changePct": 5.09,
+      "changePct": 5.01,
       "industry": "IT服务Ⅱ",
       "failCount": 1
     },
     {
       "code": "603186",
       "name": "华正新材",
-      "changePct": 2.29,
+      "changePct": 1.86,
       "industry": "元件",
       "failCount": 1
     },
     {
       "code": "603989",
       "name": "艾华集团",
-      "changePct": 0.43,
+      "changePct": 0.2,
       "industry": "元件",
       "failCount": 1
     },
     {
       "code": "300591",
       "name": "万里马",
-      "changePct": 16.29,
+      "changePct": 15.47,
       "industry": "服装家纺",
       "failCount": 1
     },
     {
       "code": "002083",
       "name": "孚日股份",
-      "changePct": 6.61,
+      "changePct": 6.82,
       "industry": "纺织制造",
       "failCount": 1
     },
     {
       "code": "001221",
       "name": "悍高集团",
-      "changePct": 5.57,
+      "changePct": 4.65,
       "industry": "家居用品",
       "failCount": 1
     },
     {
       "code": "603127",
       "name": "昭衍新药",
-      "changePct": 9.01,
+      "changePct": 8.59,
       "industry": "医疗服务",
       "failCount": 2
     },
     {
       "code": "603011",
       "name": "合锻智能",
-      "changePct": 2.17,
+      "changePct": 2.13,
       "industry": "专用设备",
       "failCount": 1
     },
     {
       "code": "002261",
       "name": "拓维信息",
-      "changePct": 8.07,
+      "changePct": 7.29,
       "industry": "软件开发",
       "failCount": 3
     },
     {
       "code": "603118",
       "name": "共进股份",
-      "changePct": 7.3,
+      "changePct": 6.84,
       "industry": "通信设备",
       "failCount": 2
     },
     {
       "code": "000679",
       "name": "大连友谊",
-      "changePct": 8.72,
+      "changePct": 7.69,
       "industry": "一般零售",
       "failCount": 2
     },
     {
       "code": "603103",
       "name": "横店影视",
-      "changePct": 5.28,
+      "changePct": 6.06,
       "industry": "影视院线",
       "failCount": 1
     },
     {
       "code": "002115",
       "name": "三维通信",
-      "changePct": 8.34,
+      "changePct": 8.25,
       "industry": "通信服务",
       "failCount": 1
     },
     {
       "code": "601199",
       "name": "江南水务",
-      "changePct": 7.23,
+      "changePct": 7.41,
       "industry": "环境治理",
       "failCount": 1
     },
     {
       "code": "600611",
       "name": "大众交通",
-      "changePct": 8.87,
+      "changePct": 9.14,
       "industry": "铁路公路",
       "failCount": 1
     }
@@ -98625,15 +98667,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-16 14:01:03",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、有色稀土、AI算力。",
+        "generatedAt": "2026-07-16 14:05:36",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
-              "主线候选：文化传媒、AI智能体、消费电子；首看 文化传媒 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "主线候选：文化传媒、医疗服务、消费电子；首看 文化传媒 的前排承接和中军量能。",
+              "新闻/公告映射主题：半导体、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -98648,7 +98690,7 @@
         "plan": [
           {
             "title": "最强概念",
-            "rule": "AI智能体资金最强，明日只看前排承接和中军是否继续放量。"
+            "rule": "暂无明显净流入概念，降低追涨频率。"
           },
           {
             "title": "最强行业",
@@ -98664,15 +98706,15 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-16 13:59:27",
-        "summary": "上午情绪分 59，涨停 47 家，跌停 18 家，炸板 20 家，连板 13 家，最高 5 板。",
+        "generatedAt": "2026-07-16 14:04:14",
+        "summary": "上午情绪分 58，涨停 47 家，跌停 18 家，炸板 20 家，连板 13 家，最高 5 板。",
         "sections": [
           {
             "title": "上午盘面",
             "items": [
               "涨停 47 家，跌停 18 家，炸板率 30%，最高连板 5 板。",
-              "主线候选：文化传媒、AI智能体、消费电子；首看 文化传媒 的前排承接和中军量能。",
-              "弱势方向：电子化学品、半导体、光学光电子，相关后排不做反包幻想。"
+              "主线候选：文化传媒、医疗服务、消费电子；首看 文化传媒 的前排承接和中军量能。",
+              "弱势方向：电子化学品、半导体、OLED，相关后排不做反包幻想。"
             ]
           },
           {
@@ -98687,7 +98729,7 @@
         "plan": [
           {
             "title": "最强概念",
-            "rule": "AI智能体资金最强，明日只看前排承接和中军是否继续放量。"
+            "rule": "暂无明显净流入概念，降低追涨频率。"
           },
           {
             "title": "最强行业",
@@ -98703,13 +98745,13 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-16 13:59:27",
+        "generatedAt": "2026-07-16 14:04:14",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
             "title": "市场温度",
             "items": [
-              "情绪分 59，涨停 47，跌停 18，炸板 20。",
+              "情绪分 58，涨停 47，跌停 18，炸板 20。",
               "连板高度 5 板，当前仓位纪律：总仓位 25%-50%，单票 不超过25%。",
               "今日负反馈：跌停 18 只，炸板 20 只。"
             ]
@@ -98717,7 +98759,7 @@
           {
             "title": "主线与候选",
             "items": [
-              "主线候选：文化传媒、AI智能体、消费电子；首看 文化传媒 的前排承接和中军量能。",
+              "主线候选：文化传媒、医疗服务、消费电子；首看 文化传媒 的前排承接和中军量能。",
               "连板前排：哈药股份5板、云创退4板、艾艾精工3板、贤丰控股3板、九安医疗3板。只看换手承接和板块带动，不追一致后排。",
               "明日候选观察：沪深主板 >60：一汽解放、太平洋；创业板 >60：节能国祯、可孚医疗。",
               "明日执行首看：一汽解放(首看)、太平洋(首看)、永安期货(首看)、节能国祯(首看)；总仓位上限 25%-50%。"
@@ -98728,7 +98770,7 @@
             "items": [
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "今日跌停 18 只，负反馈未完全消失，后排题材容错率下降。",
-              "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
+              "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "新闻/公告风险：悍高集团:华兴会计师事务所(普通合伙)关于悍高集团股份有限公司申请向不特定对象发行可转换公司债券的审核问询函的回复；悍高集团:悍高集团股份有限公司关于向不特定对象发行可转换公司债券的审核问询函回复及募集说明书等申请文件更新的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
@@ -98737,7 +98779,7 @@
         "plan": [
           {
             "title": "最强概念",
-            "rule": "AI智能体资金最强，明日只看前排承接和中军是否继续放量。"
+            "rule": "暂无明显净流入概念，降低追涨频率。"
           },
           {
             "title": "最强行业",
