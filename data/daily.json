@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-16",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-16 18:16:33",
+    "generatedAt": "2026-07-16 23:08:19",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -103716,149 +103716,86 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-16",
-    "generatedAt": "2026-07-16 18:17:31",
+    "generatedAt": "2026-07-16 23:09:17",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 金融、低空经济、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 8,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
-        "score": 4,
+        "name": "能源",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST合纵:关于累计诉讼、仲裁情况的公告",
-        "summary": "ST合纵(300477)：ST合纵:关于累计诉讼、仲裁情况的公告",
+        "title": "云创退:股票交易异常波动暨严重异常波动公告",
+        "summary": "云创退(920305)：云创退:股票交易异常波动暨严重异常波动公告",
         "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300477/AN202607161827025662.html",
+        "url": "https://data.eastmoney.com/notices/detail/920305/AN202607161827030458.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST合纵(300477)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "梓橦宫:股东减持股份结果公告",
-        "summary": "梓橦宫(920566)：梓橦宫:股东减持股份结果公告",
-        "publishedAt": "2026-07-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920566/AN202607161827025538.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "梓橦宫(920566)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "亿纬锂能:关于控股股东部分股份质押的公告",
-        "summary": "亿纬锂能(300014)：亿纬锂能:关于控股股东部分股份质押的公告",
-        "publishedAt": "2026-07-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300014/AN202607161827025423.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [
-          "亿纬锂能(300014)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "幸福蓝海:股票交易异常波动及风险提示公告",
-        "summary": "幸福蓝海(300528)：幸福蓝海:股票交易异常波动及风险提示公告",
-        "publishedAt": "2026-07-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300528/AN202607161827025018.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "幸福蓝海(300528)"
+          "云创退(920305)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "同惠电子:股东拟减持股份的预披露公告(再次披露)",
-        "summary": "同惠电子(920509)：同惠电子:股东拟减持股份的预披露公告(再次披露)",
+        "title": "*ST金灵:关于股份回购事项股东会股权登记日前十名股东和前十名无限售条件股东持股情况的公告",
+        "summary": "*ST金灵(300091)：*ST金灵:关于股份回购事项股东会股权登记日前十名股东和前十名无限售条件股东持股情况的公告",
         "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920509/AN202607161827024581.html",
+        "url": "https://data.eastmoney.com/notices/detail/300091/AN202607161827029441.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST金灵(300091)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "中富通:关于控股股东、实际控制人进行股份提前解除质押的公告",
+        "summary": "中富通(300560)：中富通:关于控股股东、实际控制人进行股份提前解除质押的公告",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300560/AN202607161827028188.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "同惠电子(920509)"
+          "中富通(300560)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "托伦斯:关于签订募集资金三方监管协议的公告",
-        "summary": "托伦斯(301583)：托伦斯:关于签订募集资金三方监管协议的公告",
-        "publishedAt": "2026-07-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301583/AN202607161827024154.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "托伦斯(301583)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "江苏加强海外专利布局 15条举措助企“走得稳、走得远”",
-        "summary": "【江苏加强海外专利布局 15条举措助企“走得稳、走得远”】江苏省政府召开新闻发布会，解读省政府办公厅近日印发的《关于加强海外专利布局的实施意见》。《意见》围绕产业创新、企业辅导、专业服务、国际合作和统筹保障等方面提出15条举措，着力破解企业海外专利布局方向不清、能力不足、成本较高、风险较大等难题，为江苏企业拓展海外市场构筑专利屏障。",
-        "publishedAt": "2026-07-16 18:00:10",
+        "title": "ICE棉花期货下跌3%",
+        "summary": "ICE棉花期货下跌3%。",
+        "publishedAt": "2026-07-16 22:25:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809163122.html",
+        "url": "https://finance.eastmoney.com/a/202607163809374984.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -103868,27 +103805,27 @@
         "noticeType": ""
       },
       {
-        "title": "300054鼎龙股份投资者关系管理信息20260716",
-        "summary": "鼎龙股份(300054)：300054鼎龙股份投资者关系管理信息20260716",
+        "title": "深南电路:2026年7月16日投资者关系活动记录表",
+        "summary": "深南电路(002916)：深南电路:2026年7月16日投资者关系活动记录表",
         "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607161827025656.html",
+        "url": "https://data.eastmoney.com/notices/detail/002916/AN202607161827030622.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "鼎龙股份(300054)"
+          "深南电路(002916)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "青岛银行:2026年7月16日投资者关系活动记录表",
-        "summary": "青岛银行(002948)：青岛银行:2026年7月16日投资者关系活动记录表",
+        "title": "浩通科技:回购公司股份方案的公告暨回购报告书",
+        "summary": "浩通科技(301026)：浩通科技:回购公司股份方案的公告暨回购报告书",
         "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002948/AN202607161827025657.html",
+        "url": "https://data.eastmoney.com/notices/detail/301026/AN202607161827028818.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -103896,81 +103833,131 @@
           "金融"
         ],
         "tickers": [
-          "青岛银行(002948)"
+          "浩通科技(301026)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "力合微:2026年7月15日投资者关系活动记录表",
+        "summary": "力合微(688589)：力合微:2026年7月15日投资者关系活动记录表",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688589/AN202607161827027761.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "力合微(688589)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "众诚科技:签订重要合同的公告",
-        "summary": "众诚科技(920207)：众诚科技:签订重要合同的公告",
+        "title": "东山精密:002384投资者关系活动记录表20260715",
+        "summary": "东山精密(002384)：东山精密:002384投资者关系活动记录表20260715",
         "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920207/AN202607161827025713.html",
+        "url": "https://data.eastmoney.com/notices/detail/002384/AN202607161827025655.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "众诚科技(920207)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "探路者:2026年半年度业绩预告",
-        "summary": "探路者(300005)：探路者:2026年半年度业绩预告",
-        "publishedAt": "2026-07-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300005/AN202607161827025611.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "探路者(300005)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "002479富春环保投资者关系管理信息20260716",
-        "summary": "富春环保(002479)：002479富春环保投资者关系管理信息20260716",
-        "publishedAt": "2026-07-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002479/AN202607161827024995.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富春环保(002479)"
+          "东山精密(002384)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "康普化学:关于使用自有资金购买理财产品的进展公告",
-        "summary": "康普化学(920033)：康普化学:关于使用自有资金购买理财产品的进展公告",
+        "title": "豪迈科技:2026年7月14日-7月16日投资者关系活动记录表",
+        "summary": "豪迈科技(002595)：豪迈科技:2026年7月14日-7月16日投资者关系活动记录表",
         "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920033/AN202607161827025023.html",
+        "url": "https://data.eastmoney.com/notices/detail/002595/AN202607161827024806.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "康普化学(920033)"
+          "豪迈科技(002595)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "调研活动"
       },
       {
-        "title": "联合健康上调全年调整后每股收益预期",
-        "summary": "【联合健康上调全年调整后每股收益预期】联合健康在美股盘前拉升，现涨近7%。联合健康第二季度营收1120.3亿美元，高于预期1106.7亿美元。公司预计全年调整后每股收益为19.50至20.00美元，此前预估为18.25美元以上。联合健康集团计划在2026年至少回购50亿美元的股票。",
-        "publishedAt": "2026-07-16 18:02:36",
+        "title": "000166申万宏源投资者关系管理信息20260716",
+        "summary": "申万宏源(000166)：000166申万宏源投资者关系管理信息20260716",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000166/AN202607161827033157.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "申万宏源(000166)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000065北方国际投资者关系管理信息20260716",
+        "summary": "北方国际(000065)：000065北方国际投资者关系管理信息20260716",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000065/AN202607161827031271.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "北方国际(000065)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "天键股份:关于部分第一类限制性股票回购注销完成的公告",
+        "summary": "天键股份(301383)：天键股份:关于部分第一类限制性股票回购注销完成的公告",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301383/AN202607161827031416.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "天键股份(301383)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "科创新源:2026年7月15日、7月16日投资者关系活动记录表",
+        "summary": "科创新源(300731)：科创新源:2026年7月15日、7月16日投资者关系活动记录表",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300731/AN202607161827031057.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "科创新源(300731)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中集集团：拟使用不超1.73亿港元回购部分H股股份",
+        "summary": "【中集集团：拟使用不超1.73亿港元回购部分H股股份】中集集团(000039.SZ)公告称，公司董事会审议通过议案，拟在2026年H股回购一般性授权下，使用不超过港币1.73亿元(含)回购部分H股股份。本次回购股份将用于维护公司价值及股东权益，并作为库存股持有。",
+        "publishedAt": "2026-07-16 22:56:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809157360.html",
+        "url": "https://finance.eastmoney.com/a/202607163809397144.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -103982,41 +103969,41 @@
         "noticeType": ""
       },
       {
-        "title": "摩根大通将希捷科技目标股价从920美元上调至1095美元",
-        "summary": "摩根大通将希捷科技目标股价从920美元上调至1095美元。",
-        "publishedAt": "2026-07-16 18:16:14",
+        "title": "IMF敦促英国候任首相伯纳姆避免财政冒进",
+        "summary": "【IMF敦促英国候任首相伯纳姆避免财政冒进】国际货币基金组织(IMF)警告英国候任首相安迪·伯纳姆称，2022年莉兹·特拉斯预算危机造成了永久性伤痕，使英国国债市场对英国财政政策更加敏感。IMF表示，在前首相特拉斯近四年前的迷你预算案引发市场动荡后，债券市场出现了“机制性转变”。特拉斯当时计划提高支出并减税，数百亿英镑资金来源不明，该计划在遭到投资者强烈反…",
+        "publishedAt": "2026-07-16 22:11:17",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809165274.html",
+        "url": "https://finance.eastmoney.com/a/202607163809363675.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "伊朗称霍尔木兹海峡不会因美国施压恢复开放",
-        "summary": "【伊朗称霍尔木兹海峡不会因美国施压恢复开放】当地时间7月16日，伊朗驻黎巴嫩使馆发表声明称，霍尔木兹海峡不会因美国施压而恢复开放，只会按照“伊朗设定的条件”恢复通航。",
-        "publishedAt": "2026-07-16 18:15:26",
+        "title": "美国天然气期货跌超3%",
+        "summary": "【美国天然气期货跌超3%】美国天然气期货跌超3%，现报2.836美元/百万英热。",
+        "publishedAt": "2026-07-16 23:02:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809165123.html",
+        "url": "https://finance.eastmoney.com/a/202607163809405235.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "低空经济"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "阿波罗全球管理公司据称被视为加拿大LNG项目股份的最有力竞购方",
-        "summary": "阿波罗全球管理公司据称被视为加拿大LNG项目股份的最有力竞购方。",
-        "publishedAt": "2026-07-16 18:10:32",
+        "title": "纯碱夜盘跌超2%",
+        "summary": "【纯碱夜盘跌超2%】国内期货主力合约夜盘跌多涨少，纯碱跌超2%，棉花、烧碱、玻璃、棉纱跌超1%，合成橡胶、塑料、橡胶跌近1%。涨幅方面，液化石油气（LPG）、铁矿石涨近1%。",
+        "publishedAt": "2026-07-16 23:01:43",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809164972.html",
+        "url": "https://finance.eastmoney.com/a/202607163809402176.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -104026,11 +104013,11 @@
         "noticeType": ""
       },
       {
-        "title": "摩根大通将思科目标价从120美元上调至145美元",
-        "summary": "摩根大通将思科目标价从120美元上调至145美元，将惠普目标价从26美元上调至27美元。",
-        "publishedAt": "2026-07-16 18:07:03",
+        "title": "中关村：下属公司4个品种新进入《国家基本药物目录》",
+        "summary": "【中关村：下属公司4个品种新进入《国家基本药物目录》】中关村(000931.SZ)公告称，公司下属公司共有14个在产品种纳入《国家基本药物目录(2026年版)》，其中新进入4个品种(5个品规)，退出1个品种(1个品规)。",
+        "publishedAt": "2026-07-16 23:00:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809164754.html",
+        "url": "https://finance.eastmoney.com/a/202607163809403466.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -104232,15 +104219,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-16 18:17:31",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 金融、低空经济、AI算力。",
+        "generatedAt": "2026-07-16 23:09:17",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：医疗服务、国企改革、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、低空经济、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -104271,7 +104258,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-16 18:16:33",
+        "generatedAt": "2026-07-16 23:08:19",
         "summary": "上午情绪分 17，涨停 42 家，跌停 33 家，炸板 25 家，连板 10 家，最高 5 板。",
         "sections": [
           {
@@ -104310,7 +104297,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-16 18:16:33",
+        "generatedAt": "2026-07-16 23:08:19",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -104336,7 +104323,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "今日跌停 33 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST合纵:关于累计诉讼、仲裁情况的公告；梓橦宫:股东减持股份结果公告。",
+              "新闻/公告风险：云创退:股票交易异常波动暨严重异常波动公告；*ST金灵:关于股份回购事项股东会股权登记日前十名股东和前十名无限售条件股东持股情况的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
