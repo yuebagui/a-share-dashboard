@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-15",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-15 23:02:39",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-15 23:02:39",
+    "lastNewsAt": "2026-07-16 11:48:26"
   },
   "indices": [
     {
@@ -98658,17 +98660,20 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-15",
-    "generatedAt": "2026-07-15 23:04:14",
+    "tradeDate": "2026-07-16",
+    "generatedAt": "2026-07-16 11:48:26",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、AI算力、半导体。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
+        "name": "有色稀土",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
-        "score": 9,
+        "score": 10,
         "isFocusBoard": false
       },
       {
@@ -98677,261 +98682,301 @@
         "isFocusBoard": false
       },
       {
+        "name": "新能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
         "name": "半导体",
-        "score": 6,
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 2,
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "科润智控:关于对北京证券交易所2025年年报问询函的回复公告",
-        "summary": "科润智控(920062)：科润智控:关于对北京证券交易所2025年年报问询函的回复公告",
-        "publishedAt": "2026-07-15",
+        "title": "ST龙大:关于龙大转债到期兑付的公告",
+        "summary": "ST龙大(002726)：ST龙大:关于龙大转债到期兑付的公告",
+        "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920062/AN202607151826993512.html",
+        "url": "https://data.eastmoney.com/notices/detail/002726/AN202607161827012690.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST龙大(002726)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST岭南:关于累计诉讼、仲裁情况的公告",
+        "summary": "*ST岭南(002717)：*ST岭南:关于累计诉讼、仲裁情况的公告",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002717/AN202607151826998273.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST岭南(002717)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "沪指半日跌0.82%，创业板指跌1.73%",
+        "summary": "【沪指半日跌0.82%，创业板指跌1.73%】7月16日，A股市场早盘低开回升后再度震荡下跌，创业板指走势较弱。沪深两市半日成交额1.48万亿，较上个交易日缩量2351亿。盘面上热点较为杂乱，全市场超3200只个股上涨。从板块来看，端侧AI概念持续拉升，智度股份2连板，格林精密、福日电子、国光电器、福蓉科技涨停。医药板块反复活跃，哈药股份5连板，海南海药、…",
+        "publishedAt": "2026-07-16 11:33:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163808799050.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "沪指下跌0.82% 两市半日缩量超2300亿 影视院线领涨",
+        "summary": "【午盘播报】沪指下跌0.82%，报3923.20点；深成指下跌0.83%，报14657.07点；创业板指下跌1.73%，报3738.96点，两市半日合计成交14804亿。盘面上，影视院线、专业连锁、广告营销、医疗服务、短剧互动游戏、AI语料涨幅居前，氦气概念、高带宽内存、电子化学品、工业气体、存储芯片、先进封装表现不佳，领跌市场。全市场上涨个股有3282家…",
+        "publishedAt": "2026-07-16 11:30:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163808797554.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力",
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "净利最高增两倍 国寿新华率先预增 投资业绩成险企中报“最大推手”",
+        "summary": "【净利最高增两倍 国寿新华率先预增 投资业绩成险企中报“最大推手”】相对于一季度A股上市险企整体利润表现同比下跌，二季度资本市场的回暖使得业内对于上市险企的中报业绩普遍持乐观态度。上市险企的预增公告进一步验证了这种乐观。新华保险及中国人寿近日先后公布2026年半年度业绩预增公告，前者预计上半年归母净利润同比增长40%至60%，后者的预计增长比例更是高达约2…",
+        "publishedAt": "2026-07-16 11:29:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163808795393.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "科润智控(920062)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": ""
       },
       {
-        "title": "生物谷:股票交易异常波动公告",
-        "summary": "生物谷(920266)：生物谷:股票交易异常波动公告",
-        "publishedAt": "2026-07-15",
+        "title": "日本央行高级官员：若延迟调整刺激力度 可能使风险变成现实",
+        "summary": "【日本央行高级官员：若延迟调整刺激力度 可能使风险变成现实】日本央行高级官员表示，当前通胀上行风险较高，若延迟调整刺激力度，可能使风险变成现实，导致未来经济下行。",
+        "publishedAt": "2026-07-16 11:20:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163808794390.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "天融信:2026年07月15日投资者关系活动记录表",
+        "summary": "天融信(002212)：天融信:2026年07月15日投资者关系活动记录表",
+        "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920266/AN202607151826992296.html",
+        "url": "https://data.eastmoney.com/notices/detail/002212/AN202607161827009160.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "生物谷(920266)"
+          "天融信(002212)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "良品铺子：达永有限持股比例降至15.91%",
-        "summary": "【良品铺子：达永有限持股比例降至15.91%】良品铺子(603719.SH)公告称，公司收到持股5%以上股东达永有限公司告知函，达永有限于2026年7月6日至14日期间通过集中竞价及大宗交易方式合计减持公司股份873.34万股，持股比例从17.97%变动至15.91%。",
-        "publishedAt": "2026-07-15 22:39:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807811443.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "未来5年现代农业气象防灾减灾业务能力建设方案出台",
-        "summary": "【未来5年现代农业气象防灾减灾业务能力建设方案出台】中国气象局近日出台了《现代农业气象防灾减灾业务能力建设方案（2026—2030年）》，加快构建新型气象为农服务体系，着力提升数智化、场景化农业气象防灾减灾业务能力。方案明确，到2030年，全国现代农业气象防灾减灾能力将显著提升。国内农业气象灾害风险预警覆盖短中长期，重点区域预警空间分辨率和农业产量预报空间…",
-        "publishedAt": "2026-07-15 22:37:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807807456.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "米兰上市的意法半导体股票在下跌3.75%后自动暂停交易",
-        "summary": "米兰上市的意法半导体股票在下跌3.75%后自动暂停交易。",
-        "publishedAt": "2026-07-15 22:36:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807807119.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "300438鹏辉能源投资者关系管理信息20260715",
+        "summary": "鹏辉能源(300438)：300438鹏辉能源投资者关系管理信息20260715",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300438/AN202607161827001308.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "半导体"
+          "能源"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "传智教育:003032传智教育投资者关系管理信息20260715",
-        "summary": "传智教育(003032)：传智教育:003032传智教育投资者关系管理信息20260715",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003032/AN202607151826994463.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
         "tickers": [
-          "传智教育(003032)"
+          "鹏辉能源(300438)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "兰剑智能:投资者关系活动记录表2026011",
-        "summary": "兰剑智能(688557)：兰剑智能:投资者关系活动记录表2026011",
-        "publishedAt": "2026-07-15",
+        "title": "嘉立创:与投资者保护相关的承诺",
+        "summary": "嘉立创(001232)：嘉立创:与投资者保护相关的承诺",
+        "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688557/AN202607151826987730.html",
+        "url": "https://data.eastmoney.com/notices/detail/001232/AN202607151826999950.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "兰剑智能(688557)"
+          "嘉立创(001232)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "阳光电源投资者关系活动记录表20260715",
-        "summary": "阳光电源(300274)：阳光电源投资者关系活动记录表20260715",
-        "publishedAt": "2026-07-15",
+        "title": "嘉立创:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "summary": "嘉立创(001232)：嘉立创:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300274/AN202607151826999765.html",
+        "url": "https://data.eastmoney.com/notices/detail/001232/AN202607151826999959.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "阳光电源(300274)"
+          "嘉立创(001232)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "深圳华强:2026年7月15日投资者关系活动记录表",
-        "summary": "深圳华强(000062)：深圳华强:2026年7月15日投资者关系活动记录表",
-        "publishedAt": "2026-07-15",
+        "title": "金宏气体:2026年半年度业绩预告的自愿性披露公告",
+        "summary": "金宏气体(688106)：金宏气体:2026年半年度业绩预告的自愿性披露公告",
+        "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000062/AN202607151826999619.html",
+        "url": "https://data.eastmoney.com/notices/detail/688106/AN202607151826998597.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "深圳华强(000062)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金力永磁:2026年7月15日投资者关系活动记录表",
-        "summary": "金力永磁(300748)：金力永磁:2026年7月15日投资者关系活动记录表",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300748/AN202607151826999166.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金力永磁(300748)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "同兴科技投资者关系管理信息20260715",
-        "summary": "同兴科技(003027)：同兴科技投资者关系管理信息20260715",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003027/AN202607151826999076.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "同兴科技(003027)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "洁美科技:2026年7月14日至7月15日投资者关系活动记录表",
-        "summary": "洁美科技(002859)：洁美科技:2026年7月14日至7月15日投资者关系活动记录表",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002859/AN202607151826998874.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "洁美科技(002859)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "康达新材:2026年7月15日投资者关系活动记录表",
-        "summary": "康达新材(002669)：康达新材:2026年7月15日投资者关系活动记录表",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002669/AN202607151826998424.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "康达新材(002669)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "欣天科技:2026年半年度业绩预告",
-        "summary": "欣天科技(300615)：欣天科技:2026年半年度业绩预告",
-        "publishedAt": "2026-07-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300615/AN202607151826998171.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "欣天科技(300615)"
+          "金宏气体(688106)"
         ],
         "importance": 1,
         "noticeType": "业绩预告"
       },
       {
-        "title": "002226江南化工投资者关系管理信息20260715",
-        "summary": "江南化工(002226)：002226江南化工投资者关系管理信息20260715",
-        "publishedAt": "2026-07-15",
+        "title": "道通科技:道通科技2026年限制性股票激励计划激励对象名单",
+        "summary": "道通科技(688208)：道通科技:道通科技2026年限制性股票激励计划激励对象名单",
+        "publishedAt": "2026-07-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002226/AN202607151826997572.html",
+        "url": "https://data.eastmoney.com/notices/detail/688208/AN202607151826998446.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "江南化工(002226)"
+          "道通科技(688208)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励对象名单"
       },
       {
-        "title": "深圳华强：MLCC业务近期客户下单增加",
-        "summary": "【深圳华强：MLCC业务近期客户下单增加】深圳华强(000062.SZ)发布投资者关系活动记录表公告，MLCC业务方面，公司是村田全球主要授权分销商。近期公司观察到客户下单增加，开始拉货、主动补库存。对部分缺货的型号，公司优先满足大客户的采购需求。",
-        "publishedAt": "2026-07-15 22:54:49",
+        "title": "道通科技:道通科技关于以集中竞价方式回购股份方案暨回购报告书",
+        "summary": "道通科技(688208)：道通科技:道通科技关于以集中竞价方式回购股份方案暨回购报告书",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688208/AN202607151826998447.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "道通科技(688208)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "道通科技:道通科技2026年限制性股票激励计划(草案)",
+        "summary": "道通科技(688208)：道通科技:道通科技2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688208/AN202607151826998441.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "道通科技(688208)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "道通科技:道通科技2026年限制性股票激励计划(草案)摘要公告",
+        "summary": "道通科技(688208)：道通科技:道通科技2026年限制性股票激励计划(草案)摘要公告",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688208/AN202607151826998448.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "道通科技(688208)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "TCL科技:关于深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产事项会议安排的公告",
+        "summary": "TCL科技(000100)：TCL科技:关于深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产事项会议安排的公告",
+        "publishedAt": "2026-07-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000100/AN202607151826998363.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "TCL科技(000100)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "IBM惨况是个例还是行业共性？“大空头”伯里：关注这些即将发布的财报！",
+        "summary": "【IBM惨况是个例还是行业共性？“大空头”伯里：关注这些即将发布的财报！】老牌科技公司IBM股价周二暴跌25.2%，创下有史以来最糟糕的单日交易记录，此前该公司初步报告的第二季度利润和营收均远逊于市场预期。对此，知名做空投资者、素有“大空头”之称的迈克尔·伯里（Michael Burry）给出建议称，对于正在努力弄清楚情况的投资者来说，有几份重要的盈利报告…",
+        "publishedAt": "2026-07-16 11:28:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807823967.html",
+        "url": "https://finance.eastmoney.com/a/202607163808753274.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -98941,27 +98986,11 @@
         "noticeType": ""
       },
       {
-        "title": "美联储主席沃什表示 宁愿看到企业进行投资 而不是回购股票",
-        "summary": "美联储主席沃什表示，宁愿看到企业进行投资，而不是回购股票。",
-        "publishedAt": "2026-07-15 22:48:49",
+        "title": "六成投AI、四成投非AI？阿波罗首席：这才应是新版“60/40投资法则”",
+        "summary": "【六成投AI、四成投非AI？阿波罗首席：这才应是新版“60/40投资法则”】过去几十年来，投资的一条金科玉律很简单：将60%的资金投入股票以获取高回报，40%投入债券以确保安全。但据阿波罗首席经济学家Torsten Slok表示，这一“60/40投资法则”的经典框架可能已寿终正寝。“新的60-40比例是AI与非AI之争，”Slok在一份幻灯片演示文稿中写道。",
+        "publishedAt": "2026-07-16 11:27:25",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807818035.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储主席沃什：短期来看 人工智能投资对就业有利",
-        "summary": "【美联储主席沃什：短期来看 人工智能投资对就业有利】美联储主席沃什称他的看法是这些通胀数据并非完美的衡量指标。沃什还表示，短期来看，他认为人工智能投资对就业有利。",
-        "publishedAt": "2026-07-15 22:28:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607153807795362.html",
+        "url": "https://finance.eastmoney.com/a/202607163808769251.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -99124,7 +99153,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "修复",
     "positionRule": {
@@ -99137,15 +99166,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-15 23:04:14",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、AI算力、半导体。",
+        "generatedAt": "2026-07-16 11:48:26",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、化学制药、证券；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99241,7 +99270,7 @@
               "今日炸板 21 只，追高前先看前排封单和回封质量。",
               "今日跌停 31 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：科润智控:关于对北京证券交易所2025年年报问询函的回复公告；生物谷:股票交易异常波动公告。",
+              "新闻/公告风险：ST龙大:关于龙大转债到期兑付的公告；*ST岭南:关于累计诉讼、仲裁情况的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
