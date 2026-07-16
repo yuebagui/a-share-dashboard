@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-16",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-16 23:08:19",
+    "generatedAt": "2026-07-16 23:14:26",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -103716,16 +103716,21 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-16",
-    "generatedAt": "2026-07-16 23:09:17",
+    "generatedAt": "2026-07-16 23:15:46",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、AI算力、能源。",
     "themes": [
       {
         "name": "金融",
         "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -103734,8 +103739,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 4,
+        "name": "半导体",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -103983,6 +103988,37 @@
         "noticeType": ""
       },
       {
+        "title": "澜起科技：预计上半年净利润同比增长64%-81% DDR5RCD芯片出货量显著增加",
+        "summary": "【澜起科技：预计上半年净利润同比增长64%-81% DDR5RCD芯片出货量显著增加】澜起科技(688008.SH)公告称，预计2026年半年度归属于上市公司股东的净利润为19.00亿元-21.00亿元，同比增长63.9%-81.2%。上半年业绩大幅增长，主要是受益于AI产业趋势，行业需求旺盛：一方面，随着DDR5渗透率提高且子代持续迭代，公司DDR5RC…",
+        "publishedAt": "2026-07-16 23:13:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163809410666.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗媒体称美军袭击格什姆岛",
+        "summary": "【伊朗媒体称美军袭击格什姆岛】据伊朗迈赫尔通讯社今天（7月16日）报道，当地时间今天18时10分左右，格什姆岛附近区域遭到美军袭击。",
+        "publishedAt": "2026-07-16 23:05:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607163809404086.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "美国天然气期货跌超3%",
         "summary": "【美国天然气期货跌超3%】美国天然气期货跌超3%，现报2.836美元/百万英热。",
         "publishedAt": "2026-07-16 23:02:01",
@@ -103994,34 +104030,6 @@
         "themes": [
           "能源"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "纯碱夜盘跌超2%",
-        "summary": "【纯碱夜盘跌超2%】国内期货主力合约夜盘跌多涨少，纯碱跌超2%，棉花、烧碱、玻璃、棉纱跌超1%，合成橡胶、塑料、橡胶跌近1%。涨幅方面，液化石油气（LPG）、铁矿石涨近1%。",
-        "publishedAt": "2026-07-16 23:01:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809402176.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中关村：下属公司4个品种新进入《国家基本药物目录》",
-        "summary": "【中关村：下属公司4个品种新进入《国家基本药物目录》】中关村(000931.SZ)公告称，公司下属公司共有14个在产品种纳入《国家基本药物目录(2026年版)》，其中新进入4个品种(5个品规)，退出1个品种(1个品规)。",
-        "publishedAt": "2026-07-16 23:00:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607163809403466.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -104219,15 +104227,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-16 23:09:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-07-16 23:15:46",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：医疗服务、国企改革、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -104258,7 +104266,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-16 23:08:19",
+        "generatedAt": "2026-07-16 23:14:26",
         "summary": "上午情绪分 17，涨停 42 家，跌停 33 家，炸板 25 家，连板 10 家，最高 5 板。",
         "sections": [
           {
@@ -104297,7 +104305,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-16 23:08:19",
+        "generatedAt": "2026-07-16 23:14:26",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
