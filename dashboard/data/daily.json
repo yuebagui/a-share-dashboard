@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-17",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-17 17:31:02",
+    "generatedAt": "2026-07-17 18:04:42",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -2690,7 +2690,7 @@
       "tags": [
         "通信设备"
       ],
-      "reason": "连续跌停 1，封单 3.5亿，开板 6 次"
+      "reason": "连续跌停 1，封单 3.5亿，开板 7 次"
     },
     {
       "code": "002851",
@@ -78101,10 +78101,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-17",
-    "generatedAt": "2026-07-17 17:31:36",
+    "generatedAt": "2026-07-17 18:05:20",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、金融、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
         "name": "有色稀土",
@@ -78112,95 +78112,123 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 6,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 4,
+        "name": "金融",
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "祥源新材:关于股东股份解除质押的公告",
-        "summary": "祥源新材(300980)：祥源新材:关于股东股份解除质押的公告",
+        "title": "常山药业:股票交易异常波动公告",
+        "summary": "常山药业(300255)：常山药业:股票交易异常波动公告",
         "publishedAt": "2026-07-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300980/AN202607171827055067.html",
+        "url": "https://data.eastmoney.com/notices/detail/300255/AN202607171827056334.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "祥源新材(300980)"
+          "常山药业(300255)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "ST南都:关于公司新增累计诉讼及仲裁情况的公告",
+        "summary": "ST南都(300068)：ST南都:关于公司新增累计诉讼及仲裁情况的公告",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300068/AN202607171827059778.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST南都(300068)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "古鳌科技:关于公司5%以上股东部分股份解除司法冻结及轮候冻结生效的公告",
+        "summary": "古鳌科技(300551)：古鳌科技:关于公司5%以上股东部分股份解除司法冻结及轮候冻结生效的公告",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300551/AN202607171827059688.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "古鳌科技(300551)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "贝达药业:关于盐酸埃克替尼片IA2高风险-IB期术后辅助治疗适应症获得临床试验批准通知书的公告",
-        "summary": "贝达药业(300558)：贝达药业:关于盐酸埃克替尼片IA2高风险-IB期术后辅助治疗适应症获得临床试验批准通知书的公告",
+        "title": "亿联网络:关于实际控制人的一致行动人减持计划实施完毕暨权益变动比例触及1%整数倍的公告",
+        "summary": "亿联网络(300628)：亿联网络:关于实际控制人的一致行动人减持计划实施完毕暨权益变动比例触及1%整数倍的公告",
         "publishedAt": "2026-07-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300558/AN202607171827054997.html",
+        "url": "https://data.eastmoney.com/notices/detail/300628/AN202607171827059689.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "医药"
-        ],
+        "themes": [],
         "tickers": [
-          "贝达药业(300558)"
+          "亿联网络(300628)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "权益变动报告书"
       },
       {
-        "title": "恩威医药:关于控股股东部分股份解除司法冻结的公告",
-        "summary": "恩威医药(301331)：恩威医药:关于控股股东部分股份解除司法冻结的公告",
+        "title": "万集科技:关于控股股东、实际控制人部分股份质押的公告",
+        "summary": "万集科技(300552)：万集科技:关于控股股东、实际控制人部分股份质押的公告",
         "publishedAt": "2026-07-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301331/AN202607171827054963.html",
+        "url": "https://data.eastmoney.com/notices/detail/300552/AN202607171827059401.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "医药"
-        ],
+        "themes": [],
         "tickers": [
-          "恩威医药(301331)"
+          "万集科技(300552)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "六部门开展2026年度智能工厂梯度培育行动",
-        "summary": "【六部门开展2026年度智能工厂梯度培育行动】为推动制造业数智化转型升级，加快发展新一代智能制造，工业和信息化部、国家发展改革委、财政部、国务院国资委、市场监管总局、国家数据局联合开展2026年度智能工厂梯度培育行动。",
-        "publishedAt": "2026-07-17 17:19:17",
+        "title": "天域生物：实际控制人罗卫国收到证监会行政处罚事先告知书",
+        "summary": "【天域生物：实际控制人罗卫国收到证监会行政处罚事先告知书】天域生物(603717.SH)公告称，公司实际控制人罗卫国收到证监会重庆监管局下发的《行政处罚事先告知书》。",
+        "publishedAt": "2026-07-17 17:44:16",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607173811113553.html",
+        "url": "https://finance.eastmoney.com/a/202607173811127430.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -78210,165 +78238,167 @@
         "noticeType": ""
       },
       {
-        "title": "东亚药业:投资者关系活动记录表",
-        "summary": "东亚药业(605177)：东亚药业:投资者关系活动记录表",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605177/AN202607171827055759.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东亚药业(605177)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "宁波银行:2026年7月17日投资者关系活动记录表",
-        "summary": "宁波银行(002142)：宁波银行:2026年7月17日投资者关系活动记录表",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002142/AN202607171827055390.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "宁波银行(002142)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "东方电热:关于与专业投资机构合作投资设立产业基金的进展公告",
-        "summary": "东方电热(300217)：东方电热:关于与专业投资机构合作投资设立产业基金的进展公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300217/AN202607171827055395.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东方电热(300217)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "东方电热:关于在泰国设立子公司并建设生产基地的进展公告",
-        "summary": "东方电热(300217)：东方电热:关于在泰国设立子公司并建设生产基地的进展公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300217/AN202607171827055396.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东方电热(300217)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "通光线缆:重大合同预中标提示性公告",
-        "summary": "通光线缆(300265)：通光线缆:重大合同预中标提示性公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300265/AN202607171827054902.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "通光线缆(300265)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "华纳药厂:投资者关系活动记录表(2026年7月14日、7月16日)",
-        "summary": "华纳药厂(688799)：华纳药厂:投资者关系活动记录表(2026年7月14日、7月16日)",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688799/AN202607171827054476.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华纳药厂(688799)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "成都银行:成都银行股份有限公司投资者关系活动记录表(2026年4月-2026年6月)",
-        "summary": "成都银行(601838)：成都银行:成都银行股份有限公司投资者关系活动记录表(2026年4月-2026年6月)",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601838/AN202607171827054475.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "成都银行(601838)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "晶华微:投资者关系活动记录表(20260716)",
-        "summary": "晶华微(688130)：晶华微:投资者关系活动记录表(20260716)",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688130/AN202607171827054478.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "晶华微(688130)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "祥生医疗:无锡祥生医疗科技股份有限公司2026年投资者关系活动记录表-2026年7月4日-2026年7月13日",
-        "summary": "祥生医疗(688358)：祥生医疗:无锡祥生医疗科技股份有限公司2026年投资者关系活动记录表-2026年7月4日-2026年7月13日",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688358/AN202607171827054474.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "祥生医疗(688358)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "三安光电：董事长林志强增持计划实施完毕 6月12日～7月17日累计增持3988万元",
-        "summary": "【三安光电：董事长林志强增持计划实施完毕 6月12日～7月17日累计增持3988万元】三安光电(600703.SH)公告称，公司董事长林志强增持计划实施完毕，6月12日～7月17日累计增持公司股份280万股，占总股本0.06%，增持金额3988.08万元。",
-        "publishedAt": "2026-07-17 17:13:59",
+        "title": "诺贝尔奖得主德米斯·哈萨比斯呼吁就人工智能发展制定国际准则",
+        "summary": "【诺贝尔奖得主德米斯·哈萨比斯呼吁就人工智能发展制定国际准则】谷歌旗下“深层思维”公司首席执行官、诺贝尔化学奖得主德米斯·哈萨比斯近日在社交媒体发布题为《前沿人工智能治理框架与新时代的曙光》长篇文章，阐述人工智能技术的发展潜力与安全风险，呼吁就人工智能发展制定统一的国际准则。",
+        "publishedAt": "2026-07-17 17:34:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607173811105921.html",
+        "url": "https://finance.eastmoney.com/a/202607173811123021.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "000811冰轮环境投资者关系管理信息20260717",
+        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20260717",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000811/AN202607171827049134.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "冰轮环境(000811)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "汽轮科技:300277汽轮科技投资者关系管理信息20260717",
+        "summary": "汽轮科技(300277)：汽轮科技:300277汽轮科技投资者关系管理信息20260717",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300277/AN202607171827059665.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汽轮科技(300277)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "晨光生物:关于回购股份事项前十名股东及前十名无限售条件股东持股信息的公告",
+        "summary": "晨光生物(300138)：晨光生物:关于回购股份事项前十名股东及前十名无限售条件股东持股信息的公告",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300138/AN202607171827059690.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "晨光生物(300138)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "鸿富瀚:关于控股股东、实际控制人、董事长兼总经理提议公司回购股份的公告",
+        "summary": "鸿富瀚(301086)：鸿富瀚:关于控股股东、实际控制人、董事长兼总经理提议公司回购股份的公告",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301086/AN202607171827059693.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "鸿富瀚(301086)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "盈康生命:关于以集中竞价交易方式回购公司股份方案的公告",
+        "summary": "盈康生命(300143)：盈康生命:关于以集中竞价交易方式回购公司股份方案的公告",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300143/AN202607171827059691.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "盈康生命(300143)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "海能实业:2026年半年度业绩预告",
+        "summary": "海能实业(300787)：海能实业:2026年半年度业绩预告",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300787/AN202607171827059692.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海能实业(300787)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "300201海伦哲投资者关系管理信息20260717",
+        "summary": "海伦哲(300201)：300201海伦哲投资者关系管理信息20260717",
+        "publishedAt": "2026-07-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300201/AN202607171827059139.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海伦哲(300201)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "广西能源：拟投资83.34亿元建设广西贺州抽水蓄能电站",
+        "summary": "【广西能源：拟投资83.34亿元建设广西贺州抽水蓄能电站】广西能源(600310.SH)公告称，公司拟投资83.34亿元(动态总投资)建设广西贺州抽水蓄能电站，设计装机容量140万千瓦，预计于“十六五”中后期全面建成投产。该项目旨在落实国家“双碳”战略，优化电源结构，提升清洁能源装机比重。本次投资尚需提交股东会审议。",
+        "publishedAt": "2026-07-17 17:57:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607173811135083.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "开润股份：子公司间接投资DeepSeek 穿透持股比例为0.0114%",
+        "summary": "【开润股份：子公司间接投资DeepSeek，穿透持股比例为0.0114%】开润股份7月17日发布公告，公司全资子公司宁波浦润投资合伙企业通过天津砺思星灵创业投资合伙企业间接投资杭州深度求索人工智能基础技术研究有限公司4000万元，穿透持股比例为0.0114%，仅作为财务性投资，对公司整体业绩不构成重大影响。",
+        "publishedAt": "2026-07-17 17:37:38",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607173811125641.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -78397,38 +78427,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月16日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月16日iShares黄金持仓-每日更新(吨)；公布 461.74，预期 nan，前值 461.74。",
-        "publishedAt": "2026-07-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月15日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国7月15日COMEX黄金库存-每日更新(百盎司)；公布 271189.02，预期 nan，前值 271189.02。",
-        "publishedAt": "2026-07-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -78521,15 +78519,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-17 17:31:36",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、金融、医药。",
+        "generatedAt": "2026-07-17 18:05:20",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、元件；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -78560,7 +78558,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-17 17:31:02",
+        "generatedAt": "2026-07-17 18:04:42",
         "summary": "上午情绪分 0，涨停 33 家，跌停 192 家，炸板 10 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -78599,7 +78597,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-17 17:31:02",
+        "generatedAt": "2026-07-17 18:04:42",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -78625,7 +78623,7 @@
               "今日炸板 10 只，追高前先看前排封单和回封质量。",
               "今日跌停 192 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：祥源新材:关于股东股份解除质押的公告；贝达药业:关于盐酸埃克替尼片IA2高风险-IB期术后辅助治疗适应症获得临床试验批准通知书的公告。",
+              "新闻/公告风险：常山药业:股票交易异常波动公告；ST南都:关于公司新增累计诉讼及仲裁情况的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
