@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-20",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-20 19:07:39",
+    "generatedAt": "2026-07-20 23:16:22",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -69941,34 +69941,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-20",
-    "generatedAt": "2026-07-20 19:08:29",
+    "generatedAt": "2026-07-20 23:17:28",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 24,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 3,
+        "name": "能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -69980,14 +69965,25 @@
         "name": "医药",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "富临精工:关于向特定对象发行股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "富临精工(300432)：富临精工:关于向特定对象发行股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300432/AN202607201827154293.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "富临精工(300432)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
       {
         "title": "安靠智电:关于公司实际控制人减持计划提前终止的公告",
         "summary": "安靠智电(300617)：安靠智电:关于公司实际控制人减持计划提前终止的公告",
@@ -70005,20 +70001,50 @@
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "汇金股份:关于公司股票交易异常波动的公告",
-        "summary": "汇金股份(300368)：汇金股份:关于公司股票交易异常波动的公告",
+        "title": "关于成都智明达电子股份有限公司相关重要事项的监管工作函",
+        "summary": "智明达(688636)：关于成都智明达电子股份有限公司相关重要事项的监管工作函",
         "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300368/AN202607201827153025.html",
+        "url": "https://data.eastmoney.com/notices/detail/688636/AN202607201827158991.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "汇金股份(300368)"
+          "智明达(688636)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "上交所股票监管工作函"
+      },
+      {
+        "title": "国内商品期市夜盘收盘多数下跌 能源品跌幅居前",
+        "summary": "【国内商品期市夜盘收盘多数下跌 能源品跌幅居前】国内商品期市夜盘收盘多数下跌，能源品跌幅居前，国内商品期市夜盘收盘多数下跌，能源品跌幅居前，INE低硫燃料油跌2.95%；黑色系全部下跌，DCE焦煤跌2.73%；化工品多数下跌，CZCEPTA跌2.29%；非金属建材涨跌参半，CZCE玻璃跌0.44%；农副产品多数下跌，DCE玉米跌0.26%；油脂油料涨幅居前…",
+        "publishedAt": "2026-07-20 23:01:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607203813731689.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "苹果股价下跌2.1%",
+        "summary": "【苹果股价下跌2.1%】苹果股价下跌2.1%，报326.88美元/股，总市值报4.80万亿美元。",
+        "publishedAt": "2026-07-20 22:32:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607203813704231.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "苏大维格:2026年半年度业绩预告",
@@ -70055,233 +70081,171 @@
         "noticeType": "首发上市公告书"
       },
       {
-        "title": "聚仁新材:关于向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
-        "summary": "聚仁新材(920258)：聚仁新材:关于向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
+        "title": "京东方Ａ:033-2026年7月20日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:033-2026年7月20日投资者关系活动记录表",
         "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920258/AN202607201827153753.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "聚仁新材(920258)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "301603乔锋智能投资者关系管理信息20260720",
-        "summary": "乔锋智能(301603)：301603乔锋智能投资者关系管理信息20260720",
-        "publishedAt": "2026-07-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301603/AN202607201827153126.html",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202607201827161836.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "乔锋智能(301603)"
+          "京东方A(000725)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "新产业:2026年限制性股票激励计划(草案)摘要",
-        "summary": "新产业(300832)：新产业:2026年限制性股票激励计划(草案)摘要",
+        "title": "胜宏科技:2026年A股限制性股票激励计划自查表",
+        "summary": "胜宏科技(300476)：胜宏科技:2026年A股限制性股票激励计划自查表",
         "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300832/AN202607201827153152.html",
+        "url": "https://data.eastmoney.com/notices/detail/300476/AN202607201827158329.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "新产业(300832)"
+          "胜宏科技(300476)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "胜宏科技:2026年A股限制性股票激励计划(草案)摘要",
+        "summary": "胜宏科技(300476)：胜宏科技:2026年A股限制性股票激励计划(草案)摘要",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300476/AN202607201827158331.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "胜宏科技(300476)"
         ],
         "importance": 1,
         "noticeType": "股权激励计划摘要"
       },
       {
-        "title": "新产业:2026年限制性股票激励计划自查表",
-        "summary": "新产业(300832)：新产业:2026年限制性股票激励计划自查表",
+        "title": "胜宏科技:2026年A股限制性股票激励计划(草案)",
+        "summary": "胜宏科技(300476)：胜宏科技:2026年A股限制性股票激励计划(草案)",
         "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300832/AN202607201827153157.html",
+        "url": "https://data.eastmoney.com/notices/detail/300476/AN202607201827158337.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "新产业(300832)"
+          "胜宏科技(300476)"
         ],
         "importance": 1,
         "noticeType": "股权激励计划"
       },
       {
-        "title": "新产业:2026年限制性股票激励计划(草案)",
-        "summary": "新产业(300832)：新产业:2026年限制性股票激励计划(草案)",
+        "title": "300979华利集团投资者关系管理信息20260720",
+        "summary": "华利集团(300979)：300979华利集团投资者关系管理信息20260720",
         "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300832/AN202607201827153155.html",
+        "url": "https://data.eastmoney.com/notices/detail/300979/AN202607201827158133.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "新产业(300832)"
+          "华利集团(300979)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "调研活动"
       },
       {
-        "title": "晨光生物:回购报告书",
-        "summary": "晨光生物(300138)：晨光生物:回购报告书",
+        "title": "300502新易盛投资者关系管理信息20260719",
+        "summary": "新易盛(300502)：300502新易盛投资者关系管理信息20260719",
         "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300138/AN202607201827153026.html",
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202607201827158007.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "晨光生物(300138)"
+          "新易盛(300502)"
         ],
         "importance": 1,
-        "noticeType": "回购报告书"
+        "noticeType": "调研活动"
       },
       {
-        "title": "晨光生物:关于回购股份予以注销并减少注册资本通知债权人的公告",
-        "summary": "晨光生物(300138)：晨光生物:关于回购股份予以注销并减少注册资本通知债权人的公告",
+        "title": "仙乐健康:关于投资建设泰国生产基地二期工程的公告",
+        "summary": "仙乐健康(300791)：仙乐健康:关于投资建设泰国生产基地二期工程的公告",
         "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300138/AN202607201827153027.html",
+        "url": "https://data.eastmoney.com/notices/detail/300791/AN202607201827157898.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "晨光生物(300138)"
+          "仙乐健康(300791)"
         ],
         "importance": 1,
-        "noticeType": "公司注册资本变更"
+        "noticeType": "对外项目投资"
       },
       {
-        "title": "矩子科技:关于回购公司股份方案的公告暨回购报告书",
-        "summary": "矩子科技(300802)：矩子科技:关于回购公司股份方案的公告暨回购报告书",
-        "publishedAt": "2026-07-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300802/AN202607201827152578.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "矩子科技(300802)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "金龙鱼：控股股东自愿延长限售股份锁定期12个月",
-        "summary": "【金龙鱼：控股股东自愿延长限售股份锁定期12个月】金龙鱼(300999.SZ)公告称，公司控股股东丰益香港基于对公司未来发展前景的信心，自愿将所持有的公司首发前限售股份4,878,944,439股(占总股本89.99%)的锁定期延长12个月，即从2026年10月16日延长至2027年10月16日。丰益香港承诺在锁定期内不转让或委托管理该部分股份，也不由公司…",
-        "publishedAt": "2026-07-20 19:05:04",
+        "title": "上海浦东国际机场口岸年度出入境人员突破2000万",
+        "summary": "【上海浦东国际机场口岸年度出入境人员突破2000万】据“上海发布”微信公众号消息，上海边检总站介绍，截至7月19日，浦东机场口岸今年出入境客流突破2000万人次，出入境客流稳居全国空港口岸首位。当前外籍入境、暑期出境、国际展会客流叠加，边检站多措并举优化通关服务，全方位保障中外旅客顺畅出行。",
+        "publishedAt": "2026-07-20 22:50:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607203813462296.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "川投能源：控股股东拟增持2亿至3亿元股份",
-        "summary": "【川投能源：控股股东拟增持2亿至3亿元股份】川投能源(600674.SH)公告称，公司控股股东四川能源发展集团计划自2026年7月21日起6个月内，通过集中竞价或大宗交易方式增持公司股份，增持金额不低于2亿元，不超过3亿元。",
-        "publishedAt": "2026-07-20 18:55:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607203813442996.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "苏大维格：预计2026年半年度净利润同比增长58.18%-105.63%",
-        "summary": "【苏大维格：预计2026年半年度净利润同比增长58.18%-105.63%】苏大维格(300331.SZ)公告称，预计2026年半年度归属于上市公司股东的净利润为4850万元-6305万元，同比增长58.18%-105.63%。业绩变动主要系维普半导体纳入合并报表，设备订单增长带动收入规模快速提升，净利润同比扭亏并大幅增长。",
-        "publishedAt": "2026-07-20 18:52:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607203813441277.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "广州开发区投资集团完成对星河动力投资",
-        "summary": "【广州开发区投资集团完成对星河动力投资】7月20日，广州开发区投资集团宣布，集团通过穗开投资旗下自管基金完成对北京星河动力航天科技股份有限公司（简称“星河动力”）的投资。据介绍，星河动力以苍穹-50为主动力系统的智神星一号中大型可重复使用液体运载火箭，将于近期迎来首飞，后续将开展回收试验。",
-        "publishedAt": "2026-07-20 18:52:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607203813443795.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "军工"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "矩子科技：拟以8000万元至1.6亿元回购公司股份",
-        "summary": "【矩子科技：拟以8000万元至1.6亿元回购公司股份】7月20日，矩子科技公告，拟以8000万元至1.6亿元回购公司股份，回购价格不超过29.9元/股。",
-        "publishedAt": "2026-07-20 18:51:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607203813445589.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "新亚制程：控股股东及其一致行动人拟增持1%—2%公司股份",
-        "summary": "【新亚制程：控股股东及其一致行动人拟增持1%—2%公司股份】新亚制程公告，控股股东保信央地及其一致行动人拟实施增持公司股份计划，计划于自2026年7月21日起的6个月内增持公司股份，拟增持股份不少于510.7万股（占公司目前总股本的1%），不高于1021.4万股（占公司目前总股本的2%），本次增持价格不超过5.5元/股。",
-        "publishedAt": "2026-07-20 18:51:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607203813439413.html",
+        "url": "https://finance.eastmoney.com/a/202607203813726059.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "新西兰6月贸易帐(亿纽元)",
+        "summary": "新西兰6月贸易帐(亿纽元)；公布 0.23，预期 nan，前值 8.0。",
+        "publishedAt": "2026-07-20 06:45",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月五年期贷款市场报价利率LPR(%)",
+        "summary": "中国7月五年期贷款市场报价利率LPR(%)；公布 3.5，预期 3.5，前值 3.5。",
+        "publishedAt": "2026-07-20 09:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月一年期贷款市场报价利率LPR(%)",
+        "summary": "中国7月一年期贷款市场报价利率LPR(%)；公布 3.0，预期 3.0，前值 3.0。",
+        "publishedAt": "2026-07-20 09:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -70568,15 +70532,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-20 19:08:29",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-07-20 23:17:28",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：同花顺中特估100、电力、保险；首看 同花顺中特估100 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -70607,7 +70571,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-20 19:07:39",
+        "generatedAt": "2026-07-20 23:16:22",
         "summary": "上午情绪分 0，涨停 53 家，跌停 211 家，炸板 38 家，连板 7 家，最高 3 板。",
         "sections": [
           {
@@ -70646,7 +70610,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-20 19:07:39",
+        "generatedAt": "2026-07-20 23:16:22",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -70672,7 +70636,7 @@
               "今日炸板 38 只，追高前先看前排封单和回封质量。",
               "今日跌停 211 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 同花顺中特估100，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：安靠智电:关于公司实际控制人减持计划提前终止的公告；汇金股份:关于公司股票交易异常波动的公告。",
+              "新闻/公告风险：富临精工:关于向特定对象发行股票审核问询函回复及募集说明书等申请文件更新的提示性公告；安靠智电:关于公司实际控制人减持计划提前终止的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
