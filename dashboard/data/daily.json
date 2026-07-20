@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-17",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-17 22:54:17",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-17 22:54:17",
+    "lastNewsAt": "2026-07-20 12:22:54"
   },
   "indices": [
     {
@@ -78100,148 +78102,60 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-17",
-    "generatedAt": "2026-07-17 22:55:25",
+    "tradeDate": "2026-07-20",
+    "generatedAt": "2026-07-20 12:22:54",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、能源、新能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 12,
+        "name": "金融",
+        "score": 26,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
+        "score": 22,
         "isFocusBoard": false
       },
       {
         "name": "新能源",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST泉为:关于控股股东部分股份质押的公告",
-        "summary": "*ST泉为(300716)：*ST泉为:关于控股股东部分股份质押的公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300716/AN202607171827060132.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST泉为(300716)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "英飞特:关于控股股东部分股份解除质押的公告",
-        "summary": "英飞特(300582)：英飞特:关于控股股东部分股份解除质押的公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300582/AN202607171827061747.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "英飞特(300582)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "*ST易录:关于重大诉讼情况的公告",
-        "summary": "*ST易录(300212)：*ST易录:关于重大诉讼情况的公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300212/AN202607171827060202.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST易录(300212)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "常山药业:股票交易异常波动公告",
-        "summary": "常山药业(300255)：常山药业:股票交易异常波动公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300255/AN202607171827056334.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "常山药业(300255)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "发行人及中介机构回复意见(扬腾创新(福建)信息科技股份有限公司)",
-        "summary": "扬腾创新(A26067)：发行人及中介机构回复意见(扬腾创新(福建)信息科技股份有限公司)",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26067/AN202607171827064503.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "扬腾创新(A26067)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
-      },
-      {
-        "title": "金刚光伏:关于控股股东部分股份解除质押暨再质押的公告",
-        "summary": "金刚光伏(300093)：金刚光伏:关于控股股东部分股份解除质押暨再质押的公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300093/AN202607171827063968.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "新能源"
-        ],
-        "tickers": [
-          "金刚光伏(300093)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "美联储官员哈玛克：美联储的双重使命之间不存在任何冲突",
-        "summary": "【美联储官员哈玛克：美联储的双重使命之间不存在任何冲突】美联储官员哈玛克表示，美联储的双重使命之间不存在任何冲突。持续高企的通胀才是更大的隐忧。",
-        "publishedAt": "2026-07-17 22:06:03",
+        "title": "上汽集团：控股股东承诺6个月内不以任何方式减持其持有的公司股份",
+        "summary": "【上汽集团：控股股东承诺6个月内不以任何方式减持其持有的公司股份】上汽集团公告，收到控股股东承诺函，上汽总公司承诺自承诺函签署之日（2026年7月20日）起6个月内，不以任何方式减持其持有的公司股份，包括因公司资本公积转增股本、派送股票红利等事项取得的新增股份。",
+        "publishedAt": "2026-07-20 12:17:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607173811347718.html",
+        "url": "https://finance.eastmoney.com/a/202607203812715868.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -78251,173 +78165,299 @@
         "noticeType": ""
       },
       {
-        "title": "美股存储板块集体拉升收复跌幅 SK海力士涨4.6%",
-        "summary": "【美股存储板块集体拉升收复跌幅 SK海力士涨4.6%】美股存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。截至发稿，SK海力士股价上涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
-        "publishedAt": "2026-07-17 22:03:01",
+        "title": "午评：沪指、创业板指均涨超1% 煤炭、电力板块集体反弹",
+        "summary": "【午评：沪指、创业板指均涨超1% 煤炭、电力板块集体反弹】市场早盘高开回落后再度走高，创业板指探底回升涨超1%。沪深两市半日成交额1.67万亿，较上个交易日放量681亿。盘面上热点快速轮动，全市场超2900只个股上涨。从板块来看，电力板块爆发，华银电力、乐山电力2连板，涪陵电力、晋控电力涨停。煤炭板块走强，昊华能源、大有能源、郑州煤电涨停。白酒概念震荡拉升…",
+        "publishedAt": "2026-07-20 11:32:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607173811344894.html",
+        "url": "https://finance.eastmoney.com/a/202607203812707168.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "半导体"
+          "有色稀土",
+          "医药",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "纳斯达克100指数跌幅收窄至2%",
-        "summary": "纳斯达克100指数跌幅收窄至2%，此前盘中一度下跌2.7%。",
-        "publishedAt": "2026-07-17 21:57:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607173811342948.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "先导智能:关于公司2025年限制性股票激励计划第一个归属期归属条件成就的公告",
-        "summary": "先导智能(300450)：先导智能:关于公司2025年限制性股票激励计划第一个归属期归属条件成就的公告",
-        "publishedAt": "2026-07-17",
+        "title": "三峡能源:中国三峡新能源(集团)股份有限公司关于控股股东增持股份计划公告",
+        "summary": "三峡能源(600905)：三峡能源:中国三峡新能源(集团)股份有限公司关于控股股东增持股份计划公告",
+        "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300450/AN202607171827062326.html",
+        "url": "https://data.eastmoney.com/notices/detail/600905/AN202607201827135500.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "新能源",
+          "能源"
+        ],
         "tickers": [
-          "先导智能(300450)"
+          "三峡能源(600905)"
         ],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": "股东/实际控制人股份增持"
       },
       {
-        "title": "方盛股份:2026年限制性股票激励计划(草案)",
-        "summary": "方盛股份(920662)：方盛股份:2026年限制性股票激励计划(草案)",
-        "publishedAt": "2026-07-17",
+        "title": "红塔证券:红塔证券股份有限公司关于董事长提议回购公司部分股份的提示性公告",
+        "summary": "红塔证券(601236)：红塔证券:红塔证券股份有限公司关于董事长提议回购公司部分股份的提示性公告",
+        "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920662/AN202607171827061968.html",
+        "url": "https://data.eastmoney.com/notices/detail/601236/AN202607201827135324.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "方盛股份(920662)"
+          "红塔证券(601236)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "回购预案"
       },
       {
-        "title": "恒誉环保:投资者关系活动记录表",
-        "summary": "恒誉环保(688309)：恒誉环保:投资者关系活动记录表",
-        "publishedAt": "2026-07-17",
+        "title": "海尔智家:海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+        "summary": "海尔智家(600690)：海尔智家:海尔智家股份有限公司关于以集中竞价交易方式回购A股股份的进展公告",
+        "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688309/AN202607171827060567.html",
+        "url": "https://data.eastmoney.com/notices/detail/600690/AN202607201827134843.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "海尔智家(600690)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "上海机场:上海机场关于收到控股股东提议提升2026年度中期现金分红比例的公告",
+        "summary": "上海机场(600009)：上海机场:上海机场关于收到控股股东提议提升2026年度中期现金分红比例的公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600009/AN202607201827134679.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "上海机场(600009)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "正泰电器:正泰电器关于收到控股股东2026年度中期分红提议的公告",
+        "summary": "正泰电器(601877)：正泰电器:正泰电器关于收到控股股东2026年度中期分红提议的公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601877/AN202607201827134640.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "正泰电器(601877)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "璞泰来:上海璞泰来新能源科技集团股份有限公司2026年半年度业绩预告暨自愿性披露公告",
+        "summary": "璞泰来(603659)：璞泰来:上海璞泰来新能源科技集团股份有限公司2026年半年度业绩预告暨自愿性披露公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603659/AN202607201827134631.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "新能源",
+          "能源"
+        ],
+        "tickers": [
+          "璞泰来(603659)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "大中矿业:关于股份回购进展情况的公告",
+        "summary": "大中矿业(001203)：大中矿业:关于股份回购进展情况的公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001203/AN202607201827130088.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "大中矿业(001203)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "国投电力:国投电力控股股份有限公司关于控股股东增持公司股份计划的公告",
+        "summary": "国投电力(600886)：国投电力:国投电力控股股份有限公司关于控股股东增持公司股份计划的公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600886/AN202607201827130084.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "国投电力(600886)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "深天马Ａ:2026年7月17日投资者关系活动记录表",
+        "summary": "深天马A(000050)：深天马Ａ:2026年7月17日投资者关系活动记录表",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000050/AN202607201827129625.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "恒誉环保(688309)"
+          "深天马A(000050)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "000811冰轮环境投资者关系管理信息20260717",
-        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20260717",
-        "publishedAt": "2026-07-17",
+        "title": "中煤能源:中国中煤能源股份有限公司关于控股股东增持公司股份计划的公告",
+        "summary": "中煤能源(601898)：中煤能源:中国中煤能源股份有限公司关于控股股东增持公司股份计划的公告",
+        "publishedAt": "2026-07-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000811/AN202607171827049134.html",
+        "url": "https://data.eastmoney.com/notices/detail/601898/AN202607201827125725.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "冰轮环境(000811)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "英飞特:关于与关联方共同投资设立合资公司暨关联交易的公告",
-        "summary": "英飞特(300582)：英飞特:关于与关联方共同投资设立合资公司暨关联交易的公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300582/AN202607171827063797.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "英飞特(300582)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "翰博高新:关于与专业投资机构共同投资产业基金的公告",
-        "summary": "翰博高新(301321)：翰博高新:关于与专业投资机构共同投资产业基金的公告",
-        "publishedAt": "2026-07-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301321/AN202607171827063688.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "翰博高新(301321)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "美国截至7月15日美联储资产负债表(万亿美元)",
-        "summary": "美国截至7月15日美联储资产负债表(万亿美元)；公布 674.3，预期 nan，前值 674.0。",
-        "publishedAt": "2026-07-17 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月16日iShares白银持仓-每日更新(吨)",
-        "summary": "美国7月16日iShares白银持仓-每日更新(吨)；公布 14993.83，预期 nan，前值 14957.28。",
-        "publishedAt": "2026-07-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月16日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月16日iShares黄金持仓-每日更新(吨)；公布 461.74，预期 nan，前值 461.74。",
-        "publishedAt": "2026-07-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
         "themes": [
-          "有色稀土"
+          "能源"
+        ],
+        "tickers": [
+          "中煤能源(601898)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "中国中车:中国中车控股股东增持股份计划公告",
+        "summary": "中国中车(601766)：中国中车:中国中车控股股东增持股份计划公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601766/AN202607201827125233.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中国中车(601766)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "国电南瑞:国电南瑞关于董事长提议回购公司部分股份的提示性公告",
+        "summary": "国电南瑞(600406)：国电南瑞:国电南瑞关于董事长提议回购公司部分股份的提示性公告",
+        "publishedAt": "2026-07-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600406/AN202607201827125103.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国电南瑞(600406)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "中国太保：将继续投资科技成长、消费、新能源等领域股票及ETF",
+        "summary": "【中国太保：将继续投资科技成长、消费、新能源等领域股票及ETF】中国太保(601601)7月20日午间公告，今年以来，公司持续发挥保险资金长期投资优势，加大权益配置比例。后续将继续投资科技成长、消费、新能源等领域股票及ETF，支持培育和发展新质生产力，做真正的市场耐心资本。2026年，公司着力优化分红节奏，积极筹备中期利润分配工作，根据公司2025年度股东…",
+        "publishedAt": "2026-07-20 12:15:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607203812714867.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "新能源",
+          "金融",
+          "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "海尔智家：已耗资18.18亿元回购8706.22万股公司股份",
+        "summary": "【海尔智家：已耗资18.18亿元回购8706.22万股公司股份】海尔智家发布回购A股股份的进展公告，本次回购实施起始日（2026年3月27日）至2026年7月17日，公司已累计回购股份8706.22万股，占公司总股本的比例为0.928%，购买的最高价为22.4元/股、最低价为19.6元/股，支付的金额为18.18亿元。",
+        "publishedAt": "2026-07-20 12:02:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607203812712521.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "部分重大项目下半年陆续开工 多专家预计基建投资增速将回升",
+        "summary": "【部分重大项目下半年陆续开工 多专家预计基建投资增速将回升】随着下半年财政资金投入基建节奏加快、相关项目加快推进，多位专家预期，下半年基建投资增速将有所回升。",
+        "publishedAt": "2026-07-20 11:39:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607203812706249.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "我国人工智能开源大模型全球累计下载量突破100亿次",
+        "summary": "【我国人工智能开源大模型全球累计下载量突破100亿次】今天上午，国务院新闻办公室举办新闻发布会。会上，工业和信息化部相关负责人表示，今年以来，我国创新能力不断增强，一系列创新成果持续涌现。",
+        "publishedAt": "2026-07-20 11:36:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607203812707780.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -78495,7 +78535,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -78508,15 +78548,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-17 22:55:25",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-07-20 12:22:54",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、能源、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、元件；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -78612,7 +78652,7 @@
               "今日炸板 10 只，追高前先看前排封单和回封质量。",
               "今日跌停 192 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST泉为:关于控股股东部分股份质押的公告；英飞特:关于控股股东部分股份解除质押的公告。",
+              "新闻/公告风险：上汽集团：控股股东承诺6个月内不以任何方式减持其持有的公司股份；午评：沪指、创业板指均涨超1% 煤炭、电力板块集体反弹。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
