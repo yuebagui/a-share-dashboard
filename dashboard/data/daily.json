@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-21",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-21 18:08:52",
+    "generatedAt": "2026-07-21 18:29:46",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -68994,20 +68994,15 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-21",
-    "generatedAt": "2026-07-21 18:10:00",
+    "generatedAt": "2026-07-21 18:30:44",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 金融、半导体、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 20,
+        "score": 21,
         "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 11,
-        "isFocusBoard": true
       },
       {
         "name": "有色稀土",
@@ -69016,7 +69011,12 @@
       },
       {
         "name": "AI算力",
-        "score": 7,
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -69059,6 +69059,22 @@
         "noticeType": "其他"
       },
       {
+        "title": "华康洁净:关于股东减持计划期限届满的公告",
+        "summary": "华康洁净(301235)：华康洁净:关于股东减持计划期限届满的公告",
+        "publishedAt": "2026-07-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301235/AN202607211827214765.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "华康洁净(301235)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
         "title": "丰光精密:关于对北京证券交易所2025年年报问询函回复的公告",
         "summary": "丰光精密(920510)：丰光精密:关于对北京证券交易所2025年年报问询函回复的公告",
         "publishedAt": "2026-07-21",
@@ -69093,102 +69109,6 @@
         "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "6-2国泰海通证券股份有限公司关于科达制造股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之核查意见(科达制造股份有限公司)",
-        "summary": "科达制造(600499)：6-2国泰海通证券股份有限公司关于科达制造股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之核查意见(科达制造股份有限公司)",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600499/AN202607211827214226.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "科达制造(600499)"
-        ],
-        "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
-      },
-      {
-        "title": "6-1科达制造股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复(科达制造股份有限公司)",
-        "summary": "科达制造(600499)：6-1科达制造股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复(科达制造股份有限公司)",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600499/AN202607211827214225.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "科达制造(600499)"
-        ],
-        "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
-      },
-      {
-        "title": "6-5金证(上海)资产评估有限公司关于上海证券交易所《关于科达制造股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》之回复(科达制造股份有限公司)",
-        "summary": "科达制造(600499)：6-5金证(上海)资产评估有限公司关于上海证券交易所《关于科达制造股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》之回复(科达制造股份有限公司)",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600499/AN202607211827214224.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "科达制造(600499)"
-        ],
-        "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
-      },
-      {
-        "title": "6-3容诚会计师事务所(特殊普通合伙)关于科达制造股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复(科达制造股份有限公司)",
-        "summary": "科达制造(600499)：6-3容诚会计师事务所(特殊普通合伙)关于科达制造股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复(科达制造股份有限公司)",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600499/AN202607211827214223.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "科达制造(600499)"
-        ],
-        "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
-      },
-      {
-        "title": "云赛智联：控股股东仪电集团承诺6个月内不减持公司股份",
-        "summary": "【云赛智联：控股股东仪电集团承诺6个月内不减持公司股份】7月21日，云赛智联(600602.SH)公告称，公司收到控股股东上海仪电(集团)有限公司出具的承诺函，仪电集团基于对公司未来发展前景的信心及内在投资价值的认可，承诺自2026年7月21日起6个月内，不以任何方式减持其持有的公司股份(包括因资本公积转增股本、派送股票红利等事项取得的新增股份)。",
-        "publishedAt": "2026-07-21 17:54:13",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815704764.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "汇丰策略师预警：中期选举前美股或迎回调风险 财报季结束后投资者应适当减仓",
-        "summary": "【汇丰策略师预警：中期选举前美股或迎回调风险 财报季结束后投资者应适当减仓】汇丰控股首席多资产策略师马克斯·凯特纳表示，股票投资者应考虑在本轮财报季结束后适当降低部分仓位。他警告称，市场情绪过热、财政刺激效应减弱以及美国中期选举带来的不确定性，都可能引发股市回调。",
-        "publishedAt": "2026-07-21 17:53:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815704847.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "浙大网新:浙大网新科技股份有限公司投资者关系活动记录表(2026-005)",
         "summary": "浙大网新(600797)：浙大网新:浙大网新科技股份有限公司投资者关系活动记录表(2026-005)",
         "publishedAt": "2026-07-21",
@@ -69203,6 +69123,72 @@
         ],
         "importance": 1,
         "noticeType": "调研活动"
+      },
+      {
+        "title": "壹网壹创:关于公司与关联方共同投资设立控股子公司暨关联交易的公告",
+        "summary": "壹网壹创(300792)：壹网壹创:关于公司与关联方共同投资设立控股子公司暨关联交易的公告",
+        "publishedAt": "2026-07-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300792/AN202607211827215478.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "壹网壹创(300792)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "沪电股份:2026年7月21日投资者关系活动记录表",
+        "summary": "沪电股份(002463)：沪电股份:2026年7月21日投资者关系活动记录表",
+        "publishedAt": "2026-07-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607211827215280.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "沪电股份(002463)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "赛意信息:2026年7月21日投资者关系活动记录表",
+        "summary": "赛意信息(300687)：赛意信息:2026年7月21日投资者关系活动记录表",
+        "publishedAt": "2026-07-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300687/AN202607211827214423.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "赛意信息(300687)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "飞南资源:关于部分限制性股票回购注销完成的公告",
+        "summary": "飞南资源(301500)：飞南资源:关于部分限制性股票回购注销完成的公告",
+        "publishedAt": "2026-07-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301500/AN202607211827214764.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "飞南资源(301500)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
       },
       {
         "title": "宇邦新材:2026年07月21日投资者关系活动记录表",
@@ -69239,29 +69225,43 @@
         "noticeType": "回购报告书"
       },
       {
-        "title": "中石科技:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "summary": "中石科技(300684)：中石科技:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300684/AN202607211827214403.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "小米集团于7月21日回购了180万股B类股份",
+        "summary": "【小米集团于7月21日回购了180万股B类股份】据港交所文件，小米集团于7月21日回购了180万股B类股份，交易金额为5000万港元。",
+        "publishedAt": "2026-07-21 18:25:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213815723292.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "中石科技(300684)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": ""
       },
       {
-        "title": "方大特钢：拟取得钢铁企投控制权 预计构成重大资产重组",
-        "summary": "【方大特钢：拟取得钢铁企投控制权 预计构成重大资产重组】7月21日，方大特钢(600507.SH)公告称，公司拟与其他合伙人协商，退出南昌沪旭并以实物分配等形式取得江西方大钢铁集团企业投资有限公司控制权，该交易预计构成重大资产重组及关联交易，不涉及发行股份，不会导致控股股东和实际控制人变更。",
-        "publishedAt": "2026-07-21 18:04:17",
+        "title": "永贵电器：拟以1亿元-1.5亿元回购公司股份",
+        "summary": "【永贵电器：拟以1亿元-1.5亿元回购公司股份】永贵电器公告，拟以1亿元-1.5亿元回购公司股份，用于实施员工持股计划、股权激励，或用于转换上市公司发行的可转换为股票的公司债券，回购价格为不超24.94元/股（含本数）。",
+        "publishedAt": "2026-07-21 18:25:27",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815705493.html",
+        "url": "https://finance.eastmoney.com/a/202607213815724391.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中远海特：拟委托中船澄西建造8艘6万吨级多用途重吊船 船价合计金额不超26.24亿元",
+        "summary": "【中远海特：拟委托中船澄西建造8艘6万吨级多用途重吊船 船价合计金额不超26.24亿元】7月21日，中远海特(600428.SH)公告称，公司全资子公司中远航运(香港)投资发展有限公司或所属公司作为投资主体，在中船澄西船舶修造有限公司投资建造8艘6万吨级多用途重吊船，船价合计金额不超过26.24亿元。预计交船时间为2029年4月至2030年6月。本次交易有…",
+        "publishedAt": "2026-07-21 18:16:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213815715277.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -69271,28 +69271,11 @@
         "noticeType": ""
       },
       {
-        "title": "澜起科技：公司DDR5 RCD芯片出货量显著增加",
-        "summary": "【澜起科技：公司DDR5 RCD芯片出货量显著增加】澜起科技在披露的投资者关系活动记录表中表示，上半年受益于AI产业趋势，行业需求旺盛：一方面，随着DDR5渗透率提高且子代持续迭代，公司DDR5 RCD芯片出货量显著增加，其中第三、第四子代RCD芯片的出货占比进一步提升；另一方面，互连类芯片新产品MRCD/MDB、PCIe Retimer、CKD及CXL …",
-        "publishedAt": "2026-07-21 18:00:08",
+        "title": "新加坡交易所推出Grab、Sea及SpaceX存托凭证 拓展美股投资渠道",
+        "summary": "【新加坡交易所推出Grab、Sea及SpaceX存托凭证 拓展美股投资渠道】新加坡交易所（SGX）宣布，将于7月22日开盘推出三只美国上市公司的新加坡存托凭证（SDR），分别对应Grab、Sea和SpaceX。这是SGX首次推出美国市场SDR产品，投资者可通过新加坡元交易相关资产。截至目前，SGX已提供覆盖泰国、中国香港、印度尼西亚及美国市场的38只SDR…",
+        "publishedAt": "2026-07-21 18:09:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815704198.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "沐曦股份、上海国资等成立创业投资基金",
-        "summary": "【沐曦股份、上海国资等成立创业投资基金】近日，淮安沐腾晨曦创业投资基金合伙企业（有限合伙）成立，出资额2亿元，经营范围包含：创业投资（限投资未上市企业）。股权穿透显示，该合伙企业由沐曦股份（688802）全资子公司沐曦数智（上海）科技有限公司、上海万昂投资管理有限公司等共同持股。",
-        "publishedAt": "2026-07-21 17:59:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815703854.html",
+        "url": "https://finance.eastmoney.com/a/202607213815711475.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -69302,17 +69285,31 @@
         "noticeType": ""
       },
       {
-        "title": "中国人寿：坚定支持资本市场发展并提升股东回报",
-        "summary": "【中国人寿：坚定支持资本市场发展并提升股东回报】中国人寿(601628.SH)公告称，公司坚定看好中国经济及资本市场发展前景，将发挥保险资金优势，持续加大对优质核心资产的布局，支持资本市场长期投资价值提升。同时，公司高度重视股东回报，2025年全年累计派息每10股8.56元(含税)，分红总额达241.95亿元。2026年将继续践行稳定向好的分红政策，增强分…",
-        "publishedAt": "2026-07-21 17:54:43",
+        "title": "海川智能：拟5000万元至1亿元回购股份",
+        "summary": "【海川智能：拟5000万元至1亿元回购股份】海川智能(300720.SZ)公告称，公司拟使用自有资金和/或自筹资金以集中竞价交易方式回购股份，回购资金总额不低于5000万元且不超过1亿元，回购价格不超过129.73元/股。回购股份将用于股权激励或员工持股计划，期限自董事会审议通过之日起12个月内。",
+        "publishedAt": "2026-07-21 18:07:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815705117.html",
+        "url": "https://finance.eastmoney.com/a/202607213815711846.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "德国投资者信心升至五个月高点 改革措施产生积极影响",
+        "summary": "【德国投资者信心升至五个月高点 改革措施产生积极影响】德国投资者信心升至五个月来的最高水平，显示市场寄望总理默茨的改革措施能够提振经济增长。ZEW institute的一项预期指数从6月的10.5升至26.3，这一数字远高于预期值15.3。",
+        "publishedAt": "2026-07-21 18:07:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213815711375.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -69391,15 +69388,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-21 18:10:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 金融、半导体、有色稀土。",
+        "generatedAt": "2026-07-21 18:30:44",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、半导体、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69430,7 +69427,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-21 18:08:52",
+        "generatedAt": "2026-07-21 18:29:46",
         "summary": "上午情绪分 92，涨停 121 家，跌停 21 家，炸板 8 家，连板 5 家，最高 4 板。",
         "sections": [
           {
@@ -69469,7 +69466,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-21 18:08:52",
+        "generatedAt": "2026-07-21 18:29:46",
         "summary": "市场温度 中，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
