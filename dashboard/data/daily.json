@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-21",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-21 18:29:46",
+    "generatedAt": "2026-07-21 23:08:46",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -68994,321 +68994,309 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-21",
-    "generatedAt": "2026-07-21 18:30:44",
+    "generatedAt": "2026-07-21 23:16:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "errors": [
+      "notices: ('Connection broken: IncompleteRead(16121 bytes read, 57469 more expected)', IncompleteRead(16121 bytes read, 57469 more expected))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 3 条；主题映射集中在 有色稀土、能源、医药。",
     "themes": [
       {
-        "name": "金融",
-        "score": 21,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST元道:北京国枫律师事务所关于元道通信股份有限公司2026年第二次临时股东会的法律意见书",
-        "summary": "*ST元道(301139)：*ST元道:北京国枫律师事务所关于元道通信股份有限公司2026年第二次临时股东会的法律意见书",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301139/AN202607211827212190.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST元道(301139)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "宁波建工:宁波建工股份有限公司关于子公司涉及诉讼进展公告",
-        "summary": "宁波建工(601789)：宁波建工:宁波建工股份有限公司关于子公司涉及诉讼进展公告",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601789/AN202607201827142234.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "宁波建工(601789)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "华康洁净:关于股东减持计划期限届满的公告",
-        "summary": "华康洁净(301235)：华康洁净:关于股东减持计划期限届满的公告",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301235/AN202607211827214765.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "华康洁净(301235)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "丰光精密:关于对北京证券交易所2025年年报问询函回复的公告",
-        "summary": "丰光精密(920510)：丰光精密:关于对北京证券交易所2025年年报问询函回复的公告",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920510/AN202607211827214587.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "丰光精密(920510)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "丰光精密:中兴华会计师事务所(特殊普通合伙)关于对青岛丰光精密机械股份有限公司年报问询函的专项说明",
-        "summary": "丰光精密(920510)：丰光精密:中兴华会计师事务所(特殊普通合伙)关于对青岛丰光精密机械股份有限公司年报问询函的专项说明",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920510/AN202607211827214585.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "丰光精密(920510)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "浙大网新:浙大网新科技股份有限公司投资者关系活动记录表(2026-005)",
-        "summary": "浙大网新(600797)：浙大网新:浙大网新科技股份有限公司投资者关系活动记录表(2026-005)",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600797/AN202607211827206883.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "浙大网新(600797)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "壹网壹创:关于公司与关联方共同投资设立控股子公司暨关联交易的公告",
-        "summary": "壹网壹创(300792)：壹网壹创:关于公司与关联方共同投资设立控股子公司暨关联交易的公告",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300792/AN202607211827215478.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "壹网壹创(300792)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "沪电股份:2026年7月21日投资者关系活动记录表",
-        "summary": "沪电股份(002463)：沪电股份:2026年7月21日投资者关系活动记录表",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002463/AN202607211827215280.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "沪电股份(002463)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "赛意信息:2026年7月21日投资者关系活动记录表",
-        "summary": "赛意信息(300687)：赛意信息:2026年7月21日投资者关系活动记录表",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300687/AN202607211827214423.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "赛意信息(300687)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "飞南资源:关于部分限制性股票回购注销完成的公告",
-        "summary": "飞南资源(301500)：飞南资源:关于部分限制性股票回购注销完成的公告",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301500/AN202607211827214764.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "飞南资源(301500)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "宇邦新材:2026年07月21日投资者关系活动记录表",
-        "summary": "宇邦新材(301266)：宇邦新材:2026年07月21日投资者关系活动记录表",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301266/AN202607211827214277.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宇邦新材(301266)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中石科技:回购报告书",
-        "summary": "中石科技(300684)：中石科技:回购报告书",
-        "publishedAt": "2026-07-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300684/AN202607211827214441.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "中石科技(300684)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "小米集团于7月21日回购了180万股B类股份",
-        "summary": "【小米集团于7月21日回购了180万股B类股份】据港交所文件，小米集团于7月21日回购了180万股B类股份，交易金额为5000万港元。",
-        "publishedAt": "2026-07-21 18:25:58",
+        "title": "国内商品期市夜盘收盘涨跌参半 能源品涨幅居前",
+        "summary": "【国内商品期市夜盘收盘涨跌参半 能源品涨幅居前】国内商品期市夜盘收盘涨跌参半，能源品涨幅居前，国内商品期市夜盘收盘涨跌参半，能源品涨幅居前，SHFE燃油涨3.98%；黑色系多数上涨，DCE焦煤涨1.84%；化工品多数上涨，CZCEPTA涨1.67%；非金属建材涨跌参半，CZCE玻璃涨0.33%；油脂油料跌幅居前，CZCE菜油跌1.00%；农副产品多数下跌，…",
+        "publishedAt": "2026-07-21 23:04:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815723292.html",
+        "url": "https://finance.eastmoney.com/a/202607213816035912.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "永贵电器：拟以1亿元-1.5亿元回购公司股份",
-        "summary": "【永贵电器：拟以1亿元-1.5亿元回购公司股份】永贵电器公告，拟以1亿元-1.5亿元回购公司股份，用于实施员工持股计划、股权激励，或用于转换上市公司发行的可转换为股票的公司债券，回购价格为不超24.94元/股（含本数）。",
-        "publishedAt": "2026-07-21 18:25:27",
+        "title": "美国10年和30年期国债收益率触及两个月高位 油价上涨引发通胀风险",
+        "summary": "【美国10年和30年期国债收益率触及两个月高位 油价上涨引发通胀风险】美国国债市场下跌，10年和30年期国债收益率升至约两个月来的最高水平。原油价格飙升令市场担忧通胀压力可能促使美联储加息。周二，各期限美债收益率普遍上涨2至4个基点，其中10年期收益率一度升至4.64%，触及5月下旬以来最高水平。随着美国和伊朗连续第10天相互发动打击，美元兑多数主要货币走…",
+        "publishedAt": "2026-07-21 22:51:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815724391.html",
+        "url": "https://finance.eastmoney.com/a/202607213816025420.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "中远海特：拟委托中船澄西建造8艘6万吨级多用途重吊船 船价合计金额不超26.24亿元",
-        "summary": "【中远海特：拟委托中船澄西建造8艘6万吨级多用途重吊船 船价合计金额不超26.24亿元】7月21日，中远海特(600428.SH)公告称，公司全资子公司中远航运(香港)投资发展有限公司或所属公司作为投资主体，在中船澄西船舶修造有限公司投资建造8艘6万吨级多用途重吊船，船价合计金额不超过26.24亿元。预计交船时间为2029年4月至2030年6月。本次交易有…",
-        "publishedAt": "2026-07-21 18:16:11",
+        "title": "美股比特币概念股走高 Coinbase涨超12%",
+        "summary": "【美股比特币概念股走高 Coinbase涨超12%】美股比特币概念股走高，比特币突破6.6万关口，现涨超2.3%报66694美元。截至发稿，Strategy(MSTR.US)涨超5%，Coinbase(COIN.US)涨超12%，Robinhood(HOOD.US)、Circle(CRCL.US)涨超7%。消息面上，消息人士表示，美国总统特朗普同意在《清晰…",
+        "publishedAt": "2026-07-21 22:39:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815715277.html",
+        "url": "https://finance.eastmoney.com/a/202607213816015343.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "新加坡交易所推出Grab、Sea及SpaceX存托凭证 拓展美股投资渠道",
-        "summary": "【新加坡交易所推出Grab、Sea及SpaceX存托凭证 拓展美股投资渠道】新加坡交易所（SGX）宣布，将于7月22日开盘推出三只美国上市公司的新加坡存托凭证（SDR），分别对应Grab、Sea和SpaceX。这是SGX首次推出美国市场SDR产品，投资者可通过新加坡元交易相关资产。截至目前，SGX已提供覆盖泰国、中国香港、印度尼西亚及美国市场的38只SDR…",
-        "publishedAt": "2026-07-21 18:09:46",
+        "title": "超30家上市公司盘后披露回购或增持计划公告",
+        "summary": "【超30家上市公司盘后披露回购或增持计划公告】截至发稿，据财联社不完全统计，盘后包括阳光电源 、久立特材、璞泰来、高能环境、星辉环材、三友医疗、永贵电器、广东明珠、华伍股份、丰林集团、科大智能、卧龙电驱、海川智能、格灵深瞳、煌上煌、锋龙股份、绿通科技、鸿富瀚、时创能源、三孚新科、唯万密封、常润股份、亚太药业、万源通、科安达、潍柴动力、湖南海利、融捷股份、新…",
+        "publishedAt": "2026-07-21 22:56:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815711475.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "海川智能：拟5000万元至1亿元回购股份",
-        "summary": "【海川智能：拟5000万元至1亿元回购股份】海川智能(300720.SZ)公告称，公司拟使用自有资金和/或自筹资金以集中竞价交易方式回购股份，回购资金总额不低于5000万元且不超过1亿元，回购价格不超过129.73元/股。回购股份将用于股权激励或员工持股计划，期限自董事会审议通过之日起12个月内。",
-        "publishedAt": "2026-07-21 18:07:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815711846.html",
+        "url": "https://finance.eastmoney.com/a/202607213816026232.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "有色稀土",
+          "医药",
+          "金融",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "德国投资者信心升至五个月高点 改革措施产生积极影响",
-        "summary": "【德国投资者信心升至五个月高点 改革措施产生积极影响】德国投资者信心升至五个月来的最高水平，显示市场寄望总理默茨的改革措施能够提振经济增长。ZEW institute的一项预期指数从6月的10.5升至26.3，这一数字远高于预期值15.3。",
-        "publishedAt": "2026-07-21 18:07:02",
+        "title": "美国7月20日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国7月20日SPDR黄金持仓-每日更新(吨)；公布 1003.59，预期 nan，前值 999.02。",
+        "publishedAt": "2026-07-21 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月20日iShares白银持仓-每日更新(吨)",
+        "summary": "美国7月20日iShares白银持仓-每日更新(吨)；公布 15052.89，预期 nan，前值 15061.32。",
+        "publishedAt": "2026-07-21 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月20日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国7月20日iShares黄金持仓-每日更新(吨)；公布 460.89，预期 nan，前值 461.36。",
+        "publishedAt": "2026-07-21 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月17日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国7月17日COMEX黄金库存-每日更新(百盎司)；公布 270705.07，预期 nan，前值 271189.02。",
+        "publishedAt": "2026-07-21 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "新西兰第二季度CPI年率(%)",
+        "summary": "新西兰第二季度CPI年率(%)；公布 4.1，预期 4.0，前值 3.1。",
+        "publishedAt": "2026-07-21 06:45",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至7月19日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至7月19日当周ANZ消费者信心指数；公布 75.6，预期 nan，前值 75.3。",
+        "publishedAt": "2026-07-21 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "英国5月失业率-按ILO标准(%)",
+        "summary": "英国5月失业率-按ILO标准(%)；公布 4.9，预期 5.0，前值 4.9。",
+        "publishedAt": "2026-07-21 14:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "英国5月包括红利三个月平均工资年率(%)",
+        "summary": "英国5月包括红利三个月平均工资年率(%)；公布 4.3，预期 4.5，前值 4.4。",
+        "publishedAt": "2026-07-21 14:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "谷歌公司表示 Gemini 3.5 Pro目前正在与合作伙伴测试",
+        "summary": "【谷歌公司表示 Gemini 3.5 Pro目前正在与合作伙伴测试】谷歌公司表示，Gemini3.5Pro目前正在与合作伙伴测试，计划在准备就绪后尽快广泛推出。已开始对Gemini4进行预训练。",
+        "publishedAt": "2026-07-21 23:03:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607213815711375.html",
+        "url": "https://finance.eastmoney.com/a/202607213816036184.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "谷歌公司表示：Gemini 3.5 Pro目前正在与合作伙伴测试",
+        "summary": "谷歌公司表示，Gemini 3.5 Pro目前正在与合作伙伴测试，计划在准备就绪后尽快广泛推出。已开始对Gemini 4进行预训练。",
+        "publishedAt": "2026-07-21 23:03:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213816036929.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "特斯拉股价盘中涨近4%",
+        "summary": "【特斯拉股价盘中涨近4%】7月21日，特斯拉股价盘中涨近4%。截至发稿，现涨3.65%，383.07美元。",
+        "publishedAt": "2026-07-21 22:56:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213816028212.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美军连续第十晚打击伊朗 调解方提议美伊停火十日",
+        "summary": "【美军连续第十晚打击伊朗 调解方提议美伊停火十日】美军中央司令部20日发表声明称，美军已于美国东部时间20日21时（北京时间21日9时）完成对伊朗的新一轮打击行动。这是美军连续第10晚对伊朗发动打击。伊朗方面也发表声明称对巴林和科威特的美军目标发动打击。另据外媒报道，卡塔尔、埃及、巴基斯坦等调解方已向美伊提出一项为期10天的停火提议。",
+        "publishedAt": "2026-07-21 22:54:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213816023979.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗方面消息称 伊朗伊斯兰革命卫队击中科威特贾比尔基地的美军雷达",
+        "summary": "伊朗方面消息称，伊朗伊斯兰革命卫队击中科威特贾比尔基地的美军雷达。",
+        "publishedAt": "2026-07-21 22:51:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213816025748.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "SpaceX涨超6%",
+        "summary": "SpaceX走强，现涨超6%。",
+        "publishedAt": "2026-07-21 22:46:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607213816020496.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
@@ -69388,15 +69376,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-21 18:30:44",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-07-21 23:16:00",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 3 条；主题映射集中在 有色稀土、能源、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69427,7 +69415,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-21 18:29:46",
+        "generatedAt": "2026-07-21 23:08:46",
         "summary": "上午情绪分 92，涨停 121 家，跌停 21 家，炸板 8 家，连板 5 家，最高 4 板。",
         "sections": [
           {
@@ -69466,7 +69454,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-21 18:29:46",
+        "generatedAt": "2026-07-21 23:08:46",
         "summary": "市场温度 中，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -69492,7 +69480,7 @@
               "今日炸板 8 只，追高前先看前排封单和回封质量。",
               "今日跌停 21 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST元道:北京国枫律师事务所关于元道通信股份有限公司2026年第二次临时股东会的法律意见书；宁波建工:宁波建工股份有限公司关于子公司涉及诉讼进展公告。",
+              "新闻/公告风险：国内商品期市夜盘收盘涨跌参半 能源品涨幅居前；美国10年和30年期国债收益率触及两个月高位 油价上涨引发通胀风险。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
