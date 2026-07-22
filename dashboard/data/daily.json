@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-22 18:07:58",
+    "generatedAt": "2026-07-22 18:30:57",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -72680,48 +72680,45 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-22",
-    "generatedAt": "2026-07-22 18:08:55",
+    "generatedAt": "2026-07-22 18:31:47",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、有色稀土。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、AI算力、新能源。",
     "themes": [
       {
         "name": "金融",
-        "score": 17,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 2,
+        "score": 19,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -72746,55 +72743,86 @@
         "noticeType": "召开股东大会提示性公告"
       },
       {
-        "title": "新安洁:涉及诉讼公告",
-        "summary": "新安洁(920370)：新安洁:涉及诉讼公告",
+        "title": "天晟新材:关于部分银行账户被冻结的公告",
+        "summary": "天晟新材(300169)：天晟新材:关于部分银行账户被冻结的公告",
         "publishedAt": "2026-07-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920370/AN202607221827259436.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新安洁(920370)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "8-1发行人及中介机构关于审核问询函的回复(中电建新能源集团股份有限公司)",
-        "summary": "电建能源(A23266)：8-1发行人及中介机构关于审核问询函的回复(中电建新能源集团股份有限公司)",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A23266/AN202607221827258552.html",
+        "url": "https://data.eastmoney.com/notices/detail/300169/AN202607221827260918.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "新能源",
-          "能源"
+          "金融"
         ],
         "tickers": [
-          "电建能源(A23266)"
+          "天晟新材(300169)"
         ],
         "importance": 1,
-        "noticeType": "沪主板发行上市问询与回复"
+        "noticeType": "其他"
       },
       {
-        "title": "康美特:关于签署募集资金三方监管协议的公告",
-        "summary": "康美特(920189)：康美特:关于签署募集资金三方监管协议的公告",
+        "title": "海能实业:关于控股股东、实际控制人部分股份补充质押的公告",
+        "summary": "海能实业(300787)：海能实业:关于控股股东、实际控制人部分股份补充质押的公告",
         "publishedAt": "2026-07-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607221827258620.html",
+        "url": "https://data.eastmoney.com/notices/detail/300787/AN202607221827260897.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "康美特(920189)"
+          "海能实业(300787)"
         ],
         "importance": 1,
-        "noticeType": "签订协议"
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "深水规院:关于持股5%以上股东减持计划期间届满的公告",
+        "summary": "深水规院(301038)：深水规院:关于持股5%以上股东减持计划期间届满的公告",
+        "publishedAt": "2026-07-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301038/AN202607221827260867.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "深水规院(301038)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "胜蓝股份:关于控股股东权益变动触及1%整数倍暨减持计划终止的公告",
+        "summary": "胜蓝股份(300843)：胜蓝股份:关于控股股东权益变动触及1%整数倍暨减持计划终止的公告",
+        "publishedAt": "2026-07-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300843/AN202607221827260876.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "胜蓝股份(300843)"
+        ],
+        "importance": 1,
+        "noticeType": "权益变动报告书"
+      },
+      {
+        "title": "金安国纪：拟投资20亿元建设珠海国纪增资扩产项目",
+        "summary": "【金安国纪：拟投资20亿元建设珠海国纪增资扩产项目】金安国纪(002636.SZ)公告称，公司与珠海市金湾区人民政府签订增资扩产项目投资协议，意向投资总额约20亿元，用于建设年产2000万张覆铜板及4000万米半固化片项目。项目用地约3.5万平方米，建设周期预计2年，资金来源为自有或自筹资金。该事项已获董事会审议通过，尚需股东会审批，存在项目变更、土地竞拍…",
+        "publishedAt": "2026-07-22 18:17:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817415356.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "睿创微纳:投资者关系活动记录表20260722",
@@ -72813,43 +72841,59 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "晨光电机:舟山晨光电机股份有限公司关于新增募集资金投资项目实施地点的公告",
-        "summary": "晨光电机(920011)：晨光电机:舟山晨光电机股份有限公司关于新增募集资金投资项目实施地点的公告",
+        "title": "美农生物:关于作废2025年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
+        "summary": "美农生物(301156)：美农生物:关于作废2025年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
         "publishedAt": "2026-07-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920011/AN202607221827259866.html",
+        "url": "https://data.eastmoney.com/notices/detail/301156/AN202607221827261299.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "晨光电机(920011)"
+          "美农生物(301156)"
         ],
         "importance": 1,
-        "noticeType": "变更募集资金投资项目"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "海通发展:福建海通发展股份有限公司2026年7月21日投资者关系活动记录表",
-        "summary": "海通发展(603162)：海通发展:福建海通发展股份有限公司2026年7月21日投资者关系活动记录表",
+        "title": "美农生物:关于2025年限制性股票激励计划第一个归属期归属条件成就的公告",
+        "summary": "美农生物(301156)：美农生物:关于2025年限制性股票激励计划第一个归属期归属条件成就的公告",
         "publishedAt": "2026-07-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603162/AN202607221827259468.html",
+        "url": "https://data.eastmoney.com/notices/detail/301156/AN202607221827261297.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "海通发展(603162)"
+          "美农生物(301156)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "千岸科技:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "summary": "千岸科技(920065)：千岸科技:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
+        "title": "美农生物:关于调整2025年限制性股票激励计划授予价格及授予数量的公告",
+        "summary": "美农生物(301156)：美农生物:关于调整2025年限制性股票激励计划授予价格及授予数量的公告",
         "publishedAt": "2026-07-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920065/AN202607221827259490.html",
+        "url": "https://data.eastmoney.com/notices/detail/301156/AN202607221827261302.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美农生物(301156)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "瑞星股份:关于以集中竞价交易方式回购公司股份方案暨取得金融机构股票回购专项贷款承诺函的公告",
+        "summary": "瑞星股份(920717)：瑞星股份:关于以集中竞价交易方式回购公司股份方案暨取得金融机构股票回购专项贷款承诺函的公告",
+        "publishedAt": "2026-07-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920717/AN202607221827261225.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -72857,17 +72901,33 @@
           "金融"
         ],
         "tickers": [
-          "千岸科技(920065)"
+          "瑞星股份(920717)"
         ],
         "importance": 1,
-        "noticeType": "首发发行结果公告"
+        "noticeType": "借贷"
       },
       {
-        "title": "长鹰硬科:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "summary": "长鹰硬科(920238)：长鹰硬科:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
+        "title": "融捷健康:关于设立两家全资子公司的公告",
+        "summary": "融捷健康(300247)：融捷健康:关于设立两家全资子公司的公告",
         "publishedAt": "2026-07-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920238/AN202607221827259491.html",
+        "url": "https://data.eastmoney.com/notices/detail/300247/AN202607221827260885.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "融捷健康(300247)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "苏文电能:关于回购公司股份的回购报告书",
+        "summary": "苏文电能(300982)：苏文电能:关于回购公司股份的回购报告书",
+        "publishedAt": "2026-07-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300982/AN202607221827260894.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -72875,67 +72935,17 @@
           "金融"
         ],
         "tickers": [
-          "长鹰硬科(920238)"
+          "苏文电能(300982)"
         ],
         "importance": 1,
-        "noticeType": "首发上市公告书"
+        "noticeType": "回购报告书"
       },
       {
-        "title": "长鹰硬科:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "summary": "长鹰硬科(920238)：长鹰硬科:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920238/AN202607221827259492.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长鹰硬科(920238)"
-        ],
-        "importance": 1,
-        "noticeType": "首发提示性公告"
-      },
-      {
-        "title": "欧林生物:投资者关系活动记录表-20260722",
-        "summary": "欧林生物(688319)：欧林生物:投资者关系活动记录表-20260722",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688319/AN202607221827259314.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "欧林生物(688319)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美德乐:关于使用闲置自有资金进行现金管理的进展公告",
-        "summary": "美德乐(920119)：美德乐:关于使用闲置自有资金进行现金管理的进展公告",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920119/AN202607221827259237.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "美德乐(920119)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "央行：6月同业拆借日均成交3292.2亿元 同比减少21.9%",
-        "summary": "【央行：6月同业拆借日均成交3292.2亿元 同比减少21.9%】央行数据显示，2026年6月，同业拆借日均成交3292.2亿元，同比减少21.9%；银行间市场债券回购日均成交6.2万亿元，同比减少21.0%。",
-        "publishedAt": "2026-07-22 18:03:48",
+        "title": "冠石科技：拟1500万元-3000万元回购公司股份",
+        "summary": "【冠石科技：拟1500万元-3000万元回购公司股份】冠石科技7月22日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于1500万元且不超过3000万元。回购价格不超过60元/股。回购股份将用于维护公司价值及股东权益。",
+        "publishedAt": "2026-07-22 18:24:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817405114.html",
+        "url": "https://finance.eastmoney.com/a/202607223817418820.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -72947,11 +72957,11 @@
         "noticeType": ""
       },
       {
-        "title": "白云电器：取得金融机构股票回购贷款承诺函",
-        "summary": "【白云电器：取得金融机构股票回购贷款承诺函】白云电器7月22日公告，近日，公司已取得中国银行股份有限公司广东省分行出具的《贷款承诺函》，其承诺为公司提供不超过3600万元的贷款额度，用于回购公司A股股票。",
-        "publishedAt": "2026-07-22 17:58:40",
+        "title": "立讯精密：已回购1766.54万股 使用资金总额10亿元",
+        "summary": "【立讯精密：已回购1766.54万股 使用资金总额10亿元】立讯精密7月22日公告，截至2026年7月22日，公司累计回购1766.54万股，占公司总股本的0.24%，回购价格区间为50.14元/股至65元/股，累计使用资金10亿元（不含交易费用）。",
+        "publishedAt": "2026-07-22 18:24:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817401730.html",
+        "url": "https://finance.eastmoney.com/a/202607223817417829.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -72963,63 +72973,53 @@
         "noticeType": ""
       },
       {
-        "title": "工信部：要坚持发展向智 大力发展新一代智能制造",
-        "summary": "【工信部：要坚持发展向智 大力发展新一代智能制造】工业和信息化部7月22日在浙江省宁波市召开国家新型工业化示范区创建工作座谈会，会议指出，各创建城市要坚持动力向新，强化以企业为主体的自主创新，打造高水平产业创新平台体系，促进创新成果高效转移转化，率先在产业科技创新体系建设上取得新突破。要坚持发展向智，大力发展新一代智能制造，全面推进绿色低碳转型，积极发展服…",
-        "publishedAt": "2026-07-22 17:50:14",
+        "title": "兴业证券：股东福建省投拟增持3000万元~6000万元",
+        "summary": "【兴业证券：股东福建省投拟增持3000万元~6000万元】7月22日，兴业证券公告，持股5%以上股东福建省投及其一致行动人持有公司7.62亿股，占公司总股本的8.82%。福建省投拟自本公告披露日起6个月内通过上海证券交易所系统允许的合规交易方式增持公司A股股份，增持金额不低于3000万元，不超过6000万元。",
+        "publishedAt": "2026-07-22 18:19:52",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817390082.html",
+        "url": "https://finance.eastmoney.com/a/202607223817413568.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至7月17日当周API原油库存变动(万桶)",
-        "summary": "美国截至7月17日当周API原油库存变动(万桶)；公布 269.3，预期 -50.0，前值 -56.4。",
-        "publishedAt": "2026-07-22 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "金开新能：拟出资4.5亿元参与设立战新产业投资基金",
+        "summary": "【金开新能：拟出资4.5亿元参与设立战新产业投资基金】金开新能(600821.SH)公告称，公司拟与津融国盛、国资母基金共同投资设立天津国鑫金开战新产业投资基金合伙企业(有限合伙)，基金认缴规模5.01亿元，其中金开新能以自有资金出资4.5亿元，占比89.82%。该基金主要投资新能源产业上下游、人工智能、智算中心等领域。",
+        "publishedAt": "2026-07-22 18:18:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817413477.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
+          "AI算力",
+          "新能源",
           "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至7月17日当周API汽油库存变动(万桶)",
-        "summary": "美国截至7月17日当周API汽油库存变动(万桶)；公布 -137.9，预期 -181.0，前值 -166.4。",
-        "publishedAt": "2026-07-22 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月21日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月21日iShares黄金持仓-每日更新(吨)；公布 460.89，预期 nan，前值 460.89。",
-        "publishedAt": "2026-07-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "浪潮信息：拟出资1亿元参与设立AI大模型领域基金",
+        "summary": "【浪潮信息：拟出资1亿元参与设立AI大模型领域基金】浪潮信息(000977.SZ)公告称，公司作为有限合伙人拟与专业机构共同投资设立合肥浩澜潮智创业投资合伙企业(有限合伙)，目标认缴出资总额为7亿元，其中公司以自有资金认缴出资1亿元，占比约14%。",
+        "publishedAt": "2026-07-22 18:18:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817414945.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -73292,15 +73292,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-22 18:08:55",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-07-22 18:31:47",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、AI算力、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：贵金属、工业金属；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -73331,7 +73331,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-22 18:07:58",
+        "generatedAt": "2026-07-22 18:30:57",
         "summary": "上午情绪分 73，涨停 47 家，跌停 8 家，炸板 36 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -73370,7 +73370,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-22 18:07:58",
+        "generatedAt": "2026-07-22 18:30:57",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -73396,7 +73396,7 @@
               "今日炸板 36 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST凯利:上海凯利泰医疗科技股份有限公司关于召开2026年第二次临时股东会的提示性公告；新安洁:涉及诉讼公告。",
+              "新闻/公告风险：ST凯利:上海凯利泰医疗科技股份有限公司关于召开2026年第二次临时股东会的提示性公告；天晟新材:关于部分银行账户被冻结的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
