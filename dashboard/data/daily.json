@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-22 23:09:16",
+    "generatedAt": "2026-07-22 23:17:37",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -1503,7 +1503,7 @@
       "tags": [
         "家电零部"
       ],
-      "reason": "连续跌停 2，封单 7740.1万，开板 2 次"
+      "reason": "连续跌停 2，封单 7740.1万，开板 1 次"
     },
     {
       "code": "001388",
@@ -72876,21 +72876,13 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-22",
-    "generatedAt": "2026-07-22 23:10:28",
+    "generatedAt": "2026-07-22 23:18:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、能源、半导体。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、金融、能源。",
     "themes": [
-      {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 7,
-        "isFocusBoard": false
-      },
       {
         "name": "半导体",
         "score": 5,
@@ -72899,6 +72891,11 @@
       {
         "name": "金融",
         "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -72918,6 +72915,11 @@
       },
       {
         "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
@@ -73168,49 +73170,50 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至7月17日当周API原油库存变动(万桶)",
-        "summary": "美国截至7月17日当周API原油库存变动(万桶)；公布 269.3，预期 -50.0，前值 -56.4。",
-        "publishedAt": "2026-07-22 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "我国研发出具有“电子共振”结构的钙钛矿光伏电池",
+        "summary": "【我国研发出具有“电子共振”结构的钙钛矿光伏电池】苏州大学李耀文、陈先凯与东南大学张天恺等3名学者合作，提出“电子共振”策略，以解决柔性钙钛矿光伏电池效率不高、稳定性弱等难题。相关成果22日由国际学术期刊《自然》在线发表。据论文共同通信作者之一的李耀文介绍，与质地坚硬的晶硅光伏电池板不同，钙钛矿光伏电池被认为是下一代光伏技术的重点研发方向。它具有轻、薄、柔…",
+        "publishedAt": "2026-07-22 23:04:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817736168.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
+          "新能源",
           "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至7月17日当周API汽油库存变动(万桶)",
-        "summary": "美国截至7月17日当周API汽油库存变动(万桶)；公布 -137.9，预期 -181.0，前值 -166.4。",
-        "publishedAt": "2026-07-22 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月21日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月21日iShares黄金持仓-每日更新(吨)；公布 460.89，预期 nan，前值 460.89。",
-        "publishedAt": "2026-07-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "美股部分存储芯片概念股盘中走强",
+        "summary": "【美股部分存储芯片概念股盘中走强】周三，部分存储芯片概念股盘中走强，希捷科技、西部数据涨逾2%，美光科技、闪迪微涨。SK海力士盘初一度跌逾5%，截至发稿，跌幅收窄至2%。",
+        "publishedAt": "2026-07-22 22:53:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817730692.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "半导体"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "超微电脑涨幅扩大至25%",
+        "summary": "超微电脑涨幅扩大至25%，创2024年以来最佳盘中表现。",
+        "publishedAt": "2026-07-22 22:52:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817730145.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -73483,15 +73486,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-22 23:10:28",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、能源、半导体。",
+        "generatedAt": "2026-07-22 23:18:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：贵金属、工业金属；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -73522,7 +73525,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-22 23:09:16",
+        "generatedAt": "2026-07-22 23:17:37",
         "summary": "上午情绪分 73，涨停 47 家，跌停 8 家，炸板 36 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -73561,7 +73564,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-22 23:09:16",
+        "generatedAt": "2026-07-22 23:17:37",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
