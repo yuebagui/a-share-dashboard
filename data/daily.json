@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-22 17:54:55",
+    "generatedAt": "2026-07-22 18:07:58",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -1307,7 +1307,7 @@
       "tags": [
         "家电零部"
       ],
-      "reason": "连续跌停 2，封单 7740.1万，开板 1 次"
+      "reason": "连续跌停 2，封单 7740.1万，开板 2 次"
     },
     {
       "code": "001388",
@@ -72680,14 +72680,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-22",
-    "generatedAt": "2026-07-22 17:55:32",
+    "generatedAt": "2026-07-22 18:08:55",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 11,
+        "name": "金融",
+        "score": 17,
         "isFocusBoard": false
       },
       {
@@ -72696,13 +72696,23 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 3,
+        "name": "新能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -72712,16 +72722,6 @@
       },
       {
         "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
@@ -72795,6 +72795,22 @@
         ],
         "importance": 1,
         "noticeType": "签订协议"
+      },
+      {
+        "title": "睿创微纳:投资者关系活动记录表20260722",
+        "summary": "睿创微纳(688002)：睿创微纳:投资者关系活动记录表20260722",
+        "publishedAt": "2026-07-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688002/AN202607221827260236.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "睿创微纳(688002)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "晨光电机:舟山晨光电机股份有限公司关于新增募集资金投资项目实施地点的公告",
@@ -72915,20 +72931,36 @@
         "noticeType": "投资理财"
       },
       {
-        "title": "通宝光电:股东增持股份计划公告",
-        "summary": "通宝光电(920168)：通宝光电:股东增持股份计划公告",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920168/AN202607221827258621.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "央行：6月同业拆借日均成交3292.2亿元 同比减少21.9%",
+        "summary": "【央行：6月同业拆借日均成交3292.2亿元 同比减少21.9%】央行数据显示，2026年6月，同业拆借日均成交3292.2亿元，同比减少21.9%；银行间市场债券回购日均成交6.2万亿元，同比减少21.0%。",
+        "publishedAt": "2026-07-22 18:03:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817405114.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "通宝光电(920168)"
+        "themes": [
+          "金融"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
+        "noticeType": ""
+      },
+      {
+        "title": "白云电器：取得金融机构股票回购贷款承诺函",
+        "summary": "【白云电器：取得金融机构股票回购贷款承诺函】白云电器7月22日公告，近日，公司已取得中国银行股份有限公司广东省分行出具的《贷款承诺函》，其承诺为公司提供不超过3600万元的贷款额度，用于回购公司A股股票。",
+        "publishedAt": "2026-07-22 17:58:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607223817401730.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "工信部：要坚持发展向智 大力发展新一代智能制造",
@@ -72940,22 +72972,6 @@
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "手机厂商逆势上调出货目标 存储涨价“天花板”隐现？",
-        "summary": "【手机厂商逆势上调出货目标 存储涨价“天花板”隐现？】连续两个季度大幅上涨后，存储市场开始出现一些新的变化。近期，有消息称部分手机厂商重新调整2026年全年智能手机出货目标，新增目标主要来自此前受存储成本影响较大的低端机型。与此同时，深圳华强北部分内存产品价格近期出现小幅松动。",
-        "publishedAt": "2026-07-22 17:34:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817368097.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -72993,22 +73009,6 @@
       {
         "title": "美国7月21日iShares黄金持仓-每日更新(吨)",
         "summary": "美国7月21日iShares黄金持仓-每日更新(吨)；公布 460.89，预期 nan，前值 460.89。",
-        "publishedAt": "2026-07-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月20日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国7月20日COMEX黄金库存-每日更新(百盎司)；公布 270705.07，预期 nan，前值 270705.07。",
         "publishedAt": "2026-07-22 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -73292,15 +73292,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-22 17:55:32",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-07-22 18:08:55",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：贵金属、工业金属；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -73331,7 +73331,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-22 17:54:55",
+        "generatedAt": "2026-07-22 18:07:58",
         "summary": "上午情绪分 73，涨停 47 家，跌停 8 家，炸板 36 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -73370,7 +73370,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-22 17:54:55",
+        "generatedAt": "2026-07-22 18:07:58",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
