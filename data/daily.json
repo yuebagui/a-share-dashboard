@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-22",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-22 23:17:37",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-22 23:17:37",
+    "lastNewsAt": "2026-07-23 11:55:15"
   },
   "indices": [
     {
@@ -72875,343 +72877,346 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-22",
-    "generatedAt": "2026-07-22 23:18:33",
+    "tradeDate": "2026-07-23",
+    "generatedAt": "2026-07-23 11:55:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、金融、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
-        "name": "半导体",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 4,
+        "name": "有色稀土",
+        "score": 18,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 15,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
+        "name": "金融",
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
-        "score": 2,
+        "name": "半导体",
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
+        "name": "能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "医药",
-        "score": 2,
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 4,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "云创退:关于公司股票进入退市整理期交易的第十一次风险提示公告",
-        "summary": "云创退(920305)：云创退:关于公司股票进入退市整理期交易的第十一次风险提示公告",
-        "publishedAt": "2026-07-22",
+        "title": "*ST萃华:关于公司股票存在可能因市值被终止上市的第一次风险提示公告",
+        "summary": "*ST萃华(002731)：*ST萃华:关于公司股票存在可能因市值被终止上市的第一次风险提示公告",
+        "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920305/AN202607221827262169.html",
+        "url": "https://data.eastmoney.com/notices/detail/002731/AN202607221827260871.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "云创退(920305)"
+          "*ST萃华(002731)"
         ],
         "importance": 1,
-        "noticeType": "实施退市风险警示"
+        "noticeType": "终止上市风险提示"
       },
       {
-        "title": "ST凯利:上海凯利泰医疗科技股份有限公司关于召开2026年第二次临时股东会的提示性公告",
-        "summary": "ST凯利(300326)：ST凯利:上海凯利泰医疗科技股份有限公司关于召开2026年第二次临时股东会的提示性公告",
-        "publishedAt": "2026-07-22",
+        "title": "永顺泰:粤海永顺泰集团股份有限公司关于粤海集团财务有限公司的风险持续评估报告",
+        "summary": "永顺泰(001338)：永顺泰:粤海永顺泰集团股份有限公司关于粤海集团财务有限公司的风险持续评估报告",
+        "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300326/AN202607221827256402.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "ST凯利(300326)"
-        ],
-        "importance": 1,
-        "noticeType": "召开股东大会提示性公告"
-      },
-      {
-        "title": "中文在线:关于重大仲裁的公告",
-        "summary": "中文在线(300364)：中文在线:关于重大仲裁的公告",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300364/AN202607221827265887.html",
+        "url": "https://data.eastmoney.com/notices/detail/001338/AN202607231827280084.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "中文在线(300364)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "中国长安汽车与中国电信签署战略合作协议",
-        "summary": "【中国长安汽车与中国电信签署战略合作协议】7月22日，中国长安汽车集团有限公司与中国电信集团有限公司在北京签署战略合作协议。双方将加速推动车辆采购与员工服务、穿透式监管与司库体系建设、车联网服务与运营、高质量数据集打造、海外数字工厂建设等方面的深度合作。",
-        "publishedAt": "2026-07-22 22:28:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817714077.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "汽车链"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "世行警告美伊继续冲突或让全球经济增速降至1.3%",
-        "summary": "【世行警告美伊继续冲突或让全球经济增速降至1.3%】据新华社，世界银行高级副行长兼首席经济学家因德米特·吉尔22日在接受媒体采访时说，美国和伊朗冲突再次升级可能推高通胀和利率，让今年全球经济增速降至1.3%。",
-        "publishedAt": "2026-07-22 22:22:19",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817710787.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "睿创微纳:投资者关系活动记录表20260722",
-        "summary": "睿创微纳(688002)：睿创微纳:投资者关系活动记录表20260722",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688002/AN202607221827260236.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "睿创微纳(688002)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金富科技:投资者关系活动记录表（2026-005）",
-        "summary": "金富科技(003018)：金富科技:投资者关系活动记录表（2026-005）",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003018/AN202607221827266792.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金富科技(003018)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "002582好想你投资者关系管理信息20260722",
-        "summary": "好想你(002582)：002582好想你投资者关系管理信息20260722",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002582/AN202607221827266527.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "好想你(002582)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "西部证券:西部证券股份有限公司2026年面向专业投资者公开发行公司债券(第四期)票面利率公告",
-        "summary": "西部证券(002673)：西部证券:西部证券股份有限公司2026年面向专业投资者公开发行公司债券(第四期)票面利率公告",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002673/AN202607221827266575.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "西部证券(002673)"
+          "永顺泰(001338)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "先进数通:300541先进数通投资者关系管理信息20260722",
-        "summary": "先进数通(300541)：先进数通:300541先进数通投资者关系管理信息20260722",
-        "publishedAt": "2026-07-22",
+        "title": "ST美克:美克国际家居用品股份有限公司关于召开终止发行股份及支付现金购买资产并募集配套资金暨关联交易事项投资者说明会的公告",
+        "summary": "ST美克(600337)：ST美克:美克国际家居用品股份有限公司关于召开终止发行股份及支付现金购买资产并募集配套资金暨关联交易事项投资者说明会的公告",
+        "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300541/AN202607221827266414.html",
+        "url": "https://data.eastmoney.com/notices/detail/600337/AN202607221827266905.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "先进数通(300541)"
+          "ST美克(600337)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "增发终止"
       },
       {
-        "title": "荣联科技:2026年7月22日投资者关系活动记录表",
-        "summary": "荣联科技(002642)：荣联科技:2026年7月22日投资者关系活动记录表",
-        "publishedAt": "2026-07-22",
+        "title": "ST美克:美克国际家居用品股份有限公司关于终止发行股份及支付现金购买资产并募集配套资金暨关联交易事项的公告",
+        "summary": "ST美克(600337)：ST美克:美克国际家居用品股份有限公司关于终止发行股份及支付现金购买资产并募集配套资金暨关联交易事项的公告",
+        "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002642/AN202607221827266382.html",
+        "url": "https://data.eastmoney.com/notices/detail/600337/AN202607221827266908.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "荣联科技(002642)"
+          "ST美克(600337)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "增发终止"
       },
       {
-        "title": "东软载波:关于控股股东的一致行动人持股变动触及1%整数倍暨后续增持计划的公告",
-        "summary": "东软载波(300183)：东软载波:关于控股股东的一致行动人持股变动触及1%整数倍暨后续增持计划的公告",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300183/AN202607221827265199.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东软载波(300183)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "杰瑞股份:2026年7月22日投资者关系活动记录表",
-        "summary": "杰瑞股份(002353)：杰瑞股份:2026年7月22日投资者关系活动记录表",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002353/AN202607221827264707.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "杰瑞股份(002353)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "米奥会展:投资者关系活动记录表",
-        "summary": "米奥会展(300795)：米奥会展:投资者关系活动记录表",
-        "publishedAt": "2026-07-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300795/AN202607221827263039.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "米奥会展(300795)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "多款高端手机涨价超1000元",
-        "summary": "【多款高端手机涨价超1000元】近期，受全球存储芯片等半导体元器件成本上涨影响，国内智能手机市场出现一轮价格调整。当前正值暑期消费旺季，深圳各手机门店客流显著上升。在各大线下手机卖场走访发现，主流厂商旗下多款新机及在售机型价格上调，涨幅普遍在300元至1000元不等，部分高端机型涨幅甚至突破千元。品牌门店正依托“以旧换新”国家补贴等政策，降低购机门槛。专业…",
-        "publishedAt": "2026-07-22 22:57:43",
+        "title": "上海：鼓励投资机构加大金融科技应用力度 利用人工智能大模型、智能体等技术提升投研能力",
+        "summary": "【上海：鼓励投资机构加大金融科技应用力度 利用人工智能大模型、智能体等技术提升投研能力】中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能进一步加强科技金融服务的若干措施》。其中提出，深化科技金融数智化建设。鼓励投资机构加大金融科技应用力度，利用人工智能大模型、智能体等技术提升投研能力。探索人工智能赋能科研新范式，推…",
+        "publishedAt": "2026-07-23 11:47:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817731612.html",
+        "url": "https://finance.eastmoney.com/a/202607233818658492.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
-          "半导体"
+          "AI算力",
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "我国研发出具有“电子共振”结构的钙钛矿光伏电池",
-        "summary": "【我国研发出具有“电子共振”结构的钙钛矿光伏电池】苏州大学李耀文、陈先凯与东南大学张天恺等3名学者合作，提出“电子共振”策略，以解决柔性钙钛矿光伏电池效率不高、稳定性弱等难题。相关成果22日由国际学术期刊《自然》在线发表。据论文共同通信作者之一的李耀文介绍，与质地坚硬的晶硅光伏电池板不同，钙钛矿光伏电池被认为是下一代光伏技术的重点研发方向。它具有轻、薄、柔…",
-        "publishedAt": "2026-07-22 23:04:15",
+        "title": "上海：深化债券市场“科技板”建设",
+        "summary": "【上海：深化债券市场“科技板”建设】中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能进一步加强科技金融服务的若干措施》，其中提出，深化债券市场“科技板”建设。推动科技创新与民营企业债券风险分担工具、国家融资担保基金等政策工具在上海落地，鼓励金融机构创设信用风险缓释工具，形成央地协同的增信体系，为科技创新债券发行提供…",
+        "publishedAt": "2026-07-23 11:42:12",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817736168.html",
+        "url": "https://finance.eastmoney.com/a/202607233818654173.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "风险",
         "themes": [
-          "新能源",
-          "能源"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美股部分存储芯片概念股盘中走强",
-        "summary": "【美股部分存储芯片概念股盘中走强】周三，部分存储芯片概念股盘中走强，希捷科技、西部数据涨逾2%，美光科技、闪迪微涨。SK海力士盘初一度跌逾5%，截至发稿，跌幅收窄至2%。",
-        "publishedAt": "2026-07-22 22:53:13",
+        "title": "A股午评：创业板指半日跌0.33%，先进封装、算力芯片、半导体等概念走弱",
+        "summary": "【A股午评：创业板指半日跌0.33%，先进封装、算力芯片、半导体等概念走弱】7月23日，A股三大指数早盘集体下跌，截至午间收盘，上证指数跌0.19%，深证成指跌0.19%，创业板指跌0.33%；北证50跌0.07%。沪深两市成交额约14559.94亿元，较前一个交易日缩量约3229.69亿元。截至午盘，全市场3225只股票上涨、2159只股票下跌，其中71…",
+        "publishedAt": "2026-07-23 11:33:13",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817730692.html",
+        "url": "https://finance.eastmoney.com/a/202607233818652715.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "风险",
         "themes": [
-          "半导体"
+          "半导体",
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "超微电脑涨幅扩大至25%",
-        "summary": "超微电脑涨幅扩大至25%，创2024年以来最佳盘中表现。",
-        "publishedAt": "2026-07-22 22:52:04",
+        "title": "午评：科创50指数半日跌超4% 电网设备、锂矿概念逆势走强",
+        "summary": "【午评：科创50指数半日跌超4% 电网设备、锂矿概念逆势走强】创业板指早盘冲高回落，科创50指数高开低走。沪深两市半日成交额1.46万亿，较上个交易日缩量3230亿。盘面上热点快速轮动，全市场超3200只个股上涨。从板块来看，电网设备概念快速拉升，顺钠股份、汉缆股份、中能电气、中国西电涨停。锂矿概念震荡走强，国城矿业、永杉锂业、盛新锂能涨停。算力租赁概念反…",
+        "publishedAt": "2026-07-23 11:31:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607223817730145.html",
+        "url": "https://finance.eastmoney.com/a/202607233818652551.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力",
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "沪指下跌0.19% 油服工程、能源金属领涨 半导体产业链走弱",
+        "summary": "【午盘播报】沪指下跌0.19%，报3859.69点；深成指下跌0.19%，报14035.01点；创业板指下跌0.33%，报3555.09点，两市半日合计成交14560亿。盘面上，能源金属、可燃冰、油服工程、锂矿概念、电网设备、贵金属领涨，半导体、高带宽内存、AI芯片、存储芯片、汽车芯片、AI手机表现不佳，领跌市场。全市场上涨个股有3225家，下跌个股有21…",
+        "publishedAt": "2026-07-23 11:30:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607233818652382.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力",
+          "汽车链",
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "领益智造:2026年7月22日投资者关系活动记录表",
+        "summary": "领益智造(002600)：领益智造:2026年7月22日投资者关系活动记录表",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002600/AN202607231827280035.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [],
+        "tickers": [
+          "领益智造(002600)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "温氏股份:2026年7月21日投资者关系活动记录表",
+        "summary": "温氏股份(300498)：温氏股份:2026年7月21日投资者关系活动记录表",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300498/AN202607231827280234.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "温氏股份(300498)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "沃特股份:2026年7月22日投资者关系活动记录表",
+        "summary": "沃特股份(002886)：沃特股份:2026年7月22日投资者关系活动记录表",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002886/AN202607231827276521.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "沃特股份(002886)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:036-2026年7月22日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:036-2026年7月22日投资者关系活动记录表",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202607231827276450.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "红宝丽:002165红宝丽投资者关系管理信息",
+        "summary": "红宝丽(002165)：红宝丽:002165红宝丽投资者关系管理信息",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002165/AN202607231827274941.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "红宝丽(002165)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "深圳华强:2026年7月22日投资者关系活动记录表",
+        "summary": "深圳华强(000062)：深圳华强:2026年7月22日投资者关系活动记录表",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000062/AN202607231827274944.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "深圳华强(000062)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "金冠股份:关于项目中标的公告(更正后)",
+        "summary": "金冠股份(300510)：金冠股份:关于项目中标的公告(更正后)",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300510/AN202607231827274031.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金冠股份(300510)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "金冠股份:关于项目中标公告的更正公告",
+        "summary": "金冠股份(300510)：金冠股份:关于项目中标公告的更正公告",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300510/AN202607231827274032.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金冠股份(300510)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "上海：探索推动将S基金纳入嵌套层级豁免范围",
+        "summary": "【上海：探索推动将S基金纳入嵌套层级豁免范围】上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能进一步加强科技金融服务的若干措施》，其中提出，加快与全国社保基金会合作设立优选项目基金，建立资本接力、协同赋能的长效机制。研究设立S母基金，引导更多S基金在沪集聚，吸引保险公司、金融资产投资公司（AIC）、金融资产管理公司（AMC）等多种主体出资设立S…",
+        "publishedAt": "2026-07-23 11:46:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607233818658315.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力",
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -73473,7 +73478,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -73486,15 +73491,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-22 23:18:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 半导体、金融、能源。",
+        "generatedAt": "2026-07-23 11:55:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：贵金属、工业金属；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -73590,7 +73595,7 @@
               "今日炸板 36 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：云创退:关于公司股票进入退市整理期交易的第十一次风险提示公告；ST凯利:上海凯利泰医疗科技股份有限公司关于召开2026年第二次临时股东会的提示性公告。",
+              "新闻/公告风险：*ST萃华:关于公司股票存在可能因市值被终止上市的第一次风险提示公告；永顺泰:粤海永顺泰集团股份有限公司关于粤海集团财务有限公司的风险持续评估报告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
