@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-23",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-23 18:29:21",
+    "generatedAt": "2026-07-23 23:15:34",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -83307,102 +83307,100 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-23",
-    "generatedAt": "2026-07-23 18:30:31",
+    "generatedAt": "2026-07-23 23:16:43",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 金融、有色稀土、能源。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 金融、AI算力、军工。",
     "themes": [
       {
         "name": "金融",
-        "score": 30,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
+        "name": "AI算力",
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST益通:关于控股股东及实际控制人部分股份被冻结及轮候冻结的公告",
-        "summary": "*ST益通(300430)：*ST益通:关于控股股东及实际控制人部分股份被冻结及轮候冻结的公告",
+        "title": "*ST萃华:关于公司股票存在可能因市值被终止上市的第一次风险提示公告",
+        "summary": "*ST萃华(002731)：*ST萃华:关于公司股票存在可能因市值被终止上市的第一次风险提示公告",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300430/AN202607231827289837.html",
+        "url": "https://data.eastmoney.com/notices/detail/002731/AN202607221827260871.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST益通(300430)"
+          "*ST萃华(002731)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "终止上市风险提示"
       },
       {
-        "title": "福赛科技:关于持股5%以上股东股份质押的公告",
-        "summary": "福赛科技(301529)：福赛科技:关于持股5%以上股东股份质押的公告",
+        "title": "奔朗新材:股东减持股份结果公告",
+        "summary": "奔朗新材(920807)：奔朗新材:股东减持股份结果公告",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301529/AN202607231827289791.html",
+        "url": "https://data.eastmoney.com/notices/detail/920807/AN202607231827295701.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "福赛科技(301529)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "凯淳股份:关于持股5%以上股东减持计划期满暨实施结果的公告",
-        "summary": "凯淳股份(301001)：凯淳股份:关于持股5%以上股东减持计划期满暨实施结果的公告",
-        "publishedAt": "2026-07-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301001/AN202607231827289738.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "凯淳股份(301001)"
+          "奔朗新材(920807)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "监管通报5起券商债券业务违法违规典型案例",
-        "summary": "【监管通报5起券商债券业务违法违规典型案例】记者获悉，监管部门近日发布券商债券业务违法违规典型案例通报，集中披露5起典型违规案件，覆盖债券承销内控、存续期受托管理两大核心业务环节。",
-        "publishedAt": "2026-07-23 18:11:16",
+        "title": "英可瑞:关于特定股东股份减持计划期限届满暨实施情况的公告",
+        "summary": "英可瑞(300713)：英可瑞:关于特定股东股份减持计划期限届满暨实施情况的公告",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300713/AN202607231827295645.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "英可瑞(300713)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "以色列多地开放公共避难所应对伊朗导弹威胁",
+        "summary": "【以色列多地开放公共避难所应对伊朗导弹威胁】由于近日美国与伊朗军事冲突升级，以色列多个城市23日宣布开放公共避难所，以应对可能的伊朗导弹袭击。宣布开放公共避难所的包括中部城市拉马特甘和赫兹利亚、南部城市埃拉特以及北部城市卡米埃尔等。拉马特甘市政机构发表声明说，根据安全形势评估，本周末以色列遭伊朗导弹袭击的风险上升。",
+        "publishedAt": "2026-07-23 22:54:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607233819042851.html",
+        "url": "https://finance.eastmoney.com/a/202607233819298686.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "亚马逊股价下跌5%",
+        "summary": "【行情】亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
+        "publishedAt": "2026-07-23 22:52:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607233819299410.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -83412,133 +83410,103 @@
         "noticeType": ""
       },
       {
-        "title": "维琪科技:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "summary": "维琪科技(920176)：维琪科技:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "publishedAt": "2026-07-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920176/AN202607231827290004.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "维琪科技(920176)"
-        ],
+        "title": "ST惠伦：拟解除赵剑华非独立董事职务",
+        "summary": "【ST惠伦：拟解除赵剑华非独立董事职务】ST惠伦(300460.SZ)公告称，因赵剑华在任职期间存在与公司利益冲突及未勤勉尽责情形，公司董事会审议通过《关于解除赵剑华公司董事职务的议案》，该议案尚需提交股东会审议。生效后，赵剑华将不再担任公司任何职务。公司董事会将按照有关规定,尽快依法完成非独立董事补选工作。",
+        "publishedAt": "2026-07-23 22:50:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607233819297375.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "首发上市公告书"
+        "noticeType": ""
       },
       {
-        "title": "维琪科技:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "summary": "维琪科技(920176)：维琪科技:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "publishedAt": "2026-07-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920176/AN202607231827290003.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "维琪科技(920176)"
-        ],
+        "title": "以方称美国已通知以色列计划扩大对伊袭击",
+        "summary": "【以方称美国已通知以色列计划扩大对伊袭击】根据以色列方面22日消息，美国已通知以色列，计划扩大对伊朗的袭击，并将首次在今年美以联合行动中出动重型轰炸机对伊朗境内目标实施打击。以色列方面分析称，如果行动实施，将是此次美以伊冲突的一次“重大升级”。分析还说，这些轰炸机预计将以“镐山”为目标，在收到美方通报后，以色列22日晚间已进入最高警戒状态。",
+        "publishedAt": "2026-07-23 22:39:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607233819289241.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": ""
       },
       {
-        "title": "科创新材:2026年半年度业绩预告公告",
-        "summary": "科创新材(920580)：科创新材:2026年半年度业绩预告公告",
+        "title": "300054鼎龙股份投资者关系管理信息20260723",
+        "summary": "鼎龙股份(300054)：300054鼎龙股份投资者关系管理信息20260723",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920580/AN202607231827289879.html",
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607231827295127.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "科创新材(920580)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "凌志软件:2026年7月23日投资者关系活动记录表",
-        "summary": "凌志软件(688588)：凌志软件:2026年7月23日投资者关系活动记录表",
-        "publishedAt": "2026-07-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688588/AN202607231827289663.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "凌志软件(688588)"
+          "鼎龙股份(300054)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "星辉环材:关于首次回购公司股份的公告",
-        "summary": "星辉环材(300834)：星辉环材:关于首次回购公司股份的公告",
+        "title": "永茂泰:2026年7月21日投资者关系活动记录表",
+        "summary": "永茂泰(605208)：永茂泰:2026年7月21日投资者关系活动记录表",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300834/AN202607231827289613.html",
+        "url": "https://data.eastmoney.com/notices/detail/605208/AN202607231827286921.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "星辉环材(300834)"
+          "永茂泰(605208)"
         ],
         "importance": 1,
-        "noticeType": "回购实施公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "星辉环材:回购报告书",
-        "summary": "星辉环材(300834)：星辉环材:回购报告书",
+        "title": "周大生:2026年7月23日投资者关系活动记录表",
+        "summary": "周大生(002867)：周大生:2026年7月23日投资者关系活动记录表",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300834/AN202607231827289612.html",
+        "url": "https://data.eastmoney.com/notices/detail/002867/AN202607231827297561.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "星辉环材(300834)"
+          "周大生(002867)"
         ],
         "importance": 1,
-        "noticeType": "回购报告书"
+        "noticeType": "调研活动"
       },
       {
-        "title": "星辉环材:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
-        "summary": "星辉环材(300834)：星辉环材:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+        "title": "奔朗新材:关于中证中小投资者服务中心《股东建议函》的回复公告",
+        "summary": "奔朗新材(920807)：奔朗新材:关于中证中小投资者服务中心《股东建议函》的回复公告",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300834/AN202607231827289614.html",
+        "url": "https://data.eastmoney.com/notices/detail/920807/AN202607231827295702.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "星辉环材(300834)"
+          "奔朗新材(920807)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "其他"
       },
       {
-        "title": "凯德石英:回购股份注销完成暨股份变动公告",
-        "summary": "凯德石英(920179)：凯德石英:回购股份注销完成暨股份变动公告",
+        "title": "邵阳液压:关于回购注销部分第一类限制性股票完成的公告",
+        "summary": "邵阳液压(301079)：邵阳液压:关于回购注销部分第一类限制性股票完成的公告",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920179/AN202607231827289589.html",
+        "url": "https://data.eastmoney.com/notices/detail/301079/AN202607231827295542.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -83546,38 +83514,84 @@
           "金融"
         ],
         "tickers": [
-          "凯德石英(920179)"
+          "邵阳液压(301079)"
         ],
         "importance": 1,
         "noticeType": "股本变动"
       },
       {
-        "title": "四会富仕:关于回购公司股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "summary": "四会富仕(300852)：四会富仕:关于回购公司股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "title": "誉衡药业:002437誉衡药业投资者关系管理信息20260723",
+        "summary": "誉衡药业(002437)：誉衡药业:002437誉衡药业投资者关系管理信息20260723",
         "publishedAt": "2026-07-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300852/AN202607231827289428.html",
+        "url": "https://data.eastmoney.com/notices/detail/002437/AN202607231827295489.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "四会富仕(300852)"
+          "誉衡药业(002437)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "调研活动"
       },
       {
-        "title": "华安证券：拟1亿元至2亿元回购股份用于维护公司价值及股东权益",
-        "summary": "【华安证券：拟1亿元至2亿元回购股份用于维护公司价值及股东权益】华安证券(600909.SH)公告称，公司拟以自有资金通过集中竞价交易方式回购股份，回购金额不低于1亿元(含)，不超过2亿元(含)，回购价格不超过14.90元/股，回购期限自董事会审议通过之日起3个月内。",
-        "publishedAt": "2026-07-23 18:23:43",
+        "title": "豪鹏科技:2026年7月23日投资者关系活动记录表",
+        "summary": "豪鹏科技(001283)：豪鹏科技:2026年7月23日投资者关系活动记录表",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001283/AN202607231827295362.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "豪鹏科技(001283)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002534西子洁能投资者关系管理信息20260723",
+        "summary": "西子洁能(002534)：002534西子洁能投资者关系管理信息20260723",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002534/AN202607231827295391.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "西子洁能(002534)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "6-1发行人最近一年的财务报告及其审计报告以及最近一期的财务报告(申报稿)(上海百润投资控股集团股份有限公司)",
+        "summary": "百润股份(002568)：6-1发行人最近一年的财务报告及其审计报告以及最近一期的财务报告(申报稿)(上海百润投资控股集团股份有限公司)",
+        "publishedAt": "2026-07-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002568/AN202607231827295348.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "百润股份(002568)"
+        ],
+        "importance": 1,
+        "noticeType": "深主板再融资审计报告"
+      },
+      {
+        "title": "美国证券交易委员会将于9月17日举办圆桌会议 讨论24小时交易问题",
+        "summary": "美国证券交易委员会将于9月17日举办圆桌会议，讨论24小时交易问题。",
+        "publishedAt": "2026-07-23 23:10:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607233819059330.html",
+        "url": "https://finance.eastmoney.com/a/202607233819310430.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [
           "金融"
         ],
@@ -83586,66 +83600,15 @@
         "noticeType": ""
       },
       {
-        "title": "中远通：全资子公司拟投资1000万元建设储能PACK生产线",
-        "summary": "【中远通：全资子公司拟投资1000万元建设储能PACK生产线】中远通(301516.SZ)公告称，公司全资子公司深圳市威珀数字能源有限公司拟使用自筹资金1000万元投资建设储能PACK生产线，以完善公司光储充业务布局。项目预计2026年9月底调试完成，并授权总经理在投资总额10%范围内进行额度调整。",
-        "publishedAt": "2026-07-23 18:18:38",
+        "title": "国盾量子：拟与中电信量子集团等签订销售合同",
+        "summary": "【国盾量子：拟与中电信量子集团等签订销售合同】国盾量子(688027.SH)公告称，公司拟与控股股东中电信量子集团签订2份销售商品合同，金额分别为3770.70万元和1169.55万元；另拟与参股公司中电信量子科技签订1份销售商品合同，金额为273.91万元。",
+        "publishedAt": "2026-07-23 23:08:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607233819045689.html",
+        "url": "https://finance.eastmoney.com/a/202607233819310365.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "江波龙：控股股东提议4亿元-8亿元回购公司股份",
-        "summary": "【江波龙：控股股东提议4亿元-8亿元回购公司股份】江波龙公告，公司收到控股股东、实际控制人、董事长兼总经理蔡华波提议，使用自有或自筹资金以集中竞价交易方式回购公司股份，用于股权激励或员工持股计划。回购资金总额不低于4亿元且不超过8亿元。回购价格不高于公司董事会审议通过回购股份方案决议前30个交易日公司股票交易均价的150%。",
-        "publishedAt": "2026-07-23 18:16:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607233819042565.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "惠威科技：拟以4000万元-8000万元回购公司股份",
-        "summary": "【惠威科技：拟以4000万元-8000万元回购公司股份】惠威科技公告，拟使用自有资金以集中竞价交易方式回购公司股份，用于维护公司价值及股东权益（出售）。回购股份的资金总额不低于4000万元且不超过8000万元，回购价格不超过18.50元/股。",
-        "publishedAt": "2026-07-23 18:13:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607233819042274.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "鹏鼎控股：拟100亿元新建深圳第三园区 并建设人工智能高阶类载板及柔性电路板智造基地项目",
-        "summary": "【鹏鼎控股：拟投资100亿元新建深圳第三园区并建设人工智能高阶类载板及柔性电路板智造基地项目】鹏鼎控股(002938)7月23日公告，公司拟投资100亿元新建深圳第三园区，并建设人工智能高阶类载板及柔性电路板智造基地项目，本项目计划自2026年7月启动，至2033年建成投产。",
-        "publishedAt": "2026-07-23 18:08:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607233819040775.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -83843,15 +83806,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-23 18:30:31",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-07-23 23:16:43",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 金融、AI算力、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：电网设备、电池、工业金属；首看 电网设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -83882,7 +83845,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-23 18:29:21",
+        "generatedAt": "2026-07-23 23:15:34",
         "summary": "上午情绪分 100，涨停 116 家，跌停 2 家，炸板 25 家，连板 15 家，最高 6 板。",
         "sections": [
           {
@@ -83921,7 +83884,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-23 18:29:21",
+        "generatedAt": "2026-07-23 23:15:34",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -83947,7 +83910,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "今日跌停 2 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST益通:关于控股股东及实际控制人部分股份被冻结及轮候冻结的公告；福赛科技:关于持股5%以上股东股份质押的公告。",
+              "新闻/公告风险：*ST萃华:关于公司股票存在可能因市值被终止上市的第一次风险提示公告；奔朗新材:股东减持股份结果公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
