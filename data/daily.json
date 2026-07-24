@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-24",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-24 23:00:52",
+    "generatedAt": "2026-07-24 23:09:10",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -76307,14 +76307,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-24",
-    "generatedAt": "2026-07-24 23:01:34",
+    "generatedAt": "2026-07-24 23:09:49",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
       {
         "name": "金融",
-        "score": 12,
+        "score": 14,
         "isFocusBoard": false
       },
       {
@@ -76328,13 +76328,18 @@
         "isFocusBoard": true
       },
       {
-        "name": "AI算力",
+        "name": "医药",
         "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 2,
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -76587,20 +76592,6 @@
         "noticeType": ""
       },
       {
-        "title": "四川发布超120亿元国资国企应用场景需求清单",
-        "summary": "【四川发布超120亿元国资国企应用场景需求清单】四川省国资国企应用场景开放对接大会24日在成都举办，一次性推出111个标杆应用场景需求清单，总投资规模超120亿元，面向全社会企业、高校和科研院所敞开合作大门。",
-        "publishedAt": "2026-07-24 22:14:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607243820792197.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "美国7月23日10年期TIPS竞拍-高收益率(%)",
         "summary": "美国7月23日10年期TIPS竞拍-高收益率(%)；公布 2.44，预期 nan，前值 2.17。",
         "publishedAt": "2026-07-24 01:00",
@@ -76618,6 +76609,20 @@
         "title": "美国7月23日10年期TIPS竞拍-总金额(亿美元)",
         "summary": "美国7月23日10年期TIPS竞拍-总金额(亿美元)；公布 210.0，预期 nan，前值 190.0。",
         "publishedAt": "2026-07-24 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至7月22日美联储资产负债表(万亿美元)",
+        "summary": "美国截至7月22日美联储资产负债表(万亿美元)；公布 6.75，预期 nan，前值 6.74。",
+        "publishedAt": "2026-07-24 04:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -76723,8 +76728,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-24 23:01:34",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-07-24 23:09:49",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
@@ -76762,7 +76767,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-24 23:00:52",
+        "generatedAt": "2026-07-24 23:09:10",
         "summary": "上午情绪分 47，涨停 40 家，跌停 25 家，炸板 11 家，连板 17 家，最高 4 板。",
         "sections": [
           {
@@ -76801,7 +76806,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-24 23:00:52",
+        "generatedAt": "2026-07-24 23:09:10",
         "summary": "市场温度 弱，情绪周期偏分歧。修复力度一般，仓位不宜激进",
         "sections": [
           {
