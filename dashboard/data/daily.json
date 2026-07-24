@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-24",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-24 18:25:02",
+    "generatedAt": "2026-07-24 23:00:52",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -1.61,
       "turnover": "9154亿",
       "turnoverValue": 915366398293.0,
-      "quoteTime": "2026-07-24 16:14:01",
+      "quoteTime": "2026-07-24 16:14:20",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -0.14,
       "turnover": "1205亿",
       "turnoverValue": 120544745795.0,
-      "quoteTime": "2026-07-24 16:14:13",
+      "quoteTime": "2026-07-24 16:14:14",
       "source": "腾讯直连"
     }
   ],
@@ -76307,29 +76307,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-24",
-    "generatedAt": "2026-07-24 18:25:34",
+    "generatedAt": "2026-07-24 23:01:34",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
       {
-        "name": "有色稀土",
+        "name": "金融",
         "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 5,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -76338,243 +76328,274 @@
         "isFocusBoard": true
       },
       {
-        "name": "医药",
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST合纵:关于被债权人申请重整及预重整的专项自查公告",
-        "summary": "ST合纵(300477)：ST合纵:关于被债权人申请重整及预重整的专项自查公告",
+        "title": "德石股份:股票交易异常波动公告",
+        "summary": "德石股份(301158)：德石股份:股票交易异常波动公告",
         "publishedAt": "2026-07-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300477/AN202607241827319900.html",
+        "url": "https://data.eastmoney.com/notices/detail/301158/AN202607241827326734.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST合纵(300477)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "ST合纵:关于公司被债权人申请重整及预重整的提示性公告",
-        "summary": "ST合纵(300477)：ST合纵:关于公司被债权人申请重整及预重整的提示性公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300477/AN202607241827319899.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST合纵(300477)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "浙江华远:关于股票交易异常波动的公告",
-        "summary": "浙江华远(301535)：浙江华远:关于股票交易异常波动的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301535/AN202607241827319898.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "浙江华远(301535)"
+          "德石股份(301158)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "中能电气:关于公司股票交易异常波动的公告",
-        "summary": "中能电气(300062)：中能电气:关于公司股票交易异常波动的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300062/AN202607241827319718.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "中能电气(300062)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "北方长龙:股票交易异常波动公告",
-        "summary": "北方长龙(301357)：北方长龙:股票交易异常波动公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301357/AN202607241827319720.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "北方长龙(301357)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "东土科技:关于授权使用闲置自有资金进行现金管理的公告",
-        "summary": "东土科技(300353)：东土科技:关于授权使用闲置自有资金进行现金管理的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300353/AN202607241827320117.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东土科技(300353)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "东土科技:关于使用闲置募集资金进行现金管理的公告",
-        "summary": "东土科技(300353)：东土科技:关于使用闲置募集资金进行现金管理的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300353/AN202607241827320115.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东土科技(300353)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "宇瞳光学:关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
-        "summary": "宇瞳光学(300790)：宇瞳光学:关于回购股份事项前十大股东及前十大无限售条件股东持股情况的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300790/AN202607241827319713.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "宇瞳光学(300790)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "宇瞳光学:关于首次回购公司股份的公告",
-        "summary": "宇瞳光学(300790)：宇瞳光学:关于首次回购公司股份的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300790/AN202607241827319717.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "宇瞳光学(300790)"
-        ],
-        "importance": 1,
-        "noticeType": "回购实施公告"
-      },
-      {
-        "title": "拓新药业:关于实际控制人、董事、高级管理人员及核心骨干人员增持公司股份进展的公告",
-        "summary": "拓新药业(301089)：拓新药业:关于实际控制人、董事、高级管理人员及核心骨干人员增持公司股份进展的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301089/AN202607241827319715.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "拓新药业(301089)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "新铝时代:关于对外投资进展暨控股子公司取得营业执照的公告",
-        "summary": "新铝时代(301613)：新铝时代:关于对外投资进展暨控股子公司取得营业执照的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301613/AN202607241827319716.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [
-          "新铝时代(301613)"
-        ],
-        "importance": 1,
-        "noticeType": "公司关联方基本资料变更"
-      },
-      {
-        "title": "关于同意石基信息重大资产重组注册的批复",
-        "summary": "石基信息(002153)：关于同意石基信息重大资产重组注册的批复",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002153/AN202607241827319693.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "石基信息(002153)"
-        ],
-        "importance": 1,
-        "noticeType": "深主板并购重组审核注册结果通知"
-      },
-      {
-        "title": "北京海淀区张光明：今年已有20颗“海淀星”发射 在轨商业卫星破百",
-        "summary": "【北京海淀区张光明：今年已有20颗“海淀星”发射 在轨商业卫星破百】今日，在北京卫星产业生态发展大会上，海淀区副区长张光明表示，2026年开年以来，仅前三个多月已有20颗“海淀星”发射。目前，海淀企业在轨运营的商业卫星数量已突破百颗，位居国内前列。",
-        "publishedAt": "2026-07-24 18:17:38",
+        "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
+        "summary": "【重庆彭水山体崩塌灾害现场新搜寻出3名遇难者】据央视新闻，7月17日9时许，重庆彭水汉葭街道发生大型山体崩塌灾害。7月24日晚，彭水县发布情况通报，经对灾害现场巨石开展多轮爆破后，降低了现场救援危险和次生灾害的风险，现进一步拓宽多个搜救作业面，专业救援队伍和大型设备24小时不间断搜寻排查。截至7月24日22时，新搜寻出3名遇难者。搜救工作仍在紧张有序开展。",
+        "publishedAt": "2026-07-24 22:32:30",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607243820595722.html",
+        "url": "https://finance.eastmoney.com/a/202607243820808671.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "军工"
-        ],
+        "impact": "风险",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "东方电子：拟投资24.7亿元建设智慧能源创新产业园",
-        "summary": "【东方电子：拟投资24.7亿元建设智慧能源创新产业园】东方电子(000682.SZ)公告称，公司计划以自有资金投资24.7亿元用于智慧能源创新产业园项目建设，包括购置535亩土地及后续建设。项目分三期推进，预计回收周期为6.2年至6.6年。",
-        "publishedAt": "2026-07-24 18:05:35",
+        "title": "美国财政部宣布对伊朗实施新一轮制裁",
+        "summary": "【美国财政部宣布对伊朗实施新一轮制裁】当地时间7月24日，美国财政部宣布对伊朗实施新的制裁，涉及四名个人和九家企业，其中包括一家位于土耳其的企业和两家位于阿联酋的企业。",
+        "publishedAt": "2026-07-24 22:25:43",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607243820583457.html",
+        "url": "https://finance.eastmoney.com/a/202607243820799412.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "宏英智能:2026年7月24日投资者关系活动记录表",
+        "summary": "宏英智能(001266)：宏英智能:2026年7月24日投资者关系活动记录表",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001266/AN202607241827328647.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宏英智能(001266)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "康美特:关于使用闲置自有资金购买理财产品的公告",
+        "summary": "康美特(920189)：康美特:关于使用闲置自有资金购买理财产品的公告",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607241827327376.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "康美特(920189)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "无锡晶海:关于使用闲置自有资金购买理财产品进展的公告",
+        "summary": "无锡晶海(920547)：无锡晶海:关于使用闲置自有资金购买理财产品进展的公告",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920547/AN202607241827318005.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "无锡晶海(920547)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "宁波银行:2026年7月24日投资者关系活动记录表",
+        "summary": "宁波银行(002142)：宁波银行:2026年7月24日投资者关系活动记录表",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002142/AN202607241827315332.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "宁波银行(002142)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "聚灿光电2026年半年度报告解读",
+        "summary": "聚灿光电(300708)：聚灿光电2026年半年度报告解读",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300708/AN202607241827328155.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "聚灿光电(300708)"
+        ],
+        "importance": 1,
+        "noticeType": "其他投资者关系"
+      },
+      {
+        "title": "康美特:关于调整募集资金投资项目拟投入募集资金金额的公告",
+        "summary": "康美特(920189)：康美特:关于调整募集资金投资项目拟投入募集资金金额的公告",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607241827327374.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "康美特(920189)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "康美特:广发证券股份有限公司关于北京康美特科技股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
+        "summary": "康美特(920189)：康美特:广发证券股份有限公司关于北京康美特科技股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607241827327378.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "康美特(920189)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "九强生物:关于本次限制性股票回购注销不调整可转债转股价格的公告",
+        "summary": "九强生物(300406)：九强生物:关于本次限制性股票回购注销不调整可转债转股价格的公告",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300406/AN202607241827326814.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "九强生物(300406)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "九强生物:关于部分限制性股票回购注销完成的公告",
+        "summary": "九强生物(300406)：九强生物:关于部分限制性股票回购注销完成的公告",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300406/AN202607241827326803.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "九强生物(300406)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "美年健康:美年健康2026年7月24日投资者关系活动记录表",
+        "summary": "美年健康(002044)：美年健康:美年健康2026年7月24日投资者关系活动记录表",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002044/AN202607241827326571.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美年健康(002044)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "地铁设计:2026年7月24日投资者关系活动记录表",
+        "summary": "地铁设计(003013)：地铁设计:2026年7月24日投资者关系活动记录表",
+        "publishedAt": "2026-07-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003013/AN202607241827326222.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "地铁设计(003013)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "伊朗外长：美伊之间不缺斡旋方 问题在于美国本身",
+        "summary": "【伊朗外长：美伊之间不缺斡旋方 问题在于美国本身】当地时间24日，伊朗外长阿拉格齐在接受采访时表示，伊朗与美国之间不存在“缺少斡旋方”的问题，症结在于美国的政策和做法。",
+        "publishedAt": "2026-07-24 22:47:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607243820819189.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "能源"
-        ],
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "四川发布超120亿元国资国企应用场景需求清单",
+        "summary": "【四川发布超120亿元国资国企应用场景需求清单】四川省国资国企应用场景开放对接大会24日在成都举办，一次性推出111个标杆应用场景需求清单，总投资规模超120亿元，面向全社会企业、高校和科研院所敞开合作大门。",
+        "publishedAt": "2026-07-24 22:14:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607243820792197.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -76603,36 +76624,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至7月22日美联储资产负债表(万亿美元)",
-        "summary": "美国截至7月22日美联储资产负债表(万亿美元)；公布 6.75，预期 nan，前值 6.74。",
-        "publishedAt": "2026-07-24 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月22日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国7月22日COMEX黄金库存-每日更新(百盎司)；公布 270078.23，预期 nan，前值 270694.14。",
-        "publishedAt": "2026-07-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -76732,15 +76723,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-24 18:25:34",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-07-24 23:01:34",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：半导体；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -76771,7 +76762,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-24 18:25:02",
+        "generatedAt": "2026-07-24 23:00:52",
         "summary": "上午情绪分 47，涨停 40 家，跌停 25 家，炸板 11 家，连板 17 家，最高 4 板。",
         "sections": [
           {
@@ -76810,7 +76801,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-24 18:25:02",
+        "generatedAt": "2026-07-24 23:00:52",
         "summary": "市场温度 弱，情绪周期偏分歧。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -76836,7 +76827,7 @@
               "今日炸板 11 只，追高前先看前排封单和回封质量。",
               "今日跌停 25 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST合纵:关于被债权人申请重整及预重整的专项自查公告；ST合纵:关于公司被债权人申请重整及预重整的提示性公告。",
+              "新闻/公告风险：德石股份:股票交易异常波动公告；重庆彭水山体崩塌灾害现场新搜寻出3名遇难者。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
