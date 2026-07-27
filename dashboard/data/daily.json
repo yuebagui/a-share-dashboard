@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-27",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-27 18:53:13",
+    "generatedAt": "2026-07-27 18:57:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -77480,10 +77480,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-27",
-    "generatedAt": "2026-07-27 18:54:05",
+    "generatedAt": "2026-07-27 18:57:54",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、能源、有色稀土。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
         "name": "金融",
@@ -77492,12 +77494,7 @@
       },
       {
         "name": "能源",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 3,
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -77904,15 +77901,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-27 18:54:05",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-07-27 18:57:54",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、阿里巴巴概念、腾讯概念；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -77943,7 +77940,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-27 18:53:13",
+        "generatedAt": "2026-07-27 18:57:00",
         "summary": "上午情绪分 100，涨停 111 家，跌停 6 家，炸板 13 家，连板 8 家，最高 5 板。",
         "sections": [
           {
@@ -77982,7 +77979,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-27 18:53:13",
+        "generatedAt": "2026-07-27 18:57:00",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
