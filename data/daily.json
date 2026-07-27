@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-27",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-27 18:57:00",
+    "generatedAt": "2026-07-27 19:31:25",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -93277,7 +93277,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -93441,16 +93442,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-27",
-    "generatedAt": "2026-07-27 18:57:54",
+    "generatedAt": "2026-07-27 19:32:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、能源、AI算力。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、半导体、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 18,
+        "score": 20,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -93459,7 +93468,22 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "有色稀土",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
@@ -93530,91 +93554,105 @@
         "noticeType": "独立董事提名人声明"
       },
       {
-        "title": "双杰电气:关于股票交易异常波动的公告",
-        "summary": "双杰电气(300444)：双杰电气:关于股票交易异常波动的公告",
+        "title": "通合科技:关于股东减持计划期限届满的公告",
+        "summary": "通合科技(300491)：通合科技:关于股东减持计划期限届满的公告",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300444/AN202607271827389658.html",
+        "url": "https://data.eastmoney.com/notices/detail/300491/AN202607271827390356.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "双杰电气(300444)"
+          "通合科技(300491)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "中光防雷:关于公司股价异动公告",
-        "summary": "中光防雷(300414)：中光防雷:关于公司股价异动公告",
+        "title": "彩讯股份:立信会计师事务所(特殊普通合伙)关于彩讯科技股份有限公司向不特定对象发行可转换公司债券问询函的回复",
+        "summary": "彩讯股份(300634)：彩讯股份:立信会计师事务所(特殊普通合伙)关于彩讯科技股份有限公司向不特定对象发行可转换公司债券问询函的回复",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300414/AN202607271827389572.html",
+        "url": "https://data.eastmoney.com/notices/detail/300634/AN202607271827390276.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "中光防雷(300414)"
+          "彩讯股份(300634)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "昆工科技:股权质押的公告",
-        "summary": "昆工科技(920152)：昆工科技:股权质押的公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920152/AN202607271827389264.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "金融监管总局：稳步推进中小金融机构改革化险 有效防范化解重点领域风险",
+        "summary": "【金融监管总局：稳步推进中小金融机构改革化险 有效防范化解重点领域风险】7月27日，金融监管总局召开系统党的建设工作会议暨2026年年中工作会议。会议强调，全系统要坚决把思想和行动统一到党中央对当前形势的科学判断和决策部署上来，统筹推进防风险、强监管、促高质量发展各项工作。树牢底线思维，稳步推进中小金融机构改革化险，有效防范化解重点领域风险，坚决守住不发生…",
+        "publishedAt": "2026-07-27 19:23:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273822267426.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "赛分科技：股东疌泉成达及董事张敏拟合计减持不超422.4万股公司股份",
+        "summary": "【赛分科技：股东疌泉成达及董事张敏拟合计减持不超422.4万股公司股份】赛分科技7月27日公告，公司持股5%以上股东江苏疌泉成达股权投资中心（有限合伙）因基金期限与流动性资金安排原因，计划自2026年8月18日起至2026年11月17日止，通过集中竞价方式减持公司股份不超过416.46万股，即不超过公司总股本的1%。",
+        "publishedAt": "2026-07-27 19:16:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273822262180.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "昆工科技(920152)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": ""
       },
       {
-        "title": "ST荣科:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "summary": "ST荣科(300290)：ST荣科:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300290/AN202607271827389263.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "瑞银：英特尔代工业务叙事持续改善 但高资本开支限制估值空间",
+        "summary": "【瑞银：英特尔代工业务叙事持续改善 但高资本开支限制估值空间】瑞银在最新研报中表示，英特尔第二季度业绩及第三季度指引均好于投资者此前预期，晶圆产出增加和生产周期缩短缓解了供应瓶颈，制造业务前景继续改善。不过，产品竞争力、资本开支融资及潜在股东摊薄风险仍未消除，因此维持“中性”评级和121美元目标价。",
+        "publishedAt": "2026-07-27 19:15:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273822261723.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST荣科(300290)"
+        "themes": [
+          "半导体"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "其它风险提示公告"
+        "noticeType": ""
       },
       {
-        "title": "昆工科技:关于控股股东、实际控制人增持股份计划的公告",
-        "summary": "昆工科技(920152)：昆工科技:关于控股股东、实际控制人增持股份计划的公告",
+        "title": "罗博特科:关于签订日常经营重大合同的公告",
+        "summary": "罗博特科(300757)：罗博特科:关于签订日常经营重大合同的公告",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920152/AN202607271827389265.html",
+        "url": "https://data.eastmoney.com/notices/detail/300757/AN202607271827390413.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "昆工科技(920152)"
+          "罗博特科(300757)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
+        "noticeType": "重大合同"
       },
       {
-        "title": "法本信息:关于收到控股股东、实际控制人、董事长兼总经理提议回购公司股份的提示性公告",
-        "summary": "法本信息(300925)：法本信息:关于收到控股股东、实际控制人、董事长兼总经理提议回购公司股份的提示性公告",
+        "title": "特锐德:关于收到实际控制人、董事长提议回购公司股份的提示性公告",
+        "summary": "特锐德(300001)：特锐德:关于收到实际控制人、董事长提议回购公司股份的提示性公告",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300925/AN202607271827389200.html",
+        "url": "https://data.eastmoney.com/notices/detail/300001/AN202607271827390411.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -93622,17 +93660,49 @@
           "金融"
         ],
         "tickers": [
-          "法本信息(300925)"
+          "特锐德(300001)"
         ],
         "importance": 1,
         "noticeType": "回购预案"
       },
       {
-        "title": "华伍股份:关于回购公司股份方案的公告",
-        "summary": "华伍股份(300095)：华伍股份:关于回购公司股份方案的公告",
+        "title": "古鳌科技:关于参与投资设立股权投资基金的公告",
+        "summary": "古鳌科技(300551)：古鳌科技:关于参与投资设立股权投资基金的公告",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300095/AN202607271827389199.html",
+        "url": "https://data.eastmoney.com/notices/detail/300551/AN202607271827390414.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "古鳌科技(300551)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "五新智能:关于使用闲置自有资金购买理财产品进展的公告",
+        "summary": "五新智能(920174)：五新智能:关于使用闲置自有资金购买理财产品进展的公告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920174/AN202607271827390315.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "五新智能(920174)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "四会富仕:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "summary": "四会富仕(300852)：四会富仕:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300852/AN202607271827390274.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -93640,33 +93710,50 @@
           "金融"
         ],
         "tickers": [
-          "华伍股份(300095)"
+          "四会富仕(300852)"
         ],
         "importance": 1,
-        "noticeType": "回购预案"
+        "noticeType": "借贷"
       },
       {
-        "title": "嘉曼服饰:2026年7月27日投资者关系活动记录表",
-        "summary": "嘉曼服饰(301276)：嘉曼服饰:2026年7月27日投资者关系活动记录表",
+        "title": "彩讯股份:关于公司与专业投资机构共同投资的进展公告",
+        "summary": "彩讯股份(300634)：彩讯股份:关于公司与专业投资机构共同投资的进展公告",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301276/AN202607271827389140.html",
+        "url": "https://data.eastmoney.com/notices/detail/300634/AN202607271827390277.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "嘉曼服饰(301276)"
+          "彩讯股份(300634)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "对外项目投资"
       },
       {
-        "title": "永臻股份：拟4000万元-8000万元回购公司股份 回购价不超22.79元/股",
-        "summary": "【永臻股份：拟4000万元-8000万元回购公司股份 回购价不超22.79元/股】永臻股份7月27日公告，公司拟以不低于4000万元（含）且不超过8000万元（含）通过集中竞价交易方式回购股份，用于实施员工持股计划或股权激励，回购股份价格不超过22.79元/股（含）。",
-        "publishedAt": "2026-07-27 18:46:39",
+        "title": "深圳再添两个百亿级半导体项目",
+        "summary": "【深圳再添两个百亿级半导体项目】两大电子产业链龙头企业相继披露重大投资计划，项目双双落子深圳，合计规划投资规模超过200亿元，分别瞄准AI服务器电路板和半导体大尺寸硅片两大高成长赛道。",
+        "publishedAt": "2026-07-27 19:28:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822240361.html",
+        "url": "https://finance.eastmoney.com/a/202607273822275039.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "三花智控：拟以2亿元-4亿元回购公司A股股份",
+        "summary": "【三花智控：拟以2亿元-4亿元回购公司A股股份】三花智控(002050.SZ)公告称，公司拟使用自有资金以集中竞价交易方式回购公司A股股份，回购金额不低于2亿元且不超过4亿元，回购价格不超过60元/股。回购股份将用于后续股权激励计划或员工持股计划，实施期限为自董事会审议通过之日起12个月内。",
+        "publishedAt": "2026-07-27 19:18:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273822263691.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -93678,71 +93765,11 @@
         "noticeType": ""
       },
       {
-        "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
-        "summary": "【美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击】当前，距离美国11月国会中期选举只有约100天。高盛策略师警告称，投资者的注意力可能会在未来几周逐步转向中期选举带来的政治不确定性，美股市场可能从8月起将会逐步感受到中期选举带来的冲击。",
-        "publishedAt": "2026-07-27 18:42:30",
+        "title": "恩捷股份：获金融机构1.8亿元股票回购贷款支持",
+        "summary": "【恩捷股份：获金融机构1.8亿元股票回购贷款支持】恩捷股份(002812.SZ)公告称，公司近日收到工商银行玉溪分行出具的《贷款承诺函》，同意为公司提供股票回购专项贷款，贷款金额为1.8亿元，期限不超过3年。",
+        "publishedAt": "2026-07-27 19:13:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822236249.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "华伍股份：拟8000万元-1.5亿元回购公司股份 回购价不超12元/股",
-        "summary": "【华伍股份：拟8000万元-1.5亿元回购公司股份 回购价不超12元/股】华伍股份7月27日公告，拟以集中竞价或法律法规允许的方式回购公司股份，回购总金额不低于8000万元且不超过1.5亿元。回购价格不超过12元/股。回购股份将用于实施员工持股计划或股权激励计划。",
-        "publishedAt": "2026-07-27 18:42:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822239956.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "法本信息：控股股东提议回购3000万元-6000万元公司股份",
-        "summary": "【法本信息：控股股东提议回购3000万元-6000万元公司股份】法本信息7月27日公告，公司控股股东、实际控制人、董事长兼总经理严华提议公司使用自有资金及/或自筹资金以集中竞价方式回购公司部分普通股（A股）股票。本次回购资金总额不低于3000万元（含）且不超过6000万元（含）。",
-        "publishedAt": "2026-07-27 18:42:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822239746.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "ST司特：全资孙公司拟投资8.66亿元建设精细磷酸盐转型升级项目",
-        "summary": "【ST司特：全资孙公司拟投资8.66亿元建设精细磷酸盐转型升级项目】ST司特(002538.SZ)公告称，公司全资孙公司宣城司尔特拟与安徽宣城高新技术产业开发区管理委员会签订项目投资协议，投资建设精细磷酸盐转型升级项目，总规划投资约8.66亿元。",
-        "publishedAt": "2026-07-27 18:41:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822237854.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "物产金轮：拟3000万元-6000万元回购公司股份，回购价不超14元/股",
-        "summary": "【物产金轮：拟3000万元-6000万元回购公司股份，回购价不超14元/股】物产金轮7月27日公告，公司拟以3000万元-6000万元回购股份，用于维护公司价值及股东权益，回购价格不超过14元/股。",
-        "publishedAt": "2026-07-27 18:40:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822239579.html",
+        "url": "https://finance.eastmoney.com/a/202607273822261934.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -93862,15 +93889,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-27 18:57:54",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-07-27 19:32:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、半导体、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、阿里巴巴概念、腾讯概念；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、半导体、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93901,7 +93928,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-27 18:57:00",
+        "generatedAt": "2026-07-27 19:31:25",
         "summary": "上午情绪分 100，涨停 111 家，跌停 6 家，炸板 13 家，连板 8 家，最高 5 板。",
         "sections": [
           {
@@ -93940,7 +93967,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-27 18:57:00",
+        "generatedAt": "2026-07-27 19:31:25",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
