@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-24",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-24 23:09:10",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-24 23:09:10",
+    "lastNewsAt": "2026-07-27 12:23:07"
   },
   "indices": [
     {
@@ -76306,29 +76308,31 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-24",
-    "generatedAt": "2026-07-24 23:09:49",
+    "tradeDate": "2026-07-27",
+    "generatedAt": "2026-07-27 12:23:07",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
+    "errors": [
+      "macro-calendar: cannot convert float NaN to integer"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 半导体、金融、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
         "name": "半导体",
-        "score": 5,
+        "score": 10,
         "isFocusBoard": true
       },
       {
-        "name": "医药",
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 4,
         "isFocusBoard": false
       },
@@ -76338,299 +76342,311 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "医药",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "德石股份:股票交易异常波动公告",
-        "summary": "德石股份(301158)：德石股份:股票交易异常波动公告",
-        "publishedAt": "2026-07-24",
+        "title": "*ST步森:独立董事提名人声明与承诺-林善浪",
+        "summary": "*ST步森(002569)：*ST步森:独立董事提名人声明与承诺-林善浪",
+        "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301158/AN202607241827326734.html",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362101.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "德石股份(301158)"
+          "*ST步森(002569)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "独立董事提名人声明"
       },
       {
-        "title": "重庆彭水山体崩塌灾害现场新搜寻出3名遇难者",
-        "summary": "【重庆彭水山体崩塌灾害现场新搜寻出3名遇难者】据央视新闻，7月17日9时许，重庆彭水汉葭街道发生大型山体崩塌灾害。7月24日晚，彭水县发布情况通报，经对灾害现场巨石开展多轮爆破后，降低了现场救援危险和次生灾害的风险，现进一步拓宽多个搜救作业面，专业救援队伍和大型设备24小时不间断搜寻排查。截至7月24日22时，新搜寻出3名遇难者。搜救工作仍在紧张有序开展。",
-        "publishedAt": "2026-07-24 22:32:30",
+        "title": "*ST步森:董事会议事规则(2026年7月)",
+        "summary": "*ST步森(002569)：*ST步森:董事会议事规则(2026年7月)",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362104.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "议事规则/实施细则"
+      },
+      {
+        "title": "*ST步森:第七届董事会第十三次会议决议公告",
+        "summary": "*ST步森(002569)：*ST步森:第七届董事会第十三次会议决议公告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362099.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "*ST步森:关于召开2026年第二次临时股东会的通知",
+        "summary": "*ST步森(002569)：*ST步森:关于召开2026年第二次临时股东会的通知",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362096.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "召开股东大会通知"
+      },
+      {
+        "title": "*ST步森:独立董事候选人声明与承诺-林善浪",
+        "summary": "*ST步森(002569)：*ST步森:独立董事候选人声明与承诺-林善浪",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362098.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "独立董事候选人声明"
+      },
+      {
+        "title": "*ST步森:独立董事提名人声明与承诺-魏雯丽",
+        "summary": "*ST步森(002569)：*ST步森:独立董事提名人声明与承诺-魏雯丽",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362097.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "独立董事提名人声明"
+      },
+      {
+        "title": "*ST步森:关于修订《公司章程》及其附件的公告",
+        "summary": "*ST步森(002569)：*ST步森:关于修订《公司章程》及其附件的公告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362109.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "公司章程修订"
+      },
+      {
+        "title": "*ST步森:关于董事长、非独立董事、独立董事辞职暨补选董事的公告",
+        "summary": "*ST步森(002569)：*ST步森:关于董事长、非独立董事、独立董事辞职暨补选董事的公告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362102.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "*ST步森:浙江步森服饰股份有限公司章程(2026年7月)",
+        "summary": "*ST步森(002569)：*ST步森:浙江步森服饰股份有限公司章程(2026年7月)",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362107.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST步森(002569)"
+        ],
+        "importance": 1,
+        "noticeType": "公司章程"
+      },
+      {
+        "title": "港股午评：恒生指数涨0.81% 恒生科技指数涨1.69%",
+        "summary": "【港股午评：恒生指数涨0.81% 恒生科技指数涨1.69%】港股午间收盘，恒生指数涨0.81%，恒生科技指数涨1.69%。权重科技股走强，小米集团涨逾7%，美团涨超4%，腾讯控股涨逾2%。芯片股多数下跌，澜起科技、天数智芯跌逾4%，华虹宏力跌超3%，兆易创新跌逾2%。",
+        "publishedAt": "2026-07-27 12:10:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607243820808671.html",
+        "url": "https://finance.eastmoney.com/a/202607273821884029.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国财政部宣布对伊朗实施新一轮制裁",
-        "summary": "【美国财政部宣布对伊朗实施新一轮制裁】当地时间7月24日，美国财政部宣布对伊朗实施新的制裁，涉及四名个人和九家企业，其中包括一家位于土耳其的企业和两家位于阿联酋的企业。",
-        "publishedAt": "2026-07-24 22:25:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607243820799412.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "宏英智能:2026年7月24日投资者关系活动记录表",
-        "summary": "宏英智能(001266)：宏英智能:2026年7月24日投资者关系活动记录表",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001266/AN202607241827328647.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宏英智能(001266)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "康美特:关于使用闲置自有资金购买理财产品的公告",
-        "summary": "康美特(920189)：康美特:关于使用闲置自有资金购买理财产品的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607241827327376.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "康美特(920189)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "无锡晶海:关于使用闲置自有资金购买理财产品进展的公告",
-        "summary": "无锡晶海(920547)：无锡晶海:关于使用闲置自有资金购买理财产品进展的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920547/AN202607241827318005.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "无锡晶海(920547)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "宁波银行:2026年7月24日投资者关系活动记录表",
-        "summary": "宁波银行(002142)：宁波银行:2026年7月24日投资者关系活动记录表",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002142/AN202607241827315332.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [
-          "金融"
+          "半导体"
         ],
-        "tickers": [
-          "宁波银行(002142)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "聚灿光电2026年半年度报告解读",
-        "summary": "聚灿光电(300708)：聚灿光电2026年半年度报告解读",
-        "publishedAt": "2026-07-24",
+        "title": "维通利:关于部分募投项目延期及新增实施地点的公告",
+        "summary": "维通利(001393)：维通利:关于部分募投项目延期及新增实施地点的公告",
+        "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300708/AN202607241827328155.html",
+        "url": "https://data.eastmoney.com/notices/detail/001393/AN202607271827377965.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "聚灿光电(300708)"
-        ],
-        "importance": 1,
-        "noticeType": "其他投资者关系"
-      },
-      {
-        "title": "康美特:关于调整募集资金投资项目拟投入募集资金金额的公告",
-        "summary": "康美特(920189)：康美特:关于调整募集资金投资项目拟投入募集资金金额的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607241827327374.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "康美特(920189)"
+          "维通利(001393)"
         ],
         "importance": 1,
         "noticeType": "变更募集资金投资项目"
       },
       {
-        "title": "康美特:广发证券股份有限公司关于北京康美特科技股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
-        "summary": "康美特(920189)：康美特:广发证券股份有限公司关于北京康美特科技股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
-        "publishedAt": "2026-07-24",
+        "title": "苏泊尔:002032苏泊尔投资者关系管理信息20260727",
+        "summary": "苏泊尔(002032)：苏泊尔:002032苏泊尔投资者关系管理信息20260727",
+        "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920189/AN202607241827327378.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "康美特(920189)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "九强生物:关于本次限制性股票回购注销不调整可转债转股价格的公告",
-        "summary": "九强生物(300406)：九强生物:关于本次限制性股票回购注销不调整可转债转股价格的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300406/AN202607241827326814.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "九强生物(300406)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "九强生物:关于部分限制性股票回购注销完成的公告",
-        "summary": "九强生物(300406)：九强生物:关于部分限制性股票回购注销完成的公告",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300406/AN202607241827326803.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "九强生物(300406)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "美年健康:美年健康2026年7月24日投资者关系活动记录表",
-        "summary": "美年健康(002044)：美年健康:美年健康2026年7月24日投资者关系活动记录表",
-        "publishedAt": "2026-07-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002044/AN202607241827326571.html",
+        "url": "https://data.eastmoney.com/notices/detail/002032/AN202607271827374305.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "美年健康(002044)"
+          "苏泊尔(002032)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "地铁设计:2026年7月24日投资者关系活动记录表",
-        "summary": "地铁设计(003013)：地铁设计:2026年7月24日投资者关系活动记录表",
-        "publishedAt": "2026-07-24",
+        "title": "广电运通:2026年7月23日投资者关系活动记录表",
+        "summary": "广电运通(002152)：广电运通:2026年7月23日投资者关系活动记录表",
+        "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003013/AN202607241827326222.html",
+        "url": "https://data.eastmoney.com/notices/detail/002152/AN202607271827372202.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "地铁设计(003013)"
+          "广电运通(002152)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "伊朗外长：美伊之间不缺斡旋方 问题在于美国本身",
-        "summary": "【伊朗外长：美伊之间不缺斡旋方 问题在于美国本身】当地时间24日，伊朗外长阿拉格齐在接受采访时表示，伊朗与美国之间不存在“缺少斡旋方”的问题，症结在于美国的政策和做法。",
-        "publishedAt": "2026-07-24 22:47:19",
+        "title": "7月27日午间新闻精选",
+        "summary": "【7月27日午间新闻精选】1、截至午间收盘，上证指数涨0.4%，深证成指涨1.41%，创业板指涨1.55%。恒生指数涨0.81%，恒生科技指数涨1.69%。2、长鑫科技今日上市，股价大涨531.06%，换手率58.06%，半日成交1221亿，成为A股历史首只单日成交额突破1000亿元的个股，超越工商银行成为A股总市值“一哥”。3、国家统计局27日发布数据显…",
+        "publishedAt": "2026-07-27 12:05:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607243820819189.html",
+        "url": "https://finance.eastmoney.com/a/202607273821883875.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国7月23日10年期TIPS竞拍-高收益率(%)",
-        "summary": "美国7月23日10年期TIPS竞拍-高收益率(%)；公布 2.44，预期 nan，前值 2.17。",
-        "publishedAt": "2026-07-24 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
+        "title": "智能烹饪机器人企业智谷天厨完成新一轮近亿元战略融资",
+        "summary": "【智能烹饪机器人企业智谷天厨完成新一轮近亿元战略融资】近日，智能烹饪机器人企业智谷天厨宣布完成新一轮近亿元战略融资。本轮融资由招商局创投领投，跃迁资本跟投，云启资本、啟赋资本等老股东超额追投。",
+        "publishedAt": "2026-07-27 12:10:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273821884155.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "机器人"
+        ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国7月23日10年期TIPS竞拍-总金额(亿美元)",
-        "summary": "美国7月23日10年期TIPS竞拍-总金额(亿美元)；公布 210.0，预期 nan，前值 190.0。",
-        "publishedAt": "2026-07-24 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
+        "title": "OpenAI称出现影响ChatGPT的较高错误率",
+        "summary": "OpenAI公告称，出现影响ChatGPT的较高错误率。已实施缓解措施，并在监控ChatGPT的恢复情况。",
+        "publishedAt": "2026-07-27 12:09:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273821884292.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至7月22日美联储资产负债表(万亿美元)",
-        "summary": "美国截至7月22日美联储资产负债表(万亿美元)；公布 6.75，预期 nan，前值 6.74。",
-        "publishedAt": "2026-07-24 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
+        "title": "三星李在镕与OpenAI阿尔特曼会面 有望扩大AI基础设施合作",
+        "summary": "【三星李在镕与OpenAI阿尔特曼会面 有望扩大AI基础设施合作】当地时间25日，三星电子董事长李在镕在美国旧金山OpenAI总部与OpenAICEO萨姆·阿尔特曼会面，探讨了人工智能和半导体领域的合作计划。尽管会谈的具体细节并未披露，但分析人士认为，双方极有可能讨论了如何扩大在人工智能基础设施领域的合作，例如高带宽内存、DRAM和先进晶圆代工等。两家公司…",
+        "publishedAt": "2026-07-27 12:03:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273821883728.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上海港刷新国内港口单航次商品车装船量新纪录",
+        "summary": "【上海港刷新国内港口单航次商品车装船量新纪录】巴拿马籍“格罗唯视·领航”轮、马耳他籍“格罗唯视·诺瓦”轮两艘中国制造的万车级汽车滚装船26日同步靠泊上海南港码头，将载运国产商品汽车扬帆驶向海外。其中新交付的“格罗唯视·诺瓦”轮完成7738辆新能源汽车装载作业，创下国内港口单航次商品车装船量新纪录。",
+        "publishedAt": "2026-07-27 12:01:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607273821883623.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "新能源",
+          "汽车链",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -76715,7 +76731,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -76728,15 +76744,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-24 23:09:49",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-07-27 12:23:07",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 半导体、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：半导体；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -76832,7 +76848,7 @@
               "今日炸板 11 只，追高前先看前排封单和回封质量。",
               "今日跌停 25 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：德石股份:股票交易异常波动公告；重庆彭水山体崩塌灾害现场新搜寻出3名遇难者。",
+              "新闻/公告风险：*ST步森:独立董事提名人声明与承诺-林善浪；*ST步森:董事会议事规则(2026年7月)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
