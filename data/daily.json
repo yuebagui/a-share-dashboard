@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-27",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-27 19:31:25",
+    "generatedAt": "2026-07-27 23:48:02",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -93442,29 +93442,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-27",
-    "generatedAt": "2026-07-27 19:32:06",
+    "generatedAt": "2026-07-27 23:49:02",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、半导体、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 能源、金融、有色稀土。",
     "themes": [
       {
-        "name": "金融",
-        "score": 20,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
+        "name": "能源",
         "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 5,
+        "name": "金融",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -93473,17 +93463,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
@@ -93554,59 +93534,63 @@
         "noticeType": "独立董事提名人声明"
       },
       {
-        "title": "通合科技:关于股东减持计划期限届满的公告",
-        "summary": "通合科技(300491)：通合科技:关于股东减持计划期限届满的公告",
+        "title": "ST恒信:关于公司及控股股东、实际控制人收到中国证券监督管理委员会立案告知书的公告",
+        "summary": "ST恒信(300081)：ST恒信:关于公司及控股股东、实际控制人收到中国证券监督管理委员会立案告知书的公告",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300491/AN202607271827390356.html",
+        "url": "https://data.eastmoney.com/notices/detail/300081/AN202607271827391442.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "ST恒信(300081)"
+        ],
+        "importance": 1,
+        "noticeType": "违法违规"
+      },
+      {
+        "title": "扬帆新材:关于控股股东部分股份补充质押的公告",
+        "summary": "扬帆新材(300637)：扬帆新材:关于控股股东部分股份补充质押的公告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300637/AN202607271827391046.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "通合科技(300491)"
+          "扬帆新材(300637)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "彩讯股份:立信会计师事务所(特殊普通合伙)关于彩讯科技股份有限公司向不特定对象发行可转换公司债券问询函的回复",
-        "summary": "彩讯股份(300634)：彩讯股份:立信会计师事务所(特殊普通合伙)关于彩讯科技股份有限公司向不特定对象发行可转换公司债券问询函的回复",
+        "title": "安诺其:董事会关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
+        "summary": "安诺其(300067)：安诺其:董事会关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
         "publishedAt": "2026-07-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300634/AN202607271827390276.html",
+        "url": "https://data.eastmoney.com/notices/detail/300067/AN202607271827390600.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "彩讯股份(300634)"
-        ],
-        "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
-      },
-      {
-        "title": "金融监管总局：稳步推进中小金融机构改革化险 有效防范化解重点领域风险",
-        "summary": "【金融监管总局：稳步推进中小金融机构改革化险 有效防范化解重点领域风险】7月27日，金融监管总局召开系统党的建设工作会议暨2026年年中工作会议。会议强调，全系统要坚决把思想和行动统一到党中央对当前形势的科学判断和决策部署上来，统筹推进防风险、强监管、促高质量发展各项工作。树牢底线思维，稳步推进中小金融机构改革化险，有效防范化解重点领域风险，坚决守住不发生…",
-        "publishedAt": "2026-07-27 19:23:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822267426.html",
-        "category": "market",
-        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
           "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "安诺其(300067)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "赛分科技：股东疌泉成达及董事张敏拟合计减持不超422.4万股公司股份",
-        "summary": "【赛分科技：股东疌泉成达及董事张敏拟合计减持不超422.4万股公司股份】赛分科技7月27日公告，公司持股5%以上股东江苏疌泉成达股权投资中心（有限合伙）因基金期限与流动性资金安排原因，计划自2026年8月18日起至2026年11月17日止，通过集中竞价方式减持公司股份不超过416.46万股，即不超过公司总股本的1%。",
-        "publishedAt": "2026-07-27 19:16:39",
+        "title": "纳斯达克综合指数向下跌破25000点",
+        "summary": "【纳斯达克综合指数向下跌破25000点】纳斯达克综合指数向下跌破25000点，最新报24861.26点，日内下跌0.46%",
+        "publishedAt": "2026-07-27 23:44:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822262180.html",
+        "url": "https://finance.eastmoney.com/a/202607273822483581.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -93616,168 +93600,157 @@
         "noticeType": ""
       },
       {
-        "title": "瑞银：英特尔代工业务叙事持续改善 但高资本开支限制估值空间",
-        "summary": "【瑞银：英特尔代工业务叙事持续改善 但高资本开支限制估值空间】瑞银在最新研报中表示，英特尔第二季度业绩及第三季度指引均好于投资者此前预期，晶圆产出增加和生产周期缩短缓解了供应瓶颈，制造业务前景继续改善。不过，产品竞争力、资本开支融资及潜在股东摊薄风险仍未消除，因此维持“中性”评级和121美元目标价。",
-        "publishedAt": "2026-07-27 19:15:28",
+        "title": "以色列前高官发联名信警告约旦河西岸局势或升级",
+        "summary": "【以色列前高官发联名信警告约旦河西岸局势或升级】约600名以色列军方、警方、国家安全总局以及情报和特勤局前高级官员联合致信美国总统特朗普，呼吁美方敦促以色列政府遏制约旦河西岸日益加剧的定居者暴力，并警告当地局势可能导致冲突升级。联名信指出，约旦河西岸的冲突可能进一步升级，不断增加的暴力活动正在“危及以色列安全、美国利益和地区稳定”。",
+        "publishedAt": "2026-07-27 23:38:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822261723.html",
+        "url": "https://finance.eastmoney.com/a/202607273822479979.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "半导体"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "罗博特科:关于签订日常经营重大合同的公告",
-        "summary": "罗博特科(300757)：罗博特科:关于签订日常经营重大合同的公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300757/AN202607271827390413.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "罗博特科(300757)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "特锐德:关于收到实际控制人、董事长提议回购公司股份的提示性公告",
-        "summary": "特锐德(300001)：特锐德:关于收到实际控制人、董事长提议回购公司股份的提示性公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300001/AN202607271827390411.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "特锐德(300001)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "古鳌科技:关于参与投资设立股权投资基金的公告",
-        "summary": "古鳌科技(300551)：古鳌科技:关于参与投资设立股权投资基金的公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300551/AN202607271827390414.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "古鳌科技(300551)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "五新智能:关于使用闲置自有资金购买理财产品进展的公告",
-        "summary": "五新智能(920174)：五新智能:关于使用闲置自有资金购买理财产品进展的公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920174/AN202607271827390315.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "五新智能(920174)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "四会富仕:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "summary": "四会富仕(300852)：四会富仕:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300852/AN202607271827390274.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "四会富仕(300852)"
-        ],
-        "importance": 1,
-        "noticeType": "借贷"
-      },
-      {
-        "title": "彩讯股份:关于公司与专业投资机构共同投资的进展公告",
-        "summary": "彩讯股份(300634)：彩讯股份:关于公司与专业投资机构共同投资的进展公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300634/AN202607271827390277.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "彩讯股份(300634)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "深圳再添两个百亿级半导体项目",
-        "summary": "【深圳再添两个百亿级半导体项目】两大电子产业链龙头企业相继披露重大投资计划，项目双双落子深圳，合计规划投资规模超过200亿元，分别瞄准AI服务器电路板和半导体大尺寸硅片两大高成长赛道。",
-        "publishedAt": "2026-07-27 19:28:26",
+        "title": "2年期美国国债收益率最新下跌1.51个基点",
+        "summary": "【2年期美国国债收益率最新下跌1.51个基点】7月27日，2年期美国国债收益率最新下跌1.51个基点，报4.316%。",
+        "publishedAt": "2026-07-27 23:38:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822275039.html",
+        "url": "https://finance.eastmoney.com/a/202607273822481043.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
+        "impact": "风险",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "三花智控：拟以2亿元-4亿元回购公司A股股份",
-        "summary": "【三花智控：拟以2亿元-4亿元回购公司A股股份】三花智控(002050.SZ)公告称，公司拟使用自有资金以集中竞价交易方式回购公司A股股份，回购金额不低于2亿元且不超过4亿元，回购价格不超过60元/股。回购股份将用于后续股权激励计划或员工持股计划，实施期限为自董事会审议通过之日起12个月内。",
-        "publishedAt": "2026-07-27 19:18:51",
+        "title": "市场人士：行情接入方式变更属常规操作 不针对量化交易",
+        "summary": "【市场人士：行情接入方式变更属常规操作 不针对量化交易】部分券商收到交易所通知并公告：交易所机房内交易行情接入方式统一变更为广域网线路，原局域网交易线路将于2026年7月31日晚间正式关闭。券商将配合实施交易行情接入模式优化调整工作。记者从接近监管的市场人士处获悉，此次属于常规操作，并不针对包括量化在内的特定交易。",
+        "publishedAt": "2026-07-27 23:00:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822263691.html",
+        "url": "https://finance.eastmoney.com/a/202607273822451020.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "impact": "风险",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "恩捷股份：获金融机构1.8亿元股票回购贷款支持",
-        "summary": "【恩捷股份：获金融机构1.8亿元股票回购贷款支持】恩捷股份(002812.SZ)公告称，公司近日收到工商银行玉溪分行出具的《贷款承诺函》，同意为公司提供股票回购专项贷款，贷款金额为1.8亿元，期限不超过3年。",
-        "publishedAt": "2026-07-27 19:13:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822261934.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "双林股份:2026年半年度业绩预告",
+        "summary": "双林股份(300100)：双林股份:2026年半年度业绩预告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300100/AN202607271827390034.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "双林股份(300100)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "盖世食品:股权激励计划限制性股票解除限售公告(更正公告)",
+        "summary": "盖世食品(920826)：盖世食品:股权激励计划限制性股票解除限售公告(更正公告)",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920826/AN202607271827392234.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盖世食品(920826)"
+        ],
+        "importance": 1,
+        "noticeType": "限售股份上市流通"
+      },
+      {
+        "title": "盖世食品:股权激励计划限制性股票解除限售公告(更正后)",
+        "summary": "盖世食品(920826)：盖世食品:股权激励计划限制性股票解除限售公告(更正后)",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920826/AN202607271827392235.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盖世食品(920826)"
+        ],
+        "importance": 1,
+        "noticeType": "限售股份上市流通"
+      },
+      {
+        "title": "电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第一期)票面利率公告",
+        "summary": "电投绿能(000875)：电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第一期)票面利率公告",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000875/AN202607271827391978.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "能源"
+        ],
+        "tickers": [
+          "电投绿能(000875)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "周大生:2026年7月27日投资者关系活动记录表",
+        "summary": "周大生(002867)：周大生:2026年7月27日投资者关系活动记录表",
+        "publishedAt": "2026-07-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002867/AN202607271827391041.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "周大生(002867)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中国6月规模以上工业企业利润年率-单月(%)",
+        "summary": "中国6月规模以上工业企业利润年率-单月(%)；公布 15.1，预期 nan，前值 21.1。",
+        "publishedAt": "2026-07-27 09:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月27日上期所每日仓单变动-原油(桶)",
+        "summary": "中国7月27日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
+        "publishedAt": "2026-07-27 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -93889,15 +93862,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-27 19:32:06",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、半导体、AI算力。",
+        "generatedAt": "2026-07-27 23:49:02",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 能源、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、阿里巴巴概念、腾讯概念；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、半导体、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93928,7 +93901,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-27 19:31:25",
+        "generatedAt": "2026-07-27 23:48:02",
         "summary": "上午情绪分 100，涨停 111 家，跌停 6 家，炸板 13 家，连板 8 家，最高 5 板。",
         "sections": [
           {
@@ -93967,7 +93940,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-27 19:31:25",
+        "generatedAt": "2026-07-27 23:48:02",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
