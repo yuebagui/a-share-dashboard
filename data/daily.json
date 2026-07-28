@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-27",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-27 23:51:06",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-27 23:51:06",
+    "lastNewsAt": "2026-07-28 11:47:30"
   },
   "indices": [
     {
@@ -93441,25 +93443,45 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-27",
-    "generatedAt": "2026-07-27 23:52:00",
+    "tradeDate": "2026-07-28",
+    "generatedAt": "2026-07-28 11:47:30",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 能源、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 有色稀土、金融、机器人。",
     "themes": [
       {
-        "name": "能源",
-        "score": 8,
+        "name": "有色稀土",
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "金融",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
+        "name": "新能源",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -93470,75 +93492,29 @@
     ],
     "items": [
       {
-        "title": "惠丰钻石:信永中和会计师事务所(特殊普通合伙)关于惠丰钻石股份有限公司2025年年报问询函的回复",
-        "summary": "惠丰钻石(920725)：惠丰钻石:信永中和会计师事务所(特殊普通合伙)关于惠丰钻石股份有限公司2025年年报问询函的回复",
-        "publishedAt": "2026-07-27",
+        "title": "孚日股份:关于首次出售回购股份比例达到1%暨回购股份出售计划终止的公告",
+        "summary": "孚日股份(002083)：孚日股份:关于首次出售回购股份比例达到1%暨回购股份出售计划终止的公告",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920725/AN202607271827386432.html",
+        "url": "https://data.eastmoney.com/notices/detail/002083/AN202607271827391834.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "惠丰钻石(920725)"
+        "themes": [
+          "金融"
         ],
-        "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
-      },
-      {
-        "title": "彩客科技:持股5%以上股东拟减持股份的预披露公告",
-        "summary": "彩客科技(920206)：彩客科技:持股5%以上股东拟减持股份的预披露公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920206/AN202607271827385816.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
         "tickers": [
-          "彩客科技(920206)"
+          "孚日股份(002083)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "ST信源:关于控股股东部分股份补充质押的公告",
-        "summary": "ST信源(300352)：ST信源:关于控股股东部分股份补充质押的公告",
-        "publishedAt": "2026-07-27",
+        "title": "*ST集友:华福证券股份有限公司关于本次交易符合《关于加强证券公司在投资银行类业务聘请第三方等廉洁从业风险防控的意见》相关规定之核查意见",
+        "summary": "*ST集友(603429)：*ST集友:华福证券股份有限公司关于本次交易符合《关于加强证券公司在投资银行类业务聘请第三方等廉洁从业风险防控的意见》相关规定之核查意见",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300352/AN202607271827384275.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST信源(300352)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "*ST步森:独立董事提名人声明与承诺-林善浪",
-        "summary": "*ST步森(002569)：*ST步森:独立董事提名人声明与承诺-林善浪",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002569/AN202607271827362101.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST步森(002569)"
-        ],
-        "importance": 1,
-        "noticeType": "独立董事提名人声明"
-      },
-      {
-        "title": "ST恒信:关于公司及控股股东、实际控制人收到中国证券监督管理委员会立案告知书的公告",
-        "summary": "ST恒信(300081)：ST恒信:关于公司及控股股东、实际控制人收到中国证券监督管理委员会立案告知书的公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300081/AN202607271827391442.html",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202607271827391547.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -93546,211 +93522,265 @@
           "金融"
         ],
         "tickers": [
-          "ST恒信(300081)"
+          "*ST集友(603429)"
         ],
         "importance": 1,
-        "noticeType": "违法违规"
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "扬帆新材:关于控股股东部分股份补充质押的公告",
-        "summary": "扬帆新材(300637)：扬帆新材:关于控股股东部分股份补充质押的公告",
-        "publishedAt": "2026-07-27",
+        "title": "*ST集友:集友股份第三届董事会第三十九次会议决议公告",
+        "summary": "*ST集友(603429)：*ST集友:集友股份第三届董事会第三十九次会议决议公告",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300637/AN202607271827391046.html",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202607271827391573.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "扬帆新材(300637)"
+          "*ST集友(603429)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "董事会决议公告"
       },
       {
-        "title": "安诺其:董事会关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
-        "summary": "安诺其(300067)：安诺其:董事会关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
-        "publishedAt": "2026-07-27",
+        "title": "*ST集友:集友股份董事会关于本次交易前十二个月内购买、出售资产的说明",
+        "summary": "*ST集友(603429)：*ST集友:集友股份董事会关于本次交易前十二个月内购买、出售资产的说明",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300067/AN202607271827390600.html",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202607271827391577.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "安诺其(300067)"
+          "*ST集友(603429)"
         ],
         "importance": 1,
         "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "纳斯达克综合指数向下跌破25000点",
-        "summary": "【纳斯达克综合指数向下跌破25000点】纳斯达克综合指数向下跌破25000点，最新报24861.26点，日内下跌0.46%",
-        "publishedAt": "2026-07-27 23:44:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822483581.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "以色列前高官发联名信警告约旦河西岸局势或升级",
-        "summary": "【以色列前高官发联名信警告约旦河西岸局势或升级】约600名以色列军方、警方、国家安全总局以及情报和特勤局前高级官员联合致信美国总统特朗普，呼吁美方敦促以色列政府遏制约旦河西岸日益加剧的定居者暴力，并警告当地局势可能导致冲突升级。联名信指出，约旦河西岸的冲突可能进一步升级，不断增加的暴力活动正在“危及以色列安全、美国利益和地区稳定”。",
-        "publishedAt": "2026-07-27 23:38:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822479979.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "2年期美国国债收益率最新下跌1.51个基点",
-        "summary": "【2年期美国国债收益率最新下跌1.51个基点】7月27日，2年期美国国债收益率最新下跌1.51个基点，报4.316%。",
-        "publishedAt": "2026-07-27 23:38:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822481043.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "市场人士：行情接入方式变更属常规操作 不针对量化交易",
-        "summary": "【市场人士：行情接入方式变更属常规操作 不针对量化交易】部分券商收到交易所通知并公告：交易所机房内交易行情接入方式统一变更为广域网线路，原局域网交易线路将于2026年7月31日晚间正式关闭。券商将配合实施交易行情接入模式优化调整工作。记者从接近监管的市场人士处获悉，此次属于常规操作，并不针对包括量化在内的特定交易。",
-        "publishedAt": "2026-07-27 23:00:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607273822451020.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "双林股份:2026年半年度业绩预告",
-        "summary": "双林股份(300100)：双林股份:2026年半年度业绩预告",
-        "publishedAt": "2026-07-27",
+        "title": "*ST集友:集友股份简式权益变动报告书(毕伟国)",
+        "summary": "*ST集友(603429)：*ST集友:集友股份简式权益变动报告书(毕伟国)",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300100/AN202607271827390034.html",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202607271827391563.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "权益变动报告书"
+      },
+      {
+        "title": "*ST集友:华福证券股份有限公司关于安徽集友新材料股份有限公司本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的核查意见",
+        "summary": "*ST集友(603429)：*ST集友:华福证券股份有限公司关于安徽集友新材料股份有限公司本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的核查意见",
+        "publishedAt": "2026-07-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202607271827391570.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST集友:华福证券股份有限公司关于安徽集友新材料股份有限公司重大资产购买摊薄即期回报情况及填补措施之专项核查意见",
+        "summary": "*ST集友(603429)：*ST集友:华福证券股份有限公司关于安徽集友新材料股份有限公司重大资产购买摊薄即期回报情况及填补措施之专项核查意见",
+        "publishedAt": "2026-07-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202607271827391552.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "沪指下跌0.98% 食品饮料、白酒走强 科技股重挫",
+        "summary": "【午盘播报】沪指下跌0.98%，报3820.52点；深成指下跌3.42%，报13664.80点；创业板指下跌5.37%，报3397.97点，两市半日合计成交13278亿。盘面上，饮料乳品、DRG/DIP、休闲食品、白酒、教育、财税数字化涨幅居前，CPO概念、百元股、光通信模块、高带宽内存、元件、MLCC、半导体、存储芯片表现不佳，领跌市场。全市场上涨个股有…",
+        "publishedAt": "2026-07-28 11:30:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607283823300437.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "电影《大空头》原型：任何一家科技巨头削减AI支出 股市将直线下跌！",
+        "summary": "【电影《大空头》原型：任何一家科技巨头削减AI支出 股市将直线下跌！】大空头史蒂夫·艾斯曼（SteveEisman）最新警告说，如果任何一家超大规模科技巨头削减其人工智能（AI）资本支出，美国股市将“直线下跌”。他在接受最新采访时指出，当前的市场已经变成了一个完全依赖于人工智能成败的单一交易环境。他进一步警告称，市场对人工智能的看法与一年前相比发生了巨大变…",
+        "publishedAt": "2026-07-28 11:26:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607283823275341.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "六部门通告：禁止涉军队退役报废装备销售活动",
+        "summary": "【六部门通告：禁止涉军队退役报废装备销售活动】近年来，部分经营者在线上线下公开销售涉及我军退役报废装备（指经军队批准退出服役状态、作废品处理的各类装备、弹药、设备及相关部件、器材等）等敏感信息的商品，造成不良影响，产生安全隐患。为维护国家、军队利益和人民军队良好形象，消除社会公共安全和军事秘密安全风险隐患，现就有关事项通告如下。",
+        "publishedAt": "2026-07-28 11:15:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607283823290474.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中望软件:广州中望龙腾软件股份有限公司2026年限制性股票激励计划(草案)",
+        "summary": "中望软件(688083)：中望软件:广州中望龙腾软件股份有限公司2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-07-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688083/AN202607271827392014.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "双林股份(300100)"
+          "中望软件(688083)"
         ],
         "importance": 1,
-        "noticeType": "业绩预告"
+        "noticeType": "股权激励计划"
       },
       {
-        "title": "盖世食品:股权激励计划限制性股票解除限售公告(更正公告)",
-        "summary": "盖世食品(920826)：盖世食品:股权激励计划限制性股票解除限售公告(更正公告)",
-        "publishedAt": "2026-07-27",
+        "title": "中望软件:2026年限制性股票激励计划(草案)摘要公告",
+        "summary": "中望软件(688083)：中望软件:2026年限制性股票激励计划(草案)摘要公告",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920826/AN202607271827392234.html",
+        "url": "https://data.eastmoney.com/notices/detail/688083/AN202607271827392007.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "盖世食品(920826)"
+          "中望软件(688083)"
         ],
         "importance": 1,
-        "noticeType": "限售股份上市流通"
+        "noticeType": "股权激励计划摘要"
       },
       {
-        "title": "盖世食品:股权激励计划限制性股票解除限售公告(更正后)",
-        "summary": "盖世食品(920826)：盖世食品:股权激励计划限制性股票解除限售公告(更正后)",
-        "publishedAt": "2026-07-27",
+        "title": "中望软件:关于调整以集中竞价交易方式回购股份方案的公告",
+        "summary": "中望软件(688083)：中望软件:关于调整以集中竞价交易方式回购股份方案的公告",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920826/AN202607271827392235.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盖世食品(920826)"
-        ],
-        "importance": 1,
-        "noticeType": "限售股份上市流通"
-      },
-      {
-        "title": "电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第一期)票面利率公告",
-        "summary": "电投绿能(000875)：电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第一期)票面利率公告",
-        "publishedAt": "2026-07-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000875/AN202607271827391978.html",
+        "url": "https://data.eastmoney.com/notices/detail/688083/AN202607271827392011.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "能源"
+          "金融"
         ],
         "tickers": [
-          "电投绿能(000875)"
+          "中望软件(688083)"
+        ],
+        "importance": 1,
+        "noticeType": "回购方案修订"
+      },
+      {
+        "title": "锦富技术:上海金锦富新材料科技有限公司拟引进战略投资者涉及的股东全部权益价值资产评估报告",
+        "summary": "锦富技术(300128)：锦富技术:上海金锦富新材料科技有限公司拟引进战略投资者涉及的股东全部权益价值资产评估报告",
+        "publishedAt": "2026-07-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300128/AN202607271827391721.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "锦富技术(300128)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "周大生:2026年7月27日投资者关系活动记录表",
-        "summary": "周大生(002867)：周大生:2026年7月27日投资者关系活动记录表",
-        "publishedAt": "2026-07-27",
+        "title": "锦富技术:关于募投项目实施主体股权结构变更的公告",
+        "summary": "锦富技术(300128)：锦富技术:关于募投项目实施主体股权结构变更的公告",
+        "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002867/AN202607271827391041.html",
+        "url": "https://data.eastmoney.com/notices/detail/300128/AN202607271827391720.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "周大生(002867)"
+          "锦富技术(300128)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "变更募集资金投资项目"
       },
       {
-        "title": "中国6月规模以上工业企业利润年率-单月(%)",
-        "summary": "中国6月规模以上工业企业利润年率-单月(%)；公布 15.1，预期 nan，前值 21.1。",
-        "publishedAt": "2026-07-27 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "俄外交部：互免签证成为推动俄中关系成功发展出发点",
+        "summary": "【俄外交部：互免签证成为推动俄中关系成功发展出发点】据新华社，俄罗斯外交部发言人扎哈罗娃27日在例行记者会上表示，俄中实行互免签证政策成为推动双方全方位关系成功发展的出发点。",
+        "publishedAt": "2026-07-28 11:29:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607283823300226.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "中国7月27日上期所每日仓单变动-原油(桶)",
-        "summary": "中国7月27日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
-        "publishedAt": "2026-07-27 15:10",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "广州海洋装备集团公司登记成立 注册资本20亿元",
+        "summary": "【广州海洋装备集团公司登记成立 注册资本20亿元】企查查APP显示，近日，广州海洋装备集团有限公司成立，法定代表人为李伟彪，注册资本为20亿元，经营范围包含：船舶销售;船舶租赁；海洋工程装备研发；海洋工程装备制造；海上风电相关系统研发等。企查查股权穿透显示，该公司由广州工业投资控股集团有限公司全资持股。",
+        "publishedAt": "2026-07-28 11:22:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607283823296084.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "能源"
+          "新能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上半年支持科技创新和制造业发展减税降费退税1.91万亿元",
+        "summary": "【上半年支持科技创新和制造业发展减税降费退税1.91万亿元】7月28日，国务院新闻办举行新闻发布会。国家税务总局相关负责人介绍，今年上半年，现行支持科技创新和制造业发展的政策减税降费及退税1.91万亿元，产业创新活力进一步激发。",
+        "publishedAt": "2026-07-28 11:20:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607283823296662.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -93849,7 +93879,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -93862,15 +93892,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-27 23:52:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 能源、金融、有色稀土。",
+        "generatedAt": "2026-07-28 11:47:30",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 有色稀土、金融、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、阿里巴巴概念、腾讯概念；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93966,7 +93996,7 @@
               "今日炸板 13 只，追高前先看前排封单和回封质量。",
               "今日跌停 6 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：惠丰钻石:信永中和会计师事务所(特殊普通合伙)关于惠丰钻石股份有限公司2025年年报问询函的回复；彩客科技:持股5%以上股东拟减持股份的预披露公告。",
+              "新闻/公告风险：孚日股份:关于首次出售回购股份比例达到1%暨回购股份出售计划终止的公告；*ST集友:华福证券股份有限公司关于本次交易符合《关于加强证券公司在投资银行类业务聘请第三方等廉洁从业风险防控的意见》相关规定之核查意见。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
