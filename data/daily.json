@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-28",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-28 18:15:18",
+    "generatedAt": "2026-07-28 23:26:16",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -1.16,
       "turnover": "9497亿",
       "turnoverValue": 949683080126.0,
-      "quoteTime": "2026-07-28 16:14:02",
+      "quoteTime": "2026-07-28 16:14:20",
       "source": "腾讯直连"
     },
     {
@@ -110196,7 +110196,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -110366,113 +110367,95 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-28",
-    "generatedAt": "2026-07-28 18:15:59",
+    "generatedAt": "2026-07-28 23:26:58",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 6,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST创意:关于完成工商变更登记的公告",
-        "summary": "ST创意(300366)：ST创意:关于完成工商变更登记的公告",
+        "title": "矩子科技:股票交易异常波动公告",
+        "summary": "矩子科技(300802)：矩子科技:股票交易异常波动公告",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300366/AN202607281827422534.html",
+        "url": "https://data.eastmoney.com/notices/detail/300802/AN202607281827424701.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST创意(300366)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "中胤时尚:股票交易异常波动公告",
-        "summary": "中胤时尚(300901)：中胤时尚:股票交易异常波动公告",
-        "publishedAt": "2026-07-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300901/AN202607281827422443.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "中胤时尚(300901)"
+          "矩子科技(300802)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "*ST仕净:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
-        "summary": "*ST仕净(301030)：*ST仕净:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
+        "title": "山科智能:关于股票交易异常波动的公告",
+        "summary": "山科智能(300897)：山科智能:关于股票交易异常波动的公告",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301030/AN202607281827422440.html",
+        "url": "https://data.eastmoney.com/notices/detail/300897/AN202607281827424684.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST仕净(301030)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "*ST元道:股票交易异常波动公告",
-        "summary": "*ST元道(301139)：*ST元道:股票交易异常波动公告",
-        "publishedAt": "2026-07-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301139/AN202607281827421472.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST元道(301139)"
+          "山科智能(300897)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "汤臣倍健：拟以7000万元追加投资Moonshot AI Ltd",
-        "summary": "【汤臣倍健：拟以7000万元追加投资Moonshot AI Ltd】汤臣倍健(300146.SZ)公告称，公司拟以自有资金7000万元追加投资MoonshotAILtd，本次投资完成后，公司及子公司共投资标的公司约1.75亿元。本次追加投资构成关联交易，已获董事会审议通过，无需提交股东会审议。标的公司处于高估值赛道，发展阶段尚属早期，存在技术研发不及预期、…",
-        "publishedAt": "2026-07-28 18:09:26",
+        "title": "美国7月消费者信心下降 民众对营商环境和就业市场看法恶化",
+        "summary": "【美国7月消费者信心下降 民众对营商环境和就业市场看法恶化】美国7月消费者信心下降，民众对当前商业环境和劳动力市场的看法恶化。世界大型企业联合会周二公布的数据显示，消费者信心指数下降1.4点至90.8，前一个月数据则获向上修正。经济学家预估中值为92.4。衡量当前状况的指标降至2021年以来最低，而反映对未来六个月预期的指标持平。汽油和食品价格高企可能对美…",
+        "publishedAt": "2026-07-28 23:02:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607283823600442.html",
+        "url": "https://finance.eastmoney.com/a/202607283823867313.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国内商品期市夜盘收盘多数下跌 化工品跌幅居前INE20号胶跌2.35%",
+        "summary": "【国内商品期市夜盘收盘多数下跌 化工品跌幅居前INE20号胶跌2.35%】国内商品期市夜盘收盘多数下跌，化工品跌幅居前INE20号胶跌2.35%国内商品期市夜盘收盘多数下跌，化工品跌幅居前，INE20号胶跌2.35%；农副产品多数下跌，CZCE白糖跌0.99%；能源品全部下跌，SHFE燃油跌0.68%；非金属建材全部下跌，DCEPVC跌0.55%；黑色系多…",
+        "publishedAt": "2026-07-28 23:00:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607283823867139.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "AI算力"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
@@ -110495,59 +110478,79 @@
         "noticeType": "对外项目投资"
       },
       {
-        "title": "002448中原内配投资者关系管理信息20260728",
-        "summary": "中原内配(002448)：002448中原内配投资者关系管理信息20260728",
+        "title": "立新能源:新疆立新能源股份有限公司2026年面向专业投资者公开发行碳中和绿色科技创新公司债券(第一期)在深圳证券交易所上市的公告",
+        "summary": "立新能源(001258)：立新能源:新疆立新能源股份有限公司2026年面向专业投资者公开发行碳中和绿色科技创新公司债券(第一期)在深圳证券交易所上市的公告",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002448/AN202607281827422228.html",
+        "url": "https://data.eastmoney.com/notices/detail/001258/AN202607281827428542.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "新能源",
+          "金融",
+          "能源"
+        ],
+        "tickers": [
+          "立新能源(001258)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "周大生:2026年7月28日投资者关系活动记录表",
+        "summary": "周大生(002867)：周大生:2026年7月28日投资者关系活动记录表",
+        "publishedAt": "2026-07-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002867/AN202607281827426788.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中原内配(002448)"
+          "周大生(002867)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "汤臣倍健:关于与专业投资机构共同投资的公告",
-        "summary": "汤臣倍健(300146)：汤臣倍健:关于与专业投资机构共同投资的公告",
+        "title": "300466赛摩智能投资者关系管理信息20260728",
+        "summary": "赛摩智能(300466)：300466赛摩智能投资者关系管理信息20260728",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300146/AN202607281827422414.html",
+        "url": "https://data.eastmoney.com/notices/detail/300466/AN202607281827426173.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "汤臣倍健(300146)"
+          "赛摩智能(300466)"
         ],
         "importance": 1,
-        "noticeType": "投资设立公司"
+        "noticeType": "调研活动"
       },
       {
-        "title": "创远信科:关于使用闲置自有资金购买理财产品的进展公告",
-        "summary": "创远信科(920961)：创远信科:关于使用闲置自有资金购买理财产品的进展公告",
+        "title": "301571国科天成投资者关系管理信息20260728",
+        "summary": "国科天成(301571)：301571国科天成投资者关系管理信息20260728",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920961/AN202607281827421929.html",
+        "url": "https://data.eastmoney.com/notices/detail/301571/AN202607281827425893.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "创远信科(920961)"
+          "国科天成(301571)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "调研活动"
       },
       {
-        "title": "朗坤科技:回购报告书",
-        "summary": "朗坤科技(301305)：朗坤科技:回购报告书",
+        "title": "创业黑马:关于收到深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金事项会议安排的公告",
+        "summary": "创业黑马(300688)：创业黑马:关于收到深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金事项会议安排的公告",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301305/AN202607281827421612.html",
+        "url": "https://data.eastmoney.com/notices/detail/300688/AN202607281827426070.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -110555,88 +110558,76 @@
           "金融"
         ],
         "tickers": [
-          "朗坤科技(301305)"
+          "创业黑马(300688)"
         ],
         "importance": 1,
-        "noticeType": "回购报告书"
+        "noticeType": "其他"
       },
       {
-        "title": "道通科技:2026年7月24日投资者关系活动记录表",
-        "summary": "道通科技(688208)：道通科技:2026年7月24日投资者关系活动记录表",
+        "title": "玉禾田:公司2026年7月28日投资者关系活动记录表",
+        "summary": "玉禾田(300815)：玉禾田:公司2026年7月28日投资者关系活动记录表",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688208/AN202607281827421245.html",
+        "url": "https://data.eastmoney.com/notices/detail/300815/AN202607281827425892.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "道通科技(688208)"
+          "玉禾田(300815)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "鼎佳精密:关于使用部分自有闲置资金购买理财产品的进展公告",
-        "summary": "鼎佳精密(920005)：鼎佳精密:关于使用部分自有闲置资金购买理财产品的进展公告",
+        "title": "鼎龙股份:300054鼎龙股份投资者关系管理信息20260728",
+        "summary": "鼎龙股份(300054)：鼎龙股份:300054鼎龙股份投资者关系管理信息20260728",
         "publishedAt": "2026-07-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920005/AN202607281827421252.html",
+        "url": "https://data.eastmoney.com/notices/detail/300054/AN202607281827425978.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "鼎佳精密(920005)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "安克创新:2026年7月7日-7月28日投资者关系活动记录表",
-        "summary": "安克创新(300866)：安克创新:2026年7月7日-7月28日投资者关系活动记录表",
-        "publishedAt": "2026-07-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300866/AN202607281827421183.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安克创新(300866)"
+          "鼎龙股份(300054)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "海亮股份：控股股东拟增持6亿元-10亿元公司股份",
-        "summary": "【海亮股份：控股股东拟增持6亿元-10亿元公司股份】海亮股份7月28日公告，公司控股股东海亮集团有限公司计划自公告披露之日起6个月内，通过深圳证券交易所以集中竞价交易、大宗交易方式增持公司股份，拟增持金额不低于6亿元，不超过10亿元，增持价格不超过35元/股。增持资金来源为海亮集团自有或自筹资金。",
-        "publishedAt": "2026-07-28 18:06:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607283823599213.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "上海证券交易所并购重组审核委员会2026年第14次审议会议公告",
+        "summary": "科达制造(600499)：上海证券交易所并购重组审核委员会2026年第14次审议会议公告",
+        "publishedAt": "2026-07-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600499/AN202607281827425175.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "科达制造(600499)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "上交所并购重组委会议公告"
       },
       {
-        "title": "荣耀：Robot Phone全渠道预约超20万台 将与阿莱共建影像实验室",
-        "summary": "【荣耀：Robot Phone全渠道预约超20万台 将与阿莱共建影像实验室】荣耀RobotPhone开启预约以来备受关注，今日荣耀CEO李健在微博宣布，截至目前产品全渠道预约量突破20万台，超历代旗舰产品。",
-        "publishedAt": "2026-07-28 17:59:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607283823595995.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "300661圣邦股份投资者关系管理信息20260728",
+        "summary": "圣邦股份(300661)：300661圣邦股份投资者关系管理信息20260728",
+        "publishedAt": "2026-07-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300661/AN202607281827424788.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "圣邦股份(300661)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
         "title": "美国7月27日SPDR黄金持仓-每日更新(吨)",
@@ -110680,6 +110671,22 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月24日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国7月24日COMEX黄金库存-每日更新(百盎司)；公布 270260.85，预期 nan，前值 270174.04。",
+        "publishedAt": "2026-07-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -110842,15 +110849,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-28 18:15:59",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-07-28 23:26:58",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -110881,7 +110888,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-28 18:15:18",
+        "generatedAt": "2026-07-28 23:26:16",
         "summary": "上午情绪分 14，涨停 61 家，跌停 49 家，炸板 20 家，连板 16 家，最高 6 板。",
         "sections": [
           {
@@ -110920,7 +110927,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-28 18:15:18",
+        "generatedAt": "2026-07-28 23:26:16",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -110946,7 +110953,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "今日跌停 49 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST创意:关于完成工商变更登记的公告；中胤时尚:股票交易异常波动公告。",
+              "新闻/公告风险：矩子科技:股票交易异常波动公告；山科智能:关于股票交易异常波动的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
