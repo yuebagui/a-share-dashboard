@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-29",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-29 18:19:27",
+    "generatedAt": "2026-07-29 18:45:05",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": 0.4,
       "turnover": "1.09万亿",
       "turnoverValue": 1087407759096.0,
-      "quoteTime": "2026-07-29 16:14:20",
+      "quoteTime": "2026-07-29 16:14:01",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -0.87,
       "turnover": "1472亿",
       "turnoverValue": 147150556757.0,
-      "quoteTime": "2026-07-29 16:14:14",
+      "quoteTime": "2026-07-29 16:14:13",
       "source": "腾讯直连"
     }
   ],
@@ -111514,19 +111514,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-29",
-    "generatedAt": "2026-07-29 18:20:33",
+    "generatedAt": "2026-07-29 18:46:20",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、医药、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、有色稀土、医药。",
     "themes": [
       {
         "name": "金融",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 10,
+        "score": 18,
         "isFocusBoard": false
       },
       {
@@ -111535,76 +111530,134 @@
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
-        "score": 8,
+        "name": "医药",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 6,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "深交所:蓝宇股份_监管函",
-        "summary": "蓝宇股份(301585)：深交所:蓝宇股份_监管函",
+        "title": "维琪科技:股票交易异常波动公告",
+        "summary": "维琪科技(920176)：维琪科技:股票交易异常波动公告",
         "publishedAt": "2026-07-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301585/AN202607291827458411.html",
+        "url": "https://data.eastmoney.com/notices/detail/920176/AN202607291827458921.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "蓝宇股份(301585)"
-        ],
-        "importance": 1,
-        "noticeType": "深交所股票监管函"
-      },
-      {
-        "title": "欢乐家:关于股票交易异常波动的公告",
-        "summary": "欢乐家(300997)：欢乐家:关于股票交易异常波动的公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300997/AN202607291827458338.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "欢乐家(300997)"
+          "维琪科技(920176)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "深交所:蓝宇股份_监管函",
-        "summary": "蓝宇股份(301585)：深交所:蓝宇股份_监管函",
+        "title": "北京君正:股东减持股份实施情况公告",
+        "summary": "北京君正(300223)：北京君正:股东减持股份实施情况公告",
         "publishedAt": "2026-07-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301585/AN202607291827458294.html",
+        "url": "https://data.eastmoney.com/notices/detail/300223/AN202607291827459326.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "蓝宇股份(301585)"
+          "北京君正(300223)"
         ],
         "importance": 1,
-        "noticeType": "深交所股票监管函"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "英国监管机构调查微软Microsoft 365订阅变更",
-        "summary": "【英国监管机构调查微软Microsoft 365订阅变更】英国竞争与市场管理局（CMA）7月29日宣布，已对微软展开调查，审查公司在调整Microsoft 365 Personal和Family订阅计划时，是否向消费者充分披露订阅选项及价格变化，导致部分用户支付更高费用。",
-        "publishedAt": "2026-07-29 18:09:52",
+        "title": "湖南裕能:关于股东提前终止股份减持计划的公告",
+        "summary": "湖南裕能(301358)：湖南裕能:关于股东提前终止股份减持计划的公告",
+        "publishedAt": "2026-07-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202607291827459165.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "湖南裕能(301358)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "ST合纵:关于法院决定对公司启动预重整并指定临时管理人的公告",
+        "summary": "ST合纵(300477)：ST合纵:关于法院决定对公司启动预重整并指定临时管理人的公告",
+        "publishedAt": "2026-07-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300477/AN202607291827459167.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST合纵(300477)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "发行人及中介机构关于审核中心意见落实函的回复(重庆宇隆光电科技股份有限公司)",
+        "summary": "宇隆科技(A25276)：发行人及中介机构关于审核中心意见落实函的回复(重庆宇隆光电科技股份有限公司)",
+        "publishedAt": "2026-07-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/A25276/AN202607291827459028.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "宇隆科技(A25276)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板IPO问询与回复"
+      },
+      {
+        "title": "新芝生物:关于发行股份及支付现金购买资产暨关联交易预案事项的一般风险提示公告",
+        "summary": "新芝生物(920685)：新芝生物:关于发行股份及支付现金购买资产暨关联交易预案事项的一般风险提示公告",
+        "publishedAt": "2026-07-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920685/AN202607291827459010.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "新芝生物(920685)"
+        ],
+        "importance": 1,
+        "noticeType": "增发预案"
+      },
+      {
+        "title": "湖南裕能：股东湖南裕富提前终止减持计划 已减持331.78万股",
+        "summary": "【湖南裕能：股东湖南裕富提前终止减持计划 已减持331.78万股】7月29日，湖南裕能公告称，持股5%以上股东湖南裕富原计划减持不超395万股，即不超总股本0.47%。2026年5月22日至6月24日，其通过集中竞价累计减持331.78万股，占现股本0.3914%。现湖南裕富决定提前终止减持计划，剩余未减持股份在期限内不再减持。",
+        "publishedAt": "2026-07-29 18:37:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825198130.html",
+        "url": "https://finance.eastmoney.com/a/202607293825222559.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -111614,32 +111667,16 @@
         "noticeType": ""
       },
       {
-        "title": "圣阳股份：液冷储能系统产品处于市场化推广与应用落地推进阶段 已中标项目尚未完成交付",
-        "summary": "【圣阳股份：液冷储能系统产品处于市场化推广与应用落地推进阶段 已中标项目尚未完成交付】圣阳股份发布股票交易异常波动暨风险提示公告称，截至目前，公司液冷储能系统产品处于市场化推广与应用落地推进阶段，已中标项目，尚未完成交付，亦未形成营业收入；公司固态电池产品、钠离子电池产品已完成第三方机构验证测试，目前处于典型场景试点应用阶段，尚未产生营业收入，距离批量化生…",
-        "publishedAt": "2026-07-29 18:03:14",
+        "title": "证券从业人员赵宇阳公开发表不当言论 被吉林证监局出具警示函",
+        "summary": "【证券从业人员赵宇阳公开发表不当言论 被吉林证监局出具警示函】吉林证监局发布关于对赵宇阳采取出具警示函监管措施的决定，经查，赵宇阳作为证券从业人员，公开发表不当言论，不符合《证券公司董事、监事、高级管理人员及从业人员管理规则》（中证协发〔2022〕116号）第二十七条第十三项的规定，反映未能遵守证券从业人员执业行为规范，违反了《证券基金经营机构董事、监事、…",
+        "publishedAt": "2026-07-29 18:27:28",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825195363.html",
+        "url": "https://finance.eastmoney.com/a/202607293825209572.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "新能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "3连板明新旭腾：公司机器人相关业务布局目前仅处于研发阶段 尚未形成量产",
-        "summary": "【3连板明新旭腾：公司机器人相关业务布局目前仅处于研发阶段 尚未形成量产】明新旭腾发布股票交易风险提示公告称，公司机器人相关业务布局目前仅处于研发阶段，尚未形成量产，未产生实质性订单，未贡献实质性收入。公司郑重提醒广大投资者，注意概念炒作风险，审慎投资。",
-        "publishedAt": "2026-07-29 17:55:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825192180.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "机器人"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
@@ -111662,11 +111699,11 @@
         "noticeType": "业绩快报"
       },
       {
-        "title": "佰仁医疗:投资者关系活动记录表(2026年1-5月)",
-        "summary": "佰仁医疗(688198)：佰仁医疗:投资者关系活动记录表(2026年1-5月)",
+        "title": "乐心医疗:关于向激励对象授予股票期权的公告",
+        "summary": "乐心医疗(300562)：乐心医疗:关于向激励对象授予股票期权的公告",
         "publishedAt": "2026-07-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688198/AN202607291827458640.html",
+        "url": "https://data.eastmoney.com/notices/detail/300562/AN202607291827459475.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -111674,135 +111711,87 @@
           "医药"
         ],
         "tickers": [
-          "佰仁医疗(688198)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华凯易佰:关于收到董事长、总经理提议回购公司股份的公告",
-        "summary": "华凯易佰(300592)：华凯易佰:关于收到董事长、总经理提议回购公司股份的公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300592/AN202607291827458655.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华凯易佰(300592)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "川金诺2026年7月29日投资者关系活动记录表",
-        "summary": "川金诺(300505)：川金诺2026年7月29日投资者关系活动记录表",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300505/AN202607291827458035.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "川金诺(300505)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "奥美森:首次回购股份暨回购进展情况公告",
-        "summary": "奥美森(920080)：奥美森:首次回购股份暨回购进展情况公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920080/AN202607291827458156.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "奥美森(920080)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "奇德新材:关于开立募集资金现金管理专用结算账户的公告",
-        "summary": "奇德新材(300995)：奇德新材:关于开立募集资金现金管理专用结算账户的公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300995/AN202607291827458015.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "奇德新材(300995)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "英唐智控:关于首次授予股票期权登记完成的公告",
-        "summary": "英唐智控(300131)：英唐智控:关于首次授予股票期权登记完成的公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300131/AN202607291827458013.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "英唐智控(300131)"
+          "乐心医疗(300562)"
         ],
         "importance": 1,
         "noticeType": "股权激励进展公告"
       },
       {
-        "title": "300697电工合金投资者关系管理信息20260729",
-        "summary": "电工合金(300697)：300697电工合金投资者关系管理信息20260729",
+        "title": "华伍股份:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "summary": "华伍股份(300095)：华伍股份:关于取得金融机构股票回购专项贷款承诺函的公告",
         "publishedAt": "2026-07-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300697/AN202607291827457780.html",
+        "url": "https://data.eastmoney.com/notices/detail/300095/AN202607291827459166.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "华伍股份(300095)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "华伍股份:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+        "summary": "华伍股份(300095)：华伍股份:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+        "publishedAt": "2026-07-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300095/AN202607291827459133.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "华伍股份(300095)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "农大科技:关于拟投资设立全资子公司的公告",
+        "summary": "农大科技(920159)：农大科技:关于拟投资设立全资子公司的公告",
+        "publishedAt": "2026-07-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920159/AN202607291827459130.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "电工合金(300697)"
+          "农大科技(920159)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "投资设立公司"
       },
       {
-        "title": "电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第一期)发行结果公告",
-        "summary": "电投绿能(000875)：电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第一期)发行结果公告",
+        "title": "农大科技:关于竞价回购股份方案暨取得金融机构股票回购专项贷款承诺函的公告",
+        "summary": "农大科技(920159)：农大科技:关于竞价回购股份方案暨取得金融机构股票回购专项贷款承诺函的公告",
         "publishedAt": "2026-07-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000875/AN202607291827457838.html",
+        "url": "https://data.eastmoney.com/notices/detail/920159/AN202607291827459129.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "能源"
+          "金融"
         ],
         "tickers": [
-          "电投绿能(000875)"
+          "农大科技(920159)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "借贷"
       },
       {
-        "title": "华凯易佰：董事长提议3000万元-5000万元回购公司股份",
-        "summary": "【华凯易佰：董事长提议3000万元-5000万元回购公司股份】华凯易佰(300592.SZ)公告称，公司收到董事长、总经理胡范金提议，拟使用自有或自筹资金以集中竞价方式回购公司股份，回购金额不低于3000万元且不超过5000万元，回购股份用于维护公司价值及股东权益。",
-        "publishedAt": "2026-07-29 18:14:27",
+        "title": "华伍股份：取得工商银行不超过7200万元股票回购专项贷款承诺函",
+        "summary": "【华伍股份：取得工商银行不超过7200万元股票回购专项贷款承诺函】华伍股份(300095.SZ)公告称，公司近日取得中国工商银行宜春分行出具的《贷款承诺函》，同意为公司回购股份提供不超过7200万元的专项贷款支持，贷款期限不超过3年。本次回购总金额不低于8000万元且不超过1.5亿元，回购价格不超过12元/股，用于实施员工持股计划或股权激励。",
+        "publishedAt": "2026-07-29 18:35:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825199623.html",
+        "url": "https://finance.eastmoney.com/a/202607293825218863.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -111814,33 +111803,49 @@
         "noticeType": ""
       },
       {
-        "title": "两大MLCC龙头涨价：三星电机8月起涨30% 太阳诱电9月起涨价",
-        "summary": "【两大MLCC龙头涨价：三星电机8月起涨30% 太阳诱电9月起涨价】三星电机近日已向销售合作伙伴发出通知，自8月1日起，MLCC产品出货价格统一上调30%。三星电机表示，“过去几个月以来，全球电子产业出现结构性需求增长。虽然公司持续提升生产效率并扩大产线规模，但供应链压力已超出可承受水平。”",
-        "publishedAt": "2026-07-29 18:14:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825198393.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国截至7月24日当周API汽油库存变动(万桶)",
+        "summary": "美国截至7月24日当周API汽油库存变动(万桶)；公布 91.8，预期 nan，前值 -137.9。",
+        "publishedAt": "2026-07-29 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "豪能股份：拟投资建设机器人关节减速器生产基地项目 项目计划投资10亿元",
-        "summary": "【豪能股份：拟投资建设机器人关节减速器生产基地项目 项目计划投资10亿元】豪能股份(603809.SH)公告称，公司与泸州市江阳区政府签署《招商投资合作协议》，计划投资10亿元建设机器人关节减速器生产基地项目，建成后可形成年产500万件机器人关节减速器的产能。",
-        "publishedAt": "2026-07-29 18:12:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825199795.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国截至7月24日当周API原油库存变动(万桶)",
+        "summary": "美国截至7月24日当周API原油库存变动(万桶)；公布 -329.6，预期 nan，前值 269.3。",
+        "publishedAt": "2026-07-29 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "机器人"
+          "能源"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月28日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国7月28日SPDR黄金持仓-每日更新(吨)；公布 1008.73，预期 nan，前值 1009.3。",
+        "publishedAt": "2026-07-29 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -111959,15 +111964,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-29 18:20:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、医药、有色稀土。",
+        "generatedAt": "2026-07-29 18:46:20",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、有色稀土、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：游戏、国企改革、同花顺漂亮100；首看 游戏 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、医药、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -111998,7 +112003,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-29 18:19:27",
+        "generatedAt": "2026-07-29 18:45:05",
         "summary": "上午情绪分 100，涨停 81 家，跌停 9 家，炸板 14 家，连板 11 家，最高 7 板。",
         "sections": [
           {
@@ -112037,7 +112042,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-29 18:19:27",
+        "generatedAt": "2026-07-29 18:45:05",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -112063,7 +112068,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：深交所:蓝宇股份_监管函；欢乐家:关于股票交易异常波动的公告。",
+              "新闻/公告风险：维琪科技:股票交易异常波动公告；北京君正:股东减持股份实施情况公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
