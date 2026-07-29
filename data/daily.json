@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-29",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-29 23:12:00",
+    "generatedAt": "2026-07-29 23:20:01",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": 0.4,
       "turnover": "1.09万亿",
       "turnoverValue": 1087407759096.0,
-      "quoteTime": "2026-07-29 16:14:20",
+      "quoteTime": "2026-07-29 16:14:01",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -0.87,
       "turnover": "1472亿",
       "turnoverValue": 147150556757.0,
-      "quoteTime": "2026-07-29 16:14:14",
+      "quoteTime": "2026-07-29 16:14:13",
       "source": "腾讯直连"
     }
   ],
@@ -111514,19 +111514,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-29",
-    "generatedAt": "2026-07-29 23:13:11",
+    "generatedAt": "2026-07-29 23:21:18",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 能源、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
-        "name": "能源",
+        "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "金融",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 7,
         "isFocusBoard": false
       },
       {
@@ -111535,22 +111540,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
         "name": "半导体",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
@@ -111637,6 +111627,23 @@
         "noticeType": "股票交易异常波动"
       },
       {
+        "title": "高盛和摩根士丹利等银行股大跌 因人工智能担忧和美联储决议不确定性",
+        "summary": "【高盛和摩根士丹利等银行股大跌 因人工智能担忧和美联储决议不确定性】高盛和摩根士丹利周三领跌美股大型银行股，原因是SK海力士业绩疲软后，市场对人工智能的担忧持续，同时将于当天晚些时候公布的美联储利率决议存在不确定性。个股方面，高盛一度下跌4.2%；摩根士丹利下跌3.3%，花旗集团下跌3.2%，摩根大通下跌2.4%。",
+        "publishedAt": "2026-07-29 23:09:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607293825449221.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "大商所、郑商所夜盘收盘 乙二醇涨超4%",
         "summary": "【大商所、郑商所夜盘收盘 乙二醇涨超4%】大商所、郑商所夜盘收盘，纯碱跌超2%，玻璃、菜籽粕等跌逾1%，烧碱、焦炭等小幅下跌；乙二醇涨超4%，苯乙烯、瓶片涨超2%，甲醇、PTA等涨超1%，玉米、淀粉等小幅上涨。",
         "publishedAt": "2026-07-29 23:00:37",
@@ -111660,23 +111667,6 @@
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "费城半导体指数跌幅扩大至3.10%",
-        "summary": "【费城半导体指数跌幅扩大至3.10%】费城半导体指数跌幅扩大至3.10%，英伟达下跌2.89%，台积电下跌2.83%，博通下跌1.16%，SK海力士下跌0.04%，美光科技下跌3.63%，美国超微公司下跌4.15%，英特尔下跌2.50%，阿斯麦下跌1.99%，泛林集团下跌3.82%，Arm Holdings下跌5.25%，闪迪下跌6.76%，高通下跌2.2…",
-        "publishedAt": "2026-07-29 22:26:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825421355.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -111959,15 +111949,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-29 23:13:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 能源、有色稀土、AI算力。",
+        "generatedAt": "2026-07-29 23:21:18",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：游戏、国企改革、同花顺漂亮100；首看 游戏 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -111998,7 +111988,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-29 23:12:00",
+        "generatedAt": "2026-07-29 23:20:01",
         "summary": "上午情绪分 100，涨停 81 家，跌停 9 家，炸板 14 家，连板 11 家，最高 7 板。",
         "sections": [
           {
@@ -112037,7 +112027,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-29 23:12:00",
+        "generatedAt": "2026-07-29 23:20:01",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
