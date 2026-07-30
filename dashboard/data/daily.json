@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-29",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-29 23:20:01",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-29 23:20:01",
+    "lastNewsAt": "2026-07-30 11:42:35"
   },
   "indices": [
     {
@@ -111513,324 +111515,331 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-29",
-    "generatedAt": "2026-07-29 23:21:18",
+    "tradeDate": "2026-07-30",
+    "generatedAt": "2026-07-30 11:42:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 12,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
         "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST康乐:中审众环关于北京康乐卫士生物技术股份有限公司2025年年度报告的问询函的回复",
-        "summary": "*ST康乐(920575)：*ST康乐:中审众环关于北京康乐卫士生物技术股份有限公司2025年年度报告的问询函的回复",
-        "publishedAt": "2026-07-29",
+        "title": "兆易创新:兆易创新股东减持股份结果公告",
+        "summary": "兆易创新(603986)：兆易创新:兆易创新股东减持股份结果公告",
+        "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920575/AN202607291827460780.html",
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461594.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST康乐(920575)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "维琪科技:股票交易异常波动公告",
-        "summary": "维琪科技(920176)：维琪科技:股票交易异常波动公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920176/AN202607291827458921.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "维琪科技(920176)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "ST南都:关于持股5%以上股东减持计划实施完成的公告",
-        "summary": "ST南都(300068)：ST南都:关于持股5%以上股东减持计划实施完成的公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300068/AN202607291827462498.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST南都(300068)"
+          "兆易创新(603986)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "ST豆神:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "summary": "ST豆神(300010)：ST豆神:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "publishedAt": "2026-07-29",
+        "title": "艾艾精工:艾艾精工股票交易异常波动公告",
+        "summary": "艾艾精工(603580)：艾艾精工:艾艾精工股票交易异常波动公告",
+        "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300010/AN202607291827462382.html",
+        "url": "https://data.eastmoney.com/notices/detail/603580/AN202607291827461587.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST豆神(300010)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "全通教育:股票交易异常波动公告",
-        "summary": "全通教育(300359)：全通教育:股票交易异常波动公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300359/AN202607291827462391.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "全通教育(300359)"
+          "艾艾精工(603580)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "高盛和摩根士丹利等银行股大跌 因人工智能担忧和美联储决议不确定性",
-        "summary": "【高盛和摩根士丹利等银行股大跌 因人工智能担忧和美联储决议不确定性】高盛和摩根士丹利周三领跌美股大型银行股，原因是SK海力士业绩疲软后，市场对人工智能的担忧持续，同时将于当天晚些时候公布的美联储利率决议存在不确定性。个股方面，高盛一度下跌4.2%；摩根士丹利下跌3.3%，花旗集团下跌3.2%，摩根大通下跌2.4%。",
-        "publishedAt": "2026-07-29 23:09:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825449221.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "大商所、郑商所夜盘收盘 乙二醇涨超4%",
-        "summary": "【大商所、郑商所夜盘收盘 乙二醇涨超4%】大商所、郑商所夜盘收盘，纯碱跌超2%，玻璃、菜籽粕等跌逾1%，烧碱、焦炭等小幅下跌；乙二醇涨超4%，苯乙烯、瓶片涨超2%，甲醇、PTA等涨超1%，玉米、淀粉等小幅上涨。",
-        "publishedAt": "2026-07-29 23:00:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825444252.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "兆易创新:兆易创新关于股票交易异常波动的公告",
+        "summary": "兆易创新(603986)：兆易创新:兆易创新关于股票交易异常波动的公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461528.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "兆易创新(603986)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "卡特彼勒股价触及三个月低点",
-        "summary": "卡特彼勒股价触及三个月低点，现下跌4.5%。",
-        "publishedAt": "2026-07-29 22:36:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607293825431779.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "兆易创新:兆易创新关于控股股东、实际控制人自愿承诺未来12个月不减持公司股份的公告",
+        "summary": "兆易创新(603986)：兆易创新:兆易创新关于控股股东、实际控制人自愿承诺未来12个月不减持公司股份的公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461525.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中科环保:2026年半年度业绩快报",
-        "summary": "中科环保(301175)：中科环保:2026年半年度业绩快报",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301175/AN202607291827456312.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
         "tickers": [
-          "中科环保(301175)"
+          "兆易创新(603986)"
         ],
         "importance": 1,
-        "noticeType": "业绩快报"
+        "noticeType": "其他"
       },
       {
-        "title": "阿莱德:关于与专业投资机构共同投资的公告",
-        "summary": "阿莱德(301419)：阿莱德:关于与专业投资机构共同投资的公告",
-        "publishedAt": "2026-07-29",
+        "title": "统一股份:统一低碳科技(新疆)股份有限公司关于2025年年度报告的信息披露监管问询函的回复公告",
+        "summary": "统一股份(600506)：统一股份:统一低碳科技(新疆)股份有限公司关于2025年年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301419/AN202607291827462105.html",
+        "url": "https://data.eastmoney.com/notices/detail/600506/AN202607291827461521.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "阿莱德(301419)"
+          "统一股份(600506)"
         ],
         "importance": 1,
-        "noticeType": "投资设立公司"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "003032传智教育投资者关系管理信息20260729",
-        "summary": "传智教育(003032)：003032传智教育投资者关系管理信息20260729",
-        "publishedAt": "2026-07-29",
+        "title": "统一股份:毕马威会所关于统一低碳科技(新疆)股份有限公司2025年年度报告的信息披露监管问询函中要求会计师答复的相关问题的回复",
+        "summary": "统一股份(600506)：统一股份:毕马威会所关于统一低碳科技(新疆)股份有限公司2025年年度报告的信息披露监管问询函中要求会计师答复的相关问题的回复",
+        "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003032/AN202607291827461804.html",
+        "url": "https://data.eastmoney.com/notices/detail/600506/AN202607291827461522.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "传智教育(003032)"
+          "统一股份(600506)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "海能达:2026年7月29日投资者关系活动记录表",
-        "summary": "海能达(002583)：海能达:2026年7月29日投资者关系活动记录表",
-        "publishedAt": "2026-07-29",
+        "title": "良品铺子:普华永道中天会计师事务所(特殊普通合伙)对上海证券交易所《关于对良品铺子股份有限公司的年报问询函》的专项说明",
+        "summary": "良品铺子(603719)：良品铺子:普华永道中天会计师事务所(特殊普通合伙)对上海证券交易所《关于对良品铺子股份有限公司的年报问询函》的专项说明",
+        "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002583/AN202607291827461722.html",
+        "url": "https://data.eastmoney.com/notices/detail/603719/AN202607291827461434.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海能达(002583)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "开能健康:关于公司实际控制人提议公司回购股份的公告",
-        "summary": "开能健康(300272)：开能健康:关于公司实际控制人提议公司回购股份的公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300272/AN202607291827461584.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "开能健康(300272)"
+          "良品铺子(603719)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "良品铺子:良品铺子关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
+        "summary": "良品铺子(603719)：良品铺子:良品铺子关于上海证券交易所对公司2025年年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603719/AN202607291827461433.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "良品铺子(603719)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "沪指下跌1.15% 白酒板块领涨 科技股再度重挫",
+        "summary": "【午盘播报】沪指下跌1.15%，报3784.55点；深成指下跌3.79%，报13141.22点；创业板指下跌5.89%，报3179.58点，两市半日合计成交14530亿。盘面上，白酒、医疗美容、厨卫电器、乘用车、调味品概念、酒店餐饮涨幅居前，CPO概念、高带宽内存、光通信模块、半导体、电子化学品、百元股、元件、先进封装表现不佳，领跌市场。全市场上涨个股有1…",
+        "publishedAt": "2026-07-30 11:30:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303826419791.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "“智驾小蓝灯”被叫停？ 智能辅助驾驶标准“收紧、更新”双线并行",
+        "summary": "【“智驾小蓝灯”被叫停？ 智能辅助驾驶标准“收紧、更新”双线并行】7月29日，中国汽车标准化研究院针对“自动驾驶系统状态指示灯被叫停”传闻回应称，当前“小蓝灯”存在灯光滥用情况，易引发安全风险。夜间开启的“小蓝灯”容易让其他道路参与者产生眩光，观感刺眼，特别是干扰周边驾驶员对路况的判断；带有该指示灯的车辆更容易被其他车主借机加塞、近距离跟车，增加路面通行风…",
+        "publishedAt": "2026-07-30 11:28:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303826417626.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "连平：中国特色平准制度已形成雏形 建议放开散户T+0对冲量化 对A股长期走势保持信心",
+        "summary": "【连平：中国特色平准制度已形成雏形 建议放开散户T+0对冲量化 对A股长期走势保持信心】连平表示，现在市场已经慢慢滋生“国家队兜底依赖症”心态，但本质是道德风险。部分投资者认为只要指数大跌，国家队就会进场拉涨，于是无视市场波动风险、盲目加杠杆，上涨快速离场、下跌坐等救市，彻底削弱市场自我出清、自主定价的功能。解决思路是把国资定位成“系统性极端风险防火墙”，…",
+        "publishedAt": "2026-07-30 11:19:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303826406187.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "泰国基准股票指数下跌1.8%",
+        "summary": "泰国基准股票指数下跌1.8%至1,595.17点，为自7月9日以来的最低位。",
+        "publishedAt": "2026-07-30 11:13:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303826384389.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "甘肃首单“保税+TIR”卡空联运业务成功落地兰州新区综合保税区",
+        "summary": "【甘肃首单“保税+TIR”卡空联运业务成功落地兰州新区综合保税区】据兰州发布，近日，兰州国际港多式联运有限公司一辆TIR国际公路运输车辆从兰州新区综合保税区顺利启程，从综保区完成海关监管作业后，依托TIR国际公路运输快速跨境，直达乌兹别克斯坦首都塔什干，随后无缝衔接空运，飞抵土耳其伊斯坦布尔，标志着“保税+TIR”卡空联运创新物流模式在甘肃首次成功落地。",
+        "publishedAt": "2026-07-30 11:05:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303826359011.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "兆易创新:兆易创新关于董事长提议公司回购A股股份的公告",
+        "summary": "兆易创新(603986)：兆易创新:兆易创新关于董事长提议公司回购A股股份的公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461526.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "兆易创新(603986)"
         ],
         "importance": 1,
         "noticeType": "回购预案"
       },
       {
-        "title": "四会富仕:回购股份报告书",
-        "summary": "四会富仕(300852)：四会富仕:回购股份报告书",
-        "publishedAt": "2026-07-29",
+        "title": "兆易创新:兆易创新股东增持股份计划公告",
+        "summary": "兆易创新(603986)：兆易创新:兆易创新股东增持股份计划公告",
+        "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300852/AN202607291827461585.html",
+        "url": "https://data.eastmoney.com/notices/detail/603986/AN202607291827461527.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "兆易创新(603986)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "金太阳:2026年限制性股票激励计划(草案)摘要",
+        "summary": "金太阳(300606)：金太阳:2026年限制性股票激励计划(草案)摘要",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300606/AN202607291827461155.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金太阳(300606)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "金太阳:2026年限制性股票激励计划(草案)",
+        "summary": "金太阳(300606)：金太阳:2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300606/AN202607291827461157.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金太阳(300606)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "2026年度共有7305位港澳居民投保“穗岁康”",
+        "summary": "【2026年度共有7305位港澳居民投保“穗岁康”】今日在2026年上半年广东银行业保险业新闻通气会上，记者了解到，目前广州“穗岁康”将参保人群扩大至在南沙区就业、居住和就读的港澳居民，2026年度共有7305位港澳居民投保，累计为港澳居民赔付733万元。推动湾区金融市场互联互通。“跨境理财通2.0”试点资金跨境汇划金额达1403亿元。12.97万辆次港澳…",
+        "publishedAt": "2026-07-30 11:07:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303826369019.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "四会富仕(300852)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "肇民科技:关于作废2024年限制性股票激励计划部分已授予但尚未归属的限制性股票的公告",
-        "summary": "肇民科技(301000)：肇民科技:关于作废2024年限制性股票激励计划部分已授予但尚未归属的限制性股票的公告",
-        "publishedAt": "2026-07-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301000/AN202607291827461229.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "肇民科技(301000)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "美国截至7月24日当周API汽油库存变动(万桶)",
-        "summary": "美国截至7月24日当周API汽油库存变动(万桶)；公布 91.8，预期 nan，前值 -137.9。",
-        "publishedAt": "2026-07-29 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至7月24日当周API原油库存变动(万桶)",
-        "summary": "美国截至7月24日当周API原油库存变动(万桶)；公布 -329.6，预期 nan，前值 269.3。",
-        "publishedAt": "2026-07-29 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月28日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国7月28日SPDR黄金持仓-每日更新(吨)；公布 1008.73，预期 nan，前值 1009.3。",
-        "publishedAt": "2026-07-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -111936,7 +111945,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -111949,15 +111958,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-29 23:21:18",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-07-30 11:42:35",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：游戏、国企改革、同花顺漂亮100；首看 游戏 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -112053,7 +112062,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST康乐:中审众环关于北京康乐卫士生物技术股份有限公司2025年年度报告的问询函的回复；维琪科技:股票交易异常波动公告。",
+              "新闻/公告风险：兆易创新:兆易创新股东减持股份结果公告；艾艾精工:艾艾精工股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
