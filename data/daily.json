@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-30",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-30 17:57:42",
+    "generatedAt": "2026-07-30 18:05:29",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -0.62,
       "turnover": "1.11万亿",
       "turnoverValue": 1106477266462.0,
-      "quoteTime": "2026-07-30 16:14:20",
+      "quoteTime": "2026-07-30 16:14:01",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -5.38,
       "turnover": "1518亿",
       "turnoverValue": 151830717441.0,
-      "quoteTime": "2026-07-30 16:14:14",
+      "quoteTime": "2026-07-30 16:14:13",
       "source": "腾讯直连"
     }
   ],
@@ -120569,16 +120569,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-30",
-    "generatedAt": "2026-07-30 17:58:40",
+    "generatedAt": "2026-07-30 18:06:28",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、汽车链、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、汽车链、能源。",
     "themes": [
       {
         "name": "金融",
-        "score": 12,
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -120588,11 +120588,6 @@
       },
       {
         "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
         "score": 5,
         "isFocusBoard": false
       },
@@ -120607,6 +120602,11 @@
         "isFocusBoard": false
       },
       {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
@@ -120618,6 +120618,22 @@
       }
     ],
     "items": [
+      {
+        "title": "科润智控:股东拟减持股份的预披露公告(再次披露)",
+        "summary": "科润智控(920062)：科润智控:股东拟减持股份的预披露公告(再次披露)",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920062/AN202607301827489816.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "科润智控(920062)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
       {
         "title": "天晟新材:股票交易异常波动公告",
         "summary": "天晟新材(300169)：天晟新材:股票交易异常波动公告",
@@ -120693,6 +120709,56 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "云意电气:关于与专业投资机构共同投资的进展公告",
+        "summary": "云意电气(300304)：云意电气:关于与专业投资机构共同投资的进展公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300304/AN202607301827490113.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "云意电气(300304)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "双一科技:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "summary": "双一科技(300690)：双一科技:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300690/AN202607301827490061.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "双一科技(300690)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "深振业Ａ:深圳市振业(集团)股份有限公司2023年面向专业投资者公开发行公司债券(第二期)2026年本息兑付及摘牌公告",
+        "summary": "深振业A(000006)：深振业Ａ:深圳市振业(集团)股份有限公司2023年面向专业投资者公开发行公司债券(第二期)2026年本息兑付及摘牌公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000006/AN202607301827489877.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "深振业A(000006)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
       },
       {
         "title": "福田汽车:北汽福田汽车股份有限公司2026年7月16日-28日投资者关系活动记录表",
@@ -120795,76 +120861,20 @@
         "noticeType": "回购方案修订"
       },
       {
-        "title": "蕾奥规划:关于部分限制性股票回购注销完成的公告",
-        "summary": "蕾奥规划(300989)：蕾奥规划:关于部分限制性股票回购注销完成的公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300989/AN202607301827489200.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "乐鑫科技：拟以5000万元至1亿元回购公司股份",
+        "summary": "【乐鑫科技：拟以5000万元至1亿元回购公司股份】乐鑫科技(688018.SH)公告称，公司拟以集中竞价交易方式回购股份，回购资金总额不低于5000万元(含)，不超过1亿元(含)，回购价格不超过121.28元/股，回购期限自董事会审议通过之日起3个月内。回购股份将用于员工持股或股权激励计划。",
+        "publishedAt": "2026-07-30 17:55:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303826827198.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "蕾奥规划(300989)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "绿通科技:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "summary": "绿通科技(301322)：绿通科技:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301322/AN202607301827488874.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "绿通科技(301322)"
-        ],
-        "importance": 1,
-        "noticeType": "借贷"
-      },
-      {
-        "title": "通合科技:关于首次回购公司股份的公告",
-        "summary": "通合科技(300491)：通合科技:关于首次回购公司股份的公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300491/AN202607301827488868.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "通合科技(300491)"
-        ],
-        "importance": 1,
-        "noticeType": "回购实施公告"
-      },
-      {
-        "title": "恩威医药:关于与专业投资机构共同投资设立基金的进展公告",
-        "summary": "恩威医药(301331)：恩威医药:关于与专业投资机构共同投资设立基金的进展公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301331/AN202607301827488829.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "恩威医药(301331)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
+        "noticeType": ""
       },
       {
         "title": "中证港股通半导体产业指数等4条指数将于7月31日正式发布",
@@ -120890,20 +120900,6 @@
         "publishedAt": "2026-07-30 17:38:22",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202607303826801217.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "韩国第六大资产管理公司负责人认为杠杆ETF应逐步退出市场",
-        "summary": "【韩国第六大资产管理公司负责人认为杠杆ETF应逐步退出市场】韩国第六大资产管理公司负责人Bae Jae Kyu呼吁投资者避免交易杠杆和反向ETF，并表示应让这类产品逐步退出市场。",
-        "publishedAt": "2026-07-30 17:34:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303826802717.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -121063,8 +121059,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-30 17:58:40",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、汽车链、能源。",
+        "generatedAt": "2026-07-30 18:06:28",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、汽车链、能源。",
         "sections": [
           {
             "title": "今日先看",
@@ -121102,7 +121098,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-30 17:57:42",
+        "generatedAt": "2026-07-30 18:05:29",
         "summary": "上午情绪分 0，涨停 52 家，跌停 74 家，炸板 19 家，连板 10 家，最高 8 板。",
         "sections": [
           {
@@ -121141,7 +121137,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-30 17:57:42",
+        "generatedAt": "2026-07-30 18:05:29",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -121167,7 +121163,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "今日跌停 74 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天晟新材:股票交易异常波动公告；开尔新材:关于持股5%以上股东股份解除质押的公告。",
+              "新闻/公告风险：科润智控:股东拟减持股份的预披露公告(再次披露)；天晟新材:股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
