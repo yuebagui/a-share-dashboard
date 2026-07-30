@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-30",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-30 18:30:31",
+    "generatedAt": "2026-07-30 23:16:29",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120569,168 +120569,150 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-30",
-    "generatedAt": "2026-07-30 18:31:30",
+    "generatedAt": "2026-07-30 23:17:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 金融、AI算力、半导体。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 19,
+        "score": 14,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 5,
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 3,
+        "name": "机器人",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST亚光:关于公司及下属公司新增债务逾期及诉讼、仲裁的公告",
-        "summary": "ST亚光(300123)：ST亚光:关于公司及下属公司新增债务逾期及诉讼、仲裁的公告",
+        "title": "金刚光伏:关于控股股东部分股份质押的公告",
+        "summary": "金刚光伏(300093)：金刚光伏:关于控股股东部分股份质押的公告",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300123/AN202607301827490983.html",
+        "url": "https://data.eastmoney.com/notices/detail/300093/AN202607301827496536.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST亚光(300123)"
+        "themes": [
+          "新能源"
         ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "龙磁科技:实际控制人股份质押、解除质押及部分质押股份延期购回的公告",
-        "summary": "龙磁科技(300835)：龙磁科技:实际控制人股份质押、解除质押及部分质押股份延期购回的公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300835/AN202607301827490432.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
         "tickers": [
-          "龙磁科技(300835)"
+          "金刚光伏(300093)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "连城数控:股东拟减持股份的预披露公告",
-        "summary": "连城数控(920368)：连城数控:股东拟减持股份的预披露公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920368/AN202607301827490422.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "日元短线快速升值",
+        "summary": "【日元短线快速升值】7月30日，日元短线快速升值。截至发稿，美元兑日元、欧元兑日元均累计下跌约350点，英镑兑日元累计下跌约400点，加元兑日元累计下跌超200点，澳元兑日元累计下跌超150点。",
+        "publishedAt": "2026-07-30 22:13:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607303827062856.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "连城数控(920368)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": ""
       },
       {
-        "title": "海昌智能:2026年半年度业绩预告公告",
-        "summary": "海昌智能(920156)：海昌智能:2026年半年度业绩预告公告",
+        "title": "万事利:关于与专业投资机构共同投资设立私募基金的公告",
+        "summary": "万事利(301066)：万事利:关于与专业投资机构共同投资设立私募基金的公告",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920156/AN202607301827490933.html",
+        "url": "https://data.eastmoney.com/notices/detail/301066/AN202607301827494380.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "海昌智能(920156)"
+          "万事利(301066)"
         ],
         "importance": 1,
-        "noticeType": "业绩预告"
+        "noticeType": "投资设立公司"
       },
       {
-        "title": "云天化:投资者关系活动记录表",
-        "summary": "云天化(600096)：云天化:投资者关系活动记录表",
+        "title": "中裕科技:投资者关系活动记录表",
+        "summary": "中裕科技(920694)：中裕科技:投资者关系活动记录表",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600096/AN202607301827490770.html",
+        "url": "https://data.eastmoney.com/notices/detail/920694/AN202607301827495965.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "云天化(600096)"
+          "中裕科技(920694)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "华熙生物:投资者关系活动记录表(2026年7月30日)",
-        "summary": "华熙生物(688363)：华熙生物:投资者关系活动记录表(2026年7月30日)",
+        "title": "远望谷:2026年7月30日投资者关系记录表",
+        "summary": "远望谷(002161)：远望谷:2026年7月30日投资者关系记录表",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688363/AN202607301827490769.html",
+        "url": "https://data.eastmoney.com/notices/detail/002161/AN202607301827500293.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "华熙生物(688363)"
+          "远望谷(002161)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "瑞迪智驱:2026年7月29日投资者关系活动记录表",
-        "summary": "瑞迪智驱(301596)：瑞迪智驱:2026年7月29日投资者关系活动记录表",
+        "title": "京东方Ａ:037-2026年7月30日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:037-2026年7月30日投资者关系活动记录表",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301596/AN202607301827490607.html",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202607301827498577.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "瑞迪智驱(301596)"
+          "京东方A(000725)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "聚仁新材:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
-        "summary": "聚仁新材(920258)：聚仁新材:向不特定合格投资者公开发行股票并在北京证券交易所上市提示性公告",
+        "title": "特锐德:关于回购公司股份方案的公告",
+        "summary": "特锐德(300001)：特锐德:关于回购公司股份方案的公告",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920258/AN202607301827490650.html",
+        "url": "https://data.eastmoney.com/notices/detail/300001/AN202607301827498063.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -120738,17 +120720,33 @@
           "金融"
         ],
         "tickers": [
-          "聚仁新材(920258)"
+          "特锐德(300001)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "回购预案"
       },
       {
-        "title": "聚仁新材:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "summary": "聚仁新材(920258)：聚仁新材:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
+        "title": "好上好:2026年7月30日投资者活动记录表",
+        "summary": "好上好(001298)：好上好:2026年7月30日投资者活动记录表",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920258/AN202607301827490651.html",
+        "url": "https://data.eastmoney.com/notices/detail/001298/AN202607301827497045.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "好上好(001298)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "三环集团:关于股份回购结果暨股份变动的公告",
+        "summary": "三环集团(300408)：三环集团:关于股份回购结果暨股份变动的公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607301827497077.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -120756,49 +120754,67 @@
           "金融"
         ],
         "tickers": [
-          "聚仁新材(920258)"
+          "三环集团(300408)"
         ],
         "importance": 1,
-        "noticeType": "首发上市公告书"
+        "noticeType": "股本变动"
       },
       {
-        "title": "科士达:2026年7月29日-30日投资者关系活动记录表",
-        "summary": "科士达(002518)：科士达:2026年7月29日-30日投资者关系活动记录表",
+        "title": "三环集团:关于2026年第二期回购公司股份方案的公告暨回购股份报告书",
+        "summary": "三环集团(300408)：三环集团:关于2026年第二期回购公司股份方案的公告暨回购股份报告书",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002518/AN202607301827490375.html",
+        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607301827497092.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "三环集团(300408)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "爱美客:关于公司控股子公司与专业机构、关联方共同投资暨关联交易的公告",
+        "summary": "爱美客(300896)：爱美客:关于公司控股子公司与专业机构、关联方共同投资暨关联交易的公告",
+        "publishedAt": "2026-07-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300896/AN202607301827496535.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "科士达(002518)"
+          "爱美客(300896)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "关联交易"
       },
       {
-        "title": "三角防务:关于使用部分闲置自有资金进行现金管理到期赎回的公告",
-        "summary": "三角防务(300775)：三角防务:关于使用部分闲置自有资金进行现金管理到期赎回的公告",
+        "title": "新赣江:关于使用闲置自有资金购买理财产品进展的公告",
+        "summary": "新赣江(920367)：新赣江:关于使用闲置自有资金购买理财产品进展的公告",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300775/AN202607301827490430.html",
+        "url": "https://data.eastmoney.com/notices/detail/920367/AN202607301827496376.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "三角防务(300775)"
+          "新赣江(920367)"
         ],
         "importance": 1,
         "noticeType": "投资理财"
       },
       {
-        "title": "科德教育:关于股份回购事项股东会股权登记日前十大股东和前十大无限售条件股东持股情况的公告",
-        "summary": "科德教育(300192)：科德教育:关于股份回购事项股东会股权登记日前十大股东和前十大无限售条件股东持股情况的公告",
+        "title": "杰理科技:关于公司向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
+        "summary": "杰理科技(920138)：杰理科技:关于公司向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
         "publishedAt": "2026-07-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300192/AN202607301827490426.html",
+        "url": "https://data.eastmoney.com/notices/detail/920138/AN202607301827495265.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -120806,17 +120822,17 @@
           "金融"
         ],
         "tickers": [
-          "科德教育(300192)"
+          "杰理科技(920138)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "其他"
       },
       {
-        "title": "空客上半年收入同比增长12% 新获886架民用飞机订单",
-        "summary": "【空客上半年收入同比增长12% 新获886架民用飞机订单】7月30日，空中客车发布截至2026年6月30日的2026年上半年的合并财务业绩报告。上半年合并收入同比增长12%，达到332亿欧元；合并调整后息税前利润总计27.27亿欧元，上年同期为22.04亿欧元。该公司2026年指导方针保持不变，计划在2026年交付约870架民用飞机；调整后息税前利润约为7…",
-        "publishedAt": "2026-07-30 18:19:29",
+        "title": "欧足联所有55个足协一致同意抵制世界杯赛事",
+        "summary": "【欧足联所有55个足协一致同意抵制世界杯赛事】欧足联所有55个足协一致同意抵制世界杯赛事。此前，国际足联主席因凡蒂诺推进向私人投资者出售世界杯股份的计划",
+        "publishedAt": "2026-07-30 23:08:19",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303826836082.html",
+        "url": "https://finance.eastmoney.com/a/202607303827091439.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -120826,84 +120842,63 @@
         "noticeType": ""
       },
       {
-        "title": "渤海租赁：拟2亿元回购公司股份",
-        "summary": "【渤海租赁：拟2亿元回购公司股份】渤海租赁(000415.SZ)公告称，公司拟以自有资金及股票回购专项贷款，通过集中竞价交易方式回购部分A股股份，回购金额为2亿元(含)，回购价格不超过6.48元/股。回购股份将全部用于维护公司价值及股东权益，并全部用于出售。回购期限自董事会审议通过之日起3个月内。",
-        "publishedAt": "2026-07-30 18:14:25",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303826835883.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "欧盟计划投资114亿美元建设7座人工智能超级工厂",
-        "summary": "【欧盟计划投资114亿美元建设7座人工智能超级工厂】欧盟27国集团的执行官周四表示，欧盟将提供100亿欧元(114亿美元)的资金，资助企业建立7个人工智能巨型工厂，以缩小与美国的人工智能差距。欧盟委员会表示，希望公共融资能够吸引额外的200亿欧元(228亿美元)私人投资。企业现在可以竞标建造超级工厂的合同，这些工厂计划配备至少10万个尖端人工智能芯片，其性…",
-        "publishedAt": "2026-07-30 18:12:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303826832595.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "工信部发布关于废止和修订新能源汽车废旧动力电池“梯次利用”相关政策标准以及规范有关行业活动的公告",
-        "summary": "【工信部发布关于废止和修订新能源汽车废旧动力电池“梯次利用”相关政策标准以及规范有关行业活动的公告】为落实《新能源汽车废旧动力电池回收和综合利用管理暂行办法》，加强法规政策标准协同，保障人民群众生命财产安全，促进行业健康发展，工业和信息化部现就有关事项公告如下。",
-        "publishedAt": "2026-07-30 18:07:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303826832461.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "汽车链",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "网宿科技：拟3亿元-6亿元回购公司股份",
-        "summary": "【网宿科技：拟3亿元-6亿元回购公司股份】网宿科技7月30日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于3亿元且不超过6亿元。回购价格不超过21.17元/股。回购股份将用于注销并减少公司注册资本。回购期限为自公司股东会审议通过回购方案之日起12个月内。",
-        "publishedAt": "2026-07-30 18:04:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303826832225.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英国首相办公室：英首相伯纳姆计划投资110亿美元用于核潜艇项目",
-        "summary": "【英国首相办公室：英首相伯纳姆计划投资110亿美元用于核潜艇项目】英国首相安迪·伯纳姆办公室表示，伯纳姆将宣布拨款84亿英镑（超过110亿美元）用于建造四艘“无畏”级核潜艇。",
-        "publishedAt": "2026-07-30 18:02:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303826830055.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国7月联邦基金利率目标上限(%)",
+        "summary": "美国7月联邦基金利率目标上限(%)；公布 3.75，预期 3.75，前值 3.75。",
+        "publishedAt": "2026-07-30 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月联邦基金利率目标下限(%)",
+        "summary": "美国7月联邦基金利率目标下限(%)；公布 3.5，预期 3.5，前值 3.5。",
+        "publishedAt": "2026-07-30 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月29日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国7月29日iShares黄金持仓-每日更新(吨)；公布 461.88，预期 nan，前值 461.88。",
+        "publishedAt": "2026-07-30 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月29日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国7月29日SPDR黄金持仓-每日更新(吨)；公布 1009.3，预期 nan，前值 1008.73。",
+        "publishedAt": "2026-07-30 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -121057,15 +121052,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-30 18:31:30",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 金融、AI算力、半导体。",
+        "generatedAt": "2026-07-30 23:17:40",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：白酒、银行、高股息精选；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121096,7 +121091,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-30 18:30:31",
+        "generatedAt": "2026-07-30 23:16:29",
         "summary": "上午情绪分 0，涨停 52 家，跌停 74 家，炸板 19 家，连板 10 家，最高 8 板。",
         "sections": [
           {
@@ -121135,7 +121130,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-30 18:30:31",
+        "generatedAt": "2026-07-30 23:16:29",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -121161,7 +121156,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "今日跌停 74 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST亚光:关于公司及下属公司新增债务逾期及诉讼、仲裁的公告；龙磁科技:实际控制人股份质押、解除质押及部分质押股份延期购回的公告。",
+              "新闻/公告风险：金刚光伏:关于控股股东部分股份质押的公告；日元短线快速升值。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
