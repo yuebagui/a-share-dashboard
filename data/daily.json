@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-07-30",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-07-30 23:24:11",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-07-30 23:24:11",
+    "lastNewsAt": "2026-07-31 12:01:35"
   },
   "indices": [
     {
@@ -120568,30 +120570,35 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-07-30",
-    "generatedAt": "2026-07-30 23:25:43",
+    "tradeDate": "2026-07-31",
+    "generatedAt": "2026-07-31 12:01:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
+        "score": 16,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "机器人",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -120600,7 +120607,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       },
@@ -120612,241 +120619,222 @@
     ],
     "items": [
       {
-        "title": "金刚光伏:关于控股股东部分股份质押的公告",
-        "summary": "金刚光伏(300093)：金刚光伏:关于控股股东部分股份质押的公告",
-        "publishedAt": "2026-07-30",
+        "title": "关于锴威特(688693)融资交易风险提示的公告",
+        "summary": "锴威特(688693)：关于锴威特(688693)融资交易风险提示的公告",
+        "publishedAt": "2026-07-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300093/AN202607301827496536.html",
+        "url": "https://data.eastmoney.com/notices/detail/688693/AN202607311827509419.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "新能源"
-        ],
+        "themes": [],
         "tickers": [
-          "金刚光伏(300093)"
+          "锴威特(688693)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "融资融券公告"
       },
       {
-        "title": "美联储决议后首批数据发布 长期美债收益率守住大部分涨幅",
-        "summary": "【美联储决议后首批数据发布 长期美债收益率守住大部分涨幅】长期美国国债收益率守住本周美联储决议后录得的大部分涨幅，一系列美国经济数据显示通胀仍然高企且劳动力市场具有韧性。30年期美国国债收益率周三在美联储维持利率不变后上涨逾10个基点，升至2007年以来最高水平，周四维持5.20%左右。美国国债期权市场继续出现大量需求，以对冲未来数周收益率进一步上升的风险…",
-        "publishedAt": "2026-07-30 23:15:48",
+        "title": "长电科技:江苏长电科技股份有限公司股票交易价格异常波动公告",
+        "summary": "长电科技(600584)：长电科技:江苏长电科技股份有限公司股票交易价格异常波动公告",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600584/AN202607301827499998.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "长电科技(600584)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "瑞贝卡:关于实施其他风险警示暨停牌的公告",
+        "summary": "瑞贝卡(600439)：瑞贝卡:关于实施其他风险警示暨停牌的公告",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600439/AN202607301827499453.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "瑞贝卡(600439)"
+        ],
+        "importance": 1,
+        "noticeType": "停牌公告"
+      },
+      {
+        "title": "皖仪科技:容诚会计师事务所(特殊普通合伙)关于安徽皖仪科技股份有限公司向不特定对象发行可转换公司债券申请文件审核问询函的专项核查意见",
+        "summary": "皖仪科技(688600)：皖仪科技:容诚会计师事务所(特殊普通合伙)关于安徽皖仪科技股份有限公司向不特定对象发行可转换公司债券申请文件审核问询函的专项核查意见",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688600/AN202607301827499366.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "皖仪科技(688600)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "皖仪科技:关于向不特定对象发行可转换公司债券的审核问询函回复更新的提示性公告",
+        "summary": "皖仪科技(688600)：皖仪科技:关于向不特定对象发行可转换公司债券的审核问询函回复更新的提示性公告",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688600/AN202607301827499365.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "皖仪科技(688600)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "皖仪科技:关于安徽皖仪科技股份有限公司向不特定对象发行可转换公司债券申请文件的审核问询函之回复(修订稿)",
+        "summary": "皖仪科技(688600)：皖仪科技:关于安徽皖仪科技股份有限公司向不特定对象发行可转换公司债券申请文件的审核问询函之回复(修订稿)",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688600/AN202607301827499364.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "皖仪科技(688600)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "午评：科创50指数半日涨近6% 全市场超4500只个股上涨",
+        "summary": "【午评：科创50指数半日涨近6% 全市场超4500只个股上涨】市场早盘高开后震荡，创业板指涨超5%，深成指涨超3%。量能明显放大，沪深两市半日成交额1.79万亿，较上个交易日放量3323亿。盘面上热点快速轮动，全市场超4500只个股上涨。从板块来看，AI应用端爆发，中文在线、荣信文化、蓝色光标、易点天下20cm涨停。算力租赁概念持续拉升，美利云、云赛智联、…",
+        "publishedAt": "2026-07-31 11:32:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303827093083.html",
+        "url": "https://finance.eastmoney.com/a/202607313828120061.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "半导体",
+          "AI算力",
+          "机器人",
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "日元短线快速升值",
-        "summary": "【日元短线快速升值】7月30日，日元短线快速升值。截至发稿，美元兑日元、欧元兑日元均累计下跌约350点，英镑兑日元累计下跌约400点，加元兑日元累计下跌超200点，澳元兑日元累计下跌超150点。",
-        "publishedAt": "2026-07-30 22:13:02",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303827062856.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "万事利:关于与专业投资机构共同投资设立私募基金的公告",
-        "summary": "万事利(301066)：万事利:关于与专业投资机构共同投资设立私募基金的公告",
-        "publishedAt": "2026-07-30",
+        "title": "顺络电子:2026年7月30日投资者关系活动记录表",
+        "summary": "顺络电子(002138)：顺络电子:2026年7月30日投资者关系活动记录表",
+        "publishedAt": "2026-07-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301066/AN202607301827494380.html",
+        "url": "https://data.eastmoney.com/notices/detail/002138/AN202607311827516156.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "万事利(301066)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "中裕科技:投资者关系活动记录表",
-        "summary": "中裕科技(920694)：中裕科技:投资者关系活动记录表",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920694/AN202607301827495965.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中裕科技(920694)"
+          "顺络电子(002138)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "远望谷:2026年7月30日投资者关系记录表",
-        "summary": "远望谷(002161)：远望谷:2026年7月30日投资者关系记录表",
-        "publishedAt": "2026-07-30",
+        "title": "炬芯科技:2026年限制性股票激励计划(草案)摘要公告",
+        "summary": "炬芯科技(688049)：炬芯科技:2026年限制性股票激励计划(草案)摘要公告",
+        "publishedAt": "2026-07-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002161/AN202607301827500293.html",
+        "url": "https://data.eastmoney.com/notices/detail/688049/AN202607301827499661.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "远望谷(002161)"
+          "炬芯科技(688049)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励计划摘要"
       },
       {
-        "title": "京东方Ａ:037-2026年7月30日投资者关系活动记录表",
-        "summary": "京东方A(000725)：京东方Ａ:037-2026年7月30日投资者关系活动记录表",
-        "publishedAt": "2026-07-30",
+        "title": "炬芯科技:2026年限制性股票激励计划(草案)",
+        "summary": "炬芯科技(688049)：炬芯科技:2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-07-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000725/AN202607301827498577.html",
+        "url": "https://data.eastmoney.com/notices/detail/688049/AN202607301827499662.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "京东方A(000725)"
+          "炬芯科技(688049)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励计划"
       },
       {
-        "title": "特锐德:关于回购公司股份方案的公告",
-        "summary": "特锐德(300001)：特锐德:关于回购公司股份方案的公告",
-        "publishedAt": "2026-07-30",
+        "title": "炬芯科技:2026年限制性股票激励计划首次授予激励对象名单",
+        "summary": "炬芯科技(688049)：炬芯科技:2026年限制性股票激励计划首次授予激励对象名单",
+        "publishedAt": "2026-07-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300001/AN202607301827498063.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "特锐德(300001)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "好上好:2026年7月30日投资者活动记录表",
-        "summary": "好上好(001298)：好上好:2026年7月30日投资者活动记录表",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001298/AN202607301827497045.html",
+        "url": "https://data.eastmoney.com/notices/detail/688049/AN202607301827499659.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "好上好(001298)"
+          "炬芯科技(688049)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励对象名单"
       },
       {
-        "title": "三环集团:关于股份回购结果暨股份变动的公告",
-        "summary": "三环集团(300408)：三环集团:关于股份回购结果暨股份变动的公告",
-        "publishedAt": "2026-07-30",
+        "title": "绿控传动:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "summary": "绿控传动(301655)：绿控传动:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "publishedAt": "2026-07-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607301827497077.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "三环集团(300408)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "三环集团:关于2026年第二期回购公司股份方案的公告暨回购股份报告书",
-        "summary": "三环集团(300408)：三环集团:关于2026年第二期回购公司股份方案的公告暨回购股份报告书",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202607301827497092.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "三环集团(300408)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "爱美客:关于公司控股子公司与专业机构、关联方共同投资暨关联交易的公告",
-        "summary": "爱美客(300896)：爱美客:关于公司控股子公司与专业机构、关联方共同投资暨关联交易的公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300896/AN202607301827496535.html",
+        "url": "https://data.eastmoney.com/notices/detail/301655/AN202607301827498616.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "爱美客(300896)"
-        ],
-        "importance": 1,
-        "noticeType": "关联交易"
-      },
-      {
-        "title": "新赣江:关于使用闲置自有资金购买理财产品进展的公告",
-        "summary": "新赣江(920367)：新赣江:关于使用闲置自有资金购买理财产品进展的公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920367/AN202607301827496376.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新赣江(920367)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "杰理科技:关于公司向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
-        "summary": "杰理科技(920138)：杰理科技:关于公司向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
-        "publishedAt": "2026-07-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920138/AN202607301827495265.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "杰理科技(920138)"
+          "绿控传动(301655)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "欧足联所有55个足协一致同意抵制世界杯赛事",
-        "summary": "【欧足联所有55个足协一致同意抵制世界杯赛事】欧足联所有55个足协一致同意抵制世界杯赛事。此前，国际足联主席因凡蒂诺推进向私人投资者出售世界杯股份的计划",
-        "publishedAt": "2026-07-30 23:08:19",
+        "title": "绿控传动:与投资者保护相关的承诺",
+        "summary": "绿控传动(301655)：绿控传动:与投资者保护相关的承诺",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301655/AN202607301827498617.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "绿控传动(301655)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "拼多多雄安公司员工突破3000人 创下新区民营企业发展新纪录",
+        "summary": "【拼多多雄安公司员工突破3000人 创下新区民营企业发展新纪录】随着专项人才招聘计划全速推进，拼多多雄安公司员工规模已突破3000人。从公司注册到3000名员工完成入职，拼多多雄安公司仅用了两个月的时间，创造了新区民营企业人才集聚的新纪录，未来一年招录5000名人才的重磅计划或将大幅提前完成，以超预期的速度为新区数字经济发展注入强劲持久的新动能。",
+        "publishedAt": "2026-07-31 11:53:13",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607303827091439.html",
+        "url": "https://finance.eastmoney.com/a/202607313828124241.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -120856,47 +120844,63 @@
         "noticeType": ""
       },
       {
-        "title": "美国7月联邦基金利率目标上限(%)",
-        "summary": "美国7月联邦基金利率目标上限(%)；公布 3.75，预期 3.75，前值 3.75。",
-        "publishedAt": "2026-07-30 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月联邦基金利率目标下限(%)",
-        "summary": "美国7月联邦基金利率目标下限(%)；公布 3.5，预期 3.5，前值 3.5。",
-        "publishedAt": "2026-07-30 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月29日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国7月29日iShares黄金持仓-每日更新(吨)；公布 461.88，预期 nan，前值 461.88。",
-        "publishedAt": "2026-07-30 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "安泰科技：钨钼热场产品和显示用钼靶材已实现规模化稳定供货",
+        "summary": "【安泰科技：钨钼热场产品和显示用钼靶材已实现规模化稳定供货】安泰科技7月31日在互动平台表示，公司钨钼热场产品和显示用钼靶材已实现规模化稳定供货，相关批量订单正持续获取。",
+        "publishedAt": "2026-07-31 11:39:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607313828121820.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
           "有色稀土"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "贵州洛北河漂流景区：“伴漂”非官方运营项目，将依法追责",
+        "summary": "【贵州洛北河漂流景区：“伴漂”非官方运营项目，将依法追责】7月31日，“洛北通天河漂流”官微发布声明：洛北河漂流由贵州山水清晖旅游投资开发有限公司投建运营，网传“伴漂”服务并非官方经营项目。针对本次事件，公司已全面固定证据、完成证据保全。",
+        "publishedAt": "2026-07-31 11:39:47",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607313828122125.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "台达电：AI建设热潮持续升温 看好下半年业绩走高",
+        "summary": "【台达电：AI建设热潮持续升温 看好下半年业绩走高】电源设备企业台达电董事长郑平于30日的法说会上公开表态，近期行业内出现不少关于AI市场的负面杂音，但结合客户实际订单动态与市场反馈来看，AI数据中心的建设热潮不会中断，行业整体需求依旧旺盛，公司下半年经营业绩将明显优于上半年。",
+        "publishedAt": "2026-07-31 11:39:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607313828121990.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "全球科技共振暴涨！科创50ETF易方达（588080）涨5.74%，成交额突破24亿元",
+        "summary": "【全球科技共振暴涨！科创50ETF易方达（588080）涨5.74%，成交额突破24亿元】截至2026年7月31日11:18，科创50ETF易方达（588080）高开高走，盘中涨幅达5.74%，报1.712元，盘中最高触及1.772元，最低1.70元，成交额突破24.23亿元，成交量达13.95亿份，换手率显著放大，交投极为活跃，资金持续涌入科创板核心标的。",
+        "publishedAt": "2026-07-31 11:32:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607313828122658.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -121037,7 +121041,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -121050,15 +121054,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-30 23:25:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-07-31 12:01:35",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：白酒、银行、高股息精选；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121154,7 +121158,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "今日跌停 74 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：金刚光伏:关于控股股东部分股份质押的公告；美联储决议后首批数据发布 长期美债收益率守住大部分涨幅。",
+              "新闻/公告风险：关于锴威特(688693)融资交易风险提示的公告；长电科技:江苏长电科技股份有限公司股票交易价格异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
