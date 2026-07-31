@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-31",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-31 23:24:12",
+    "generatedAt": "2026-07-31 23:29:48",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": 0.72,
       "turnover": "1.19万亿",
       "turnoverValue": 1187681546393.0,
-      "quoteTime": "2026-07-31 16:14:01",
+      "quoteTime": "2026-07-31 16:14:20",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": 2.99,
       "turnover": "1630亿",
       "turnoverValue": 162975217250.0,
-      "quoteTime": "2026-07-31 16:14:13",
+      "quoteTime": "2026-07-31 16:14:14",
       "source": "腾讯直连"
     }
   ],
@@ -128822,53 +128822,251 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-31",
-    "generatedAt": "2026-07-31 23:25:37",
+    "generatedAt": "2026-07-31 23:31:43",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: ('Connection broken: IncompleteRead(46101 bytes read, 22317 more expected)', IncompleteRead(46101 bytes read, 22317 more expected))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 1 条；主题映射集中在 能源、有色稀土、金融。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 有色稀土、金融、医药。",
     "themes": [
       {
-        "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "金融",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 4,
+        "name": "军工",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "霍尔木兹海峡单日船舶通行量降至5艘",
-        "summary": "【霍尔木兹海峡单日船舶通行量降至5艘】国际航运信息平台“海上交通网站”7月31日公布的数据显示，霍尔木兹海峡30日的船舶通行数量从前一天的22艘降至5艘，降幅达77%。该平台数据显示，这5艘船全部经伊朗一侧航道通过霍尔木兹海峡。国际市场服务机构克普勒公司30日在社交媒体上发文说，持续存在的海上安全风险、战事保险成本等目前似乎已成为制约海湾地区原油出口的主要…",
-        "publishedAt": "2026-07-31 23:22:27",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "*ST益通:关于公司股票交易被实施其他风险警示相关事项的进展公告",
+        "summary": "*ST益通(300430)：*ST益通:关于公司股票交易被实施其他风险警示相关事项的进展公告",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300430/AN202607311827536807.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST益通(300430)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "爱尔眼科:关于公司实际控制人部分股份质押及解除质押的公告",
+        "summary": "爱尔眼科(300015)：爱尔眼科:关于公司实际控制人部分股份质押及解除质押的公告",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300015/AN202607311827535588.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "爱尔眼科(300015)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "关于对兰州兰石重型装备股份有限公司及有关责任人予以监管警示的决定",
+        "summary": "兰石重装(603169)：关于对兰州兰石重型装备股份有限公司及有关责任人予以监管警示的决定",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603169/AN202607311827537309.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "兰石重装(603169)"
+        ],
+        "importance": 1,
+        "noticeType": "上交所股票监管关注"
+      },
+      {
+        "title": "*ST益通:关于实际控制人部分股份司法冻结变动及轮候冻结生效的公告",
+        "summary": "*ST益通(300430)：*ST益通:关于实际控制人部分股份司法冻结变动及轮候冻结生效的公告",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300430/AN202607311827536808.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST益通(300430)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "佛塑科技投资者关系活动记录表",
+        "summary": "佛塑科技(000973)：佛塑科技投资者关系活动记录表",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000973/AN202607311827531053.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "佛塑科技(000973)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华润微:电子有限公司2026年7月投资者关系活动记录表",
+        "summary": "华润微(688396)：华润微:电子有限公司2026年7月投资者关系活动记录表",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688396/AN202607311827529408.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华润微(688396)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中孚实业:河南中孚实业股份有限公司投资者关系活动记录表(2026年7月)",
+        "summary": "中孚实业(600595)：中孚实业:河南中孚实业股份有限公司投资者关系活动记录表(2026年7月)",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600595/AN202607311827527583.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中孚实业(600595)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "杰创智能投资者关系活动记录表（2026年7月）",
+        "summary": "杰创智能(301248)：杰创智能投资者关系活动记录表（2026年7月）",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301248/AN202607311827537642.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "杰创智能(301248)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "仙坛股份:2026年07月31日投资者关系活动记录表",
+        "summary": "仙坛股份(002746)：仙坛股份:2026年07月31日投资者关系活动记录表",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002746/AN202607311827537101.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "仙坛股份(002746)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "日月明:关于首次回购公司股份的公告",
+        "summary": "日月明(300906)：日月明:关于首次回购公司股份的公告",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300906/AN202607311827536867.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "日月明(300906)"
+        ],
+        "importance": 1,
+        "noticeType": "回购实施公告"
+      },
+      {
+        "title": "澄天伟业:关于回购公司股份方案的公告暨回购报告书",
+        "summary": "澄天伟业(300689)：澄天伟业:关于回购公司股份方案的公告暨回购报告书",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300689/AN202607311827536056.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "澄天伟业(300689)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "汉仪股份:2026年7月31日投资者关系活动记录表",
+        "summary": "汉仪股份(301270)：汉仪股份:2026年7月31日投资者关系活动记录表",
+        "publishedAt": "2026-07-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301270/AN202607311827535857.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汉仪股份(301270)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中国打破黑色黄金海外垄断 民用航空制动迎来中国方案",
+        "summary": "【中国打破黑色黄金海外垄断 民用航空制动迎来中国方案】制动系统是飞机起降安全的核心，过去，高性能刹车盘生产销售长期被海外企业垄断，如今，随着国内新材料技术的突破，我国民用航空制动领域正稳步迈入国产化自主新阶段。相比于金属刹车材料，碳材料重量轻、耐高温、寿命长，具备不可替代优势，目前国际上所有主流民航客机均规模化采用碳刹车材料。但长期以来，民航碳刹车属于高价…",
+        "publishedAt": "2026-07-31 22:48:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202607313828710237.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
-          "低空经济",
-          "金融",
-          "能源"
+          "有色稀土",
+          "军工"
         ],
         "tickers": [],
         "importance": 1,
@@ -128948,184 +129146,6 @@
         ],
         "tickers": [],
         "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本6月失业率(%)",
-        "summary": "日本6月失业率(%)；公布 2.5，预期 2.5，前值 2.5。",
-        "publishedAt": "2026-07-31 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本7月东京CPI年率(%)",
-        "summary": "日本7月东京CPI年率(%)；公布 2.0，预期 1.8，前值 1.7。",
-        "publishedAt": "2026-07-31 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国7月官方制造业PMI",
-        "summary": "中国7月官方制造业PMI；公布 49.2，预期 50.0，前值 50.3。",
-        "publishedAt": "2026-07-31 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗外交部：伊朗与印度外长于周五通电话。",
-        "summary": "伊朗外交部：伊朗与印度外长于周五通电话。",
-        "publishedAt": "2026-07-31 23:23:18",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "市场消息：美国或将撤出部署在西班牙半数军事人员。",
-        "summary": "市场消息：美国或将撤出部署在西班牙半数军事人员。",
-        "publishedAt": "2026-07-31 23:22:21",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "罗马尼亚总理：将在多瑙河开展水利工程实施调水，保障第二座核反应堆持续并网运行。",
-        "summary": "罗马尼亚总理：将在多瑙河开展水利工程实施调水，保障第二座核反应堆持续并网运行。",
-        "publishedAt": "2026-07-31 23:21:58",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "罗马尼亚总理：因电力发电量下降，宣布全国进入紧急状态，有效期持续至 8 月。",
-        "summary": "罗马尼亚总理：因电力发电量下降，宣布全国进入紧急状态，有效期持续至 8 月。",
-        "publishedAt": "2026-07-31 23:20:32",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "雪佛龙：已将腾吉斯油田三代项目厂区的原油铭牌产能提升至每日 32 万桶。",
-        "summary": "雪佛龙：已将腾吉斯油田三代项目厂区的原油铭牌产能提升至每日 32 万桶。",
-        "publishedAt": "2026-07-31 23:19:45",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "消息人士：美国财政部已通知各家银行，银行应做好准备，应对后续干预行动。",
-        "summary": "消息人士：美国财政部已通知各家银行，银行应做好准备，应对后续干预行动。",
-        "publishedAt": "2026-07-31 23:19:19",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "消息人士：美国财政部已通过纽约联储告知各大银行，美方今日可能入场干预日元汇率。",
-        "summary": "消息人士：美国财政部已通过纽约联储告知各大银行，美方今日可能入场干预日元汇率。",
-        "publishedAt": "2026-07-31 23:18:27",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "雪佛龙CEO：CPC里海石油管线目前正在运行，本周已有油轮开展装船作业。",
-        "summary": "雪佛龙CEO：CPC里海石油管线目前正在运行，本周已有油轮开展装船作业。",
-        "publishedAt": "2026-07-31 23:16:28",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国能源信息署（EIA）：5 月美国馏分燃料油供应量降至 2020 年 6 月以来…",
-        "summary": "美国能源信息署（EIA）：5 月美国馏分燃料油供应量降至 2020 年 6 月以来最低水平。",
-        "publishedAt": "2026-07-31 23:14:12",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -129895,15 +129915,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-31 23:25:37",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 1 条；主题映射集中在 能源、有色稀土、金融。",
+        "generatedAt": "2026-07-31 23:31:43",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 有色稀土、金融、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：AI应用、AI智能体、人工智能；首看 AI应用 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -129934,7 +129954,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-31 23:24:12",
+        "generatedAt": "2026-07-31 23:29:48",
         "summary": "上午情绪分 100，涨停 99 家，跌停 0 家，炸板 107 家，连板 10 家，最高 9 板。",
         "sections": [
           {
@@ -129973,7 +129993,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-31 23:24:12",
+        "generatedAt": "2026-07-31 23:29:48",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -129999,7 +130019,7 @@
               "今日炸板 107 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：霍尔木兹海峡单日船舶通行量降至5艘。",
+              "新闻/公告风险：*ST益通:关于公司股票交易被实施其他风险警示相关事项的进展公告；爱尔眼科:关于公司实际控制人部分股份质押及解除质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
