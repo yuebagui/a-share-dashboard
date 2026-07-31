@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-07-31",
     "phase": "盘后复盘",
-    "generatedAt": "2026-07-31 18:45:31",
+    "generatedAt": "2026-07-31 23:24:12",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": 0.72,
       "turnover": "1.19万亿",
       "turnoverValue": 1187681546393.0,
-      "quoteTime": "2026-07-31 16:14:20",
+      "quoteTime": "2026-07-31 16:14:01",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": 2.99,
       "turnover": "1630亿",
       "turnoverValue": 162975217250.0,
-      "quoteTime": "2026-07-31 16:14:14",
+      "quoteTime": "2026-07-31 16:14:13",
       "source": "腾讯直连"
     }
   ],
@@ -128822,14 +128822,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-07-31",
-    "generatedAt": "2026-07-31 18:46:36",
+    "generatedAt": "2026-07-31 23:25:37",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "errors": [
+      "notices: ('Connection broken: IncompleteRead(46101 bytes read, 22317 more expected)', IncompleteRead(46101 bytes read, 22317 more expected))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 1 条；主题映射集中在 能源、有色稀土、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 22,
+        "name": "能源",
+        "score": 10,
         "isFocusBoard": false
       },
       {
@@ -128838,275 +128840,35 @@
         "isFocusBoard": false
       },
       {
+        "name": "金融",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST亚光:关于子公司为公司及子公司提供担保的公告",
-        "summary": "ST亚光(300123)：ST亚光:关于子公司为公司及子公司提供担保的公告",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300123/AN202607311827533531.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST亚光(300123)"
-        ],
-        "importance": 1,
-        "noticeType": "提供/对外担保公告"
-      },
-      {
-        "title": "真兰仪表：拟1.98亿元收购芜湖藦卡66%股权",
-        "summary": "【真兰仪表：拟1.98亿元收购芜湖藦卡66%股权】真兰仪表(301303.SZ)公告称，公司拟使用自有资金1.98亿元收购芜湖藦卡机器人科技有限公司66%股权，目前已取得56.8347%股权，剩余9.1653%股权需通过产权交易机构挂牌转让，存在不确定性。芜湖藦卡主营工业机器人研发与生产，不涉及人形机器人业务。本次收购存在经营业绩、现金流、商誉减值及整合等…",
-        "publishedAt": "2026-07-31 18:31:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607313828458946.html",
+        "title": "霍尔木兹海峡单日船舶通行量降至5艘",
+        "summary": "【霍尔木兹海峡单日船舶通行量降至5艘】国际航运信息平台“海上交通网站”7月31日公布的数据显示，霍尔木兹海峡30日的船舶通行数量从前一天的22艘降至5艘，降幅达77%。该平台数据显示，这5艘船全部经伊朗一侧航道通过霍尔木兹海峡。国际市场服务机构克普勒公司30日在社交媒体上发文说，持续存在的海上安全风险、战事保险成本等目前似乎已成为制约海湾地区原油出口的主要…",
+        "publishedAt": "2026-07-31 23:22:27",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "机器人"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "佛塑科技投资者关系活动记录表",
-        "summary": "佛塑科技(000973)：佛塑科技投资者关系活动记录表",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000973/AN202607311827531053.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佛塑科技(000973)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华润微:电子有限公司2026年7月投资者关系活动记录表",
-        "summary": "华润微(688396)：华润微:电子有限公司2026年7月投资者关系活动记录表",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688396/AN202607311827529408.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华润微(688396)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中孚实业:河南中孚实业股份有限公司投资者关系活动记录表(2026年7月)",
-        "summary": "中孚实业(600595)：中孚实业:河南中孚实业股份有限公司投资者关系活动记录表(2026年7月)",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600595/AN202607311827527583.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中孚实业(600595)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "英华特:苏州英华特涡旋技术股份有限公司关于继续使用部分暂时闲置募集资金进行现金管理的公告",
-        "summary": "英华特(301272)：英华特:苏州英华特涡旋技术股份有限公司关于继续使用部分暂时闲置募集资金进行现金管理的公告",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301272/AN202607311827533692.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "英华特(301272)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "华骐环保:关于持股5%以上股东增持股份比例触及1%及5%整数倍暨股东权益变动的提示性公告",
-        "summary": "华骐环保(300929)：华骐环保:关于持股5%以上股东增持股份比例触及1%及5%整数倍暨股东权益变动的提示性公告",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300929/AN202607311827533660.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华骐环保(300929)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "岭南控股:2026年7月31日投资者关系活动记录表",
-        "summary": "岭南控股(000524)：岭南控股:2026年7月31日投资者关系活动记录表",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000524/AN202607311827533631.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "岭南控股(000524)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华立科技:关于与专业投资机构共同投资设立产业基金的公告",
-        "summary": "华立科技(301011)：华立科技:关于与专业投资机构共同投资设立产业基金的公告",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301011/AN202607311827533533.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华立科技(301011)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "华立科技:万联证券股份有限公司关于广州华立科技股份有限公司与专业投资机构共同投资设立产业基金的核查意见",
-        "summary": "华立科技(301011)：华立科技:万联证券股份有限公司关于广州华立科技股份有限公司与专业投资机构共同投资设立产业基金的核查意见",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301011/AN202607311827533532.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华立科技(301011)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "星辉娱乐:关于股份回购实施完成暨股份变动的公告",
-        "summary": "星辉娱乐(300043)：星辉娱乐:关于股份回购实施完成暨股份变动的公告",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300043/AN202607311827533197.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "星辉娱乐(300043)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "华康洁净:关于收到公司董事长、控股股东、实际控制人提议回购公司股份的提示性公告",
-        "summary": "华康洁净(301235)：华康洁净:关于收到公司董事长、控股股东、实际控制人提议回购公司股份的提示性公告",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301235/AN202607311827533206.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华康洁净(301235)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "华康洁净:关于回购公司股份方案的公告暨回购报告书",
-        "summary": "华康洁净(301235)：华康洁净:关于回购公司股份方案的公告暨回购报告书",
-        "publishedAt": "2026-07-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301235/AN202607311827533207.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华康洁净(301235)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "华康洁净：董事长提议8000万元-1.2亿元回购股份",
-        "summary": "【华康洁净：董事长提议8000万元-1.2亿元回购股份】华康洁净公告，公司董事长、控股股东、实际控制人谭平涛提议公司以自有资金及自筹资金（含股票回购专项贷款资金）以集中竞价交易方式回购公司部分股份。回购股份的资金总额不低于8000万元（含），不超过1.2亿元（含）。",
-        "publishedAt": "2026-07-31 18:35:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607313828463976.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "云中马：拟以3000万元-5000万元回购公司股份",
-        "summary": "【云中马：拟以3000万元-5000万元回购公司股份】云中马公告，拟以不低于3000万元（含）且不超过5000万元（含）回购公司股份，回购价格不超过58.8元/股（含），回购股份将用于未来实施员工持股计划或股权激励。回购期限为自公司董事会审议通过回购方案之日起12个月内。",
-        "publishedAt": "2026-07-31 18:33:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202607313828460166.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
+          "低空经济",
+          "金融",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
@@ -129156,6 +128918,214 @@
         ],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月30日iShares白银持仓-每日更新(吨)",
+        "summary": "美国7月30日iShares白银持仓-每日更新(吨)；公布 15047.26，预期 nan，前值 15047.26。",
+        "publishedAt": "2026-07-31 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国7月29日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国7月29日COMEX黄金库存-每日更新(百盎司)；公布 270376.03，预期 nan，前值 270257.31。",
+        "publishedAt": "2026-07-31 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本6月失业率(%)",
+        "summary": "日本6月失业率(%)；公布 2.5，预期 2.5，前值 2.5。",
+        "publishedAt": "2026-07-31 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本7月东京CPI年率(%)",
+        "summary": "日本7月东京CPI年率(%)；公布 2.0，预期 1.8，前值 1.7。",
+        "publishedAt": "2026-07-31 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月官方制造业PMI",
+        "summary": "中国7月官方制造业PMI；公布 49.2，预期 50.0，前值 50.3。",
+        "publishedAt": "2026-07-31 09:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗外交部：伊朗与印度外长于周五通电话。",
+        "summary": "伊朗外交部：伊朗与印度外长于周五通电话。",
+        "publishedAt": "2026-07-31 23:23:18",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "市场消息：美国或将撤出部署在西班牙半数军事人员。",
+        "summary": "市场消息：美国或将撤出部署在西班牙半数军事人员。",
+        "publishedAt": "2026-07-31 23:22:21",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "罗马尼亚总理：将在多瑙河开展水利工程实施调水，保障第二座核反应堆持续并网运行。",
+        "summary": "罗马尼亚总理：将在多瑙河开展水利工程实施调水，保障第二座核反应堆持续并网运行。",
+        "publishedAt": "2026-07-31 23:21:58",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "罗马尼亚总理：因电力发电量下降，宣布全国进入紧急状态，有效期持续至 8 月。",
+        "summary": "罗马尼亚总理：因电力发电量下降，宣布全国进入紧急状态，有效期持续至 8 月。",
+        "publishedAt": "2026-07-31 23:20:32",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "雪佛龙：已将腾吉斯油田三代项目厂区的原油铭牌产能提升至每日 32 万桶。",
+        "summary": "雪佛龙：已将腾吉斯油田三代项目厂区的原油铭牌产能提升至每日 32 万桶。",
+        "publishedAt": "2026-07-31 23:19:45",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "消息人士：美国财政部已通知各家银行，银行应做好准备，应对后续干预行动。",
+        "summary": "消息人士：美国财政部已通知各家银行，银行应做好准备，应对后续干预行动。",
+        "publishedAt": "2026-07-31 23:19:19",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "消息人士：美国财政部已通过纽约联储告知各大银行，美方今日可能入场干预日元汇率。",
+        "summary": "消息人士：美国财政部已通过纽约联储告知各大银行，美方今日可能入场干预日元汇率。",
+        "publishedAt": "2026-07-31 23:18:27",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "雪佛龙CEO：CPC里海石油管线目前正在运行，本周已有油轮开展装船作业。",
+        "summary": "雪佛龙CEO：CPC里海石油管线目前正在运行，本周已有油轮开展装船作业。",
+        "publishedAt": "2026-07-31 23:16:28",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国能源信息署（EIA）：5 月美国馏分燃料油供应量降至 2020 年 6 月以来…",
+        "summary": "美国能源信息署（EIA）：5 月美国馏分燃料油供应量降至 2020 年 6 月以来最低水平。",
+        "publishedAt": "2026-07-31 23:14:12",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -129925,15 +129895,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-07-31 18:46:36",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-07-31 23:25:37",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 1 条；主题映射集中在 能源、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：AI应用、AI智能体、人工智能；首看 AI应用 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -129964,7 +129934,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-07-31 18:45:31",
+        "generatedAt": "2026-07-31 23:24:12",
         "summary": "上午情绪分 100，涨停 99 家，跌停 0 家，炸板 107 家，连板 10 家，最高 9 板。",
         "sections": [
           {
@@ -130003,7 +129973,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-07-31 18:45:31",
+        "generatedAt": "2026-07-31 23:24:12",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -130029,7 +129999,7 @@
               "今日炸板 107 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：ST亚光:关于子公司为公司及子公司提供担保的公告；真兰仪表：拟1.98亿元收购芜湖藦卡66%股权。",
+              "新闻/公告风险：霍尔木兹海峡单日船舶通行量降至5艘。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
