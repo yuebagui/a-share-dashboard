@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-03",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-03 23:47:54",
+    "generatedAt": "2026-08-03 23:53:15",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -136290,10 +136290,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-03",
-    "generatedAt": "2026-08-03 23:48:53",
+    "generatedAt": "2026-08-03 23:54:25",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 金融、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
         "name": "金融",
@@ -136301,12 +136301,12 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 5,
+        "name": "能源",
+        "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "AI算力",
         "score": 5,
         "isFocusBoard": false
       },
@@ -136390,6 +136390,22 @@
         ],
         "importance": 1,
         "noticeType": "股东大会决议公告"
+      },
+      {
+        "title": "摩根士丹利：日元走势显示欧元可能成为主要套息交易融资货币",
+        "summary": "【摩根士丹利：日元走势显示欧元可能成为主要套息交易融资货币】摩根士丹利表示，进一步的日元干预风险可能会令投资者不再使用日元作为套息交易的融资货币，转而选择欧元和瑞士法郎。“如果干预风险在短期内继续令投资者更加谨慎，那么他们很可能会放弃使用日元融资，转而寻找新的融资货币，”策略师DavidAdams、AndrewWatrous和MollyNickolin等人…",
+        "publishedAt": "2026-08-03 23:51:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608033830140021.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "乖宝宠物:关于回购股份的进展公告",
@@ -136602,20 +136618,6 @@
         "tickers": [],
         "importance": 2,
         "noticeType": ""
-      },
-      {
-        "title": "瑞士7月CPI年率(%)",
-        "summary": "瑞士7月CPI年率(%)；公布 0.4，预期 0.4，前值 0.5。",
-        "publishedAt": "2026-08-03 14:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
       }
     ]
   },
@@ -136747,15 +136749,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-03 23:48:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 金融、AI算力、能源。",
+        "generatedAt": "2026-08-03 23:54:25",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：电网设备、电力、通信设备；首看 电网设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -136786,7 +136788,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-03 23:47:54",
+        "generatedAt": "2026-08-03 23:53:15",
         "summary": "上午情绪分 100，涨停 75 家，跌停 8 家，炸板 16 家，连板 17 家，最高 6 板。",
         "sections": [
           {
@@ -136825,7 +136827,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-03 23:47:54",
+        "generatedAt": "2026-08-03 23:53:15",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
