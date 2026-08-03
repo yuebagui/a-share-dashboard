@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-03",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-03 18:53:45",
+    "generatedAt": "2026-08-03 19:33:18",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -136125,7 +136125,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -136289,53 +136290,80 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-03",
-    "generatedAt": "2026-08-03 18:55:17",
+    "generatedAt": "2026-08-03 19:35:17",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、医药、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 6,
+        "score": 20,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 6,
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 4,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "新能源",
-        "score": 3,
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "医药",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "力佳科技:股东拟减持股份的预披露公告",
+        "summary": "力佳科技(920237)：力佳科技:股东拟减持股份的预披露公告",
+        "publishedAt": "2026-08-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920237/AN202608031827593973.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "力佳科技(920237)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "信息发展:关于公司持股5%以上股东部分股票质押及解除质押的公告",
+        "summary": "信息发展(300469)：信息发展:关于公司持股5%以上股东部分股票质押及解除质押的公告",
+        "publishedAt": "2026-08-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300469/AN202608031827593213.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "信息发展(300469)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
       {
         "title": "民德电子:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
         "summary": "民德电子(300656)：民德电子:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
@@ -136385,93 +136413,11 @@
         "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "ST易联众:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "summary": "ST易联众(300096)：ST易联众:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "publishedAt": "2026-08-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300096/AN202608031827592210.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST易联众(300096)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "*ST动力:关于出售参股公司股权的公告",
-        "summary": "*ST动力(300152)：*ST动力:关于出售参股公司股权的公告",
-        "publishedAt": "2026-08-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300152/AN202608031827592209.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST动力(300152)"
-        ],
-        "importance": 1,
-        "noticeType": "收购出售资产/股权"
-      },
-      {
-        "title": "*ST动力:第六届董事会第九次会议决议公告",
-        "summary": "*ST动力(300152)：*ST动力:第六届董事会第九次会议决议公告",
-        "publishedAt": "2026-08-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300152/AN202608031827592169.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST动力(300152)"
-        ],
-        "importance": 1,
-        "noticeType": "董事会决议公告"
-      },
-      {
-        "title": "ST恒信:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "summary": "ST恒信(300081)：ST恒信:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "publishedAt": "2026-08-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300081/AN202608031827591910.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST恒信(300081)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "百甲科技:关于公司银行账户部分资金被冻结的公告",
-        "summary": "百甲科技(920057)：百甲科技:关于公司银行账户部分资金被冻结的公告",
-        "publishedAt": "2026-08-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920057/AN202608031827591721.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "百甲科技(920057)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "广期所发布市场风险提示公告",
-        "summary": "【广期所发布市场风险提示公告】广期所公告，近期，影响市场运行的不确定性因素较多，相关品种价格波动较大。请各市场主体加强风险防范，理性合规参与市场，维护市场平稳运行。",
-        "publishedAt": "2026-08-03 18:46:52",
+        "title": "阳光股份：拟投资不超过9.8亿元建设阳光智算中心项目",
+        "summary": "【阳光股份：拟投资不超过9.8亿元建设阳光智算中心项目】阳光股份(000608.SZ)公告称，公司控股子公司深圳阳光数字技术有限公司计划投资不超过9.8亿元，在广东省梅州市兴宁市建设阳光智算中心项目。项目预计2027年10月正式投运，资金来源为自有资金或外部融资。公司提示，该项目存在审批、资金筹措、跨界经营及业绩持续亏损等多项风险。",
+        "publishedAt": "2026-08-03 19:07:27",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608033829920165.html",
+        "url": "https://finance.eastmoney.com/a/202608033829929871.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -136515,6 +136461,76 @@
         "noticeType": "调研活动"
       },
       {
+        "title": "金戈新材:关于公司拟对外投资暨签订《投资协议》的公告",
+        "summary": "金戈新材(920083)：金戈新材:关于公司拟对外投资暨签订《投资协议》的公告",
+        "publishedAt": "2026-08-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920083/AN202608031827593578.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金戈新材(920083)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
+      {
+        "title": "山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)募集说明书",
+        "summary": "山西证券(002500)：山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)募集说明书",
+        "publishedAt": "2026-08-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002500/AN202608031827593351.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "山西证券(002500)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行公告",
+        "summary": "山西证券(002500)：山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行公告",
+        "publishedAt": "2026-08-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002500/AN202608031827593346.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "山西证券(002500)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "山西证券:山西证券股份有限公司2025年面向专业投资者公开发行公司债券更名公告",
+        "summary": "山西证券(002500)：山西证券:山西证券股份有限公司2025年面向专业投资者公开发行公司债券更名公告",
+        "publishedAt": "2026-08-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002500/AN202608031827593338.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "山西证券(002500)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
         "title": "联合光电:关于回购公司股份的进展公告",
         "summary": "联合光电(300691)：联合光电:关于回购公司股份的进展公告",
         "publishedAt": "2026-08-03",
@@ -136533,27 +136549,39 @@
         "noticeType": "回购进展情况"
       },
       {
-        "title": "昇辉科技:关于召开终止重大资产重组投资者说明会的公告",
-        "summary": "昇辉科技(300423)：昇辉科技:关于召开终止重大资产重组投资者说明会的公告",
-        "publishedAt": "2026-08-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300423/AN202608031827592324.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "中基健康：全资子公司拟约820万元投建直灌酱后包装项目",
+        "summary": "【中基健康：全资子公司拟约820万元投建直灌酱后包装项目】中基健康公告，公司全资子公司中基红色番茄产业有限公司拟投资建设直灌酱后包装生产线配套设备采购项目（简称“直灌酱后包装项目”），项目总投资约820万元，该项目建成后，年产小罐番茄酱5000吨，年总产量1250万罐。",
+        "publishedAt": "2026-08-03 19:16:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608033829931564.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [
-          "昇辉科技(300423)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": ""
       },
       {
-        "title": "山东高速：拟1亿元—2亿元回购股份 用于注销减少注册资本",
-        "summary": "【山东高速：拟1亿元—2亿元回购股份 用于注销减少注册资本】山东高速公告，拟1亿元—2亿元回购公司股份，用于注销并减少注册资本，回购价格不超过17.28元/股。近日，公司取得中信银行济南分行出具的《上市公司股票回购贷款承诺函》，贷款金额为不超过1.8亿元。",
-        "publishedAt": "2026-08-03 18:45:40",
+        "title": "景顺莱维特：中国资产迎持续性重估 未来十年表现有望领跑全球",
+        "summary": "【景顺莱维特：中国资产迎持续性重估 未来十年表现有望领跑全球】在近期全球投资者重新关注中国资产的背景下，景顺（Invesco）首席全球市场策略师布莱恩·莱维特7月30日在北京接受21世纪经济报道专访时明确表示，这并非短暂的战术性反弹，而是一次具有持续性的估值重估。",
+        "publishedAt": "2026-08-03 19:14:43",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608033829918156.html",
+        "url": "https://finance.eastmoney.com/a/202608033829931046.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "永臻股份：收到金额7200万元股票回购贷款承诺函",
+        "summary": "【永臻股份：收到金额7200万元股票回购贷款承诺函】永臻股份公告，近日，公司取得中国银行常州分行出具的《贷款承诺函》，同意为公司提供回购专项贷款，用于股票回购，承诺金额为7200万元。",
+        "publishedAt": "2026-08-03 19:04:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608033829928679.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -136565,30 +136593,17 @@
         "noticeType": ""
       },
       {
-        "title": "2026年暑期档电影总票房破75亿",
-        "summary": "【2026年暑期档电影总票房破75亿】据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）突破75亿元，连续24天单日票房过亿。",
-        "publishedAt": "2026-08-03 18:29:56",
+        "title": "石大胜华：拟合计投资28.05亿元建设23万吨/年液态锂盐等三个项目",
+        "summary": "【石大胜华：拟合计投资28.05亿元建设23万吨/年液态锂盐等三个项目】石大胜华(603026.SH)公告称，公司全资子公司东营石大胜华新能源有限公司拟投资建设23万吨/年液态锂盐项目，项目报批投资17.97亿元。项目建设周期为24个月，预计年产值60.86亿元，净利润15.23亿元。公司全资子公司胜华新能源科技(东营)有限公司拟投资建设1.2万吨/年添加…",
+        "publishedAt": "2026-08-03 19:00:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608033829912765.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "晨丰科技：签署7.12亿元储能电站项目总承包合同",
-        "summary": "【晨丰科技：签署7.12亿元储能电站项目总承包合同】晨丰科技(603685.SH)公告称，公司全资孙公司北网新能(二连浩特)持股35%的国天北网拟投资建设国天能源二连浩特市200MW/800MWh电网侧独立新型储能电站项目。近日，公司控股孙公司辽宁北网作为承包人(联合体牵头人)与国天北网签署总承包合同，合同总价为7.12亿元(含税)。",
-        "publishedAt": "2026-08-03 18:27:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608033829912482.html",
+        "url": "https://finance.eastmoney.com/a/202608033829926441.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "新能源",
+          "有色稀土",
           "能源"
         ],
         "tickers": [],
@@ -136599,20 +136614,6 @@
         "title": "马来西亚7月制造业PMI",
         "summary": "马来西亚7月制造业PMI；公布 50.7，预期 nan，前值 50.7。",
         "publishedAt": "2026-08-03 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "德国6月实际零售销售年率(%)",
-        "summary": "德国6月实际零售销售年率(%)；公布 -0.2，预期 nan，前值 1.8。",
-        "publishedAt": "2026-08-03 14:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -136753,15 +136754,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-03 18:55:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、医药、能源。",
+        "generatedAt": "2026-08-03 19:35:17",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：电网设备、电力、通信设备；首看 电网设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、医药、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -136792,7 +136793,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-03 18:53:45",
+        "generatedAt": "2026-08-03 19:33:18",
         "summary": "上午情绪分 100，涨停 75 家，跌停 8 家，炸板 16 家，连板 17 家，最高 6 板。",
         "sections": [
           {
@@ -136831,7 +136832,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-03 18:53:45",
+        "generatedAt": "2026-08-03 19:33:18",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -136857,7 +136858,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：民德电子:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告；民德电子:关于深圳市民德电子科技股份有限公司申请向特定对象发行股票的审核问询函之回复报告。",
+              "新闻/公告风险：力佳科技:股东拟减持股份的预披露公告；信息发展:关于公司持股5%以上股东部分股票质押及解除质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
