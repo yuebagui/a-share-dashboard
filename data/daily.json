@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-04",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-04 18:19:28",
+    "generatedAt": "2026-08-04 18:45:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -144452,34 +144452,44 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-04",
-    "generatedAt": "2026-08-04 18:20:39",
+    "generatedAt": "2026-08-04 18:46:29",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 15,
+        "name": "金融",
+        "score": 22,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 14,
+        "name": "有色稀土",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 7,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 3,
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -144490,89 +144500,91 @@
     ],
     "items": [
       {
-        "title": "南极光:关于控股股东、实际控制人之一部分股份质押及补充质押的公告",
-        "summary": "南极光(300940)：南极光:关于控股股东、实际控制人之一部分股份质押及补充质押的公告",
+        "title": "深交所:多氟多_监管函",
+        "summary": "多氟多(002407)：深交所:多氟多_监管函",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300940/AN202608041827625905.html",
+        "url": "https://data.eastmoney.com/notices/detail/002407/AN202608041827626673.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "南极光(300940)"
+          "多氟多(002407)"
+        ],
+        "importance": 1,
+        "noticeType": "深交所股票监管函"
+      },
+      {
+        "title": "斯迪克:关于控股股东部分股份质押的公告",
+        "summary": "斯迪克(300806)：斯迪克:关于控股股东部分股份质押的公告",
+        "publishedAt": "2026-08-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300806/AN202608041827627008.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "斯迪克(300806)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "易点天下:股票交易异常波动公告",
-        "summary": "易点天下(301171)：易点天下:股票交易异常波动公告",
+        "title": "*ST新元:关于公司预重整事项的进展公告",
+        "summary": "*ST新元(300472)：*ST新元:关于公司预重整事项的进展公告",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301171/AN202608041827625535.html",
+        "url": "https://data.eastmoney.com/notices/detail/300472/AN202608041827626770.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "易点天下(301171)"
+          "*ST新元(300472)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "重组进展公告"
       },
       {
-        "title": "仁信新材:惠州仁信新材料股份有限公司股票交易异常波动公告",
-        "summary": "仁信新材(301395)：仁信新材:惠州仁信新材料股份有限公司股票交易异常波动公告",
+        "title": "*ST新元:关于公司股票交易被实施其他风险警示相关事项的进展公告",
+        "summary": "*ST新元(300472)：*ST新元:关于公司股票交易被实施其他风险警示相关事项的进展公告",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301395/AN202608041827625536.html",
+        "url": "https://data.eastmoney.com/notices/detail/300472/AN202608041827626767.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "仁信新材(301395)"
+          "*ST新元(300472)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "其它风险提示公告"
       },
       {
-        "title": "君逸数码:关于持股5%以上股东的一致行动人股份减持计划实施完成的公告",
-        "summary": "君逸数码(301172)：君逸数码:关于持股5%以上股东的一致行动人股份减持计划实施完成的公告",
+        "title": "长鹰硬科:关于签署募集资金三方及四方监管协议的公告",
+        "summary": "长鹰硬科(920238)：长鹰硬科:关于签署募集资金三方及四方监管协议的公告",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301172/AN202608041827625533.html",
+        "url": "https://data.eastmoney.com/notices/detail/920238/AN202608041827626721.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "君逸数码(301172)"
+          "长鹰硬科(920238)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "签订协议"
       },
       {
-        "title": "摩根资产管理：回避日本国债 日本央行在加息方面“行动过慢”",
-        "summary": "【摩根资产管理：回避日本国债 日本央行在加息方面“行动过慢”】摩根资产管理表示，相对于全球债券基准指数，减持或回避日本国债可以增加超额收益。摩根资产管理全球综合债券业务负责人Myles Bradshaw表示，日本央行在政策正常化和加息方面依然“行动过慢”，这意味着仅靠日元干预不太可能改变该货币的基本面，也不太可能实质性地减缓其贬值步伐。",
-        "publishedAt": "2026-08-04 18:07:06",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608043831301431.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "第一创业:第一创业证券股份有限公司2024年面向专业投资者公开发行公司债券(第二期)(品种一)2026年付息公告",
-        "summary": "第一创业(002797)：第一创业:第一创业证券股份有限公司2024年面向专业投资者公开发行公司债券(第二期)(品种一)2026年付息公告",
+        "title": "农大科技:山东农大肥业科技股份有限公司回购进展情况公告",
+        "summary": "农大科技(920159)：农大科技:山东农大肥业科技股份有限公司回购进展情况公告",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002797/AN202608041827625904.html",
+        "url": "https://data.eastmoney.com/notices/detail/920159/AN202608041827627025.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -144580,156 +144592,156 @@
           "金融"
         ],
         "tickers": [
-          "第一创业(002797)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "矩子科技:关于取得金融机构股票回购贷款承诺函的公告",
-        "summary": "矩子科技(300802)：矩子科技:关于取得金融机构股票回购贷款承诺函的公告",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300802/AN202608041827625901.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "矩子科技(300802)"
-        ],
-        "importance": 1,
-        "noticeType": "借贷"
-      },
-      {
-        "title": "飞沃科技:关于2025年股权激励计划首次授予部分第一个归属期归属结果暨股份上市的公告(定向增发)",
-        "summary": "飞沃科技(301232)：飞沃科技:关于2025年股权激励计划首次授予部分第一个归属期归属结果暨股份上市的公告(定向增发)",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301232/AN202608041827625903.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "飞沃科技(301232)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "飞龙股份:002536飞龙股份投资者关系管理信息20260804",
-        "summary": "飞龙股份(002536)：飞龙股份:002536飞龙股份投资者关系管理信息20260804",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002536/AN202608041827625474.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "飞龙股份(002536)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "日月明:关于股份回购进展的公告",
-        "summary": "日月明(300906)：日月明:关于股份回购进展的公告",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300906/AN202608041827625537.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "日月明(300906)"
+          "农大科技(920159)"
         ],
         "importance": 1,
         "noticeType": "回购进展情况"
       },
       {
-        "title": "唯特偶:2026年股票期权与限制性股票激励计划(草案)",
-        "summary": "唯特偶(301319)：唯特偶:2026年股票期权与限制性股票激励计划(草案)",
+        "title": "奥美森:回购进展情况公告",
+        "summary": "奥美森(920080)：奥美森:回购进展情况公告",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301319/AN202608041827625532.html",
+        "url": "https://data.eastmoney.com/notices/detail/920080/AN202608041827626782.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "奥美森(920080)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "天宇股份:关于回购公司股份进展的公告",
+        "summary": "天宇股份(300702)：天宇股份:关于回购公司股份进展的公告",
+        "publishedAt": "2026-08-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300702/AN202608041827626769.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "天宇股份(300702)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "杰创智能:关于股份回购进展的公告",
+        "summary": "杰创智能(301248)：杰创智能:关于股份回购进展的公告",
+        "publishedAt": "2026-08-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301248/AN202608041827626572.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "杰创智能(301248)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "迪普科技:关于使用暂时闲置募集资金进行现金管理的公告",
+        "summary": "迪普科技(300768)：迪普科技:关于使用暂时闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-08-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300768/AN202608041827626573.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "唯特偶(301319)"
+          "迪普科技(300768)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "投资理财"
       },
       {
-        "title": "唯特偶:2026年股票期权与限制性股票激励计划(草案)摘要",
-        "summary": "唯特偶(301319)：唯特偶:2026年股票期权与限制性股票激励计划(草案)摘要",
+        "title": "迪普科技:关于使用部分闲置自有资金进行资金管理的公告",
+        "summary": "迪普科技(300768)：迪普科技:关于使用部分闲置自有资金进行资金管理的公告",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301319/AN202608041827625530.html",
+        "url": "https://data.eastmoney.com/notices/detail/300768/AN202608041827626571.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "唯特偶(301319)"
+          "迪普科技(300768)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划摘要"
+        "noticeType": "投资理财"
       },
       {
-        "title": "唯特偶:2026年股票期权激励计划自查表",
-        "summary": "唯特偶(301319)：唯特偶:2026年股票期权激励计划自查表",
+        "title": "乔路铭:使用闲置募集资金现金管理的公告",
+        "summary": "乔路铭(920079)：乔路铭:使用闲置募集资金现金管理的公告",
         "publishedAt": "2026-08-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301319/AN202608041827625541.html",
+        "url": "https://data.eastmoney.com/notices/detail/920079/AN202608041827626426.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "唯特偶(301319)"
+          "乔路铭(920079)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "投资理财"
       },
       {
-        "title": "诺德股份：预计三季度陆续落地第二轮锂电铜箔调价工作",
-        "summary": "【诺德股份：预计三季度陆续落地第二轮锂电铜箔调价工作】诺德股份近日在接待机构调研中表示，今年以来，电子铜箔的订单量快速增加，价格也较年初大幅增长，导致公司产能较紧张，结合下游客户协商节奏，三季度预计陆续落地第二轮锂电铜箔调价工作。",
-        "publishedAt": "2026-08-04 18:06:56",
+        "title": "豪威集团：拟变更回购股份用途并注销875万股",
+        "summary": "【豪威集团：拟变更回购股份用途并注销875万股】豪威集团(603501.SH)公告称，公司拟将回购专用证券账户中尚未使用的875.02万股A股股份用途变更为“用于注销并减少注册资本”。",
+        "publishedAt": "2026-08-04 18:41:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608043831307428.html",
+        "url": "https://finance.eastmoney.com/a/202608043831322256.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "新能源",
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "恒瑞医药：截至2026年7月31日 累计回购股份金额达8.53亿元",
-        "summary": "【恒瑞医药：截至2026年7月31日 累计回购股份金额达8.53亿元】恒瑞医药(600276.SH)公告称，截至2026年7月31日，公司通过集中竞价交易方式累计回购股份1375.02万股，占总股本0.21%，累计支付金额8.53亿元(不含交易费用)，回购价格区间为45.30元/股至70.00元/股。",
-        "publishedAt": "2026-08-04 18:04:40",
+        "title": "力源信息：取得金融机构不超2700万元回购股份专项融资支持",
+        "summary": "【力源信息：取得金融机构不超2700万元回购股份专项融资支持】力源信息(300184.SZ)公告称，近日，公司取得中信银行股份有限公司武汉分行出具的《贷款承诺函》，贷款金额最高不超过2700万元且不超过回购实际使用金额的90%，贷款期限不超过2年，贷款用途仅限于公司回购股票。",
+        "publishedAt": "2026-08-04 18:39:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608043831307698.html",
+        "url": "https://finance.eastmoney.com/a/202608043831322323.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "医药",
           "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "魏建军否认长城H10预售订单超6万台：还没那么多",
+        "summary": "【魏建军否认长城H10预售订单超6万台：还没那么多】8月4日，网传长城H10预售订单超6万台，长城汽车董事长魏建军发布辟谣视频称，“这个数据不太准确，还没那么多”。他强调，长城H10预售订单量也是非常不错的。",
+        "publishedAt": "2026-08-04 18:33:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608043831318450.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "汽车链"
         ],
         "tickers": [],
         "importance": 1,
@@ -144906,15 +144918,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-04 18:20:39",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-08-04 18:46:29",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、5G；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -144945,7 +144957,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-04 18:19:28",
+        "generatedAt": "2026-08-04 18:45:28",
         "summary": "上午情绪分 100，涨停 138 家，跌停 0 家，炸板 15 家，连板 19 家，最高 7 板。",
         "sections": [
           {
@@ -144984,7 +144996,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-04 18:19:28",
+        "generatedAt": "2026-08-04 18:45:28",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -145010,7 +145022,7 @@
               "今日炸板 15 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：南极光:关于控股股东、实际控制人之一部分股份质押及补充质押的公告；易点天下:股票交易异常波动公告。",
+              "新闻/公告风险：深交所:多氟多_监管函；斯迪克:关于控股股东部分股份质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
