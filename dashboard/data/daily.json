@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-04",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-04 23:36:34",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-04 23:36:34",
+    "lastNewsAt": "2026-08-05 11:44:33"
   },
   "indices": [
     {
@@ -144451,35 +144453,40 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-04",
-    "generatedAt": "2026-08-04 23:37:58",
+    "tradeDate": "2026-08-05",
+    "generatedAt": "2026-08-05 11:44:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 12 条；主题映射集中在 半导体、有色稀土、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 18,
-        "isFocusBoard": false
+        "name": "半导体",
+        "score": 26,
+        "isFocusBoard": true
       },
       {
         "name": "有色稀土",
-        "score": 17,
+        "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 5,
+        "name": "金融",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
+        "name": "医药",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -144490,27 +144497,11 @@
     ],
     "items": [
       {
-        "title": "深交所:多氟多_监管函",
-        "summary": "多氟多(002407)：深交所:多氟多_监管函",
-        "publishedAt": "2026-08-04",
+        "title": "联创光电:关于公司累计诉讼、仲裁情况的公告",
+        "summary": "联创光电(600363)：联创光电:关于公司累计诉讼、仲裁情况的公告",
+        "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002407/AN202608041827626673.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "多氟多(002407)"
-        ],
-        "importance": 1,
-        "noticeType": "深交所股票监管函"
-      },
-      {
-        "title": "关于江西联创光电科技股份有限公司及实际控制人涉嫌非经营性资金往来等事项的监管工作函",
-        "summary": "联创光电(600363)：关于江西联创光电科技股份有限公司及实际控制人涉嫌非经营性资金往来等事项的监管工作函",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600363/AN202608041827632725.html",
+        "url": "https://data.eastmoney.com/notices/detail/600363/AN202608041827628896.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -144519,216 +144510,249 @@
           "联创光电(600363)"
         ],
         "importance": 1,
-        "noticeType": "上交所股票监管工作函"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "深交所并购重组审核委员会2026年第11次审议会议结果公告",
-        "summary": "创业黑马(300688)：深交所并购重组审核委员会2026年第11次审议会议结果公告",
-        "publishedAt": "2026-08-04",
+        "title": "联创光电:关于控股子公司部分银行账户资金被冻结的公告",
+        "summary": "联创光电(600363)：联创光电:关于控股子公司部分银行账户资金被冻结的公告",
+        "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300688/AN202608041827632349.html",
+        "url": "https://data.eastmoney.com/notices/detail/600363/AN202608041827628897.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "创业黑马(300688)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板并购重组委会议结果公告"
-      },
-      {
-        "title": "传智教育:003032传智教育投资者关系管理信息20260804",
-        "summary": "传智教育(003032)：传智教育:003032传智教育投资者关系管理信息20260804",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003032/AN202608041827632320.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "传智教育(003032)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "亚康股份:2026年8月4日投资者关系活动记录表",
-        "summary": "亚康股份(301085)：亚康股份:2026年8月4日投资者关系活动记录表",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301085/AN202608041827631981.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "亚康股份(301085)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)票面利率公告",
-        "summary": "山西证券(002500)：山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)票面利率公告",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002500/AN202608041827630969.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "山西证券(002500)"
+          "联创光电(600363)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "汉威科技:300007汉威科技投资者关系管理信息20260804",
-        "summary": "汉威科技(300007)：汉威科技:300007汉威科技投资者关系管理信息20260804",
-        "publishedAt": "2026-08-04",
+        "title": "联创光电:关于控股股东部分股份被司法冻结及将被司法拍卖的提示性公告",
+        "summary": "联创光电(600363)：联创光电:关于控股股东部分股份被司法冻结及将被司法拍卖的提示性公告",
+        "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300007/AN202608041827630510.html",
+        "url": "https://data.eastmoney.com/notices/detail/600363/AN202608041827628898.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "联创光电(600363)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "ST东时:关于累计诉讼、仲裁情况的公告",
+        "summary": "ST东时(603377)：ST东时:关于累计诉讼、仲裁情况的公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603377/AN202608041827628789.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST东时(603377)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "华体科技:四川华体照明科技股份有限公司股票交易异常波动公告",
+        "summary": "华体科技(603679)：华体科技:四川华体照明科技股份有限公司股票交易异常波动公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603679/AN202608041827628775.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "华体科技(603679)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "和林微纳:股票交易异常波动公告",
+        "summary": "和林微纳(688661)：和林微纳:股票交易异常波动公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688661/AN202608041827628648.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "和林微纳(688661)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "华胜天成:股票交易异常波动公告",
+        "summary": "华胜天成(600410)：华胜天成:股票交易异常波动公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600410/AN202608041827628639.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "华胜天成(600410)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "德龙汇能:股票交易异常波动公告",
+        "summary": "德龙汇能(000593)：德龙汇能:股票交易异常波动公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000593/AN202608041827628596.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "德龙汇能(000593)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "豪尔赛:股票交易异常波动公告",
+        "summary": "豪尔赛(002963)：豪尔赛:股票交易异常波动公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002963/AN202608041827628567.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "豪尔赛(002963)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "高争民爆:股票交易异常波动公告",
+        "summary": "高争民爆(002827)：高争民爆:股票交易异常波动公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002827/AN202608041827628569.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "高争民爆(002827)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "午评：科创50指数半日涨超5% 半导体产业链集体走强",
+        "summary": "【午评：科创50指数半日涨超5% 半导体产业链集体走强】市场早盘震荡反弹，三大指数低开高走，科创50指数半日涨超5%。沪深两市半日成交额1.69万亿，较上个交易日放量3290亿。盘面上热点快速轮动，全市场超3900只个股上涨。从板块来看，智能驾驶概念爆发，索菱股份、浙江世宝、兴民智通、山子高科涨停。AI应用端反复走强，新开普、粤传媒、博彦科技涨停。算力租赁…",
+        "publishedAt": "2026-08-05 11:31:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608053832379346.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力",
+          "汽车链",
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "科创50指数上涨5.18% 全市场超3900股飘红 半导体产业链爆发",
+        "summary": "【午盘播报】沪指上涨1.34%，报3873.56点；深成指上涨1.56%，报14101.90点；创业板指上涨0.89%，报3519.86点；科创50指数上涨5.18%，报1700.05点，两市半日合计成交16897亿。盘面上，高带宽内存、电子化学品、MLCC、贵金属、存储芯片、小金属、氦气概念涨幅居前，油服工程、银行、白酒、医药商业、中药、渔业表现不佳，领…",
+        "publishedAt": "2026-08-05 11:30:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608053832378528.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "医药",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "麦格米特:关于继续使用部分闲置募集资金进行现金管理的公告",
+        "summary": "麦格米特(002851)：麦格米特:关于继续使用部分闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002851/AN202608041827628801.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "汉威科技(300007)"
+          "麦格米特(002851)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "投资理财"
       },
       {
-        "title": "上海证券交易所并购重组审核委员会2026年第14次审议会议结果公告",
-        "summary": "科达制造(600499)：上海证券交易所并购重组审核委员会2026年第14次审议会议结果公告",
-        "publishedAt": "2026-08-04",
+        "title": "三友医疗:关于以集中竞价交易方式首次回购公司股份暨回购进展公告",
+        "summary": "三友医疗(688085)：三友医疗:关于以集中竞价交易方式首次回购公司股份暨回购进展公告",
+        "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600499/AN202608041827630459.html",
+        "url": "https://data.eastmoney.com/notices/detail/688085/AN202608041827628708.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
+          "医药",
           "金融"
         ],
         "tickers": [
-          "科达制造(600499)"
-        ],
-        "importance": 1,
-        "noticeType": "上交所并购重组委会议结果公告"
-      },
-      {
-        "title": "新特电气:关于回购公司股份方案的公告",
-        "summary": "新特电气(301120)：新特电气:关于回购公司股份方案的公告",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301120/AN202608041827630018.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "新特电气(301120)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "新特电气:国联民生证券承销保荐有限公司关于新华都特种电气股份有限公司使用部分超募资金回购公司股份的核查意见",
-        "summary": "新特电气(301120)：新特电气:国联民生证券承销保荐有限公司关于新华都特种电气股份有限公司使用部分超募资金回购公司股份的核查意见",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301120/AN202608041827630016.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "新特电气(301120)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "明阳电路:北京市中伦(深圳)律师事务所关于深圳明阳电路科技股份有限公司2025年限制性股票激励计划回购注销部分限制性股票的法律意见书",
-        "summary": "明阳电路(300739)：明阳电路:北京市中伦(深圳)律师事务所关于深圳明阳电路科技股份有限公司2025年限制性股票激励计划回购注销部分限制性股票的法律意见书",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300739/AN202608041827630005.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "明阳电路(300739)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "明阳电路:关于回购注销部分限制性股票的公告",
-        "summary": "明阳电路(300739)：明阳电路:关于回购注销部分限制性股票的公告",
-        "publishedAt": "2026-08-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300739/AN202608041827630001.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "明阳电路(300739)"
+          "三友医疗(688085)"
         ],
         "importance": 1,
         "noticeType": "回购进展情况"
       },
       {
-        "title": "中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目",
-        "summary": "【中孚实业：全资二级子公司拟收购再生铝项目资产并投资新建项目】中孚实业(600595.SH)公告称，公司全资二级子公司巩义汇丰拟以3320.57万元收购巩义新格年产20万吨再生铝水项目产能指标及部分资产，并在此基础上投资建设“项目资产升级改造项目”和“新建年产10万吨再生铝水项目”。",
-        "publishedAt": "2026-08-04 23:13:57",
+        "title": "国产算力生态有望加速形成！芯片ETF东财大涨超6.6%",
+        "summary": "【国产算力生态有望加速形成！芯片ETF东财大涨超6.6%】截至8月5日11:25，芯片ETF东财（159599）盘中上涨6.64%，最新报价突破2.8元，成交额达2.41亿元，交投显著活跃。跟踪指数成分股中，中微公司、拓荆科技、长川科技等多只龙头个股拉升跟涨超10%。",
+        "publishedAt": "2026-08-05 11:29:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608043831541998.html",
+        "url": "https://finance.eastmoney.com/a/202608053832376787.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "有色稀土"
+          "半导体",
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "8台核电新机组获核准 上海核电企业已承揽近500亿元订单",
-        "summary": "【8台核电新机组获核准 上海核电企业已承揽近500亿元订单】7月31日，国务院常务会议决定核准浙江金七门核电二期、广东太平岭核电三期、辽宁庄河核电一期、山东莱阳核电一期4个核电项目，共8台核电机组。这是“十五五”时期首批获准的核电项目，据澎湃新闻估算，上述新项目的总投资将超过1700亿元。",
-        "publishedAt": "2026-08-04 22:56:27",
+        "title": "今年新疆霍尔果斯公路口岸出入境人员突破100万人次",
+        "summary": "【今年新疆霍尔果斯公路口岸出入境人员突破100万人次】霍尔果斯出入境边防检查站发布数据，今年以来，霍尔果斯公路口岸出入境人员跨境出行、商贸往来热度持续攀升，截至8月4日，今年经霍尔果斯公路口岸出入境旅客已突破100万人次，同比增长10%，较去年提前15天，创历史同期最新纪录。",
+        "publishedAt": "2026-08-05 11:27:17",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608043831521442.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "远东航运集团FESCO表示 暂停接受经黑海运输的新订单申请",
-        "summary": "远东航运集团FESCO表示，暂停接受经黑海运输的新订单申请。",
-        "publishedAt": "2026-08-04 22:33:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608043831519059.html",
+        "url": "https://finance.eastmoney.com/a/202608053832373943.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -144738,51 +144762,31 @@
         "noticeType": ""
       },
       {
-        "title": "美国8月3日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月3日iShares黄金持仓-每日更新(吨)；公布 461.33，预期 nan，前值 461.59。",
-        "publishedAt": "2026-08-04 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
+        "title": "皖通科技新增发明专利 突破高速监控视频智能诊断关键技术",
+        "summary": "【皖通科技新增发明专利 突破高速监控视频智能诊断关键技术】据皖通科技消息，近日，皖通科技再获发明专利证书，专利名称为“高速公路监控视频质量增强诊断方法、系统、设备、介质”，标志着公司在智慧高速视频感知运维领域核心技术实现突破。",
+        "publishedAt": "2026-08-05 11:22:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608053832367774.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月3日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国8月3日SPDR黄金持仓-每日更新(吨)；公布 1005.87，预期 nan，前值 1007.01。",
-        "publishedAt": "2026-08-04 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
+        "title": "财政部在香港成功发行2026年第四期150亿元人民币国债",
+        "summary": "【财政部在香港成功发行2026年第四期150亿元人民币国债】中华人民共和国财政部今天在香港特别行政区，面向机构投资者招标发行2026年第四期150亿元人民币国债，受到投资者广泛欢迎，认购倍数4.67倍。其中，2年期50亿元，发行利率1.27%；3年期40亿元，发行利率1.30%；5年期40亿元，发行利率1.43%；15年期10亿元，发行利率1.99%；30…",
+        "publishedAt": "2026-08-05 11:21:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608053832370246.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月31日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国7月31日COMEX黄金库存-每日更新(百盎司)；公布 270281.45，预期 nan，前值 270174.04。",
-        "publishedAt": "2026-08-04 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -144895,7 +144899,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -144908,15 +144912,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-04 23:37:58",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-08-05 11:44:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 12 条；主题映射集中在 半导体、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、5G；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -145012,7 +145016,7 @@
               "今日炸板 15 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：深交所:多氟多_监管函；关于江西联创光电科技股份有限公司及实际控制人涉嫌非经营性资金往来等事项的监管工作函。",
+              "新闻/公告风险：联创光电:关于公司累计诉讼、仲裁情况的公告；联创光电:关于控股子公司部分银行账户资金被冻结的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
