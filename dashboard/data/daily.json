@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-05",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-05 18:42:42",
+    "generatedAt": "2026-08-05 23:20:02",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -152545,203 +152545,176 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-05",
-    "generatedAt": "2026-08-05 18:43:43",
+    "generatedAt": "2026-08-05 23:21:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 金融、半导体、有色稀土。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 6 条；主题映射集中在 金融、能源、半导体。",
     "themes": [
       {
         "name": "金融",
-        "score": 21,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 11,
-        "isFocusBoard": true
-      },
-      {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 3,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 5,
+        "isFocusBoard": true
+      },
+      {
+        "name": "有色稀土",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "振芯科技:诉讼事项进展公告",
-        "summary": "振芯科技(300101)：振芯科技:诉讼事项进展公告",
+        "title": "亚信安全:关于子公司银行账户资金冻结进展暨仲裁事项的公告",
+        "summary": "亚信安全(688225)：亚信安全:关于子公司银行账户资金冻结进展暨仲裁事项的公告",
         "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300101/AN202608051827672074.html",
+        "url": "https://data.eastmoney.com/notices/detail/688225/AN202608041827623519.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "振芯科技(300101)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "电工合金:关于开立募集资金专户并签订募集资金三方监管协议的公告",
-        "summary": "电工合金(300697)：电工合金:关于开立募集资金专户并签订募集资金三方监管协议的公告",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300697/AN202608051827671996.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "电工合金(300697)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "久盛电气:久盛电气股份有限公司关于公司股票交易异常波动的公告",
-        "summary": "久盛电气(301082)：久盛电气:久盛电气股份有限公司关于公司股票交易异常波动的公告",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301082/AN202608051827671995.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "久盛电气(301082)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "爱伦医疗:投资者关系活动记录表",
-        "summary": "爱伦医疗(920050)：爱伦医疗:投资者关系活动记录表",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920050/AN202608051827672909.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "爱伦医疗(920050)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "国亮新材:回购进展情况公告",
-        "summary": "国亮新材(920076)：国亮新材:回购进展情况公告",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920076/AN202608051827672830.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "国亮新材(920076)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "新特电气:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "summary": "新特电气(301120)：新特电气:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301120/AN202608051827672657.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "新特电气(301120)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "新特电气:回购股份报告书",
-        "summary": "新特电气(301120)：新特电气:回购股份报告书",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301120/AN202608051827672658.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "新特电气(301120)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "金融街:关于“23金街11”票面利率调整及投资者回售实施办法第二次提示性公告",
-        "summary": "金融街(000402)：金融街:关于“23金街11”票面利率调整及投资者回售实施办法第二次提示性公告",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000402/AN202608051827672531.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "金融街(000402)"
+          "亚信安全(688225)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "金信诺:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
-        "summary": "金信诺(300252)：金信诺:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
+        "title": "国统股份:新疆国统管道股份有限公司关于部分银行账户冻结及解除冻结情况的公告",
+        "summary": "国统股份(002205)：国统股份:新疆国统管道股份有限公司关于部分银行账户冻结及解除冻结情况的公告",
         "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300252/AN202608051827672355.html",
+        "url": "https://data.eastmoney.com/notices/detail/002205/AN202608051827681106.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国统股份(002205)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "8-1发行人及中介机构关于第二轮审核问询函的回复(广东钶锐锶数控技术股份有限公司)",
+        "summary": "钶锐锶(A25178)：8-1发行人及中介机构关于第二轮审核问询函的回复(广东钶锐锶数控技术股份有限公司)",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/A25178/AN202608051827680727.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "钶锐锶(A25178)"
+        ],
+        "importance": 1,
+        "noticeType": "科创板发行上市问询与回复"
+      },
+      {
+        "title": "*ST仕净:关于公司股票交易被实施风险警示相关事项的进展公告",
+        "summary": "*ST仕净(301030)：*ST仕净:关于公司股票交易被实施风险警示相关事项的进展公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301030/AN202608051827679664.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST仕净(301030)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "远翔新材:关于终止出售已回购股份计划的公告",
+        "summary": "远翔新材(301300)：远翔新材:关于终止出售已回购股份计划的公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301300/AN202608051827679166.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "远翔新材(301300)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "美国人快买不到中国扫地机器人了",
+        "summary": "【美国人快买不到中国扫地机器人了】据美国全国广播公司当地时间8月4日报道，美国联邦通信委员会近日宣布，禁止进口外国制造的先进移动机器人，其中包括来自中国等国家的人形机器人、四足机器狗等，相关限制还波及已广泛进入美国家庭的智能扫地机器人。有网友评论称，美国政府“竞争不过就禁掉或制裁”的剧本再次上演。",
+        "publishedAt": "2026-08-05 22:16:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608053832887312.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "机器人"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "泓淋电力:关于控股股东增持公司股份取得专项贷款承诺函的公告",
+        "summary": "泓淋电力(301439)：泓淋电力:关于控股股东增持公司股份取得专项贷款承诺函的公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301439/AN202608051827667728.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "能源"
+        ],
         "tickers": [
-          "金信诺(300252)"
+          "泓淋电力(301439)"
         ],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": "借贷"
       },
       {
-        "title": "宏景科技:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
-        "summary": "宏景科技(301396)：宏景科技:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+        "title": "关于宁波澳玛特高精冲压机床股份有限公司向不特定合格投资者公开发行股票并在北京证券交易所上市辅导备案报告",
+        "summary": "澳玛特(A26135)：关于宁波澳玛特高精冲压机床股份有限公司向不特定合格投资者公开发行股票并在北京证券交易所上市辅导备案报告",
         "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301396/AN202608051827672075.html",
+        "url": "https://data.eastmoney.com/notices/detail/A26135/AN202608051827665639.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -152749,135 +152722,165 @@
           "金融"
         ],
         "tickers": [
-          "宏景科技(301396)"
+          "澳玛特(A26135)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "辅导企业基本情况"
       },
       {
-        "title": "宏景科技:回购报告书",
-        "summary": "宏景科技(301396)：宏景科技:回购报告书",
+        "title": "越秀资本:广州越秀资本控股集团股份有限公司2026年面向专业投资者公开发行公司债券(第三期)票面利率公告",
+        "summary": "越秀资本(000987)：越秀资本:广州越秀资本控股集团股份有限公司2026年面向专业投资者公开发行公司债券(第三期)票面利率公告",
         "publishedAt": "2026-08-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301396/AN202608051827672072.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "宏景科技(301396)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "宝武镁业:2026年8月4日投资者关系活动记录表",
-        "summary": "宝武镁业(002182)：宝武镁业:2026年8月4日投资者关系活动记录表",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002182/AN202608051827671636.html",
+        "url": "https://data.eastmoney.com/notices/detail/000987/AN202608051827680490.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "宝武镁业(002182)"
+          "越秀资本(000987)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "和顺科技:301237和顺科技投资者关系管理信息20260805",
+        "summary": "和顺科技(301237)：和顺科技:301237和顺科技投资者关系管理信息20260805",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301237/AN202608051827680406.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "和顺科技(301237)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "晶丰明源：拟6000万元-1.2亿元回购公司股份",
-        "summary": "【晶丰明源：拟6000万元-1.2亿元回购公司股份】晶丰明源8月5日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于6000万元且不超过1.2亿元。回购价格不超过239.71元/股。回购股份将用于维护公司价值及股东权益。回购期限为自董事会审议通过回购股份方案之日起3个月内。",
-        "publishedAt": "2026-08-05 18:32:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832708750.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "百润股份:2026年8月5日投资者关系活动记录表",
+        "summary": "百润股份(002568)：百润股份:2026年8月5日投资者关系活动记录表",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002568/AN202608051827679706.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "百润股份(002568)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "远翔新材:关于变更部分回购股份用途并注销的公告",
+        "summary": "远翔新材(301300)：远翔新材:关于变更部分回购股份用途并注销的公告",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301300/AN202608051827679171.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "远翔新材(301300)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回购方案修订"
       },
       {
-        "title": "商业航天运载火箭企业东方空间完成Pre-C轮融资",
-        "summary": "【商业航天运载火箭企业东方空间完成Pre-C轮融资】近日，商业航天运载火箭企业东方空间（山东）科技有限公司（简称\"东方空间\"）完成数亿元Pre-C轮融资。本轮融资由同创伟业、上海科创、中航弘华、元佑瑞泽等投资机构联合参与。",
-        "publishedAt": "2026-08-05 18:31:04",
+        "title": "肇民科技:2026年限制性股票激励计划自查表",
+        "summary": "肇民科技(301000)：肇民科技:2026年限制性股票激励计划自查表",
+        "publishedAt": "2026-08-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301000/AN202608051827678501.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "肇民科技(301000)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "现货黄金价格涨4.47%",
+        "summary": "现货黄金价格涨4.47%，报4259.41美元/盎司。",
+        "publishedAt": "2026-08-05 23:12:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832708516.html",
+        "url": "https://finance.eastmoney.com/a/202608053832924198.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [
-          "军工"
+          "有色稀土"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "4天2板平安电工：公司超薄布已经批量供应国内头部客户",
-        "summary": "【4天2板平安电工：公司超薄布已经批量供应国内头部客户】平安电工(001359.SZ)发布投资者关系活动记录表公告，目前超薄布已经批量供应国内头部客户；石英纤维产品自2025年起已与日系、韩系、台系等头部厂商建立了合作，并逐步获得国际头部客户认可。",
-        "publishedAt": "2026-08-05 18:21:12",
+        "title": "甲醇夜盘跌超3%",
+        "summary": "【甲醇夜盘跌超3%】国内期货主力合约涨跌不一，丙烯、乙二醇（EG）、纯苯、甲醇、苯乙烯（EB）跌超3%，聚丙烯、PTA、液化石油气（LPG）跌近3%，涨幅方面，铁矿石涨近2%，棉花涨超1%，焦煤涨近1%。",
+        "publishedAt": "2026-08-05 23:06:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832703567.html",
+        "url": "https://finance.eastmoney.com/a/202608053832921484.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "骄成超声：先进超声波扫描显微镜已获国内头部存储厂商正式订单",
-        "summary": "【骄成超声：先进超声波扫描显微镜已获国内头部存储厂商正式订单】骄成超声在今日发布的调研纪要中介绍，在半导体先进封装领域，公司可应用于半导体晶圆级封装、2.5D/3D封装、面板级封装等产品检测的先进超声波扫描显微镜，成功获得国内头部半导体存储厂商正式订单。",
-        "publishedAt": "2026-08-05 18:16:18",
+        "title": "莱茵河水位降至低点货船减载",
+        "summary": "【莱茵河水位降至低点货船减载】近日，德国境内的莱茵河水位降至约150年来的最低水平，总台记者在莱茵河下游一个重要航运水位监测点看到，货船可利用的航道深度随之减少，来往货船不得不大幅减少装载，令依赖莱茵河运输原材料和产品的德国企业面临压力。莱茵河连接北海港口与德国西部工业区，是德国最重要的内河货运通道。",
+        "publishedAt": "2026-08-05 23:05:21",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832701978.html",
+        "url": "https://finance.eastmoney.com/a/202608053832919669.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至7月31日当周API汽油库存变动(万桶)",
-        "summary": "美国截至7月31日当周API汽油库存变动(万桶)；公布 15.6，预期 -122.5，前值 91.8。",
-        "publishedAt": "2026-08-05 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "伊朗外交部发言人表示 伊朗外交部长或议长暂无出访巴基斯坦或卡塔尔的计划",
+        "summary": "伊朗外交部发言人表示，伊朗外交部长或议长暂无出访巴基斯坦或卡塔尔的计划。",
+        "publishedAt": "2026-08-05 23:05:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608053832921771.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至7月31日当周API原油库存变动(万桶)",
-        "summary": "美国截至7月31日当周API原油库存变动(万桶)；公布 269.0，预期 -200.0，前值 -329.6。",
-        "publishedAt": "2026-08-05 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "国际油价短线走低",
+        "summary": "【国际油价短线走低】国际油价短线走低，截至目前，WTI原油期货价格跌1.48%，报74.645美元/桶；布伦特原油期货价格跌1.17%，报78.428美元/桶。",
+        "publishedAt": "2026-08-05 23:03:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608053832921228.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
           "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -153199,15 +153202,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-05 18:43:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 金融、半导体、有色稀土。",
+        "generatedAt": "2026-08-05 23:21:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 6 条；主题映射集中在 金融、能源、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、2026中报预增、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、半导体、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -153238,7 +153241,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-05 18:42:42",
+        "generatedAt": "2026-08-05 23:20:02",
         "summary": "上午情绪分 100，涨停 103 家，跌停 1 家，炸板 43 家，连板 32 家，最高 8 板。",
         "sections": [
           {
@@ -153277,7 +153280,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-05 18:42:42",
+        "generatedAt": "2026-08-05 23:20:02",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -153303,7 +153306,7 @@
               "今日炸板 43 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：振芯科技:诉讼事项进展公告；电工合金:关于开立募集资金专户并签订募集资金三方监管协议的公告。",
+              "新闻/公告风险：亚信安全:关于子公司银行账户资金冻结进展暨仲裁事项的公告；国统股份:新疆国统管道股份有限公司关于部分银行账户冻结及解除冻结情况的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
