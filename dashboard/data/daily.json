@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-05",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-05 23:29:03",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-05 23:29:03",
+    "lastNewsAt": "2026-08-06 11:50:44"
   },
   "indices": [
     {
@@ -152544,22 +152546,25 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-05",
-    "generatedAt": "2026-08-05 23:30:05",
+    "tradeDate": "2026-08-06",
+    "generatedAt": "2026-08-06 11:50:44",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 5 条；主题映射集中在 金融、能源、半导体。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 有色稀土、AI算力、能源。",
     "themes": [
       {
-        "name": "金融",
+        "name": "有色稀土",
         "score": 12,
         "isFocusBoard": false
       },
       {
+        "name": "AI算力",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
         "name": "能源",
-        "score": 9,
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -152568,28 +152573,33 @@
         "isFocusBoard": true
       },
       {
-        "name": "有色稀土",
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "亚信安全:关于子公司银行账户资金冻结进展暨仲裁事项的公告",
-        "summary": "亚信安全(688225)：亚信安全:关于子公司银行账户资金冻结进展暨仲裁事项的公告",
-        "publishedAt": "2026-08-05",
+        "title": "均瑶健康:湖北均瑶大健康饮品股份有限公司独立董事关于《上海证券交易所关于湖北均瑶大健康饮品股份有限公司2025年年度报告的信息披露监管问询函》的独立董事意见",
+        "summary": "均瑶健康(605388)：均瑶健康:湖北均瑶大健康饮品股份有限公司独立董事关于《上海证券交易所关于湖北均瑶大健康饮品股份有限公司2025年年度报告的信息披露监管问询函》的独立董事意见",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688225/AN202608041827623519.html",
+        "url": "https://data.eastmoney.com/notices/detail/605388/AN202608051827681577.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -152597,103 +152607,148 @@
           "金融"
         ],
         "tickers": [
-          "亚信安全(688225)"
+          "均瑶健康(605388)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "国统股份:新疆国统管道股份有限公司关于部分银行账户冻结及解除冻结情况的公告",
-        "summary": "国统股份(002205)：国统股份:新疆国统管道股份有限公司关于部分银行账户冻结及解除冻结情况的公告",
-        "publishedAt": "2026-08-05",
+        "title": "均瑶健康:北京德皓国际会计师事务所(特殊普通合伙)关于湖北均瑶大健康饮品股份有限公司2025年年度报告的信息披露监管问询函的回复说明德皓函字[2026]00000185号",
+        "summary": "均瑶健康(605388)：均瑶健康:北京德皓国际会计师事务所(特殊普通合伙)关于湖北均瑶大健康饮品股份有限公司2025年年度报告的信息披露监管问询函的回复说明德皓函字[2026]00000185号",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002205/AN202608051827681106.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国统股份(002205)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "8-1发行人及中介机构关于第二轮审核问询函的回复(广东钶锐锶数控技术股份有限公司)",
-        "summary": "钶锐锶(A25178)：8-1发行人及中介机构关于第二轮审核问询函的回复(广东钶锐锶数控技术股份有限公司)",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A25178/AN202608051827680727.html",
+        "url": "https://data.eastmoney.com/notices/detail/605388/AN202608051827681578.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "钶锐锶(A25178)"
+          "均瑶健康(605388)"
         ],
         "importance": 1,
-        "noticeType": "科创板发行上市问询与回复"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "*ST仕净:关于公司股票交易被实施风险警示相关事项的进展公告",
-        "summary": "*ST仕净(301030)：*ST仕净:关于公司股票交易被实施风险警示相关事项的进展公告",
-        "publishedAt": "2026-08-05",
+        "title": "均瑶健康:湖北均瑶大健康饮品股份有限公司关于2025年年度报告的信息披露监管问询函的回复公告",
+        "summary": "均瑶健康(605388)：均瑶健康:湖北均瑶大健康饮品股份有限公司关于2025年年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301030/AN202608051827679664.html",
+        "url": "https://data.eastmoney.com/notices/detail/605388/AN202608051827681576.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST仕净(301030)"
+          "均瑶健康(605388)"
         ],
         "importance": 1,
-        "noticeType": "其它风险提示公告"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "远翔新材:关于终止出售已回购股份计划的公告",
-        "summary": "远翔新材(301300)：远翔新材:关于终止出售已回购股份计划的公告",
-        "publishedAt": "2026-08-05",
+        "title": "传智教育:股票交易严重异常波动公告",
+        "summary": "传智教育(003032)：传智教育:股票交易严重异常波动公告",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301300/AN202608051827679166.html",
+        "url": "https://data.eastmoney.com/notices/detail/003032/AN202608051827680662.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "远翔新材(301300)"
+          "传智教育(003032)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "泓淋电力:关于控股股东增持公司股份取得专项贷款承诺函的公告",
-        "summary": "泓淋电力(301439)：泓淋电力:关于控股股东增持公司股份取得专项贷款承诺函的公告",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301439/AN202608051827667728.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "A股午评：创业板指冲高回落跌0.67%，血制品、AI语料、绿色电力等概念走弱",
+        "summary": "【A股午评：创业板指冲高回落跌0.67%，血制品、AI语料、绿色电力等概念走弱】8月6日，A股三大指数早盘涨跌不一，截至午间收盘，上证指数涨0.01%，深证成指跌0.52%，创业板指跌0.67%；北证50跌0.38%。沪深两市成交额约17518.92亿元，较前一个交易日放量约621.88亿元。截至午盘，全市场1717只股票上涨、3706只股票下跌，其中58…",
+        "publishedAt": "2026-08-06 11:35:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608063833690853.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
+          "AI算力",
           "能源"
         ],
-        "tickers": [
-          "泓淋电力(301439)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "借贷"
+        "noticeType": ""
       },
       {
-        "title": "关于宁波澳玛特高精冲压机床股份有限公司向不特定合格投资者公开发行股票并在北京证券交易所上市辅导备案报告",
-        "summary": "澳玛特(A26135)：关于宁波澳玛特高精冲压机床股份有限公司向不特定合格投资者公开发行股票并在北京证券交易所上市辅导备案报告",
-        "publishedAt": "2026-08-05",
+        "title": "A股三大指数震荡 煤炭开采、贵金属领涨 CPO概念活跃",
+        "summary": "【午盘播报】沪指上涨0.01%，报3878.92点；深成指下跌0.52%，报14070.78点；创业板指下跌0.67%，报3511.47点，两市半日合计成交17519亿。盘面上，贵金属、煤炭开采、氦气概念、种植业、CPO概念、电子化学品涨幅居前，教育、汽车整车、AI语料、出版、电力、电视广播表现不佳，领跌市场。全市场上涨个股有1717家，下跌个股有3706…",
+        "publishedAt": "2026-08-06 11:30:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608063833689720.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "汽车链",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "京东方Ａ:039-2026年8月5日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:039-2026年8月5日投资者关系活动记录表",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26135/AN202608051827665639.html",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202608061827699711.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "旷达科技:002516旷达科技投资者关系管理信息20260806",
+        "summary": "旷达科技(002516)：旷达科技:002516旷达科技投资者关系管理信息20260806",
+        "publishedAt": "2026-08-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002516/AN202608061827699710.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "旷达科技(002516)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国瓷材料:300285国瓷材料投资者关系管理信息20260805",
+        "summary": "国瓷材料(300285)：国瓷材料:300285国瓷材料投资者关系管理信息20260805",
+        "publishedAt": "2026-08-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300285/AN202608061827699712.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国瓷材料(300285)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "浩瀚深度:国金证券股份有限公司关于北京浩瀚深度信息技术股份有限公司向不特定对象发行可转换公司债券公司发生重大投资行为的临时受托管理事务报告",
+        "summary": "浩瀚深度(688292)：浩瀚深度:国金证券股份有限公司关于北京浩瀚深度信息技术股份有限公司向不特定对象发行可转换公司债券公司发生重大投资行为的临时受托管理事务报告",
+        "publishedAt": "2026-08-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688292/AN202608051827679903.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -152701,130 +152756,98 @@
           "金融"
         ],
         "tickers": [
-          "澳玛特(A26135)"
-        ],
-        "importance": 1,
-        "noticeType": "辅导企业基本情况"
-      },
-      {
-        "title": "越秀资本:广州越秀资本控股集团股份有限公司2026年面向专业投资者公开发行公司债券(第三期)票面利率公告",
-        "summary": "越秀资本(000987)：越秀资本:广州越秀资本控股集团股份有限公司2026年面向专业投资者公开发行公司债券(第三期)票面利率公告",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000987/AN202608051827680490.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "越秀资本(000987)"
+          "浩瀚深度(688292)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "和顺科技:301237和顺科技投资者关系管理信息20260805",
-        "summary": "和顺科技(301237)：和顺科技:301237和顺科技投资者关系管理信息20260805",
-        "publishedAt": "2026-08-05",
+        "title": "浩瀚深度:北京浩瀚深度信息技术股份有限公司关于对外投资建设办公楼的公告",
+        "summary": "浩瀚深度(688292)：浩瀚深度:北京浩瀚深度信息技术股份有限公司关于对外投资建设办公楼的公告",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301237/AN202608051827680406.html",
+        "url": "https://data.eastmoney.com/notices/detail/688292/AN202608051827679904.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "和顺科技(301237)"
+          "浩瀚深度(688292)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "对外项目投资"
       },
       {
-        "title": "百润股份:2026年8月5日投资者关系活动记录表",
-        "summary": "百润股份(002568)：百润股份:2026年8月5日投资者关系活动记录表",
-        "publishedAt": "2026-08-05",
+        "title": "东鹏饮料:东鹏饮料(集团)股份有限公司关于使用部分闲置自有资金进行现金管理的进展公告",
+        "summary": "东鹏饮料(605499)：东鹏饮料:东鹏饮料(集团)股份有限公司关于使用部分闲置自有资金进行现金管理的进展公告",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002568/AN202608051827679706.html",
+        "url": "https://data.eastmoney.com/notices/detail/605499/AN202608051827679723.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "百润股份(002568)"
+          "东鹏饮料(605499)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "投资理财"
       },
       {
-        "title": "远翔新材:关于变更部分回购股份用途并注销的公告",
-        "summary": "远翔新材(301300)：远翔新材:关于变更部分回购股份用途并注销的公告",
-        "publishedAt": "2026-08-05",
+        "title": "山东路桥:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集山东路桥表决权的法律意见书",
+        "summary": "山东路桥(000498)：山东路桥:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集山东路桥表决权的法律意见书",
+        "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301300/AN202608051827679171.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "远翔新材(301300)"
-        ],
-        "importance": 1,
-        "noticeType": "回购方案修订"
-      },
-      {
-        "title": "肇民科技:2026年限制性股票激励计划自查表",
-        "summary": "肇民科技(301000)：肇民科技:2026年限制性股票激励计划自查表",
-        "publishedAt": "2026-08-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301000/AN202608051827678501.html",
+        "url": "https://data.eastmoney.com/notices/detail/000498/AN202608051827679662.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "肇民科技(301000)"
+          "山东路桥(000498)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "法律意见书"
       },
       {
-        "title": "欧盟委员会发言人表示 欧盟将于8月末对进口自巴西的食品实施审计",
-        "summary": "【欧盟委员会发言人表示 欧盟将于8月末对进口自巴西的食品实施审计】欧盟委员会发言人表示，欧盟将于8月末对进口自巴西的食品实施审计。欧盟对巴西食品（贸易）“合规”的审计将囊括家禽与蜂蜜，不会包括牛肉和禽蛋。",
-        "publishedAt": "2026-08-05 23:17:32",
+        "title": "世荣兆业:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集广东世荣兆业股份有限公司表决权的法律意见书",
+        "summary": "世荣兆业(002016)：世荣兆业:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集广东世荣兆业股份有限公司表决权的法律意见书",
+        "publishedAt": "2026-08-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002016/AN202608051827679659.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "世荣兆业(002016)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "是否追究金容范引入杠杆ETF责任？青瓦台：应优先关注市场并采取对策",
+        "summary": "【是否追究金容范引入杠杆ETF责任？青瓦台：应优先关注市场并采取对策】据报道，韩国总统府公共关系和沟通高级秘书成基鸿6日回应了外界要求就推出单一股票杠杆ETF一事追究总统办公室政策室长金容范责任的呼声。他表示：“目前更重要的是密切关注市场，并制定相应对策。”成基鸿当天在接受采访时表示：“房地产市场和股票市场都存在较高波动性，对民生的影响也非常大，”并还补充…",
+        "publishedAt": "2026-08-06 11:34:28",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832925280.html",
+        "url": "https://finance.eastmoney.com/a/202608063833691171.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "上交所行动之后深交所也将切换交易线路 周边机房已“供应紧张”",
-        "summary": "【上交所行动之后深交所也将切换交易线路 周边机房已“供应紧张”】从业内反馈来看，沪深交易所均在推动将交易行情接入方式变更为广域网线路，但实施节奏有所不同。多位业内人士称，上交所将交易行情接入方式统一由局域网变更为广域网线路已于7月31日完成，截至目前，深交所方面还未完成将局域网切换成广域网，但预计线路切换也将很快落地。“目前得到的最新消息，是深交所将于8月…",
-        "publishedAt": "2026-08-05 23:15:00",
+        "title": "国际金价突破4300美元！黄金ETF易方达（159934）涨2.14%，贵金属板块逆势领涨",
+        "summary": "【国际金价突破4300美元！黄金ETF易方达（159934）涨2.14%，贵金属板块逆势领涨】截至2026年8月6日11:16，黄金ETF易方达（159934）上涨2.14%，报9.222元，盘中最高触及9.301元，最低探至9.220元，全日成交额达1.15亿元，量能显著放大。",
+        "publishedAt": "2026-08-06 11:22:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832923147.html",
+        "url": "https://finance.eastmoney.com/a/202608063833685650.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "现货黄金价格涨4.47%",
-        "summary": "现货黄金价格涨4.47%，报4259.41美元/盎司。",
-        "publishedAt": "2026-08-05 23:12:32",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832924198.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [
           "有色稀土"
         ],
@@ -152833,45 +152856,33 @@
         "noticeType": ""
       },
       {
-        "title": "甲醇夜盘跌超3%",
-        "summary": "【甲醇夜盘跌超3%】国内期货主力合约涨跌不一，丙烯、乙二醇（EG）、纯苯、甲醇、苯乙烯（EB）跌超3%，聚丙烯、PTA、液化石油气（LPG）跌近3%，涨幅方面，铁矿石涨近2%，棉花涨超1%，焦煤涨近1%。",
-        "publishedAt": "2026-08-05 23:06:11",
+        "title": "飞捷科思完成数亿元A1轮融资",
+        "summary": "【飞捷科思完成数亿元A1轮融资】8月6日，物理智能企业飞捷科思智能科技（上海）有限公司宣布完成A1轮融资。本轮由老股东泰达科投与海松资本、复旦科创共同领投，毅达资本、优势资本、踊跃资本、汇融基金、财鑫资本、湘江国投作为新增投资方参与投资；云启资本、硅港资本、中赢创投、常垒创投等现有股东继续追加投资，融资金额数亿元。",
+        "publishedAt": "2026-08-06 11:19:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832921484.html",
+        "url": "https://finance.eastmoney.com/a/202608063833681283.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "莱茵河水位降至低点货船减载",
-        "summary": "【莱茵河水位降至低点货船减载】近日，德国境内的莱茵河水位降至约150年来的最低水平，总台记者在莱茵河下游一个重要航运水位监测点看到，货船可利用的航道深度随之减少，来往货船不得不大幅减少装载，令依赖莱茵河运输原材料和产品的德国企业面临压力。莱茵河连接北海港口与德国西部工业区，是德国最重要的内河货运通道。",
-        "publishedAt": "2026-08-05 23:05:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832919669.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
+        "title": "美国8月5日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月5日iShares黄金持仓-每日更新(吨)；公布 459.01，预期 nan，前值 460.76。",
+        "publishedAt": "2026-08-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗外交部发言人表示 伊朗外交部长或议长暂无出访巴基斯坦或卡塔尔的计划",
-        "summary": "伊朗外交部发言人表示，伊朗外交部长或议长暂无出访巴基斯坦或卡塔尔的计划。",
-        "publishedAt": "2026-08-05 23:05:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608053832921771.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -153180,7 +153191,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -153193,15 +153204,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-05 23:30:05",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 5 条；主题映射集中在 金融、能源、半导体。",
+        "generatedAt": "2026-08-06 11:50:44",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 有色稀土、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、2026中报预增、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -153297,7 +153308,7 @@
               "今日炸板 43 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：亚信安全:关于子公司银行账户资金冻结进展暨仲裁事项的公告；国统股份:新疆国统管道股份有限公司关于部分银行账户冻结及解除冻结情况的公告。",
+              "新闻/公告风险：均瑶健康:湖北均瑶大健康饮品股份有限公司独立董事关于《上海证券交易所关于湖北均瑶大健康饮品股份有限公司2025年年度报告的信息披露监管问询函》的独立董事意见；均瑶健康:北京德皓国际会计师事务所(特殊普通合伙)关于湖北均瑶大健康饮品股份有限公司2025年年度报告的信息披露监管问询函的回复说明德皓函字[2026]00000185号。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
