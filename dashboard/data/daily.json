@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-06",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-06 18:18:20",
+    "generatedAt": "2026-08-06 18:45:23",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -157930,38 +157930,23 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-06",
-    "generatedAt": "2026-08-06 18:18:57",
+    "generatedAt": "2026-08-06 18:45:56",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 15,
+        "name": "有色稀土",
+        "score": 16,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 13,
+        "name": "金融",
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       },
@@ -157969,84 +157954,63 @@
         "name": "军工",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "科翔股份:股票交易异常波动公告",
-        "summary": "科翔股份(300903)：科翔股份:股票交易异常波动公告",
+        "title": "欣天科技:股票交易异常波动及严重异常波动的公告",
+        "summary": "欣天科技(300615)：欣天科技:股票交易异常波动及严重异常波动的公告",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300903/AN202608061827716696.html",
+        "url": "https://data.eastmoney.com/notices/detail/300615/AN202608061827717891.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "科翔股份(300903)"
+          "欣天科技(300615)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "威尔高:关于公司股票交易异常波动的公告",
-        "summary": "威尔高(301251)：威尔高:关于公司股票交易异常波动的公告",
+        "title": "朗鸿科技:股东拟减持股份的预披露公告",
+        "summary": "朗鸿科技(920395)：朗鸿科技:股东拟减持股份的预披露公告",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301251/AN202608061827716703.html",
+        "url": "https://data.eastmoney.com/notices/detail/920395/AN202608061827717510.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "威尔高(301251)"
+          "朗鸿科技(920395)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "森远股份:关于控股股东部分股份解除质押及质押的公告",
-        "summary": "森远股份(300210)：森远股份:关于控股股东部分股份解除质押及质押的公告",
+        "title": "*ST纳川:关于公司股票可能被终止上市的第四次风险提示公告",
+        "summary": "*ST纳川(300198)：*ST纳川:关于公司股票可能被终止上市的第四次风险提示公告",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300210/AN202608061827716624.html",
+        "url": "https://data.eastmoney.com/notices/detail/300198/AN202608061827717484.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "森远股份(300210)"
+          "*ST纳川(300198)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "终止上市风险提示"
       },
       {
-        "title": "兴业科技：股票交易异常波动 收购磷化铟业务存多项风险",
-        "summary": "【兴业科技：股票交易异常波动 收购磷化铟业务存多项风险】兴业科技(002674.SZ)公告称，公司于2026年7月24日披露全资子公司收购磷化铟业务及资产事项，该资产总资产1702.46万元，净资产637.04万元，2026年1-5月收入234.38万元，净利润-144.09万元，预计对当期利润影响极小。公司提示多项风险：缺乏半导体新材料管理经验；标的资产…",
-        "publishedAt": "2026-08-06 18:12:20",
+        "title": "4连板风范股份：行业内部分企业采取低价竞争策略 可能对公司盈利能力产生不利影响",
+        "summary": "【4连板风范股份：行业内部分企业采取低价竞争策略 可能对公司盈利能力产生不利影响】风范股份(601700.SH)公告称，公司所处输变电铁塔行业属于充分竞争行业，生产企业数量众多，产品同质化程度较高。行业内部分企业采取低价竞争策略，可能对公司盈利能力产生不利影响，敬请投资者关注行业竞争风险。",
+        "publishedAt": "2026-08-06 18:37:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608063833986679.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "10连板爱丽家居：如股票价格进一步异常上涨 公司可能再次申请停牌核查",
-        "summary": "【10连板爱丽家居：如股票价格进一步异常上涨 公司可能再次申请停牌核查】目前，公司相关指标已严重偏离公司基本面，显著高于行业整体估值水平，公司股票可能存在明显的市场情绪过热和非理性炒作，敬请广大投资者注意二级市场交易风险，审慎决策，理性投资，避免产生较大投资损失。如公司股票价格进一步异常上涨，公司可能再次申请停牌核查。",
-        "publishedAt": "2026-08-06 18:06:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608063833980042.html",
+        "url": "https://finance.eastmoney.com/a/202608063833997798.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -158056,196 +158020,175 @@
         "noticeType": ""
       },
       {
-        "title": "消息人士称美国拒绝乌增购“爱国者”导弹请求",
-        "summary": "【消息人士称美国拒绝乌增购“爱国者”导弹请求】据消息人士近日称，美国总统特朗普已拒绝乌克兰总统泽连斯基增加采购数百枚“爱国者”导弹的请求，理由是美国自身库存紧张，而且美国需要应对与伊朗的冲突。",
-        "publishedAt": "2026-08-06 17:59:33",
+        "title": "2连板和远气体：规划的电子级六氟化钨产品尚处试生产阶段",
+        "summary": "【2连板和远气体：规划的电子级六氟化钨产品尚处试生产阶段】和远气体(002971.SZ)公告称，规划的电子级六氟化钨产品尚处试生产阶段，未获下游认证，未签订订单，预计2-3年内对业绩无重大影响；电子特气业务中仅少数品类实现销售，销售额占比不足5%。公司滚动市盈率148.53倍，远超行业平均25.84倍，提醒投资者注意炒作风险。",
+        "publishedAt": "2026-08-06 18:18:57",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608063833978745.html",
+        "url": "https://finance.eastmoney.com/a/202608063833988369.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "军工"
+          "有色稀土"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "熵基科技:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "summary": "熵基科技(301330)：熵基科技:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "title": "关于同意新铝时代重大资产重组注册的批复",
+        "summary": "新铝时代(301613)：关于同意新铝时代重大资产重组注册的批复",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301330/AN202608061827717312.html",
+        "url": "https://data.eastmoney.com/notices/detail/301613/AN202608061827718162.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [
-          "熵基科技(301330)"
+          "新铝时代(301613)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "创业板并购重组审核注册结果通知"
       },
       {
-        "title": "地铁设计:2026年8月6日投资者关系活动记录表",
-        "summary": "地铁设计(003013)：地铁设计:2026年8月6日投资者关系活动记录表",
+        "title": "方盛股份:关于拟投资新建厂房的公告",
+        "summary": "方盛股份(920662)：方盛股份:关于拟投资新建厂房的公告",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003013/AN202608061827716631.html",
+        "url": "https://data.eastmoney.com/notices/detail/920662/AN202608061827717941.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "地铁设计(003013)"
+          "方盛股份(920662)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "对外项目投资"
       },
       {
-        "title": "索菲亚:2026年8月6日投资者关系活动记录表",
-        "summary": "索菲亚(002572)：索菲亚:2026年8月6日投资者关系活动记录表",
+        "title": "方盛股份:2026年限制性股票激励计划首次授予激励对象名单(首次授予日)",
+        "summary": "方盛股份(920662)：方盛股份:2026年限制性股票激励计划首次授予激励对象名单(首次授予日)",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002572/AN202608061827716569.html",
+        "url": "https://data.eastmoney.com/notices/detail/920662/AN202608061827717946.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "索菲亚(002572)"
+          "方盛股份(920662)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励对象名单"
       },
       {
-        "title": "泽璟制药:投资者关系活动记录表(2026年8月3日-8月5日)",
-        "summary": "泽璟制药(688266)：泽璟制药:投资者关系活动记录表(2026年8月3日-8月5日)",
+        "title": "方盛股份:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "summary": "方盛股份(920662)：方盛股份:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688266/AN202608061827716589.html",
+        "url": "https://data.eastmoney.com/notices/detail/920662/AN202608061827717947.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "泽璟制药(688266)"
+          "方盛股份(920662)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行结果公告",
-        "summary": "山西证券(002500)：山西证券:山西证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行结果公告",
+        "title": "东和新材:关于收到中证中小投资者服务中心《股东建议函》及回复的公告",
+        "summary": "东和新材(920792)：东和新材:关于收到中证中小投资者服务中心《股东建议函》及回复的公告",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002500/AN202608061827716456.html",
+        "url": "https://data.eastmoney.com/notices/detail/920792/AN202608061827717860.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "山西证券(002500)"
+          "东和新材(920792)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "002906华阳集团投资者关系管理信息20260805",
-        "summary": "华阳集团(002906)：002906华阳集团投资者关系管理信息20260805",
+        "title": "杰创智能:关于股份回购结果暨股份变动的公告",
+        "summary": "杰创智能(301248)：杰创智能:关于股份回购结果暨股份变动的公告",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002906/AN202608061827716252.html",
+        "url": "https://data.eastmoney.com/notices/detail/301248/AN202608061827717838.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "杰创智能(301248)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "迪普科技:300768迪普科技投资者关系管理信息20260806",
+        "summary": "迪普科技(300768)：迪普科技:300768迪普科技投资者关系管理信息20260806",
+        "publishedAt": "2026-08-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300768/AN202608061827717566.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "华阳集团(002906)"
+          "迪普科技(300768)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "移为通信:关于理财产品到期赎回及继续使用闲置自有资金进行现金管理的公告",
-        "summary": "移为通信(300590)：移为通信:关于理财产品到期赎回及继续使用闲置自有资金进行现金管理的公告",
+        "title": "奥特维:投资者关系活动记录表688516无锡奥特维科技股份有限公司-20260804",
+        "summary": "奥特维(688516)：奥特维:投资者关系活动记录表688516无锡奥特维科技股份有限公司-20260804",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300590/AN202608061827716178.html",
+        "url": "https://data.eastmoney.com/notices/detail/688516/AN202608061827717568.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "移为通信(300590)"
+          "奥特维(688516)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "调研活动"
       },
       {
-        "title": "东北证券:东北证券股份有限公司2024年面向专业投资者公开发行公司债券(第三期)2026年付息公告",
-        "summary": "东北证券(000686)：东北证券:东北证券股份有限公司2024年面向专业投资者公开发行公司债券(第三期)2026年付息公告",
+        "title": "九联科技:广东九联科技股份有限公司投资者关系活动记录表",
+        "summary": "九联科技(688609)：九联科技:广东九联科技股份有限公司投资者关系活动记录表",
         "publishedAt": "2026-08-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000686/AN202608061827716073.html",
+        "url": "https://data.eastmoney.com/notices/detail/688609/AN202608061827717567.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "东北证券(000686)"
+          "九联科技(688609)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "调研活动"
       },
       {
-        "title": "国亮新材:回购股份报告书公告",
-        "summary": "国亮新材(920076)：国亮新材:回购股份报告书公告",
-        "publishedAt": "2026-08-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920076/AN202608061827716070.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国亮新材(920076)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "马云罕见海外投资布局公示",
-        "summary": "【马云罕见海外投资布局公示】8月6日消息，阿里巴巴创办人马云作出近年罕见的海外投资布局——旗下云锋基金参与投资美国旧金山AI保险初创公司Corgi，这亦是云锋基金已知的首笔美国交易。该基金过往投资组合主要集中在中国市场。云锋基金在此轮融资中向Corgi投入约3000万美元（约2.34亿港元），为该公司的参投方之一。",
-        "publishedAt": "2026-08-06 18:00:49",
+        "title": "欧莱新材：公司暂无磷化铟相关产品和技术",
+        "summary": "【欧莱新材：公司暂无磷化铟相关产品和技术】欧莱新材(688530.SH)发布异动公告，公司关注到近期磷化铟概念受市场关注度较高，公司暂无磷化铟相关产品和技术，敬请广大投资者谨慎决策。",
+        "publishedAt": "2026-08-06 18:41:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608063833978326.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "东宏股份：中标项目签订1.8亿元采购框架合同",
-        "summary": "【东宏股份：中标项目签订1.8亿元采购框架合同】东宏股份(603856.SH)公告称，公司与万华化学集团物资有限公司签订《采购框架合同》，合同预估总金额为1.8亿元。该合同为日常经营合同，若顺利履行将对公司经营业绩产生积极影响，但实际执行金额以具体订单为准，存在不确定性。",
-        "publishedAt": "2026-08-06 17:56:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608063833978951.html",
+        "url": "https://finance.eastmoney.com/a/202608063833999114.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -158255,20 +158198,49 @@
         "noticeType": ""
       },
       {
-        "title": "云南能投：永宁风电场（五期）项目获云南省发改委核准批复",
-        "summary": "【云南能投：永宁风电场（五期）项目获云南省发改委核准批复】云南能投(002053.SZ)公告称，公司全资子公司弥勒云能投新能源开发有限公司投资建设的永宁风电场(五期)项目获得云南省发改委核准批复。项目总装机容量5.4万千瓦，位于红河州弥勒市，已列入云南省2025年第二批新能源项目开发建设方案。项目尚需办理林地、土地、环评等手续后方可开工建设。",
-        "publishedAt": "2026-08-06 17:56:22",
+        "title": "小米公司于8月6日以5000万港元回购190万股B类股份",
+        "summary": "小米公司于8月6日以5000万港元回购190万股B类股份。",
+        "publishedAt": "2026-08-06 18:40:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608063833978816.html",
+        "url": "https://finance.eastmoney.com/a/202608063833998426.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "新能源",
-          "能源"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "内地居民港险收益纳入征收范围？香港保监局回应",
+        "summary": "【内地居民港险收益纳入征收范围？香港保监局回应】香港保监局表示，中国居民就境外投资收益必须依法申报及缴税的要求一直存在，市场不用过度解读或作出揣测。",
+        "publishedAt": "2026-08-06 18:34:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608063833993149.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月5日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月5日iShares黄金持仓-每日更新(吨)；公布 459.01，预期 nan，前值 460.76。",
+        "publishedAt": "2026-08-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -158429,15 +158401,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-06 18:18:57",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-08-06 18:45:56",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：电子化学品；首看 电子化学品 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -158468,7 +158440,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-06 18:18:20",
+        "generatedAt": "2026-08-06 18:45:23",
         "summary": "上午情绪分 100，涨停 79 家，跌停 1 家，炸板 20 家，连板 22 家，最高 10 板。",
         "sections": [
           {
@@ -158507,7 +158479,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-06 18:18:20",
+        "generatedAt": "2026-08-06 18:45:23",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -158533,7 +158505,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 华为概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：科翔股份:股票交易异常波动公告；威尔高:关于公司股票交易异常波动的公告。",
+              "新闻/公告风险：欣天科技:股票交易异常波动及严重异常波动的公告；朗鸿科技:股东拟减持股份的预披露公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
