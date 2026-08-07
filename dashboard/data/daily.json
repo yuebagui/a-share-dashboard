@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-07",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-07 16:33:39",
+    "generatedAt": "2026-08-07 17:05:55",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -164720,7 +164720,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -164884,263 +164885,238 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-07",
-    "generatedAt": "2026-08-07 16:34:47",
+    "generatedAt": "2026-08-07 17:06:59",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、AI算力、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 半导体、金融、有色稀土。",
     "themes": [
       {
-        "name": "金融",
-        "score": 16,
-        "isFocusBoard": false
+        "name": "半导体",
+        "score": 11,
+        "isFocusBoard": true
       },
       {
-        "name": "AI算力",
-        "score": 8,
+        "name": "金融",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 6,
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "绿控传动:首次公开发行股票并在创业板上市投资风险特别公告",
-        "summary": "绿控传动(301655)：绿控传动:首次公开发行股票并在创业板上市投资风险特别公告",
+        "title": "东杰智能:关于诉讼进展暨收到撤诉裁定的公告",
+        "summary": "东杰智能(300486)：东杰智能:关于诉讼进展暨收到撤诉裁定的公告",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301655/AN202608061827721504.html",
+        "url": "https://data.eastmoney.com/notices/detail/300486/AN202608071827749960.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "绿控传动(301655)"
+          "东杰智能(300486)"
         ],
         "importance": 1,
-        "noticeType": "首发投资风险特别公告"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "皖维高新:皖维高新关于最近五年未被证券监管部门和交易所采取监管措施或处罚情况的公告",
-        "summary": "皖维高新(600063)：皖维高新:皖维高新关于最近五年未被证券监管部门和交易所采取监管措施或处罚情况的公告",
+        "title": "ST天玑:关于使用部分闲置募集资金进行现金管理的进展公告",
+        "summary": "ST天玑(300245)：ST天玑:关于使用部分闲置募集资金进行现金管理的进展公告",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600063/AN202608061827721475.html",
+        "url": "https://data.eastmoney.com/notices/detail/300245/AN202608071827749959.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "皖维高新(600063)"
+          "ST天玑(300245)"
         ],
         "importance": 1,
-        "noticeType": "自查报告"
+        "noticeType": "募集资金使用进展情况"
       },
       {
-        "title": "依顿电子:关于与私募基金合作投资的公告",
-        "summary": "依顿电子(603328)：依顿电子:关于与私募基金合作投资的公告",
+        "title": "开润股份:关于全资子公司与专业投资机构共同投资的进展公告",
+        "summary": "开润股份(300577)：开润股份:关于全资子公司与专业投资机构共同投资的进展公告",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603328/AN202608061827722460.html",
+        "url": "https://data.eastmoney.com/notices/detail/300577/AN202608071827749904.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "依顿电子(603328)"
+          "开润股份(300577)"
         ],
         "importance": 1,
-        "noticeType": "投资设立公司"
+        "noticeType": "其他"
       },
       {
-        "title": "依顿电子:2026年限制性股票激励计划(草案)摘要公告",
-        "summary": "依顿电子(603328)：依顿电子:2026年限制性股票激励计划(草案)摘要公告",
+        "title": "飞沃科技:飞沃科技2026年8月6日投资者关系活动记录表",
+        "summary": "飞沃科技(301232)：飞沃科技:飞沃科技2026年8月6日投资者关系活动记录表",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603328/AN202608061827722480.html",
+        "url": "https://data.eastmoney.com/notices/detail/301232/AN202608071827749663.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "依顿电子(603328)"
+          "飞沃科技(301232)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划摘要"
+        "noticeType": "调研活动"
       },
       {
-        "title": "映翰通:关于公司控股股东、实际控制人提议回购公司股份的公告",
-        "summary": "映翰通(688080)：映翰通:关于公司控股股东、实际控制人提议回购公司股份的公告",
+        "title": "博威合金:投资者关系活动记录表-7月",
+        "summary": "博威合金(601137)：博威合金:投资者关系活动记录表-7月",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688080/AN202608061827722021.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "映翰通(688080)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "光弘科技:2026年股票期权与限制性股票激励计划(草案)",
-        "summary": "光弘科技(300735)：光弘科技:2026年股票期权与限制性股票激励计划(草案)",
-        "publishedAt": "2026-08-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300735/AN202608061827721882.html",
+        "url": "https://data.eastmoney.com/notices/detail/601137/AN202608071827749533.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "光弘科技(300735)"
+          "博威合金(601137)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "调研活动"
       },
       {
-        "title": "光弘科技:创业板上市公司股权激励计划自查表",
-        "summary": "光弘科技(300735)：光弘科技:创业板上市公司股权激励计划自查表",
+        "title": "今世缘:江苏今世缘酒业股份有限公司投资者来访接待记录表(2026年7月)",
+        "summary": "今世缘(603369)：今世缘:江苏今世缘酒业股份有限公司投资者来访接待记录表(2026年7月)",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300735/AN202608061827721884.html",
+        "url": "https://data.eastmoney.com/notices/detail/603369/AN202608071827749532.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "光弘科技(300735)"
+          "今世缘(603369)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "调研活动"
       },
       {
-        "title": "光弘科技:2026年股票期权与限制性股票激励计划(草案)摘要",
-        "summary": "光弘科技(300735)：光弘科技:2026年股票期权与限制性股票激励计划(草案)摘要",
+        "title": "中国外运:投资者关系活动记录-2026年7月投资者关系活动记录",
+        "summary": "中国外运(601598)：中国外运:投资者关系活动记录-2026年7月投资者关系活动记录",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300735/AN202608061827721878.html",
+        "url": "https://data.eastmoney.com/notices/detail/601598/AN202608071827749534.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "光弘科技(300735)"
+          "中国外运(601598)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划摘要"
+        "noticeType": "调研活动"
       },
       {
-        "title": "绿控传动:中国国际金融股份有限公司关于参与战略配售投资者的专项核查报告",
-        "summary": "绿控传动(301655)：绿控传动:中国国际金融股份有限公司关于参与战略配售投资者的专项核查报告",
+        "title": "002276万马股份投资者关系管理信息20260807",
+        "summary": "万马股份(002276)：002276万马股份投资者关系管理信息20260807",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301655/AN202608061827721502.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "绿控传动(301655)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "绿控传动:北京市海问律师事务所关于参与战略配售投资者核查事项的法律意见书",
-        "summary": "绿控传动(301655)：绿控传动:北京市海问律师事务所关于参与战略配售投资者核查事项的法律意见书",
-        "publishedAt": "2026-08-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301655/AN202608061827721501.html",
+        "url": "https://data.eastmoney.com/notices/detail/002276/AN202608071827745769.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "绿控传动(301655)"
+          "万马股份(002276)"
         ],
         "importance": 1,
-        "noticeType": "法律意见书"
+        "noticeType": "调研活动"
       },
       {
-        "title": "乐鑫科技:乐鑫科技关于回购股份事项前十大股东和前十大无限售条件股东持股信息的公告",
-        "summary": "乐鑫科技(688018)：乐鑫科技:乐鑫科技关于回购股份事项前十大股东和前十大无限售条件股东持股信息的公告",
+        "title": "西子洁能:002534西子洁能投资者关系管理信息20260806",
+        "summary": "西子洁能(002534)：西子洁能:002534西子洁能投资者关系管理信息20260806",
         "publishedAt": "2026-08-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688018/AN202608061827721490.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "乐鑫科技(688018)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "皖维高新:皖维高新关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿事宜的公告",
-        "summary": "皖维高新(600063)：皖维高新:皖维高新关于本次向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿事宜的公告",
-        "publishedAt": "2026-08-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600063/AN202608061827721481.html",
+        "url": "https://data.eastmoney.com/notices/detail/002534/AN202608071827738945.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "皖维高新(600063)"
+          "西子洁能(002534)"
         ],
         "importance": 1,
-        "noticeType": "获得补贴（资助）"
+        "noticeType": "调研活动"
       },
       {
-        "title": "云锋基金回应Corgi投资传闻：未参与",
-        "summary": "【云锋基金回应Corgi投资传闻：未参与】8月7日，针对近期市场关于“云锋基金投资美国AI保险公司Corgi”的传闻，云锋基金回应称该消息不实，基金并未参与该项目投资。",
-        "publishedAt": "2026-08-07 16:28:22",
+        "title": "顺络电子:2026年8月5-6日投资者关系活动记录表",
+        "summary": "顺络电子(002138)：顺络电子:2026年8月5-6日投资者关系活动记录表",
+        "publishedAt": "2026-08-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002138/AN202608071827738113.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "顺络电子(002138)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "深圳华强:2026年8月6日投资者关系活动记录表",
+        "summary": "深圳华强(000062)：深圳华强:2026年8月6日投资者关系活动记录表",
+        "publishedAt": "2026-08-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000062/AN202608071827736386.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "深圳华强(000062)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:040-2026年8月6日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:040-2026年8月6日投资者关系活动记录表",
+        "publishedAt": "2026-08-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202608071827736308.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "赤峰黄金：控股子公司暂停运营老挝勐康稀土项目",
+        "summary": "【赤峰黄金：控股子公司暂停运营老挝勐康稀土项目】赤峰黄金(600988.SH)公告称，为响应稀土资源开发相关政策要求，公司控股子公司赤金厦钨暂停运营老挝勐康稀土项目。该项目处于试生产阶段，2025年及2026年第一季度对净利润影响较小，预计暂停运营对公司整体业绩影响有限。公司将继续推进矿权证照续期，并聚焦黄金、电解铜等主营业务。",
+        "publishedAt": "2026-08-07 16:57:14",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835209776.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "马来西亚对涉华镀铝锌其他合金和非合金钢扁轧制品启动反倾销调查",
-        "summary": "【马来西亚对涉华镀铝锌其他合金和非合金钢扁轧制品启动反倾销调查】据中国贸易救济信息网，8月6日，马来西亚投资、贸易及工业部发布公告，应国内生产商提交的申请，对原产于或进口自中国大陆、中国台湾地区和越南的镀铝锌、其他合金和非合金钢扁轧制品启动反倾销调查。",
-        "publishedAt": "2026-08-07 16:25:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835210979.html",
+        "url": "https://finance.eastmoney.com/a/202608073835239960.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -165152,56 +165128,75 @@
         "noticeType": ""
       },
       {
-        "title": "4天3板华正新材：应用于AI算力领域的高端覆铜板在公司总营收中的占比相对有限",
-        "summary": "【4天3板华正新材：应用于AI算力领域的高端覆铜板在公司总营收中的占比相对有限】华正新材(603186.SH)公告称，公司所处的覆铜板行业受产业政策、原材料供给、客户需求及新产品迭代等多重因素影响，上述因素若发生重大变化均可能对公司未来经营业绩产生影响。目前，公司应用于AI算力领域的高端覆铜板在公司总营收中的占比相对有限；高端覆铜板新产品的研发及认证门槛高…",
-        "publishedAt": "2026-08-07 16:15:58",
+        "title": "依顿电子：九洲集团拟增持1.00%—2.00%股份",
+        "summary": "【依顿电子：九洲集团拟增持1.00%—2.00%股份】依顿电子公告，公司控股股东四川九洲投资控股集团有限公司拟自公告披露之日起3个月内，通过上海证券交易所系统以集中竞价方式增持公司股份，增持比例不低于公司总股本的1.00%，且不超过2.00%。",
+        "publishedAt": "2026-08-07 16:50:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835200048.html",
+        "url": "https://finance.eastmoney.com/a/202608073835233090.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力",
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "硅业分会：当前工业硅市场处于“供给收缩持续强化 市场进入筑底修复”的阶段",
-        "summary": "【硅业分会：当前工业硅市场处于“供给收缩持续强化 市场进入筑底修复”的阶段】综合来看，当前工业硅市场处于“供给收缩持续强化，市场进入筑底修复”的阶段。南北方工厂因持续亏损进入检修停产周期，供应端收缩态势持续强化。虽然需求端整体偏弱，但减产带来的供给收缩正在逐步对冲过剩压力，价格底部支撑已较为明确。短期预计延续低位企稳态势，价格底部支撑明确。后期关注减产力度…",
-        "publishedAt": "2026-08-07 16:30:01",
+        "title": "振华风光：存储芯片已有约十款产品完成转产验证并实现小批量订货",
+        "summary": "【振华风光：存储芯片已有约十款产品完成转产验证并实现小批量订货】振华风光(688439.SH)发布投资者关系活动记录表公告，公司已掌握多类存储芯片核心设计、可靠性加固与自研固件技术，技术储备覆盖NOR/NAND、DDR、EEPROM、eMMC等存储架构，主打适配严苛工况的宽温高可靠存储芯片，已有约十款产品完成转产验证并实现小批量订货。",
+        "publishedAt": "2026-08-07 16:42:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835211554.html",
+        "url": "https://finance.eastmoney.com/a/202608073835224886.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "闪迪美股盘前涨4%",
-        "summary": "闪迪美股盘前涨4%，西部数据涨3.3%，美光科技涨2.4%。",
-        "publishedAt": "2026-08-07 16:29:11",
+        "title": "中国人民银行与马来西亚国家银行续签双边本币互换协议",
+        "summary": "【中国人民银行与马来西亚国家银行续签双边本币互换协议】经国务院批准，近日中国人民银行与马来西亚国家银行续签了双边本币互换协议，互换规模由原来的1800亿元人民币/1100亿马来西亚林吉特扩大至2200亿元人民币/1300亿马来西亚林吉特，协议有效期五年，经双方同意可以展期。",
+        "publishedAt": "2026-08-07 17:02:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835211130.html",
+        "url": "https://finance.eastmoney.com/a/202608073835244222.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "八家硅料企业发布倡议 知情人士称或配套惩罚措施",
-        "summary": "【八家硅料企业发布倡议 知情人士称或配套惩罚措施】其中一位参与《倡议书》签署的企业负责人独家回应记者，各大企业积极落实工信部、国家市场监督管理总局近期会议精神，“大家都是自愿倡议的。”该人士还进一步向21世纪经济报道记者透露，《倡议书》发布后或还会出台惩罚措施，加强自律。",
-        "publishedAt": "2026-08-07 16:28:07",
+        "title": "华林证券：拟2.02亿元受让海航期货94%股份",
+        "summary": "【华林证券：拟2.02亿元受让海航期货94%股份】华林证券(002945.SZ)公告称，公司拟以自有资金2.02亿元，通过协议受让海航资本及陕西扬航所持海航期货合计94%股份。交易完成后，公司将取得海航期货控制权，成为其控股股东。本次交易尚需获得证监会核准。",
+        "publishedAt": "2026-08-07 17:02:24",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835207047.html",
+        "url": "https://finance.eastmoney.com/a/202608073835244356.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "奇瑞集团法务部通报近期网谣事件处理情况",
+        "summary": "【奇瑞集团法务部通报近期网谣事件处理情况】8月7日，奇瑞集团法务部通报近期网谣事件处理情况。针对近期编造和散布谣言、侵犯公司及高管名誉权等不法行为，奇瑞通过报案、提起民事诉讼等措施依法正当维权。",
+        "publishedAt": "2026-08-07 16:58:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608073835243943.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -165410,15 +165405,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-07 16:34:47",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、AI算力、有色稀土。",
+        "generatedAt": "2026-08-07 17:06:59",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 半导体、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：创新药、PCB概念、存储芯片；首看 创新药 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -165449,7 +165444,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-07 16:33:39",
+        "generatedAt": "2026-08-07 17:05:55",
         "summary": "上午情绪分 100，涨停 74 家，跌停 4 家，炸板 26 家，连板 13 家，最高 4 板。",
         "sections": [
           {
@@ -165488,7 +165483,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-07 16:33:39",
+        "generatedAt": "2026-08-07 17:05:55",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -165514,7 +165509,7 @@
               "今日炸板 26 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：绿控传动:首次公开发行股票并在创业板上市投资风险特别公告；皖维高新:皖维高新关于最近五年未被证券监管部门和交易所采取监管措施或处罚情况的公告。",
+              "新闻/公告风险：东杰智能:关于诉讼进展暨收到撤诉裁定的公告；ST天玑:关于使用部分闲置募集资金进行现金管理的进展公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
