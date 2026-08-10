@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-10",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-10 17:39:10",
+    "generatedAt": "2026-08-10 22:22:18",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": 0.67,
       "turnover": "1.17万亿",
       "turnoverValue": 1166893282354.0,
-      "quoteTime": "2026-08-10 16:14:03",
+      "quoteTime": "2026-08-10 16:14:02",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -0.36,
       "turnover": "1285亿",
       "turnoverValue": 128470941791.0,
-      "quoteTime": "2026-08-10 16:14:15",
+      "quoteTime": "2026-08-10 16:14:14",
       "source": "腾讯直连"
     }
   ],
@@ -165359,113 +165359,87 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-10",
-    "generatedAt": "2026-08-10 17:39:55",
+    "generatedAt": "2026-08-10 22:23:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 金融、医药、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 能源、AI算力、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 23,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 6,
+        "name": "能源",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 3,
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 3,
+        "name": "金融",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
         "score": 3,
         "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "新安洁:涉及诉讼进展公告",
-        "summary": "新安洁(920370)：新安洁:涉及诉讼进展公告",
+        "title": "信濠光电:关于股票交易异常波动的公告",
+        "summary": "信濠光电(301051)：信濠光电:关于股票交易异常波动的公告",
         "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920370/AN202608101827809604.html",
+        "url": "https://data.eastmoney.com/notices/detail/301051/AN202608101827817878.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "新安洁(920370)"
+          "信濠光电(301051)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "玉禾田:关于控股股东部分股份质押及解除质押的公告",
-        "summary": "玉禾田(300815)：玉禾田:关于控股股东部分股份质押及解除质押的公告",
+        "title": "光线传媒:关于公司原持股5%以上股东减持计划期限届满暨实施情况的公告",
+        "summary": "光线传媒(300251)：光线传媒:关于公司原持股5%以上股东减持计划期限届满暨实施情况的公告",
         "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300815/AN202608101827809112.html",
+        "url": "https://data.eastmoney.com/notices/detail/300251/AN202608101827817877.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "玉禾田(300815)"
+          "光线传媒(300251)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "大千生态：新华发行集团拟减持不超1%股份",
-        "summary": "【大千生态：新华发行集团拟减持不超1%股份】8月10日，大千生态公告，持股5%以上股东新华发行集团计划通过集中竞价方式减持公司股份不超过135.72万股，即不超过公司总股本的1%。本次减持计划自公告披露之日起15个交易日后的3个月内实施，减持价格按市场价格确定。",
-        "publishedAt": "2026-08-10 17:33:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836706928.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "2连板先导基电：主营业务不包括磷化铟衬底 亦无磷化铟衬底相关业务收入及利润",
-        "summary": "【2连板先导基电：主营业务不包括磷化铟衬底 亦无磷化铟衬底相关业务收入及利润】先导基电(600641.SH)发布风险提示公告，公司关注到近期部分媒体报道和市场传闻，提及公司从事磷化铟衬底业务。经核查，公司当前主营业务不包括磷化铟衬底业务，亦无磷化铟衬底相关业务收入及利润，敬请投资者注意投资风险。",
-        "publishedAt": "2026-08-10 17:19:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836686612.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "汇宇制药：注射用帕瑞昔布钠、唑来膦酸注射液获得境外上市许可",
-        "summary": "【汇宇制药：注射用帕瑞昔布钠、唑来膦酸注射液获得境外上市许可】汇宇制药8月10日公告，公司子公司Seacross (Europe)Pharma Ltd.于近期分别收到德国联邦药品和医疗器械管理局、荷兰健康产品监管局、西班牙药品和医疗器械管理局分别核准签发的公司产品注射用帕瑞昔布钠、唑来膦酸注射液的上市许可。注射用帕瑞昔布钠是一种普通制剂，用于成人术后短期疼…",
-        "publishedAt": "2026-08-10 17:14:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836682555.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "必创科技:关于部分银行账户资金被冻结的公告",
+        "summary": "必创科技(300667)：必创科技:关于部分银行账户资金被冻结的公告",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300667/AN202608101827817615.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "医药"
+          "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "必创科技(300667)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "其他"
       },
       {
         "title": "双一科技:关于取得金融机构股票回购专项贷款承诺书的公告",
@@ -165486,165 +165460,139 @@
         "noticeType": "借贷"
       },
       {
-        "title": "毓恬冠佳:关于回购公司股份实施完成暨股份变动的公告",
-        "summary": "毓恬冠佳(301173)：毓恬冠佳:关于回购公司股份实施完成暨股份变动的公告",
+        "title": "300912凯龙高科投资者关系管理信息20260810",
+        "summary": "凯龙高科(300912)：300912凯龙高科投资者关系管理信息20260810",
         "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301173/AN202608101827809986.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "毓恬冠佳(301173)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "招商蛇口:2024年面向专业投资者公开发行公司债券(第一期)2026年付息公告",
-        "summary": "招商蛇口(001979)：招商蛇口:2024年面向专业投资者公开发行公司债券(第一期)2026年付息公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001979/AN202608101827809525.html",
+        "url": "https://data.eastmoney.com/notices/detail/300912/AN202608101827818512.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "招商蛇口(001979)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "西藏药业:投资者关系活动记录表(7月)",
-        "summary": "西藏药业(600211)：西藏药业:投资者关系活动记录表(7月)",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600211/AN202608101827809412.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "西藏药业(600211)"
+          "凯龙高科(300912)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "兴齐眼药:关于回购股份注销完成暨股份变动的公告",
-        "summary": "兴齐眼药(300573)：兴齐眼药:关于回购股份注销完成暨股份变动的公告",
+        "title": "爱司凯:兴业信托·众创致远安愉人生2109号(爱司凯)员工利益保障信托信托合同",
+        "summary": "爱司凯(300521)：爱司凯:兴业信托·众创致远安愉人生2109号(爱司凯)员工利益保障信托信托合同",
         "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300573/AN202608101827809310.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "兴齐眼药(300573)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "广合科技:2026年8月10日投资者关系活动记录表",
-        "summary": "广合科技(001389)：广合科技:2026年8月10日投资者关系活动记录表",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001389/AN202608101827808923.html",
+        "url": "https://data.eastmoney.com/notices/detail/300521/AN202608101827818044.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "广合科技(001389)"
+          "爱司凯(300521)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "重大合同"
       },
       {
-        "title": "三友联众:关于回购公司股份实施完成暨股份变动的公告",
-        "summary": "三友联众(300932)：三友联众:关于回购公司股份实施完成暨股份变动的公告",
+        "title": "爱司凯:陕国投·爱司凯2026年员工持股集合资金信托计划信托合同",
+        "summary": "爱司凯(300521)：爱司凯:陕国投·爱司凯2026年员工持股集合资金信托计划信托合同",
         "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300932/AN202608101827809175.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "三友联众(300932)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "上海瀚讯:关于开立募集资金现金管理专用结算账户的公告",
-        "summary": "上海瀚讯(300762)：上海瀚讯:关于开立募集资金现金管理专用结算账户的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300762/AN202608101827809110.html",
+        "url": "https://data.eastmoney.com/notices/detail/300521/AN202608101827818045.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "上海瀚讯(300762)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "华维设计:关于参与中大监理要约回购股份暨关联交易公告",
-        "summary": "华维设计(920427)：华维设计:关于参与中大监理要约回购股份暨关联交易公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920427/AN202608101827809081.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华维设计(920427)"
-        ],
-        "importance": 1,
-        "noticeType": "关联交易"
-      },
-      {
-        "title": "中航泰达:关于收到参股公司分红款的公告",
-        "summary": "中航泰达(920263)：中航泰达:关于收到参股公司分红款的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920263/AN202608101827809027.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "中航泰达(920263)"
+          "爱司凯(300521)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "方正电机：拟设立合资公司聚焦高性能磁驱传输系统",
-        "summary": "【方正电机：拟设立合资公司聚焦高性能磁驱传输系统】方正电机(002196.SZ)公告称，公司与间接控股股东下属企业才创一期、罗伯特博世国际投资股份公司、博世(中国)投资有限公司及江苏博众智能科技集团共同出资3900万元设立浙江乐驱科技有限公司。",
-        "publishedAt": "2026-08-10 17:23:55",
+        "title": "维宏股份:关于调整2024年限制性股票激励计划授予价格的公告",
+        "summary": "维宏股份(300508)：维宏股份:关于调整2024年限制性股票激励计划授予价格的公告",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817386.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "维宏股份(300508)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "维宏股份:关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
+        "summary": "维宏股份(300508)：维宏股份:关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817381.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "维宏股份(300508)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "维宏股份:关于2024年限制性股票激励计划首次及预留授予第二个归属期符合归属条件的公告",
+        "summary": "维宏股份(300508)：维宏股份:关于2024年限制性股票激励计划首次及预留授予第二个归属期符合归属条件的公告",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817402.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "维宏股份(300508)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "维宏股份:关于调整2023年限制性股票激励计划授予价格的公告",
+        "summary": "维宏股份(300508)：维宏股份:关于调整2023年限制性股票激励计划授予价格的公告",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817382.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "维宏股份(300508)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "维宏股份:关于2023年限制性股票激励计划第三个归属期符合归属条件的公告",
+        "summary": "维宏股份(300508)：维宏股份:关于2023年限制性股票激励计划第三个归属期符合归属条件的公告",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817393.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "维宏股份(300508)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整",
+        "summary": "【ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整】就投资者“公司最近产品大幅涨价是否属实？”的提问，ST惠伦在互动平台回复称，公司主要产品为SMD谐振器、TSX热敏晶体、TCXO振荡器和OSC振荡器。公司基于原材料价格上涨等原因对产品价格进行了相应调整。公司会时刻关注行业状态、市场需求、原材料价格等情况，综合确定产品售价。",
+        "publishedAt": "2026-08-10 22:03:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836694042.html",
+        "url": "https://finance.eastmoney.com/a/202608103836934278.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -165654,17 +165602,16 @@
         "noticeType": ""
       },
       {
-        "title": "德银Q2增持美光科技 英伟达位列第一重仓股",
-        "summary": "【德银Q2增持美光科技 英伟达位列第一重仓股】根据美国证监会(SEC)披露，德意志银行二季度持仓总市值达3440亿美元，上一季度总市值为3030亿美元，环比增长13.5%。在前十大重仓股中：英伟达跃居第一位，持仓9195.4万股，持仓市值约183.99亿美元，占投资组合比重为5.34%。从持仓比例变化来看，前五大买入标的分别是：美光科技、谷歌-A、迈威尔科…",
-        "publishedAt": "2026-08-10 17:22:57",
+        "title": "多家券商上调年底标普500指数至8000点",
+        "summary": "【多家券商上调年底标普500指数至8000点】摩根大通10日正式将标普500指数2026年底目标点位从7800点上调至8000点，主要理由是企业盈利前景稳健，同时大型科技公司加大AI投资有望显著加快营收增长。这一目标点位较标普500上周五收盘点位还有约3%的上行空间。目前至少已有七家券商预计标普500将在2026年底达到8000点。",
+        "publishedAt": "2026-08-10 21:52:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836693894.html",
+        "url": "https://finance.eastmoney.com/a/202608103836925068.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力",
-          "金融"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
@@ -165674,6 +165621,52 @@
         "title": "日本6月贸易收支-央行基于海关数据季调后(亿日元)",
         "summary": "日本6月贸易收支-央行基于海关数据季调后(亿日元)；公布 -58.08，预期 nan，前值 20.45。",
         "publishedAt": "2026-08-10 07:50",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月10日上期所每日仓单变动-原油(桶)",
+        "summary": "中国8月10日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
+        "publishedAt": "2026-08-10 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月10日上期所每日仓单变动-铜(吨)",
+        "summary": "中国8月10日上期所每日仓单变动-铜(吨)；公布 75.0，预期 nan，前值 -450.0。",
+        "publishedAt": "2026-08-10 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月新增人民币贷款-年初至今(亿元)",
+        "summary": "中国7月新增人民币贷款-年初至今(亿元)；公布 nan，预期 nan，前值 nan。",
+        "publishedAt": "2026-08-10 16:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -165800,15 +165793,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-10 17:39:55",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 金融、医药、AI算力。",
+        "generatedAt": "2026-08-10 22:23:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 能源、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：贵金属、白酒、银行；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、医药、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -165839,7 +165832,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-10 17:39:10",
+        "generatedAt": "2026-08-10 22:22:18",
         "summary": "上午情绪分 100，涨停 99 家，跌停 5 家，炸板 14 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -165878,7 +165871,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-10 17:39:10",
+        "generatedAt": "2026-08-10 22:22:18",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -165904,7 +165897,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：新安洁:涉及诉讼进展公告；玉禾田:关于控股股东部分股份质押及解除质押的公告。",
+              "新闻/公告风险：信濠光电:关于股票交易异常波动的公告；光线传媒:关于公司原持股5%以上股东减持计划期限届满暨实施情况的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
