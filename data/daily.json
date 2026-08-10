@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-07",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-07 22:19:46",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-07 22:19:46",
+    "lastNewsAt": "2026-08-10 10:42:06"
   },
   "indices": [
     {
@@ -164884,204 +164886,258 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-07",
-    "generatedAt": "2026-08-07 22:21:14",
+    "tradeDate": "2026-08-10",
+    "generatedAt": "2026-08-10 10:42:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 半导体、金融、有色稀土。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 AI算力、金融、医药。",
     "themes": [
       {
-        "name": "半导体",
-        "score": 20,
-        "isFocusBoard": true
+        "name": "AI算力",
+        "score": 15,
+        "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 12,
+        "score": 9,
         "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 6,
+        "isFocusBoard": true
       },
       {
         "name": "有色稀土",
-        "score": 2,
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "机器人",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST华谊:关于全资子公司被债权人申请重整及预重整的提示性公告",
-        "summary": "ST华谊(300027)：ST华谊:关于全资子公司被债权人申请重整及预重整的提示性公告",
-        "publishedAt": "2026-08-07",
+        "title": "关于福建水泥(600802)融资交易风险提示的公告",
+        "summary": "福建水泥(600802)：关于福建水泥(600802)融资交易风险提示的公告",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300027/AN202608071827760179.html",
+        "url": "https://data.eastmoney.com/notices/detail/600802/AN202608101827798161.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST华谊(300027)"
+          "福建水泥(600802)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "融资融券公告"
       },
       {
-        "title": "岱勒新材:关于实际控制人减持计划实施完成的公告",
-        "summary": "岱勒新材(300700)：岱勒新材:关于实际控制人减持计划实施完成的公告",
-        "publishedAt": "2026-08-07",
+        "title": "ST朗进:山东朗进科技股份有限公司关于非独立董事离任的公告",
+        "summary": "ST朗进(300594)：ST朗进:山东朗进科技股份有限公司关于非独立董事离任的公告",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300700/AN202608071827760178.html",
+        "url": "https://data.eastmoney.com/notices/detail/300594/AN202608091827791719.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "岱勒新材(300700)"
+          "ST朗进(300594)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "高管人员任职变动"
       },
       {
-        "title": "和晶科技:无锡和晶科技股份有限公司关于公司提起诉讼暨公司公开挂牌转让上海澳润信息科技有限公司100%股权的进展公告",
-        "summary": "和晶科技(300279)：和晶科技:无锡和晶科技股份有限公司关于公司提起诉讼暨公司公开挂牌转让上海澳润信息科技有限公司100%股权的进展公告",
-        "publishedAt": "2026-08-07",
+        "title": "三安光电:三安光电股份有限公司关于上海证券交易所2025年年度报告的信息披露监管问询函回复的公告",
+        "summary": "三安光电(600703)：三安光电:三安光电股份有限公司关于上海证券交易所2025年年度报告的信息披露监管问询函回复的公告",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300279/AN202608071827759483.html",
+        "url": "https://data.eastmoney.com/notices/detail/600703/AN202608091827791686.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "和晶科技(300279)"
+          "三安光电(600703)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "ST南都:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "summary": "ST南都(300068)：ST南都:关于公司股票被实施其他风险警示相关事项的进展公告",
-        "publishedAt": "2026-08-07",
+        "title": "三安光电:中审众环会计师事务所(特殊普通合伙)《关于上海证券交易所对三安光电股份有限公司2025年年度报告的信息披露监管问询函的回复》",
+        "summary": "三安光电(600703)：三安光电:中审众环会计师事务所(特殊普通合伙)《关于上海证券交易所对三安光电股份有限公司2025年年度报告的信息披露监管问询函的回复》",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300068/AN202608071827759360.html",
+        "url": "https://data.eastmoney.com/notices/detail/600703/AN202608091827791688.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "ST南都(300068)"
+          "三安光电(600703)"
         ],
         "importance": 1,
-        "noticeType": "其它风险提示公告"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "江波龙:关于签订募集资金三方监管协议的公告",
-        "summary": "江波龙(301308)：江波龙:关于签订募集资金三方监管协议的公告",
-        "publishedAt": "2026-08-07",
+        "title": "三安光电:三安光电股份有限公司独立董事关于上海证券交易所《关于公司2025年年度报告的信息披露监管问询函》相关事项的独立意见",
+        "summary": "三安光电(600703)：三安光电:三安光电股份有限公司独立董事关于上海证券交易所《关于公司2025年年度报告的信息披露监管问询函》相关事项的独立意见",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301308/AN202608071827759295.html",
+        "url": "https://data.eastmoney.com/notices/detail/600703/AN202608091827791687.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "江波龙(301308)"
+          "三安光电(600703)"
         ],
         "importance": 1,
-        "noticeType": "签订协议"
+        "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "美股存储板块进一步扩大跌幅 SK海力士跌超6%",
-        "summary": "【美股存储板块进一步扩大跌幅 SK海力士跌超6%】美股存储板块进一步扩大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，闪迪下跌5.21%，西部数据下跌5.86%，希捷科技下跌10.01%。",
-        "publishedAt": "2026-08-07 22:13:32",
+        "title": "国巨：MLCC需求非常强劲 愈来愈多客户希望提前锁定产能",
+        "summary": "【国巨：MLCC需求非常强劲 愈来愈多客户希望提前锁定产能】报道称，MLCC业界传出，有客户为求取得足够料源，不惜加价二、三倍向国巨、村田制作所等被动组件大厂要货，形成价高者得的抢料氛围，凸显MLCC供需吃紧程度持续升高。对此，国巨坦言，MLCC需求确实非常强劲，从产能利用率、客户新项目到长约需求，都看到市场热度持续升温，尤其AI相关客户为降低未来供应风险…",
+        "publishedAt": "2026-08-10 10:31:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835519840.html",
+        "url": "https://finance.eastmoney.com/a/202608103836376725.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "半导体"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美股存储板块进一步扩大跌幅 SK海力士下跌5%",
-        "summary": "【美股存储板块进一步扩大跌幅 SK海力士下跌5%】美股存储板块进一步扩大跌幅，美光科技下跌1.64%，SK海力士下跌5%，闪迪下跌2.71%，西部数据下跌4.01%，希捷科技下跌7.29%，铠侠ADR下跌4%。",
-        "publishedAt": "2026-08-07 21:59:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835493269.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "三协电机:投资者关系活动记录表",
-        "summary": "三协电机(920100)：三协电机:投资者关系活动记录表",
-        "publishedAt": "2026-08-07",
+        "title": "300733西菱动力投资者关系管理信息20260810",
+        "summary": "西菱动力(300733)：300733西菱动力投资者关系管理信息20260810",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920100/AN202608071827751349.html",
+        "url": "https://data.eastmoney.com/notices/detail/300733/AN202608101827798374.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "三协电机(920100)"
+          "西菱动力(300733)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "珈凯生物:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "summary": "珈凯生物(920165)：珈凯生物:向不特定合格投资者公开发行股票并在北京证券交易所上市公告书",
-        "publishedAt": "2026-08-07",
+        "title": "光启技术:002625光启技术投资者关系管理信息20260810",
+        "summary": "光启技术(002625)：光启技术:002625光启技术投资者关系管理信息20260810",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920165/AN202608071827753059.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "珈凯生物(920165)"
-        ],
-        "importance": 1,
-        "noticeType": "首发上市公告书"
-      },
-      {
-        "title": "301345涛涛车业投资者关系管理信息20260807",
-        "summary": "涛涛车业(301345)：301345涛涛车业投资者关系管理信息20260807",
-        "publishedAt": "2026-08-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301345/AN202608071827748754.html",
+        "url": "https://data.eastmoney.com/notices/detail/002625/AN202608101827798370.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "涛涛车业(301345)"
+          "光启技术(002625)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第四期)票面利率公告",
-        "summary": "国元证券(000728)：国元证券:国元证券股份有限公司2026年面向专业投资者公开发行公司债券(第四期)票面利率公告",
-        "publishedAt": "2026-08-07",
+        "title": "芯原股份:2026年限制性股票激励计划(草案)摘要公告",
+        "summary": "芯原股份(688521)：芯原股份:2026年限制性股票激励计划(草案)摘要公告",
+        "publishedAt": "2026-08-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000728/AN202608071827760584.html",
+        "url": "https://data.eastmoney.com/notices/detail/688521/AN202608091827791877.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "芯原股份(688521)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "芯原股份:董事会薪酬与考核委员会关于公司《2026年限制性股票激励计划(草案)》及其摘要的核查意见",
+        "summary": "芯原股份(688521)：芯原股份:董事会薪酬与考核委员会关于公司《2026年限制性股票激励计划(草案)》及其摘要的核查意见",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688521/AN202608091827791880.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "芯原股份(688521)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "芯原股份:2026年限制性股票激励计划(草案)",
+        "summary": "芯原股份(688521)：芯原股份:2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688521/AN202608091827791875.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "芯原股份(688521)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "芯原股份:2026年限制性股票激励计划首次授予部分激励对象名单",
+        "summary": "芯原股份(688521)：芯原股份:2026年限制性股票激励计划首次授予部分激励对象名单",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688521/AN202608091827791879.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "芯原股份(688521)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励对象名单"
+      },
+      {
+        "title": "映翰通:关于以集中竞价交易方式回购股份的预案",
+        "summary": "映翰通(688080)：映翰通:关于以集中竞价交易方式回购股份的预案",
+        "publishedAt": "2026-08-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688080/AN202608091827791793.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -165089,117 +165145,86 @@
           "金融"
         ],
         "tickers": [
-          "国元证券(000728)"
+          "映翰通(688080)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "回购预案"
       },
       {
-        "title": "酉立智能:华泰联合证券有限责任公司关于江苏酉立智能装备股份有限公司募集资金投资项目延期的核查意见",
-        "summary": "酉立智能(920007)：酉立智能:华泰联合证券有限责任公司关于江苏酉立智能装备股份有限公司募集资金投资项目延期的核查意见",
-        "publishedAt": "2026-08-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920007/AN202608071827759871.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "创新药爆发！港股通创新药ETF华宝涨超3%站上半年线",
+        "summary": "【创新药爆发！港股通创新药ETF华宝涨超3%站上半年线】8月10日，AH医药资产继续走强，100%创新药研发标的——港股通创新药ETF华宝（520880）盘中涨超3%强势突破半年线压力位，成交超2.7亿元。龙头股石药集团、康方生物涨超4%，百济神州、信达生物、中国生物制药集体涨超2%。",
+        "publishedAt": "2026-08-10 10:30:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608103836372724.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "医药"
         ],
-        "tickers": [
-          "酉立智能(920007)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": ""
       },
       {
-        "title": "酉立智能:募投项目延期公告",
-        "summary": "酉立智能(920007)：酉立智能:募投项目延期公告",
-        "publishedAt": "2026-08-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920007/AN202608071827759873.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "酉立智能(920007)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "宁德时代:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "summary": "宁德时代(300750)：宁德时代:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
-        "publishedAt": "2026-08-07",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300750/AN202608071827759541.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "韩国总统李在明将推动半导体与AI数据中心大型投资项目落地",
+        "summary": "【韩国总统李在明将推动半导体与AI数据中心大型投资项目落地】当地时间8月10日，韩国总统李在明将主持会议，讨论加快实施半导体制造设施和人工智能（AI）数据中心大规模投资计划的措施。",
+        "publishedAt": "2026-08-10 10:27:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608103836368613.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "半导体",
+          "AI算力"
         ],
-        "tickers": [
-          "宁德时代(300750)"
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "创新药龙头业绩超预期，创新药ETF东财盘中上涨超2.8%",
+        "summary": "【创新药龙头业绩超预期，创新药ETF东财盘中上涨超2.8%】截至8月10日10:25，创新药ETF东财（159622）盘中上涨2.86%，最新报价突破1.2，成交1.73亿元，交投活跃。跟踪指数成分股中，药明康德、百济神州、恒瑞医药、药明生物等多只个股跟涨。",
+        "publishedAt": "2026-08-10 10:27:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608103836367870.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "医药"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": ""
       },
       {
-        "title": "SpaceX盘中涨幅扩大至8.3%",
-        "summary": "SpaceX盘中涨幅扩大至8.3%，报124.000美元/股，总市值报1.63万亿美元。",
-        "publishedAt": "2026-08-07 22:16:30",
+        "title": "伊朗议会委员会批准霍尔木兹安全纲要",
+        "summary": "【伊朗议会委员会批准霍尔木兹安全纲要】伊朗议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹当地时间8月9日晚证实，伊朗议会此前提出的《确保霍尔木兹海峡安全与发展的战略行动计划》总体框架已获该委员会通过。阿齐兹称，该计划根据伊朗最高领袖穆杰塔巴·哈梅内伊的指示以及相关机构和部门的口头及书面意见制定，旨在捍卫伊朗国家利益。相关总体框架在该委员会上全票通过。",
+        "publishedAt": "2026-08-10 10:26:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835527396.html",
+        "url": "https://finance.eastmoney.com/a/202608103836369485.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美联储官员巴尔金：美国就业市场处于“疲软平衡”状态",
-        "summary": "【美联储官员巴尔金：美国就业市场处于“疲软平衡”状态】美联储官员巴尔金表示，美国就业市场处于“疲软平衡”状态。当前处于就业零增长至小幅正增长的环境。",
-        "publishedAt": "2026-08-07 22:11:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835524683.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "日本6月贸易收支-央行基于海关数据季调后(亿日元)",
+        "summary": "日本6月贸易收支-央行基于海关数据季调后(亿日元)；公布 -58.08，预期 nan，前值 20.45。",
+        "publishedAt": "2026-08-10 07:50",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "哈塞特：特朗普和沃什“时时刻刻”谈论经济问题",
-        "summary": "【哈塞特：特朗普和沃什“时时刻刻”谈论经济问题】美国白宫经济顾问哈塞特表示，特朗普和沃什“时时刻刻”谈论经济问题。",
-        "publishedAt": "2026-08-07 22:08:38",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835499434.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "哈塞特表示美国就业市场目前每月需新增约4万个岗位即可保持平衡",
-        "summary": "美国白宫经济顾问哈塞特表示，美国就业市场目前每月需新增约4万个岗位即可保持平衡。",
-        "publishedAt": "2026-08-07 22:06:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608073835495266.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -165389,7 +165414,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -165402,15 +165427,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-07 22:21:14",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 半导体、金融、有色稀土。",
+        "generatedAt": "2026-08-10 10:42:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 AI算力、金融、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：创新药、PCB概念、存储芯片；首看 创新药 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -165506,7 +165531,7 @@
               "今日炸板 26 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST华谊:关于全资子公司被债权人申请重整及预重整的提示性公告；岱勒新材:关于实际控制人减持计划实施完成的公告。",
+              "新闻/公告风险：关于福建水泥(600802)融资交易风险提示的公告；ST朗进:山东朗进科技股份有限公司关于非独立董事离任的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
