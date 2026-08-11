@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-10",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-10 22:32:42",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-10 22:32:42",
+    "lastNewsAt": "2026-08-11 10:35:57"
   },
   "indices": [
     {
@@ -165358,24 +165360,24 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-10",
-    "generatedAt": "2026-08-10 22:33:52",
+    "tradeDate": "2026-08-11",
+    "generatedAt": "2026-08-11 10:35:57",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 能源、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
-        "name": "能源",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 5,
+        "name": "有色稀土",
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "金融",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 5,
         "isFocusBoard": false
       },
@@ -165385,84 +165387,199 @@
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 3,
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "信濠光电:关于股票交易异常波动的公告",
-        "summary": "信濠光电(301051)：信濠光电:关于股票交易异常波动的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301051/AN202608101827817878.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "防范登革热、猴痘等疾病 中疾控发布健康风险提示",
+        "summary": "【防范登革热、猴痘等疾病 中疾控发布健康风险提示】中国疾病预防控制中心提示，今年8月需关注登革热、基孔肯雅热、寨卡病毒病等蚊媒传染病，埃博拉病毒病，发热伴血小板减少综合征，猴痘，食物中毒，高温中暑以及洪涝灾害可能衍生的公共卫生风险。提醒大家，避免蚊虫叮咬，尽量避免前往存在埃博拉病毒病疫情流行风险的国家和地区，提高主动就医意识。",
+        "publishedAt": "2026-08-11 10:27:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113837666981.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "信濠光电(301051)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": ""
       },
       {
-        "title": "光线传媒:关于公司原持股5%以上股东减持计划期限届满暨实施情况的公告",
-        "summary": "光线传媒(300251)：光线传媒:关于公司原持股5%以上股东减持计划期限届满暨实施情况的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300251/AN202608101827817877.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "光线传媒(300251)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "必创科技:关于部分银行账户资金被冻结的公告",
-        "summary": "必创科技(300667)：必创科技:关于部分银行账户资金被冻结的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300667/AN202608101827817615.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "台风“白海豚”过境 保险理赔已到账 极端天气频发：巨灾保险九成保障缺口待补",
+        "summary": "【台风“白海豚”过境 保险理赔已到账 极端天气频发：巨灾保险九成保障缺口待补】今年第13号台风“白海豚”带来持续影响，再次凸显了自然灾害风险对经济社会发展的影响。面对来势汹汹的台风，保险业快速响应，多家险企在台风登陆前后即完成首笔赔付，理赔速度由天级压缩至分钟级。记者从行业人员了解到，中国自然灾害风险类型多样、区域差异显著，这也决定了巨灾风险保障体系建设是…",
+        "publishedAt": "2026-08-11 10:22:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113837658756.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
           "金融"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "新恒汇:2026年限制性股票激励计划自查表",
+        "summary": "新恒汇(301678)：新恒汇:2026年限制性股票激励计划自查表",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301678/AN202608101827818594.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "必创科技(300667)"
+          "新恒汇(301678)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "新恒汇:关于使用超募资金投资建设新项目的公告",
+        "summary": "新恒汇(301678)：新恒汇:关于使用超募资金投资建设新项目的公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301678/AN202608101827818591.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新恒汇(301678)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "新恒汇:2026年限制性股票激励计划(草案)",
+        "summary": "新恒汇(301678)：新恒汇:2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301678/AN202608101827818592.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新恒汇(301678)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "新恒汇:方正证券承销保荐有限责任公司关于新恒汇电子股份有限公司使用超募资金投资建设新项目的核查意见",
+        "summary": "新恒汇(301678)：新恒汇:方正证券承销保荐有限责任公司关于新恒汇电子股份有限公司使用超募资金投资建设新项目的核查意见",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301678/AN202608101827818586.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "新恒汇(301678)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "新恒汇:2026年限制性股票激励计划(草案)摘要",
+        "summary": "新恒汇(301678)：新恒汇:2026年限制性股票激励计划(草案)摘要",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301678/AN202608101827818590.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新恒汇(301678)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "恒逸石化:关于举办2026年半年度网上业绩说明会的公告",
+        "summary": "恒逸石化(000703)：恒逸石化:关于举办2026年半年度网上业绩说明会的公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202608101827818238.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒逸石化(000703)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "对下半年干散货行情如何展望？海通发展回应",
-        "summary": "【对下半年干散货行情如何展望？海通发展回应】关于“公司对下半年干散货行情如何展望”的问题，海通发展8月10日在业绩说明会表示，短期来看，超级厄尔尼诺风险正在提升，一方面提振夏季煤炭需求，另一方面将对巴拿马运河通行产生影响。",
-        "publishedAt": "2026-08-10 22:27:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836950261.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
+        "title": "恒逸石化:关于子公司投资建设年产40万吨PA6熔体直纺项目的公告",
+        "summary": "恒逸石化(000703)：恒逸石化:关于子公司投资建设年产40万吨PA6熔体直纺项目的公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202608101827818220.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒逸石化(000703)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "其他"
       },
       {
-        "title": "双一科技:关于取得金融机构股票回购专项贷款承诺书的公告",
-        "summary": "双一科技(300690)：双一科技:关于取得金融机构股票回购专项贷款承诺书的公告",
-        "publishedAt": "2026-08-10",
+        "title": "恒逸石化:关于投资建设海宁年产30万吨废旧纺织品循环利用项目的公告",
+        "summary": "恒逸石化(000703)：恒逸石化:关于投资建设海宁年产30万吨废旧纺织品循环利用项目的公告",
+        "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300690/AN202608101827807105.html",
+        "url": "https://data.eastmoney.com/notices/detail/000703/AN202608101827818219.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒逸石化(000703)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "老百姓:2026年限制性股票激励计划首次授予激励对象名单",
+        "summary": "老百姓(603883)：老百姓:2026年限制性股票激励计划首次授予激励对象名单",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603883/AN202608101827818210.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "老百姓(603883)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励对象名单"
+      },
+      {
+        "title": "老百姓:关于以集中竞价交易方式回购股份的公告",
+        "summary": "老百姓(603883)：老百姓:关于以集中竞价交易方式回购股份的公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603883/AN202608101827818205.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -165470,145 +165587,49 @@
           "金融"
         ],
         "tickers": [
-          "双一科技(300690)"
+          "老百姓(603883)"
         ],
         "importance": 1,
-        "noticeType": "借贷"
+        "noticeType": "回购进展情况"
       },
       {
-        "title": "300912凯龙高科投资者关系管理信息20260810",
-        "summary": "凯龙高科(300912)：300912凯龙高科投资者关系管理信息20260810",
-        "publishedAt": "2026-08-10",
+        "title": "老百姓:2026年限制性股票激励计划(草案)摘要",
+        "summary": "老百姓(603883)：老百姓:2026年限制性股票激励计划(草案)摘要",
+        "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300912/AN202608101827818512.html",
+        "url": "https://data.eastmoney.com/notices/detail/603883/AN202608101827818206.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "凯龙高科(300912)"
+          "老百姓(603883)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励计划摘要"
       },
       {
-        "title": "爱司凯:兴业信托·众创致远安愉人生2109号(爱司凯)员工利益保障信托信托合同",
-        "summary": "爱司凯(300521)：爱司凯:兴业信托·众创致远安愉人生2109号(爱司凯)员工利益保障信托信托合同",
-        "publishedAt": "2026-08-10",
+        "title": "老百姓:2026年限制性股票激励计划(草案)",
+        "summary": "老百姓(603883)：老百姓:2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300521/AN202608101827818044.html",
+        "url": "https://data.eastmoney.com/notices/detail/603883/AN202608101827818207.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "爱司凯(300521)"
+          "老百姓(603883)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": "股权激励计划"
       },
       {
-        "title": "爱司凯:陕国投·爱司凯2026年员工持股集合资金信托计划信托合同",
-        "summary": "爱司凯(300521)：爱司凯:陕国投·爱司凯2026年员工持股集合资金信托计划信托合同",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300521/AN202608101827818045.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "爱司凯(300521)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "维宏股份:关于调整2024年限制性股票激励计划授予价格的公告",
-        "summary": "维宏股份(300508)：维宏股份:关于调整2024年限制性股票激励计划授予价格的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817386.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "维宏股份(300508)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "维宏股份:关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
-        "summary": "维宏股份(300508)：维宏股份:关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817381.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "维宏股份(300508)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "维宏股份:关于2024年限制性股票激励计划首次及预留授予第二个归属期符合归属条件的公告",
-        "summary": "维宏股份(300508)：维宏股份:关于2024年限制性股票激励计划首次及预留授予第二个归属期符合归属条件的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817402.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "维宏股份(300508)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "维宏股份:关于调整2023年限制性股票激励计划授予价格的公告",
-        "summary": "维宏股份(300508)：维宏股份:关于调整2023年限制性股票激励计划授予价格的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817382.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "维宏股份(300508)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "维宏股份:关于2023年限制性股票激励计划第三个归属期符合归属条件的公告",
-        "summary": "维宏股份(300508)：维宏股份:关于2023年限制性股票激励计划第三个归属期符合归属条件的公告",
-        "publishedAt": "2026-08-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300508/AN202608101827817393.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "维宏股份(300508)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整",
-        "summary": "【ST惠伦：公司基于原材料价格上涨等原因对产品价格进行了相应调整】就投资者“公司最近产品大幅涨价是否属实？”的提问，ST惠伦在互动平台回复称，公司主要产品为SMD谐振器、TSX热敏晶体、TCXO振荡器和OSC振荡器。公司基于原材料价格上涨等原因对产品价格进行了相应调整。公司会时刻关注行业状态、市场需求、原材料价格等情况，综合确定产品售价。",
-        "publishedAt": "2026-08-10 22:03:50",
+        "title": "沪深两市成交额突破1万亿元 较上一个交易日此时缩量超2800亿元",
+        "summary": "沪深两市成交额突破1万亿元，较上一个交易日此时缩量超2800亿元。",
+        "publishedAt": "2026-08-11 10:23:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836934278.html",
+        "url": "https://finance.eastmoney.com/a/202608113837662386.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -165618,55 +165639,39 @@
         "noticeType": ""
       },
       {
-        "title": "多家券商上调年底标普500指数至8000点",
-        "summary": "【多家券商上调年底标普500指数至8000点】摩根大通10日正式将标普500指数2026年底目标点位从7800点上调至8000点，主要理由是企业盈利前景稳健，同时大型科技公司加大AI投资有望显著加快营收增长。这一目标点位较标普500上周五收盘点位还有约3%的上行空间。目前至少已有七家券商预计标普500将在2026年底达到8000点。",
-        "publishedAt": "2026-08-10 21:52:46",
+        "title": "美联储年内不会加息？高盛预言下半年“三大顺风” 建议投资者别撤！",
+        "summary": "【美联储年内不会加息？高盛预言下半年“三大顺风” 建议投资者别撤！】近日，高盛全球银行和市场联席主管AshokVaradhan向担心利率上升、油价高企和经济可持续性的投资者传达了一个简单的信息：继续持有资产、留在市场，不要撤！",
+        "publishedAt": "2026-08-11 10:20:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608103836925068.html",
+        "url": "https://finance.eastmoney.com/a/202608113837659821.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "日本6月贸易收支-央行基于海关数据季调后(亿日元)",
-        "summary": "日本6月贸易收支-央行基于海关数据季调后(亿日元)；公布 -58.08，预期 nan，前值 20.45。",
-        "publishedAt": "2026-08-10 07:50",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "武汉海尔追加投资建零部件新工厂 预计年内全面投产",
+        "summary": "【武汉海尔追加投资建零部件新工厂 预计年内全面投产】8月10日，武汉经开区海尔工业园智能化车间内，四条柔性总装线满负荷运转。“上半年产量已完成全年目标的59%，超额完成任务。”武汉海尔空调工厂智造生产平台长李娟接受采访时称，今年已在武汉追加投资建零部件新工厂，自主生产管组、注钣、电脑板等配套零部件，预计年内全面投产。",
+        "publishedAt": "2026-08-11 10:19:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113837660650.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "中国8月10日上期所每日仓单变动-原油(桶)",
-        "summary": "中国8月10日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
-        "publishedAt": "2026-08-10 15:10",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国8月10日上期所每日仓单变动-铜(吨)",
-        "summary": "中国8月10日上期所每日仓单变动-铜(吨)；公布 75.0，预期 nan，前值 -450.0。",
-        "publishedAt": "2026-08-10 15:10",
+        "title": "美国8月10日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国8月10日SPDR黄金持仓-每日更新(吨)；公布 1020.96，预期 nan，前值 1017.54。",
+        "publishedAt": "2026-08-11 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -165782,7 +165787,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -165795,15 +165800,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-10 22:33:52",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 能源、AI算力、金融。",
+        "generatedAt": "2026-08-11 10:35:57",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：贵金属、白酒、银行；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -165899,7 +165904,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：信濠光电:关于股票交易异常波动的公告；光线传媒:关于公司原持股5%以上股东减持计划期限届满暨实施情况的公告。",
+              "新闻/公告风险：防范登革热、猴痘等疾病 中疾控发布健康风险提示；台风“白海豚”过境 保险理赔已到账 极端天气频发：巨灾保险九成保障缺口待补。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
