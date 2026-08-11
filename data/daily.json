@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-11 17:05:04",
+    "generatedAt": "2026-08-11 22:32:22",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -167166,260 +167166,110 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-11",
-    "generatedAt": "2026-08-11 17:05:46",
+    "generatedAt": "2026-08-11 22:35:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 AI算力、有色稀土、金融。",
+    "errors": [
+      "notices: HTTPSConnectionPool(host='np-anotice-stock.eastmoney.com', port=443): Max retries exceeded with url: /api/security/ann?sr=-1&page_size=100&page_index=14&ann_type=A&client_source=web&f_node=0&s_node=0&begin_time=2026-08-11&end_time=2026-08-11 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、能源、机器人。",
     "themes": [
-      {
-        "name": "AI算力",
-        "score": 16,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 9,
+        "name": "能源",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 4,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 3,
+        "name": "金融",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "金运激光:关于收到公司实际控制人的刑事判决书的公告",
-        "summary": "金运激光(300220)：金运激光:关于收到公司实际控制人的刑事判决书的公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300220/AN202608111827858438.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "金运激光(300220)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "ST美晨:关于累计诉讼、仲裁及进展情况的公告",
-        "summary": "ST美晨(300237)：ST美晨:关于累计诉讼、仲裁及进展情况的公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300237/AN202608111827859183.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST美晨(300237)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "科隆股份:关于子公司诉讼事项的进展公告",
-        "summary": "科隆股份(300405)：科隆股份:关于子公司诉讼事项的进展公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300405/AN202608111827858399.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "科隆股份(300405)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "大唐药业:股东拟减持股份的预披露公告",
-        "summary": "大唐药业(920433)：大唐药业:股东拟减持股份的预披露公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920433/AN202608111827857865.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "大唐药业(920433)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "*ST赛为:关于董事会延期换届的提示性公告",
-        "summary": "*ST赛为(300044)：*ST赛为:关于董事会延期换届的提示性公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300044/AN202608111827857551.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST赛为(300044)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "微导纳米:投资者关系活动记录表(2026年7月)",
-        "summary": "微导纳米(688147)：微导纳米:投资者关系活动记录表(2026年7月)",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688147/AN202608111827858464.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "微导纳米(688147)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "晶科科技:投资者关系活动记录表(7月)",
-        "summary": "晶科科技(601778)：晶科科技:投资者关系活动记录表(7月)",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601778/AN202608111827858456.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "晶科科技(601778)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华宇软件:关于子公司开展应收款项债务重组的公告",
-        "summary": "华宇软件(300271)：华宇软件:关于子公司开展应收款项债务重组的公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300271/AN202608111827857812.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华宇软件(300271)"
-        ],
-        "importance": 1,
-        "noticeType": "债务重组"
-      },
-      {
-        "title": "广康生化:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
-        "summary": "广康生化(300804)：广康生化:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300804/AN202608111827856539.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "广康生化(300804)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "本川智能:关于与专业投资机构共同投资的进展公告",
-        "summary": "本川智能(300964)：本川智能:关于与专业投资机构共同投资的进展公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300964/AN202608111827856224.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "本川智能(300964)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "胜蓝股份:关于首次回购公司股份的公告",
-        "summary": "胜蓝股份(300843)：胜蓝股份:关于首次回购公司股份的公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300843/AN202608111827856203.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "胜蓝股份(300843)"
-        ],
-        "importance": 1,
-        "noticeType": "回购实施公告"
-      },
-      {
-        "title": "天岳先进:投资者关系活动记录表(2026-007)",
-        "summary": "天岳先进(688234)：天岳先进:投资者关系活动记录表(2026-007)",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688234/AN202608111827855642.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天岳先进(688234)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式",
-        "summary": "【上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式】上海市经济和信息化委员会印发《上海市软件和信息服务业发展“十五五”规划》。其中提到，加快智算云产业数智化转型。创新算力要素市场化改革，持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式。",
-        "publishedAt": "2026-08-11 16:59:29",
+        "title": "Manus：将恢复以独立公司的形式运营 部分用户数据将被删除",
+        "summary": "【Manus：将恢复以独立公司的形式运营 部分用户数据将被删除】8月11日，Manus发布《致Manus用户的一封信》。Manus表示，即将恢复以独立公司的形式运营，作为恢复独立运营的一部分，同时为遵守特定司法辖区的监管要求，部分用户在2025年12月29日当天或之后产生的数据，将于2026年8月23日08:00起至8月24日期间（SGT）被删除。",
+        "publishedAt": "2026-08-11 22:22:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113837934332.html",
+        "url": "https://finance.eastmoney.com/a/202608113838218995.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
+        "summary": "【报告：上半年全球自然灾害所致经济损失达千亿美元】全球最大再保险公司之一瑞士再保险公司8月11日说，今年上半年全球自然灾害造成的经济损失据估算已达1000亿美元，较去年同期的1520亿美元大幅减少。但今年下半年，厄尔尼诺现象可能会加剧气象灾害的破坏力，风险不容忽视。",
+        "publishedAt": "2026-08-11 21:54:49",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838200489.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
-          "AI算力"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "上海印发《上海市软件和信息服务业发展“十五五”规划》",
-        "summary": "【上海印发《上海市软件和信息服务业发展“十五五”规划》】到2030年，把上海软件和信息服务业打造成经济增长“动力源”，AI赋能应用“主阵地”，参与全球竞争“桥头堡”，主要实现以下目标：产业总量规模进一步扩大，产业规模力争达到4万亿元，产业增加值突破1.1万亿元。产业质量效益进一步提升，在人工智能、关键软件等重点领域取得一批突破性成果，营收超百亿元企业增至3…",
-        "publishedAt": "2026-08-11 16:57:38",
+        "title": "Circle涨超8% Bitwise称投资者严重低估其增长机会",
+        "summary": "Circle涨超8%，Bitwise称投资者严重低估其增长机会。",
+        "publishedAt": "2026-08-11 22:17:17",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113837931698.html",
+        "url": "https://finance.eastmoney.com/a/202608113838217359.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "广汽旗下人形机器人公司慧仑科技完成亿元融资",
+        "summary": "【广汽旗下人形机器人公司慧仑科技完成亿元融资】据广汽集团消息，近日，广汽集团孵化的人形机器人公司广东慧仑科技有限公司（简称“慧仑科技”）宣布完成超亿元融资，由中车国创基金、招银国际、四川科创等机构联合投资。",
+        "publishedAt": "2026-08-11 22:11:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838213598.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "机器人"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "朗科智能：公司间接持有宇树科技的股份比例约为0.0379%",
+        "summary": "【朗科智能：公司间接持有宇树科技的股份比例约为0.0379%】朗科智能在互动平台表示，截至2026年8月10日，根据最新的工商登记信息及宇树科技上市招股意向书，公司投资的江苏疌泉红土智能创业投资基金（有限合伙）持有宇树科技股份有限公司0.5934%的股份，股权穿透后公司间接持有宇树科技的股份比例约为0.0379%；公司与宇树科技暂无其他业务合作。",
+        "publishedAt": "2026-08-11 21:57:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838203526.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -167484,6 +167334,140 @@
         ],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至8月9日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至8月9日当周ANZ消费者信心指数；公布 75.0，预期 nan，前值 74.7。",
+        "publishedAt": "2026-08-11 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚8月11日现金利率(%)",
+        "summary": "澳大利亚8月11日现金利率(%)；公布 4.35，预期 4.35，前值 4.35。",
+        "publishedAt": "2026-08-11 12:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月11日上期所每日仓单变动-原油(桶)",
+        "summary": "中国8月11日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
+        "publishedAt": "2026-08-11 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月11日上期所每日仓单变动-铜(吨)",
+        "summary": "中国8月11日上期所每日仓单变动-铜(吨)；公布 126.0，预期 nan，前值 75.0。",
+        "publishedAt": "2026-08-11 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "TD Synnex扩大IBM业务分销范围",
+        "summary": "TDSynnex扩大IBM业务分销范围，以加速由合作伙伴主导的全球性增长。",
+        "publishedAt": "2026-08-11 22:28:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838221890.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗外交部长与巴基斯坦内政部长举行会谈",
+        "summary": "据伊朗方面消息，伊朗外交部长与巴基斯坦内政部长举行会谈。",
+        "publishedAt": "2026-08-11 22:26:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838219634.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗天然气日产能9月有望回升近1亿立方米",
+        "summary": "【伊朗天然气日产能9月有望回升近1亿立方米】伊朗石油部长穆赫辛·帕克内贾德11日说，伊朗正在修复因战事受损的天然气生产设施，按计划9月底前其日产能可回升9500万立方米。这个数量接近伊朗因战事而损失的天然气日产量的一半。隶属于伊朗石油部的沙纳通讯社援引帕克内贾德的话报道，伊朗将在9月底前恢复因南部阿萨卢耶天然气处理设施遇袭而损失的约9500万立方米天然气日…",
+        "publishedAt": "2026-08-11 22:20:55",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838217233.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "纵慧芯光高端光通信芯片及器件研发制造基地落户常州",
+        "summary": "【纵慧芯光高端光通信芯片及器件研发制造基地落户常州】据“常州发布”，8月11日上午，纵慧芯光高端光通信芯片及器件研发制造基地签约落户常州。本次签约项目持续投入总计约50亿元，将重点建设磷化铟高端激光芯片研发及量产产线，助推国内光通信核心芯片的国产化进程。",
+        "publishedAt": "2026-08-11 22:13:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838213012.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "连日高温晴热 河西走廊农作物受影响 旱情或将持续",
+        "summary": "【连日高温晴热 河西走廊农作物受影响 旱情或将持续】甘肃省河西走廊连日来的高温晴热天气，对农作物灌溉产生不利影响。张掖市种植玉米160余万亩，其中制种玉米110万亩左右。总台记者在甘州区一处制种玉米种植基地看到，受高温少雨缺水多因素影响，农作物生长状况欠佳。在一些田块，处于灌浆后期的玉米苞叶干枯，籽粒数量少于往年。",
+        "publishedAt": "2026-08-11 22:10:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113838211231.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -167623,15 +167607,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-11 17:05:46",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 AI算力、有色稀土、金融。",
+        "generatedAt": "2026-08-11 22:35:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、能源、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：光伏设备；首看 光伏设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -167662,7 +167646,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-11 17:05:04",
+        "generatedAt": "2026-08-11 22:32:22",
         "summary": "上午情绪分 100，涨停 58 家，跌停 1 家，炸板 17 家，连板 16 家，最高 6 板。",
         "sections": [
           {
@@ -167701,7 +167685,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-11 17:05:04",
+        "generatedAt": "2026-08-11 22:32:22",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -167727,7 +167711,7 @@
               "今日炸板 17 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：金运激光:关于收到公司实际控制人的刑事判决书的公告；ST美晨:关于累计诉讼、仲裁及进展情况的公告。",
+              "新闻/公告风险：Manus：将恢复以独立公司的形式运营 部分用户数据将被删除；报告：上半年全球自然灾害所致经济损失达千亿美元。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
