@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-11 16:29:23",
+    "generatedAt": "2026-08-11 16:38:11",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -0.82,
       "turnover": "1.07万亿",
       "turnoverValue": 1066737091823.0,
-      "quoteTime": "2026-08-11 16:14:03",
+      "quoteTime": "2026-08-11 16:14:01",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -1.63,
       "turnover": "1104亿",
       "turnoverValue": 110405794278.0,
-      "quoteTime": "2026-08-11 16:14:15",
+      "quoteTime": "2026-08-11 16:14:13",
       "source": "腾讯直连"
     }
   ],
@@ -167166,29 +167166,29 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-11",
-    "generatedAt": "2026-08-11 16:30:22",
+    "generatedAt": "2026-08-11 16:39:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 9,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 8,
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 10,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -167197,77 +167197,118 @@
         "isFocusBoard": false
       },
       {
+        "name": "机器人",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
         "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST围海:关于签订重大合同的公告",
-        "summary": "ST围海(002586)：ST围海:关于签订重大合同的公告",
+        "title": "大唐药业:股东拟减持股份的预披露公告",
+        "summary": "大唐药业(920433)：大唐药业:股东拟减持股份的预披露公告",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002586/AN202608101827818060.html",
+        "url": "https://data.eastmoney.com/notices/detail/920433/AN202608111827857865.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST围海(002586)"
+          "大唐药业(920433)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "ST长方:关于撤销部分其他风险警示情形暨继续被实施其他风险警示的公告",
-        "summary": "ST长方(300301)：ST长方:关于撤销部分其他风险警示情形暨继续被实施其他风险警示的公告",
+        "title": "*ST赛为:关于董事会延期换届的提示性公告",
+        "summary": "*ST赛为(300044)：*ST赛为:关于董事会延期换届的提示性公告",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300301/AN202608101827817998.html",
+        "url": "https://data.eastmoney.com/notices/detail/300044/AN202608111827857551.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST长方(300301)"
+          "*ST赛为(300044)"
         ],
         "importance": 1,
-        "noticeType": "其它风险提示公告"
+        "noticeType": "高管人员任职变动"
       },
       {
-        "title": "华人健康:关于公司最近五年未被证券监管部门和证券交易所采取监管措施或处罚情况的公告",
-        "summary": "华人健康(301408)：华人健康:关于公司最近五年未被证券监管部门和证券交易所采取监管措施或处罚情况的公告",
+        "title": "关于四川长虹新能源科技股份有限公司向特定对象发行股票申请文件的审核问询函",
+        "summary": "长虹能源(920239)：关于四川长虹新能源科技股份有限公司向特定对象发行股票申请文件的审核问询函",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301408/AN202608101827817684.html",
+        "url": "https://data.eastmoney.com/notices/detail/920239/AN202608111827855863.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "金融"
+          "新能源",
+          "能源"
         ],
         "tickers": [
-          "华人健康(301408)"
+          "长虹能源(920239)"
         ],
         "importance": 1,
-        "noticeType": "自查报告"
+        "noticeType": "北交所再融资问询与回复"
       },
       {
-        "title": "藏格矿业:关于紫金矿业集团财务有限公司的风险持续评估报告",
-        "summary": "藏格矿业(000408)：藏格矿业:关于紫金矿业集团财务有限公司的风险持续评估报告",
+        "title": "2国浩律师(福州)事务所关于福建阿石创新材料股份有限公司2025年度向特定对象发行人民币普通股(A股)股票并上市之补充法律意见书(二)(豁免版)",
+        "summary": "阿石创(300706)：2国浩律师(福州)事务所关于福建阿石创新材料股份有限公司2025年度向特定对象发行人民币普通股(A股)股票并上市之补充法律意见书(二)(豁免版)",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000408/AN202608101827817542.html",
+        "url": "https://data.eastmoney.com/notices/detail/300706/AN202608111827854237.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "藏格矿业(000408)"
+          "阿石创(300706)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "创业板再融资问询与回复"
+      },
+      {
+        "title": "3补充法律意见书(一)(深圳市英可瑞科技股份有限公司)",
+        "summary": "英可瑞(300713)：3补充法律意见书(一)(深圳市英可瑞科技股份有限公司)",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300713/AN202608111827854245.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "英可瑞(300713)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板再融资问询与回复"
+      },
+      {
+        "title": "在岸人民币兑美元收盘报6.7457",
+        "summary": "【在岸人民币兑美元收盘报6.7457】在岸人民币兑美元收盘报6.7457，较上一交易日下跌15点。",
+        "publishedAt": "2026-08-11 16:33:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113837894774.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "印尼股票基准指数下跌2%",
@@ -167284,43 +167325,59 @@
         "noticeType": ""
       },
       {
-        "title": "贝特利:与投资者保护相关的承诺",
-        "summary": "贝特利(301697)：贝特利:与投资者保护相关的承诺",
+        "title": "华宇软件:关于子公司开展应收款项债务重组的公告",
+        "summary": "华宇软件(300271)：华宇软件:关于子公司开展应收款项债务重组的公告",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301697/AN202608101827817916.html",
+        "url": "https://data.eastmoney.com/notices/detail/300271/AN202608111827857812.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "贝特利(301697)"
+          "华宇软件(300271)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "债务重组"
       },
       {
-        "title": "贝特利:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "summary": "贝特利(301697)：贝特利:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "title": "广康生化:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "summary": "广康生化(300804)：广康生化:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301697/AN202608101827817920.html",
+        "url": "https://data.eastmoney.com/notices/detail/300804/AN202608111827856539.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "贝特利(301697)"
+          "广康生化(300804)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "华人健康:未来三年(2026-2028年)股东分红回报规划",
-        "summary": "华人健康(301408)：华人健康:未来三年(2026-2028年)股东分红回报规划",
+        "title": "本川智能:关于与专业投资机构共同投资的进展公告",
+        "summary": "本川智能(300964)：本川智能:关于与专业投资机构共同投资的进展公告",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301408/AN202608101827817669.html",
+        "url": "https://data.eastmoney.com/notices/detail/300964/AN202608111827856224.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "本川智能(300964)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "胜蓝股份:关于首次回购公司股份的公告",
+        "summary": "胜蓝股份(300843)：胜蓝股份:关于首次回购公司股份的公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300843/AN202608111827856203.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -167328,74 +167385,77 @@
           "金融"
         ],
         "tickers": [
-          "华人健康(301408)"
+          "胜蓝股份(300843)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "回购实施公告"
       },
       {
-        "title": "华人健康:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "华人健康(301408)：华人健康:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "title": "天岳先进:投资者关系活动记录表(2026-007)",
+        "summary": "天岳先进(688234)：天岳先进:投资者关系活动记录表(2026-007)",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301408/AN202608101827817664.html",
+        "url": "https://data.eastmoney.com/notices/detail/688234/AN202608111827855642.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "华人健康(301408)"
+          "天岳先进(688234)"
         ],
         "importance": 1,
-        "noticeType": "获得补贴（资助）"
+        "noticeType": "调研活动"
       },
       {
-        "title": "藏格矿业:董事会执行与投资委员会工作细则(2026年8月)",
-        "summary": "藏格矿业(000408)：藏格矿业:董事会执行与投资委员会工作细则(2026年8月)",
+        "title": "西部矿业:20260807明汯投资、东吴证券调研记录表",
+        "summary": "西部矿业(601168)：西部矿业:20260807明汯投资、东吴证券调研记录表",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000408/AN202608101827817534.html",
+        "url": "https://data.eastmoney.com/notices/detail/601168/AN202608111827855644.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "西部矿业(601168)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "天合光能:2026年8月7日投资者关系活动记录表",
+        "summary": "天合光能(688599)：天合光能:2026年8月7日投资者关系活动记录表",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688599/AN202608111827855640.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "藏格矿业(000408)"
+          "天合光能(688599)"
         ],
         "importance": 1,
-        "noticeType": "议事规则/实施细则"
+        "noticeType": "调研活动"
       },
       {
-        "title": "藏格矿业:关于召开2026年半年度网上业绩说明会的公告",
-        "summary": "藏格矿业(000408)：藏格矿业:关于召开2026年半年度网上业绩说明会的公告",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000408/AN202608101827817546.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "高盛称AI投资重点正转向人形机器人 2027年至2029年或迎规模化部署",
+        "summary": "【高盛称AI投资重点正转向人形机器人 2027年至2029年或迎规模化部署】高盛最新报告显示，随着人工智能计算基础设施投资持续扩张，AI投资主题正从算力竞赛转向终端应用，人形机器人有望成为下一阶段增长引擎。高盛认为，劳动力短缺和自动化需求将为机器人产业提供长期结构性支撑。高盛预计，人形机器人仍处于从技术验证向商业化过渡阶段，大规模部署可能在2027年至20…",
+        "publishedAt": "2026-08-11 16:31:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608113837893356.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "藏格矿业(000408)"
+        "themes": [
+          "AI算力",
+          "机器人"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "藏格矿业:投资者关系管理制度(2026年8月)",
-        "summary": "藏格矿业(000408)：藏格矿业:投资者关系管理制度(2026年8月)",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000408/AN202608101827817538.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "藏格矿业(000408)"
-        ],
-        "importance": 1,
-        "noticeType": "管理办法/制度"
+        "noticeType": ""
       },
       {
         "title": "布伦特原油期货突破90美元/桶 日内涨超2.6%",
@@ -167441,50 +167501,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月10日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月10日iShares白银持仓-每日更新(吨)；公布 15206.72，预期 nan，前值 15172.99。",
-        "publishedAt": "2026-08-11 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月10日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月10日iShares黄金持仓-每日更新(吨)；公布 456.84，预期 nan，前值 457.89。",
-        "publishedAt": "2026-08-11 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚截至8月9日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至8月9日当周ANZ消费者信心指数；公布 75.0，预期 nan，前值 74.7。",
-        "publishedAt": "2026-08-11 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -167626,15 +167642,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-11 16:30:22",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-08-11 16:39:00",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：光伏设备；首看 光伏设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -167665,7 +167681,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-11 16:29:23",
+        "generatedAt": "2026-08-11 16:38:11",
         "summary": "上午情绪分 100，涨停 58 家，跌停 1 家，炸板 17 家，连板 16 家，最高 6 板。",
         "sections": [
           {
@@ -167704,7 +167720,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-11 16:29:23",
+        "generatedAt": "2026-08-11 16:38:11",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -167730,7 +167746,7 @@
               "今日炸板 17 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST围海:关于签订重大合同的公告；ST长方:关于撤销部分其他风险警示情形暨继续被实施其他风险警示的公告。",
+              "新闻/公告风险：大唐药业:股东拟减持股份的预披露公告；*ST赛为:关于董事会延期换届的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
