@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-11",
     "phase": "盘中快照",
-    "generatedAt": "2026-08-11 12:48:46",
+    "generatedAt": "2026-08-11 12:53:41",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -164613,14 +164613,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-11",
-    "generatedAt": "2026-08-11 12:49:51",
+    "generatedAt": "2026-08-11 12:54:50",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
     "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、金融、半导体。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
@@ -164630,12 +164630,22 @@
       },
       {
         "name": "半导体",
-        "score": 10,
+        "score": 5,
         "isFocusBoard": true
       },
       {
         "name": "能源",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -165031,7 +165041,7 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-11 12:49:51",
+        "generatedAt": "2026-08-11 12:54:50",
         "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、金融、半导体。",
         "sections": [
           {
@@ -165070,7 +165080,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-11 12:48:46",
+        "generatedAt": "2026-08-11 12:53:41",
         "summary": "上午情绪分 100，涨停 48 家，跌停 0 家，炸板 11 家，连板 15 家，最高 6 板。",
         "sections": [
           {
@@ -165109,7 +165119,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-11 12:48:46",
+        "generatedAt": "2026-08-11 12:53:41",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
