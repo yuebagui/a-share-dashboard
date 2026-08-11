@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-11 16:38:11",
+    "generatedAt": "2026-08-11 17:05:04",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -167166,53 +167166,86 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-11",
-    "generatedAt": "2026-08-11 16:39:00",
+    "generatedAt": "2026-08-11 17:05:46",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 AI算力、有色稀土、金融。",
     "themes": [
+      {
+        "name": "AI算力",
+        "score": 16,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 3,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
+        "name": "能源",
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "金运激光:关于收到公司实际控制人的刑事判决书的公告",
+        "summary": "金运激光(300220)：金运激光:关于收到公司实际控制人的刑事判决书的公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300220/AN202608111827858438.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "金运激光(300220)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "ST美晨:关于累计诉讼、仲裁及进展情况的公告",
+        "summary": "ST美晨(300237)：ST美晨:关于累计诉讼、仲裁及进展情况的公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300237/AN202608111827859183.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST美晨(300237)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "科隆股份:关于子公司诉讼事项的进展公告",
+        "summary": "科隆股份(300405)：科隆股份:关于子公司诉讼事项的进展公告",
+        "publishedAt": "2026-08-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300405/AN202608111827858399.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "科隆股份(300405)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
       {
         "title": "大唐药业:股东拟减持股份的预披露公告",
         "summary": "大唐药业(920433)：大唐药业:股东拟减持股份的预披露公告",
@@ -167246,83 +167279,36 @@
         "noticeType": "高管人员任职变动"
       },
       {
-        "title": "关于四川长虹新能源科技股份有限公司向特定对象发行股票申请文件的审核问询函",
-        "summary": "长虹能源(920239)：关于四川长虹新能源科技股份有限公司向特定对象发行股票申请文件的审核问询函",
+        "title": "微导纳米:投资者关系活动记录表(2026年7月)",
+        "summary": "微导纳米(688147)：微导纳米:投资者关系活动记录表(2026年7月)",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920239/AN202608111827855863.html",
+        "url": "https://data.eastmoney.com/notices/detail/688147/AN202608111827858464.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "新能源",
-          "能源"
-        ],
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "长虹能源(920239)"
+          "微导纳米(688147)"
         ],
         "importance": 1,
-        "noticeType": "北交所再融资问询与回复"
+        "noticeType": "调研活动"
       },
       {
-        "title": "2国浩律师(福州)事务所关于福建阿石创新材料股份有限公司2025年度向特定对象发行人民币普通股(A股)股票并上市之补充法律意见书(二)(豁免版)",
-        "summary": "阿石创(300706)：2国浩律师(福州)事务所关于福建阿石创新材料股份有限公司2025年度向特定对象发行人民币普通股(A股)股票并上市之补充法律意见书(二)(豁免版)",
+        "title": "晶科科技:投资者关系活动记录表(7月)",
+        "summary": "晶科科技(601778)：晶科科技:投资者关系活动记录表(7月)",
         "publishedAt": "2026-08-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300706/AN202608111827854237.html",
+        "url": "https://data.eastmoney.com/notices/detail/601778/AN202608111827858456.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "阿石创(300706)"
+          "晶科科技(601778)"
         ],
         "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
-      },
-      {
-        "title": "3补充法律意见书(一)(深圳市英可瑞科技股份有限公司)",
-        "summary": "英可瑞(300713)：3补充法律意见书(一)(深圳市英可瑞科技股份有限公司)",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300713/AN202608111827854245.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "英可瑞(300713)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
-      },
-      {
-        "title": "在岸人民币兑美元收盘报6.7457",
-        "summary": "【在岸人民币兑美元收盘报6.7457】在岸人民币兑美元收盘报6.7457，较上一交易日下跌15点。",
-        "publishedAt": "2026-08-11 16:33:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113837894774.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "印尼股票基准指数下跌2%",
-        "summary": "印尼股票基准指数下跌2%至6,238.02点。",
-        "publishedAt": "2026-08-11 16:24:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113837883567.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
         "title": "华宇软件:关于子公司开展应收款项债务重组的公告",
@@ -167407,67 +167393,32 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "西部矿业:20260807明汯投资、东吴证券调研记录表",
-        "summary": "西部矿业(601168)：西部矿业:20260807明汯投资、东吴证券调研记录表",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601168/AN202608111827855644.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "西部矿业(601168)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "天合光能:2026年8月7日投资者关系活动记录表",
-        "summary": "天合光能(688599)：天合光能:2026年8月7日投资者关系活动记录表",
-        "publishedAt": "2026-08-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688599/AN202608111827855640.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天合光能(688599)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "高盛称AI投资重点正转向人形机器人 2027年至2029年或迎规模化部署",
-        "summary": "【高盛称AI投资重点正转向人形机器人 2027年至2029年或迎规模化部署】高盛最新报告显示，随着人工智能计算基础设施投资持续扩张，AI投资主题正从算力竞赛转向终端应用，人形机器人有望成为下一阶段增长引擎。高盛认为，劳动力短缺和自动化需求将为机器人产业提供长期结构性支撑。高盛预计，人形机器人仍处于从技术验证向商业化过渡阶段，大规模部署可能在2027年至20…",
-        "publishedAt": "2026-08-11 16:31:32",
+        "title": "上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式",
+        "summary": "【上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式】上海市经济和信息化委员会印发《上海市软件和信息服务业发展“十五五”规划》。其中提到，加快智算云产业数智化转型。创新算力要素市场化改革，持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式。",
+        "publishedAt": "2026-08-11 16:59:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113837893356.html",
+        "url": "https://finance.eastmoney.com/a/202608113837934332.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力",
-          "机器人"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "布伦特原油期货突破90美元/桶 日内涨超2.6%",
-        "summary": "【布伦特原油期货突破90美元/桶 日内涨超2.6%】WTI原油期货价格涨2.72%，报84.366美元/桶；布伦特原油期货价格涨超2.6%，报90美元/桶。",
-        "publishedAt": "2026-08-11 16:24:35",
+        "title": "上海印发《上海市软件和信息服务业发展“十五五”规划》",
+        "summary": "【上海印发《上海市软件和信息服务业发展“十五五”规划》】到2030年，把上海软件和信息服务业打造成经济增长“动力源”，AI赋能应用“主阵地”，参与全球竞争“桥头堡”，主要实现以下目标：产业总量规模进一步扩大，产业规模力争达到4万亿元，产业增加值突破1.1万亿元。产业质量效益进一步提升，在人工智能、关键软件等重点领域取得一批突破性成果，营收超百亿元企业增至3…",
+        "publishedAt": "2026-08-11 16:57:38",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113837880831.html",
+        "url": "https://finance.eastmoney.com/a/202608113837931698.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "能源"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
@@ -167492,6 +167443,36 @@
       {
         "title": "美国8月7日COMEX黄金库存-每日更新(百盎司)",
         "summary": "美国8月7日COMEX黄金库存-每日更新(百盎司)；公布 266022.37，预期 nan，前值 267082.84。",
+        "publishedAt": "2026-08-11 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月10日iShares白银持仓-每日更新(吨)",
+        "summary": "美国8月10日iShares白银持仓-每日更新(吨)；公布 15206.72，预期 nan，前值 15172.99。",
+        "publishedAt": "2026-08-11 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月10日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月10日iShares黄金持仓-每日更新(吨)；公布 456.84，预期 nan，前值 457.89。",
         "publishedAt": "2026-08-11 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -167642,15 +167623,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-11 16:39:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-08-11 17:05:46",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 AI算力、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：光伏设备；首看 光伏设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -167681,7 +167662,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-11 16:38:11",
+        "generatedAt": "2026-08-11 17:05:04",
         "summary": "上午情绪分 100，涨停 58 家，跌停 1 家，炸板 17 家，连板 16 家，最高 6 板。",
         "sections": [
           {
@@ -167720,7 +167701,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-11 16:38:11",
+        "generatedAt": "2026-08-11 17:05:04",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -167746,7 +167727,7 @@
               "今日炸板 17 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：大唐药业:股东拟减持股份的预披露公告；*ST赛为:关于董事会延期换届的提示性公告。",
+              "新闻/公告风险：金运激光:关于收到公司实际控制人的刑事判决书的公告；ST美晨:关于累计诉讼、仲裁及进展情况的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
