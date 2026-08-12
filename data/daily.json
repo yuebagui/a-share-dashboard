@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-11",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-11 22:32:22",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-11 22:32:22",
+    "lastNewsAt": "2026-08-12 11:06:05"
   },
   "indices": [
     {
@@ -167165,26 +167167,39 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-11",
-    "generatedAt": "2026-08-11 22:35:10",
+    "tradeDate": "2026-08-12",
+    "generatedAt": "2026-08-12 11:06:05",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: HTTPSConnectionPool(host='np-anotice-stock.eastmoney.com', port=443): Max retries exceeded with url: /api/security/ann?sr=-1&page_size=100&page_index=14&ann_type=A&client_source=web&f_node=0&s_node=0&begin_time=2026-08-11&end_time=2026-08-11 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、能源、机器人。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 能源、有色稀土、金融。",
     "themes": [
       {
-        "name": "有色稀土",
+        "name": "能源",
         "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
+        "name": "AI算力",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 3,
         "isFocusBoard": false
       },
@@ -167194,35 +167209,231 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "Manus：将恢复以独立公司的形式运营 部分用户数据将被删除",
-        "summary": "【Manus：将恢复以独立公司的形式运营 部分用户数据将被删除】8月11日，Manus发布《致Manus用户的一封信》。Manus表示，即将恢复以独立公司的形式运营，作为恢复独立运营的一部分，同时为遵守特定司法辖区的监管要求，部分用户在2025年12月29日当天或之后产生的数据，将于2026年8月23日08:00起至8月24日期间（SGT）被删除。",
-        "publishedAt": "2026-08-11 22:22:45",
+        "title": "关于芯原微电子(上海)股份有限公司股权激励事项的监管工作函",
+        "summary": "芯原股份(688521)：关于芯原微电子(上海)股份有限公司股权激励事项的监管工作函",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688521/AN202608121827889667.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "芯原股份(688521)"
+        ],
+        "importance": 1,
+        "noticeType": "上交所股票监管工作函"
+      },
+      {
+        "title": "ST椰岛:ST椰岛第八届董事会第五十四次会议决议公告",
+        "summary": "ST椰岛(600238)：ST椰岛:ST椰岛第八届董事会第五十四次会议决议公告",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600238/AN202608111827866885.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST椰岛(600238)"
+        ],
+        "importance": 1,
+        "noticeType": "董事会决议公告"
+      },
+      {
+        "title": "ST椰岛:ST椰岛关于子公司签署《和解协议》暨债务重组的公告",
+        "summary": "ST椰岛(600238)：ST椰岛:ST椰岛关于子公司签署《和解协议》暨债务重组的公告",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600238/AN202608111827866884.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST椰岛(600238)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
+      {
+        "title": "盈方微:关于盈方微电子股份有限公司发行股份购买资产并募集配套资金申请的审核问询函中有关评估事项的回复",
+        "summary": "盈方微(000670)：盈方微:关于盈方微电子股份有限公司发行股份购买资产并募集配套资金申请的审核问询函中有关评估事项的回复",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000670/AN202608111827866694.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "盈方微(000670)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "盈方微:关于盈方微电子股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函中有关财务事项的说明",
+        "summary": "盈方微(000670)：盈方微:关于盈方微电子股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函中有关财务事项的说明",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000670/AN202608111827866689.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "盈方微(000670)"
+        ],
+        "importance": 1,
+        "noticeType": "其他增发事项公告"
+      },
+      {
+        "title": "盈方微:盈方微电子股份有限公司关于深圳证券交易所《关于盈方微电子股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函》的回复",
+        "summary": "盈方微(000670)：盈方微:盈方微电子股份有限公司关于深圳证券交易所《关于盈方微电子股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函》的回复",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000670/AN202608111827866695.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "盈方微(000670)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "盈方微:国泰海通证券股份有限公司关于深圳证券交易所《关于盈方微电子股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函》回复之核查意见",
+        "summary": "盈方微(000670)：盈方微:国泰海通证券股份有限公司关于深圳证券交易所《关于盈方微电子股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函》回复之核查意见",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000670/AN202608111827866690.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "盈方微(000670)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "天海防务:300008天海防务投资者关系管理信息20260811",
+        "summary": "天海防务(300008)：天海防务:300008天海防务投资者关系管理信息20260811",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300008/AN202608121827890421.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天海防务(300008)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "塔牌集团:2026年8月11日投资者关系活动记录表",
+        "summary": "塔牌集团(002233)：塔牌集团:2026年8月11日投资者关系活动记录表",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002233/AN202608121827884114.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "塔牌集团(002233)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "古麒绒材:安徽古麒绒材股份有限公司2026年限制性股票激励计划(草案)摘要",
+        "summary": "古麒绒材(001390)：古麒绒材:安徽古麒绒材股份有限公司2026年限制性股票激励计划(草案)摘要",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001390/AN202608111827866722.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "古麒绒材(001390)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "古麒绒材:安徽古麒绒材股份有限公司2026年限制性股票激励计划(草案)",
+        "summary": "古麒绒材(001390)：古麒绒材:安徽古麒绒材股份有限公司2026年限制性股票激励计划(草案)",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001390/AN202608111827866729.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "古麒绒材(001390)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "古麒绒材:上市公司股权激励计划自查表",
+        "summary": "古麒绒材(001390)：古麒绒材:上市公司股权激励计划自查表",
+        "publishedAt": "2026-08-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001390/AN202608111827866724.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "古麒绒材(001390)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励其他事项公告"
+      },
+      {
+        "title": "A股股价第一、第二名双双涨超7%",
+        "summary": "【A股股价第一、第二名双双涨超7%】8月12日，共封装光学（CPO）板块走高，炬光科技“20CM”涨停，天孚通信涨超7%，A股“股王”联讯仪器、A股第二高价股源杰科技双双大涨超7%。截至发稿，联讯仪器股价突破2200元，报2210元/股；源杰科技股价报1449.97元/股。A股股价前十个股有9只上涨。",
+        "publishedAt": "2026-08-12 11:02:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838218995.html",
+        "url": "https://finance.eastmoney.com/a/202608123838971779.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "报告：上半年全球自然灾害所致经济损失达千亿美元",
-        "summary": "【报告：上半年全球自然灾害所致经济损失达千亿美元】全球最大再保险公司之一瑞士再保险公司8月11日说，今年上半年全球自然灾害造成的经济损失据估算已达1000亿美元，较去年同期的1520亿美元大幅减少。但今年下半年，厄尔尼诺现象可能会加剧气象灾害的破坏力，风险不容忽视。",
-        "publishedAt": "2026-08-11 21:54:49",
+        "title": "浙江：强化脑机接口企业全生命周期金融支持 推动脑机接口企业选择合适上市方式",
+        "summary": "【浙江：强化脑机接口企业全生命周期金融支持 推动脑机接口企业选择合适上市方式】浙江省人民政府办公厅印发《关于推进脑机接口产学研联动的若干措施》的通知。其中提到，强化金融支持。发挥省“4+1”专项基金、浙江社保科创基金作用，以市场化方式积极支持有潜力的脑机接口企业和优质研发管线项目，引导社会资本投早、投小、投长期、投硬科技。用好“民营企业申请产业基金股权融资…",
+        "publishedAt": "2026-08-12 11:00:24",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838200489.html",
+        "url": "https://finance.eastmoney.com/a/202608123838970330.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
@@ -167231,143 +167442,26 @@
         "noticeType": ""
       },
       {
-        "title": "Circle涨超8% Bitwise称投资者严重低估其增长机会",
-        "summary": "Circle涨超8%，Bitwise称投资者严重低估其增长机会。",
-        "publishedAt": "2026-08-11 22:17:17",
+        "title": "新能源板块集体反弹！科创新能源ETF易方达（589960）涨2.29%，储能政策密集催化，光伏供给侧出清加速",
+        "summary": "【新能源板块集体反弹！科创新能源ETF易方达（589960）涨2.29%，储能政策密集催化，光伏供给侧出清加速】截至2026年8月12日10:50，科创新能源ETF易方达（589960）上涨2.29%，报0.894元，盘中最高触及0.894元，最低0.874元，开盘价0.886元，成交额达1648万元，板块内多只成分股同步走强，交投情绪明显回暖。",
+        "publishedAt": "2026-08-12 10:54:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838217359.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "广汽旗下人形机器人公司慧仑科技完成亿元融资",
-        "summary": "【广汽旗下人形机器人公司慧仑科技完成亿元融资】据广汽集团消息，近日，广汽集团孵化的人形机器人公司广东慧仑科技有限公司（简称“慧仑科技”）宣布完成超亿元融资，由中车国创基金、招银国际、四川科创等机构联合投资。",
-        "publishedAt": "2026-08-11 22:11:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838213598.html",
+        "url": "https://finance.eastmoney.com/a/202608123838970577.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "机器人"
+          "新能源",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "朗科智能：公司间接持有宇树科技的股份比例约为0.0379%",
-        "summary": "【朗科智能：公司间接持有宇树科技的股份比例约为0.0379%】朗科智能在互动平台表示，截至2026年8月10日，根据最新的工商登记信息及宇树科技上市招股意向书，公司投资的江苏疌泉红土智能创业投资基金（有限合伙）持有宇树科技股份有限公司0.5934%的股份，股权穿透后公司间接持有宇树科技的股份比例约为0.0379%；公司与宇树科技暂无其他业务合作。",
-        "publishedAt": "2026-08-11 21:57:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838203526.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月10日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国8月10日SPDR黄金持仓-每日更新(吨)；公布 1020.96，预期 nan，前值 1017.54。",
-        "publishedAt": "2026-08-11 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月7日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月7日COMEX黄金库存-每日更新(百盎司)；公布 266022.37，预期 nan，前值 267082.84。",
-        "publishedAt": "2026-08-11 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月10日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月10日iShares白银持仓-每日更新(吨)；公布 15206.72，预期 nan，前值 15172.99。",
-        "publishedAt": "2026-08-11 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月10日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月10日iShares黄金持仓-每日更新(吨)；公布 456.84，预期 nan，前值 457.89。",
-        "publishedAt": "2026-08-11 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚截至8月9日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至8月9日当周ANZ消费者信心指数；公布 75.0，预期 nan，前值 74.7。",
-        "publishedAt": "2026-08-11 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚8月11日现金利率(%)",
-        "summary": "澳大利亚8月11日现金利率(%)；公布 4.35，预期 4.35，前值 4.35。",
-        "publishedAt": "2026-08-11 12:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国8月11日上期所每日仓单变动-原油(桶)",
-        "summary": "中国8月11日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
-        "publishedAt": "2026-08-11 15:10",
+        "title": "美国8月EIA月报预估-当年布伦特原油价格(美元/桶)",
+        "summary": "美国8月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 86.81，预期 nan，前值 81.82。",
+        "publishedAt": "2026-08-12 00:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -167381,93 +167475,35 @@
         "noticeType": ""
       },
       {
-        "title": "中国8月11日上期所每日仓单变动-铜(吨)",
-        "summary": "中国8月11日上期所每日仓单变动-铜(吨)；公布 126.0，预期 nan，前值 75.0。",
-        "publishedAt": "2026-08-11 15:10",
+        "title": "美国8月EIA月报预估-当年WTI原油价格(美元/桶)",
+        "summary": "美国8月EIA月报预估-当年WTI原油价格(美元/桶)；公布 80.88，预期 nan，前值 76.26。",
+        "publishedAt": "2026-08-12 00:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "TD Synnex扩大IBM业务分销范围",
-        "summary": "TDSynnex扩大IBM业务分销范围，以加速由合作伙伴主导的全球性增长。",
-        "publishedAt": "2026-08-11 22:28:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838221890.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗外交部长与巴基斯坦内政部长举行会谈",
-        "summary": "据伊朗方面消息，伊朗外交部长与巴基斯坦内政部长举行会谈。",
-        "publishedAt": "2026-08-11 22:26:28",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838219634.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗天然气日产能9月有望回升近1亿立方米",
-        "summary": "【伊朗天然气日产能9月有望回升近1亿立方米】伊朗石油部长穆赫辛·帕克内贾德11日说，伊朗正在修复因战事受损的天然气生产设施，按计划9月底前其日产能可回升9500万立方米。这个数量接近伊朗因战事而损失的天然气日产量的一半。隶属于伊朗石油部的沙纳通讯社援引帕克内贾德的话报道，伊朗将在9月底前恢复因南部阿萨卢耶天然气处理设施遇袭而损失的约9500万立方米天然气日…",
-        "publishedAt": "2026-08-11 22:20:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838217233.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国截至8月7日当周API原油库存变动(万桶)",
+        "summary": "美国截至8月7日当周API原油库存变动(万桶)；公布 907.2，预期 -50.0，前值 269.0。",
+        "publishedAt": "2026-08-12 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
           "能源"
         ],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "纵慧芯光高端光通信芯片及器件研发制造基地落户常州",
-        "summary": "【纵慧芯光高端光通信芯片及器件研发制造基地落户常州】据“常州发布”，8月11日上午，纵慧芯光高端光通信芯片及器件研发制造基地签约落户常州。本次签约项目持续投入总计约50亿元，将重点建设磷化铟高端激光芯片研发及量产产线，助推国内光通信核心芯片的国产化进程。",
-        "publishedAt": "2026-08-11 22:13:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838213012.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "连日高温晴热 河西走廊农作物受影响 旱情或将持续",
-        "summary": "【连日高温晴热 河西走廊农作物受影响 旱情或将持续】甘肃省河西走廊连日来的高温晴热天气，对农作物灌溉产生不利影响。张掖市种植玉米160余万亩，其中制种玉米110万亩左右。总台记者在甘州区一处制种玉米种植基地看到，受高温少雨缺水多因素影响，农作物生长状况欠佳。在一些田块，处于灌浆后期的玉米苞叶干枯，籽粒数量少于往年。",
-        "publishedAt": "2026-08-11 22:10:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608113838211231.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -167594,7 +167630,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -167607,15 +167643,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-11 22:35:10",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、能源、机器人。",
+        "generatedAt": "2026-08-12 11:06:05",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 能源、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：光伏设备；首看 光伏设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、机器人；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -167711,7 +167747,7 @@
               "今日炸板 17 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：Manus：将恢复以独立公司的形式运营 部分用户数据将被删除；报告：上半年全球自然灾害所致经济损失达千亿美元。",
+              "新闻/公告风险：关于芯原微电子(上海)股份有限公司股权激励事项的监管工作函；ST椰岛:ST椰岛第八届董事会第五十四次会议决议公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
