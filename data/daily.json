@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-13",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-13 17:18:19",
+    "generatedAt": "2026-08-13 22:24:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -167636,10 +167636,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-13",
-    "generatedAt": "2026-08-13 17:19:35",
+    "generatedAt": "2026-08-13 22:25:04",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、半导体、金融。",
     "themes": [
       {
         "name": "有色稀土",
@@ -167647,158 +167647,81 @@
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 6,
+        "name": "半导体",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 6,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "易明医药:关于原持股5%以上股东减持计划实施完成的公告",
-        "summary": "易明医药(002826)：易明医药:关于原持股5%以上股东减持计划实施完成的公告",
+        "title": "发行人及中介机构关于审核中心意见落实函的回复(东莞优邦材料科技股份有限公司)",
+        "summary": "优邦科技(A23268)：发行人及中介机构关于审核中心意见落实函的回复(东莞优邦材料科技股份有限公司)",
         "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002826/AN202608121827911703.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "易明医药(002826)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "*ST启环:关于公司预重整事项进展的公告",
-        "summary": "*ST启环(000826)：*ST启环:关于公司预重整事项进展的公告",
-        "publishedAt": "2026-08-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000826/AN202608121827911704.html",
+        "url": "https://data.eastmoney.com/notices/detail/A23268/AN202608131827948119.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST启环(000826)"
+          "优邦科技(A23268)"
         ],
         "importance": 1,
-        "noticeType": "重组进展公告"
+        "noticeType": "创业板IPO问询与回复"
       },
       {
-        "title": "鸿博股份:2026-042关于股价异动的公告",
-        "summary": "鸿博股份(002229)：鸿博股份:2026-042关于股价异动的公告",
+        "title": "8-1-2发行人及中介机构关于审核问询函的回复(第二轮)(傲拓科技股份有限公司)",
+        "summary": "傲拓科技(A25019)：8-1-2发行人及中介机构关于审核问询函的回复(第二轮)(傲拓科技股份有限公司)",
         "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002229/AN202608121827911471.html",
+        "url": "https://data.eastmoney.com/notices/detail/A25019/AN202608131827951299.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "鸿博股份(002229)"
+          "傲拓科技(A25019)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "科创板发行上市问询与回复"
       },
       {
-        "title": "ST新华锦:新华锦关于公司股票被实施其他风险警示事项及2026年半年度报告编制的进展公告",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦关于公司股票被实施其他风险警示事项及2026年半年度报告编制的进展公告",
+        "title": "铭利达:关于子公司募集资金账户部分资金被冻结的公告",
+        "summary": "铭利达(301268)：铭利达:关于子公司募集资金账户部分资金被冻结的公告",
         "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202608121827911391.html",
+        "url": "https://data.eastmoney.com/notices/detail/301268/AN202608131827948842.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST新华锦(600735)"
+          "铭利达(301268)"
         ],
         "importance": 1,
-        "noticeType": "其它风险提示公告"
+        "noticeType": "其他"
       },
       {
-        "title": "亚泰集团:吉林亚泰(集团)股份有限公司股票交易异常波动公告",
-        "summary": "亚泰集团(600881)：亚泰集团:吉林亚泰(集团)股份有限公司股票交易异常波动公告",
-        "publishedAt": "2026-08-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600881/AN202608121827911325.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "亚泰集团(600881)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "城地香江:上海城地香江数据科技股份有限公司股票交易异常波动公告",
-        "summary": "城地香江(603887)：城地香江:上海城地香江数据科技股份有限公司股票交易异常波动公告",
-        "publishedAt": "2026-08-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603887/AN202608121827911323.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "城地香江(603887)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "城地香江:谢晓东关于收到《上海城地香江数据科技股份有限公司股票交易异常波动问询函》的回复",
-        "summary": "城地香江(603887)：城地香江:谢晓东关于收到《上海城地香江数据科技股份有限公司股票交易异常波动问询函》的回复",
-        "publishedAt": "2026-08-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603887/AN202608121827911320.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "城地香江(603887)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "上海国际能源交易中心：对部分客户采取限制开仓监管措施",
-        "summary": "【上海国际能源交易中心：对部分客户采取限制开仓监管措施】2026年8月13日，1组实际控制关系账户在相关合约上账户组日内开仓交易量超限达到上海国际能源交易中心处理标准。上述客户交易行为违反《上海国际能源交易中心异常交易行为管理细则》第16条之规定，上期能源决定对相关客户在相应品种上采取限制开仓的监管措施。",
-        "publishedAt": "2026-08-13 17:12:36",
+        "title": "美国2年期国债收益率延续跌势 下跌6.2个基点",
+        "summary": "【美国2年期国债收益率延续跌势 下跌6.2个基点】美国2年期国债收益率延续跌势，下跌6.2个基点，最新报4.136%，触及7月中旬以来最低水平。",
+        "publishedAt": "2026-08-13 21:58:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608133840521941.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "乌称已提出结束冲突新建议 俄称“不了解”",
-        "summary": "【乌称已提出结束冲突新建议 俄称“不了解”】俄罗斯副外长里亚布科夫当地时间8月13日表示，俄方不了解乌克兰总统泽连斯基关于结束俄乌冲突的提议。里亚布科夫称，美国总统特使威特科夫和特朗普女婿库什纳到访俄罗斯一事仍在关注之中，一旦美方代表团的计划明确，俄方能够迅速安排接待。",
-        "publishedAt": "2026-08-13 17:09:27",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608133840519859.html",
+        "url": "https://finance.eastmoney.com/a/202608133840761991.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -167808,99 +167731,173 @@
         "noticeType": ""
       },
       {
-        "title": "通宇通讯:关于与专业投资机构共同投资的进展公告",
-        "summary": "通宇通讯(002792)：通宇通讯:关于与专业投资机构共同投资的进展公告",
+        "title": "歌力思:投资者关系活动汇总表(2026年4-7月)",
+        "summary": "歌力思(603808)：歌力思:投资者关系活动汇总表(2026年4-7月)",
         "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002792/AN202608121827911517.html",
+        "url": "https://data.eastmoney.com/notices/detail/603808/AN202608131827939704.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "通宇通讯(002792)"
+          "歌力思(603808)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "威贸电子:投资者关系活动记录表",
+        "summary": "威贸电子(920346)：威贸电子:投资者关系活动记录表",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920346/AN202608131827939550.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "威贸电子(920346)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "信德新材:2026年8月13日投资者关系活动记录表",
+        "summary": "信德新材(301349)：信德新材:2026年8月13日投资者关系活动记录表",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301349/AN202608131827950264.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "信德新材(301349)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "深交所并购重组审核委员会2026年第12次审议会议结果公告",
+        "summary": "华天科技(002185)：深交所并购重组审核委员会2026年第12次审议会议结果公告",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002185/AN202608131827949618.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华天科技(002185)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板并购重组委会议结果公告"
+      },
+      {
+        "title": "行云科技股份有限公司投资者关系活动记录表",
+        "summary": "行云科技(300209)：行云科技股份有限公司投资者关系活动记录表",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300209/AN202608131827949261.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "行云科技(300209)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "熊猫乳品:关于对中证中小投资者服务中心《股东建议函》回复的公告",
+        "summary": "熊猫乳品(300898)：熊猫乳品:关于对中证中小投资者服务中心《股东建议函》回复的公告",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300898/AN202608131827949181.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "熊猫乳品(300898)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "汤臣倍健:关于与专业投资机构共同投资的进展公告",
+        "summary": "汤臣倍健(300146)：汤臣倍健:关于与专业投资机构共同投资的进展公告",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300146/AN202608131827948626.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汤臣倍健(300146)"
         ],
         "importance": 1,
         "noticeType": "投资设立公司"
       },
       {
-        "title": "风华高科:关于注销回购股份、减少注册资本暨通知债权人的公告",
-        "summary": "风华高科(000636)：风华高科:关于注销回购股份、减少注册资本暨通知债权人的公告",
+        "title": "豪恩汽电:关于2024年股票期权激励计划首次授予第二个行权期第二批次期权采用自主行权模式的提示性公告",
+        "summary": "豪恩汽电(301488)：豪恩汽电:关于2024年股票期权激励计划首次授予第二个行权期第二批次期权采用自主行权模式的提示性公告",
         "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000636/AN202608121827911472.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "风华高科(000636)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "天孚通信:2026年限制性股票激励计划(草案)摘要",
-        "summary": "天孚通信(300394)：天孚通信:2026年限制性股票激励计划(草案)摘要",
-        "publishedAt": "2026-08-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202608121827910916.html",
+        "url": "https://data.eastmoney.com/notices/detail/301488/AN202608131827948622.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "天孚通信(300394)"
+          "豪恩汽电(301488)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划摘要"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "天孚通信:2026年限制性股票激励计划自查表",
-        "summary": "天孚通信(300394)：天孚通信:2026年限制性股票激励计划自查表",
+        "title": "渤海租赁:渤海租赁股份有限公司2018年面向合格投资者公开发行公司债券(第二期)部分本金兑付公告",
+        "summary": "渤海租赁(000415)：渤海租赁:渤海租赁股份有限公司2018年面向合格投资者公开发行公司债券(第二期)部分本金兑付公告",
         "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202608121827910934.html",
+        "url": "https://data.eastmoney.com/notices/detail/000415/AN202608131827948341.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "天孚通信(300394)"
+          "渤海租赁(000415)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "其他"
       },
       {
-        "title": "天孚通信:2026年限制性股票激励计划(草案)",
-        "summary": "天孚通信(300394)：天孚通信:2026年限制性股票激励计划(草案)",
-        "publishedAt": "2026-08-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202608121827910930.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天孚通信(300394)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "央行：8月14日开展10000亿元买断式逆回购操作",
-        "summary": "【央行：8月14日开展10000亿元买断式逆回购操作】为保持银行体系流动性充裕，2026年8月14日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展10000亿元买断式逆回购操作，期限为6个月（185天），到期日为2027年2月15日（遇节假日顺延）。",
-        "publishedAt": "2026-08-13 17:02:16",
+        "title": "标普500指数续刷记录新高",
+        "summary": "标普500指数涨0.6%，报7794.18点，突破8月初的高点续刷记录新高。",
+        "publishedAt": "2026-08-13 21:56:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608133840498162.html",
+        "url": "https://finance.eastmoney.com/a/202608133840757559.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "闪迪CEO：公司致力于实现中高双位数的出货量增长",
+        "summary": "【闪迪CEO：公司致力于实现中高双位数的出货量增长】闪迪CEO在投资者日上表示，公司致力于实现中高双位数的出货量增长。",
+        "publishedAt": "2026-08-13 21:50:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608133840754913.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -168217,15 +168214,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-13 17:19:35",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-08-13 22:25:04",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、半导体、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -168256,7 +168253,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-13 17:18:19",
+        "generatedAt": "2026-08-13 22:24:28",
         "summary": "上午情绪分 100，涨停 59 家，跌停 4 家，炸板 36 家，连板 22 家，最高 5 板。",
         "sections": [
           {
@@ -168295,7 +168292,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-13 17:18:19",
+        "generatedAt": "2026-08-13 22:24:28",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -168321,7 +168318,7 @@
               "今日炸板 36 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：易明医药:关于原持股5%以上股东减持计划实施完成的公告；*ST启环:关于公司预重整事项进展的公告。",
+              "新闻/公告风险：发行人及中介机构关于审核中心意见落实函的回复(东莞优邦材料科技股份有限公司)；8-1-2发行人及中介机构关于审核问询函的回复(第二轮)(傲拓科技股份有限公司)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
