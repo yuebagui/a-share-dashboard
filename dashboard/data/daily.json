@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-13",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-13 22:24:28",
+    "generatedAt": "2026-08-13 22:33:49",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -167636,19 +167636,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-13",
-    "generatedAt": "2026-08-13 22:25:04",
+    "generatedAt": "2026-08-13 22:34:41",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、半导体、金融。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 AI算力、金融、能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 4,
+        "name": "AI算力",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -167658,11 +167655,6 @@
       },
       {
         "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
@@ -167875,6 +167867,22 @@
         "noticeType": "其他"
       },
       {
+        "title": "公司互动丨这些公司披露在AI等方面最新情况",
+        "summary": "【公司互动丨这些公司披露在AI等方面最新情况】8月13日，多家上市公司通过互动平台、披露投资者关系活动记录表等渠道披露公司在AI等方面最新情况：",
+        "publishedAt": "2026-08-13 22:30:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608133840784182.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "标普500指数续刷记录新高",
         "summary": "标普500指数涨0.6%，报7794.18点，突破8月初的高点续刷记录新高。",
         "publishedAt": "2026-08-13 21:56:41",
@@ -167889,59 +167897,47 @@
         "noticeType": ""
       },
       {
-        "title": "闪迪CEO：公司致力于实现中高双位数的出货量增长",
-        "summary": "【闪迪CEO：公司致力于实现中高双位数的出货量增长】闪迪CEO在投资者日上表示，公司致力于实现中高双位数的出货量增长。",
-        "publishedAt": "2026-08-13 21:50:53",
+        "title": "纳斯达克综合指数涨幅扩大至1%",
+        "summary": "【纳斯达克综合指数涨幅扩大至1%】美股震荡走高，道琼斯指数涨0.45%，报54013.46点；标普500指数涨0.86%，报7815.19点；纳斯达克综合指数涨1.01%，报26855.91点。",
+        "publishedAt": "2026-08-13 22:30:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608133840754913.html",
+        "url": "https://finance.eastmoney.com/a/202608133840783826.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月12日10年期国债竞拍-中标利率(%)",
-        "summary": "美国8月12日10年期国债竞拍-中标利率(%)；公布 4.68，预期 nan，前值 4.58。",
-        "publishedAt": "2026-08-13 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "国家外汇管理局深圳市分局：办理外汇业务不收取任何形式的“备案费”",
+        "summary": "【国家外汇管理局深圳市分局：办理外汇业务不收取任何形式的“备案费”】国家外汇管理局深圳市分局从未以纸质文件、邮件或电话等形式向任何企业、个人等主体发送要求缴纳“备案费”等通知。国家外汇管理局深圳市分局办理外汇业务，不收取任何形式的“备案费”。",
+        "publishedAt": "2026-08-13 22:21:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608133840778648.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月12日10年期国债竞拍-总金额(亿美元)",
-        "summary": "美国8月12日10年期国债竞拍-总金额(亿美元)；公布 526.36，预期 nan，前值 390.0。",
-        "publishedAt": "2026-08-13 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
+        "title": "美国数据及人工智能公司Databricks完成50亿美元融资",
+        "summary": "【美国数据及人工智能公司Databricks完成50亿美元融资】美国数据及人工智能公司Databricks完成50亿美元融资，估值达1900亿美元。",
+        "publishedAt": "2026-08-13 22:20:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608133840776536.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月12日10年期国债竞拍-高收益率(%)",
-        "summary": "美国8月12日10年期国债竞拍-高收益率(%)；公布 4.68，预期 nan，前值 4.58。",
-        "publishedAt": "2026-08-13 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -168214,15 +168210,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-13 22:25:04",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、半导体、金融。",
+        "generatedAt": "2026-08-13 22:34:41",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 AI算力、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -168253,7 +168249,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-13 22:24:28",
+        "generatedAt": "2026-08-13 22:33:49",
         "summary": "上午情绪分 100，涨停 59 家，跌停 4 家，炸板 36 家，连板 22 家，最高 5 板。",
         "sections": [
           {
@@ -168292,7 +168288,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-13 22:24:28",
+        "generatedAt": "2026-08-13 22:33:49",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
