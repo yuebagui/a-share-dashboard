@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-12",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-12 22:33:08",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-12 22:33:08",
+    "lastNewsAt": "2026-08-13 11:08:38"
   },
   "indices": [
     {
@@ -169828,57 +169830,141 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-12",
-    "generatedAt": "2026-08-12 22:34:24",
+    "tradeDate": "2026-08-13",
+    "generatedAt": "2026-08-13 11:08:38",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 AI算力、半导体、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 9 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
+        "name": "有色稀土",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
-        "score": 16,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 10,
-        "isFocusBoard": true
-      },
-      {
-        "name": "能源",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 5,
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "医药",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "四川川环科技股份有限公司与中信建投证券股份有限公司关于四川川环科技股份有限公司申请向特定对象发行股票的审核问询函之回复",
-        "summary": "川环科技(300547)：四川川环科技股份有限公司与中信建投证券股份有限公司关于四川川环科技股份有限公司申请向特定对象发行股票的审核问询函之回复",
-        "publishedAt": "2026-08-12",
+        "title": "ST围海:2026年第二次临时股东会决议公告",
+        "summary": "ST围海(002586)：ST围海:2026年第二次临时股东会决议公告",
+        "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300547/AN202608121827912233.html",
+        "url": "https://data.eastmoney.com/notices/detail/002586/AN202608121827911999.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST围海(002586)"
+        ],
+        "importance": 1,
+        "noticeType": "股东大会决议公告"
+      },
+      {
+        "title": "ST围海:上海市锦天城律师事务所关于浙江省围海建设集团股份有限公司2026年第二次临时股东会的法律意见书",
+        "summary": "ST围海(002586)：ST围海:上海市锦天城律师事务所关于浙江省围海建设集团股份有限公司2026年第二次临时股东会的法律意见书",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002586/AN202608121827912001.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST围海(002586)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "ST围海:关于申请撤销对公司股票交易实施其他风险警示的公告",
+        "summary": "ST围海(002586)：ST围海:关于申请撤销对公司股票交易实施其他风险警示的公告",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002586/AN202608121827912000.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST围海(002586)"
+        ],
+        "importance": 1,
+        "noticeType": "申请撤销风险警示及特别处理"
+      },
+      {
+        "title": "ST围海:第八届董事会第一次会议决议公告",
+        "summary": "ST围海(002586)：ST围海:第八届董事会第一次会议决议公告",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002586/AN202608121827911988.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST围海(002586)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "ST围海:关于董事会换届选举及聘任高级管理人员等相关人员的公告",
+        "summary": "ST围海(002586)：ST围海:关于董事会换届选举及聘任高级管理人员等相关人员的公告",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002586/AN202608121827911952.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST围海(002586)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "兆日科技:董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+        "summary": "兆日科技(300333)：兆日科技:董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300333/AN202608121827911836.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "兆日科技(300333)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "兆日科技:董事会关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定的不得参与上市公司重大资产重组情形的说明",
+        "summary": "兆日科技(300333)：兆日科技:董事会关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定的不得参与上市公司重大资产重组情形的说明",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300333/AN202608121827911828.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -169886,283 +169972,181 @@
           "金融"
         ],
         "tickers": [
-          "川环科技(300547)"
+          "兆日科技(300333)"
         ],
         "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
+        "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "北京市金杜律师事务所关于四川川环科技股份有限公司向特定对象发行Ａ股股票的补充法律意见书(二)",
-        "summary": "川环科技(300547)：北京市金杜律师事务所关于四川川环科技股份有限公司向特定对象发行Ａ股股票的补充法律意见书(二)",
-        "publishedAt": "2026-08-12",
+        "title": "兆日科技:关于筹划发行股份购买资产及控制权变更的一般风险提示暨股票复牌公告",
+        "summary": "兆日科技(300333)：兆日科技:关于筹划发行股份购买资产及控制权变更的一般风险提示暨股票复牌公告",
+        "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300547/AN202608121827912232.html",
+        "url": "https://data.eastmoney.com/notices/detail/300333/AN202608121827911837.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "川环科技(300547)"
+          "兆日科技(300333)"
         ],
         "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
+        "noticeType": "复牌公告"
       },
       {
-        "title": "信永中和会计师事务所关于四川川环科技股份有限公司申请向特定对象发行股票的审核问询函相关问题之回复",
-        "summary": "川环科技(300547)：信永中和会计师事务所关于四川川环科技股份有限公司申请向特定对象发行股票的审核问询函相关问题之回复",
-        "publishedAt": "2026-08-12",
+        "title": "兆日科技:关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
+        "summary": "兆日科技(300333)：兆日科技:关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条、第二十一条以及《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
+        "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300547/AN202608121827912234.html",
+        "url": "https://data.eastmoney.com/notices/detail/300333/AN202608121827911833.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "川环科技(300547)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
-      },
-      {
-        "title": "广信科技:关于使用部分闲置自有资金进行现金管理的进展公告",
-        "summary": "广信科技(920037)：广信科技:关于使用部分闲置自有资金进行现金管理的进展公告",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920037/AN202608121827903755.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "广信科技(920037)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "海宁皮城:海宁中国皮革城股份有限公司2026年面向专业投资者公开发行绿色公司债券(第一期)票面利率公告",
-        "summary": "海宁皮城(002344)：海宁皮城:海宁中国皮革城股份有限公司2026年面向专业投资者公开发行绿色公司债券(第一期)票面利率公告",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002344/AN202608121827912548.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海宁皮城(002344)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "汉仪股份:2026年8月12日投资者关系活动记录表",
-        "summary": "汉仪股份(301270)：汉仪股份:2026年8月12日投资者关系活动记录表",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301270/AN202608121827911557.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汉仪股份(301270)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "多瑞医药:关于使用公司闲置自有资金进行现金管理的进展公告",
-        "summary": "多瑞医药(301075)：多瑞医药:关于使用公司闲置自有资金进行现金管理的进展公告",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301075/AN202608121827911032.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "多瑞医药(301075)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "英搏尔:2026年限制性股票激励计划(草案)",
-        "summary": "英搏尔(300681)：英搏尔:2026年限制性股票激励计划(草案)",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300681/AN202608121827910925.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "英搏尔(300681)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "英搏尔:创业板上市公司股权激励计划自查表",
-        "summary": "英搏尔(300681)：英搏尔:创业板上市公司股权激励计划自查表",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300681/AN202608121827910935.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "英搏尔(300681)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "东南电子:关于回购公司股份方案的公告",
-        "summary": "东南电子(301359)：东南电子:关于回购公司股份方案的公告",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301359/AN202608121827910929.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "东南电子(301359)"
+          "兆日科技(300333)"
         ],
         "importance": 1,
-        "noticeType": "回购预案"
+        "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "英搏尔:2026年限制性股票激励计划(草案)摘要",
-        "summary": "英搏尔(300681)：英搏尔:2026年限制性股票激励计划(草案)摘要",
-        "publishedAt": "2026-08-12",
+        "title": "澄天伟业:2026年8月12日投资者关系活动记录表",
+        "summary": "澄天伟业(300689)：澄天伟业:2026年8月12日投资者关系活动记录表",
+        "publishedAt": "2026-08-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300681/AN202608121827910832.html",
+        "url": "https://data.eastmoney.com/notices/detail/300689/AN202608131827914870.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "英搏尔(300681)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划摘要"
-      },
-      {
-        "title": "炬申股份:2026年8月12日投资者关系活动记录表",
-        "summary": "炬申股份(001202)：炬申股份:2026年8月12日投资者关系活动记录表",
-        "publishedAt": "2026-08-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001202/AN202608121827910650.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "炬申股份(001202)"
+          "澄天伟业(300689)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "特朗普考虑削减资本利得税以提升共和党支持率",
-        "summary": "【特朗普考虑削减资本利得税以提升共和党支持率】据一名高级经济顾问和前政府官员称，美国总统特朗普考虑在中期选举前向选民做出新的政策承诺，其中或包括呼吁国会下调资本利得税，并对部分住房出售给予免税待遇。",
-        "publishedAt": "2026-08-12 22:23:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608123839478198.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "兆日科技:董事会关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条、第四十四条规定的说明",
+        "summary": "兆日科技(300333)：兆日科技:董事会关于本次交易符合《上市公司重大资产重组管理办法》第十一条、第四十三条、第四十四条规定的说明",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300333/AN202608121827911823.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "兆日科技(300333)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "二季度新AI产品拖累105亿利润 腾讯总裁刘炽平回应",
-        "summary": "【二季度新AI产品拖累105亿利润 腾讯总裁刘炽平回应】8月12日，腾讯发布的2026Q2财报显示，该季度混元、元宝、WorkBuddy、CodeBuddy、小微等AI产品对Non-GAAP营业利润的影响为105亿元，相较于一季度明显增加。腾讯总裁刘炽平在谈及腾讯如何分配AI产品投入时表示，目前情况非常动态。在看到真正爆发的机会之前，腾讯的投资会比较谨慎，…",
-        "publishedAt": "2026-08-12 22:03:44",
+        "title": "兆日科技:董事会关于本次交易是否构成重大资产重组、关联交易及重组上市的说明",
+        "summary": "兆日科技(300333)：兆日科技:董事会关于本次交易是否构成重大资产重组、关联交易及重组上市的说明",
+        "publishedAt": "2026-08-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300333/AN202608121827911830.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "兆日科技(300333)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
+      },
+      {
+        "title": "央行连续三日7天期逆回购操作量为零 中期流动性投放成关键观察窗口",
+        "summary": "【央行连续三日7天期逆回购操作量为零 中期流动性投放成关键观察窗口】自8月11日以来，央行已连续三个交易日7天期逆回购操作量为零。从此前地量操作到连续“零投放”，公开市场操作变化引发债券市场关注。多家机构认为，当前尚不能仅凭7天期逆回购连续零投放判断货币政策取向发生变化，后续中期流动性工具投放规模、大行融出情况以及资金价格走势，将成为观察央行流动性管理态度…",
+        "publishedAt": "2026-08-13 11:02:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608123839471030.html",
+        "url": "https://finance.eastmoney.com/a/202608133840232752.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "到2030年6万亿度绿电奔涌入网 东数西算撬动万亿级社会投资",
-        "summary": "【到2030年6万亿度绿电奔涌入网 东数西算撬动万亿级社会投资】据测算，到2030年全国算力用电量将达到8000亿千瓦时。如今，东数西算工程已撬动万亿级社会投资，有效解决算力高能耗、新能源发电波动等问题，绿色能源底座正在托举中国AI全球竞争力。到2030年，当近6万亿度绿电奔涌入网。",
-        "publishedAt": "2026-08-12 22:02:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608123839465513.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力",
-          "新能源",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "EIA数据显示：美国上周原油库存增加1742.3万桶",
-        "summary": "EIA数据显示，美国上周原油库存增加1742.3万桶，市场预估为减少140.5万桶。",
-        "publishedAt": "2026-08-12 22:31:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608123839481153.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "NEBIUS盘中涨幅扩大超21%",
-        "summary": "【NEBIUS盘中涨幅扩大超21%】NEBIUS盘中涨幅扩大超21%，在人工智能算力强劲需求的推动下，该公司第二季度云业务销售额同比飙升514%。",
-        "publishedAt": "2026-08-12 22:28:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608123839480214.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "SK海力士涨幅扩大至8%",
-        "summary": "【SK海力士涨幅扩大至8%】SK海力士涨幅扩大至8%，报153.2美元/股，总市值1.09万亿美元。",
-        "publishedAt": "2026-08-12 22:26:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608123839479915.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国8月12日10年期国债竞拍-中标利率(%)",
+        "summary": "美国8月12日10年期国债竞拍-中标利率(%)；公布 4.68，预期 nan，前值 4.58。",
+        "publishedAt": "2026-08-13 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月12日10年期国债竞拍-总金额(亿美元)",
+        "summary": "美国8月12日10年期国债竞拍-总金额(亿美元)；公布 526.36，预期 nan，前值 390.0。",
+        "publishedAt": "2026-08-13 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月12日10年期国债竞拍-高收益率(%)",
+        "summary": "美国8月12日10年期国债竞拍-高收益率(%)；公布 4.68，预期 nan，前值 4.58。",
+        "publishedAt": "2026-08-13 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月12日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国8月12日SPDR黄金持仓-每日更新(吨)；公布 1025.81，预期 nan，前值 1022.67。",
+        "publishedAt": "2026-08-13 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月11日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国8月11日COMEX黄金库存-每日更新(百盎司)；公布 266090.26，预期 nan，前值 266285.11。",
+        "publishedAt": "2026-08-13 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -170261,7 +170245,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -170274,15 +170258,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-12 22:34:24",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 AI算力、半导体、能源。",
+        "generatedAt": "2026-08-13 11:08:38",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 9 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、通信设备；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -170378,7 +170362,7 @@
               "今日炸板 13 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：四川川环科技股份有限公司与中信建投证券股份有限公司关于四川川环科技股份有限公司申请向特定对象发行股票的审核问询函之回复；北京市金杜律师事务所关于四川川环科技股份有限公司向特定对象发行Ａ股股票的补充法律意见书(二)。",
+              "新闻/公告风险：ST围海:2026年第二次临时股东会决议公告；ST围海:上海市锦天城律师事务所关于浙江省围海建设集团股份有限公司2026年第二次临时股东会的法律意见书。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
