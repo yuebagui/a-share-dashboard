@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-14",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-14 17:13:00",
+    "generatedAt": "2026-08-14 22:17:56",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -167681,317 +167681,335 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-14",
-    "generatedAt": "2026-08-14 17:14:10",
+    "generatedAt": "2026-08-14 22:19:19",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 能源、金融、新能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 16,
+        "name": "能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 7,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "新能源",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "勤上股份:关于首次减持回购股份的公告",
-        "summary": "勤上股份(002638)：勤上股份:关于首次减持回购股份的公告",
+        "title": "*ST田野:2026年半年度报告摘要",
+        "summary": "*ST田野(920023)：*ST田野:2026年半年度报告摘要",
         "publishedAt": "2026-08-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002638/AN202608131827950384.html",
+        "url": "https://data.eastmoney.com/notices/detail/920023/AN202608141827994110.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "勤上股份(002638)"
+          "*ST田野(920023)"
+        ],
+        "importance": 1,
+        "noticeType": "半年度报告摘要"
+      },
+      {
+        "title": "*ST田野:2026年半年度募集资金存放、管理和使用情况的专项报告",
+        "summary": "*ST田野(920023)：*ST田野:2026年半年度募集资金存放、管理和使用情况的专项报告",
+        "publishedAt": "2026-08-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920023/AN202608141827994107.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST田野(920023)"
+        ],
+        "importance": 1,
+        "noticeType": "募集资金使用情况报告"
+      },
+      {
+        "title": "阿尔特:关于股东股份减持计划时间届满暨减持结果的公告",
+        "summary": "阿尔特(300825)：阿尔特:关于股东股份减持计划时间届满暨减持结果的公告",
+        "publishedAt": "2026-08-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300825/AN202608141827991355.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "阿尔特(300825)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "德龙汇能:股票交易异常波动公告",
-        "summary": "德龙汇能(000593)：德龙汇能:股票交易异常波动公告",
+        "title": "瑞奇智造:关于公司银行账户部分资金被冻结的公告",
+        "summary": "瑞奇智造(920781)：瑞奇智造:关于公司银行账户部分资金被冻结的公告",
         "publishedAt": "2026-08-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000593/AN202608131827950105.html",
+        "url": "https://data.eastmoney.com/notices/detail/920781/AN202608141827987965.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "瑞奇智造(920781)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST田野:2026年半年度报告",
+        "summary": "*ST田野(920023)：*ST田野:2026年半年度报告",
+        "publishedAt": "2026-08-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920023/AN202608141827994108.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "德龙汇能(000593)"
+          "*ST田野(920023)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "半年度报告全文"
       },
       {
-        "title": "灿瑞科技:关于新增开立募集资金专户并签订三方监管协议的公告",
-        "summary": "灿瑞科技(688061)：灿瑞科技:关于新增开立募集资金专户并签订三方监管协议的公告",
+        "title": "*ST田野:国海证券股份有限公司关于田野创新股份有限公司2026年上半年持续督导定期现场核查报告",
+        "summary": "*ST田野(920023)：*ST田野:国海证券股份有限公司关于田野创新股份有限公司2026年上半年持续督导定期现场核查报告",
         "publishedAt": "2026-08-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688061/AN202608131827949990.html",
+        "url": "https://data.eastmoney.com/notices/detail/920023/AN202608141827994111.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST田野(920023)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST田野:第六届董事会第四次会议决议公告",
+        "summary": "*ST田野(920023)：*ST田野:第六届董事会第四次会议决议公告",
+        "publishedAt": "2026-08-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920023/AN202608141827994109.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "灿瑞科技(688061)"
+          "*ST田野(920023)"
         ],
         "importance": 1,
-        "noticeType": "签订协议"
+        "noticeType": "董事会决议公告"
       },
       {
-        "title": "ST百利:关于公司原控股股东部分股份司法拍卖过户完成暨公司变更为无控股股东、无实际控制人的提示性公告",
-        "summary": "ST百利(603959)：ST百利:关于公司原控股股东部分股份司法拍卖过户完成暨公司变更为无控股股东、无实际控制人的提示性公告",
-        "publishedAt": "2026-08-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603959/AN202608131827949457.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "ST长园：公司股票申请撤销其他风险警示",
+        "summary": "【ST长园：公司股票申请撤销其他风险警示】ST长园公告，公司触及的其他风险警示情形已消除，且不存在触及其他风险警示的情形，公司向上交所申请撤销对公司股票实施其他风险警示。上交所将在收到公司申请后15个交易日内，作出是否同意的决定。",
+        "publishedAt": "2026-08-14 21:40:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608143842030944.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "ST百利(603959)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "公司关联方基本资料变更"
+        "noticeType": ""
       },
       {
-        "title": "ST百利:关于原控股股东所持股份将被司法拍卖的提示性公告",
-        "summary": "ST百利(603959)：ST百利:关于原控股股东所持股份将被司法拍卖的提示性公告",
-        "publishedAt": "2026-08-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603959/AN202608131827949456.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "马斯克加码AI竞赛 SpaceX完成对Cursor的600亿美元收购",
+        "summary": "【马斯克加码AI竞赛 SpaceX完成对Cursor的600亿美元收购】SpaceX已完成对人工智能编程初创公司光标（Cursor）的600亿美元收购，这笔收购是马斯克力图缩小与竞争对手人化PBC和OpenAI差距的重要一步。根据监管文件，这笔交易于8月14日正式生效。此时距SpaceX正式宣布同意收购该公司约两个月。",
+        "publishedAt": "2026-08-14 21:40:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608143842029970.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST百利(603959)"
+        "themes": [
+          "AI算力"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": ""
       },
       {
-        "title": "亨通股份:浙江亨通控股股份有限公司关于向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "亨通股份(600226)：亨通股份:浙江亨通控股股份有限公司关于向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "title": "001311多利科技投资者关系管理信息20260814",
+        "summary": "多利科技(001311)：001311多利科技投资者关系管理信息20260814",
         "publishedAt": "2026-08-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600226/AN202608131827950507.html",
+        "url": "https://data.eastmoney.com/notices/detail/001311/AN202608141827986477.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "亨通股份(600226)"
+          "多利科技(001311)"
         ],
         "importance": 1,
-        "noticeType": "获得补贴（资助）"
+        "noticeType": "调研活动"
       },
       {
-        "title": "纳芯微:2026年半年度业绩预告的自愿性披露公告",
-        "summary": "纳芯微(688052)：纳芯微:2026年半年度业绩预告的自愿性披露公告",
+        "title": "蓝科高新:投资者关系活动记录表20260813",
+        "summary": "蓝科高新(601798)：蓝科高新:投资者关系活动记录表20260813",
         "publishedAt": "2026-08-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688052/AN202608131827950223.html",
+        "url": "https://data.eastmoney.com/notices/detail/601798/AN202608141827983618.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "纳芯微(688052)"
+          "蓝科高新(601798)"
         ],
         "importance": 1,
-        "noticeType": "业绩预告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "广东鸿图:关于继续使用暂时闲置募集资金进行现金管理的公告",
-        "summary": "广东鸿图(002101)：广东鸿图:关于继续使用暂时闲置募集资金进行现金管理的公告",
+        "title": "盛弘股份:2026年8月14日投资者关系活动记录表",
+        "summary": "盛弘股份(300693)：盛弘股份:2026年8月14日投资者关系活动记录表",
         "publishedAt": "2026-08-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002101/AN202608131827949716.html",
+        "url": "https://data.eastmoney.com/notices/detail/300693/AN202608141827995147.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "广东鸿图(002101)"
+          "盛弘股份(300693)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "创远信科:关于使用闲置自有资金购买理财产品的进展公告",
+        "summary": "创远信科(920961)：创远信科:关于使用闲置自有资金购买理财产品的进展公告",
+        "publishedAt": "2026-08-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920961/AN202608141827994644.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "创远信科(920961)"
         ],
         "importance": 1,
         "noticeType": "投资理财"
       },
       {
-        "title": "博力威:广东博力威科技股份有限公司关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
-        "summary": "博力威(688345)：博力威:广东博力威科技股份有限公司关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "title": "创远信科:关于重大资产重组事项的进展公告",
+        "summary": "创远信科(920961)：创远信科:关于重大资产重组事项的进展公告",
         "publishedAt": "2026-08-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688345/AN202608131827949701.html",
+        "url": "https://data.eastmoney.com/notices/detail/920961/AN202608141827994643.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "博力威(688345)"
+          "创远信科(920961)"
         ],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": "重组进展公告"
       },
       {
-        "title": "博力威:广东博力威科技股份有限公司2026年限制性股票激励计划首次授予激励对象名单(截至授予日)",
-        "summary": "博力威(688345)：博力威:广东博力威科技股份有限公司2026年限制性股票激励计划首次授予激励对象名单(截至授予日)",
-        "publishedAt": "2026-08-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688345/AN202608131827949702.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博力威(688345)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "华测导航:关于向激励对象预留授予限制性股票的公告",
-        "summary": "华测导航(300627)：华测导航:关于向激励对象预留授予限制性股票的公告",
-        "publishedAt": "2026-08-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300627/AN202608131827949692.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华测导航(300627)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "华测导航:2025年第三期限制性股票激励计划预留授予激励对象名单(预留授予日)",
-        "summary": "华测导航(300627)：华测导航:2025年第三期限制性股票激励计划预留授予激励对象名单(预留授予日)",
-        "publishedAt": "2026-08-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300627/AN202608131827949680.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华测导航(300627)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "国家外汇局：2026年二季度我国经常账户顺差13337亿元",
-        "summary": "【国家外汇局：2026年二季度我国经常账户顺差13337亿元】国家外汇管理局公告，2026年二季度，我国经常账户顺差13337亿元，其中，货物贸易顺差19065亿元，服务贸易逆差3584亿元，初次收入逆差2572亿元，二次收入顺差428亿元。资本和金融账户（含当季净误差与遗漏）逆差13337亿元，其中来华直接投资保持净流入。",
-        "publishedAt": "2026-08-14 17:01:24",
+        "title": "宁德时代独供澳大利亚国家电力市场规模最大的在运电池储能项目",
+        "summary": "【宁德时代独供澳大利亚国家电力市场规模最大的在运电池储能项目】宁德时代（300750.SZ/03750.HK）8月14日发布消息，近日，由Quinbrook开发的澳大利亚Supernode储能项目二期正式投入商业运营，三期4.69亿澳元融资同步完成交割。至此，项目一、二期（520MW/1858MWh）已全面商业化运营。三期建成后，总储能规模将突破3GWh，…",
+        "publishedAt": "2026-08-14 21:59:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608143841794753.html",
+        "url": "https://finance.eastmoney.com/a/202608143842033735.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "新能源",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至8月12日美联储资产负债表(万亿美元)",
-        "summary": "美国截至8月12日美联储资产负债表(万亿美元)；公布 6.76，预期 nan，前值 6.75。",
-        "publishedAt": "2026-08-14 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "汇丰将思科目标价从137美元下调至120美元",
+        "summary": "【汇丰将思科目标价从137美元下调至120美元】汇丰将思科目标价从137美元下调至120美元，评级从买入下调至持有评级。",
+        "publishedAt": "2026-08-14 22:15:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608143842043946.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月13日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月13日iShares白银持仓-每日更新(吨)；公布 15336.03，预期 nan，前值 15313.54。",
-        "publishedAt": "2026-08-14 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "特朗普请求美国最高法院允许其继续推进白宫宴会厅项目",
+        "summary": "【特朗普请求美国最高法院允许其继续推进白宫宴会厅项目】美国总统特朗普14日请求美国最高法院允许其继续推进白宫宴会厅项目。",
+        "publishedAt": "2026-08-14 22:13:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608143842043818.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月13日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国8月13日SPDR黄金持仓-每日更新(吨)；公布 1023.24，预期 nan，前值 1025.81。",
-        "publishedAt": "2026-08-14 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "美股存储板块持续走强 闪迪涨超9%",
+        "summary": "【美股存储板块持续走强 闪迪涨超9%】美股存储板块持续走强，闪迪涨超9%，希捷科技涨7.2%，西部数据涨4.5%，美光科技、SK海力士均涨超3.5%。",
+        "publishedAt": "2026-08-14 22:07:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608143842039915.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "半导体"
         ],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月13日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月13日iShares黄金持仓-每日更新(吨)；公布 456.32，预期 nan，前值 456.84。",
-        "publishedAt": "2026-08-14 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月12日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月12日COMEX黄金库存-每日更新(百盎司)；公布 266122.41，预期 nan，前值 266090.26。",
-        "publishedAt": "2026-08-14 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -168145,15 +168163,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-14 17:14:10",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-08-14 22:19:19",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 能源、金融、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、通信设备、液冷服务器；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -168184,7 +168202,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-14 17:13:00",
+        "generatedAt": "2026-08-14 22:17:56",
         "summary": "上午情绪分 86，涨停 63 家，跌停 10 家，炸板 19 家，连板 11 家，最高 5 板。",
         "sections": [
           {
@@ -168223,7 +168241,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-14 17:13:00",
+        "generatedAt": "2026-08-14 22:17:56",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -168249,7 +168267,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "今日跌停 10 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：勤上股份:关于首次减持回购股份的公告；德龙汇能:股票交易异常波动公告。",
+              "新闻/公告风险：*ST田野:2026年半年度报告摘要；*ST田野:2026年半年度募集资金存放、管理和使用情况的专项报告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
