@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-17",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-17 16:25:26",
+    "generatedAt": "2026-08-17 16:50:48",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -167710,248 +167710,75 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-17",
-    "generatedAt": "2026-08-17 16:26:10",
+    "generatedAt": "2026-08-17 16:51:34",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 能源、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
-        "name": "能源",
-        "score": 17,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 5,
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "能源",
         "score": 5,
-        "isFocusBoard": true
+        "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "中粮科工:关于累计诉讼、仲裁情况的公告",
-        "summary": "中粮科工(301058)：中粮科工:关于累计诉讼、仲裁情况的公告",
+        "title": "伊之密:关于实际控制人之一致行动人所持部分股份解除质押及再质押的公告",
+        "summary": "伊之密(300415)：伊之密:关于实际控制人之一致行动人所持部分股份解除质押及再质押的公告",
         "publishedAt": "2026-08-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301058/AN202608171828048763.html",
+        "url": "https://data.eastmoney.com/notices/detail/300415/AN202608161828029095.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "中粮科工(301058)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "五洲医疗:关于股东部分股份解除质押的公告",
-        "summary": "五洲医疗(301234)：五洲医疗:关于股东部分股份解除质押的公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301234/AN202608171828048753.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "五洲医疗(301234)"
+          "伊之密(300415)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "*ST元道:关于公司股票可能被实施重大违法强制退市的第十六次风险提示公告",
-        "summary": "*ST元道(301139)：*ST元道:关于公司股票可能被实施重大违法强制退市的第十六次风险提示公告",
+        "title": "三瑞智能:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "summary": "三瑞智能(301696)：三瑞智能:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
         "publishedAt": "2026-08-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301139/AN202608171828048707.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST元道(301139)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "宏源药业:关于签订募集资金四方监管协议的公告",
-        "summary": "宏源药业(301246)：宏源药业:关于签订募集资金四方监管协议的公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301246/AN202608171828047928.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "宏源药业(301246)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "贵研铂业:投资者关系活动记录表(2026年7月1日-7月31日)",
-        "summary": "贵研铂业(600459)：贵研铂业:投资者关系活动记录表(2026年7月1日-7月31日)",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600459/AN202608171828050875.html",
+        "url": "https://data.eastmoney.com/notices/detail/301696/AN202608161828029012.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "贵研铂业(600459)"
+          "三瑞智能(301696)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励进展公告"
       },
       {
-        "title": "大元泵业:浙江大元泵业股份有限公司2026年投资者关系活动记录表(2026-004)",
-        "summary": "大元泵业(603757)：大元泵业:浙江大元泵业股份有限公司2026年投资者关系活动记录表(2026-004)",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603757/AN202608171828048601.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "大元泵业(603757)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "孩子王:关于控股股东、董事、高级管理人员增持公司股份计划实施进展暨增持时间过半的公告",
-        "summary": "孩子王(301078)：孩子王:关于控股股东、董事、高级管理人员增持公司股份计划实施进展暨增持时间过半的公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301078/AN202608171828048666.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "孩子王(301078)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "吉比特:厦门吉比特网络技术股份有限公司2026年半年度业绩说明会纪要",
-        "summary": "吉比特(603444)：吉比特:厦门吉比特网络技术股份有限公司2026年半年度业绩说明会纪要",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603444/AN202608171828048111.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "吉比特(603444)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "欣旺达:关于全资子公司与专业投资机构共同投资的进展公告",
-        "summary": "欣旺达(300207)：欣旺达:关于全资子公司与专业投资机构共同投资的进展公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300207/AN202608171828047924.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "欣旺达(300207)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "当虹科技:(证券代码:688039)投资者关系活动记录表2026-003",
-        "summary": "当虹科技(688039)：当虹科技:(证券代码:688039)投资者关系活动记录表2026-003",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688039/AN202608171828047221.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "国家发改委部署加快2026年新型政策性金融工具投放工作 加大对民间投资项目支持力度",
+        "summary": "【国家发改委部署加快2026年新型政策性金融工具投放工作 加大对民间投资项目支持力度】国家发展改革委党组成员、副主任岳修虎同志主持召开工作会议，部署加快推进2026年新型政策性金融工具投放工作，加大对民间投资项目支持力度。部分省份发展改革委负责同志，国家开发银行、中国进出口银行、中国农业发展银行负责同志，国家发展改革委各有关司局负责同志参加会议。下一步，国…",
+        "publishedAt": "2026-08-17 16:44:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843205911.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "当虹科技(688039)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "安凯微:广州安凯微电子股份有限公司投资者关系活动记录表(2026年8月12日)",
-        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司投资者关系活动记录表(2026年8月12日)",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688620/AN202608171828047216.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安凯微(688620)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "昀冢科技:投资者关系活动记录表(2026年8月14日)",
-        "summary": "昀冢科技(688260)：昀冢科技:投资者关系活动记录表(2026年8月14日)",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688260/AN202608171828047222.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "昀冢科技(688260)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
         "title": "日本第二季度季调后名义GDP季率初值(%)",
@@ -168037,6 +167864,138 @@
         "themes": [],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月社会消费品零售总额月率(%)",
+        "summary": "中国7月社会消费品零售总额月率(%)；公布 -0.1，预期 nan，前值 0.38。",
+        "publishedAt": "2026-08-17 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月城镇固定资产投资年率-年初至今(%)",
+        "summary": "中国7月城镇固定资产投资年率-年初至今(%)；公布 -6.7，预期 -6.0，前值 -5.7。",
+        "publishedAt": "2026-08-17 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中策橡胶：上半年归母净利润24.4亿元 同比增长5.09%",
+        "summary": "【中策橡胶：上半年归母净利润24.4亿元 同比增长5.09%】中策橡胶8月17日披露半年报，公司上半年实现营业收入234.74亿元，同比增长7.41%；归属于上市公司股东的净利润24.4亿元，同比增长5.09%；基本每股收益2.79元/股。",
+        "publishedAt": "2026-08-17 16:46:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843214429.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "巴加埃：美国造成的环境破坏损失达数万亿美元 伊朗将优先索赔",
+        "summary": "【巴加埃：美国造成的环境破坏损失达数万亿美元 伊朗将优先索赔】当地时间8月17日，伊朗外交部发言人巴加埃称，美国在地区持续的军事存在造成的环境破坏带来数万亿美元损失，伊方将优先进行索赔。",
+        "publishedAt": "2026-08-17 16:46:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843211428.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国电电力、淮河能源等在内蒙古成立新公司 注册资本2亿",
+        "summary": "【国电电力、淮河能源等在内蒙古成立新公司 注册资本2亿】天眼查App显示，国电电力淮能大基地（内蒙古）能源有限公司近日成立，法定代表人为董卫东，注册资本2亿元人民币，注册地址位于内蒙古鄂尔多斯市，所属行业为电力、热力生产和供应业。",
+        "publishedAt": "2026-08-17 16:41:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843207918.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "外汇局：7月我国外汇市场保持平稳运行 涉外收支规模稳步扩大",
+        "summary": "【外汇局：7月我国外汇市场保持平稳运行 涉外收支规模稳步扩大】日前，国家外汇管理局公布了2026年7月银行结售汇和银行代客涉外收付款数据。国家外汇管理局副局长、新闻发言人李斌就2026年7月外汇市场形势回答了记者提问。",
+        "publishedAt": "2026-08-17 16:40:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843206358.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "新联电子：上半年归母净利润4.53亿元 同比增长140.95%",
+        "summary": "【新联电子：上半年归母净利润4.53亿元 同比增长140.95%】新联电子8月17日披露半年报，公司上半年实现营业收入4.08亿元，同比增长8.25%；归属于上市公司股东的净利润4.53亿元，同比增长140.95%；基本每股收益0.54元。",
+        "publishedAt": "2026-08-17 16:40:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843205717.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国家外汇局：7月银行结汇18097亿元人民币 售汇16856亿元人民币",
+        "summary": "【国家外汇局：7月银行结汇18097亿元人民币 售汇16856亿元人民币】国家外汇管理局统计数据显示，2026年7月，银行结汇18097亿元人民币，售汇16856亿元人民币。2026年1-7月，银行累计结汇126020亿元人民币，累计售汇106048亿元人民币。",
+        "publishedAt": "2026-08-17 16:38:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843197949.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "凯盛新材：上半年归母净利润9423.89万元 同比增长6.50%",
+        "summary": "【凯盛新材：上半年归母净利润9423.89万元 同比增长6.50%】凯盛新材8月17日披露半年报，公司上半年实现营业收入6.55亿元，同比增长22.91%；归属于上市公司股东的净利润9423.89万元，同比增长6.50%；基本每股收益0.208元/股。公司拟向全体股东每10股派发现金红利0.5元（含税）。",
+        "publishedAt": "2026-08-17 16:38:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608173843201215.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -168141,15 +168100,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-17 16:26:10",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 能源、AI算力、金融。",
+        "generatedAt": "2026-08-17 16:51:34",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、半导体、存储芯片；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -168180,7 +168139,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-17 16:25:26",
+        "generatedAt": "2026-08-17 16:50:48",
         "summary": "上午情绪分 100，涨停 106 家，跌停 1 家，炸板 12 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -168219,7 +168178,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-17 16:25:26",
+        "generatedAt": "2026-08-17 16:50:48",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -168245,7 +168204,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：中粮科工:关于累计诉讼、仲裁情况的公告；五洲医疗:关于股东部分股份解除质押的公告。",
+              "新闻/公告风险：伊之密:关于实际控制人之一致行动人所持部分股份解除质押及再质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
