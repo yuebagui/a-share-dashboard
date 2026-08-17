@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-17",
     "phase": "盘中快照",
-    "generatedAt": "2026-08-17 12:11:19",
+    "generatedAt": "2026-08-17 12:25:03",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -167821,20 +167821,20 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-17",
-    "generatedAt": "2026-08-17 12:12:04",
+    "generatedAt": "2026-08-17 12:25:47",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、半导体、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 半导体、金融、能源。",
     "themes": [
       {
-        "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
+        "name": "半导体",
+        "score": 15,
+        "isFocusBoard": true
       },
       {
-        "name": "半导体",
-        "score": 10,
-        "isFocusBoard": true
+        "name": "金融",
+        "score": 12,
+        "isFocusBoard": false
       },
       {
         "name": "能源",
@@ -167842,12 +167842,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
+        "name": "有色稀土",
         "score": 4,
         "isFocusBoard": false
       },
@@ -167857,7 +167852,12 @@
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
@@ -168093,22 +168093,6 @@
         "noticeType": ""
       },
       {
-        "title": "上海浦东引领区投资中心、和元生物成立创投合伙企业",
-        "summary": "【上海浦东引领区投资中心、和元生物成立创投合伙企业】企查查APP显示，近日，上海和元弘盛一期创业投资合伙企业（有限合伙）成立，出资额5亿元，经营范围包含：创业投资（限投资未上市企业）。企查查股权穿透显示，该合伙企业由和元生物、上海浦东引领区投资中心（有限合伙）、上海国投先导生物医药私募投资基金合伙企业（有限合伙）等共同持股。",
-        "publishedAt": "2026-08-17 11:20:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608173842947910.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "日本第二季度季调后名义GDP季率初值(%)",
         "summary": "日本第二季度季调后名义GDP季率初值(%)；公布 1.2，预期 nan，前值 0.6。",
         "publishedAt": "2026-08-17 07:50",
@@ -168146,6 +168130,22 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月管道天然气进口量-能源(万吨)",
+        "summary": "中国7月管道天然气进口量-能源(万吨)；公布 nan，预期 nan，前值 525.0。",
+        "publishedAt": "2026-08-17 11:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -168252,15 +168252,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-17 12:12:04",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、半导体、能源。",
+        "generatedAt": "2026-08-17 12:25:47",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 半导体、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：半导体、存储芯片、国家大基金持股；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -168291,7 +168291,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-17 12:11:19",
+        "generatedAt": "2026-08-17 12:25:03",
         "summary": "上午情绪分 100，涨停 78 家，跌停 1 家，炸板 12 家，连板 14 家，最高 4 板。",
         "sections": [
           {
@@ -168330,7 +168330,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-17 12:11:19",
+        "generatedAt": "2026-08-17 12:25:03",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
