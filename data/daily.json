@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-17",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-17 16:05:16",
+    "generatedAt": "2026-08-17 16:25:26",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": 1.41,
       "turnover": "1.11万亿",
       "turnoverValue": 1112818620627.0,
-      "quoteTime": "2026-08-17 16:05:02",
+      "quoteTime": "2026-08-17 16:14:02",
       "source": "腾讯直连"
     },
     {
@@ -22,7 +22,7 @@
       "changePct": 2.44,
       "turnover": "1.27万亿",
       "turnoverValue": 1274638569156.0,
-      "quoteTime": "2026-08-17 16:04:03",
+      "quoteTime": "2026-08-17 16:14:03",
       "source": "腾讯直连"
     },
     {
@@ -31,7 +31,7 @@
       "changePct": 3.14,
       "turnover": "6291亿",
       "turnoverValue": 629069342009.0,
-      "quoteTime": "2026-08-17 16:04:18",
+      "quoteTime": "2026-08-17 16:14:18",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": 4.14,
       "turnover": "1272亿",
       "turnoverValue": 127195598002.0,
-      "quoteTime": "2026-08-17 16:04:14",
+      "quoteTime": "2026-08-17 16:14:14",
       "source": "腾讯直连"
     }
   ],
@@ -167545,7 +167545,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -167709,19 +167710,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-17",
-    "generatedAt": "2026-08-17 16:06:05",
+    "generatedAt": "2026-08-17 16:26:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 能源、金融、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 能源、AI算力、金融。",
     "themes": [
       {
         "name": "能源",
-        "score": 9,
+        "score": 17,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 8,
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -167730,96 +167736,179 @@
         "isFocusBoard": true
       },
       {
-        "name": "新能源",
+        "name": "有色稀土",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "伊之密:关于实际控制人之一致行动人所持部分股份解除质押及再质押的公告",
-        "summary": "伊之密(300415)：伊之密:关于实际控制人之一致行动人所持部分股份解除质押及再质押的公告",
+        "title": "中粮科工:关于累计诉讼、仲裁情况的公告",
+        "summary": "中粮科工(301058)：中粮科工:关于累计诉讼、仲裁情况的公告",
         "publishedAt": "2026-08-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300415/AN202608161828029095.html",
+        "url": "https://data.eastmoney.com/notices/detail/301058/AN202608171828048763.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "伊之密(300415)"
+          "中粮科工(301058)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "五洲医疗:关于股东部分股份解除质押的公告",
+        "summary": "五洲医疗(301234)：五洲医疗:关于股东部分股份解除质押的公告",
+        "publishedAt": "2026-08-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301234/AN202608171828048753.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "五洲医疗(301234)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "韩国散户扎堆个股杠杆ETF 券商与交易所两月大赚超千亿韩元手续费",
-        "summary": "【韩国散户扎堆个股杠杆ETF 券商与交易所两月大赚超千亿韩元手续费】自跟踪三星电子与SK海力士的单一股票杠杆、反向ETF上市以来，韩国交易所与各家券商两个多月累计赚取手续费收入超1170亿韩元。有观点指出，个人投资者蜂拥入局这类高风险产品，负责市场运营的交易所与提供交易中介服务的券商赚取了巨额手续费。",
-        "publishedAt": "2026-08-17 15:51:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608173843147256.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "法国日前基荷电力价格下跌6.4%",
-        "summary": "【法国日前基荷电力价格下跌6.4%】伦敦证券交易所集团（LSEG）数据显示，法国日前基荷电力价格下跌6.4%，至每兆瓦时166欧元。",
-        "publishedAt": "2026-08-17 15:50:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608173843145947.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "三瑞智能:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
-        "summary": "三瑞智能(301696)：三瑞智能:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "title": "*ST元道:关于公司股票可能被实施重大违法强制退市的第十六次风险提示公告",
+        "summary": "*ST元道(301139)：*ST元道:关于公司股票可能被实施重大违法强制退市的第十六次风险提示公告",
         "publishedAt": "2026-08-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301696/AN202608161828029012.html",
+        "url": "https://data.eastmoney.com/notices/detail/301139/AN202608171828048707.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST元道(301139)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "宏源药业:关于签订募集资金四方监管协议的公告",
+        "summary": "宏源药业(301246)：宏源药业:关于签订募集资金四方监管协议的公告",
+        "publishedAt": "2026-08-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301246/AN202608171828047928.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "宏源药业(301246)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
+      {
+        "title": "贵研铂业:投资者关系活动记录表(2026年7月1日-7月31日)",
+        "summary": "贵研铂业(600459)：贵研铂业:投资者关系活动记录表(2026年7月1日-7月31日)",
+        "publishedAt": "2026-08-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600459/AN202608171828050875.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "三瑞智能(301696)"
+          "贵研铂业(600459)"
         ],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "兆易创新:兆易创新关于回购A股股份事项前十大股东、前十大无限售条件股东持股情况的公告",
-        "summary": "兆易创新(603986)：兆易创新:兆易创新关于回购A股股份事项前十大股东、前十大无限售条件股东持股情况的公告",
+        "title": "大元泵业:浙江大元泵业股份有限公司2026年投资者关系活动记录表(2026-004)",
+        "summary": "大元泵业(603757)：大元泵业:浙江大元泵业股份有限公司2026年投资者关系活动记录表(2026-004)",
         "publishedAt": "2026-08-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603986/AN202608161828028911.html",
+        "url": "https://data.eastmoney.com/notices/detail/603757/AN202608171828048601.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大元泵业(603757)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "孩子王:关于控股股东、董事、高级管理人员增持公司股份计划实施进展暨增持时间过半的公告",
+        "summary": "孩子王(301078)：孩子王:关于控股股东、董事、高级管理人员增持公司股份计划实施进展暨增持时间过半的公告",
+        "publishedAt": "2026-08-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301078/AN202608171828048666.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "孩子王(301078)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "吉比特:厦门吉比特网络技术股份有限公司2026年半年度业绩说明会纪要",
+        "summary": "吉比特(603444)：吉比特:厦门吉比特网络技术股份有限公司2026年半年度业绩说明会纪要",
+        "publishedAt": "2026-08-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603444/AN202608171828048111.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "吉比特(603444)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "欣旺达:关于全资子公司与专业投资机构共同投资的进展公告",
+        "summary": "欣旺达(300207)：欣旺达:关于全资子公司与专业投资机构共同投资的进展公告",
+        "publishedAt": "2026-08-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300207/AN202608171828047924.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "欣旺达(300207)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "当虹科技:(证券代码:688039)投资者关系活动记录表2026-003",
+        "summary": "当虹科技(688039)：当虹科技:(证券代码:688039)投资者关系活动记录表2026-003",
+        "publishedAt": "2026-08-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688039/AN202608171828047221.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -167827,138 +167916,42 @@
           "金融"
         ],
         "tickers": [
-          "兆易创新(603986)"
+          "当虹科技(688039)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "调研活动"
       },
       {
-        "title": "皇马科技:皇马科技关于召开公司2026年半年度业绩说明会的公告",
-        "summary": "皇马科技(603181)：皇马科技:皇马科技关于召开公司2026年半年度业绩说明会的公告",
+        "title": "安凯微:广州安凯微电子股份有限公司投资者关系活动记录表(2026年8月12日)",
+        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司投资者关系活动记录表(2026年8月12日)",
         "publishedAt": "2026-08-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603181/AN202608161828028925.html",
+        "url": "https://data.eastmoney.com/notices/detail/688620/AN202608171828047216.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "皇马科技(603181)"
+          "安凯微(688620)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "调研活动"
       },
       {
-        "title": "盛科通信:盛科通信关于签订日常经营重大合同暨关联交易的公告",
-        "summary": "盛科通信(688702)：盛科通信:盛科通信关于签订日常经营重大合同暨关联交易的公告",
+        "title": "昀冢科技:投资者关系活动记录表(2026年8月14日)",
+        "summary": "昀冢科技(688260)：昀冢科技:投资者关系活动记录表(2026年8月14日)",
         "publishedAt": "2026-08-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688702/AN202608161828028915.html",
+        "url": "https://data.eastmoney.com/notices/detail/688260/AN202608171828047222.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "盛科通信(688702)"
+          "昀冢科技(688260)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "新疆众和:新疆众和股份有限公司关于召开2026年半年度业绩说明会的公告",
-        "summary": "新疆众和(600888)：新疆众和:新疆众和股份有限公司关于召开2026年半年度业绩说明会的公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600888/AN202608161828028909.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新疆众和(600888)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "千里科技:重庆千里科技股份有限公司关于首次回购公司股份的公告",
-        "summary": "千里科技(601777)：千里科技:重庆千里科技股份有限公司关于首次回购公司股份的公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601777/AN202608161828028914.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "千里科技(601777)"
-        ],
-        "importance": 1,
-        "noticeType": "回购实施公告"
-      },
-      {
-        "title": "超讯科技:关于2025年股票期权激励计划第一个行权期自主行权实施公告",
-        "summary": "超讯科技(603322)：超讯科技:关于2025年股票期权激励计划第一个行权期自主行权实施公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603322/AN202608161828028910.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "超讯科技(603322)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "中微半导:关于召开2026年半年度业绩说明会的公告",
-        "summary": "中微半导(688380)：中微半导:关于召开2026年半年度业绩说明会的公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688380/AN202608161828028937.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中微半导(688380)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "德业股份入股国内六维力传感器企业蓝点触控",
-        "summary": "【德业股份入股国内六维力传感器企业蓝点触控】据德业股份消息，近日，德业股份及由德业股份等合作方发起设立的德润泰和基金共同参与了对国内机器人力传感器企业、六维力传感器企业蓝点触控（北京）科技有限公司（简称“蓝点触控”）的D轮投资。",
-        "publishedAt": "2026-08-17 16:03:16",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608173843157977.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "机器人"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国家统计局：前7个月投资的促转型、强基础、惠民生关键作用凸显",
-        "summary": "【国家统计局：前7个月投资的促转型、强基础、惠民生关键作用凸显】今年以来，随着创新引领作用的增强，政策效能的释放，投资在促转型、强基础、惠民生方面的关键作用日益凸显，表现为新赛道投资扩围提质、重点领域投资持续增加和惠民生投入力度加大。我国投资结构持续优化、质量稳步提升，有利于增强经济发展的后劲。",
-        "publishedAt": "2026-08-17 16:02:30",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608173843156211.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
         "title": "日本第二季度季调后名义GDP季率初值(%)",
@@ -168021,6 +168014,20 @@
       {
         "title": "中国7月全社会用电量-每月(亿千瓦时)",
         "summary": "中国7月全社会用电量-每月(亿千瓦时)；公布 nan，预期 nan，前值 8981.0。",
+        "publishedAt": "2026-08-17 14:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国7月全社会用电量年率-每月(%)",
+        "summary": "中国7月全社会用电量年率-每月(%)；公布 nan，预期 nan，前值 3.7。",
         "publishedAt": "2026-08-17 14:10",
         "source": "百度财经日历",
         "url": "",
@@ -168134,15 +168141,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-17 16:06:05",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 能源、金融、半导体。",
+        "generatedAt": "2026-08-17 16:26:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 能源、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、半导体、存储芯片；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -168173,7 +168180,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-17 16:05:16",
+        "generatedAt": "2026-08-17 16:25:26",
         "summary": "上午情绪分 100，涨停 106 家，跌停 1 家，炸板 12 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -168212,7 +168219,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-17 16:05:16",
+        "generatedAt": "2026-08-17 16:25:26",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -168238,7 +168245,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：伊之密:关于实际控制人之一致行动人所持部分股份解除质押及再质押的公告；韩国散户扎堆个股杠杆ETF 券商与交易所两月大赚超千亿韩元手续费。",
+              "新闻/公告风险：中粮科工:关于累计诉讼、仲裁情况的公告；五洲医疗:关于股东部分股份解除质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
