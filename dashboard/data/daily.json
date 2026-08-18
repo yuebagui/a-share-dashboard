@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-17",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-17 21:54:07",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-17 21:54:07",
+    "lastNewsAt": "2026-08-18 09:59:29"
   },
   "indices": [
     {
@@ -167709,29 +167711,24 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-17",
-    "generatedAt": "2026-08-17 21:55:09",
+    "tradeDate": "2026-08-18",
+    "generatedAt": "2026-08-18 09:59:29",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 半导体、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 有色稀土、机器人、金融。",
     "themes": [
       {
-        "name": "半导体",
-        "score": 15,
-        "isFocusBoard": true
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 4,
+        "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
         "score": 3,
         "isFocusBoard": false
       },
@@ -167741,243 +167738,262 @@
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST南都:关于公司新增累计诉讼及仲裁情况的公告",
-        "summary": "ST南都(300068)：ST南都:关于公司新增累计诉讼及仲裁情况的公告",
-        "publishedAt": "2026-08-17",
+        "title": "爱丽家居:爱丽家居科技股份有限公司关于股票交易停牌核查结果、股票交易风险提示暨复牌的公告",
+        "summary": "爱丽家居(603221)：爱丽家居:爱丽家居科技股份有限公司关于股票交易停牌核查结果、股票交易风险提示暨复牌的公告",
+        "publishedAt": "2026-08-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300068/AN202608171828054159.html",
+        "url": "https://data.eastmoney.com/notices/detail/603221/AN202608171828064750.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST南都(300068)"
+          "爱丽家居(603221)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "停牌公告"
       },
       {
-        "title": "博世科:关于公司累计发生诉讼、仲裁情况的公告",
-        "summary": "博世科(300422)：博世科:关于公司累计发生诉讼、仲裁情况的公告",
-        "publishedAt": "2026-08-17",
+        "title": "*ST网达:2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+        "summary": "*ST网达(603189)：*ST网达:2026年半年度募集资金存放、管理与实际使用情况的专项报告",
+        "publishedAt": "2026-08-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300422/AN202608171828061884.html",
+        "url": "https://data.eastmoney.com/notices/detail/603189/AN202608171828064640.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "博世科(300422)"
+          "*ST网达(603189)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "募集资金使用情况报告"
       },
       {
-        "title": "硅烷科技:持股5%以上股东拟减持股份的预披露公告",
-        "summary": "硅烷科技(920402)：硅烷科技:持股5%以上股东拟减持股份的预披露公告",
-        "publishedAt": "2026-08-17",
+        "title": "*ST网达:第五届董事会第十一次会议决议公告",
+        "summary": "*ST网达(603189)：*ST网达:第五届董事会第十一次会议决议公告",
+        "publishedAt": "2026-08-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920402/AN202608171828059786.html",
+        "url": "https://data.eastmoney.com/notices/detail/603189/AN202608171828064639.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "硅烷科技(920402)"
+          "*ST网达(603189)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "董事会决议公告"
       },
       {
-        "title": "英可瑞:深圳市英可瑞科技股份有限公司与国泰海通证券股份有限公司关于申请向特定对象发行股票的审核问询函的回复(注册稿)",
-        "summary": "英可瑞(300713)：英可瑞:深圳市英可瑞科技股份有限公司与国泰海通证券股份有限公司关于申请向特定对象发行股票的审核问询函的回复(注册稿)",
-        "publishedAt": "2026-08-17",
+        "title": "*ST网达:关于使用部分闲置募集资金进行现金管理的进展公告",
+        "summary": "*ST网达(603189)：*ST网达:关于使用部分闲置募集资金进行现金管理的进展公告",
+        "publishedAt": "2026-08-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300713/AN202608171828059763.html",
+        "url": "https://data.eastmoney.com/notices/detail/603189/AN202608171828064634.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST网达(603189)"
+        ],
+        "importance": 1,
+        "noticeType": "募集资金使用进展情况"
+      },
+      {
+        "title": "*ST网达:网达软件2026年半年度报告摘要",
+        "summary": "*ST网达(603189)：*ST网达:网达软件2026年半年度报告摘要",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603189/AN202608171828064633.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST网达(603189)"
+        ],
+        "importance": 1,
+        "noticeType": "半年度报告摘要"
+      },
+      {
+        "title": "*ST海华:青海华鼎2026年半年度报告",
+        "summary": "*ST海华(600243)：*ST海华:青海华鼎2026年半年度报告",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600243/AN202608171828064631.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST海华(600243)"
+        ],
+        "importance": 1,
+        "noticeType": "半年度报告全文"
+      },
+      {
+        "title": "*ST海华:青海华鼎2026年半年度报告摘要",
+        "summary": "*ST海华(600243)：*ST海华:青海华鼎2026年半年度报告摘要",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600243/AN202608171828064635.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST海华(600243)"
+        ],
+        "importance": 1,
+        "noticeType": "半年度报告摘要"
+      },
+      {
+        "title": "*ST网达:网达软件2026年半年度报告",
+        "summary": "*ST网达(603189)：*ST网达:网达软件2026年半年度报告",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603189/AN202608171828064632.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST网达(603189)"
+        ],
+        "importance": 1,
+        "noticeType": "半年度报告全文"
+      },
+      {
+        "title": "聚和材料:关于股票交易风险提示公告",
+        "summary": "聚和材料(688503)：聚和材料:关于股票交易风险提示公告",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688503/AN202608171828063203.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "聚和材料(688503)"
+        ],
+        "importance": 1,
+        "noticeType": "风险提示性公告"
+      },
+      {
+        "title": "恒生科技指数下跌1%",
+        "summary": "恒生科技指数下跌1%至4,733.19点。",
+        "publishedAt": "2026-08-18 09:51:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608183844247826.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "复旦微电:关于对外投资暨关联交易的公告",
+        "summary": "复旦微电(688385)：复旦微电:关于对外投资暨关联交易的公告",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688385/AN202608171828057962.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "复旦微电(688385)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "芯原股份:关于召开2026年半年度业绩说明会的公告",
+        "summary": "芯原股份(688521)：芯原股份:关于召开2026年半年度业绩说明会的公告",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688521/AN202608171828063092.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "芯原股份(688521)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "中信海直:《投资者关系管理办法》(2026年8月)",
+        "summary": "中信海直(000099)：中信海直:《投资者关系管理办法》(2026年8月)",
+        "publishedAt": "2026-08-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000099/AN202608171828062921.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中信海直(000099)"
+        ],
+        "importance": 1,
+        "noticeType": "管理办法/制度"
+      },
+      {
+        "title": "2026年度总票房破260亿",
+        "summary": "【2026年度总票房破260亿】据灯塔专业版数据，截至8月18日，2026年度大盘票房(含预售)突破260亿，《飞驰人生3》《功夫女足》《给阿嬷的情书》《八仙！》《镖人：风起大漠》暂列年度票房前五名。",
+        "publishedAt": "2026-08-18 09:38:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608183844179936.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国6月外资净买入长期证券(亿美元)",
+        "summary": "美国6月外资净买入长期证券(亿美元)；公布 1727.0，预期 nan，前值 2327.0。",
+        "publishedAt": "2026-08-18 04:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "英可瑞(300713)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "TCL科技:TCL科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(数字经济)(第二期)发行公告",
-        "summary": "TCL科技(000100)：TCL科技:TCL科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(数字经济)(第二期)发行公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000100/AN202608171828064011.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "TCL科技(000100)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "TCL科技:TCL科技集团股份有限公司2025年面向专业投资者公开发行公司债券更名公告",
-        "summary": "TCL科技(000100)：TCL科技:TCL科技集团股份有限公司2025年面向专业投资者公开发行公司债券更名公告",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000100/AN202608171828064008.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "TCL科技(000100)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "TCL科技:TCL科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(数字经济)(第二期)募集说明书",
-        "summary": "TCL科技(000100)：TCL科技:TCL科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(数字经济)(第二期)募集说明书",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000100/AN202608171828064010.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "TCL科技(000100)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "国能日新:2026年8月17日投资者关系活动记录表",
-        "summary": "国能日新(301162)：国能日新:2026年8月17日投资者关系活动记录表",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301162/AN202608171828063341.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国能日新(301162)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "青鸟智控:投资者关系活动记录表（2026年8月17日）（编号:2026-004）",
-        "summary": "青鸟智控(002960)：青鸟智控:投资者关系活动记录表（2026年8月17日）（编号:2026-004）",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002960/AN202608171828063225.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "青鸟智控(002960)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "汇成股份:合肥新汇成微电子股份有限公司投资者关系活动记录表(2026年8月14日)",
-        "summary": "汇成股份(688403)：汇成股份:合肥新汇成微电子股份有限公司投资者关系活动记录表(2026年8月14日)",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688403/AN202608171828061551.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汇成股份(688403)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "翔宇医疗:2026年8月投资者关系活动记录表(编号:2026-006)",
-        "summary": "翔宇医疗(688626)：翔宇医疗:2026年8月投资者关系活动记录表(编号:2026-006)",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688626/AN202608171828061533.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "翔宇医疗(688626)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "2026年8月17日达实智能投资者关系活动记录表",
-        "summary": "达实智能(002421)：2026年8月17日达实智能投资者关系活动记录表",
-        "publishedAt": "2026-08-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002421/AN202608171828059892.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "达实智能(002421)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "富国投资研究所：美联储今年将加息25个基点",
-        "summary": "【富国投资研究所：美联储今年将加息25个基点】富国投资研究所预计，美联储今年将加息25个基点，之前的预测为维持利率不变。",
-        "publishedAt": "2026-08-17 21:25:16",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608173843488785.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "富国银行投资研究所上调美国通信服务、能源行业评级",
-        "summary": "【富国银行投资研究所上调美国通信服务、能源行业评级】富国银行投资研究所将美国通信服务行业评级从“中性”上调至“看好”，将美国能源行业评级从“不看好”上调至“中性”。",
-        "publishedAt": "2026-08-17 21:24:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608173843489686.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "日本第二季度季调后名义GDP季率初值(%)",
-        "summary": "日本第二季度季调后名义GDP季率初值(%)；公布 1.2，预期 nan，前值 0.6。",
-        "publishedAt": "2026-08-17 07:50",
+        "title": "美国8月17日iShares白银持仓-每日更新(吨)",
+        "summary": "美国8月17日iShares白银持仓-每日更新(吨)；公布 15272.78，预期 nan，前值 15312.13。",
+        "publishedAt": "2026-08-18 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -167989,44 +168005,32 @@
         "noticeType": ""
       },
       {
-        "title": "日本第二季度季调后实际GDP年化季率初值(%)",
-        "summary": "日本第二季度季调后实际GDP年化季率初值(%)；公布 1.1，预期 2.0，前值 1.8。",
-        "publishedAt": "2026-08-17 07:50",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本第二季度季调后实际GDP季率初值(%)",
-        "summary": "日本第二季度季调后实际GDP季率初值(%)；公布 0.3，预期 0.5，前值 0.5。",
-        "publishedAt": "2026-08-17 07:50",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国7月管道天然气进口量-能源(万吨)",
-        "summary": "中国7月管道天然气进口量-能源(万吨)；公布 nan，预期 nan，前值 525.0。",
-        "publishedAt": "2026-08-17 11:00",
+        "title": "美国8月14日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国8月14日COMEX黄金库存-每日更新(百盎司)；公布 266488.38，预期 nan，前值 266433.38。",
+        "publishedAt": "2026-08-18 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [
-          "能源"
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月17日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月17日iShares黄金持仓-每日更新(吨)；公布 456.2，预期 nan，前值 456.49。",
+        "publishedAt": "2026-08-18 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
         ],
         "tickers": [],
         "importance": 2,
@@ -168121,7 +168125,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -168134,15 +168138,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-17 21:55:09",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 半导体、金融、能源。",
+        "generatedAt": "2026-08-18 09:59:29",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 有色稀土、机器人、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、半导体、存储芯片；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、机器人、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -168238,7 +168242,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST南都:关于公司新增累计诉讼及仲裁情况的公告；博世科:关于公司累计发生诉讼、仲裁情况的公告。",
+              "新闻/公告风险：爱丽家居:爱丽家居科技股份有限公司关于股票交易停牌核查结果、股票交易风险提示暨复牌的公告；*ST网达:2026年半年度募集资金存放、管理与实际使用情况的专项报告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
