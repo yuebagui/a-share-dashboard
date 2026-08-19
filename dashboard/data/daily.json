@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-19",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-19 16:44:10",
+    "generatedAt": "2026-08-19 21:49:45",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -1802,7 +1802,7 @@
       "tags": [
         "休闲食品"
       ],
-      "reason": "连续跌停 1，封单 7082.2万，开板 15 次"
+      "reason": "连续跌停 1，封单 7082.2万，开板 16 次"
     },
     {
       "code": "603678",
@@ -156674,220 +156674,185 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-19",
-    "generatedAt": "2026-08-19 16:44:54",
+    "generatedAt": "2026-08-19 21:50:39",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 有色稀土、新能源、能源。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、医药、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 18,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "医药",
         "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 5,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 4,
+        "name": "军工",
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "永杉锂业:永杉锂业关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "永杉锂业(603399)：永杉锂业:永杉锂业关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "title": "天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告",
+        "summary": "天禄科技(301045)：天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告",
         "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603399/AN202608181828117884.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [
-          "永杉锂业(603399)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "永杉锂业:关于锦州永杉锂业股份有限公司向特定对象发行股票申请文件的审核问询函的回复",
-        "summary": "永杉锂业(603399)：永杉锂业:关于锦州永杉锂业股份有限公司向特定对象发行股票申请文件的审核问询函的回复",
-        "publishedAt": "2026-08-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603399/AN202608181828117885.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [
-          "永杉锂业(603399)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "金富科技:关于以简易程序向特定对象发行股票摊薄即期回报的风险提示及填补回报措施和相关主体承诺(修订稿)的公告",
-        "summary": "金富科技(003018)：金富科技:关于以简易程序向特定对象发行股票摊薄即期回报的风险提示及填补回报措施和相关主体承诺(修订稿)的公告",
-        "publishedAt": "2026-08-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003018/AN202608181828117869.html",
+        "url": "https://data.eastmoney.com/notices/detail/301045/AN202608191828160527.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "金富科技(003018)"
+          "天禄科技(301045)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "*ST威领:威领新能源股份有限公司要约收购报告书摘要",
-        "summary": "*ST威领(002667)：*ST威领:威领新能源股份有限公司要约收购报告书摘要",
+        "title": "迪安诊断:关于控股股东股份质押续期的公告",
+        "summary": "迪安诊断(300244)：迪安诊断:关于控股股东股份质押续期的公告",
         "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202608181828117811.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "新能源",
-          "能源"
-        ],
-        "tickers": [
-          "*ST威领(002667)"
-        ],
-        "importance": 1,
-        "noticeType": "要约收购报告书摘要"
-      },
-      {
-        "title": "*ST威领:华福证券股份有限公司关于《威领新能源股份有限公司要约收购报告书摘要》之财务顾问意见",
-        "summary": "*ST威领(002667)：*ST威领:华福证券股份有限公司关于《威领新能源股份有限公司要约收购报告书摘要》之财务顾问意见",
-        "publishedAt": "2026-08-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202608181828117810.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "新能源",
-          "金融",
-          "能源"
-        ],
-        "tickers": [
-          "*ST威领(002667)"
-        ],
-        "importance": 1,
-        "noticeType": "要约收购报告书摘要"
-      },
-      {
-        "title": "*ST威领:关于收到要约收购报告书摘要的提示性公告",
-        "summary": "*ST威领(002667)：*ST威领:关于收到要约收购报告书摘要的提示性公告",
-        "publishedAt": "2026-08-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202608181828117789.html",
+        "url": "https://data.eastmoney.com/notices/detail/300244/AN202608191828160159.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST威领(002667)"
+          "迪安诊断(300244)"
         ],
         "importance": 1,
-        "noticeType": "要约收购报告书摘要"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "金螳螂:股票交易异常波动公告",
-        "summary": "金螳螂(002081)：金螳螂:股票交易异常波动公告",
-        "publishedAt": "2026-08-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002081/AN202608181828117736.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "金螳螂(002081)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "*ST萃华:关于预计无法在规定期限内披露2025年年度报告暨股票可能被终止上市暨无法在预约日期及预计无法在法定期限内披露2026年半年度报告的风险提示公告",
-        "summary": "*ST萃华(002731)：*ST萃华:关于预计无法在规定期限内披露2025年年度报告暨股票可能被终止上市暨无法在预约日期及预计无法在法定期限内披露2026年半年度报告的风险提示公告",
-        "publishedAt": "2026-08-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002731/AN202608181828117683.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST萃华(002731)"
-        ],
-        "importance": 1,
-        "noticeType": "终止上市风险提示"
-      },
-      {
-        "title": "格林生物:首次公开发行股票并在创业板上市投资风险特别公告",
-        "summary": "格林生物(301688)：格林生物:首次公开发行股票并在创业板上市投资风险特别公告",
-        "publishedAt": "2026-08-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301688/AN202608181828117655.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "格林生物(301688)"
-        ],
-        "importance": 1,
-        "noticeType": "首发投资风险特别公告"
-      },
-      {
-        "title": "外交部提醒中国公民谨慎赴帕劳旅游",
-        "summary": "【外交部提醒中国公民谨慎赴帕劳旅游】据领事直通车，近年，帕劳发生多起针对游客盗抢案件，当事人损失严重。当地涉水环境复杂，搜救力量、医疗条件有限，涉中国游客意外事故频发。外交部和中国驻密克罗尼西亚联邦使馆提醒中国公民注意帕劳安全风险，谨慎赴帕劳旅游，已在当地人员务必提高警惕，增强风险防范意识。",
-        "publishedAt": "2026-08-19 16:30:19",
+        "title": "汇丰香港：港元稳定币落地准备工作如期推进 详情将于短期内公布",
+        "summary": "【汇丰香港：港元稳定币落地准备工作如期推进 详情将于短期内公布】近日有市场观点称，首批两张港元稳定币牌照持有方态度分化，汇丰方面呈现消极态度，这或与其主营业务存在直接冲突有关。针对上述舆论，汇丰香港发言人独家回应财联社记者表示，汇丰在香港数码资产领域持续积极布局。“我们按计划于2026年下半年推出，准备工作正如期推进，详情将于短期内公布。”",
+        "publishedAt": "2026-08-19 21:16:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608193846279746.html",
+        "url": "https://finance.eastmoney.com/a/202608193846544250.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "医药"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "格林生物:长江证券承销保荐有限公司关于参与战略配售投资者的专项核查报告",
-        "summary": "格林生物(301688)：格林生物:长江证券承销保荐有限公司关于参与战略配售投资者的专项核查报告",
+        "title": "沃特股份:2026年8月18日投资者关系活动记录表",
+        "summary": "沃特股份(002886)：沃特股份:2026年8月18日投资者关系活动记录表",
         "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301688/AN202608181828117652.html",
+        "url": "https://data.eastmoney.com/notices/detail/002886/AN202608191828162276.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "沃特股份(002886)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "福元医药:北京福元医药股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
+        "summary": "福元医药(601089)：福元医药:北京福元医药股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601089/AN202608191828160051.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "福元医药(601089)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "森合高科:关于广西森合高新科技股份有限公司以自筹资金预先投入募集资金投资项目和支付发行费用的鉴证报告",
+        "summary": "森合高科(920038)：森合高科:关于广西森合高新科技股份有限公司以自筹资金预先投入募集资金投资项目和支付发行费用的鉴证报告",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920038/AN202608191828156462.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "森合高科(920038)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "鼎阳科技:投资者关系活动记录表(2026年8月17日)",
+        "summary": "鼎阳科技(688112)：鼎阳科技:投资者关系活动记录表(2026年8月17日)",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688112/AN202608191828155977.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鼎阳科技(688112)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "2026年8月19日天孚通信投资者关系活动记录表",
+        "summary": "天孚通信(300394)：2026年8月19日天孚通信投资者关系活动记录表",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202608191828165334.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天孚通信(300394)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "关于同意TCL科技重大资产重组注册的批复",
+        "summary": "TCL科技(000100)：关于同意TCL科技重大资产重组注册的批复",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000100/AN202608191828165108.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "TCL科技(000100)"
+        ],
+        "importance": 1,
+        "noticeType": "深主板并购重组审核注册结果通知"
+      },
+      {
+        "title": "西部证券:西部证券股份有限公司2026年面向专业投资者公开发行公司债券(第五期)票面利率公告",
+        "summary": "西部证券(002673)：西部证券:西部证券股份有限公司2026年面向专业投资者公开发行公司债券(第五期)票面利率公告",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002673/AN202608191828164762.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -156895,49 +156860,69 @@
           "金融"
         ],
         "tickers": [
-          "格林生物(301688)"
+          "西部证券(002673)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "其他"
       },
       {
-        "title": "格林生物:上海市锦天城律师事务所关于参与战略配售投资者核查事项的法律意见书",
-        "summary": "格林生物(301688)：格林生物:上海市锦天城律师事务所关于参与战略配售投资者核查事项的法律意见书",
+        "title": "002532天山铝业投资者关系管理信息20260819",
+        "summary": "天山铝业(002532)：002532天山铝业投资者关系管理信息20260819",
         "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301688/AN202608181828117649.html",
+        "url": "https://data.eastmoney.com/notices/detail/002532/AN202608191828164365.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [
+          "天山铝业(002532)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000680山推股份投资者关系管理信息20260819",
+        "summary": "山推股份(000680)：000680山推股份投资者关系管理信息20260819",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000680/AN202608191828164245.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "格林生物(301688)"
+          "山推股份(000680)"
         ],
         "importance": 1,
-        "noticeType": "法律意见书"
+        "noticeType": "调研活动"
       },
       {
-        "title": "光力科技:光力科技股份有限公司2026年限制性股票激励计划(草案)摘要",
-        "summary": "光力科技(300480)：光力科技:光力科技股份有限公司2026年限制性股票激励计划(草案)摘要",
+        "title": "广联航空:关于签订日常经营重大销售合同暨收到中标通知书的进展公告",
+        "summary": "广联航空(300900)：广联航空:关于签订日常经营重大销售合同暨收到中标通知书的进展公告",
         "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300480/AN202608181828117583.html",
+        "url": "https://data.eastmoney.com/notices/detail/300900/AN202608191828162564.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "军工"
+        ],
         "tickers": [
-          "光力科技(300480)"
+          "广联航空(300900)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划摘要"
+        "noticeType": "重大合同"
       },
       {
-        "title": "大摩：信达生物上半年产品收入强劲 上调目标价至138.5港元",
-        "summary": "【大摩：信达生物上半年产品收入强劲 上调目标价至138.5港元】摩根士丹利发布研报称，信达生物上半年产品收入82亿元人民币，上调2026至2028年产品收入/总收入预测6%/5%/2%，主要反映GLP-1、PCSK9及合作产品等核心产品表现强劲，期内每股盈利预测相应变动为+13.7%/+11.2%/-1.2%。目标价由135港元上调至138.5港元，评级“…",
-        "publishedAt": "2026-08-19 16:36:57",
+        "title": "2026年8月票房破40亿",
+        "summary": "【2026年8月票房破40亿】据灯塔专业版，截至8月19日，2026年8月总票房（含预售）突破40亿，《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《八仙！》《奥德赛》《功夫女足》暂列8月票房榜前五。",
+        "publishedAt": "2026-08-19 21:13:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608193846287960.html",
+        "url": "https://finance.eastmoney.com/a/202608193846543743.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -156947,32 +156932,43 @@
         "noticeType": ""
       },
       {
-        "title": "立昂微：12英寸硅片出货量大幅增长 硅片已进入涨价周期",
-        "summary": "【立昂微：12英寸硅片出货量大幅增长 硅片已进入涨价周期】立昂微(605358.SH)发布投资者关系活动记录表公告，公司2021年定增对应的募集资金投资项目均已如期投产。随着半导体行业景气度复苏，半导体硅片市场需求旺盛，目前已进入涨价周期。",
-        "publishedAt": "2026-08-19 16:27:49",
+        "title": "电影《欢迎来龙餐馆》票房破12亿",
+        "summary": "【电影《欢迎来龙餐馆》票房破12亿】据灯塔专业版实时数据，截至8月19日20时27分，影片《欢迎来龙餐馆》票房突破12亿。",
+        "publishedAt": "2026-08-19 21:13:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608193846279614.html",
+        "url": "https://finance.eastmoney.com/a/202608193846543668.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "华盛锂电：终止3.6亿元危废处置项目投资",
-        "summary": "【华盛锂电：终止3.6亿元危废处置项目投资】华盛锂电(688353.SH)公告称，公司董事会审议通过终止投资年处理144,000吨固液气综合危废焚烧处置&资源化循环利用中心项目。该项目原计划总投资3.6亿元，由公司与宜兴福鼎、梦泽国投共同出资设立华烽绿能实施，公司持股70%。",
-        "publishedAt": "2026-08-19 16:22:43",
+        "title": "抚顺特钢：上半年净利润亏损2.53亿元 同比减亏",
+        "summary": "【抚顺特钢：上半年净利润亏损2.53亿元 同比减亏】抚顺特钢披露半年报，2026年上半年，公司实现营业收入41.96亿元，同比增加9.75%；净利润亏损2.53亿元，同比减亏；基本每股收益为-0.13元。",
+        "publishedAt": "2026-08-19 21:44:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608193846269094.html",
+        "url": "https://finance.eastmoney.com/a/202608193846601432.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "受现货黄金上涨影响 美股黄金股盘初全线走高",
+        "summary": "【受现货黄金上涨影响 美股黄金股盘初全线走高】现货黄金日内涨近3%，美股黄金股盘初全线走高，科尔黛伦矿业涨超7%，伊格尔矿业、纽曼矿业、金罗斯黄金涨超6%，泛美白银、金田、Barrick Mining涨超5%。",
+        "publishedAt": "2026-08-19 21:43:54",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608193846601810.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "新能源",
           "有色稀土"
         ],
         "tickers": [],
@@ -156980,33 +156976,17 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至8月14日当周API汽油库存变动(万桶)",
-        "summary": "美国截至8月14日当周API汽油库存变动(万桶)；公布 107.6，预期 nan，前值 -153.1。",
-        "publishedAt": "2026-08-19 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "天孚通信：CPO配套产品已进入量产交付阶段",
+        "summary": "【天孚通信：CPO配套产品已进入量产交付阶段】天孚通信(300394.SZ)接受机构调研时表示，公司CPO相关配套产品已进入量产交付阶段，产品良率已满足规模量产需要，公司会围绕客户需求预测提前准备产能，满足客户长期提产需求。",
+        "publishedAt": "2026-08-19 21:43:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608193846601679.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至8月14日当周API原油库存变动(万桶)",
-        "summary": "美国截至8月14日当周API原油库存变动(万桶)；公布 -32.8，预期 nan，前值 907.2。",
-        "publishedAt": "2026-08-19 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -157111,15 +157091,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-19 16:44:54",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 有色稀土、新能源、能源。",
+        "generatedAt": "2026-08-19 21:50:39",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、医药、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、新能源、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -157150,7 +157130,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-19 16:44:10",
+        "generatedAt": "2026-08-19 21:49:45",
         "summary": "上午情绪分 0，涨停 36 家，跌停 118 家，炸板 12 家，连板 7 家，最高 3 板。",
         "sections": [
           {
@@ -157189,7 +157169,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-19 16:44:10",
+        "generatedAt": "2026-08-19 21:49:45",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -157215,7 +157195,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 118 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：永杉锂业:永杉锂业关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告；永杉锂业:关于锦州永杉锂业股份有限公司向特定对象发行股票申请文件的审核问询函的回复。",
+              "新闻/公告风险：天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告；迪安诊断:关于控股股东股份质押续期的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
