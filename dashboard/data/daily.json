@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-18",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-18 21:58:14",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-18 21:58:14",
+    "lastNewsAt": "2026-08-19 10:02:28"
   },
   "indices": [
     {
@@ -166204,20 +166206,15 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-18",
-    "generatedAt": "2026-08-18 21:59:08",
+    "tradeDate": "2026-08-19",
+    "generatedAt": "2026-08-19 10:02:28",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 AI算力、半导体、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 11 条；主题映射集中在 金融、有色稀土、医药。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 9,
+        "name": "金融",
+        "score": 20,
         "isFocusBoard": false
       },
       {
@@ -166226,8 +166223,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 8,
+        "name": "医药",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -166236,303 +166238,324 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "机器人",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "金禄电子:股票交易异常波动公告",
-        "summary": "金禄电子(301282)：金禄电子:股票交易异常波动公告",
-        "publishedAt": "2026-08-18",
+        "title": "蓝盾光电:股票交易风险提示暨停牌核查公告",
+        "summary": "蓝盾光电(300862)：蓝盾光电:股票交易风险提示暨停牌核查公告",
+        "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301282/AN202608181828113293.html",
+        "url": "https://data.eastmoney.com/notices/detail/300862/AN202608181828120020.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "金禄电子(301282)"
+          "蓝盾光电(300862)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "停牌公告"
       },
       {
-        "title": "新威凌:股东减持股份结果公告",
-        "summary": "新威凌(920634)：新威凌:股东减持股份结果公告",
-        "publishedAt": "2026-08-18",
+        "title": "东兴证券:国投证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复之专项核查意见",
+        "summary": "东兴证券(601198)：东兴证券:国投证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复之专项核查意见",
+        "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920634/AN202608181828113017.html",
+        "url": "https://data.eastmoney.com/notices/detail/601198/AN202608181828119375.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新威凌(920634)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "ST雪浪:关于取得专利证书的公告",
-        "summary": "ST雪浪(300385)：ST雪浪:关于取得专利证书的公告",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300385/AN202608181828110074.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST雪浪(300385)"
-        ],
-        "importance": 1,
-        "noticeType": "获得认证"
-      },
-      {
-        "title": "费城半导体指数跌4% 创7月29日以来最大跌幅",
-        "summary": "【费城半导体指数跌4% 创7月29日以来最大跌幅】费城半导体指数跌4%，报12106.61点，创7月29日以来最大跌幅。英伟达股价下跌1.95%，台积电股价下跌3.24%，博通股价下跌2.7%，美光科技股价下跌4.49%，超威半导体股价下跌3.92%，英特尔股价下跌4.88%，ARM股价下跌6.5%，闪迪股价下跌5.62%。",
-        "publishedAt": "2026-08-18 21:45:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608183844852174.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "百度美国存托凭证开盘下跌10%",
-        "summary": "百度美国存托凭证（ADR）开盘下跌10%，创6月5日以来最大单日跌幅。",
-        "publishedAt": "2026-08-18 21:32:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608183844816141.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "龙蟠科技：拟认购工商银行理财产品10亿元",
-        "summary": "【龙蟠科技：拟认购工商银行理财产品10亿元】龙蟠科技（02465.HK）发布须予披露交易公告，公司于2026年8月18日拟向中国工商银行认购一款人民币10亿元的结构性存款理财产品，投资期为14天（2026年8月20日至2026年9月3日），产品类型为保本保最低收益型，风险评级为低风险，预计年化收益率区间为0.65%–1.80%，不可提前赎回。",
-        "publishedAt": "2026-08-18 21:32:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608183844822574.html",
-        "category": "market",
-        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
           "金融"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "费城半导体指数开盘下跌3.6%",
-        "summary": "【费城半导体指数开盘下跌3.6%】费城半导体指数开盘下跌3.6%，成分股方面，英伟达股价下跌2.21%，台积电股价下跌2.88%，博通股价下跌1.8%，美光科技股价下跌4.57%，超威半导体股价下跌3.15%，阿斯麦股价下跌3.41%。",
-        "publishedAt": "2026-08-18 21:31:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608183844814329.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "000680山推股份投资者关系管理信息20260818",
-        "summary": "山推股份(000680)：000680山推股份投资者关系管理信息20260818",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000680/AN202608181828116618.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
         "tickers": [
-          "山推股份(000680)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "创业黑马:中兴华会计师事务所(特殊普通合伙)关于创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复之核查意见",
-        "summary": "创业黑马(300688)：创业黑马:中兴华会计师事务所(特殊普通合伙)关于创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复之核查意见",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300688/AN202608181828112879.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "创业黑马(300688)"
+          "东兴证券(601198)"
         ],
         "importance": 1,
         "noticeType": "保荐/核查意见"
       },
       {
-        "title": "创业黑马:关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复",
-        "summary": "创业黑马(300688)：创业黑马:关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复",
-        "publishedAt": "2026-08-18",
+        "title": "东兴证券:毕马威华振会计师事务所(特殊普通合伙)关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请文件的审核问询函回复的专项说明",
+        "summary": "东兴证券(601198)：东兴证券:毕马威华振会计师事务所(特殊普通合伙)关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请文件的审核问询函回复的专项说明",
+        "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300688/AN202608181828112951.html",
+        "url": "https://data.eastmoney.com/notices/detail/601198/AN202608181828119376.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "创业黑马(300688)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "复旦微电:关于对外投资暨关联交易的公告",
-        "summary": "复旦微电(688385)：复旦微电:关于对外投资暨关联交易的公告",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688385/AN202608171828057962.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "复旦微电(688385)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "德才股份:2026年8月13日投资者关系活动记录表",
-        "summary": "德才股份(605287)：德才股份:2026年8月13日投资者关系活动记录表",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605287/AN202608181828118630.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "德才股份(605287)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "芯原股份:2026年8月17日投资者关系活动记录表",
-        "summary": "芯原股份(688521)：芯原股份:2026年8月17日投资者关系活动记录表",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688521/AN202608181828118371.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "芯原股份(688521)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "锴威特:苏州锴威特半导体股份有限公司投资者关系活动记录表(发行股份及支付现金购买资产并募集配套资金暨关联交易事项投资者说明会)",
-        "summary": "锴威特(688693)：锴威特:苏州锴威特半导体股份有限公司投资者关系活动记录表(发行股份及支付现金购买资产并募集配套资金暨关联交易事项投资者说明会)",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688693/AN202608181828118302.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [
-          "锴威特(688693)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "山西证券:山西证券股份有限公司2026年面向专业投资者公开发行公司债券(第二期)票面利率公告",
-        "summary": "山西证券(002500)：山西证券:山西证券股份有限公司2026年面向专业投资者公开发行公司债券(第二期)票面利率公告",
-        "publishedAt": "2026-08-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002500/AN202608181828117946.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "山西证券(002500)"
+          "东兴证券(601198)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "盛弘股份:2026年8月18日投资者关系活动记录表",
-        "summary": "盛弘股份(300693)：盛弘股份:2026年8月18日投资者关系活动记录表",
-        "publishedAt": "2026-08-18",
+        "title": "东兴证券:关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复",
+        "summary": "东兴证券(601198)：东兴证券:关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复",
+        "publishedAt": "2026-08-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300693/AN202608181828117804.html",
+        "url": "https://data.eastmoney.com/notices/detail/601198/AN202608181828119373.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "东兴证券(601198)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "东兴证券:东兴证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函回复的公告",
+        "summary": "东兴证券(601198)：东兴证券:东兴证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函回复的公告",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601198/AN202608181828119378.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "东兴证券(601198)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "信达证券:立信会计师事务所(特殊普通合伙)关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函之回复报告",
+        "summary": "信达证券(601059)：信达证券:立信会计师事务所(特殊普通合伙)关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函之回复报告",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601059/AN202608181828119260.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "信达证券(601059)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "信达证券:中银国际证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复之专项核查意见",
+        "summary": "信达证券(601059)：信达证券:中银国际证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复之专项核查意见",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601059/AN202608181828119267.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "信达证券(601059)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "信达证券:信达证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函回复的公告",
+        "summary": "信达证券(601059)：信达证券:信达证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函回复的公告",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601059/AN202608181828119259.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "信达证券(601059)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "中金公司:中金公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函回复的公告",
+        "summary": "中金公司(601995)：中金公司:中金公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函回复的公告",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601995/AN202608181828118563.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "中金公司(601995)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "中金公司:关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复",
+        "summary": "中金公司(601995)：中金公司:关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601995/AN202608181828118568.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "中金公司(601995)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "中金公司:兴业证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复之专项核查意见",
+        "summary": "中金公司(601995)：中金公司:兴业证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复之专项核查意见",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601995/AN202608181828118562.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "中金公司(601995)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "美好医疗:2026年8月18日投资者关系活动记录表",
+        "summary": "美好医疗(301363)：美好医疗:2026年8月18日投资者关系活动记录表",
+        "publishedAt": "2026-08-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301363/AN202608191828122271.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "医药"
+        ],
         "tickers": [
-          "盛弘股份(300693)"
+          "美好医疗(301363)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "美国6月外资净买入长期证券(亿美元)",
-        "summary": "美国6月外资净买入长期证券(亿美元)；公布 1727.0，预期 nan，前值 2327.0。",
-        "publishedAt": "2026-08-18 04:00",
+        "title": "重磅！朱雀三号完成一子级回收 A股这些公司有合作",
+        "summary": "【重磅！朱雀三号完成一子级回收 A股这些公司有合作】8月19日，朱雀三号遥二运载火箭在东风商业航天创新试验区发射升空，火箭一子级按预定程序成功着陆于甘肃省民勤县朱雀三号着陆场坪。这是我国在重复使用火箭关键技术上取得的又一重大突破，朱雀三号成为我国首款成功入轨并实现陆地回收的运载火箭。",
+        "publishedAt": "2026-08-19 09:50:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608193845583759.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至8月14日当周API汽油库存变动(万桶)",
+        "summary": "美国截至8月14日当周API汽油库存变动(万桶)；公布 107.6，预期 nan，前值 -153.1。",
+        "publishedAt": "2026-08-19 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至8月14日当周API原油库存变动(万桶)",
+        "summary": "美国截至8月14日当周API原油库存变动(万桶)；公布 -32.8，预期 nan，前值 907.2。",
+        "publishedAt": "2026-08-19 04:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国8月17日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月17日iShares白银持仓-每日更新(吨)；公布 15272.78，预期 nan，前值 15312.13。",
-        "publishedAt": "2026-08-18 06:30",
+        "title": "美国8月18日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月18日iShares黄金持仓-每日更新(吨)；公布 456.2，预期 nan，前值 456.2。",
+        "publishedAt": "2026-08-19 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月18日iShares白银持仓-每日更新(吨)",
+        "summary": "美国8月18日iShares白银持仓-每日更新(吨)；公布 15343.05，预期 nan，前值 15272.78。",
+        "publishedAt": "2026-08-19 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月18日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国8月18日SPDR黄金持仓-每日更新(吨)；公布 1025.24，预期 nan，前值 1030.66。",
+        "publishedAt": "2026-08-19 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -166703,7 +166726,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -166716,15 +166739,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-18 21:59:08",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 AI算力、半导体、有色稀土。",
+        "generatedAt": "2026-08-19 10:02:28",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 11 条；主题映射集中在 金融、有色稀土、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：AI算力、半导体、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -166820,7 +166843,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：金禄电子:股票交易异常波动公告；新威凌:股东减持股份结果公告。",
+              "新闻/公告风险：蓝盾光电:股票交易风险提示暨停牌核查公告；东兴证券:国投证券股份有限公司关于中国国际金融股份有限公司换股吸收合并东兴证券股份有限公司、信达证券股份有限公司申请的审核问询函的回复之专项核查意见。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
