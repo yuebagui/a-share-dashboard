@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-20",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-20 21:51:44",
+    "generatedAt": "2026-08-20 22:00:33",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -158815,31 +158815,31 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-20",
-    "generatedAt": "2026-08-20 21:54:25",
+    "generatedAt": "2026-08-20 22:03:01",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 半导体、AI算力、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 AI算力、半导体、新能源。",
     "themes": [
+      {
+        "name": "AI算力",
+        "score": 7,
+        "isFocusBoard": false
+      },
       {
         "name": "半导体",
         "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
         "name": "新能源",
-        "score": 5,
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 5,
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -158855,6 +158855,22 @@
     ],
     "items": [
       {
+        "title": "发行人及中介机构回复意见(深圳市艺感科技股份有限公司)",
+        "summary": "艺感科技(A26116)：发行人及中介机构回复意见(深圳市艺感科技股份有限公司)",
+        "publishedAt": "2026-08-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/A26116/AN202608201828219805.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "艺感科技(A26116)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板IPO问询与回复"
+      },
+      {
         "title": "晨化股份:关于董事、高级管理人员减持计划期限届满的公告",
         "summary": "晨化股份(300610)：晨化股份:关于董事、高级管理人员减持计划期限届满的公告",
         "publishedAt": "2026-08-20",
@@ -158869,38 +158885,6 @@
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "康比特:股东减持股份结果公告",
-        "summary": "康比特(920429)：康比特:股东减持股份结果公告",
-        "publishedAt": "2026-08-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920429/AN202608201828216838.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "康比特(920429)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "关于上海南方模式生物科技股份有限公司有关事项的监管工作函",
-        "summary": "南模生物(688265)：关于上海南方模式生物科技股份有限公司有关事项的监管工作函",
-        "publishedAt": "2026-08-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688265/AN202608201828216738.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "南模生物(688265)"
-        ],
-        "importance": 1,
-        "noticeType": "上交所股票监管工作函"
       },
       {
         "title": "Moderna下跌18%",
@@ -159009,6 +158993,22 @@
         "noticeType": "调研活动"
       },
       {
+        "title": "昆仑万维:昆仑万维2026年8月20日投资者关系活动记录表",
+        "summary": "昆仑万维(300418)：昆仑万维:昆仑万维2026年8月20日投资者关系活动记录表",
+        "publishedAt": "2026-08-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300418/AN202608201828219785.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "昆仑万维(300418)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
         "title": "时代电气:株洲中车时代电气股份有限公司投资者关系活动记录表2026003",
         "summary": "时代电气(688187)：时代电气:株洲中车时代电气股份有限公司投资者关系活动记录表2026003",
         "publishedAt": "2026-08-20",
@@ -159091,6 +159091,20 @@
         "noticeType": "投资理财"
       },
       {
+        "title": "首创环保：拟2.54亿元投建延津县垃圾焚烧供热供汽项目",
+        "summary": "【首创环保：拟2.54亿元投建延津县垃圾焚烧供热供汽项目】首创环保(600008.SH)公告称，公司子公司前海首创拟投资建设河南省新乡市延津县垃圾焚烧供热供汽项目，垃圾处理规模500吨/日，项目总投资2.54亿元。",
+        "publishedAt": "2026-08-20 21:48:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608203848129556.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "新一轮芯片涨价潮来袭！半导体公司密集宣布涨价",
         "summary": "【新一轮芯片涨价潮来袭！半导体公司密集宣布涨价】AI对半导体产业链的“虹吸效应”仍在持续发酵。进入2026年下半年，新一轮芯片涨价潮以更广的覆盖面和更强的力度席卷而来。8月10日，射频芯片龙头卓胜微发布调价函，宣布自9月1日起对全系列RF产品执行新价格。次日，国民技术跟进，将部分MCU产品价格上调10%至20%。国际大厂方面，意法半导体（ST）将于8月23…",
         "publishedAt": "2026-08-20 21:35:00",
@@ -159117,23 +159131,6 @@
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "亿纬锂能：目前储能订单充足 在手订单已超过现有产能",
-        "summary": "【亿纬锂能：目前储能订单充足 在手订单已超过现有产能】亿纬锂能近日在电话会议中表示，公司目前储能订单充足，在手订单已超过现有产能，预计明年储能出货量将大幅增长，增速主要取决于产能释放节奏。区域方面，今年海外占比也会提升，主要受益于海外国际客户放量。",
-        "publishedAt": "2026-08-20 21:15:13",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608203848072066.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -159478,15 +159475,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-20 21:54:25",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 半导体、AI算力、新能源。",
+        "generatedAt": "2026-08-20 22:03:01",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 AI算力、半导体、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：医疗服务、贵金属、医疗器械；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、AI算力、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、半导体、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -159517,7 +159514,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-20 21:51:44",
+        "generatedAt": "2026-08-20 22:00:33",
         "summary": "上午情绪分 65，涨停 79 家，跌停 12 家，炸板 46 家，连板 4 家，最高 4 板。",
         "sections": [
           {
@@ -159556,7 +159553,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-20 21:51:44",
+        "generatedAt": "2026-08-20 22:00:33",
         "summary": "市场温度 中，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -159582,7 +159579,7 @@
               "今日炸板 46 只，追高前先看前排封单和回封质量。",
               "今日跌停 12 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：晨化股份:关于董事、高级管理人员减持计划期限届满的公告；康比特:股东减持股份结果公告。",
+              "新闻/公告风险：发行人及中介机构回复意见(深圳市艺感科技股份有限公司)；晨化股份:关于董事、高级管理人员减持计划期限届满的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
