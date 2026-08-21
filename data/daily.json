@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-21",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-21 16:50:07",
+    "generatedAt": "2026-08-21 21:50:33",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -151468,12 +151468,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-21",
-    "generatedAt": "2026-08-21 16:51:50",
+    "generatedAt": "2026-08-21 21:53:26",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: ('Connection broken: IncompleteRead(25829 bytes read, 48813 more expected)', IncompleteRead(25829 bytes read, 48813 more expected))"
+      "notices: ('Connection broken: IncompleteRead(32505 bytes read, 37797 more expected)', IncompleteRead(32505 bytes read, 37797 more expected))"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、AI算力、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 有色稀土、半导体、能源。",
     "themes": [
       {
         "name": "有色稀土",
@@ -151481,23 +151481,28 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 5,
+        "name": "半导体",
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 3,
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "国联民生：总裁葛小波因个人原因辞职",
-        "summary": "【国联民生：总裁葛小波因个人原因辞职】国联民生(601456.SH)公告称，公司董事会于2026年8月21日收到执行董事、总裁葛小波的辞职报告，其因个人原因辞去执行董事、总裁、董事会风险控制委员会委员、董事会战略与ESG委员会委员等职务，辞职后不在公司及控股子公司任职。",
-        "publishedAt": "2026-08-21 16:44:35",
+        "title": "高盛继续认为其2026年底金价预测面临显著上行风险",
+        "summary": "【高盛继续认为其2026年底金价预测面临显著上行风险】高盛继续认为其2026年底金价预测面临显著上行风险，有望达到每盎司4,900美元。",
+        "publishedAt": "2026-08-21 21:44:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849323138.html",
+        "url": "https://finance.eastmoney.com/a/202608213849657424.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -151507,59 +151512,14 @@
         "noticeType": ""
       },
       {
-        "title": "伊朗议长：将继续抵抗“霸权势力”",
-        "summary": "【伊朗议长：将继续抵抗“霸权势力”】当地时间21日，正在伊拉克访问的伊朗伊斯兰议会议长卡利巴夫表示，正如伊朗和伊拉克在美以伊冲突中“挫败美国，使其尝到失败的苦果”一样，两国今后也将继续抵抗“霸权势力”，这条路线仍将延续下去。",
-        "publishedAt": "2026-08-21 16:40:07",
+        "title": "欧盟拟就“E1区”定居点建设制裁以色列",
+        "summary": "【欧盟拟就“E1区”定居点建设制裁以色列】据以色列方面20日消息，由于以色列在约旦河西岸推进“E1区”定居点建设计划，欧盟准备就此对以方实施涵盖商业、学术和安全领域的“一揽子制裁”。",
+        "publishedAt": "2026-08-21 21:30:38",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849322044.html",
+        "url": "https://finance.eastmoney.com/a/202608213849616571.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "韩国拟设“未来基金”：将超额税收反哺年轻一代 规模或超百万亿韩元",
-        "summary": "【韩国拟设“未来基金”：将超额税收反哺年轻一代 规模或超百万亿韩元】韩国企划财政部周五表示，计划设立一项新基金，将该国半导体产业繁荣带来的税收收益用于扶持年轻一代，并投资人工智能等未来增长型产业。",
-        "publishedAt": "2026-08-21 16:47:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849325168.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国家发展改革委召开“两重”建设工作推进会 督促各地有力有效加快重大项目建设",
-        "summary": "【国家发展改革委召开“两重”建设工作推进会 督促各地有力有效加快重大项目建设】8月20日，国家发展改革委党组成员、副主任岳修虎主持召开“两重”建设工作推进会，天津、内蒙古、江苏、浙江、河南、广东等6省（区、市）分别做了发言。会议重点通报全国“两重”建设项目实施进展情况，布置下一步重点工作，要求各地加大督促力度，真抓实干、有力有效加快推动重大项目建设。国家发…",
-        "publishedAt": "2026-08-21 16:46:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849325475.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "阿莱德：筹划取得源宝精密不低于51%股权 预计构成重大资产重组",
-        "summary": "【阿莱德：筹划取得源宝精密不低于51%股权 预计构成重大资产重组】阿莱德(301419.SZ)公告称，公司拟通过支付现金受让及增资方式取得惠州市源宝精密五金压铸有限公司不低于51%股权，预计构成重大资产重组。交易对方为标的公司唯一股东BLUE MAX ENTERPRISE LIMITED，双方已签署投资意向协议，交易尚处初步筹划阶段，股票不停牌。",
-        "publishedAt": "2026-08-21 16:36:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849313974.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
@@ -151684,11 +151644,11 @@
         "noticeType": ""
       },
       {
-        "title": "民和股份：上半年净亏损9524.12万元 同比减亏",
-        "summary": "【民和股份：上半年净亏损9524.12万元 同比减亏】民和股份披露半年报，2026年上半年，公司实现营业收入10.27亿元，同比增长4.17%；归属于上市公司股东的净利润亏损9524.12万元，上年同期亏损2.14亿元。",
-        "publishedAt": "2026-08-21 16:44:14",
+        "title": "美股加密货币概念股盘初继续走强",
+        "summary": "【美股加密货币概念股盘初继续走强】美股加密货币概念股盘初继续走强，Robinhood、Circle涨超9%，Coinbase涨超7%，Strategy涨超6%。",
+        "publishedAt": "2026-08-21 21:47:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849327434.html",
+        "url": "https://finance.eastmoney.com/a/202608213849658227.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -151698,11 +151658,11 @@
         "noticeType": ""
       },
       {
-        "title": "博雅生物：上半年归母净利润同比下降77.28%",
-        "summary": "【博雅生物：上半年归母净利润同比下降77.28%】博雅生物8月21日披露半年报，公司上半年实现营业收入6.44亿元，同比下降36.14%；归属于上市公司股东的净利润5118.87万元，同比下降77.28%；基本每股收益0.1元/股。",
-        "publishedAt": "2026-08-21 16:44:07",
+        "title": "美国8月标普全球服务业PMI初值为56.8 预估为54",
+        "summary": "美国8月标普全球服务业PMI初值为56.8，预估为54，前值为54.6。",
+        "publishedAt": "2026-08-21 21:46:30",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849327663.html",
+        "url": "https://finance.eastmoney.com/a/202608213849657781.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -151712,11 +151672,11 @@
         "noticeType": ""
       },
       {
-        "title": "“十五五”期间我国将全力构建现代气候业务体系",
-        "summary": "【“十五五”期间我国将全力构建现代气候业务体系】据新华社，记者21日从中国气象局了解到，中国气象局日前出台的《气候业务高质量发展实施方案（2026—2030年）》提出，到2030年，我国将建成适应需求、结构完善、功能先进、服务智能的现代气候业务体系。",
-        "publishedAt": "2026-08-21 16:43:07",
+        "title": "美国8月标普全球制造业PMI初值为53.2 预估53.9",
+        "summary": "美国8月标普全球制造业PMI初值为53.2，预估53.9，前值53.9。",
+        "publishedAt": "2026-08-21 21:45:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849327883.html",
+        "url": "https://finance.eastmoney.com/a/202608213849657282.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -151726,27 +151686,72 @@
         "noticeType": ""
       },
       {
-        "title": "浪潮集团与临沂市人民政府签署战略合作协议",
-        "summary": "【浪潮集团与临沂市人民政府签署战略合作协议】根据协议，双方将围绕人工智能创新应用、产业创新发展、社会治理现代化等方面开展务实合作，打造一批可复制、可推广的人工智能创新应用标杆案例，共同培育壮大新一代信息技术产业生态，为数字强省建设贡献更大力量。",
-        "publishedAt": "2026-08-21 16:42:07",
+        "title": "私募股权公司阿波罗确认数据泄露",
+        "summary": "私募股权公司阿波罗确认数据泄露。",
+        "publishedAt": "2026-08-21 21:40:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849322837.html",
+        "url": "https://finance.eastmoney.com/a/202608213849651026.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "德国储气水平跌至历年同期最低",
+        "summary": "【德国储气水平跌至历年同期最低】德国能源储存倡议协会最新数据显示，德国天然气存储设施当前的储气水平已跌至2011年有记录以来历年同期最低。",
+        "publishedAt": "2026-08-21 21:38:54",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608213849645064.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "AI算力"
+          "半导体",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "伊拉克派遣部长前往沙特阿拉伯讨论欧佩克产量问题",
-        "summary": "据报道，伊拉克派遣部长前往沙特阿拉伯讨论欧佩克产量问题。",
-        "publishedAt": "2026-08-21 16:41:02",
+        "title": "纳斯达克中国金龙指数涨超1%",
+        "summary": "纳斯达克中国金龙指数涨超1%。",
+        "publishedAt": "2026-08-21 21:32:52",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849321814.html",
+        "url": "https://finance.eastmoney.com/a/202608213849618171.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "费城半导体指数开盘涨1%",
+        "summary": "费城半导体指数开盘涨1%，报11929.87点。",
+        "publishedAt": "2026-08-21 21:31:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608213849617927.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股三大指数集体高开 加密货币概念股走高",
+        "summary": "【美股三大指数集体高开 加密货币概念股走高】美股三大指数集体高开，道琼斯指数涨0.55%，标普500指数涨0.48%，纳斯达克综合指数涨0.51%。加密货币概念股走高，Strategy涨超6%，Coinbase、Circle涨超4%。",
+        "publishedAt": "2026-08-21 21:30:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608213849616624.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -151899,15 +151904,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-21 16:51:50",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、AI算力、半导体。",
+        "generatedAt": "2026-08-21 21:53:26",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 有色稀土、半导体、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：贵金属、能源金属、共封装光学(CPO)；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -151938,7 +151943,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-21 16:50:07",
+        "generatedAt": "2026-08-21 21:50:33",
         "summary": "上午情绪分 74，涨停 54 家，跌停 13 家，炸板 18 家，连板 11 家，最高 3 板。",
         "sections": [
           {
@@ -151977,7 +151982,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-21 16:50:07",
+        "generatedAt": "2026-08-21 21:50:33",
         "summary": "市场温度 中，情绪周期偏发酵。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -152003,7 +152008,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 13 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：国联民生：总裁葛小波因个人原因辞职；伊朗议长：将继续抵抗“霸权势力”。",
+              "新闻/公告风险：高盛继续认为其2026年底金价预测面临显著上行风险；欧盟拟就“E1区”定居点建设制裁以色列。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
