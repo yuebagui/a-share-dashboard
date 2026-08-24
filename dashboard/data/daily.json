@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-24",
     "phase": "盘中快照",
-    "generatedAt": "2026-08-24 12:13:24",
+    "generatedAt": "2026-08-24 12:28:30",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -885,6 +885,13 @@
         "note": "涨跌幅 -2.17%，领涨 华是科技 +10.55%"
       },
       {
+        "name": "2026中报预增",
+        "netInflow": -2866800.0,
+        "changePct": -1.74,
+        "type": "概念",
+        "note": "涨跌幅 -1.74%，领涨 恒星科技 +10.06%"
+      },
+      {
         "name": "5G",
         "netInflow": -2792200.0,
         "changePct": -2.65,
@@ -906,6 +913,27 @@
         "note": "涨跌幅 -1.63%，领涨 键凯科技 +16.44%"
       },
       {
+        "name": "人工智能",
+        "netInflow": -2334300.0,
+        "changePct": -1.97,
+        "type": "概念",
+        "note": "涨跌幅 -1.97%，领涨 华是科技 +10.55%"
+      },
+      {
+        "name": "新能源汽车",
+        "netInflow": -2301000.0,
+        "changePct": -1.77,
+        "type": "概念",
+        "note": "涨跌幅 -1.77%，领涨 天力锂能 +20.02%"
+      },
+      {
+        "name": "机器人概念",
+        "netInflow": -2296200.0,
+        "changePct": -1.88,
+        "type": "概念",
+        "note": "涨跌幅 -1.88%，领涨 万凯新材 +15.57%"
+      },
+      {
         "name": "汽车电子",
         "netInflow": -2078700.0,
         "changePct": -2.48,
@@ -913,39 +941,11 @@
         "note": "涨跌幅 -2.48%，领涨 浙江世宝 +10.04%"
       },
       {
-        "name": "消费电子概念",
-        "netInflow": -1722800.0,
-        "changePct": -2.58,
+        "name": "小米概念",
+        "netInflow": -1862600.0,
+        "changePct": -2.36,
         "type": "概念",
-        "note": "涨跌幅 -2.58%，领涨 武汉蓝电 +14.25%"
-      },
-      {
-        "name": "储能",
-        "netInflow": -1602400.0,
-        "changePct": -1.47,
-        "type": "概念",
-        "note": "涨跌幅 -1.47%，领涨 天力锂能 +20.02%"
-      },
-      {
-        "name": "阿里巴巴概念",
-        "netInflow": -1503600.0,
-        "changePct": -2.25,
-        "type": "概念",
-        "note": "涨跌幅 -2.25%，领涨 华是科技 +10.55%"
-      },
-      {
-        "name": "存储芯片",
-        "netInflow": -1442500.0,
-        "changePct": -2.76,
-        "type": "概念",
-        "note": "涨跌幅 -2.76%，领涨 耐科装备 +14.09%"
-      },
-      {
-        "name": "PCB概念",
-        "netInflow": -1416500.0,
-        "changePct": -3.27,
-        "type": "概念",
-        "note": "涨跌幅 -3.27%，领涨 博杰股份 +10.01%"
+        "note": "涨跌幅 -2.36%，领涨 浙江世宝 +10.04%"
       }
     ]
   },
@@ -998,14 +998,6 @@
         "note": "涨跌幅 -3.30%，领涨 澳洋健康 +9.90%"
       },
       {
-        "name": "PCB概念",
-        "type": "概念",
-        "changePct": -3.27,
-        "excessPct": -2.56,
-        "netInflow": -1416500.0,
-        "note": "涨跌幅 -3.27%，领涨 博杰股份 +10.01%"
-      },
-      {
         "name": "半导体",
         "type": "行业",
         "changePct": -2.95,
@@ -1030,12 +1022,20 @@
         "note": "涨跌幅 -2.86%，领涨 科森科技 +4.29%"
       },
       {
-        "name": "存储芯片",
+        "name": "化学制药",
+        "type": "行业",
+        "changePct": -2.69,
+        "excessPct": -1.98,
+        "netInflow": -405900.0,
+        "note": "涨跌幅 -2.69%，领涨 键凯科技 +16.44%"
+      },
+      {
+        "name": "5G",
         "type": "概念",
-        "changePct": -2.76,
-        "excessPct": -2.05,
-        "netInflow": -1442500.0,
-        "note": "涨跌幅 -2.76%，领涨 耐科装备 +14.09%"
+        "changePct": -2.65,
+        "excessPct": -1.94,
+        "netInflow": -2792200.0,
+        "note": "涨跌幅 -2.65%，领涨 楚天龙 +10.01%"
       }
     ]
   },
@@ -150982,24 +150982,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-24",
-    "generatedAt": "2026-08-24 12:14:43",
+    "generatedAt": "2026-08-24 12:29:09",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 12 条；主题映射集中在 AI算力、能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、半导体、有色稀土。",
     "themes": [
       {
         "name": "AI算力",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 5,
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -151008,13 +150998,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 4,
+        "name": "有色稀土",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 2,
+        "name": "能源",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -151140,84 +151130,6 @@
         "noticeType": ""
       },
       {
-        "title": "石家庄：8家兽药门店未凭处方销售兽用处方药被立案调查",
-        "summary": "【石家庄：8家兽药门店未凭处方销售兽用处方药被立案调查】8月24日，石家庄市联合调查组发布情况通报：8月23日晚，央视财经曝光石家庄市长安区、平山县存在兽药无处方销售等问题。石家庄市高度重视，第一时间成立由农业农村、市场监管、公安等部门组成的联合调查组，赶赴涉事兽药门店进行现场调查。经初步核查，8家兽药门店存在涉嫌未凭兽医处方销售兽用处方药违法行为。目前，…",
-        "publishedAt": "2026-08-24 11:44:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243850896820.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "科士达：近期公司确有向客户发布涨价通知",
-        "summary": "【科士达：近期公司确有向客户发布涨价通知】科士达(002518)在互动平台回复投资者称，受市场需求波动和部分核心原材料涨价影响，近期公司确有向客户发布涨价通知，系属企业正常经营行为，涨价对公司业绩的影响存在不确定性，请注意投资风险。",
-        "publishedAt": "2026-08-24 11:39:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243850896692.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "午评：创业板指半日跌3.5% 算力硬件股大面积调整",
-        "summary": "【午评：创业板指半日跌3.5% 算力硬件股大面积调整】市场早盘集体走弱，创业板指、科创50指数均跌超3%。沪深两市半日成交额1.37万亿，较上个交易日放量1177亿。盘面上热点弱势轮动，全市场近4300股下跌。从板块来看，农林牧渔板块逆势走强，天山生物、登海种业涨停；煤炭板块持续活跃，上海能源、美锦能源涨停；固态电池板块逆势走强，天力锂能、上海洗霸、金龙羽…",
-        "publishedAt": "2026-08-24 11:31:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243850896068.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "新能源",
-          "有色稀土",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "恒生科技指数下跌4%至4,575.35点",
-        "summary": "恒生科技指数下跌4%至4,575.35点。",
-        "publishedAt": "2026-08-24 11:31:28",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243850895589.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "沪指下跌0.71% 创业板指下跌3.5% 贵金属、煤炭板块逆势走强",
-        "summary": "【午盘播报】沪指下跌0.71%，报3877.30点；深成指下跌2.44%，报13750.12点；创业板指下跌3.50%，报3421.50点，两市半日合计成交13711亿。盘面上，贵金属、种植业、煤炭、保险、饰品、银行板块逆势走强，元件、重组蛋白、单抗概念、MLCC、CPO概念、CRO表现不佳，领跌市场。全市场上涨个股有1137家，下跌个股有4297家，41…",
-        "publishedAt": "2026-08-24 11:30:16",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243850895864.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "博雅生物:2026年8月22日投资者关系活动记录表",
         "summary": "博雅生物(300294)：博雅生物:2026年8月22日投资者关系活动记录表",
         "publishedAt": "2026-08-24",
@@ -151312,6 +151224,80 @@
         ],
         "importance": 1,
         "noticeType": "投资理财"
+      },
+      {
+        "title": "国务院国资委召开中央企业6G未来产业推进会",
+        "summary": "【国务院国资委召开中央企业6G未来产业推进会】国务院国资委8月20日召开中央企业6G未来产业推进会。会议强调，推动6G未来产业发展是中央企业落实国家战略部署、履行战略使命的必然要求，中央企业要主动衔接国家、地方、行业规划，加快实现产业发展目标。要补齐技术短板，加强基础理论源头创新，推动关键技术器件底层突破，构建安全稳定的6G产业链供应链。要夯实产业底座，加…",
+        "publishedAt": "2026-08-24 12:23:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608243850905379.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中国2025年非洲贸易指数",
+        "summary": "中国2025年非洲贸易指数；公布 nan，预期 nan，前值 1056.53。",
+        "publishedAt": "2026-08-24 10:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月24日上期所每日仓单变动-铜(吨)",
+        "summary": "中国8月24日上期所每日仓单变动-铜(吨)；公布 nan，预期 nan，前值 -6974.0。",
+        "publishedAt": "2026-08-24 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月24日上期所每日仓单变动-原油(桶)",
+        "summary": "中国8月24日上期所每日仓单变动-原油(桶)；公布 nan，预期 nan，前值 0.0。",
+        "publishedAt": "2026-08-24 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "埃克森美孚、阿波罗等公司据悉有意竞购壳牌美国化工资产",
+        "summary": "【埃克森美孚、阿波罗等公司据悉有意竞购壳牌美国化工资产】据报道，壳牌在美国的化工资产已吸引潜在竞标者兴趣，包括埃克森美孚、利安德巴赛尔、阿波罗以及科威特石油公司化工部门，资产价值最高可达80亿美元。",
+        "publishedAt": "2026-08-24 12:23:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608243850905559.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       }
     ]
   },
@@ -151443,15 +151429,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-24 12:14:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 12 条；主题映射集中在 AI算力、能源、有色稀土。",
+        "generatedAt": "2026-08-24 12:29:09",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、半导体、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、半导体、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -151482,7 +151468,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-24 12:13:24",
+        "generatedAt": "2026-08-24 12:28:30",
         "summary": "上午情绪分 60，涨停 41 家，跌停 9 家，炸板 16 家，连板 8 家，最高 4 板。",
         "sections": [
           {
@@ -151521,7 +151507,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-24 12:13:24",
+        "generatedAt": "2026-08-24 12:28:30",
         "summary": "市场温度 中，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
