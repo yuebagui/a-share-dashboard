@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-24",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-24 16:28:43",
+    "generatedAt": "2026-08-24 16:55:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -143991,28 +143991,33 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-24",
-    "generatedAt": "2026-08-24 16:29:58",
+    "generatedAt": "2026-08-24 16:56:04",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 8 条；主题映射集中在 能源、有色稀土、军工。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 7,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       },
@@ -144023,6 +144028,88 @@
       }
     ],
     "items": [
+      {
+        "title": "佳缘科技:关于公司股票被实施其他风险警示暨股票停复牌的提示性公告",
+        "summary": "佳缘科技(301117)：佳缘科技:关于公司股票被实施其他风险警示暨股票停复牌的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301117/AN202608231828342964.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "佳缘科技(301117)"
+        ],
+        "importance": 1,
+        "noticeType": "停牌公告"
+      },
+      {
+        "title": "*ST仕净:关于延期披露2026年半年度报告的提示性公告",
+        "summary": "*ST仕净(301030)：*ST仕净:关于延期披露2026年半年度报告的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301030/AN202608231828342120.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST仕净(301030)"
+        ],
+        "importance": 1,
+        "noticeType": "延期披露定报公告"
+      },
+      {
+        "title": "*ST仕净:关于延期披露会计差错更正后相关财务信息的提示性公告",
+        "summary": "*ST仕净(301030)：*ST仕净:关于延期披露会计差错更正后相关财务信息的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301030/AN202608231828342121.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST仕净(301030)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "深中华A:股票交易异常波动公告",
+        "summary": "深中华A(000017)：深中华A:股票交易异常波动公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000017/AN202608231828341793.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "深中华A(000017)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "江铃汽车:2026年上半年江铃汽车关于江铃汽车集团财务有限公司的风险评估报告",
+        "summary": "江铃汽车(000550)：江铃汽车:2026年上半年江铃汽车关于江铃汽车集团财务有限公司的风险评估报告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000550/AN202608231828341369.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [
+          "江铃汽车(000550)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
       {
         "title": "凯淳股份:关于持股5%以上股东减持股份预披露的公告",
         "summary": "凯淳股份(301001)：凯淳股份:关于持股5%以上股东减持股份预披露的公告",
@@ -144056,96 +144143,11 @@
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "乾照光电:关于与海信集团财务有限公司开展关联金融业务的风险评估报告",
-        "summary": "乾照光电(300102)：乾照光电:关于与海信集团财务有限公司开展关联金融业务的风险评估报告",
-        "publishedAt": "2026-08-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300102/AN202608231828341658.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "乾照光电(300102)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "北方国际:2026年半年度兵工财务有限责任公司风险评估报告",
-        "summary": "北方国际(000065)：北方国际:2026年半年度兵工财务有限责任公司风险评估报告",
-        "publishedAt": "2026-08-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000065/AN202608231828341683.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "北方国际(000065)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "*ST美谷:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-        "summary": "*ST美谷(000615)：*ST美谷:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-        "publishedAt": "2026-08-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000615/AN202608231828341773.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST美谷(000615)"
-        ],
-        "importance": 1,
-        "noticeType": "资金占用"
-      },
-      {
-        "title": "银星能源:宁夏银星能源股份有限公司关于中铝财务有限责任公司2026年半年度风险持续评估报告",
-        "summary": "银星能源(000862)：银星能源:宁夏银星能源股份有限公司关于中铝财务有限责任公司2026年半年度风险持续评估报告",
-        "publishedAt": "2026-08-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000862/AN202608231828341724.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "有色稀土",
-          "能源"
-        ],
-        "tickers": [
-          "银星能源(000862)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "贝森特无法控制的因素驱动之下 美债收益率的控制可没“那么简单”",
-        "summary": "【贝森特无法控制的因素驱动之下 美债收益率的控制可没“那么简单”】贝森特上周宣布计划扩大长期美债回购，这将意味着短期证券发行得增加，他说自己会把这一做法“称为财政部版扭转操作”。贝森特称，目前美债收益率偏离了“均衡”水平。美债市场确实发生了“扭转”，但只维持了一天。在计划公布后，长期收益率于周三大幅下跌，但之后又迅速反弹。",
-        "publishedAt": "2026-08-24 16:22:05",
+        "title": "济南违规出售兽用处方药企业被查",
+        "summary": "【济南违规出售兽用处方药企业被查】8月24日，山东济南市发布通报：济南市市中区农业农村局第一时间与济南市农业综合行政执法支队、市场监管等部门对接，执法支队对3家涉事企业立案调查，现场下达整改通知；同时，对市场内兽药经营企业进行逐一检查。目前，案件侦办和市场排查工作正在有序推进。",
+        "publishedAt": "2026-08-24 16:48:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243851098772.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "事关燃气燃烧器具及相关产品 95张CCC认证证书被撤销",
-        "summary": "【事关燃气燃烧器具及相关产品 95张CCC认证证书被撤销】市场监管总局已第一时间部署相关认证机构开展认证质量追溯和风险排查，对查实存在违法违规行为的，坚决依法依规严肃处理。强化对生产企业的核查，认证机构已依据有关规定对不符合认证要求的企业和产品作出处理，共计撤销95张CCC认证证书。",
-        "publishedAt": "2026-08-24 16:19:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243851103667.html",
+        "url": "https://finance.eastmoney.com/a/202608243851143184.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -144153,6 +144155,38 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "惠通科技:关于项目中标的提示性公告",
+        "summary": "惠通科技(301601)：惠通科技:关于项目中标的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301601/AN202608231828342119.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "惠通科技(301601)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "魅视科技:关于使用自有资金进行现金管理的公告",
+        "summary": "魅视科技(001229)：魅视科技:关于使用自有资金进行现金管理的公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001229/AN202608231828341603.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "魅视科技(001229)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
       },
       {
         "title": "北方国际:关于使用部分暂时闲置募集资金进行现金管理的公告",
@@ -144203,72 +144237,6 @@
         "noticeType": "股权激励行权价（数量）调整"
       },
       {
-        "title": "彩虹集团:关于继续使用部分闲置募集资金进行现金管理的公告",
-        "summary": "彩虹集团(003023)：彩虹集团:关于继续使用部分闲置募集资金进行现金管理的公告",
-        "publishedAt": "2026-08-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003023/AN202608231828341787.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "彩虹集团(003023)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "泽宇智能:关于注销回购股份并减少注册资本、修订《公司章程》的公告",
-        "summary": "泽宇智能(301179)：泽宇智能:关于注销回购股份并减少注册资本、修订《公司章程》的公告",
-        "publishedAt": "2026-08-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301179/AN202608231828341811.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "泽宇智能(301179)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "捷强装备:关于使用闲置自有资金进行现金管理的公告",
-        "summary": "捷强装备(300875)：捷强装备:关于使用闲置自有资金进行现金管理的公告",
-        "publishedAt": "2026-08-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300875/AN202608231828341653.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "捷强装备(300875)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "金价连破三道关口 水贝金条销量大涨",
-        "summary": "【金价连破三道关口 水贝金条销量大涨】据央视财经，近期，国际金价快速反弹。上周，国际现货黄金连续突破4400美元、4500美元和4600美元三道整数关口，周涨幅超过5%。国内黄金零售市场也随之波动。作为全国黄金珠宝市场的“风向标”，深圳水贝市场周末迎来了一波客流小高峰。",
-        "publishedAt": "2026-08-24 16:24:38",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608243851105244.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "中国2025年非洲贸易指数",
         "summary": "中国2025年非洲贸易指数；公布 nan，预期 nan，前值 1056.53。",
         "publishedAt": "2026-08-24 10:10",
@@ -144312,6 +144280,36 @@
         ],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "航天科技集团旗下西安工业公司增资至8.12亿",
+        "summary": "【航天科技集团旗下西安工业公司增资至8.12亿】天眼查App显示，近日，西安航天科技工业有限公司发生工商变更，注册资本由7.15亿人民币增至8.12亿人民币。西安航天科技工业有限公司法定代表人为王万军，经营范围包括液体火箭发动机、惯性器件及其相关的航天产品的研究、设计、生产、销售等，由中国航天科技集团有限公司全资持股。",
+        "publishedAt": "2026-08-24 16:51:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608243851144276.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中石科技：2026年半年度净利润同比增长13.59%",
+        "summary": "【中石科技：2026年半年度净利润同比增长13.59%】中石科技(300684.SZ)公告称，公司发布2026年半年度报告，实现营业收入8.28亿元，同比增长10.66%；归属于上市公司股东的净利润1.38亿元，同比增长13.59%。",
+        "publishedAt": "2026-08-24 16:49:55",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608243851142516.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -144444,15 +144442,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-24 16:29:58",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-08-24 16:56:04",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 8 条；主题映射集中在 能源、有色稀土、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -144483,7 +144481,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-24 16:28:43",
+        "generatedAt": "2026-08-24 16:55:07",
         "summary": "上午情绪分 63，涨停 46 家，跌停 11 家，炸板 16 家，连板 10 家，最高 4 板。",
         "sections": [
           {
@@ -144522,7 +144520,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-24 16:28:43",
+        "generatedAt": "2026-08-24 16:55:07",
         "summary": "市场温度 中，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -144548,7 +144546,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 11 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：凯淳股份:关于持股5%以上股东减持股份预披露的公告；普蕊斯:关于公司股东减持股份预披露公告。",
+              "新闻/公告风险：佳缘科技:关于公司股票被实施其他风险警示暨股票停复牌的提示性公告；*ST仕净:关于延期披露2026年半年度报告的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
