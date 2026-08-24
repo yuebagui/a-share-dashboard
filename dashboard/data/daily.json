@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-21",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-21 21:59:41",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-21 21:59:41",
+    "lastNewsAt": "2026-08-24 10:08:52"
   },
   "indices": [
     {
@@ -151467,37 +151469,153 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-21",
-    "generatedAt": "2026-08-21 22:01:51",
+    "tradeDate": "2026-08-24",
+    "generatedAt": "2026-08-24 10:08:52",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: ('Connection broken: IncompleteRead(4109 bytes read, 67507 more expected)', IncompleteRead(4109 bytes read, 67507 more expected))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 有色稀土、半导体、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 7 条；主题映射集中在 能源、有色稀土、半导体。",
     "themes": [
       {
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
-        "score": 9,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 6,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "机器人",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "高盛继续认为其2026年底金价预测面临显著上行风险",
-        "summary": "【高盛继续认为其2026年底金价预测面临显著上行风险】高盛继续认为其2026年底金价预测面临显著上行风险，有望达到每盎司4,900美元。",
-        "publishedAt": "2026-08-21 21:44:09",
+        "title": "佳缘科技:关于公司股票被实施其他风险警示暨股票停复牌的提示性公告",
+        "summary": "佳缘科技(301117)：佳缘科技:关于公司股票被实施其他风险警示暨股票停复牌的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301117/AN202608231828342964.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "佳缘科技(301117)"
+        ],
+        "importance": 1,
+        "noticeType": "停牌公告"
+      },
+      {
+        "title": "*ST仕净:关于延期披露2026年半年度报告的提示性公告",
+        "summary": "*ST仕净(301030)：*ST仕净:关于延期披露2026年半年度报告的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301030/AN202608231828342120.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST仕净(301030)"
+        ],
+        "importance": 1,
+        "noticeType": "延期披露定报公告"
+      },
+      {
+        "title": "*ST仕净:关于延期披露会计差错更正后相关财务信息的提示性公告",
+        "summary": "*ST仕净(301030)：*ST仕净:关于延期披露会计差错更正后相关财务信息的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301030/AN202608231828342121.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST仕净(301030)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "深中华A:股票交易异常波动公告",
+        "summary": "深中华A(000017)：深中华A:股票交易异常波动公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000017/AN202608231828341793.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "深中华A(000017)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "江铃汽车:2026年上半年江铃汽车关于江铃汽车集团财务有限公司的风险评估报告",
+        "summary": "江铃汽车(000550)：江铃汽车:2026年上半年江铃汽车关于江铃汽车集团财务有限公司的风险评估报告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000550/AN202608231828341369.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [
+          "江铃汽车(000550)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "凯淳股份:关于持股5%以上股东减持股份预披露的公告",
+        "summary": "凯淳股份(301001)：凯淳股份:关于持股5%以上股东减持股份预披露的公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301001/AN202608231828341628.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "凯淳股份(301001)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "今年已有2800余项国家标准发布 新兴产业占比超50%",
+        "summary": "【今年已有2800余项国家标准发布 新兴产业占比超50%】今年以来，市场监管总局（国家标准委）已发布国家标准2800余项，其中新兴产业国家标准达1400余项，占比超50%，有力支撑了新质生产力蓬勃发展。",
+        "publishedAt": "2026-08-24 10:03:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849657424.html",
+        "url": "https://finance.eastmoney.com/a/202608243850721479.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -151507,23 +151625,105 @@
         "noticeType": ""
       },
       {
-        "title": "欧盟拟就“E1区”定居点建设制裁以色列",
-        "summary": "【欧盟拟就“E1区”定居点建设制裁以色列】据以色列方面20日消息，由于以色列在约旦河西岸推进“E1区”定居点建设计划，欧盟准备就此对以方实施涵盖商业、学术和安全领域的“一揽子制裁”。",
-        "publishedAt": "2026-08-21 21:30:38",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849616571.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "博雅生物:2026年8月22日投资者关系活动记录表",
+        "summary": "博雅生物(300294)：博雅生物:2026年8月22日投资者关系活动记录表",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300294/AN202608241828351166.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "博雅生物(300294)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "美国截至8月19日美联储资产负债表(万亿美元)",
-        "summary": "美国截至8月19日美联储资产负债表(万亿美元)；公布 6.75，预期 nan，前值 6.76。",
-        "publishedAt": "2026-08-21 04:30",
+        "title": "顺络电子:2026年8月20-21日投资者关系活动记录表",
+        "summary": "顺络电子(002138)：顺络电子:2026年8月20-21日投资者关系活动记录表",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002138/AN202608241828350950.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "顺络电子(002138)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300979华利集团投资者关系管理信息20260824",
+        "summary": "华利集团(300979)：300979华利集团投资者关系管理信息20260824",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300979/AN202608241828349190.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华利集团(300979)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "惠通科技:关于项目中标的提示性公告",
+        "summary": "惠通科技(301601)：惠通科技:关于项目中标的提示性公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301601/AN202608231828342119.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "惠通科技(301601)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "魅视科技:关于使用自有资金进行现金管理的公告",
+        "summary": "魅视科技(001229)：魅视科技:关于使用自有资金进行现金管理的公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001229/AN202608231828341603.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "魅视科技(001229)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "北方国际:关于使用部分暂时闲置募集资金进行现金管理的公告",
+        "summary": "北方国际(000065)：北方国际:关于使用部分暂时闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-08-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000065/AN202608231828341673.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "北方国际(000065)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "中国2025年非洲贸易指数",
+        "summary": "中国2025年非洲贸易指数；公布 nan，预期 nan，前值 1056.53。",
+        "publishedAt": "2026-08-24 10:10",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -151535,23 +151735,9 @@
         "noticeType": ""
       },
       {
-        "title": "美国8月20日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月20日iShares白银持仓-每日更新(吨)；公布 15275.59，预期 nan，前值 15275.59。",
-        "publishedAt": "2026-08-21 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月20日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国8月20日SPDR黄金持仓-每日更新(吨)；公布 1038.93，预期 nan，前值 1034.65。",
-        "publishedAt": "2026-08-21 06:30",
+        "title": "中国8月24日上期所每日仓单变动-铜(吨)",
+        "summary": "中国8月24日上期所每日仓单变动-铜(吨)；公布 nan，预期 nan，前值 -6974.0。",
+        "publishedAt": "2026-08-24 15:10",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -151565,186 +151751,44 @@
         "noticeType": ""
       },
       {
-        "title": "美国8月20日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月20日iShares黄金持仓-每日更新(吨)；公布 457.81，预期 nan，前值 456.75。",
-        "publishedAt": "2026-08-21 06:30",
+        "title": "中国8月24日上期所每日仓单变动-原油(桶)",
+        "summary": "中国8月24日上期所每日仓单变动-原油(桶)；公布 nan，预期 nan，前值 0.0。",
+        "publishedAt": "2026-08-24 15:10",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国8月19日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月19日COMEX黄金库存-每日更新(百盎司)；公布 266808.53，预期 nan，前值 266488.38。",
-        "publishedAt": "2026-08-21 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "新西兰7月贸易帐(亿纽元)",
-        "summary": "新西兰7月贸易帐(亿纽元)；公布 -19.49，预期 nan，前值 0.23。",
-        "publishedAt": "2026-08-21 06:45",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "英国8月Gfk消费者信心指数",
-        "summary": "英国8月Gfk消费者信心指数；公布 -14.0，预期 -18.0，前值 -17.0。",
-        "publishedAt": "2026-08-21 07:01",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本7月全国CPI年率(%)",
-        "summary": "日本7月全国CPI年率(%)；公布 1.9，预期 2.0，前值 1.7。",
-        "publishedAt": "2026-08-21 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "特朗普宣布暂时豁免碎牛肉进口关税",
-        "summary": "【特朗普宣布暂时豁免碎牛肉进口关税】美国总统特朗普8月21日在社交媒体“真实社交”发文称，未来90天内美国将允许进口最多30万吨的碎牛肉，且不征收配额外关税，“这些牛肉的售价将比当前市场价格低25%”。",
-        "publishedAt": "2026-08-21 21:55:11",
+        "title": "江波龙通过港交所聆讯 上半年净利暴增715倍",
+        "summary": "【江波龙通过港交所聆讯 上半年净利暴增715倍】8月23日，深圳市江波龙电子股份有限公司（简称“江波龙”）披露聆讯后资料集，已通过港交所上市聆讯，联席保荐人为中信证券和花旗。此次顺利通过聆讯之后，若最终成功挂牌，江波龙将成为国内首家“A+H”两地上市的独立存储器企业。",
+        "publishedAt": "2026-08-24 10:06:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849666290.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "钱大妈更新招股书",
-        "summary": "【钱大妈更新招股书】港交所文件显示，钱大妈国际控股有限公司重新向港交所提交上市申请书，联席保荐人为中金公司、农银国际。",
-        "publishedAt": "2026-08-21 21:53:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849664248.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股加密货币概念股盘初继续走强",
-        "summary": "【美股加密货币概念股盘初继续走强】美股加密货币概念股盘初继续走强，Robinhood、Circle涨超9%，Coinbase涨超7%，Strategy涨超6%。",
-        "publishedAt": "2026-08-21 21:47:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849658227.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月标普全球服务业PMI初值为56.8 预估为54",
-        "summary": "美国8月标普全球服务业PMI初值为56.8，预估为54，前值为54.6。",
-        "publishedAt": "2026-08-21 21:46:30",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849657781.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月标普全球制造业PMI初值为53.2 预估53.9",
-        "summary": "美国8月标普全球制造业PMI初值为53.2，预估53.9，前值53.9。",
-        "publishedAt": "2026-08-21 21:45:09",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849657282.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "私募股权公司阿波罗确认数据泄露",
-        "summary": "私募股权公司阿波罗确认数据泄露。",
-        "publishedAt": "2026-08-21 21:40:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849651026.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "德国储气水平跌至历年同期最低",
-        "summary": "【德国储气水平跌至历年同期最低】德国能源储存倡议协会最新数据显示，德国天然气存储设施当前的储气水平已跌至2011年有记录以来历年同期最低。",
-        "publishedAt": "2026-08-21 21:38:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849645064.html",
+        "url": "https://finance.eastmoney.com/a/202608243850730213.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
           "半导体",
-          "能源"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "纳斯达克中国金龙指数涨超1%",
-        "summary": "纳斯达克中国金龙指数涨超1%。",
-        "publishedAt": "2026-08-21 21:32:52",
+        "title": "vivo X500系列预计9月底发布 主摄动态范围可达17EV",
+        "summary": "【vivo X500系列预计9月底发布 主摄动态范围可达17EV】8月24日消息，vivo新一代影像旗舰X500系列预计于9月底发布，内部代号“灭霸500”。配置方面，X500系列将首发vivo与索尼联合定义的“蓝图光御900”传感器，主打电影级动态范围，最高可达17EV，并支持3°OIS云台防抖和CIPA7.0防抖，支持超大杯机型还将搭载与X300Ult…",
+        "publishedAt": "2026-08-24 10:03:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608213849618171.html",
+        "url": "https://finance.eastmoney.com/a/202608243850720393.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -151884,7 +151928,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -151897,15 +151941,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-21 22:01:51",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 有色稀土、半导体、能源。",
+        "generatedAt": "2026-08-24 10:08:52",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 7 条；主题映射集中在 能源、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：贵金属、能源金属、共封装光学(CPO)；首看 贵金属 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -152001,7 +152045,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 13 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：高盛继续认为其2026年底金价预测面临显著上行风险；欧盟拟就“E1区”定居点建设制裁以色列。",
+              "新闻/公告风险：佳缘科技:关于公司股票被实施其他风险警示暨股票停复牌的提示性公告；*ST仕净:关于延期披露2026年半年度报告的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
