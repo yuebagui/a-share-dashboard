@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-25",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-25 16:50:29",
+    "generatedAt": "2026-08-25 22:06:20",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -143554,107 +143554,241 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-25",
-    "generatedAt": "2026-08-25 16:51:53",
+    "generatedAt": "2026-08-25 22:11:25",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: ('Connection broken: IncompleteRead(65273 bytes read, 8609 more expected)', IncompleteRead(65273 bytes read, 8609 more expected))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 0 条；主题映射集中在 有色稀土、能源、汽车链。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 5 条；主题映射集中在 有色稀土、半导体、医药。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "半导体",
         "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 3,
+        "name": "医药",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "华源控股：首次回购股份12.2万股 支付249.27万元",
-        "summary": "【华源控股：首次回购股份12.2万股 支付249.27万元】华源控股公告称，公司于2026年8月24日首次通过回购专用证券账户以集中竞价交易方式回购股份，回购数量为122,000股，占公司股份总数的0.0367%，最高成交价20.60元/股，最低成交价20.37元/股，支付总金额249.27万元（不含交易费用），资金来源为自有资金，回购价格未超40.00元…",
-        "publishedAt": "2026-08-25 16:50:47",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
+        "title": "ST兴化:2026年半年度报告摘要",
+        "summary": "ST兴化(002109)：ST兴化:2026年半年度报告摘要",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002109/AN202608240006746437.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST兴化(002109)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "半年度报告摘要"
       },
       {
-        "title": "中南文化：股票交易异常波动 正推进重大资产重组",
-        "summary": "【中南文化：股票交易异常波动 正推进重大资产重组】中南文化公告称，公司股票连续两个交易日（2026年8月24日、8月25日）收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动情形。公司此前披露重组方案调整相关公告，拟以发行股份及支付现金方式购买江阴电力投资有限公司持有的苏龙热电57.30%股权、江阴热电50.00%股权并募集配套资金，目前相关审计、评估…",
-        "publishedAt": "2026-08-25 16:50:33",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "能源"
+        "title": "澄天伟业:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "澄天伟业(300689)：澄天伟业:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300689/AN202608251828429935.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "澄天伟业(300689)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "药康生物：股东询价转让初步定价29.17元/股",
-        "summary": "【药康生物：股东询价转让初步定价29.17元/股】药康生物公告，公司股东进行询价转让，2026年8月25日询价申购后，初步确定转让价格为29.17元/股，拟转让股份已获全额认购，初步确定受让方为17家机构投资者，拟受让股份总数为1065.18万股。",
-        "publishedAt": "2026-08-25 16:49:30",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "澄天伟业:关于深圳市澄天伟业科技股份有限公司申请向特定对象发行股票的审核问询函的回复报告",
+        "summary": "澄天伟业(300689)：澄天伟业:关于深圳市澄天伟业科技股份有限公司申请向特定对象发行股票的审核问询函的回复报告",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300689/AN202608251828429919.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "澄天伟业(300689)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "澄天伟业:容诚会计师事务所(特殊普通合伙)关于深圳市澄天伟业科技股份有限公司申请向特定对象发行股票的审核问询函的回复报告",
+        "summary": "澄天伟业(300689)：澄天伟业:容诚会计师事务所(特殊普通合伙)关于深圳市澄天伟业科技股份有限公司申请向特定对象发行股票的审核问询函的回复报告",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300689/AN202608251828429921.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "澄天伟业(300689)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "ST华谊:关于法院决定对公司全资子公司启动预重整并确定临时管理人的公告",
+        "summary": "ST华谊(300027)：ST华谊:关于法院决定对公司全资子公司启动预重整并确定临时管理人的公告",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300027/AN202608251828429339.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST华谊(300027)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "巨能股份:使用部分闲置募集资金进行现金管理的公告",
+        "summary": "巨能股份(920578)：巨能股份:使用部分闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920578/AN202608251828428286.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "巨能股份(920578)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "投资理财"
       },
       {
-        "title": "市场消息：沙特航空集团与沙特进出口银行、法国农业信贷银行企业与投资银行部签署协议。",
-        "summary": "市场消息：沙特航空集团与沙特进出口银行、法国农业信贷银行企业与投资银行部签署协议。",
-        "publishedAt": "2026-08-25 16:48:15",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "迈为股份:2026年8月25日投资者活动记录表",
+        "summary": "迈为股份(300751)：迈为股份:2026年8月25日投资者活动记录表",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300751/AN202608251828431042.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "迈为股份(300751)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "九安医疗:002432九安医疗投资者关系管理信息20260825",
+        "summary": "九安医疗(002432)：九安医疗:002432九安医疗投资者关系管理信息20260825",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002432/AN202608251828430667.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "军工",
-          "金融"
+          "医药"
         ],
-        "tickers": [],
+        "tickers": [
+          "九安医疗(002432)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "军信股份:2026年8月25日投资者关系活动记录表",
+        "summary": "军信股份(301109)：军信股份:2026年8月25日投资者关系活动记录表",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301109/AN202608251828430545.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "军信股份(301109)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "迪安诊断:2026年8月24日投资者关系活动记录表",
+        "summary": "迪安诊断(300244)：迪安诊断:2026年8月24日投资者关系活动记录表",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300244/AN202608251828429770.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "迪安诊断(300244)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "甘肃能化:甘肃能化股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)票面利率公告",
+        "summary": "甘肃能化(000552)：甘肃能化:甘肃能化股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)票面利率公告",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000552/AN202608251828429439.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "甘肃能化(000552)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "星图测控:关于补充确认使用部分闲置募集资金进行现金管理的公告",
+        "summary": "星图测控(920116)：星图测控:关于补充确认使用部分闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-08-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920116/AN202608251828429397.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "星图测控(920116)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
       },
       {
         "title": "美国8月24日SPDR黄金持仓-每日更新(吨)",
@@ -143744,126 +143878,6 @@
         "themes": [],
         "tickers": [],
         "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "德国第二季度未季调季度GDP年率修正值(%)",
-        "summary": "德国第二季度未季调季度GDP年率修正值(%)；公布 1.0，预期 0.9，前值 0.9。",
-        "publishedAt": "2026-08-25 14:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国8月25日上期所每日仓单变动-原油(桶)",
-        "summary": "中国8月25日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
-        "publishedAt": "2026-08-25 15:10",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "长城汽车：上半年研发支出45.7亿元人民币。",
-        "summary": "长城汽车：上半年研发支出45.7亿元人民币。",
-        "publishedAt": "2026-08-25 16:51:04",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "汽车链"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "WTI原油日内跌2%，现报83.31美元/桶。",
-        "summary": "WTI原油日内跌2%，现报83.31美元/桶。",
-        "publishedAt": "2026-08-25 16:51:02",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "银都股份：2026年上半年净利润1.76亿元，同比下降49.31%",
-        "summary": "【银都股份：2026年上半年净利润1.76亿元，同比下降49.31%】银都股份公告，2026年上半年营业收入13.62亿元，同比下降4.50%；归属于上市公司股东的净利润1.76亿元，同比下降49.31%，2025年上半年为3.47亿元；归属于上市公司股东的扣除非经常性损益的净利润1.39亿元，同比下降46.82%，2025年上半年为2.61亿元。公司拟每…",
-        "publishedAt": "2026-08-25 16:50:55",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "徕木股份：2026年上半年净利润亏损6107.65万元，同比由盈转亏",
-        "summary": "【徕木股份：2026年上半年净利润亏损6107.65万元，同比由盈转亏】徕木股份公告，2026年上半年营业收入8.2亿元，同比增长7.80%；归属于上市公司股东的净利润亏损6107.65万元，2025年同期为3239.97万元，同比由盈转亏；归属于上市公司股东的扣除非经常性损益的净利润亏损6431.73万元，2025年同期为2828.35万元，同比由盈转亏。",
-        "publishedAt": "2026-08-25 16:50:50",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "大众汽车工会负责人：德国工厂的地位不容谈判。",
-        "summary": "大众汽车工会负责人：德国工厂的地位不容谈判。",
-        "publishedAt": "2026-08-25 16:50:42",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "汽车链"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "惠博普：2026年半年度净利润亏损1.06亿元，同比由盈转亏",
-        "summary": "【惠博普：2026年半年度净利润亏损1.06亿元，同比由盈转亏】惠博普公告，2026年半年度营业收入7.3亿元，同比下降17.00%；归属于上市公司股东的净利润亏损1.06亿元，2025年同期为4439.13万元，同比由盈转亏；归属于上市公司股东的扣除非经常性损益的净利润亏损1.13亿元，2025年同期为3819.51万元，同比由盈转亏。公司计划不派发现金…",
-        "publishedAt": "2026-08-25 16:50:18",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -144038,15 +144052,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-25 16:51:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 0 条；主题映射集中在 有色稀土、能源、汽车链。",
+        "generatedAt": "2026-08-25 22:11:25",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 5 条；主题映射集中在 有色稀土、半导体、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：华为概念、人工智能、机器人概念；首看 华为概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、汽车链；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -144077,7 +144091,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-25 16:50:29",
+        "generatedAt": "2026-08-25 22:06:20",
         "summary": "上午情绪分 100，涨停 65 家，跌停 2 家，炸板 22 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -144116,7 +144130,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-25 16:50:29",
+        "generatedAt": "2026-08-25 22:06:20",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -144142,7 +144156,7 @@
               "今日炸板 22 只，追高前先看前排封单和回封质量。",
               "今日跌停 2 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 华为概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
+              "新闻/公告风险：ST兴化:2026年半年度报告摘要；澄天伟业:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
