@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-26",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-26 16:51:26",
+    "generatedAt": "2026-08-26 21:58:04",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -151051,31 +151051,60 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-26",
-    "generatedAt": "2026-08-26 16:53:24",
+    "generatedAt": "2026-08-26 22:03:41",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: ('Connection broken: IncompleteRead(21485 bytes read, 50418 more expected)', IncompleteRead(21485 bytes read, 50418 more expected))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 1 条；主题映射集中在 有色稀土、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源、医药。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "兰剑智能：济南创投减持计划届满未减持0股",
-        "summary": "【兰剑智能：济南创投减持计划届满未减持0股】兰剑智能公告，持股5%以上股东济南科技创业投资集团有限公司此前拟通过集中竞价方式减持不超过102万股，占公司总股本比例不超过1.00%。2026年5月27日至2026年8月26日期间，济南创投未减持公司股份，本次减持计划时间区间届满。",
-        "publishedAt": "2026-08-26 16:51:09",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "ST人福:第十一届董事会第十一次会议决议公告",
+        "summary": "ST人福(600079)：ST人福:第十一届董事会第十一次会议决议公告",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600079/AN202608251828412690.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST人福(600079)"
+        ],
+        "importance": 1,
+        "noticeType": "董事会决议公告"
+      },
+      {
+        "title": "卡塔尔外交部：以色列不存在和平伙伴",
+        "summary": "【卡塔尔外交部：以色列不存在和平伙伴】卡塔尔外交部发言人安萨里8月25日表示，美国对伊朗实施的制裁是单边制裁，并非联合国或多边制裁，应该向决定实施制裁的人提出质疑。",
+        "publishedAt": "2026-08-26 21:33:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608263855103792.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -151085,18 +151114,184 @@
         "noticeType": ""
       },
       {
-        "title": "中原内配：2026年上半年营收24.67亿元 净利增48.14%",
-        "summary": "【中原内配：2026年上半年营收24.67亿元 净利增48.14%】中原内配公告称，2026年上半年实现营业收入24.67亿元，同比增长27.00%；归属于上市公司股东的净利润3.46亿元，同比增长48.14%；扣非净利润2.72亿元，同比增长18.64%。公司不派发现金红利，不送红股，不以公积金转增股本。报告期内，公司下属南通海内股权投资合伙企业（有限合…",
-        "publishedAt": "2026-08-26 16:46:39",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "雪迪龙:002658雪迪龙投资者关系管理信息20260826",
+        "summary": "雪迪龙(002658)：雪迪龙:002658雪迪龙投资者关系管理信息20260826",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002658/AN202608261828492723.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "雪迪龙(002658)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "聚星科技:投资者关系活动记录表",
+        "summary": "聚星科技(920111)：聚星科技:投资者关系活动记录表",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920111/AN202608261828493466.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "聚星科技(920111)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "隆平高科:2026年8月24日投资者活动记录表",
+        "summary": "隆平高科(000998)：隆平高科:2026年8月24日投资者活动记录表",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000998/AN202608261828447906.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "隆平高科(000998)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中科曙光:中科曙光关于使用闲置募集资金进行现金管理的公告",
+        "summary": "中科曙光(603019)：中科曙光:中科曙光关于使用闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603019/AN202608251828430859.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中科曙光(603019)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "汉朔科技:投资者关系活动记录表",
+        "summary": "汉朔科技(301275)：汉朔科技:投资者关系活动记录表",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301275/AN202608261828499798.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汉朔科技(301275)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中钨高新2026年8月25日投资者关系活动记录表",
+        "summary": "中钨高新(000657)：中钨高新2026年8月25日投资者关系活动记录表",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000657/AN202608261828499748.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [
+          "中钨高新(000657)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "星宸科技:301536星宸科技投资者关系管理信息20260826",
+        "summary": "星宸科技(301536)：星宸科技:301536星宸科技投资者关系管理信息20260826",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301536/AN202608261828499547.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "星宸科技(301536)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "北摩高科:2026年08月26日投资者关系活动记录表",
+        "summary": "北摩高科(002985)：北摩高科:2026年08月26日投资者关系活动记录表",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002985/AN202608261828499523.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "北摩高科(002985)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中红医疗:2026年8月26日投资者关系活动记录表",
+        "summary": "中红医疗(300981)：中红医疗:2026年8月26日投资者关系活动记录表",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300981/AN202608261828498096.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "中红医疗(300981)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "韵达股份:2026年8月26日投资者关系活动记录表",
+        "summary": "韵达股份(002120)：韵达股份:2026年8月26日投资者关系活动记录表",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002120/AN202608261828498037.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "韵达股份(002120)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "丹娜生物:关于参加天津辖区上市公司2026年投资者网上集体接待日活动暨半年报业绩说明会预告的公告",
+        "summary": "丹娜生物(920009)：丹娜生物:关于参加天津辖区上市公司2026年投资者网上集体接待日活动暨半年报业绩说明会预告的公告",
+        "publishedAt": "2026-08-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920009/AN202608261828498086.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "丹娜生物(920009)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "美国截至8月21日当周API汽油库存变动(万桶)",
@@ -151172,162 +151367,6 @@
         "themes": [],
         "tickers": [],
         "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月24日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月24日COMEX黄金库存-每日更新(百盎司)；公布 268222.24，预期 nan，前值 267277.37。",
-        "publishedAt": "2026-08-26 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚截至8月23日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至8月23日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 76.5。",
-        "publishedAt": "2026-08-26 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚7月统计局CPI年率-季调后(%)",
-        "summary": "澳大利亚7月统计局CPI年率-季调后(%)；公布 3.0，预期 3.3，前值 3.8。",
-        "publishedAt": "2026-08-26 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "立中集团：2026年半年度净利润5.77亿元，同比增长43.81%",
-        "summary": "【立中集团：2026年半年度净利润5.77亿元，同比增长43.81%】立中集团公告，2026年半年度营业收入188.22亿元，同比增长30.32%；归属于上市公司股东的净利润5.77亿元，同比增长43.81%；归属于上市公司股东的扣除非经常性损益的净利润5.49亿元，同比增长52.66%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-        "publishedAt": "2026-08-26 16:52:13",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "上能电气：2026年半年度净利润2.16亿元，同比增长7.96%",
-        "summary": "【上能电气：2026年半年度净利润2.16亿元，同比增长7.96%】上能电气公告，2026年半年度营业收入28.58亿元，同比增长30.84%；归属于上市公司股东的净利润2.16亿元，同比增长7.96%，2025年同期为2.01亿元；归属于上市公司股东的扣除非经常性损益的净利润1.98亿元，同比增长1.98%，2025年同期为1.94亿元。公司计划不派发现…",
-        "publishedAt": "2026-08-26 16:51:53",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "ST棕榈：2026年上半年亏损2.63亿元，上年同期亏损2.73亿元",
-        "summary": "【ST棕榈：2026年上半年亏损2.63亿元，上年同期亏损2.73亿元】ST棕榈公告，2026年上半年营业收入11.12亿元，同比下降31.58%；归属于上市公司股东的净利润亏损2.63亿元，上年同期亏损2.73亿元；归属于上市公司股东的扣除非经常性损益的净利润亏损2.68亿元，上年同期亏损3.03亿元。經營活动产生的现金流量净额1554.6万元。",
-        "publishedAt": "2026-08-26 16:51:50",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "明牌珠宝：2026年上半年净利润亏损1888.64万元，2025年同期亏损7758.79万元",
-        "summary": "【明牌珠宝：2026年上半年净利润亏损1888.64万元，2025年同期亏损7758.79万元】明牌珠宝公告，2026年上半年营业收入18.3亿元，同比下降5.64%；归属于上市公司股东的净利润亏损1888.64万元，2025年同期亏损7758.79万元；扣非净利润亏损3361.25万元，2025年同期亏损9346万元。公司拟以2亿元至3亿元转让明牌卡利罗…",
-        "publishedAt": "2026-08-26 16:51:46",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "2026年科隆国际游戏展中国元素受关注",
-        "summary": "【2026年科隆国际游戏展中国元素受关注】2026年科隆国际游戏展26日在德国科隆开幕，来自世界各地的游戏厂商、专业人士和游戏爱好者汇集于此，展示和体验最新游戏产品及创新技术，中国元素也受到越来越多关注。 据主办方介绍，本届展会参展商数量再创新高，设有游戏试玩与互动体验、独立游戏、棋牌卡牌、艺术家专区、校园招聘和游戏周边产品销售等板块，其中独立游戏展区规模…",
-        "publishedAt": "2026-08-26 16:51:07",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中国海洋石油上半年产量398.7百万桶油当量。",
-        "summary": "中国海洋石油上半年产量398.7百万桶油当量。",
-        "publishedAt": "2026-08-26 16:50:35",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "宏华数科：2026年半年度净利润1.11亿元，同比下降55.65%",
-        "summary": "【宏华数科：2026年半年度净利润1.11亿元，同比下降55.65%】宏华数科公告，2026年上半年营业收入8.91亿元，同比下降14.13%；归属于上市公司股东的净利润1.11亿元，同比下降55.65%，2025年上半年为2.51亿元；归属于上市公司股东的扣除非经常性损益的净利润1亿元，同比下降55.92%，2025年上半年为2.28亿元。公司的半年度报…",
-        "publishedAt": "2026-08-26 16:49:43",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "德业股份：2026年上半年净利润27.17亿元，同比增长78.53%",
-        "summary": "【德业股份：2026年上半年净利润27.17亿元，同比增长78.53%】德业股份公告，2026年上半年营业收入106.41亿元，同比增长92.23%；归属于上市公司股东的净利润27.17亿元，同比增长78.53%，2025年上半年为15.22亿元；扣非净利润25.7亿元，同比增长75.81%。公司拟每股派发现金红利1.6元（含税），合计拟派发20.37亿元…",
-        "publishedAt": "2026-08-26 16:49:41",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -151488,15 +151527,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-26 16:53:24",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 1 条；主题映射集中在 有色稀土、能源。",
+        "generatedAt": "2026-08-26 22:03:41",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：证券、工业金属、金属铜；首看 证券 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -151527,7 +151566,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-26 16:51:26",
+        "generatedAt": "2026-08-26 21:58:04",
         "summary": "上午情绪分 100，涨停 52 家，跌停 0 家，炸板 20 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -151566,7 +151605,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-26 16:51:26",
+        "generatedAt": "2026-08-26 21:58:04",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -151592,7 +151631,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 同花顺漂亮100，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：兰剑智能：济南创投减持计划届满未减持0股。",
+              "新闻/公告风险：ST人福:第十一届董事会第十一次会议决议公告；卡塔尔外交部：以色列不存在和平伙伴。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
