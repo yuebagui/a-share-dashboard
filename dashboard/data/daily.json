@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-26",
     "phase": "盘中快照",
-    "generatedAt": "2026-08-26 12:09:40",
+    "generatedAt": "2026-08-26 12:23:30",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -1097,13 +1097,6 @@
         "note": "涨跌幅 +2.38%，领涨 洛阳钼业 +8.14%"
       },
       {
-        "name": "芯片概念",
-        "netInflow": 639300.0,
-        "changePct": 0.63,
-        "type": "概念",
-        "note": "涨跌幅 +0.63%，领涨 高凯技术 +21.91%"
-      },
-      {
         "name": "同花顺中特估100",
         "netInflow": 637900.0,
         "changePct": 0.84,
@@ -1111,11 +1104,18 @@
         "note": "涨跌幅 +0.84%，领涨 河钢资源 +5.45%"
       },
       {
-        "name": "人民币贬值受益",
-        "netInflow": 636000.0,
-        "changePct": 0.43,
+        "name": "同花顺出海50",
+        "netInflow": 634900.0,
+        "changePct": 0.83,
         "type": "概念",
-        "note": "涨跌幅 +0.43%，领涨 联迪信息 +15.87%"
+        "note": "涨跌幅 +0.83%，领涨 金诚信 +10.00%"
+      },
+      {
+        "name": "盐湖提锂",
+        "netInflow": 620300.0,
+        "changePct": 1.87,
+        "type": "概念",
+        "note": "涨跌幅 +1.87%，领涨 洛阳钼业 +8.14%"
       }
     ]
   },
@@ -1166,6 +1166,14 @@
         "note": "涨跌幅 +2.38%，领涨 洛阳钼业 +8.14%"
       },
       {
+        "name": "盐湖提锂",
+        "type": "概念",
+        "changePct": 1.87,
+        "excessPct": 1.17,
+        "netInflow": 620300.0,
+        "note": "涨跌幅 +1.87%，领涨 洛阳钼业 +8.14%"
+      },
+      {
         "name": "电池",
         "type": "行业",
         "changePct": 1.81,
@@ -1180,14 +1188,6 @@
         "excessPct": 1.08,
         "netInflow": 1214100.0,
         "note": "涨跌幅 +1.78%，领涨 白银有色 +10.03%"
-      },
-      {
-        "name": "农化制品",
-        "type": "行业",
-        "changePct": 1.62,
-        "excessPct": 0.92,
-        "netInflow": 122700.0,
-        "note": "涨跌幅 +1.62%，领涨 新农股份 +9.99%"
       }
     ],
     "down": [
@@ -1222,22 +1222,6 @@
         "excessPct": -0.31,
         "netInflow": 167500.0,
         "note": "涨跌幅 +0.39%，领涨 共进股份 +10.03%"
-      },
-      {
-        "name": "人民币贬值受益",
-        "type": "概念",
-        "changePct": 0.43,
-        "excessPct": -0.27,
-        "netInflow": 636000.0,
-        "note": "涨跌幅 +0.43%，领涨 联迪信息 +15.87%"
-      },
-      {
-        "name": "芯片概念",
-        "type": "概念",
-        "changePct": 0.63,
-        "excessPct": -0.07,
-        "netInflow": 639300.0,
-        "note": "涨跌幅 +0.63%，领涨 高凯技术 +21.91%"
       }
     ]
   },
@@ -1334,6 +1318,21 @@
         "note": "涨跌幅 +2.38%，领涨 洛阳钼业 +8.14%"
       },
       {
+        "name": "盐湖提锂",
+        "type": "概念",
+        "score": 43,
+        "labels": [
+          "带盘共振",
+          "资金流入",
+          "超额强势"
+        ],
+        "changePct": 1.87,
+        "excessPct": 1.17,
+        "netInflow": 620300.0,
+        "reason": "强于大盘 +1.17 个百分点；主力净流入 62.0亿",
+        "note": "涨跌幅 +1.87%，领涨 洛阳钼业 +8.14%"
+      },
+      {
         "name": "电池",
         "type": "行业",
         "score": 38,
@@ -1347,20 +1346,6 @@
         "netInflow": 325100.0,
         "reason": "强于大盘 +1.11 个百分点；主力净流入 32.5亿",
         "note": "涨跌幅 +1.81%，领涨 力王股份 +10.26%"
-      },
-      {
-        "name": "农化制品",
-        "type": "行业",
-        "score": 29,
-        "labels": [
-          "带盘共振",
-          "资金流入"
-        ],
-        "changePct": 1.62,
-        "excessPct": 0.92,
-        "netInflow": 122700.0,
-        "reason": "强于大盘 +0.92 个百分点；主力净流入 12.3亿",
-        "note": "涨跌幅 +1.62%，领涨 新农股份 +9.99%"
       }
     ],
     "summary": [
@@ -143297,14 +143282,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-26",
-    "generatedAt": "2026-08-26 12:12:34",
+    "generatedAt": "2026-08-26 12:25:54",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、新能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 有色稀土、新能源、能源。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 13,
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -143313,18 +143298,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
         "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -143333,7 +143308,22 @@
         "isFocusBoard": false
       },
       {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
@@ -143564,50 +143554,6 @@
         "noticeType": ""
       },
       {
-        "title": "电影《牛来》票房超5000万",
-        "summary": "【电影《牛来》票房超5000万】据灯塔专业版实时数据，截至8月26日11时32分，影片《牛来》票房突破5000万。",
-        "publishedAt": "2026-08-26 11:35:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608263854374252.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "刘强东投资千万在连云港成立游艇公司",
-        "summary": "【刘强东投资千万在连云港成立游艇公司】天眼查工商信息显示，近日，连云港探海游艇俱乐部有限公司成立，注册资本1000万元人民币，法定代表人为张然，经营范围包含游艇租赁、船舶修理、旅游业务等，由刘强东创立的游艇独立品牌SeaExpandary关联公司深圳市探海游艇产业发展有限公司全资持股。",
-        "publishedAt": "2026-08-26 11:35:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608263854374528.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "工信部：将印发实施历史经典产业高质量发展政策文件",
-        "summary": "【工信部：将印发实施历史经典产业高质量发展政策文件】工业和信息化部副部长辛国斌表示，将着力扩大优质消费品的供给，要深入实施“人工智能+商品”专项行动。同时要围绕民生热点领域，大力发展保健食品、运动装备、益智玩具等特色消费品，加强智能家居、老年用品、婴幼儿童用品等领域的标准供给。",
-        "publishedAt": "2026-08-26 11:33:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608263854372893.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "美国截至8月21日当周API汽油库存变动(万桶)",
         "summary": "美国截至8月21日当周API汽油库存变动(万桶)；公布 -320.0，预期 -95.4，前值 107.6。",
         "publishedAt": "2026-08-26 04:30",
@@ -143617,6 +143563,54 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至8月21日当周API原油库存变动(万桶)",
+        "summary": "美国截至8月21日当周API原油库存变动(万桶)；公布 420.0，预期 -33.0，前值 -32.8。",
+        "publishedAt": "2026-08-26 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月25日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月25日iShares黄金持仓-每日更新(吨)；公布 460.5，预期 nan，前值 460.12。",
+        "publishedAt": "2026-08-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月25日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国8月25日SPDR黄金持仓-每日更新(吨)；公布 1048.35，预期 nan，前值 1049.49。",
+        "publishedAt": "2026-08-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -143737,15 +143731,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-26 12:12:34",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、新能源、AI算力。",
+        "generatedAt": "2026-08-26 12:25:54",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 有色稀土、新能源、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：金属铜、工业金属、证券；首看 金属铜 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、新能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、新能源、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -143776,7 +143770,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-26 12:09:40",
+        "generatedAt": "2026-08-26 12:23:30",
         "summary": "上午情绪分 100，涨停 51 家，跌停 0 家，炸板 14 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -143815,7 +143809,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-26 12:09:40",
+        "generatedAt": "2026-08-26 12:23:30",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
