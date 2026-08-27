@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-28",
     "phase": "盘中快照",
-    "generatedAt": "2026-08-28 06:54:28",
+    "generatedAt": "2026-08-28 06:58:40",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -157425,29 +157425,31 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-28",
-    "generatedAt": "2026-08-28 06:56:19",
+    "generatedAt": "2026-08-28 07:00:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 半导体、AI算力、有色稀土。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、半导体、能源。",
     "themes": [
+      {
+        "name": "AI算力",
+        "score": 11,
+        "isFocusBoard": false
+      },
       {
         "name": "半导体",
         "score": 11,
         "isFocusBoard": true
       },
       {
-        "name": "AI算力",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
         "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -157699,49 +157701,52 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至8月26日美联储资产负债表(万亿美元)",
-        "summary": "美国截至8月26日美联储资产负债表(万亿美元)；公布 6.73，预期 nan，前值 6.75。",
-        "publishedAt": "2026-08-28 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
+        "title": "财报季与产业盛会共振 AI算力与具身智能双线并进",
+        "summary": "【财报季与产业盛会共振 AI算力与具身智能双线并进】本周，AI产业进入“超级周”，多场重磅产业会议密集举行，全球AI算力龙头英伟达已发布超预期财报。产业端与资本市场端在本周叠加共振，将市场对AI产业的关注度推至阶段性高点。Wind数据显示，万得人工智能概念指数8月27日上涨1.54%。",
+        "publishedAt": "2026-08-28 06:50:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283857103849.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力",
+          "机器人"
+        ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月27日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月27日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.5。",
-        "publishedAt": "2026-08-28 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "新疆建成全国规模最大超高压电力骨干网",
+        "summary": "【新疆建成全国规模最大超高压电力骨干网】记者从国家电网了解到，截至昨天，新疆750千伏超高压输电线路总长度超过15000千米，建成全国规模最大的超高压电力骨干网。",
+        "publishedAt": "2026-08-28 06:37:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283857107252.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月26日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月26日COMEX黄金库存-每日更新(百盎司)；公布 270251.61，预期 nan，前值 269025.69。",
-        "publishedAt": "2026-08-28 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "周五你需要知道的隔夜全球要闻",
+        "summary": "周五你需要知道的隔夜全球要闻：英伟达市值单日飙升4420亿美元；美国被曝接近入股委内瑞拉油田；特朗普签令将安大略湖改称“美国湖”。",
+        "publishedAt": "2026-08-28 06:33:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283857106320.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -157881,15 +157886,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-28 06:56:19",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 半导体、AI算力、有色稀土。",
+        "generatedAt": "2026-08-28 07:00:35",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、半导体、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、芯片概念、半导体；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -157920,7 +157925,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-28 06:54:28",
+        "generatedAt": "2026-08-28 06:58:40",
         "summary": "上午情绪分 100，涨停 77 家，跌停 3 家，炸板 17 家，连板 16 家，最高 6 板。",
         "sections": [
           {
@@ -157959,7 +157964,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-28 06:54:28",
+        "generatedAt": "2026-08-28 06:58:40",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
