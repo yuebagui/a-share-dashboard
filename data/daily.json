@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-26",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-26 22:04:50",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-26 22:04:50",
+    "lastNewsAt": "2026-08-27 18:11:22"
   },
   "indices": [
     {
@@ -151050,11 +151052,11 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-26",
-    "generatedAt": "2026-08-26 22:10:11",
+    "tradeDate": "2026-08-27",
+    "generatedAt": "2026-08-27 18:11:22",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、汽车链、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -151062,12 +151064,22 @@
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "汽车链",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 3,
         "isFocusBoard": false
       },
@@ -151077,256 +151089,260 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST人福:第十一届董事会第十一次会议决议公告",
-        "summary": "ST人福(600079)：ST人福:第十一届董事会第十一次会议决议公告",
-        "publishedAt": "2026-08-26",
+        "title": "ST华谊:第六届董事会第38次会议决议公告",
+        "summary": "ST华谊(300027)：ST华谊:第六届董事会第38次会议决议公告",
+        "publishedAt": "2026-08-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600079/AN202608251828412690.html",
+        "url": "https://data.eastmoney.com/notices/detail/300027/AN202608261828493388.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST人福(600079)"
+          "ST华谊(300027)"
         ],
         "importance": 1,
         "noticeType": "董事会决议公告"
       },
       {
-        "title": "卡塔尔外交部：以色列不存在和平伙伴",
-        "summary": "【卡塔尔外交部：以色列不存在和平伙伴】卡塔尔外交部发言人安萨里8月25日表示，美国对伊朗实施的制裁是单边制裁，并非联合国或多边制裁，应该向决定实施制裁的人提出质疑。",
-        "publishedAt": "2026-08-26 21:33:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608263855103792.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "ST创意:2026年半年度报告摘要",
+        "summary": "ST创意(300366)：ST创意:2026年半年度报告摘要",
+        "publishedAt": "2026-08-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300366/AN202608260006751855.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "ST创意(300366)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "半年度报告摘要"
       },
       {
-        "title": "雪迪龙:002658雪迪龙投资者关系管理信息20260826",
-        "summary": "雪迪龙(002658)：雪迪龙:002658雪迪龙投资者关系管理信息20260826",
-        "publishedAt": "2026-08-26",
+        "title": "华厦眼科:关于持股5%以上股东减持股份的预披露公告",
+        "summary": "华厦眼科(301267)：华厦眼科:关于持股5%以上股东减持股份的预披露公告",
+        "publishedAt": "2026-08-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002658/AN202608261828492723.html",
+        "url": "https://data.eastmoney.com/notices/detail/301267/AN202608271828548883.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "华厦眼科(301267)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "一致魔芋:关于投资者关系活动记录表的公告",
+        "summary": "一致魔芋(920273)：一致魔芋:关于投资者关系活动记录表的公告",
+        "publishedAt": "2026-08-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920273/AN202608271828544127.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "雪迪龙(002658)"
+          "一致魔芋(920273)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "聚星科技:投资者关系活动记录表",
-        "summary": "聚星科技(920111)：聚星科技:投资者关系活动记录表",
-        "publishedAt": "2026-08-26",
+        "title": "弘景光电:关于召开2026年半年度业绩说明会的公告",
+        "summary": "弘景光电(301479)：弘景光电:关于召开2026年半年度业绩说明会的公告",
+        "publishedAt": "2026-08-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920111/AN202608261828493466.html",
+        "url": "https://data.eastmoney.com/notices/detail/301479/AN202608271828539015.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "聚星科技(920111)"
+          "弘景光电(301479)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "300428立中集团投资者关系管理信息20260827",
+        "summary": "立中集团(300428)：300428立中集团投资者关系管理信息20260827",
+        "publishedAt": "2026-08-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300428/AN202608271828548605.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "立中集团(300428)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "隆平高科:2026年8月24日投资者活动记录表",
-        "summary": "隆平高科(000998)：隆平高科:2026年8月24日投资者活动记录表",
-        "publishedAt": "2026-08-26",
+        "title": "众鑫股份:投资者关系活动记录表2026.08.27",
+        "summary": "众鑫股份(603091)：众鑫股份:投资者关系活动记录表2026.08.27",
+        "publishedAt": "2026-08-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000998/AN202608261828447906.html",
+        "url": "https://data.eastmoney.com/notices/detail/603091/AN202608271828548737.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "隆平高科(000998)"
+          "众鑫股份(603091)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "中科曙光:中科曙光关于使用闲置募集资金进行现金管理的公告",
-        "summary": "中科曙光(603019)：中科曙光:中科曙光关于使用闲置募集资金进行现金管理的公告",
-        "publishedAt": "2026-08-26",
+        "title": "太力科技:投资者关系活动记录表20260827",
+        "summary": "太力科技(301595)：太力科技:投资者关系活动记录表20260827",
+        "publishedAt": "2026-08-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603019/AN202608251828430859.html",
+        "url": "https://data.eastmoney.com/notices/detail/301595/AN202608271828548281.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中科曙光(603019)"
+          "太力科技(301595)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "维琪科技:关于使用闲置募集资金进行现金管理的公告",
+        "summary": "维琪科技(920176)：维琪科技:关于使用闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-08-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920176/AN202608271828548634.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "维琪科技(920176)"
         ],
         "importance": 1,
         "noticeType": "投资理财"
       },
       {
-        "title": "汉朔科技:投资者关系活动记录表",
-        "summary": "汉朔科技(301275)：汉朔科技:投资者关系活动记录表",
-        "publishedAt": "2026-08-26",
+        "title": "嘉曼服饰:2026年8月27日投资者关系活动记录表",
+        "summary": "嘉曼服饰(301276)：嘉曼服饰:2026年8月27日投资者关系活动记录表",
+        "publishedAt": "2026-08-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301275/AN202608261828499798.html",
+        "url": "https://data.eastmoney.com/notices/detail/301276/AN202608271828548280.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "汉朔科技(301275)"
+          "嘉曼服饰(301276)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "中钨高新2026年8月25日投资者关系活动记录表",
-        "summary": "中钨高新(000657)：中钨高新2026年8月25日投资者关系活动记录表",
-        "publishedAt": "2026-08-26",
+        "title": "嘉元科技:广东嘉元科技股份有限公司2026年半年度业绩说明会投资者关系活动记录表",
+        "summary": "嘉元科技(688388)：嘉元科技:广东嘉元科技股份有限公司2026年半年度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-08-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000657/AN202608261828499748.html",
+        "url": "https://data.eastmoney.com/notices/detail/688388/AN202608271828548155.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "嘉元科技(688388)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "虹软科技:投资者关系活动记录表2026-006",
+        "summary": "虹软科技(688088)：虹软科技:投资者关系活动记录表2026-006",
+        "publishedAt": "2026-08-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688088/AN202608271828548072.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "虹软科技(688088)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "小鹏Robotaxi已完成超2000单内部试乘订单",
+        "summary": "【小鹏Robotaxi已完成超2000单内部试乘订单】小鹏汽车通用智能中心负责人刘先明今日下午透露，搭载第二代VLA的小鹏Robotaxi已完成超过2000单内部试乘订单，目前正在开展主驾无人道路测试。小鹏采用同一套架构和模型，将第二代VLA由L2辅助驾驶扩展至L4 Robotaxi。他进一步称，这意味着一个技术底座实现了L2至L4的贯通。",
+        "publishedAt": "2026-08-27 18:05:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608273856535844.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "有色稀土"
+          "汽车链"
         ],
-        "tickers": [
-          "中钨高新(000657)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "星宸科技:301536星宸科技投资者关系管理信息20260826",
-        "summary": "星宸科技(301536)：星宸科技:301536星宸科技投资者关系管理信息20260826",
-        "publishedAt": "2026-08-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301536/AN202608261828499547.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "星宸科技(301536)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "北摩高科:2026年08月26日投资者关系活动记录表",
-        "summary": "北摩高科(002985)：北摩高科:2026年08月26日投资者关系活动记录表",
-        "publishedAt": "2026-08-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002985/AN202608261828499523.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "北摩高科(002985)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中红医疗:2026年8月26日投资者关系活动记录表",
-        "summary": "中红医疗(300981)：中红医疗:2026年8月26日投资者关系活动记录表",
-        "publishedAt": "2026-08-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300981/AN202608261828498096.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "中红医疗(300981)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "韵达股份:2026年8月26日投资者关系活动记录表",
-        "summary": "韵达股份(002120)：韵达股份:2026年8月26日投资者关系活动记录表",
-        "publishedAt": "2026-08-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002120/AN202608261828498037.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "韵达股份(002120)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "丹娜生物:关于参加天津辖区上市公司2026年投资者网上集体接待日活动暨半年报业绩说明会预告的公告",
-        "summary": "丹娜生物(920009)：丹娜生物:关于参加天津辖区上市公司2026年投资者网上集体接待日活动暨半年报业绩说明会预告的公告",
-        "publishedAt": "2026-08-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920009/AN202608261828498086.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "丹娜生物(920009)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美国截至8月21日当周API汽油库存变动(万桶)",
-        "summary": "美国截至8月21日当周API汽油库存变动(万桶)；公布 -320.0，预期 -95.4，前值 107.6。",
-        "publishedAt": "2026-08-26 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至8月21日当周API原油库存变动(万桶)",
-        "summary": "美国截至8月21日当周API原油库存变动(万桶)；公布 420.0，预期 -33.0，前值 -32.8。",
-        "publishedAt": "2026-08-26 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "晨丰科技：拟投资5.95亿元建设沈阳储能项目",
+        "summary": "【晨丰科技：拟投资5.95亿元建设沈阳储能项目】晨丰科技(603685.SH)公告称，公司拟投资建设沈阳储能项目，项目总投资7亿元，公司预计投资额为5.95亿元，由控股孙公司北网新能(沈阳)能源有限公司负责实施。项目装机容量为200MW/760MWh，建设期约12个月，预计投资收益率7.49%。",
+        "publishedAt": "2026-08-27 18:02:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608273856534340.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
+          "新能源",
           "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国8月25日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月25日iShares黄金持仓-每日更新(吨)；公布 460.5，预期 nan，前值 460.12。",
-        "publishedAt": "2026-08-26 06:30",
+        "title": "小米集团增持金山软件 持股比例升至8.14%",
+        "summary": "【小米集团增持金山软件 持股比例升至8.14%】8月27日，港交所披露文件显示，小米于8月27日以每股24.4595港元的平均价格购入了243万股金山软件股份，持股比例升至8.14%。",
+        "publishedAt": "2026-08-27 17:49:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608273856517053.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月26日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国8月26日SPDR黄金持仓-每日更新(吨)；公布 1045.49，预期 nan，前值 1048.35。",
+        "publishedAt": "2026-08-27 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -151340,31 +151356,31 @@
         "noticeType": ""
       },
       {
-        "title": "美国8月25日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国8月25日SPDR黄金持仓-每日更新(吨)；公布 1048.35，预期 nan，前值 1049.49。",
-        "publishedAt": "2026-08-26 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月25日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月25日iShares白银持仓-每日更新(吨)；公布 15362.73，预期 nan，前值 15399.26。",
-        "publishedAt": "2026-08-26 06:30",
+        "title": "美国8月26日iShares白银持仓-每日更新(吨)",
+        "summary": "美国8月26日iShares白银持仓-每日更新(吨)；公布 15362.73，预期 nan，前值 15362.73。",
+        "publishedAt": "2026-08-27 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月26日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月26日iShares黄金持仓-每日更新(吨)；公布 460.5，预期 nan，前值 460.5。",
+        "publishedAt": "2026-08-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -151514,7 +151530,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -151527,15 +151543,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-26 22:10:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 有色稀土、能源、医药。",
+        "generatedAt": "2026-08-27 18:11:22",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、汽车链、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：证券、工业金属、金属铜；首看 证券 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、汽车链、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -151631,7 +151647,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 同花顺漂亮100，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：ST人福:第十一届董事会第十一次会议决议公告；卡塔尔外交部：以色列不存在和平伙伴。",
+              "新闻/公告风险：ST华谊:第六届董事会第38次会议决议公告；ST创意:2026年半年度报告摘要。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
