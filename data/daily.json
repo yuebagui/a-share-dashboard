@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-28",
     "phase": "盘中快照",
-    "generatedAt": "2026-08-28 03:00:14",
+    "generatedAt": "2026-08-28 06:54:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -157260,7 +157260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -157424,11 +157425,21 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-28",
-    "generatedAt": "2026-08-28 03:02:17",
+    "generatedAt": "2026-08-28 06:56:19",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、能源、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 半导体、AI算力、有色稀土。",
     "themes": [
+      {
+        "name": "半导体",
+        "score": 11,
+        "isFocusBoard": true
+      },
+      {
+        "name": "AI算力",
+        "score": 9,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 9,
@@ -157440,12 +157451,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
@@ -157530,6 +157536,22 @@
         ],
         "importance": 1,
         "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "科技股调整并非单一美债驱动 AI远期定价成核心博弈主线",
+        "summary": "【科技股调整并非单一美债驱动 AI远期定价成核心博弈主线】近期，全球科技板块波动加剧。美国长端国债收益率快速上行，一度对成长股估值形成明显压制；随着债券收益率阶段性回落、英伟达交出超预期财报，美股及A股科技板块又迎来反弹。分析人士认为，利率变化是影响科技股风险偏好和估值水平的重要因素，但不能将本轮调整简单归因于美债收益率高企。随着AI产业进入大规模资本开支…",
+        "publishedAt": "2026-08-28 06:33:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283857104158.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "300438鹏辉能源投资者关系管理信息20260827",
@@ -157646,25 +157668,28 @@
         "noticeType": "其他"
       },
       {
-        "title": "特朗普称赞美光科技在美国的投资",
-        "summary": "【特朗普称赞美光科技在美国的投资】特朗普称赞美光科技在美国的投资。",
-        "publishedAt": "2026-08-28 02:33:46",
+        "title": "英伟达据悉暂停与多家人工智能企业的收益分成协议",
+        "summary": "【英伟达据悉暂停与多家人工智能企业的收益分成协议】据知情人士透露，英伟达暂停了一项新融资计划下的部分合作。该计划为AI云服务商提供信用支持，以此换取一部分营收分成。知情人士称，英伟达部分员工向现有及潜在客户表达担忧：该项目有可能招致反垄断审查；同时，这家芯片巨头能在多大程度上左右客户的商业经营，本身也存在政策敏感问题。",
+        "publishedAt": "2026-08-28 05:50:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857069693.html",
+        "url": "https://finance.eastmoney.com/a/202608283857095232.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "Anthropic据称考虑允许股东在IPO中出售股份",
-        "summary": "【Anthropic据称考虑允许股东在IPO中出售股份】Anthropic据悉一直在制定一项方案，拟允许现有股东在IPO中出售部分持股。公司还在考虑上市后对股份出售设置比通常更长的锁定期。目前尚无法确认现有股东可在IPO中出售多少股份，也无法确认哪些类别的股东可以参与出售。据报道，Anthropic计划在美国劳工节后公开披露IPO招股书，预计9月中旬举办面…",
-        "publishedAt": "2026-08-28 02:13:47",
+        "title": "特朗普任命本·莫斯为白宫幕僚秘书",
+        "summary": "美国总统特朗普通过社交媒体宣布，本·莫斯将自9月2日起出任总统助理兼白宫幕僚秘书，接替已转任白宫法律顾问的威尔·沙夫。特朗普表示，莫斯此前担任白宫副幕僚秘书，更早前曾任副总统政策主任。",
+        "publishedAt": "2026-08-28 05:40:12",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857068333.html",
+        "url": "https://finance.eastmoney.com/a/202608283857093966.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -157675,7 +157700,7 @@
       },
       {
         "title": "美国截至8月26日美联储资产负债表(万亿美元)",
-        "summary": "美国截至8月26日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.75。",
+        "summary": "美国截至8月26日美联储资产负债表(万亿美元)；公布 6.73，预期 nan，前值 6.75。",
         "publishedAt": "2026-08-28 04:30",
         "source": "百度财经日历",
         "url": "",
@@ -157705,7 +157730,7 @@
       },
       {
         "title": "美国8月26日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月26日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 269025.69。",
+        "summary": "美国8月26日COMEX黄金库存-每日更新(百盎司)；公布 270251.61，预期 nan，前值 269025.69。",
         "publishedAt": "2026-08-28 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -157715,20 +157740,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月27日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月27日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15362.73。",
-        "publishedAt": "2026-08-28 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -157870,15 +157881,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-28 03:02:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、能源、军工。",
+        "generatedAt": "2026-08-28 06:56:19",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 半导体、AI算力、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、芯片概念、半导体；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -157909,7 +157920,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-28 03:00:14",
+        "generatedAt": "2026-08-28 06:54:28",
         "summary": "上午情绪分 100，涨停 77 家，跌停 3 家，炸板 17 家，连板 16 家，最高 6 板。",
         "sections": [
           {
@@ -157948,7 +157959,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-28 03:00:14",
+        "generatedAt": "2026-08-28 06:54:28",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
