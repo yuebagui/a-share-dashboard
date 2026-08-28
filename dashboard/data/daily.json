@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-28",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-28 23:40:48",
+    "generatedAt": "2026-08-29 03:36:09",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -155298,7 +155298,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -155458,41 +155459,97 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-28",
-    "generatedAt": "2026-08-28 23:42:05",
+    "generatedAt": "2026-08-29 03:39:42",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: ('Connection broken: IncompleteRead(48997 bytes read, 22936 more expected)', IncompleteRead(48997 bytes read, 22936 more expected))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、医药、半导体。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 8,
+        "name": "医药",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 7,
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ICE原糖期货下跌超过3% 至每磅17.61美分",
-        "summary": "【ICE原糖期货下跌超过3% 至每磅17.61美分】ICE原糖期货下跌超过3%，至每磅17.61美分。",
-        "publishedAt": "2026-08-28 23:37:43",
+        "title": "关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函",
+        "summary": "珍宝岛(603567)：关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603567/AN202608281828649986.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "珍宝岛(603567)"
+        ],
+        "importance": 1,
+        "noticeType": "上交所股票监管工作函"
+      },
+      {
+        "title": "凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告",
+        "summary": "凡拓数创(301313)：凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301313/AN202608281828637294.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "凡拓数创(301313)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "*ST动力:第六届董事会第十次会议决议公告",
+        "summary": "*ST动力(300152)：*ST动力:第六届董事会第十次会议决议公告",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300152/AN202608271828550522.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST动力(300152)"
+        ],
+        "importance": 1,
+        "noticeType": "董事会决议公告"
+      },
+      {
+        "title": "港股通调整名单即将公布 警惕爆炒“入通”概念股",
+        "summary": "【港股通调整名单即将公布 警惕爆炒“入通”概念股】9月港股通标的调整进入倒计时，新一轮标的纳入名单也成为市场关注焦点。业内专家提醒，随着港股通调整生效节点临近，投资者需要高度警惕“入通闪崩”的投资风险。尤其要留意那些基本面偏弱、股权高度集中的个股；同时南向资金以及被动型基金产品，也应当做好相应的风险防控。",
+        "publishedAt": "2026-08-29 03:24:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858825470.html",
+        "url": "https://finance.eastmoney.com/a/202608293858894398.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -155502,11 +155559,11 @@
         "noticeType": ""
       },
       {
-        "title": "芝加哥期权交易所波动率指数创两周新低 最新下跌0.28点",
-        "summary": "芝加哥期权交易所波动率指数创两周新低，最新下跌0.28点，报14.23点。",
-        "publishedAt": "2026-08-28 23:19:02",
+        "title": "伊朗总统佩泽希齐扬：已经围绕霍尔木兹海峡通行路线达成内部共识",
+        "summary": "【伊朗总统佩泽希齐扬：已经围绕霍尔木兹海峡通行路线达成内部共识】伊朗总统佩泽希齐扬表示，已经围绕霍尔木兹海峡通行路线达成内部共识。若四项承诺得到履行，伊朗将开放航道。承诺内容包括解除对燃料、石化产品的制裁，还包括释放资金、恢复投资。",
+        "publishedAt": "2026-08-29 03:05:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858804565.html",
+        "url": "https://finance.eastmoney.com/a/202608293858902221.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -155516,50 +155573,161 @@
         "noticeType": ""
       },
       {
-        "title": "美股非AI硬件大型科技股集体走强 苹果、谷歌上涨2%",
-        "summary": "【美股非AI硬件大型科技股集体走强 苹果、谷歌上涨2%】美股除AI硬件之外的大型科技股集体走强，苹果股价上涨2%，谷歌-A股价上涨2.05%，微软股价上涨1.92%，亚马逊股价上涨3.6%，Meta股价上涨2.37%。而美股AI硬件个股相对较弱，费城半导体指数目前下跌1.4%。",
-        "publishedAt": "2026-08-28 23:01:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858796523.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
+        "title": "佳电股份:佳电股份投资者关系活动记录表",
+        "summary": "佳电股份(000922)：佳电股份:佳电股份投资者关系活动记录表",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000922/AN202608281828639012.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "佳电股份(000922)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "美国顶尖风险投资机构A16Z称已为人工智能基础设施基金募资11亿美元",
-        "summary": "【美国顶尖风险投资机构A16Z称已为人工智能基础设施基金募资11亿美元】美国顶尖风险投资机构A16Z称已为人工智能基础设施基金募资11亿美元。",
-        "publishedAt": "2026-08-28 22:56:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858793594.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
+        "title": "山西焦煤:000983山西焦煤投资者关系管理信息20260828",
+        "summary": "山西焦煤(000983)：山西焦煤:000983山西焦煤投资者关系管理信息20260828",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000983/AN202608281828641159.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "山西焦煤(000983)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "TCL科技：将从磷化铟激光芯片逐步切入光通信赛道",
-        "summary": "【TCL科技：将从磷化铟激光芯片逐步切入光通信赛道】TCL科技高级副总裁、TCL华星CEO赵军在今日举行的投资者交流会上表示，TCL华星计划依托华兆星光深圳项目，复用LED厂房设计、制造、厂务和产业集群能力，从磷化铟激光芯片切入光通信赛道。他表示，“该业务的拓展路径将分三步，第一步，做好激光芯片，形成核心技术和规模制造能力；第二步，在成熟激光芯片的基础之上…",
-        "publishedAt": "2026-08-28 23:35:46",
+        "title": "白云山:广州白云山医药集团股份有限公司2026年8月25日投资者关系活动记录表",
+        "summary": "白云山(600332)：白云山:广州白云山医药集团股份有限公司2026年8月25日投资者关系活动记录表",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600332/AN202608281828641818.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "白云山(600332)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "科思科技:2026年半年度业绩说明会会议纪要",
+        "summary": "科思科技(688788)：科思科技:2026年半年度业绩说明会会议纪要",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688788/AN202608281828632078.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "科思科技(688788)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "301330熵基科技投资者关系管理信息20260828",
+        "summary": "熵基科技(301330)：301330熵基科技投资者关系管理信息20260828",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301330/AN202608281828625461.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "熵基科技(301330)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "亚钾国际:000893亚钾国际投资者关系管理信息20260828",
+        "summary": "亚钾国际(000893)：亚钾国际:000893亚钾国际投资者关系管理信息20260828",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000893/AN202608281828619570.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "亚钾国际(000893)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "3-1独立财务顾问报告(申报稿)(广州信邦智能装备股份有限公司)",
+        "summary": "信邦智能(301112)：3-1独立财务顾问报告(申报稿)(广州信邦智能装备股份有限公司)",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301112/AN202608281828614391.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "信邦智能(301112)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组独立财务顾问报告申报稿"
+      },
+      {
+        "title": "东瑞股份:001201东瑞股份投资者关系管理信息20260828",
+        "summary": "东瑞股份(001201)：东瑞股份:001201东瑞股份投资者关系管理信息20260828",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001201/AN202608281828656036.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "东瑞股份(001201)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "顺丰控股:2026年8月28日投资者关系活动记录表",
+        "summary": "顺丰控股(002352)：顺丰控股:2026年8月28日投资者关系活动记录表",
+        "publishedAt": "2026-08-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002352/AN202608281828655179.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "顺丰控股(002352)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "哈佛大学教授Rogoff警告称美国财政困局恐需危机推动才会改革",
+        "summary": "【哈佛大学教授Rogoff警告称美国财政困局恐需危机推动才会改革】哈佛大学经济学教授KennethRogoff警告称，美国政府不断恶化的财政困境可能要等到一场重大危机冲击选民，并促使他们要求改革后，才会得到解决。Rogoff表示，美国债务多年来持续无节制地累积，因为学术派经济学家“近乎宗教般”地坚信利率会无限期下降。但他表示，即便利率从低位反弹并持续上升，…",
+        "publishedAt": "2026-08-29 03:15:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858825181.html",
+        "url": "https://finance.eastmoney.com/a/202608293858903575.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -155608,150 +155776,6 @@
         ],
         "tickers": [],
         "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月27日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月27日iShares白银持仓-每日更新(吨)；公布 15345.86，预期 nan，前值 15362.73。",
-        "publishedAt": "2026-08-28 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月27日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国8月27日SPDR黄金持仓-每日更新(吨)；公布 1046.64，预期 nan，前值 1045.49。",
-        "publishedAt": "2026-08-28 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本7月失业率(%)",
-        "summary": "日本7月失业率(%)；公布 2.4，预期 2.5，前值 2.5。",
-        "publishedAt": "2026-08-28 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本8月东京CPI年率(%)",
-        "summary": "日本8月东京CPI年率(%)；公布 1.9，预期 1.9，前值 2.0。",
-        "publishedAt": "2026-08-28 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚截至8月23日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至8月23日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 76.5。",
-        "publishedAt": "2026-08-28 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "委内瑞拉或退出欧佩克",
-        "summary": "【委内瑞拉或退出欧佩克】近日，有消息称，委内瑞拉正在考虑退出欧佩克。分析指出，即便委内瑞拉最终退出欧佩克，其对短期全球石油供需格局和油价的直接影响可能仍较为有限。当前市场对于油价的关注重点，仍集中在美伊战事等地缘政治因素上。",
-        "publishedAt": "2026-08-28 23:25:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858810421.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "现货钯金涨8.00% 现报1457.21美元/盎司",
-        "summary": "现货钯金涨8.00%，现报1457.21美元/盎司。",
-        "publishedAt": "2026-08-28 23:10:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858802527.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "部分期货品种夜盘收盘 燃油跌0.54%",
-        "summary": "【部分期货品种夜盘收盘 燃油跌0.54%】部分期货品种夜盘收盘，燃油跌0.54%，棉花跌0.06%，玻璃涨2.61%，纯碱涨2.14%，螺纹钢涨0.68%，热卷涨0.71%，焦炭涨2.54%，甲醇涨1.99%，焦煤涨3.05%，铁矿石涨0.76%。",
-        "publishedAt": "2026-08-28 23:06:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858798018.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "港股IPO：南京诺令生物递表港交所",
-        "summary": "【港股IPO：南京诺令生物递表港交所】利弗莫尔证券显示，南京诺令生物科技股份有限公司向港交所提交上市申请书，独家保荐人为建银国际。",
-        "publishedAt": "2026-08-28 22:52:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858784573.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "焦煤期货主力合约涨3% 报1671元/吨",
-        "summary": "【焦煤期货主力合约涨3% 报1671元/吨】焦煤期货主力合约涨3%，报1671元/吨；焦炭期货主力合约涨2.54%，报2204元/吨。",
-        "publishedAt": "2026-08-28 22:50:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858784366.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -155884,15 +155908,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-28 23:42:05",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
+        "generatedAt": "2026-08-29 03:39:42",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、医药、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -155923,7 +155947,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-28 23:40:48",
+        "generatedAt": "2026-08-29 03:36:09",
         "summary": "上午情绪分 100，涨停 82 家，跌停 1 家，炸板 16 家，连板 18 家，最高 7 板。",
         "sections": [
           {
@@ -155962,7 +155986,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-28 23:40:48",
+        "generatedAt": "2026-08-29 03:36:09",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -155988,7 +156012,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ICE原糖期货下跌超过3% 至每磅17.61美分；芝加哥期权交易所波动率指数创两周新低 最新下跌0.28点。",
+              "新闻/公告风险：关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函；凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
