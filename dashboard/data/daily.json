@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-28",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-28 23:34:31",
+    "generatedAt": "2026-08-28 23:40:48",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -157223,12 +157223,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-28",
-    "generatedAt": "2026-08-28 23:35:24",
+    "generatedAt": "2026-08-28 23:42:05",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: ('Connection broken: IncompleteRead(16121 bytes read, 55729 more expected)', IncompleteRead(16121 bytes read, 55729 more expected))"
+      "notices: ('Connection broken: IncompleteRead(48997 bytes read, 22936 more expected)', IncompleteRead(48997 bytes read, 22936 more expected))"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
     "themes": [
       {
         "name": "有色稀土",
@@ -157242,7 +157242,7 @@
       },
       {
         "name": "半导体",
-        "score": 4,
+        "score": 7,
         "isFocusBoard": false
       },
       {
@@ -157252,6 +157252,20 @@
       }
     ],
     "items": [
+      {
+        "title": "ICE原糖期货下跌超过3% 至每磅17.61美分",
+        "summary": "【ICE原糖期货下跌超过3% 至每磅17.61美分】ICE原糖期货下跌超过3%，至每磅17.61美分。",
+        "publishedAt": "2026-08-28 23:37:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283858825470.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
       {
         "title": "芝加哥期权交易所波动率指数创两周新低 最新下跌0.28点",
         "summary": "芝加哥期权交易所波动率指数创两周新低，最新下跌0.28点，报14.23点。",
@@ -157300,15 +157314,17 @@
         "noticeType": ""
       },
       {
-        "title": "纳斯达克综合指数转涨",
-        "summary": "纳斯达克综合指数转涨，此前一度下跌0.4%，现报26558.69点。",
-        "publishedAt": "2026-08-28 22:38:34",
+        "title": "TCL科技：将从磷化铟激光芯片逐步切入光通信赛道",
+        "summary": "【TCL科技：将从磷化铟激光芯片逐步切入光通信赛道】TCL科技高级副总裁、TCL华星CEO赵军在今日举行的投资者交流会上表示，TCL华星计划依托华兆星光深圳项目，复用LED厂房设计、制造、厂务和产业集群能力，从磷化铟激光芯片切入光通信赛道。他表示，“该业务的拓展路径将分三步，第一步，做好激光芯片，形成核心技术和规模制造能力；第二步，在成熟激光芯片的基础之上…",
+        "publishedAt": "2026-08-28 23:35:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858767675.html",
+        "url": "https://finance.eastmoney.com/a/202608283858825181.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -157502,22 +157518,6 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
-      },
-      {
-        "title": "港股IPO：Exegenesis Bio公司递表港交所",
-        "summary": "【港股IPO：Exegenesis Bio公司递表港交所】利弗莫尔证券显示，Exegenesis Bio Inc. - B向港交所提交上市申请书，独家保荐人为建银国际。",
-        "publishedAt": "2026-08-28 22:46:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283858781566.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       }
     ]
   },
@@ -157649,8 +157649,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-28 23:35:24",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
+        "generatedAt": "2026-08-28 23:42:05",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
@@ -157688,7 +157688,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-28 23:34:31",
+        "generatedAt": "2026-08-28 23:40:48",
         "summary": "上午情绪分 100，涨停 82 家，跌停 1 家，炸板 16 家，连板 18 家，最高 7 板。",
         "sections": [
           {
@@ -157727,7 +157727,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-28 23:34:31",
+        "generatedAt": "2026-08-28 23:40:48",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -157753,7 +157753,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：芝加哥期权交易所波动率指数创两周新低 最新下跌0.28点；美股非AI硬件大型科技股集体走强 苹果、谷歌上涨2%。",
+              "新闻/公告风险：ICE原糖期货下跌超过3% 至每磅17.61美分；芝加哥期权交易所波动率指数创两周新低 最新下跌0.28点。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
