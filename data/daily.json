@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-28",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-28 06:58:40",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-28 06:58:40",
+    "lastNewsAt": "2026-08-28 19:41:29"
   },
   "indices": [
     {
@@ -157425,292 +157427,96 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-28",
-    "generatedAt": "2026-08-28 07:00:35",
+    "generatedAt": "2026-08-28 19:41:29",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "notices: ('Connection broken: IncompleteRead(56237 bytes read, 15303 more expected)', IncompleteRead(56237 bytes read, 15303 more expected))"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、半导体、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 3 条；主题映射集中在 金融、有色稀土、机器人。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 11,
+        "name": "金融",
+        "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 11,
-        "isFocusBoard": true
-      },
-      {
-        "name": "能源",
-        "score": 7,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "机器人",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST新华锦:新华锦2026年半年度报告",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦2026年半年度报告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202608271828559518.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "半年度报告全文"
-      },
-      {
-        "title": "ST新华锦:新华锦第十四届董事会第十一次会议决议公告",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦第十四届董事会第十一次会议决议公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202608271828559517.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "董事会决议公告"
-      },
-      {
-        "title": "ST新华锦:新华锦2026年半年度报告摘要",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦2026年半年度报告摘要",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202608271828559516.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "半年度报告摘要"
-      },
-      {
-        "title": "ST新华锦:新华锦关于控股子公司失去控制且不纳入合并报表范围的公告",
-        "summary": "ST新华锦(600735)：ST新华锦:新华锦关于控股子公司失去控制且不纳入合并报表范围的公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202608271828559515.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST新华锦(600735)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长园集团:关于收到持股5%以上股东《执行裁定书》的公告",
-        "summary": "长园集团(600525)：长园集团:关于收到持股5%以上股东《执行裁定书》的公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600525/AN202608271828559237.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "长园集团(600525)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "科技股调整并非单一美债驱动 AI远期定价成核心博弈主线",
-        "summary": "【科技股调整并非单一美债驱动 AI远期定价成核心博弈主线】近期，全球科技板块波动加剧。美国长端国债收益率快速上行，一度对成长股估值形成明显压制；随着债券收益率阶段性回落、英伟达交出超预期财报，美股及A股科技板块又迎来反弹。分析人士认为，利率变化是影响科技股风险偏好和估值水平的重要因素，但不能将本轮调整简单归因于美债收益率高企。随着AI产业进入大规模资本开支…",
-        "publishedAt": "2026-08-28 06:33:07",
+        "title": "联创光电：公司股票可能被实施其他风险警示",
+        "summary": "【联创光电：公司股票可能被实施其他风险警示】联创光电(600363.SH)公告称，公司全资子公司通过签订贸易协议向控股股东关联方付款，预付款项最终流向控股股东。由于控股股东出现债务危机，截至报告期末尚有16.92亿元预付款项未退回，构成非经营性资金占用。若控股股东未能在1个月内完成清偿或整改，公司股票将可能被实施其他风险警示。",
+        "publishedAt": "2026-08-28 19:27:25",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857104158.html",
+        "url": "https://finance.eastmoney.com/a/202608283858472375.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "300438鹏辉能源投资者关系管理信息20260827",
-        "summary": "鹏辉能源(300438)：300438鹏辉能源投资者关系管理信息20260827",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300438/AN202608281828565738.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "鹏辉能源(300438)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "南矿集团:2026年8月27日投资者关系活动记录表",
-        "summary": "南矿集团(001360)：南矿集团:2026年8月27日投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001360/AN202608281828563337.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "南矿集团(001360)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "弘亚数控:2026年8月27日投资者关系活动记录表",
-        "summary": "弘亚数控(002833)：弘亚数控:2026年8月27日投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002833/AN202608281828562264.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "弘亚数控(002833)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "国晟科技:关于召开2026年半年度业绩说明会的公告",
-        "summary": "国晟科技(603778)：国晟科技:关于召开2026年半年度业绩说明会的公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603778/AN202608271828559611.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国晟科技(603778)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长川科技:杭州长川科技股份有限公司关于2023年8月向特定对象发行股票部分募投项目延期的公告",
-        "summary": "长川科技(300604)：长川科技:杭州长川科技股份有限公司关于2023年8月向特定对象发行股票部分募投项目延期的公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202608271828559532.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "长川科技(300604)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "广电计量:广电计量检测集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)募集说明书",
-        "summary": "广电计量(002967)：广电计量:广电计量检测集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)募集说明书",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002967/AN202608271828558950.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "广电计量(002967)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "广电计量:广电计量检测集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行公告",
-        "summary": "广电计量(002967)：广电计量:广电计量检测集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002967/AN202608271828558952.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "广电计量(002967)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "英伟达据悉暂停与多家人工智能企业的收益分成协议",
-        "summary": "【英伟达据悉暂停与多家人工智能企业的收益分成协议】据知情人士透露，英伟达暂停了一项新融资计划下的部分合作。该计划为AI云服务商提供信用支持，以此换取一部分营收分成。知情人士称，英伟达部分员工向现有及潜在客户表达担忧：该项目有可能招致反垄断审查；同时，这家芯片巨头能在多大程度上左右客户的商业经营，本身也存在政策敏感问题。",
-        "publishedAt": "2026-08-28 05:50:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857095232.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "特朗普任命本·莫斯为白宫幕僚秘书",
-        "summary": "美国总统特朗普通过社交媒体宣布，本·莫斯将自9月2日起出任总统助理兼白宫幕僚秘书，接替已转任白宫法律顾问的威尔·沙夫。特朗普表示，莫斯此前担任白宫副幕僚秘书，更早前曾任副总统政策主任。",
-        "publishedAt": "2026-08-28 05:40:12",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857093966.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "财报季与产业盛会共振 AI算力与具身智能双线并进",
-        "summary": "【财报季与产业盛会共振 AI算力与具身智能双线并进】本周，AI产业进入“超级周”，多场重磅产业会议密集举行，全球AI算力龙头英伟达已发布超预期财报。产业端与资本市场端在本周叠加共振，将市场对AI产业的关注度推至阶段性高点。Wind数据显示，万得人工智能概念指数8月27日上涨1.54%。",
-        "publishedAt": "2026-08-28 06:50:02",
+        "title": "金融监管总局：将预售商品房个人住房贷款发放时点从主体结构封顶调整到竣工备案 并要求加强贷款全流程风险管理",
+        "summary": "【金融监管总局：将预售商品房个人住房贷款发放时点从主体结构封顶调整到竣工备案 并要求加强贷款全流程风险管理】国家金融监督管理总局有关司局负责人就总局发布房地产相关融资管理办法答记者问。问：《个人住房贷款管理办法（试行）》如何更好支持刚性和改善性住房需求？",
+        "publishedAt": "2026-08-28 19:25:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857103849.html",
+        "url": "https://finance.eastmoney.com/a/202608283858470866.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "风险",
         "themes": [
-          "AI算力",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国家金融监督管理总局有关司局负责人就总局发布房地产相关融资管理办法答记者问",
+        "summary": "【国家金融监督管理总局有关司局负责人就总局发布房地产相关融资管理办法答记者问】金融监管总局近日印发《商品住房开发贷款管理办法（试行）》《个人住房贷款管理办法（试行）》《商业地产贷款管理办法（试行）》《城市更新项目贷款管理办法（试行）》《信托公司开展房地产领域信托业务管理办法（试行）》，有关司局负责人就相关问题回答了记者的提问。",
+        "publishedAt": "2026-08-28 19:24:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283858466378.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中坚科技：拟投资12亿元建设智能机器人产业化项目",
+        "summary": "【中坚科技：拟投资12亿元建设智能机器人产业化项目】中坚科技(002779.SZ)公告称，公司及控股子公司上海桦之坚与永康市人民政府签署《智能机器人产业化项目投资协议书》，计划在永康市设立项目实施主体，投资建设智能机器人产业化项目，预计总投资12亿元。",
+        "publishedAt": "2026-08-28 19:35:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283858489786.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
           "机器人"
         ],
         "tickers": [],
@@ -157718,11 +157524,145 @@
         "noticeType": ""
       },
       {
-        "title": "新疆建成全国规模最大超高压电力骨干网",
-        "summary": "【新疆建成全国规模最大超高压电力骨干网】记者从国家电网了解到，截至昨天，新疆750千伏超高压输电线路总长度超过15000千米，建成全国规模最大的超高压电力骨干网。",
-        "publishedAt": "2026-08-28 06:37:50",
+        "title": "房地产信贷迎来重磅新政策！确保购房人“能拿房、再还贷”",
+        "summary": "【房地产信贷迎来重磅新政策！确保购房人“能拿房、再还贷”】今天（8月28日），中国人民银行、国家金融监督管理总局联合印发《关于改革完善房地产信贷管理推动加快构建房地产发展新模式的意见》（以下简称《意见》）。房地产信贷具体有哪些新规定？又将如何影响你我？一文解读新政要点。",
+        "publishedAt": "2026-08-28 19:32:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857107252.html",
+        "url": "https://finance.eastmoney.com/a/202608283858476327.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至8月26日美联储资产负债表(万亿美元)",
+        "summary": "美国截至8月26日美联储资产负债表(万亿美元)；公布 6.73，预期 nan，前值 6.75。",
+        "publishedAt": "2026-08-28 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月27日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国8月27日iShares黄金持仓-每日更新(吨)；公布 460.85，预期 nan，前值 460.5。",
+        "publishedAt": "2026-08-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月26日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国8月26日COMEX黄金库存-每日更新(百盎司)；公布 270251.61，预期 nan，前值 269025.69。",
+        "publishedAt": "2026-08-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月27日iShares白银持仓-每日更新(吨)",
+        "summary": "美国8月27日iShares白银持仓-每日更新(吨)；公布 15345.86，预期 nan，前值 15362.73。",
+        "publishedAt": "2026-08-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月27日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国8月27日SPDR黄金持仓-每日更新(吨)；公布 1046.64，预期 nan，前值 1045.49。",
+        "publishedAt": "2026-08-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本7月失业率(%)",
+        "summary": "日本7月失业率(%)；公布 2.4，预期 2.5，前值 2.5。",
+        "publishedAt": "2026-08-28 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本8月东京CPI年率(%)",
+        "summary": "日本8月东京CPI年率(%)；公布 1.9，预期 1.9，前值 2.0。",
+        "publishedAt": "2026-08-28 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至8月23日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至8月23日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 76.5。",
+        "publishedAt": "2026-08-28 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "兖矿能源：上半年归母净利润71.5亿元 同比增长47.75%",
+        "summary": "【兖矿能源：上半年归母净利润71.5亿元 同比增长47.75%】兖矿能源8月28日披露半年报，公司上半年实现营业收入756.47亿元，同比增长13.01%；归属于上市公司股东的净利润71.5亿元，同比增长47.75%；基本每股收益0.71元/股。公司董事会建议每股派发半年度现金股利0.20元（含税）。",
+        "publishedAt": "2026-08-28 19:37:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283858490576.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -157734,17 +157674,59 @@
         "noticeType": ""
       },
       {
-        "title": "周五你需要知道的隔夜全球要闻",
-        "summary": "周五你需要知道的隔夜全球要闻：英伟达市值单日飙升4420亿美元；美国被曝接近入股委内瑞拉油田；特朗普签令将安大略湖改称“美国湖”。",
-        "publishedAt": "2026-08-28 06:33:09",
+        "title": "欧盟官员：未见俄罗斯欲进攻北约",
+        "summary": "【欧盟官员：未见俄罗斯欲进攻北约】一名欧盟高级官员8月27日说，欧洲各国情报机构没有发现俄罗斯正计划对北约欧洲成员国发动进攻的迹象。此前有美国方面消息称，美国中央情报局局长拉特克利夫警告俄方不要攻击北约成员国。针对这一消息，俄方及美国总统特朗普27日均予以否认。",
+        "publishedAt": "2026-08-28 19:37:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608283857106320.html",
+        "url": "https://finance.eastmoney.com/a/202608283858489152.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "东鹏控股：上半年归母净利润2826.25万元 同比下降87.07%",
+        "summary": "【东鹏控股：上半年归母净利润2826.25万元 同比下降87.07%】东鹏控股8月28日披露半年报，公司上半年实现营业收入24.17亿元，同比下降17.62%；归属于上市公司股东的净利润2826.25万元，同比下降87.07%；基本每股收益0.02元/股。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+        "publishedAt": "2026-08-28 19:35:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283858488235.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "贝壳美股盘前进一步涨超12%",
+        "summary": "【贝壳美股盘前进一步涨超12%】中国人民银行、国家金融监督管理总局28日联合印发《关于改革完善房地产信贷管理推动加快构建房地产发展新模式的意见》，为适应经济社会发展需要，《意见》将个人住房贷款期限由最长30年延长至最长40年。",
+        "publishedAt": "2026-08-28 19:34:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283858478213.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "AI算力"
+          "金融"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "农业农村部召开乡村振兴重点工作调度会",
+        "summary": "【农业农村部召开乡村振兴重点工作调度会】农业农村部8月27日召开乡村振兴重点工作调度会。会议强调，要把学习运用“千万工程”经验作为巩固拓展树立和践行正确政绩观学习教育成果的重要内容，进一步学深悟透蕴含其中的理念机制方法，持续用力、久久为功，扎实抓好乡村全面振兴各项任务落实。要做好与本省份的“十五五”规划衔接，统筹谋划实施各具特色的“千万工程”。",
+        "publishedAt": "2026-08-28 19:34:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608283858487036.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -157873,7 +157855,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -157886,15 +157868,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-28 07:00:35",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、半导体、能源。",
+        "generatedAt": "2026-08-28 19:41:29",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 3 条；主题映射集中在 金融、有色稀土、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、芯片概念、半导体；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -157990,7 +157972,7 @@
               "今日炸板 17 只，追高前先看前排封单和回封质量。",
               "今日跌停 3 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST新华锦:新华锦2026年半年度报告；ST新华锦:新华锦第十四届董事会第十一次会议决议公告。",
+              "新闻/公告风险：联创光电：公司股票可能被实施其他风险警示；金融监管总局：将预售商品房个人住房贷款发放时点从主体结构封顶调整到竣工备案 并要求加强贷款全流程风险管理。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
