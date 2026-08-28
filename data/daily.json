@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-28",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-29 03:36:09",
+    "generatedAt": "2026-08-29 04:07:36",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -155459,23 +155459,30 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-28",
-    "generatedAt": "2026-08-29 03:39:42",
+    "generatedAt": "2026-08-29 04:10:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、医药、半导体。",
+    "errors": [
+      "notices: ('Connection broken: IncompleteRead(66373 bytes read, 7257 more expected)', IncompleteRead(66373 bytes read, 7257 more expected))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 3 条；主题映射集中在 有色稀土、半导体、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 3,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       },
@@ -155488,61 +155495,26 @@
         "name": "能源",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函",
-        "summary": "珍宝岛(603567)：关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603567/AN202608281828649986.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "纳指收跌0.5% 芯片股走弱 英伟达跌超4%",
+        "summary": "【纳指收跌0.5% 芯片股走弱 英伟达跌超4%】美股三大指数收盘集体下跌，道指跌0.02%，纳指跌0.52%，标普500指数跌0.25%。“科技七巨头”多数上涨，亚马逊涨3.97%，微软涨1.68%，苹果涨1.63%，谷歌涨1.53%，Meta涨1.21%，特斯拉跌1.71%，英伟达跌4.57%。芯片股走弱，费城半导体指数跌3.47%，ARM跌超6%，应用…",
+        "publishedAt": "2026-08-29 04:01:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608293858907564.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "珍宝岛(603567)"
+        "themes": [
+          "半导体",
+          "AI算力",
+          "汽车链"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "上交所股票监管工作函"
-      },
-      {
-        "title": "凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告",
-        "summary": "凡拓数创(301313)：凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301313/AN202608281828637294.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "凡拓数创(301313)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "*ST动力:第六届董事会第十次会议决议公告",
-        "summary": "*ST动力(300152)：*ST动力:第六届董事会第十次会议决议公告",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300152/AN202608271828550522.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST动力(300152)"
-        ],
-        "importance": 1,
-        "noticeType": "董事会决议公告"
+        "noticeType": ""
       },
       {
         "title": "港股通调整名单即将公布 警惕爆炒“入通”概念股",
@@ -155571,152 +155543,6 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
-      },
-      {
-        "title": "佳电股份:佳电股份投资者关系活动记录表",
-        "summary": "佳电股份(000922)：佳电股份:佳电股份投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000922/AN202608281828639012.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佳电股份(000922)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "山西焦煤:000983山西焦煤投资者关系管理信息20260828",
-        "summary": "山西焦煤(000983)：山西焦煤:000983山西焦煤投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000983/AN202608281828641159.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "山西焦煤(000983)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "白云山:广州白云山医药集团股份有限公司2026年8月25日投资者关系活动记录表",
-        "summary": "白云山(600332)：白云山:广州白云山医药集团股份有限公司2026年8月25日投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600332/AN202608281828641818.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "白云山(600332)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "科思科技:2026年半年度业绩说明会会议纪要",
-        "summary": "科思科技(688788)：科思科技:2026年半年度业绩说明会会议纪要",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688788/AN202608281828632078.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "科思科技(688788)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301330熵基科技投资者关系管理信息20260828",
-        "summary": "熵基科技(301330)：301330熵基科技投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301330/AN202608281828625461.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "熵基科技(301330)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "亚钾国际:000893亚钾国际投资者关系管理信息20260828",
-        "summary": "亚钾国际(000893)：亚钾国际:000893亚钾国际投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000893/AN202608281828619570.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "亚钾国际(000893)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "3-1独立财务顾问报告(申报稿)(广州信邦智能装备股份有限公司)",
-        "summary": "信邦智能(301112)：3-1独立财务顾问报告(申报稿)(广州信邦智能装备股份有限公司)",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301112/AN202608281828614391.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "信邦智能(301112)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组独立财务顾问报告申报稿"
-      },
-      {
-        "title": "东瑞股份:001201东瑞股份投资者关系管理信息20260828",
-        "summary": "东瑞股份(001201)：东瑞股份:001201东瑞股份投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001201/AN202608281828656036.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东瑞股份(001201)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "顺丰控股:2026年8月28日投资者关系活动记录表",
-        "summary": "顺丰控股(002352)：顺丰控股:2026年8月28日投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002352/AN202608281828655179.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "顺丰控股(002352)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
       },
       {
         "title": "哈佛大学教授Rogoff警告称美国财政困局恐需危机推动才会改革",
@@ -155776,6 +155602,164 @@
         ],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月27日iShares白银持仓-每日更新(吨)",
+        "summary": "美国8月27日iShares白银持仓-每日更新(吨)；公布 15345.86，预期 nan，前值 15362.73。",
+        "publishedAt": "2026-08-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月27日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国8月27日SPDR黄金持仓-每日更新(吨)；公布 1046.64，预期 nan，前值 1045.49。",
+        "publishedAt": "2026-08-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本7月失业率(%)",
+        "summary": "日本7月失业率(%)；公布 2.4，预期 2.5，前值 2.5。",
+        "publishedAt": "2026-08-28 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本8月东京CPI年率(%)",
+        "summary": "日本8月东京CPI年率(%)；公布 1.9，预期 1.9，前值 2.0。",
+        "publishedAt": "2026-08-28 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至8月23日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至8月23日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 76.5。",
+        "publishedAt": "2026-08-28 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "纳斯达克中国金龙指数收涨0.44%",
+        "summary": "纳斯达克中国金龙指数收涨0.44%。成分股中，联电涨3.93%，霸王茶姬涨3.86%，贝壳涨3.21%，新濠博亚娱乐涨3.09%，大健云仓涨2.85%。",
+        "publishedAt": "2026-08-29 04:02:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608293858907763.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国国防部据悉正与一位委内瑞拉大亨就一项大规模石油交易进行谈判",
+        "summary": "美国国防部据悉正与一位委内瑞拉大亨就一项大规模石油交易进行谈判。",
+        "publishedAt": "2026-08-29 03:58:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608293858907383.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "苹果上调Apple TV +月度订阅价格",
+        "summary": "【苹果上调Apple TV +月度订阅价格】苹果于周五上调旗下流媒体服务AppleTV+的月度订阅价格，涨至14.99美元，年费则为119美元。此前月费为12.99美元，年费99美元。AppleTV+包含在AppleOne捆绑订阅套餐内，该套餐还涵盖iCloud云存储空间、AppleMusic以及其他服务。AppleOne个人版订阅价格由19.95美元上调…",
+        "publishedAt": "2026-08-29 03:27:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608293858904856.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国众议院据悉将于下周二就临时拨款法案进行表决 表决将在暂停议事规则的程序下开展",
+        "summary": "美国众议院据悉将于下周二就临时拨款法案进行表决，表决将在暂停议事规则的程序下开展。",
+        "publishedAt": "2026-08-29 03:24:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608293858904739.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "恒生指数主连夜盘收跌0.2%",
+        "summary": "恒生指数主连夜盘收跌0.2%，恒生科技指数主连夜盘收跌0.16%。",
+        "publishedAt": "2026-08-29 03:00:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608293858900912.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "阿根廷外长暗示该国或将退出南共市",
+        "summary": "【阿根廷外长暗示该国或将退出南共市】阿根廷外交部长巴勃罗·基尔诺27日暗示，阿根廷或将退出南方共同市场（南共市）。基尔诺当天在布宜诺斯艾利斯律师协会总部出席一场活动时称，南共市“没有实现其最初的目标”。他表示，若南共市改革无法推进，阿根廷将推进自身贸易进程。",
+        "publishedAt": "2026-08-29 02:56:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608293858903934.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -155908,15 +155892,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-29 03:39:42",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、医药、半导体。",
+        "generatedAt": "2026-08-29 04:10:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 3 条；主题映射集中在 有色稀土、半导体、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、医药、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -155947,7 +155931,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-29 03:36:09",
+        "generatedAt": "2026-08-29 04:07:36",
         "summary": "上午情绪分 100，涨停 82 家，跌停 1 家，炸板 16 家，连板 18 家，最高 7 板。",
         "sections": [
           {
@@ -155986,7 +155970,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-29 03:36:09",
+        "generatedAt": "2026-08-29 04:07:36",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -156012,7 +155996,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函；凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告。",
+              "新闻/公告风险：纳指收跌0.5% 芯片股走弱 英伟达跌超4%；港股通调整名单即将公布 警惕爆炒“入通”概念股。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
