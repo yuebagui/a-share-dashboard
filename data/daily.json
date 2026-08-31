@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-08-28",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-08-29 07:03:39",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-08-29 07:03:39",
+    "lastNewsAt": "2026-08-31 13:57:20"
   },
   "indices": [
     {
@@ -155458,21 +155460,36 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-08-28",
-    "generatedAt": "2026-08-29 07:05:59",
+    "tradeDate": "2026-08-31",
+    "generatedAt": "2026-08-31 13:57:20",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 金融、医药、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 0 条；主题映射集中在 AI算力、能源、军工。",
     "themes": [
       {
-        "name": "金融",
-        "score": 4,
+        "name": "AI算力",
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "能源",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 3,
         "isFocusBoard": false
       },
@@ -155480,72 +155497,228 @@
         "name": "半导体",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函",
-        "summary": "珍宝岛(603567)：关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函",
-        "publishedAt": "2026-08-28",
+        "title": "天融信:2026年08月30日投资者关系活动记录表",
+        "summary": "天融信(002212)：天融信:2026年08月30日投资者关系活动记录表",
+        "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603567/AN202608281828649986.html",
+        "url": "https://data.eastmoney.com/notices/detail/002212/AN202608311828758378.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "珍宝岛(603567)"
+          "天融信(002212)"
         ],
         "importance": 1,
-        "noticeType": "上交所股票监管工作函"
+        "noticeType": "调研活动"
       },
       {
-        "title": "凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告",
-        "summary": "凡拓数创(301313)：凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告",
-        "publishedAt": "2026-08-28",
+        "title": "000430张家界投资者关系管理信息20260831",
+        "summary": "张家界(000430)：000430张家界投资者关系管理信息20260831",
+        "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301313/AN202608281828637294.html",
+        "url": "https://data.eastmoney.com/notices/detail/000430/AN202608311828790502.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "凡拓数创(301313)"
+          "张家界(000430)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST动力:第六届董事会第十次会议决议公告",
-        "summary": "*ST动力(300152)：*ST动力:第六届董事会第十次会议决议公告",
-        "publishedAt": "2026-08-28",
+        "title": "晨化股份:关于使用自有闲置资金进行现金管理的进展公告",
+        "summary": "晨化股份(300610)：晨化股份:关于使用自有闲置资金进行现金管理的进展公告",
+        "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300152/AN202608271828550522.html",
+        "url": "https://data.eastmoney.com/notices/detail/300610/AN202608311828785076.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST动力(300152)"
+          "晨化股份(300610)"
         ],
         "importance": 1,
-        "noticeType": "董事会决议公告"
+        "noticeType": "投资理财"
       },
       {
-        "title": "巴西电力监管机构将9月份电费定为“黄色”警戒级别",
-        "summary": "巴西电力监管机构将9月份电费定为“黄色”警戒级别。",
-        "publishedAt": "2026-08-29 06:06:22",
+        "title": "300820英杰电气投资者关系管理信息20260831",
+        "summary": "英杰电气(300820)：300820英杰电气投资者关系管理信息20260831",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300820/AN202608311828768674.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英杰电气(300820)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300066三川智慧投资者关系管理信息20260828",
+        "summary": "三川智慧(300066)：300066三川智慧投资者关系管理信息20260828",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300066/AN202608311828760497.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三川智慧(300066)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "潍柴动力:2026年8月28日投资者关系活动记录表",
+        "summary": "潍柴动力(000338)：潍柴动力:2026年8月28日投资者关系活动记录表",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000338/AN202608311828758731.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "潍柴动力(000338)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "民生健康:投资者关系活动记录表2026-005",
+        "summary": "民生健康(301507)：民生健康:投资者关系活动记录表2026-005",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301507/AN202608311828759029.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "民生健康(301507)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "志特新材:2026年8月28日投资者关系活动记录表",
+        "summary": "志特新材(300986)：志特新材:2026年8月28日投资者关系活动记录表",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300986/AN202608311828758252.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "志特新材(300986)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "301326捷邦科技投资者关系管理信息20260831",
+        "summary": "捷邦科技(301326)：301326捷邦科技投资者关系管理信息20260831",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301326/AN202608311828757219.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "捷邦科技(301326)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中科环保:2026年8月28日投资者关系活动记录表",
+        "summary": "中科环保(301175)：中科环保:2026年8月28日投资者关系活动记录表",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301175/AN202608311828755295.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中科环保(301175)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "桂发祥:关于参加天津辖区上市公司2026年投资者网上集体接待日暨半年报业绩说明会的公告",
+        "summary": "桂发祥(002820)：桂发祥:关于参加天津辖区上市公司2026年投资者网上集体接待日暨半年报业绩说明会的公告",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002820/AN202608311828753911.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "桂发祥(002820)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华菱钢铁:关于参加2026年湖南辖区上市公司投资者网上集体接待日暨半年度业绩说明会活动的公告",
+        "summary": "华菱钢铁(000932)：华菱钢铁:关于参加2026年湖南辖区上市公司投资者网上集体接待日暨半年度业绩说明会活动的公告",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000932/AN202608301828735614.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华菱钢铁(000932)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "相关部门推动词元商业模式发展，云计算ETF鹏华涨超2%",
+        "summary": "【相关部门推动词元商业模式发展，云计算ETF鹏华涨超2%】消息面上，在2026中国国际大数据产业博览会上，一批数据领域最新政策举措陆续发布，涵盖了词元、数据标注、数字人才培养等多个领域。国家数据局相关负责人表示，要围绕国民经济重大场景，研究探索词元增值订阅、按效付费等商业模式。当前大模型加速向千行百业深度落地，带动我国词元调用量快速攀升，市场需求呈现爆发式…",
+        "publishedAt": "2026-08-31 13:38:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608293858925159.html",
+        "url": "https://finance.eastmoney.com/a/202608313859980060.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "恒星力量完成Pre-A轮融资 国开科创独家领投",
+        "summary": "【恒星力量完成Pre-A轮融资 国开科创独家领投】8月31日，恒星力量宣布完成Pre-A轮融资，由国家开发银行旗下股权投资平台国开科创独家领投，上海未来产业基金、新鼎资本、长石资本、BV百度风投、沄柏资本、明裕创投、元石基金跟投，凯辉基金、厚雪资本等老股东持续追投。本轮融资将主要用于扩充航天工程团队、创新太空光伏工程、布局太空电力上下游。",
+        "publishedAt": "2026-08-31 13:33:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608313859974592.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
+          "新能源",
+          "军工",
+          "金融",
           "能源"
         ],
         "tickers": [],
@@ -155553,157 +155726,11 @@
         "noticeType": ""
       },
       {
-        "title": "佳电股份:佳电股份投资者关系活动记录表",
-        "summary": "佳电股份(000922)：佳电股份:佳电股份投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000922/AN202608281828639012.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佳电股份(000922)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "山西焦煤:000983山西焦煤投资者关系管理信息20260828",
-        "summary": "山西焦煤(000983)：山西焦煤:000983山西焦煤投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000983/AN202608281828641159.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "山西焦煤(000983)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "白云山:广州白云山医药集团股份有限公司2026年8月25日投资者关系活动记录表",
-        "summary": "白云山(600332)：白云山:广州白云山医药集团股份有限公司2026年8月25日投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600332/AN202608281828641818.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "白云山(600332)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "科思科技:2026年半年度业绩说明会会议纪要",
-        "summary": "科思科技(688788)：科思科技:2026年半年度业绩说明会会议纪要",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688788/AN202608281828632078.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "科思科技(688788)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301330熵基科技投资者关系管理信息20260828",
-        "summary": "熵基科技(301330)：301330熵基科技投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301330/AN202608281828625461.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "熵基科技(301330)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "亚钾国际:000893亚钾国际投资者关系管理信息20260828",
-        "summary": "亚钾国际(000893)：亚钾国际:000893亚钾国际投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000893/AN202608281828619570.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "亚钾国际(000893)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "3-1独立财务顾问报告(申报稿)(广州信邦智能装备股份有限公司)",
-        "summary": "信邦智能(301112)：3-1独立财务顾问报告(申报稿)(广州信邦智能装备股份有限公司)",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301112/AN202608281828614391.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "信邦智能(301112)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组独立财务顾问报告申报稿"
-      },
-      {
-        "title": "东瑞股份:001201东瑞股份投资者关系管理信息20260828",
-        "summary": "东瑞股份(001201)：东瑞股份:001201东瑞股份投资者关系管理信息20260828",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001201/AN202608281828656036.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东瑞股份(001201)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "顺丰控股:2026年8月28日投资者关系活动记录表",
-        "summary": "顺丰控股(002352)：顺丰控股:2026年8月28日投资者关系活动记录表",
-        "publishedAt": "2026-08-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002352/AN202608281828655179.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "顺丰控股(002352)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "拉美四国签署联合声明推动关键矿产合作",
-        "summary": "【拉美四国签署联合声明推动关键矿产合作】智利、阿根廷、玻利维亚和秘鲁四国矿业主管部门官员，28日在智利首都圣地亚哥召开部长级会议并签署联合声明，呼吁加强区域合作，推动关键矿产可持续开发、技术交流与投资，共同提升该地区在全球关键矿产供应链中的地位。",
-        "publishedAt": "2026-08-29 05:27:36",
+        "title": "沪深两市成交额突破1.5万亿 较上一日此时缩量超800亿",
+        "summary": "沪深两市成交额突破1.5万亿，较上一日此时缩量超800亿。",
+        "publishedAt": "2026-08-31 13:32:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608293858920776.html",
+        "url": "https://finance.eastmoney.com/a/202608313859974426.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -155713,11 +155740,11 @@
         "noticeType": ""
       },
       {
-        "title": "美国总统特朗普表示 刚刚与委内瑞拉达成石油协议 美国获得了对650亿桶石油中多数的控制权",
-        "summary": "美国总统特朗普表示，刚刚与委内瑞拉达成石油协议，美国获得了对650亿桶石油中多数的控制权。",
-        "publishedAt": "2026-08-29 06:50:20",
+        "title": "拓荆科技持股公司等在青岛成立微波技术公司",
+        "summary": "【拓荆科技持股公司等在青岛成立微波技术公司】企查查APP显示，近日，青岛联明微波技术有限公司成立，法定代表人为张振伟，注册资本为1000万元，经营范围包含输配电及控制设备制造；智能输配电及控制设备销售；电子专用设备制造；电子专用设备销售等。企查查股权穿透显示，该公司由深圳市联明电源股份有限公司、拓荆科技持股的拓荆科技（青岛）有限公司等共同持股。",
+        "publishedAt": "2026-08-31 13:54:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608293858928316.html",
+        "url": "https://finance.eastmoney.com/a/202608313859988697.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -155727,11 +155754,11 @@
         "noticeType": ""
       },
       {
-        "title": "中央气象台继续发布台风蓝色预警",
-        "summary": "【中央气象台继续发布台风蓝色预警】中央气象台8月29日06时继续发布台风蓝色预警：今年第18号台风“沙德尔”已于昨天（28日）夜间由热带风暴级减弱为热带低压，今天（29日）早晨5点钟其中心位于江西省抚州市南丰县境内，就是北纬27.1度、东经116.3度，外围最大风力7级（15米/秒），中心最低气压为998百帕。预计，“沙德尔”减弱后的热带低压将以每小时20…",
-        "publishedAt": "2026-08-29 06:45:56",
+        "title": "超节点概念异动拉升 星网锐捷7天4板",
+        "summary": "超节点概念异动拉升，星网锐捷7天4板，此前艾华集团涨停，浪潮信息、紫光股份、锐捷网络、智微智能、共进股份跟涨。",
+        "publishedAt": "2026-08-31 13:50:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608293858929051.html",
+        "url": "https://finance.eastmoney.com/a/202608313859987167.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -155741,32 +155768,15 @@
         "noticeType": ""
       },
       {
-        "title": "新疆阿克苏地区温宿县发生4.2级地震",
-        "summary": "【新疆阿克苏地区温宿县发生4.2级地震】中国地震台网正式测定：08月29日06时07分在新疆阿克苏地区温宿县（北纬42.20度，东经80.52度）发生4.2级地震，震源深度10千米。",
-        "publishedAt": "2026-08-29 06:23:00",
+        "title": "三星生物制剂发起对PolyPeptide集团的收购要约",
+        "summary": "三星生物制剂发起对PolyPeptide集团的收购要约。",
+        "publishedAt": "2026-08-31 13:48:28",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608293858926586.html",
+        "url": "https://finance.eastmoney.com/a/202608313859986052.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "周六你需要知道的隔夜全球要闻：沃什重申抗通胀承诺 市场加大对美联储加息押注 美债收益率曲线显著趋平 芯片股抛售拖累美股走低",
-        "summary": "【周六你需要知道的隔夜全球要闻：沃什重申抗通胀承诺 市场加大对美联储加息押注 美债收益率曲线显著趋平 芯片股抛售拖累美股走低】　1、美联储主席沃什表示，美联储需要遏制物价，缓解了债市对其抗击通胀可信度的部分担忧，推动两年期美国国债收益率一度上涨10个基点至4.33%，30年期收益率则下降约2个基点至5.17%。收益率曲线的趋平走势，反映出市场预期美联储可能…",
-        "publishedAt": "2026-08-29 06:16:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608293858927188.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "半导体",
-          "金融"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -155888,7 +155898,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -155901,15 +155911,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-29 07:05:59",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 金融、医药、半导体。",
+        "generatedAt": "2026-08-31 13:57:20",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 0 条；主题映射集中在 AI算力、能源、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、医药、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、能源、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -156005,7 +156015,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：关于黑龙江珍宝岛药业股份有限公司控股股东及其关联方非经营性资金占用相关事项的监管工作函；凡拓数创:关于控股股东的一致行动人股份减持计划期限届满暨实施结果的公告。",
+              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
