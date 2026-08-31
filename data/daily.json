@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-08-31",
     "phase": "盘后复盘",
-    "generatedAt": "2026-08-31 17:59:52",
+    "generatedAt": "2026-08-31 18:05:29",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -155926,24 +155926,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-08-31",
-    "generatedAt": "2026-08-31 18:01:17",
+    "generatedAt": "2026-08-31 18:06:52",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 金融、AI算力、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 7,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -155952,208 +155947,245 @@
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "明阳电气:关于控股股东部分股份新增质押的公告",
-        "summary": "明阳电气(301291)：明阳电气:关于控股股东部分股份新增质押的公告",
+        "title": "*ST元道:关于公司股票被实施其他风险警示的第六次提示性公告",
+        "summary": "*ST元道(301139)：*ST元道:关于公司股票被实施其他风险警示的第六次提示性公告",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301291/AN202608311828814260.html",
+        "url": "https://data.eastmoney.com/notices/detail/301139/AN202608311828819820.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "明阳电气(301291)"
+          "*ST元道(301139)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "其他"
       },
       {
-        "title": "节能铁汉:关于筹划重大资产重组暨关联交易的进展公告",
-        "summary": "节能铁汉(300197)：节能铁汉:关于筹划重大资产重组暨关联交易的进展公告",
+        "title": "迈普医学:关于公司首发前股东减持股份计划实施完成的公告",
+        "summary": "迈普医学(301033)：迈普医学:关于公司首发前股东减持股份计划实施完成的公告",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300197/AN202608311828814762.html",
+        "url": "https://data.eastmoney.com/notices/detail/301033/AN202608311828819773.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "迈普医学(301033)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "*ST亿通:关于高级管理人员减持计划期限届满暨未减持股份的公告",
+        "summary": "*ST亿通(300211)：*ST亿通:关于高级管理人员减持计划期限届满暨未减持股份的公告",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300211/AN202608311828819772.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST亿通(300211)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员持股变动"
+      },
+      {
+        "title": "国航远洋:股东减持股份结果公告",
+        "summary": "国航远洋(920571)：国航远洋:股东减持股份结果公告",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920571/AN202608311828819511.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "国航远洋(920571)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "中马传动：实际控制人盛桂英、蒋少一拟合计减持不超1%股份",
+        "summary": "【中马传动：实际控制人盛桂英、蒋少一拟合计减持不超1%股份】中马传动公告，因个人资金需求，实际控制人盛桂英计划减持公司股份不超过1543000股，不超过公司股份总数的0.5%；蒋少一计划减持公司股份不超过1543000股，不超过公司股份总数的0.5%；合计减持不超过公司股份总数的1%。",
+        "publishedAt": "2026-08-31 18:01:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608313860182449.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "威腾电气：两名股东拟合计减持不超2%股份",
+        "summary": "【威腾电气：两名股东拟合计减持不超2%股份】威腾电气公告，持股5%以上股东镇江国控拟减持不超过1960857股股份，即不超过公司总股本的1%。持股5%以下股东绿洲新城拟减持不超过1960857股股份，即不超过公司总股本的1%。",
+        "publishedAt": "2026-08-31 17:57:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608313860180127.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "欧陆通:2026年8月26日-8月28日投资者关系活动记录表",
+        "summary": "欧陆通(300870)：欧陆通:2026年8月26日-8月28日投资者关系活动记录表",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300870/AN202608311828806805.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "节能铁汉(300197)"
-        ],
-        "importance": 1,
-        "noticeType": "重组进展公告"
-      },
-      {
-        "title": "4-1本次重大资产重组涉及的拟购买资产最近两年及一期的财务报告和审计报告(确实无法提供的，应当说明原因及相关资产的财务状况和经营成果)(申报稿)(分众传媒信息技术股份有限公司)",
-        "summary": "分众传媒(002027)：4-1本次重大资产重组涉及的拟购买资产最近两年及一期的财务报告和审计报告(确实无法提供的，应当说明原因及相关资产的财务状况和经营成果)(申报稿)(分众传媒信息技术股份有限公司)",
-        "publishedAt": "2026-08-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002027/AN202608311828812751.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "分众传媒(002027)"
-        ],
-        "importance": 1,
-        "noticeType": "深主板并购重组审计报告"
-      },
-      {
-        "title": "鑫汇科:对外投资设立控股子公司并取得营业执照的公告",
-        "summary": "鑫汇科(920267)：鑫汇科:对外投资设立控股子公司并取得营业执照的公告",
-        "publishedAt": "2026-08-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920267/AN202608311828814418.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鑫汇科(920267)"
-        ],
-        "importance": 1,
-        "noticeType": "公司关联方基本资料变更"
-      },
-      {
-        "title": "格科微:有限公司投资者关系活动记录表",
-        "summary": "格科微(688728)：格科微:有限公司投资者关系活动记录表",
-        "publishedAt": "2026-08-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688728/AN202608311828806877.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "格科微(688728)"
+          "欧陆通(300870)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "珠城科技:2026年08月31日投资者关系活动记录表",
-        "summary": "珠城科技(301280)：珠城科技:2026年08月31日投资者关系活动记录表",
+        "title": "天纺标:关于参加天津辖区上市公司2026年投资者网上集体接待日活动暨半年报业绩说明会预告公告",
+        "summary": "天纺标(920753)：天纺标:关于参加天津辖区上市公司2026年投资者网上集体接待日活动暨半年报业绩说明会预告公告",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301280/AN202608311828813339.html",
+        "url": "https://data.eastmoney.com/notices/detail/920753/AN202608311828804902.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "珠城科技(301280)"
+          "天纺标(920753)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "源杰科技:投资者关系活动记录表(2026年8月30日)",
-        "summary": "源杰科技(688498)：源杰科技:投资者关系活动记录表(2026年8月30日)",
+        "title": "岳阳林纸:2026年半年度业绩说明会召开情况",
+        "summary": "岳阳林纸(600963)：岳阳林纸:2026年半年度业绩说明会召开情况",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688498/AN202608311828813316.html",
+        "url": "https://data.eastmoney.com/notices/detail/600963/AN202608311828819745.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "源杰科技(688498)"
+          "岳阳林纸(600963)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "宏远股份:投资者关系活动记录表",
-        "summary": "宏远股份(920018)：宏远股份:投资者关系活动记录表",
+        "title": "金埔园林:关于使用部分暂时闲置募集资金进行现金管理到期赎回的公告",
+        "summary": "金埔园林(301098)：金埔园林:关于使用部分暂时闲置募集资金进行现金管理到期赎回的公告",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920018/AN202608311828814350.html",
+        "url": "https://data.eastmoney.com/notices/detail/301098/AN202608311828819819.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "宏远股份(920018)"
+          "金埔园林(301098)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "奥迪威:投资者关系活动记录表",
+        "summary": "奥迪威(920491)：奥迪威:投资者关系活动记录表",
+        "publishedAt": "2026-08-31",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920491/AN202608311828819812.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "奥迪威(920491)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "三维通信2026年半年度业绩说明会投资者关系活动记录表",
-        "summary": "三维通信(002115)：三维通信2026年半年度业绩说明会投资者关系活动记录表",
+        "title": "重庆燃气:投资者关系活动记录表(编号:2026-02)",
+        "summary": "重庆燃气(600917)：重庆燃气:投资者关系活动记录表(编号:2026-02)",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002115/AN202608311828803727.html",
+        "url": "https://data.eastmoney.com/notices/detail/600917/AN202608311828819161.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "三维通信(002115)"
+          "重庆燃气(600917)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "振石股份:2026年08月28日投资者关系活动记录表",
-        "summary": "振石股份(601112)：振石股份:2026年08月28日投资者关系活动记录表",
+        "title": "国航远洋:关于投资者关系活动记录表的公告",
+        "summary": "国航远洋(920571)：国航远洋:关于投资者关系活动记录表的公告",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601112/AN202608311828809654.html",
+        "url": "https://data.eastmoney.com/notices/detail/920571/AN202608311828819512.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "振石股份(601112)"
+          "国航远洋(920571)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "道生天合:投资者关系活动记录表(2026年8月)",
-        "summary": "道生天合(601026)：道生天合:投资者关系活动记录表(2026年8月)",
+        "title": "德赛西威:2026年8月25日-31日投资者关系活动记录表",
+        "summary": "德赛西威(002920)：德赛西威:2026年8月25日-31日投资者关系活动记录表",
         "publishedAt": "2026-08-31",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601026/AN202608311828813338.html",
+        "url": "https://data.eastmoney.com/notices/detail/002920/AN202608311828818794.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "道生天合(601026)"
+          "德赛西威(002920)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "301345涛涛车业投资者关系管理信息20260831",
-        "summary": "涛涛车业(301345)：301345涛涛车业投资者关系管理信息20260831",
-        "publishedAt": "2026-08-31",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301345/AN202608311828809117.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "ST凯利：股东拟增持286.81万股—573.61万股股份",
+        "summary": "【ST凯利：股东拟增持286.81万股—573.61万股股份】ST凯利(300326.SZ)公告称，合计持股5%以上股东上海凯诚君泰投资有限公司、吕向东、李虹、刘双全、魏永梅计划自2026年9月1日起的6个月内，通过集中竞价交易、大宗交易等法律法规允许的方式增持公司股票，计划增持公司股份不低于286.81万股且不高于573.61万股。",
+        "publishedAt": "2026-08-31 17:56:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202608313860182185.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [
-          "涛涛车业(301345)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
         "title": "四川美丰：拟7000万元至1亿元回购股份用于注销",
@@ -156166,22 +156198,6 @@
         "impact": "催化",
         "themes": [
           "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "摩根大通张晓宁：沪深300年底有望上看5200点",
-        "summary": "【摩根大通张晓宁：沪深300年底有望上看5200点】7月A股与海外市场同步调整之后，市场出现了不少担忧AI涨价逻辑被“证伪”以及质疑大型AI公司债务问题的声音。对此，摩根大通中国股票策略师张晓宁表示，AI硬件供给约束至少持续至2028年，主流科技企业债券评级均处投资级，债务担忧属“过度反应”。该行继续超配中国股票，将MSCI中国指数、沪深300指数2026…",
-        "publishedAt": "2026-08-31 17:31:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202608313860164685.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
@@ -156207,34 +156223,6 @@
         "title": "澳大利亚第二季度石油勘探支出年率-季调后(%)",
         "summary": "澳大利亚第二季度石油勘探支出年率-季调后(%)；公布 76.3，预期 nan，前值 -4.8。",
         "publishedAt": "2026-08-31 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国8月官方制造业PMI",
-        "summary": "中国8月官方制造业PMI；公布 49.8，预期 49.6，前值 49.2。",
-        "publishedAt": "2026-08-31 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "瑞士7月官方储备资产(亿瑞郎)",
-        "summary": "瑞士7月官方储备资产(亿瑞郎)；公布 8896.24，预期 nan，前值 8799.31。",
-        "publishedAt": "2026-08-31 15:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -156473,15 +156461,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-08-31 18:01:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 金融、AI算力、有色稀土。",
+        "generatedAt": "2026-08-31 18:06:52",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：东数西算(算力)、虚拟现实、文化传媒；首看 东数西算(算力) 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -156512,7 +156500,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-08-31 17:59:52",
+        "generatedAt": "2026-08-31 18:05:29",
         "summary": "上午情绪分 100，涨停 88 家，跌停 11 家，炸板 30 家，连板 18 家，最高 6 板。",
         "sections": [
           {
@@ -156551,7 +156539,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-08-31 17:59:52",
+        "generatedAt": "2026-08-31 18:05:29",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -156577,7 +156565,7 @@
               "今日炸板 30 只，追高前先看前排封单和回封质量。",
               "今日跌停 11 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：明阳电气:关于控股股东部分股份新增质押的公告。",
+              "新闻/公告风险：*ST元道:关于公司股票被实施其他风险警示的第六次提示性公告；迈普医学:关于公司首发前股东减持股份计划实施完成的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
