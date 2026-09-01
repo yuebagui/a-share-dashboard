@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-01",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-01 03:31:04",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-01 03:31:04",
+    "lastNewsAt": "2026-09-01 13:30:35"
   },
   "indices": [
     {
@@ -148201,30 +148203,40 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-01",
-    "generatedAt": "2026-09-01 03:32:05",
+    "generatedAt": "2026-09-01 13:30:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "macro-calendar: HTTP Error 403: "
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 9 条；主题映射集中在 金融、能源、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 AI算力、新能源、金融。",
     "themes": [
       {
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
-        "score": 9,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
+        "name": "有色稀土",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -148249,136 +148261,164 @@
         "noticeType": "回购进展情况"
       },
       {
-        "title": "ST美克:美克国际家居用品股份有限公司关于重大诉讼暨诉讼进展的公告",
-        "summary": "ST美克(600337)：ST美克:美克国际家居用品股份有限公司关于重大诉讼暨诉讼进展的公告",
+        "title": "嘉立创:2026年8月31日投资者关系活动记录表",
+        "summary": "嘉立创(001232)：嘉立创:2026年8月31日投资者关系活动记录表",
         "publishedAt": "2026-09-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600337/AN202608311828831476.html",
+        "url": "https://data.eastmoney.com/notices/detail/001232/AN202609011828858310.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "ST美克(600337)"
+          "嘉立创(001232)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "调研活动"
       },
       {
-        "title": "欧林生物:成都欧林生物科技股份有限公司董事兼高级管理人员减持股份计划公告",
-        "summary": "欧林生物(688319)：欧林生物:成都欧林生物科技股份有限公司董事兼高级管理人员减持股份计划公告",
+        "title": "英力特:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集英力特表决权的法律意见书",
+        "summary": "英力特(000635)：英力特:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集英力特表决权的法律意见书",
         "publishedAt": "2026-09-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688319/AN202608311828831467.html",
+        "url": "https://data.eastmoney.com/notices/detail/000635/AN202609011828857474.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "欧林生物(688319)"
+          "英力特(000635)"
         ],
         "importance": 1,
-        "noticeType": "高管人员持股变动"
+        "noticeType": "法律意见书"
       },
       {
-        "title": "国风新材:国元证券股份有限公司关于深圳证券交易所《关于安徽国风新材料股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》回复之核查意见(修订稿)",
-        "summary": "国风新材(000859)：国风新材:国元证券股份有限公司关于深圳证券交易所《关于安徽国风新材料股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》回复之核查意见(修订稿)",
+        "title": "瑞泰科技:关于召开2026年半年度业绩说明会的公告",
+        "summary": "瑞泰科技(002066)：瑞泰科技:关于召开2026年半年度业绩说明会的公告",
         "publishedAt": "2026-09-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000859/AN202608311828831212.html",
+        "url": "https://data.eastmoney.com/notices/detail/002066/AN202609011828857255.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国风新材(000859)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "国风新材:安徽国风新材料股份有限公司关于深圳证券交易所《关于安徽国风新材料股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之回复(修订稿)",
-        "summary": "国风新材(000859)：国风新材:安徽国风新材料股份有限公司关于深圳证券交易所《关于安徽国风新材料股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之回复(修订稿)",
-        "publishedAt": "2026-09-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000859/AN202608311828831215.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国风新材(000859)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "竞业达:股票交易异常波动公告",
-        "summary": "竞业达(003005)：竞业达:股票交易异常波动公告",
-        "publishedAt": "2026-09-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003005/AN202608311828830564.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "竞业达(003005)"
+          "瑞泰科技(002066)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "其他"
       },
       {
-        "title": "捷荣技术:股票交易异常波动公告",
-        "summary": "捷荣技术(002855)：捷荣技术:股票交易异常波动公告",
+        "title": "万辰集团:福建万辰食品集团股份有限公司投资者关系活动记录表",
+        "summary": "万辰集团(300972)：万辰集团:福建万辰食品集团股份有限公司投资者关系活动记录表",
         "publishedAt": "2026-09-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002855/AN202608311828830577.html",
+        "url": "https://data.eastmoney.com/notices/detail/300972/AN202609011828852648.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "捷荣技术(002855)"
+          "万辰集团(300972)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "竞业达:关于控股股东、实际控制人减持计划完成的公告",
-        "summary": "竞业达(003005)：竞业达:关于控股股东、实际控制人减持计划完成的公告",
+        "title": "楚江新材:2026年8月31日投资者关系活动记录表",
+        "summary": "楚江新材(002171)：楚江新材:2026年8月31日投资者关系活动记录表",
         "publishedAt": "2026-09-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003005/AN202608311828830511.html",
+        "url": "https://data.eastmoney.com/notices/detail/002171/AN202609011828849715.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "竞业达(003005)"
+          "楚江新材(002171)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST萃华:关于公司股票存在可能因市值被终止上市的第十次风险提示公告",
-        "summary": "*ST萃华(002731)：*ST萃华:关于公司股票存在可能因市值被终止上市的第十次风险提示公告",
+        "title": "中广核技:000881中广核技投资者关系管理信息20260901",
+        "summary": "中广核技(000881)：中广核技:000881中广核技投资者关系管理信息20260901",
         "publishedAt": "2026-09-01",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002731/AN202608311828830428.html",
+        "url": "https://data.eastmoney.com/notices/detail/000881/AN202609011828848296.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST萃华(002731)"
+          "中广核技(000881)"
         ],
         "importance": 1,
-        "noticeType": "终止上市风险提示"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300681英搏尔投资者关系管理信息20260901",
+        "summary": "英搏尔(300681)：300681英搏尔投资者关系管理信息20260901",
+        "publishedAt": "2026-09-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300681/AN202609011828847078.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英搏尔(300681)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中科环保:2026年8月31日投资者关系活动记录表",
+        "summary": "中科环保(301175)：中科环保:2026年8月31日投资者关系活动记录表",
+        "publishedAt": "2026-09-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301175/AN202609011828847041.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中科环保(301175)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "一汽解放:000800一汽解放投资者关系管理信息20260901",
+        "summary": "一汽解放(000800)：一汽解放:000800一汽解放投资者关系管理信息20260901",
+        "publishedAt": "2026-09-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000800/AN202609011828846558.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "一汽解放(000800)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "南矿集团:2026年8月31日投资者关系活动记录表",
+        "summary": "南矿集团(001360)：南矿集团:2026年8月31日投资者关系活动记录表",
+        "publishedAt": "2026-09-01",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001360/AN202609011828846470.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "南矿集团(001360)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "水羊股份:2026年8月31日投资者关系活动记录表",
@@ -148397,123 +148437,89 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "顺丰控股:关于全资子公司参与投资股权投资基金的公告",
-        "summary": "顺丰控股(002352)：顺丰控股:关于全资子公司参与投资股权投资基金的公告",
-        "publishedAt": "2026-09-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002352/AN202608311828830569.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "沪深两市成交额突破1.5万亿 较上一日此时放量超500亿",
+        "summary": "沪深两市成交额突破1.5万亿，较上一日此时放量超500亿。",
+        "publishedAt": "2026-09-01 13:23:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609013861363418.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [
-          "顺丰控股(002352)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": ""
       },
       {
-        "title": "上海莱士:关于回购股份用于注销并减少注册资本的债权人通知公告",
-        "summary": "上海莱士(002252)：上海莱士:关于回购股份用于注销并减少注册资本的债权人通知公告",
-        "publishedAt": "2026-09-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002252/AN202608311828830509.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "摩根士丹利：欧洲房地产市场出现了一些积极迹象",
+        "summary": "【摩根士丹利：欧洲房地产市场出现了一些积极迹象】摩根士丹利在一份报告中表示，欧洲房地产行业出现了一些积极迹象，该报告将ShaftesburyCapital和WDP的评级上调至“增持”，并将ColonialSFL和UniteGroup的评级下调至“持股观望”。",
+        "publishedAt": "2026-09-01 13:08:47",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609013861348180.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "特朗普称美国经济增速或达20% 美国经济分析局估计二季度实际GDP年化增速仅为1.5%",
+        "summary": "【特朗普称美国经济增速或达20% 美国经济分析局估计二季度实际GDP年化增速仅为1.5%】美国总统特朗普总统周一表示，美国经济增速可能高达20%，同时他认为，即便经济增速如此迅猛，也不应促使美联储加息。“我们的GDP增速可能达到14%、15%、16%，甚至20%。”特朗普在白宫椭圆形办公室一场旨在公布处方药降价相关协议的活动上表示。“经济增长并不意味着会引…",
+        "publishedAt": "2026-09-01 13:24:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609013861363163.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗总统佩泽希齐扬：一旦美国恢复履行6月谅解备忘录中的承诺 伊朗将立即作出对等回应",
+        "summary": "伊朗总统佩泽希齐扬表示，一旦美国恢复履行6月谅解备忘录中的承诺，伊朗将立即作出对等回应。",
+        "publishedAt": "2026-09-01 13:23:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609013861363652.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "AI 3D公司VAST半年融资约50亿元",
+        "summary": "【AI 3D公司VAST半年融资约50亿元】9月1日，AI3D领域创业公司VAST宣布完成B轮和B+轮融资，合计约30亿元人民币，由经纬创投领投，完美世界、蓝色光标等机构联合参投，老股东达晨财智、春华资本等机构超额追投。不到半年，VAST累计融资约50亿元，本轮融资将投入3D原生模型与数据能力迭代、训练与推理基础设施扩建、产品开发与商业化落地加速。",
+        "publishedAt": "2026-09-01 13:22:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609013861362033.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "金融"
+          "AI算力"
         ],
-        "tickers": [
-          "上海莱士(002252)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "公司注册资本变更"
+        "noticeType": ""
       },
       {
-        "title": "美国防部称将提升“爱国者”导弹和“萨德”系统产能",
-        "summary": "【美国防部称将提升“爱国者”导弹和“萨德”系统产能】美国国防部8月31日发表声明，宣布与通用动力军械与战术系统公司和洛克希德·马丁公司签署两项关键框架协议，以提高“爱国者先进能力-3”型导弹和“萨德”反导系统的产能。",
-        "publishedAt": "2026-09-01 03:20:02",
+        "title": "加盟商加速逃离传统金店",
+        "summary": "【加盟商加速逃离传统金店】近期，多家黄金珠宝上市公司披露2026年半年度报告。界面新闻综合整理发现，2026年上半年，传统连锁金店的加盟商关店潮仍在延续，且有进一步加速之势。具体来看，包括周大福在内的八家企业都在上半年净减少了数百家加盟店，其中老凤祥、周大生、豫园股份、六福集团的撤店幅度比2025年下半年更大。",
+        "publishedAt": "2026-09-01 13:22:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013860531021.html",
+        "url": "https://finance.eastmoney.com/a/202609013861358727.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "军工"
+          "有色稀土"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国总统特朗普宣布新的药品定价协议",
-        "summary": "美国总统特朗普宣布新的药品定价协议；九家制药公司承诺低价销售。目前已有26家企业签署参与该计划，覆盖制药市场90%份额。",
-        "publishedAt": "2026-09-01 03:09:18",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013860530811.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国联邦贸易委员会表示 联邦贸易委员会与 22 个州总检察长指控亚马逊在其数字广告竞价定价中隐瞒不公平收费",
-        "summary": "美国联邦贸易委员会表示，联邦贸易委员会与22个州总检察长指控亚马逊在其数字广告竞价定价中隐瞒不公平收费。",
-        "publishedAt": "2026-09-01 03:05:12",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013860530364.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "恒指期货夜盘收跌0.42%",
-        "summary": "恒指期货夜盘收跌0.42%，报25345.19点，低水221.80点。",
-        "publishedAt": "2026-09-01 03:04:18",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013860530264.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国向炼油商批准自2017年以来最高水平的生物燃料豁免",
-        "summary": "美国向炼油商批准自2017年以来最高水平的生物燃料豁免。",
-        "publishedAt": "2026-09-01 03:00:12",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013860530434.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国环保署宣布延长2025合规年度可再生燃料标准合规报告截止日期",
-        "summary": "美国环保署宣布延长2025合规年度可再生燃料标准合规报告截止日期；将2025合规年度可再生燃料标准合规报告截止日期从2026年9月1日延长至2026年10月1日。",
-        "publishedAt": "2026-09-01 02:57:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013860530541.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -148733,7 +148739,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -148746,15 +148752,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-01 03:32:05",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 9 条；主题映射集中在 金融、能源、军工。",
+        "generatedAt": "2026-09-01 13:30:35",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 AI算力、新能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：东数西算(算力)、虚拟现实、文化传媒；首看 东数西算(算力) 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、新能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -148850,7 +148856,7 @@
               "今日炸板 30 只，追高前先看前排封单和回封质量。",
               "今日跌停 11 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST美克:美克国际家居用品股份有限公司关于股份回购进展公告；ST美克:美克国际家居用品股份有限公司关于重大诉讼暨诉讼进展的公告。",
+              "新闻/公告风险：ST美克:美克国际家居用品股份有限公司关于股份回购进展公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
