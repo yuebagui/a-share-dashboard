@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-02",
     "phase": "盘中快照",
-    "generatedAt": "2026-09-02 01:16:35",
+    "generatedAt": "2026-09-02 01:20:24",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -155864,31 +155864,29 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-02",
-    "generatedAt": "2026-09-02 01:17:21",
+    "generatedAt": "2026-09-02 01:21:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 金融、能源、AI算力。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
+        "name": "有色稀土",
+        "score": 13,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 7,
+        "score": 10,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 6,
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 4,
+        "name": "金融",
+        "score": 9,
         "isFocusBoard": false
       }
     ],
@@ -156156,33 +156154,33 @@
         "noticeType": ""
       },
       {
-        "title": "国际铜夜盘收跌1.07%",
-        "summary": "【国际铜夜盘收跌1.07%】国际铜夜盘收跌1.07%，沪铜收跌0.83%，沪铝收涨0.02%，沪锌收跌0.80%，沪铅收涨0.31%，沪镍收跌0.75%，沪锡收跌1.61%。氧化铝夜盘收涨1.30%，铝合金收跌0.11%。不锈钢夜盘收跌0.69%。",
-        "publishedAt": "2026-09-02 01:03:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023861867749.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国截至8月28日当周API原油库存变动(万桶)",
+        "summary": "美国截至8月28日当周API原油库存变动(万桶)；公布 nan，预期 nan，前值 420.0。",
+        "publishedAt": "2026-09-02 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "雀巢达成协议 拟剥离主流维生素及矿物质业务",
-        "summary": "【雀巢达成协议 拟剥离主流维生素及矿物质业务】雀巢达成协议，拟剥离主流维生素及矿物质业务；同意以10亿美元将主流维生素矿物质补充剂业务出售给YellowWoodPartners。该交易包含七个品牌以及美国自有品牌膳食补充剂业务。交易预计于2027年上半年完成。",
-        "publishedAt": "2026-09-02 00:53:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023861866883.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国截至8月28日当周API汽油库存变动(万桶)",
+        "summary": "美国截至8月28日当周API汽油库存变动(万桶)；公布 nan，预期 nan，前值 -320.0。",
+        "publishedAt": "2026-09-02 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -156245,15 +156243,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-02 01:17:21",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-09-02 01:21:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：保险、银行；首看 保险 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -156284,7 +156282,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-02 01:16:35",
+        "generatedAt": "2026-09-02 01:20:24",
         "summary": "上午情绪分 100，涨停 83 家，跌停 0 家，炸板 6 家，连板 18 家，最高 7 板。",
         "sections": [
           {
@@ -156323,7 +156321,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-02 01:16:35",
+        "generatedAt": "2026-09-02 01:20:24",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
