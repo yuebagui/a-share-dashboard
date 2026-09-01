@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-01",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-01 16:50:33",
+    "generatedAt": "2026-09-01 16:55:02",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -147862,30 +147862,30 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-01",
-    "generatedAt": "2026-09-01 16:51:28",
+    "generatedAt": "2026-09-01 16:55:59",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: ('Connection broken: IncompleteRead(37413 bytes read, 35686 more expected)', IncompleteRead(37413 bytes read, 35686 more expected))"
+      "notices: ('Connection broken: IncompleteRead(59133 bytes read, 11720 more expected)', IncompleteRead(59133 bytes read, 11720 more expected))"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 2 条；主题映射集中在 有色稀土、AI算力、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 1 条；主题映射集中在 AI算力、能源、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 11,
+        "name": "AI算力",
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "能源",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
         "score": 6,
         "isFocusBoard": false
       },
@@ -147896,16 +147896,6 @@
       },
       {
         "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
@@ -147926,16 +147916,32 @@
         "noticeType": ""
       },
       {
-        "title": "国际贵金属价格快速走低 现货白银向下跌破65美元/盎司",
-        "summary": "【国际贵金属价格快速走低 现货白银向下跌破65美元/盎司】国际贵金属价格大幅快速走低。现货白银向下跌破65美元/盎司，日内下跌2.33%，创8月19日以来新低。现货黄金价格跌1.66%，报4375.23美元/盎司。",
-        "publishedAt": "2026-09-01 16:31:50",
+        "title": "欧美日债市遭遇抛售潮 贵金属及欧美股市承压",
+        "summary": "【欧美日债市遭遇抛售潮 贵金属及欧美股市承压】受能源价格上涨、通胀预期升温以及主要央行货币政策预期变化影响，全球主要国债收益率普遍走高。日本30年期国债收益率升至4.18%以上，创历史新高；英国30年期国债收益率升至5.88%，续创1998年以来最高；德国10年期国债收益率升至3.339%，为2011年以来最高。美国30年期国债收益率升至5.28%，日内上…",
+        "publishedAt": "2026-09-01 16:50:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861504435.html",
+        "url": "https://finance.eastmoney.com/a/202609013861516062.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "欧洲央行：AI融资潮可能重塑欧元区债券市场",
+        "summary": "【欧洲央行：AI融资潮可能重塑欧元区债券市场】当地时间8月31日，欧洲央行在一篇博客文章中称，美国科技巨头为人工智能投资筹集资金而大举借债，可能是史无前例融资浪潮的开端，并可能重塑包括欧元区在内的债券市场。",
+        "publishedAt": "2026-09-01 16:42:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609013861516832.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
@@ -148152,30 +148158,15 @@
         "noticeType": ""
       },
       {
-        "title": "日本30年期国债收益率刷新历史新高",
-        "summary": "日本30年期国债收益率飙升，刷新历史新高。",
-        "publishedAt": "2026-09-01 16:38:41",
+        "title": "美国石油能源板块盘前上涨",
+        "summary": "【美国石油能源板块盘前上涨】美国石油能源板块盘前上涨，斯伦贝谢、西方石油、埃克森美孚、康菲石油均涨超1%。",
+        "publishedAt": "2026-09-01 16:45:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861507011.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "晨星：上调中国石油股份公允价值预测至11.4港元 上半年净利润同比增22%",
-        "summary": "【晨星：上调中国石油股份公允价值预测至11.4港元 上半年净利润同比增22%】晨星发布研报称，上调无护城河的中国石油股份H股公允价值预测10.7%，从10.3港元升至11.4港元，同时上调对其A股公允价值预测。在更新能源价格预测后，该行将中石油2026-2030年的盈利预测平均下调6%。",
-        "publishedAt": "2026-09-01 16:38:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861510239.html",
+        "url": "https://finance.eastmoney.com/a/202609013861515767.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "新能源",
           "能源"
         ],
         "tickers": [],
@@ -148242,15 +148233,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-01 16:51:28",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 2 条；主题映射集中在 有色稀土、AI算力、半导体。",
+        "generatedAt": "2026-09-01 16:55:59",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 1 条；主题映射集中在 AI算力、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：保险、银行；首看 保险 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -148281,7 +148272,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-01 16:50:33",
+        "generatedAt": "2026-09-01 16:55:02",
         "summary": "上午情绪分 100，涨停 83 家，跌停 0 家，炸板 6 家，连板 18 家，最高 7 板。",
         "sections": [
           {
@@ -148320,7 +148311,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-01 16:50:33",
+        "generatedAt": "2026-09-01 16:55:02",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -148346,7 +148337,7 @@
               "今日炸板 6 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：在岸人民币兑美元收盘报6.7218；国际贵金属价格快速走低 现货白银向下跌破65美元/盎司。",
+              "新闻/公告风险：在岸人民币兑美元收盘报6.7218。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
