@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-09-01",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-09-01 21:22:42",
+    "tradeDate": "2026-09-02",
+    "phase": "盘中快照",
+    "generatedAt": "2026-09-02 01:16:35",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -155863,116 +155863,210 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-01",
-    "generatedAt": "2026-09-01 21:24:08",
+    "tradeDate": "2026-09-02",
+    "generatedAt": "2026-09-02 01:17:21",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: ('Connection broken: IncompleteRead(38861 bytes read, 31921 more expected)', IncompleteRead(38861 bytes read, 31921 more expected))"
+      "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 5 条；主题映射集中在 有色稀土、半导体、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 13,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 5,
+        "name": "金融",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST新元：撤销退市风险警示并继续实施其他风险警示 明日停牌",
-        "summary": "【*ST新元：撤销退市风险警示并继续实施其他风险警示 明日停牌】*ST新元(300472.SZ)公告称，公司股票将于2026年9月2日停牌一天，9月3日复牌。自复牌之日起，深交所撤销对公司股票交易的退市风险警示，股票简称由“*ST新元”变更为“ST新元”。",
-        "publishedAt": "2026-09-01 21:07:18",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861712749.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "蔚来汽车曲玉：预计下半年单车成本将继续上涨2000-3000元",
-        "summary": "【蔚来汽车曲玉：预计下半年单车成本将继续上涨2000-3000元】蔚来汽车首席财务官曲玉今日在公司半年报业绩会上表示，今年成本端压力较大，3月开始，内存、大宗材料和电池的成本均有上升，二季度单车成本较去年年底平均上涨1.4万元左右。下半年材料成本有继续上涨的风险，预计会在2000-3000元。“蔚来的目标是三、四季度的单车毛利能够维持二季度水平。”",
-        "publishedAt": "2026-09-01 21:06:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861712512.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "柳钢股份:中联资产评估集团有限公司关于上海证券交易所《关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》资产评估相关问题答复之核查意见",
+        "summary": "柳钢股份(601003)：柳钢股份:中联资产评估集团有限公司关于上海证券交易所《关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》资产评估相关问题答复之核查意见",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601003/AN202609011828891369.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "新能源",
-          "汽车链"
+          "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "柳钢股份(601003)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "现货黄金向下跌破4350美元",
-        "summary": "【现货黄金向下跌破4350美元】现货黄金向下跌破4350美元，日内下跌2.26%。",
-        "publishedAt": "2026-09-01 21:02:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861705249.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "柳钢股份:国信证券股份有限公司关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之专项核查意见",
+        "summary": "柳钢股份(601003)：柳钢股份:国信证券股份有限公司关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之专项核查意见",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601003/AN202609011828891371.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "柳钢股份(601003)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "柳钢股份:关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复",
+        "summary": "柳钢股份(601003)：柳钢股份:关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601003/AN202609011828891370.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "柳钢股份(601003)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "柳钢股份:天职国际会计师事务所(特殊普通合伙)关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复之核查意见",
+        "summary": "柳钢股份(601003)：柳钢股份:天职国际会计师事务所(特殊普通合伙)关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复之核查意见",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601003/AN202609011828891365.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "柳钢股份(601003)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "柳钢股份:柳钢股份关于发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复的提示性公告",
+        "summary": "柳钢股份(601003)：柳钢股份:柳钢股份关于发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复的提示性公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601003/AN202609011828891367.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "柳钢股份(601003)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "盛科通信:盛科通信关于最近五年未被证券监管部门和证券交易所采取监管措施或处罚的公告",
+        "summary": "盛科通信(688702)：盛科通信:盛科通信关于最近五年未被证券监管部门和证券交易所采取监管措施或处罚的公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688702/AN202609011828891250.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "盛科通信(688702)"
+        ],
+        "importance": 1,
+        "noticeType": "自查报告"
+      },
+      {
+        "title": "永杉锂业:永杉锂业关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "永杉锂业(603399)：永杉锂业:永杉锂业关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603399/AN202609011828891015.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国内商品期货夜盘开盘 主力合约多数上涨",
-        "summary": "国内商品期货夜盘开盘，主力合约多数上涨。涨幅方面，乙二醇、原油涨超2%，沥青涨近2%，玻璃、纸浆、甲醇、LPG、燃油等涨超1%；跌幅方面，沪银跌超2%，沪金、20号胶跌超1%，棉花、沪铜、橡胶、国际铜、沪镍等小幅下跌。",
-        "publishedAt": "2026-09-01 21:00:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861701222.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "有色稀土",
-          "能源"
+        "tickers": [
+          "永杉锂业(603399)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "怡亚通：股东怡亚通控股拟减持不超1%股份",
-        "summary": "【怡亚通：股东怡亚通控股拟减持不超1%股份】怡亚通公告，持股5%以上股东怡亚通控股计划自本公告披露之日起15个交易日后的3个月内，通过集中竞价交易方式减持其所持有的公司股份不超过25969900股，即不超过公司总股本的1%。",
-        "publishedAt": "2026-09-01 20:45:55",
+        "title": "*ST新元:关于公司股票交易撤销退市风险警示并继续被实施其他风险警示暨停牌一天的公告",
+        "summary": "*ST新元(300472)：*ST新元:关于公司股票交易撤销退市风险警示并继续被实施其他风险警示暨停牌一天的公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300472/AN202609011828890688.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST新元(300472)"
+        ],
+        "importance": 1,
+        "noticeType": "撤销退市风险警示"
+      },
+      {
+        "title": "*ST新元:万向新元科技股份有限公司关于2025年年报问询函回复",
+        "summary": "*ST新元(300472)：*ST新元:万向新元科技股份有限公司关于2025年年报问询函回复",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300472/AN202609011828890687.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST新元(300472)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "康惠股份:康惠股份关于持股5%以上股东减持股份计划实施完成暨减持股份结果公告",
+        "summary": "康惠股份(603139)：康惠股份:康惠股份关于持股5%以上股东减持股份计划实施完成暨减持股份结果公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603139/AN202609011828890540.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "康惠股份(603139)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "现货钯金下跌3% 报每盎司1315.63美元",
+        "summary": "现货钯金下跌3%，报每盎司1315.63美元。",
+        "publishedAt": "2026-09-02 00:35:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861698241.html",
+        "url": "https://finance.eastmoney.com/a/202609023861861425.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -155982,16 +156076,15 @@
         "noticeType": ""
       },
       {
-        "title": "机构：预估2030年全球半导体产值突破2兆美元",
-        "summary": "【机构：预估2030年全球半导体产值突破2兆美元】SEMI产业研究资深总监曾瑞瑜宣布上修半导体成长预估。他表示，过去市场原本预期全球半导体产值到2030年才达到1兆美元，但AI彻底改写产业成长曲线，今年市场规模将突破1.5兆美元，预估2030年绝对可以突破2兆美元，而且强劲需求正由芯片一路向前段设备、测试、先进封装与材料市场扩散。",
-        "publishedAt": "2026-09-01 21:10:38",
+        "title": "美联储理事巴尔：若通胀未缓解 应做好加息准备",
+        "summary": "【美联储理事巴尔：若通胀未缓解 应做好加息准备】美联储理事迈克尔·巴尔表示，如果通胀未能回落，美联储应做好加息准备。他警告称，通胀连续逾五年高于目标水平，价格压力存在固化风险。巴尔表示，如果未来公布的数据能够释放出通胀降温的信号，美联储有保持耐心的条件。“如果数据趋势让我对通胀正朝着2%目标回落建立起一定信心，那么我认为我们可以花更多时间评估当前的政策立场…",
+        "publishedAt": "2026-09-01 23:42:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861714147.html",
+        "url": "https://finance.eastmoney.com/a/202609013861845231.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
-          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -155999,177 +156092,95 @@
         "noticeType": ""
       },
       {
-        "title": "美国8月31日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国8月31日SPDR黄金持仓-每日更新(吨)；公布 1042.36，预期 nan，前值 1042.36。",
-        "publishedAt": "2026-09-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "拓维信息:关于限制性股票回购注销完成的公告",
+        "summary": "拓维信息(002261)：拓维信息:关于限制性股票回购注销完成的公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002261/AN202609011828891406.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月28日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月28日COMEX黄金库存-每日更新(百盎司)；公布 273008.49，预期 nan，前值 271253.69。",
-        "publishedAt": "2026-09-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
+        "tickers": [
+          "拓维信息(002261)"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
+        "importance": 1,
+        "noticeType": "股本变动"
       },
       {
-        "title": "美国8月31日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国8月31日iShares黄金持仓-每日更新(吨)；公布 460.5，预期 nan，前值 460.85。",
-        "publishedAt": "2026-09-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
+        "title": "盛科通信:盛科通信关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "盛科通信(688702)：盛科通信:盛科通信关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688702/AN202609011828891253.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盛科通信(688702)"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月31日iShares白银持仓-每日更新(吨)",
-        "summary": "美国8月31日iShares白银持仓-每日更新(吨)；公布 15359.92，预期 nan，前值 15359.92。",
-        "publishedAt": "2026-09-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "马来西亚8月制造业PMI",
-        "summary": "马来西亚8月制造业PMI；公布 50.2，预期 nan，前值 50.7。",
-        "publishedAt": "2026-09-01 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚第二季度经常帐(亿澳元)",
-        "summary": "澳大利亚第二季度经常帐(亿澳元)；公布 -272.0，预期 -300.0，前值 -271.0。",
-        "publishedAt": "2026-09-01 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "德国7月实际零售销售月率(%)",
-        "summary": "德国7月实际零售销售月率(%)；公布 nan，预期 0.4，前值 -0.7。",
-        "publishedAt": "2026-09-01 14:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "德国7月实际零售销售年率(%)",
-        "summary": "德国7月实际零售销售年率(%)；公布 -2.5，预期 0.6，前值 -0.2。",
-        "publishedAt": "2026-09-01 14:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "欧洲央行官员SIMKUS：“很明显”我们应该在9月份加息",
-        "summary": "欧洲央行官员SIMKUS表示，“很明显”我们应该在9月份加息。",
-        "publishedAt": "2026-09-01 21:17:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861718695.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "获得补贴（资助）"
       },
       {
-        "title": "纽约期金失守4380美元/盎司",
-        "summary": "【纽约期金失守4380美元/盎司】纽约期金失守4380美元/盎司，日内跌2.31%。",
-        "publishedAt": "2026-09-01 21:13:40",
+        "title": "美国官员：将继续推动美国私营部门对委内瑞拉的投资",
+        "summary": "【美国官员：将继续推动美国私营部门对委内瑞拉的投资】美国官员表示，关于委内瑞拉过渡安排的下一阶段谈判将于本月中旬恢复；将继续推动美国私营部门对委内瑞拉的投资。雪佛龙将宣布扩大在委内瑞拉的业务。美国能源部长赖特将于今晚前往委内瑞拉，并于明日出席相关协议签署。",
+        "publishedAt": "2026-09-02 00:46:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861716482.html",
+        "url": "https://finance.eastmoney.com/a/202609023861865964.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储巴尔称若通胀未降温或需加息",
-        "summary": "【美联储巴尔称若通胀未降温或需加息】9月1日，美联储理事迈克尔·巴尔表示，如果通胀未能充分降温，美联储应果断加息；若数据显示通胀正朝2%目标回落，决策者则可以耐心观察。",
-        "publishedAt": "2026-09-01 21:08:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861713478.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "WTI原油期货涨幅扩大至3% 为7月24日以来新高",
-        "summary": "【WTI原油期货涨幅扩大至3% 为7月24日以来新高】WTI原油期货涨幅扩大至3%，报88.343美元/桶，为7月24日以来新高；布伦特原油期货价格涨2.48%，报92.730美元/桶。",
-        "publishedAt": "2026-09-01 21:05:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861705689.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [
           "能源"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国两年期国债收益率突破4.38% 创2025年1月以来新高",
+        "summary": "美国两年期国债收益率突破4.38%，创2025年1月以来新高。",
+        "publishedAt": "2026-09-02 00:33:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023861861577.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国际铜夜盘收跌1.07%",
+        "summary": "【国际铜夜盘收跌1.07%】国际铜夜盘收跌1.07%，沪铜收跌0.83%，沪铝收涨0.02%，沪锌收跌0.80%，沪铅收涨0.31%，沪镍收跌0.75%，沪锡收跌1.61%。氧化铝夜盘收涨1.30%，铝合金收跌0.11%。不锈钢夜盘收跌0.69%。",
+        "publishedAt": "2026-09-02 01:03:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023861867749.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "雀巢达成协议 拟剥离主流维生素及矿物质业务",
+        "summary": "【雀巢达成协议 拟剥离主流维生素及矿物质业务】雀巢达成协议，拟剥离主流维生素及矿物质业务；同意以10亿美元将主流维生素矿物质补充剂业务出售给YellowWoodPartners。该交易包含七个品牌以及美国自有品牌膳食补充剂业务。交易预计于2027年上半年完成。",
+        "publishedAt": "2026-09-02 00:53:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023861866883.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -156221,7 +156232,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -156234,15 +156245,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-01 21:24:08",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 5 条；主题映射集中在 有色稀土、半导体、AI算力。",
+        "generatedAt": "2026-09-02 01:17:21",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：保险、银行；首看 保险 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、半导体、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -156273,7 +156284,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-01 21:22:42",
+        "generatedAt": "2026-09-02 01:16:35",
         "summary": "上午情绪分 100，涨停 83 家，跌停 0 家，炸板 6 家，连板 18 家，最高 7 板。",
         "sections": [
           {
@@ -156312,7 +156323,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-01 21:22:42",
+        "generatedAt": "2026-09-02 01:16:35",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -156338,7 +156349,7 @@
               "今日炸板 6 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：*ST新元：撤销退市风险警示并继续实施其他风险警示 明日停牌；蔚来汽车曲玉：预计下半年单车成本将继续上涨2000-3000元。",
+              "新闻/公告风险：柳钢股份:中联资产评估集团有限公司关于上海证券交易所《关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》资产评估相关问题答复之核查意见；柳钢股份:国信证券股份有限公司关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之专项核查意见。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
