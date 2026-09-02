@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-02",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-02 20:17:59",
+    "generatedAt": "2026-09-02 20:40:57",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -146368,7 +146368,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -146528,14 +146529,21 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-02",
-    "generatedAt": "2026-09-02 20:18:31",
+    "generatedAt": "2026-09-02 20:41:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: ('Connection broken: IncompleteRead(22933 bytes read, 44333 more expected)', IncompleteRead(22933 bytes read, 44333 more expected))",
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 16 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 AI算力、能源、半导体。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 13,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 11,
+        "isFocusBoard": false
+      },
       {
         "name": "AI算力",
         "score": 7,
@@ -146543,22 +146551,125 @@
       },
       {
         "name": "能源",
-        "score": 4,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 3,
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "美国2-30年期国债收益率均大幅走低",
-        "summary": "美国2-30年期国债收益率均大幅走低，美国30年期国债收益率从日内高点下跌5个基点，现报5.25%。",
-        "publishedAt": "2026-09-02 20:07:14",
+        "title": "300123ST亚光投资者关系管理信息20260902",
+        "summary": "ST亚光(300123)：300123ST亚光投资者关系管理信息20260902",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300123/AN202609021828934479.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST亚光(300123)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "壹连科技:国泰海通证券股份有限公司关于深圳壹连科技股份有限公司申请向不特定对象发行可转换公司债券的审核问询函的回复",
+        "summary": "壹连科技(301631)：壹连科技:国泰海通证券股份有限公司关于深圳壹连科技股份有限公司申请向不特定对象发行可转换公司债券的审核问询函的回复",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301631/AN202609021828934163.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "壹连科技(301631)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "壹连科技:关于公司向不特定对象发行可转换公司债券审核问询函回复及申请文件更新的提示性公告",
+        "summary": "壹连科技(301631)：壹连科技:关于公司向不特定对象发行可转换公司债券审核问询函回复及申请文件更新的提示性公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301631/AN202609021828934162.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "壹连科技(301631)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "壹连科技:关于深圳壹连科技股份有限公司申请向不特定对象发行可转换公司债券审核问询函中有关财务会计问题的专项说明",
+        "summary": "壹连科技(301631)：壹连科技:关于深圳壹连科技股份有限公司申请向不特定对象发行可转换公司债券审核问询函中有关财务会计问题的专项说明",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301631/AN202609021828934169.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "壹连科技(301631)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "小摩：美债收益率逼近5%“警戒线” 股市恐面临5%-8%回调",
+        "summary": "【小摩：美债收益率逼近5%“警戒线” 股市恐面临5%-8%回调】摩根大通私人银行全球投资策略主管格蕾丝·彼得斯表示，债券收益率上升对全球股市构成主要风险，而9月历来是美股表现疲软的月份。彼得斯认为今年美国和欧洲股市都有进一步上涨的空间，但她警告称，在11月美国中期选举等风险事件到来之前，股市可能出现5%至8%的回调。不过，她认为这属于健康的获利回吐，而非结…",
+        "publishedAt": "2026-09-02 20:36:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862949218.html",
+        "url": "https://finance.eastmoney.com/a/202609023862975329.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "招金黄金：股东冉盛盛昌拟减持不超1%股份",
+        "summary": "【招金黄金：股东冉盛盛昌拟减持不超1%股份】9月2日，招金黄金(000506.SZ)公告称，公司股东冉盛盛昌持有公司股份2703.2万股，占总股本2.91%，计划自预披露公告之日起十五个交易日后的三个月内，以集中竞价、大宗交易方式减持不超过929.02万股，即不超过总股本的1%。",
+        "publishedAt": "2026-09-02 20:33:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862973177.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中威电子：股东石旭刚拟减持不超3%股份",
+        "summary": "【中威电子：股东石旭刚拟减持不超3%股份】9月2日，中威电子公告称，公司持股5%以上股东石旭刚持有公司股份4594.52万股，占公司总股本15.17%，其计划于2026年9月25日至2026年12月24日期间，以大宗交易、集中竞价交易方式减持公司股份不超过908.42万股，占公司总股本比例3%。",
+        "publishedAt": "2026-09-02 20:30:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862963050.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -146568,224 +146679,181 @@
         "noticeType": ""
       },
       {
-        "title": "3连板龙版传媒：AI视频业务未产生营业收入",
-        "summary": "【3连板龙版传媒：AI视频业务未产生营业收入】龙版传媒(605577.SH)发布风险提示公告，公司主营业务为出版、印刷、发行等传统业务和数字出版等业务，AI视频业务未产生营业收入。",
-        "publishedAt": "2026-09-02 19:51:21",
+        "title": "2连板英力特：控股股东筹划控制权变更事项存在不确定性",
+        "summary": "【2连板英力特：控股股东筹划控制权变更事项存在不确定性】英力特(000635.SZ)公告称，公司控股股东英力特集团拟通过公开征集受让方方式协议转让部分股份，可能导致公司控制权变更，但具体方案尚需取得国资监管部门同意，能否征集到最终受让方存在不确定性。",
+        "publishedAt": "2026-09-02 20:24:31",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862942586.html",
+        "url": "https://finance.eastmoney.com/a/202609023862960820.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "传输效率高达98%！我国团队在自主超导量子计算机上实现新突破",
-        "summary": "【传输效率高达98%！我国团队在自主超导量子计算机上实现新突破】记者2日从安徽省量子计算芯片重点实验室获悉，本源量子联合中国科学技术大学、合肥综合性国家科学中心人工智能研究院等科研团队，在“本源悟空”自主超导量子计算机上成功研发出面向桶式量子随机存储器（QRAM）的“相干量子路由系统”，相当于为数据中心架设了“快速路”，有效解决了QRAM扩展的行业难题。相…",
-        "publishedAt": "2026-09-02 19:56:54",
+        "title": "湘潭电化:2026年9月2日投资者关系活动记录表",
+        "summary": "湘潭电化(002125)：湘潭电化:2026年9月2日投资者关系活动记录表",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002125/AN202609021828934210.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "湘潭电化(002125)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "盐田港:2026年9月2日投资者关系活动记录表",
+        "summary": "盐田港(000088)：盐田港:2026年9月2日投资者关系活动记录表",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000088/AN202609021828930448.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盐田港(000088)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "澄天伟业:关于回购股份进展公告",
+        "summary": "澄天伟业(300689)：澄天伟业:关于回购股份进展公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300689/AN202609021828930943.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "澄天伟业(300689)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "中际旭创:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "summary": "中际旭创(300308)：中际旭创:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609021828930829.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "中际旭创(300308)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "创远信科:关于收到北京证券交易所并购重组委员会审议会议安排的提示性公告",
+        "summary": "创远信科(920961)：创远信科:关于收到北京证券交易所并购重组委员会审议会议安排的提示性公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920961/AN202609021828929911.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "创远信科(920961)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "宏达电子:2026年9月2日投资者关系活动记录表",
+        "summary": "宏达电子(300726)：宏达电子:2026年9月2日投资者关系活动记录表",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300726/AN202609021828929524.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宏达电子(300726)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300597吉大通信投资者关系管理信息20260902",
+        "summary": "吉大通信(300597)：300597吉大通信投资者关系管理信息20260902",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300597/AN202609021828928780.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "吉大通信(300597)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "湖南裕能:2026年9月2日投资者关系活动记录表",
+        "summary": "湖南裕能(301358)：湖南裕能:2026年9月2日投资者关系活动记录表",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301358/AN202609021828934115.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "湖南裕能(301358)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "上海连续半年二手房单月成交破2万套：有人试探涨价 有人置换外环外千万房源",
+        "summary": "【上海连续半年二手房单月成交破2万套：有人试探涨价 有人置换外环外千万房源】进入9月，上海楼市传统旺季“金九银十”有望加速兑现。刚刚过去的8月，市场已释放出复苏信号。尽管当月雨量创下历史同期第二高，台风频频叨扰，却没有打乱人们的置业节奏。记者从上海市房管局获悉，8月份上海二手住房成交2.07万套，同比增加18%。",
+        "publishedAt": "2026-09-02 20:34:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862943716.html",
+        "url": "https://finance.eastmoney.com/a/202609023862976676.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "广东鸿图：拟投资设立全资子公司开展镁合金压铸业务",
-        "summary": "【广东鸿图：拟投资设立全资子公司开展镁合金压铸业务】广东鸿图9月2日公告，公司拟在肇庆市高要区投资新设一家全资子公司，开展镁合金压铸业务。公司将通过新设子公司作为实施主体，投资建设镁合金压铸业务相关产能，项目总投资2.74亿元。",
-        "publishedAt": "2026-09-02 19:51:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862940786.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "中埃联合声明：鼓励更多符合中国标准的埃及产品进入中国市场",
-        "summary": "【中埃联合声明：鼓励更多符合中国标准的埃及产品进入中国市场】9月2日，中华人民共和国和阿拉伯埃及共和国发布关于进一步深化全面战略伙伴关系的联合声明。其中提到，两国元首赞赏《中华人民共和国和阿拉伯埃及共和国全面战略伙伴关系实施纲要（2024－2028）》落实情况，一致同意加强贸易投资中的本币使用，鼓励更多使用两国本币进行贸易投资结算。埃方赞赏中方对非零关税举…",
-        "publishedAt": "2026-09-02 19:49:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862940234.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月ADP就业人数增加3.8万人 低于市场预期",
-        "summary": "美国8月ADP就业人数增加3.8万人，低于市场预期的4.8万人。",
-        "publishedAt": "2026-09-02 20:15:19",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862951655.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英国风力推进技术创企Anemoi将为马士基集装箱船提供旋翼帆系统",
-        "summary": "【英国风力推进技术创企Anemoi将为马士基集装箱船提供旋翼帆系统】据9月2日声明，英国风力推进技术创企Anemoi Marine Technologies将为马士基利马号集装箱船提供旋翼帆系统，以降低燃油消耗和碳排放。",
-        "publishedAt": "2026-09-02 20:10:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862951373.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "OpenAI的GPT-5.6 Cyber已集成至网络安全公司CrowdStrike的Falcon平台",
-        "summary": "OpenAI的GPT-5.6 Cyber已集成至网络安全公司CrowdStrike的Falcon平台。",
-        "publishedAt": "2026-09-02 20:09:02",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862950994.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "广东证监局：对富力地产、李思廉、胡杰采取出具警示函措施",
-        "summary": "【广东证监局：对富力地产、李思廉、胡杰采取出具警示函措施】广东证监局发布关于对广州富力地产股份有限公司、李思廉、胡杰采取出具警示函措施的决定。经查，广州富力地产作为公司债券发行人，未及时披露有息债务逾期和重大诉讼、仲裁等事项，违反了《公司债券发行与交易管理办法》《公司信用类债券信息披露管理办法》相关规定。",
-        "publishedAt": "2026-09-02 20:06:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862949577.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "波罗的海干散货指数上涨5.51%",
-        "summary": "波罗的海干散货指数上涨5.51%，报3331点。",
-        "publishedAt": "2026-09-02 20:04:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862948180.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "标普500指数期货抹去跌幅",
-        "summary": "【标普500指数期货抹去跌幅】道琼斯指数期货涨0.24%，标普500指数期货涨0.06%，纳斯达克100指数期货跌0.12%。",
-        "publishedAt": "2026-09-02 20:01:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862947791.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中埃联合声明：巩固加沙停火 巴勒斯坦民族权力机构尽快重返加沙",
-        "summary": "【中埃联合声明：巩固加沙停火 巴勒斯坦民族权力机构尽快重返加沙】两国元首重申，巴勒斯坦问题是中东问题的核心，应在“两国方案”基础上实现巴勒斯坦问题公正、持久解决，建立以1967年6月4日边界为基础、以东耶路撒冷为首都的、享有主权的独立的巴勒斯坦国。两国元首重申，坚决反对以任何理由和名义迁移巴勒斯坦人民的计划。双方呼吁应巩固加沙停火，为人道援助不受阻碍的准入…",
-        "publishedAt": "2026-09-02 19:59:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862947298.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中埃联合声明：进一步加强执法安全领域合作 加紧商签引渡条约",
-        "summary": "【中埃联合声明：进一步加强执法安全领域合作 加紧商签引渡条约】9月2日，中华人民共和国和阿拉伯埃及共和国发布关于进一步深化全面战略伙伴关系的联合声明。其中提到，双方同意进一步加强执法安全领域合作，共同打击跨国犯罪，加紧商签引渡条约，加强反恐领域交流与合作，坚定支持彼此反恐努力。双方坚决反对一切形式恐怖主义，反对将恐怖主义同任何特定国家、民族、宗教挂钩，反对…",
-        "publishedAt": "2026-09-02 19:57:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862946325.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "WTI原油期货日内跌幅扩大至1% 此前一度涨超2%",
-        "summary": "【WTI原油期货日内跌幅扩大至1% 此前一度涨超2%】WTI原油期货价格跌1.04%，报89.283美元/桶，此前一度涨超2%；布伦特原油期货价格跌0.75%，报93.941美元/桶。",
-        "publishedAt": "2026-09-02 19:52:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862941834.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国截至8月28日当周API原油库存变动(万桶)",
+        "summary": "美国截至8月28日当周API原油库存变动(万桶)；公布 -259.3，预期 nan，前值 420.0。",
+        "publishedAt": "2026-09-02 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
           "能源"
         ],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "OPPO位列7月国内手机市场销量第二",
-        "summary": "【OPPO位列7月国内手机市场销量第二】8月29日，知名终端供应链人士@RD观测公布了2026年7月国内手机市场份额数据。数据显示，OPPO以16.9%的份额位列国内第二。",
-        "publishedAt": "2026-09-02 19:50:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862940132.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国能源部长：美国可通过置换委内瑞拉原油来补充战略石油储备",
-        "summary": "美国能源部长赖特表示，美国可通过置换委内瑞拉原油来补充战略石油储备。",
-        "publishedAt": "2026-09-02 19:49:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023862940695.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -146911,15 +146979,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-02 20:18:31",
-        "summary": "已抓取 16 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 AI算力、能源、半导体。",
+        "generatedAt": "2026-09-02 20:41:35",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：AI算力、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -146950,7 +147018,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-02 20:17:59",
+        "generatedAt": "2026-09-02 20:40:57",
         "summary": "上午情绪分 80，涨停 52 家，跌停 8 家，炸板 15 家，连板 13 家，最高 4 板。",
         "sections": [
           {
@@ -146989,7 +147057,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-02 20:17:59",
+        "generatedAt": "2026-09-02 20:40:57",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -147015,7 +147083,7 @@
               "今日炸板 15 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：美国2-30年期国债收益率均大幅走低；3连板龙版传媒：AI视频业务未产生营业收入。",
+              "新闻/公告风险：300123ST亚光投资者关系管理信息20260902；壹连科技:国泰海通证券股份有限公司关于深圳壹连科技股份有限公司申请向不特定对象发行可转换公司债券的审核问询函的回复。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
