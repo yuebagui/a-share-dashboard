@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-02",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-02 20:11:10",
+    "generatedAt": "2026-09-02 20:17:59",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -155344,26 +155344,22 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-02",
-    "generatedAt": "2026-09-02 20:12:15",
+    "generatedAt": "2026-09-02 20:18:31",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: ('Connection broken: IncompleteRead(2661 bytes read, 71563 more expected)', IncompleteRead(2661 bytes read, 71563 more expected))"
+      "notices: ('Connection broken: IncompleteRead(22933 bytes read, 44333 more expected)', IncompleteRead(22933 bytes read, 44333 more expected))",
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 能源、有色稀土、AI算力。",
+    "summary": "已抓取 16 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 AI算力、能源、半导体。",
     "themes": [
       {
-        "name": "能源",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
         "name": "AI算力",
-        "score": 8,
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -155449,125 +155445,47 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至8月28日当周API原油库存变动(万桶)",
-        "summary": "美国截至8月28日当周API原油库存变动(万桶)；公布 -259.3，预期 nan，前值 420.0。",
-        "publishedAt": "2026-09-02 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至8月28日当周API汽油库存变动(万桶)",
-        "summary": "美国截至8月28日当周API汽油库存变动(万桶)；公布 34.8，预期 nan，前值 -320.0。",
-        "publishedAt": "2026-09-02 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "美国8月ADP就业人数增加3.8万人 低于市场预期",
+        "summary": "美国8月ADP就业人数增加3.8万人，低于市场预期的4.8万人。",
+        "publishedAt": "2026-09-02 20:15:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862951655.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月1日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月1日iShares白银持仓-每日更新(吨)；公布 15359.92，预期 nan，前值 15359.92。",
-        "publishedAt": "2026-09-02 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "英国风力推进技术创企Anemoi将为马士基集装箱船提供旋翼帆系统",
+        "summary": "【英国风力推进技术创企Anemoi将为马士基集装箱船提供旋翼帆系统】据9月2日声明，英国风力推进技术创企Anemoi Marine Technologies将为马士基利马号集装箱船提供旋翼帆系统，以降低燃油消耗和碳排放。",
+        "publishedAt": "2026-09-02 20:10:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862951373.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月1日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月1日SPDR黄金持仓-每日更新(吨)；公布 1046.64，预期 nan，前值 1042.36。",
-        "publishedAt": "2026-09-02 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国8月31日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国8月31日COMEX黄金库存-每日更新(百盎司)；公布 273459.48，预期 nan，前值 273008.49。",
-        "publishedAt": "2026-09-02 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月1日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月1日iShares黄金持仓-每日更新(吨)；公布 460.5，预期 nan，前值 460.5。",
-        "publishedAt": "2026-09-02 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚8月AIG制造业表现指数",
-        "summary": "澳大利亚8月AIG制造业表现指数；公布 -16.6，预期 nan，前值 -19.6。",
-        "publishedAt": "2026-09-02 07:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "OpenAI的GPT-5.6 Cyber已集成至网络安全公司CrowdStrike的Falcon平台",
+        "summary": "OpenAI的GPT-5.6 Cyber已集成至网络安全公司CrowdStrike的Falcon平台。",
+        "publishedAt": "2026-09-02 20:09:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862950994.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
           "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚截至8月30日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至8月30日当周ANZ消费者信心指数；公布 74.9，预期 nan，前值 76.5。",
-        "publishedAt": "2026-09-02 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
@@ -155636,6 +155554,52 @@
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "WTI原油期货日内跌幅扩大至1% 此前一度涨超2%",
+        "summary": "【WTI原油期货日内跌幅扩大至1% 此前一度涨超2%】WTI原油期货价格跌1.04%，报89.283美元/桶，此前一度涨超2%；布伦特原油期货价格跌0.75%，报93.941美元/桶。",
+        "publishedAt": "2026-09-02 19:52:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862941834.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "OPPO位列7月国内手机市场销量第二",
+        "summary": "【OPPO位列7月国内手机市场销量第二】8月29日，知名终端供应链人士@RD观测公布了2026年7月国内手机市场份额数据。数据显示，OPPO以16.9%的份额位列国内第二。",
+        "publishedAt": "2026-09-02 19:50:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862940132.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国能源部长：美国可通过置换委内瑞拉原油来补充战略石油储备",
+        "summary": "美国能源部长赖特表示，美国可通过置换委内瑞拉原油来补充战略石油储备。",
+        "publishedAt": "2026-09-02 19:49:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609023862940695.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -155763,15 +155727,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-02 20:12:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 能源、有色稀土、AI算力。",
+        "generatedAt": "2026-09-02 20:18:31",
+        "summary": "已抓取 16 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 AI算力、能源、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：能源、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -155802,7 +155766,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-02 20:11:10",
+        "generatedAt": "2026-09-02 20:17:59",
         "summary": "上午情绪分 80，涨停 52 家，跌停 8 家，炸板 15 家，连板 13 家，最高 4 板。",
         "sections": [
           {
@@ -155841,7 +155805,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-02 20:11:10",
+        "generatedAt": "2026-09-02 20:17:59",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
