@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-02",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-02 01:20:24",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-02 01:20:24",
+    "lastNewsAt": "2026-09-02 12:56:28"
   },
   "indices": [
     {
@@ -155864,33 +155866,71 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-02",
-    "generatedAt": "2026-09-02 01:21:15",
+    "generatedAt": "2026-09-02 12:56:28",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
+        "name": "金融",
         "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
         "name": "AI算力",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 9,
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "宇晶股份:关于公司及子公司涉及诉讼事项暨子公司银行账户部分资金被冻结、部分资产被查封的公告",
+        "summary": "宇晶股份(002943)：宇晶股份:关于公司及子公司涉及诉讼事项暨子公司银行账户部分资金被冻结、部分资产被查封的公告",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002943/AN202609021828900615.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "宇晶股份(002943)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
       {
         "title": "柳钢股份:中联资产评估集团有限公司关于上海证券交易所《关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》资产评估相关问题答复之核查意见",
         "summary": "柳钢股份(601003)：柳钢股份:中联资产评估集团有限公司关于上海证券交易所《关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》资产评估相关问题答复之核查意见",
@@ -155976,95 +156016,11 @@
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "盛科通信:盛科通信关于最近五年未被证券监管部门和证券交易所采取监管措施或处罚的公告",
-        "summary": "盛科通信(688702)：盛科通信:盛科通信关于最近五年未被证券监管部门和证券交易所采取监管措施或处罚的公告",
-        "publishedAt": "2026-09-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688702/AN202609011828891250.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "盛科通信(688702)"
-        ],
-        "importance": 1,
-        "noticeType": "自查报告"
-      },
-      {
-        "title": "永杉锂业:永杉锂业关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "永杉锂业(603399)：永杉锂业:永杉锂业关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "publishedAt": "2026-09-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603399/AN202609011828891015.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [
-          "永杉锂业(603399)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "*ST新元:关于公司股票交易撤销退市风险警示并继续被实施其他风险警示暨停牌一天的公告",
-        "summary": "*ST新元(300472)：*ST新元:关于公司股票交易撤销退市风险警示并继续被实施其他风险警示暨停牌一天的公告",
-        "publishedAt": "2026-09-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300472/AN202609011828890688.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST新元(300472)"
-        ],
-        "importance": 1,
-        "noticeType": "撤销退市风险警示"
-      },
-      {
-        "title": "*ST新元:万向新元科技股份有限公司关于2025年年报问询函回复",
-        "summary": "*ST新元(300472)：*ST新元:万向新元科技股份有限公司关于2025年年报问询函回复",
-        "publishedAt": "2026-09-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300472/AN202609011828890687.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST新元(300472)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "康惠股份:康惠股份关于持股5%以上股东减持股份计划实施完成暨减持股份结果公告",
-        "summary": "康惠股份(603139)：康惠股份:康惠股份关于持股5%以上股东减持股份计划实施完成暨减持股份结果公告",
-        "publishedAt": "2026-09-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603139/AN202609011828890540.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "康惠股份(603139)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "现货钯金下跌3% 报每盎司1315.63美元",
-        "summary": "现货钯金下跌3%，报每盎司1315.63美元。",
-        "publishedAt": "2026-09-02 00:35:03",
+        "title": "巴基斯坦KSE-100指数下跌1%",
+        "summary": "巴基斯坦KSE-100指数下跌1%至174,701.10点。",
+        "publishedAt": "2026-09-02 12:36:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023861861425.html",
+        "url": "https://finance.eastmoney.com/a/202609023862622234.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -156074,20 +156030,84 @@
         "noticeType": ""
       },
       {
-        "title": "美联储理事巴尔：若通胀未缓解 应做好加息准备",
-        "summary": "【美联储理事巴尔：若通胀未缓解 应做好加息准备】美联储理事迈克尔·巴尔表示，如果通胀未能回落，美联储应做好加息准备。他警告称，通胀连续逾五年高于目标水平，价格压力存在固化风险。巴尔表示，如果未来公布的数据能够释放出通胀降温的信号，美联储有保持耐心的条件。“如果数据趋势让我对通胀正朝着2%目标回落建立起一定信心，那么我认为我们可以花更多时间评估当前的政策立场…",
-        "publishedAt": "2026-09-01 23:42:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609013861845231.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
+        "title": "002063远光软件投资者关系管理信息20260902",
+        "summary": "远光软件(002063)：002063远光软件投资者关系管理信息20260902",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002063/AN202609021828905400.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "远光软件(002063)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "汇川技术:投资者关系活动记录表（2026年8月31日）",
+        "summary": "汇川技术(300124)：汇川技术:投资者关系活动记录表（2026年8月31日）",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300124/AN202609021828904430.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汇川技术(300124)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "好想你:002582好想你投资者关系管理信息20260902",
+        "summary": "好想你(002582)：好想你:002582好想你投资者关系管理信息20260902",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002582/AN202609021828902933.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "好想你(002582)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "嘉立创:2026年9月1日投资者关系活动记录表",
+        "summary": "嘉立创(001232)：嘉立创:2026年9月1日投资者关系活动记录表",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001232/AN202609021828901678.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "嘉立创(001232)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "福晶科技:福晶科技投资者关系管理信息20260902",
+        "summary": "福晶科技(002222)：福晶科技:福晶科技投资者关系管理信息20260902",
+        "publishedAt": "2026-09-02",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002222/AN202609021828901057.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "福晶科技(002222)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "拓维信息:关于限制性股票回购注销完成的公告",
@@ -156108,43 +156128,27 @@
         "noticeType": "股本变动"
       },
       {
-        "title": "盛科通信:盛科通信关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "盛科通信(688702)：盛科通信:盛科通信关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "publishedAt": "2026-09-02",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688702/AN202609011828891253.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盛科通信(688702)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "美国官员：将继续推动美国私营部门对委内瑞拉的投资",
-        "summary": "【美国官员：将继续推动美国私营部门对委内瑞拉的投资】美国官员表示，关于委内瑞拉过渡安排的下一阶段谈判将于本月中旬恢复；将继续推动美国私营部门对委内瑞拉的投资。雪佛龙将宣布扩大在委内瑞拉的业务。美国能源部长赖特将于今晚前往委内瑞拉，并于明日出席相关协议签署。",
-        "publishedAt": "2026-09-02 00:46:20",
+        "title": "普华永道预计到2050年全球数据中心累计投资将达到31.6万亿美元",
+        "summary": "【普华永道预计到2050年全球数据中心累计投资将达到31.6万亿美元】普华永道预计，为满足全球不断增长的人工智能(AI)需求，到2050年全球数据中心累计支出将达到31.6万亿美元，投资规模将超过铁路、互联网和电气化等历史性基础设施建设浪潮。普华永道周三发布报告称，如果AI普及速度超过其“基准情景”预期，未来约25年的数据中心支出甚至可能达到50万亿美元。…",
+        "publishedAt": "2026-09-02 12:51:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023861865964.html",
+        "url": "https://finance.eastmoney.com/a/202609023862624166.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "能源"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国两年期国债收益率突破4.38% 创2025年1月以来新高",
-        "summary": "美国两年期国债收益率突破4.38%，创2025年1月以来新高。",
-        "publishedAt": "2026-09-02 00:33:19",
+        "title": "大普微：公司SCM SSD产品具备批量供应能力",
+        "summary": "【大普微：公司SCM SSD产品具备批量供应能力】近日，有投资者在互动平台向大普微提问：公司SCM出货量增加吗？是否有大批量的正式订单？9月2日，大普微回应称，公司SCM SSD产品具备批量供应能力，公司将根据客户需求持续推进相关产品的迭代研发与市场拓展。",
+        "publishedAt": "2026-09-02 12:48:48",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609023861861577.html",
+        "url": "https://finance.eastmoney.com/a/202609023862624084.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -156155,7 +156159,7 @@
       },
       {
         "title": "美国截至8月28日当周API原油库存变动(万桶)",
-        "summary": "美国截至8月28日当周API原油库存变动(万桶)；公布 nan，预期 nan，前值 420.0。",
+        "summary": "美国截至8月28日当周API原油库存变动(万桶)；公布 -259.3，预期 nan，前值 420.0。",
         "publishedAt": "2026-09-02 04:30",
         "source": "百度财经日历",
         "url": "",
@@ -156171,8 +156175,22 @@
       },
       {
         "title": "美国截至8月28日当周API汽油库存变动(万桶)",
-        "summary": "美国截至8月28日当周API汽油库存变动(万桶)；公布 nan，预期 nan，前值 -320.0。",
+        "summary": "美国截至8月28日当周API汽油库存变动(万桶)；公布 34.8，预期 nan，前值 -320.0。",
         "publishedAt": "2026-09-02 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月1日iShares白银持仓-每日更新(吨)",
+        "summary": "美国9月1日iShares白银持仓-每日更新(吨)；公布 15359.92，预期 nan，前值 15359.92。",
+        "publishedAt": "2026-09-02 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -156230,7 +156248,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -156243,15 +156261,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-02 01:21:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-09-02 12:56:28",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：保险、银行；首看 保险 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -156347,7 +156365,7 @@
               "今日炸板 6 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：柳钢股份:中联资产评估集团有限公司关于上海证券交易所《关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》资产评估相关问题答复之核查意见；柳钢股份:国信证券股份有限公司关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复之专项核查意见。",
+              "新闻/公告风险：宇晶股份:关于公司及子公司涉及诉讼事项暨子公司银行账户部分资金被冻结、部分资产被查封的公告；柳钢股份:中联资产评估集团有限公司关于上海证券交易所《关于柳州钢铁股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函》资产评估相关问题答复之核查意见。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
