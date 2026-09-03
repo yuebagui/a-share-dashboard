@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-03",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-03 01:10:56",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-03 01:10:56",
+    "lastNewsAt": "2026-09-03 12:54:01"
   },
   "indices": [
     {
@@ -146529,10 +146531,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-03",
-    "generatedAt": "2026-09-03 01:11:23",
+    "generatedAt": "2026-09-03 12:54:01",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 有色稀土、医药、半导体。",
     "themes": [
       {
         "name": "有色稀土",
@@ -146540,315 +146542,318 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 4,
+        "name": "医药",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 3,
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "瀚蓝环境:中联资产评估集团有限公司关于瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函评估相关问题回复之核查意见",
-        "summary": "瀚蓝环境(600323)：瀚蓝环境:中联资产评估集团有限公司关于瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函评估相关问题回复之核查意见",
+        "title": "*ST威领:002667*ST威领投资者关系管理信息20260903",
+        "summary": "*ST威领(002667)：*ST威领:002667*ST威领投资者关系管理信息20260903",
         "publishedAt": "2026-09-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600323/AN202609021828935884.html",
+        "url": "https://data.eastmoney.com/notices/detail/002667/AN202609031828948553.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "瀚蓝环境(600323)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "瀚蓝环境:华兴会计师事务所关于对瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复",
-        "summary": "瀚蓝环境(600323)：瀚蓝环境:华兴会计师事务所关于对瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600323/AN202609021828935890.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "瀚蓝环境(600323)"
-        ],
-        "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
-      },
-      {
-        "title": "瀚蓝环境:关于发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复的提示性公告",
-        "summary": "瀚蓝环境(600323)：瀚蓝环境:关于发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函回复的提示性公告",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600323/AN202609021828935887.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "瀚蓝环境(600323)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "瀚蓝环境:中信证券股份有限公司关于瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复之核查意见",
-        "summary": "瀚蓝环境(600323)：瀚蓝环境:中信证券股份有限公司关于瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复之核查意见",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600323/AN202609021828935882.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "瀚蓝环境(600323)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "瀚蓝环境:关于瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复",
-        "summary": "瀚蓝环境(600323)：瀚蓝环境:关于瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600323/AN202609021828935888.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "瀚蓝环境(600323)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "华特气体:广东华特气体股份有限公司股东减持股份计划公告",
-        "summary": "华特气体(688268)：华特气体:广东华特气体股份有限公司股东减持股份计划公告",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688268/AN202609021828934846.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "华特气体(688268)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "深科达:关于参加科创板2026年半年度半导体制造、设备及材料行业集体业绩说明会的公告",
-        "summary": "深科达(688328)：深科达:关于参加科创板2026年半年度半导体制造、设备及材料行业集体业绩说明会的公告",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688328/AN202609021828934730.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [
-          "深科达(688328)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "深科达:2026年限制性股票激励计划激励对象名单",
-        "summary": "深科达(688328)：深科达:2026年限制性股票激励计划激励对象名单",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688328/AN202609021828934734.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深科达(688328)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "深科达:2026年股权激励计划(草案)摘要公告",
-        "summary": "深科达(688328)：深科达:2026年股权激励计划(草案)摘要公告",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688328/AN202609021828934736.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深科达(688328)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划摘要"
-      },
-      {
-        "title": "深科达:深圳市深科达智能装备股份有限公司2026年限制性股票激励计划(草案)",
-        "summary": "深科达(688328)：深科达:深圳市深科达智能装备股份有限公司2026年限制性股票激励计划(草案)",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688328/AN202609021828934733.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深科达(688328)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "九州通:九州通关于2026年半年度业绩说明会召开情况的公告",
-        "summary": "九州通(600998)：九州通:九州通关于2026年半年度业绩说明会召开情况的公告",
-        "publishedAt": "2026-09-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600998/AN202609021828934700.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "九州通(600998)"
+          "*ST威领(002667)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "双元科技:关于以集中竞价交易方式回购公司股份的进展公告",
-        "summary": "双元科技(688623)：双元科技:关于以集中竞价交易方式回购公司股份的进展公告",
+        "title": "黄仁勋详解“AI经济学”",
+        "summary": "【黄仁勋详解“AI经济学”】当地时间9月2日，在美国北卡罗来纳州教堂山举行的G20创新部长级会议上，英伟达创始人兼首席执行官黄仁勋与美国商务部长霍华德·卢特尼克展开炉边对话，向各国官员阐述其“AI经济学”。在黄仁勋看来，AI正在从一种软件技术演变为与道路、电力、互联网类似的国家级经济基础设施。对各国而言，这轮产业革命最大的风险不是AI本身，而是投资和应用不…",
+        "publishedAt": "2026-09-03 12:40:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609033863891563.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "港股午评：恒生指数涨0.02% 恒生科技指数跌0.56%",
+        "summary": "【港股午评：恒生指数涨0.02% 恒生科技指数跌0.56%】港股午间收盘，恒生指数涨0.02%，恒生科技指数跌0.56%。大型科网股多数下跌，小米集团跌逾3%，美团、京东、阿里巴巴跌超1%。黄金股普涨，潼关黄金、紫金黄金国际涨逾8%，赤峰黄金涨超7%。",
+        "publishedAt": "2026-09-03 12:10:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609033863884474.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "唐人神:2026年9月2日投资者关系活动记录表",
+        "summary": "唐人神(002567)：唐人神:2026年9月2日投资者关系活动记录表",
         "publishedAt": "2026-09-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688623/AN202609021828934481.html",
+        "url": "https://data.eastmoney.com/notices/detail/002567/AN202609031828953991.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "唐人神(002567)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "唐人神:2026年8月31日-9月1日投资者关系活动记录表",
+        "summary": "唐人神(002567)：唐人神:2026年8月31日-9月1日投资者关系活动记录表",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002567/AN202609031828953990.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "唐人神(002567)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "凌霄泵业:关于公司使用闲置自有资金购买理财产品的公告",
+        "summary": "凌霄泵业(002884)：凌霄泵业:关于公司使用闲置自有资金购买理财产品的公告",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002884/AN202609031828953264.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "凌霄泵业(002884)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "003000劲仔食品投资者关系管理信息20260903",
+        "summary": "劲仔食品(003000)：003000劲仔食品投资者关系管理信息20260903",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003000/AN202609031828948516.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "劲仔食品(003000)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "古汉医药:000590古汉医药投资者关系管理信息20260903",
+        "summary": "古汉医药(000590)：古汉医药:000590古汉医药投资者关系管理信息20260903",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000590/AN202609031828948554.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "医药"
         ],
         "tickers": [
-          "双元科技(688623)"
+          "古汉医药(000590)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "调研活动"
       },
       {
-        "title": "通胀与债务双重承压 日本10年期国债收益率再创新高",
-        "summary": "【通胀与债务双重承压 日本10年期国债收益率再创新高】继9月1日日本10年期国债收益率一度升至3%、创近30年来新高之后，2日，日本10年期国债收益率一度突破3%，升至3.015%。据日本相互证券数据，这是自1996年9月以来的最高水平。",
-        "publishedAt": "2026-09-03 00:40:42",
+        "title": "泰嘉股份:002843泰嘉股份投资者关系管理信息20260903",
+        "summary": "泰嘉股份(002843)：泰嘉股份:002843泰嘉股份投资者关系管理信息20260903",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002843/AN202609031828948466.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "泰嘉股份(002843)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "比亚迪:2026年9月1日投资者关系活动记录表",
+        "summary": "比亚迪(002594)：比亚迪:2026年9月1日投资者关系活动记录表",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002594/AN202609031828948389.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "比亚迪(002594)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002270华明装备投资者关系管理信息20260903",
+        "summary": "华明装备(002270)：002270华明装备投资者关系管理信息20260903",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002270/AN202609031828948447.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华明装备(002270)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "嘉立创:2026年9月2日投资者关系活动记录表",
+        "summary": "嘉立创(001232)：嘉立创:2026年9月2日投资者关系活动记录表",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001232/AN202609031828948387.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "嘉立创(001232)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "盐津铺子:湖南辖区2026年度投资者网上集体接待日暨半年度业绩说明会投资者关系活动记录表",
+        "summary": "盐津铺子(002847)：盐津铺子:湖南辖区2026年度投资者网上集体接待日暨半年度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002847/AN202609031828948388.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盐津铺子(002847)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002582好想你投资者关系管理信息20260903",
+        "summary": "好想你(002582)：002582好想你投资者关系管理信息20260903",
+        "publishedAt": "2026-09-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002582/AN202609031828947137.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "好想你(002582)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "商务部副部长凌激与欧委会贸易和经济安全总司雷东内副总司长开展经贸磋商",
+        "summary": "【商务部副部长凌激与欧委会贸易和经济安全总司雷东内副总司长开展经贸磋商】商务部副部长兼国际贸易谈判副代表凌激带领中方团队，与欧委会贸易和经济安全总司副总司长雷东内带领的欧方团队8月31日—9月2日在京开展了经贸磋商，为中欧贸易投资磋商机制第二次会议作准备。",
+        "publishedAt": "2026-09-03 12:23:08",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609033863144493.html",
+        "url": "https://finance.eastmoney.com/a/202609033863887494.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月2日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月2日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.5。",
-        "publishedAt": "2026-09-03 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月2日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月2日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15359.92。",
-        "publishedAt": "2026-09-03 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "雀巢获批在泰国投资逾64亿泰铢扩大宠物食品生产",
+        "summary": "【雀巢获批在泰国投资逾64亿泰铢扩大宠物食品生产】9月3日，泰国投资促进委员会（BOI）批准雀巢泰国两项投资计划，投资总额超过64亿泰铢（约1.94亿美元），用于在罗勇府AmataCity工业园区扩大宠物食品及宠物零食生产。其中，宠物食品项目投资约45亿泰铢，宠物零食项目约19.3亿泰铢。",
+        "publishedAt": "2026-09-03 12:22:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609033863887362.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月1日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月1日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 273459.48。",
-        "publishedAt": "2026-09-03 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月2日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月2日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1046.64。",
-        "publishedAt": "2026-09-03 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚7月进口月率(%)",
-        "summary": "澳大利亚7月进口月率(%)；公布 nan，预期 nan，前值 -0.2。",
-        "publishedAt": "2026-09-03 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "凌激与欧委会贸易和经济安全总司副总司长雷东内开展经贸磋商",
+        "summary": "【凌激与欧委会贸易和经济安全总司副总司长雷东内开展经贸磋商】8月31日-9月2日，商务部副部长兼国际贸易谈判副代表凌激带领中方团队，与欧委会贸易和经济安全总司副总司长雷东内带领的欧方团队在京开展了经贸磋商，为中欧贸易投资磋商机制第二次会议作准备。",
+        "publishedAt": "2026-09-03 12:22:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609033863887247.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "从贵州茅台到泡泡玛特：“老登股”退回原点 新消费走到台前",
+        "summary": "【从贵州茅台到泡泡玛特：“老登股”退回原点 新消费走到台前】白酒股的投资者还在等价值回归，新消费的拥趸也在等“泡沫”消化后的二次起飞。业界看来，“旧王”不会马上退场，“新贵”也在波动当中，但是当泡泡玛特们正逐步走到台前时，预示着中国的消费行业正在从传统的“存量博弈”，转变到寻求创新以及新的市场增量。",
+        "publishedAt": "2026-09-03 12:21:54",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609033863886911.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -146961,7 +146966,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -146974,15 +146979,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-03 01:11:23",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-09-03 12:54:01",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 有色稀土、医药、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -147078,7 +147083,7 @@
               "今日炸板 15 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：瀚蓝环境:中联资产评估集团有限公司关于瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函评估相关问题回复之核查意见；瀚蓝环境:华兴会计师事务所关于对瀚蓝环境股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易申请的审核问询函的回复。",
+              "新闻/公告风险：*ST威领:002667*ST威领投资者关系管理信息20260903；黄仁勋详解“AI经济学”。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
