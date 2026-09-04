@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-04",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-05 00:48:45",
+    "generatedAt": "2026-09-05 00:53:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -140950,20 +140950,28 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-04",
-    "generatedAt": "2026-09-05 00:49:45",
+    "generatedAt": "2026-09-05 00:53:52",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 AI算力、金融、汽车链。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
+        "name": "有色稀土",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
-        "score": 4,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "金融",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 3,
         "isFocusBoard": false
       },
@@ -141188,75 +141196,79 @@
         "noticeType": ""
       },
       {
-        "title": "贝莱德的Rosenberg称非农大超预期后 下周的通胀数据更显关键",
-        "summary": "【贝莱德的Rosenberg称非农大超预期后 下周的通胀数据更显关键】贝莱德的投资组合经理JeffRosenberg表示，美国8月就业增长大幅超出预期，在美联储决策者考虑是否需要加息之际，凸显下周消费者价格指数的重要性。“这基本印证了我们此前对劳动力市场的判断，也把焦点和压力重新带回到通胀上，”Rosenberg周五表示。",
-        "publishedAt": "2026-09-04 23:19:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609043865753270.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国截至9月2日美联储资产负债表(万亿美元)",
+        "summary": "美国截至9月2日美联储资产负债表(万亿美元)；公布 6.74，预期 nan，前值 6.73。",
+        "publishedAt": "2026-09-04 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国2026年已记录逾3100例麻疹病例",
-        "summary": "【美国2026年已记录逾3100例麻疹病例】当地时间9月4日，美国疾病控制与预防中心（CDC）表示，今年迄今为止，美国已确诊3134例麻疹病例，创下35年多来的年度最高纪录。",
-        "publishedAt": "2026-09-05 00:46:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609053865774748.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月3日iShares白银持仓-每日更新(吨)",
+        "summary": "美国9月3日iShares白银持仓-每日更新(吨)；公布 15319.69，预期 nan，前值 15319.69。",
+        "publishedAt": "2026-09-04 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国总统特朗普表示:美国利率应该全球最低 经济增长不会导致通货膨胀",
-        "summary": "美国总统特朗普表示，美国利率应该全球最低，经济增长不会导致通货膨胀。",
-        "publishedAt": "2026-09-05 00:33:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609053865772753.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "工信部部长李乐成：在深圳建设亚太中小企业合作区",
-        "summary": "【工信部部长李乐成：在深圳建设亚太中小企业合作区】据深圳发布，9月4日，在第32次亚太经合组织（APEC）中小企业部长会议新闻发布会上，工业和信息化部部长李乐成介绍，本次会议中方发起在广州设立亚太人工智能赋能中小企业发展合作中心、在深圳建设亚太中小企业合作区。",
-        "publishedAt": "2026-09-05 00:30:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609053865772570.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月3日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国9月3日iShares黄金持仓-每日更新(吨)；公布 460.57，预期 nan，前值 460.4。",
+        "publishedAt": "2026-09-04 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "苏丹南部遭武装分子袭击 21名平民死亡",
-        "summary": "【苏丹南部遭武装分子袭击 21名平民死亡】当地时间9月4日，苏丹民间机构“苏丹医生网”发表声明称，苏丹南部南科尔多凡州多个地区遭遇武装分子袭击，造成包括妇女儿童在内的21名平民死亡，另有多人受伤。",
-        "publishedAt": "2026-09-05 00:24:48",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609053865771734.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
+        "title": "美国9月3日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国9月3日SPDR黄金持仓-每日更新(吨)；公布 1053.48，预期 nan，前值 1056.62。",
+        "publishedAt": "2026-09-04 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月2日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国9月2日COMEX黄金库存-每日更新(百盎司)；公布 273776.17，预期 nan，前值 273456.59。",
+        "publishedAt": "2026-09-04 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -141613,15 +141625,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-05 00:49:45",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 AI算力、金融、汽车链。",
+        "generatedAt": "2026-09-05 00:53:52",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、军工装备；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、汽车链；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -141652,7 +141664,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-05 00:48:45",
+        "generatedAt": "2026-09-05 00:53:07",
         "summary": "上午情绪分 53，涨停 39 家，跌停 9 家，炸板 48 家，连板 7 家，最高 5 板。",
         "sections": [
           {
@@ -141691,7 +141703,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-05 00:48:45",
+        "generatedAt": "2026-09-05 00:53:07",
         "summary": "市场温度 弱，情绪周期偏分歧。修复力度一般，仓位不宜激进",
         "sections": [
           {
