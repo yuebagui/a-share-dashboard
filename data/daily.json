@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-04",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-04 01:03:38",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-04 01:03:38",
+    "lastNewsAt": "2026-09-04 12:57:51"
   },
   "indices": [
     {
@@ -133047,23 +133049,33 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-04",
-    "generatedAt": "2026-09-04 01:04:30",
+    "generatedAt": "2026-09-04 12:57:51",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 汽车链、有色稀土、能源。",
     "themes": [
       {
+        "name": "汽车链",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
-        "score": 17,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 10,
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "机器人",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 4,
         "isFocusBoard": false
       },
@@ -133073,13 +133085,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 3,
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -133089,6 +133096,22 @@
       }
     ],
     "items": [
+      {
+        "title": "明阳电气:关于控股股东部分股份解除质押的公告",
+        "summary": "明阳电气(301291)：明阳电气:关于控股股东部分股份解除质押的公告",
+        "publishedAt": "2026-09-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301291/AN202609041828996359.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "明阳电气(301291)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
       {
         "title": "明新旭腾:明新旭腾股票交易风险提示的公告",
         "summary": "明新旭腾(605068)：明新旭腾:明新旭腾股票交易风险提示的公告",
@@ -133154,61 +133177,11 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "中电港:关于持股5%以上股东减持计划到期的公告",
-        "summary": "中电港(001287)：中电港:关于持股5%以上股东减持计划到期的公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001287/AN202609031828973640.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "中电港(001287)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "*ST美芝:关于公开招募和遴选投资人的公告",
-        "summary": "*ST美芝(002856)：*ST美芝:关于公开招募和遴选投资人的公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002856/AN202609031828973231.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST美芝(002856)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "佛塑科技:佛塑科技关于最近五年不存在被证券监管部门和交易所处罚或采取监管措施情况的公告",
-        "summary": "佛塑科技(000973)：佛塑科技:佛塑科技关于最近五年不存在被证券监管部门和交易所处罚或采取监管措施情况的公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000973/AN202609031828973206.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "佛塑科技(000973)"
-        ],
-        "importance": 1,
-        "noticeType": "处罚"
-      },
-      {
-        "title": "海能技术：实控人王志刚拟减持不超1.95%股份",
-        "summary": "【海能技术：实控人王志刚拟减持不超1.95%股份】海能技术公告，控股股东、实际控制人王志刚计划自公告披露之日起30个交易日后3个月内，通过集中竞价或大宗交易方式减持不高于1,750,000股，占总股本比例1.9534%。",
-        "publishedAt": "2026-09-03 23:56:45",
+        "title": "贵州茅台回来了",
+        "summary": "【贵州茅台回来了】9月4日早间，贵州茅台股价震荡走高，盘中一度涨超3%，最高触及1338.86元/股，回补半年报发布后股价下跌形成的缺口。截至午间收盘，贵州茅台涨2.35%，报1329.38元/股，总市值1.7万亿元。",
+        "publishedAt": "2026-09-04 12:45:35",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609033864428377.html",
+        "url": "https://finance.eastmoney.com/a/202609043865222656.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -133216,6 +133189,122 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "挪威石油基金管理方或减持800亿美元美国国债",
+        "summary": "据报道，挪威银行投资管理公司（NBIM）作为挪威主权财富基金的运营方，已提出一项政府债券投资组合全面改革方案，据测算该调整可能使其持有的美国国债规模缩减约800亿美元。",
+        "publishedAt": "2026-09-04 12:18:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609043865224410.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "开立医疗:2026年9月1-3日投资者关系活动记录表",
+        "summary": "开立医疗(300633)：开立医疗:2026年9月1-3日投资者关系活动记录表",
+        "publishedAt": "2026-09-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300633/AN202609041828998489.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "开立医疗(300633)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "新和成:2026年9月3日投资者关系活动记录表",
+        "summary": "新和成(002001)：新和成:2026年9月3日投资者关系活动记录表",
+        "publishedAt": "2026-09-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002001/AN202609041828995064.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新和成(002001)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "盘龙药业:002864盘龙药业投资者关系管理信息20260903",
+        "summary": "盘龙药业(002864)：盘龙药业:002864盘龙药业投资者关系管理信息20260903",
+        "publishedAt": "2026-09-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002864/AN202609041828992138.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盘龙药业(002864)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "好想你:002582好想你投资者关系管理信息20260904",
+        "summary": "好想你(002582)：好想你:002582好想你投资者关系管理信息20260904",
+        "publishedAt": "2026-09-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002582/AN202609041828990597.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "好想你(002582)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "南网能源:2026年9月3日投资者关系活动记录表",
+        "summary": "南网能源(003035)：南网能源:2026年9月3日投资者关系活动记录表",
+        "publishedAt": "2026-09-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003035/AN202609041828988416.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "南网能源(003035)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鲁阳节能:关于间接控股股东筹划破产重组暨公司实际控制人拟变更事项的进展公告",
+        "summary": "鲁阳节能(002088)：鲁阳节能:关于间接控股股东筹划破产重组暨公司实际控制人拟变更事项的进展公告",
+        "publishedAt": "2026-09-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002088/AN202609041828987948.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鲁阳节能(002088)"
+        ],
+        "importance": 1,
+        "noticeType": "公司关联方基本资料变更"
       },
       {
         "title": "行云科技:湖南麓骏律师事务所关于行云科技股份有限公司签署重大合同之法律意见书",
@@ -133234,75 +133323,11 @@
         "noticeType": "法律意见书"
       },
       {
-        "title": "佛塑科技:佛塑科技关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "佛塑科技(000973)：佛塑科技:佛塑科技关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000973/AN202609031828973191.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佛塑科技(000973)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "紫光国微:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报集体业绩说明会的公告",
-        "summary": "紫光国微(002049)：紫光国微:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报集体业绩说明会的公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002049/AN202609031828973224.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "紫光国微(002049)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "佛塑科技:佛塑科技关于对外投资的公告",
-        "summary": "佛塑科技(000973)：佛塑科技:佛塑科技关于对外投资的公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000973/AN202609031828973238.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佛塑科技(000973)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "芯海科技:关于公司2023年限制性股票激励计划首次授予及预留授予部分第二个归属期符合归属条件的公告",
-        "summary": "芯海科技(688595)：芯海科技:关于公司2023年限制性股票激励计划首次授予及预留授予部分第二个归属期符合归属条件的公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688595/AN202609031828972906.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "芯海科技(688595)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "谷歌自10月30日起更新个性化广告政策 允许在当地法律允许的情况下在YouTube广告资源中投放酒类广告",
-        "summary": "谷歌自10月30日起更新个性化广告政策，允许在当地法律允许的情况下，在YouTube广告资源中投放酒类广告。",
-        "publishedAt": "2026-09-04 00:49:32",
+        "title": "国家发展改革委追加安排1亿元中央预算内投资支持福建进一步做好台风灾害灾后应急恢复",
+        "summary": "【国家发展改革委追加安排1亿元中央预算内投资支持福建进一步做好台风灾害灾后应急恢复】近期，受台风“简拉维”“沙德尔”及其带来的强降雨影响，福建省泉州、漳州、宁德、莆田等多地发生洪涝灾害，国家防减救灾委、应急管理部启动国家四级救灾应急响应。国家发展改革委在前期工作基础上，追加安排1亿元中央预算内投资，支持福建省进一步做好灾区灾后应急恢复，推动尽快恢复正常生产…",
+        "publishedAt": "2026-09-04 12:49:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609043864435760.html",
+        "url": "https://finance.eastmoney.com/a/202609043865227478.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -133312,63 +133337,47 @@
         "noticeType": ""
       },
       {
-        "title": "惠同新材：目前金属纤维的产能利用率已经满负荷运行",
-        "summary": "【惠同新材：目前金属纤维的产能利用率已经满负荷运行】惠同新材发布投资者关系活动记录表，公司目前金属纤维的产能利用率已经满负荷运行，金属纤维制品产能利用率仍有提升空间。影响募投项目投产的原因是募投项目建设用地和公共设施的配套问题，目前募投项目相关工作正在稳步推进中。",
-        "publishedAt": "2026-09-03 23:57:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609033864428591.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国截至9月2日美联储资产负债表(万亿美元)",
+        "summary": "美国截至9月2日美联储资产负债表(万亿美元)；公布 6.74，预期 nan，前值 6.73。",
+        "publishedAt": "2026-09-04 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "族兴新材：海外市场是公司重要的增长引擎和战略方向",
-        "summary": "【族兴新材：海外市场是公司重要的增长引擎和战略方向】族兴新材发布投资者关系活动记录表，海外市场是公司重要的增长引擎和战略方向，这一战略背后，是公司深耕行业多年积累的技术实力，主导行业标准制定，能够规模化生产全系列高端铝颜料产品。同时，公司作为产业链一体化企业，自主供应微细球形铝粉核心原材料，有效控制成本并保障品质稳定，为海外市场拓展提供了坚实的供应链支撑。",
-        "publishedAt": "2026-09-03 23:57:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609033864428951.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国9月3日iShares白银持仓-每日更新(吨)",
+        "summary": "美国9月3日iShares白银持仓-每日更新(吨)；公布 15319.69，预期 nan，前值 15319.69。",
+        "publishedAt": "2026-09-04 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月3日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国9月3日iShares黄金持仓-每日更新(吨)；公布 460.57，预期 nan，前值 460.4。",
+        "publishedAt": "2026-09-04 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
           "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "辰光医疗：射频探测器保持稳定发展",
-        "summary": "【辰光医疗：射频探测器保持稳定发展】辰光医疗发布投资者关系活动记录表，射频探测器自公司成立以来即为公司的核心产品，凭借着优秀的产品设计能力和长期积累的工艺经验，保持着较高的市场占有率。在公司战略转型过程中，作为公司最重要的盈利产品，射频探测器保持稳定发展，但仍有一定增长潜力。",
-        "publishedAt": "2026-09-03 23:56:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609033864429676.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "五新智能：目前公司产品已远销南美洲、非洲、东南亚、中东等20多个国家和地区",
-        "summary": "【五新智能：目前公司产品已远销南美洲、非洲、东南亚、中东等20多个国家和地区】五新智能发布投资者关系活动记录表，公司坚定贯彻国际化战略，国际化布局持续深化，海外业务将成为公司高质量发展的重要增长引擎；目前公司产品已远销南美洲、非洲、东南亚、中东等20多个国家和地区。",
-        "publishedAt": "2026-09-03 23:56:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609033864429021.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -133607,7 +133616,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -133620,15 +133629,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-04 01:04:30",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-09-04 12:57:51",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 汽车链、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：保险、贵金属、工业金属；首看 保险 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：汽车链、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -133724,7 +133733,7 @@
               "今日炸板 33 只，追高前先看前排封单和回封质量。",
               "今日跌停 16 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：明新旭腾:明新旭腾股票交易风险提示的公告；龙版传媒:股票交易异常波动暨风险提示公告。",
+              "新闻/公告风险：明阳电气:关于控股股东部分股份解除质押的公告；明新旭腾:明新旭腾股票交易风险提示的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
