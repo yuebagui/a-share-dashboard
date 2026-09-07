@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-04",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-05 00:53:07",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-05 00:53:07",
+    "lastNewsAt": "2026-09-07 13:05:14"
   },
   "indices": [
     {
@@ -140949,326 +140951,339 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-04",
-    "generatedAt": "2026-09-05 00:53:52",
+    "tradeDate": "2026-09-07",
+    "generatedAt": "2026-09-07 13:05:14",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 12,
+        "name": "金融",
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "有色稀土",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 3,
+        "name": "AI算力",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "低空经济",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST仕净:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
-        "summary": "*ST仕净(301030)：*ST仕净:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301030/AN202609041829024521.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "财政部大手笔“领衔”注资这三家银行！将撬动多大信贷空间？",
+        "summary": "【财政部大手笔“领衔”注资这三家银行！将撬动多大信贷空间？】9月6日晚，工商银行、农业银行、中国进出口银行、中国信保、中国人保集团、中国人寿集团、中国太平和中国再保等8家中央金融企业集中发布增资计划，合计补充资本3600亿元。其中，3000亿元由财政部认购。专家认为，在全球地缘政治博弈加剧、产业链重构加速的背景下，此次注资将显著提升其服务实体经济与对外开放…",
+        "publishedAt": "2026-09-07 13:03:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609073866552548.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST仕净(301030)"
+        "themes": [
+          "金融"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": ""
       },
       {
-        "title": "金马游乐:致同会计师事务所(特殊普通合伙)关于广东金马游乐股份有限公司申请向特定对象发行股票的审核问询函中有关财务会计问题的回复(修订稿)",
-        "summary": "金马游乐(300756)：金马游乐:致同会计师事务所(特殊普通合伙)关于广东金马游乐股份有限公司申请向特定对象发行股票的审核问询函中有关财务会计问题的回复(修订稿)",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300756/AN202609041829024484.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "中国塑料加工工业协会：警惕盲目扩产风险 推动隔膜产业理性发展",
+        "summary": "【中国塑料加工工业协会：警惕盲目扩产风险 推动隔膜产业理性发展】9月7日，中国塑料加工工业协会发布《关于警惕盲目扩产风险推动隔膜产业理性发展的倡议》。《倡议》称，经历一轮市场变化之后，隔膜行业迎来阶段性回暖，市场信心有所修复，整体看行业即将迎来较好发展机会。但在行业景气度回升的背景下，新一轮投资扩张热潮也正在快速涌动，潜在风险应引起全行业高度警惕。",
+        "publishedAt": "2026-09-07 12:59:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609073866546869.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "金马游乐(300756)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": ""
       },
       {
-        "title": "志晟信息:股东拟减持股份的预披露公告",
-        "summary": "志晟信息(920171)：志晟信息:股东拟减持股份的预披露公告",
-        "publishedAt": "2026-09-04",
+        "title": "燃料市场混乱加剧！炼油厂追逐柴油利润之际 船用燃料面临短缺威胁",
+        "summary": "【燃料市场混乱加剧！炼油厂追逐柴油利润之际 船用燃料面临短缺威胁】美伊冲突扰乱了全球的原油和燃料运输，这让炼油商的压力越来越大，陷入了顾此失彼的困境当中。在柴油价格屡创新高的背景下，炼油商不得不优先生产柴油和其他成品油，这导致船舶和发电厂使用的燃料油可能在本季度陷入短缺。",
+        "publishedAt": "2026-09-07 12:49:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609073866528586.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "财通福鑫定开混合：9月7日下午开盘起至当日收盘停牌",
+        "summary": "【财通福鑫定开混合：9月7日下午开盘起至当日收盘停牌】财通基金管理有限公司公告，截至2026年9月7日上海证券交易所午间收盘，财通基金管理有限公司旗下财通多策略福鑫定期开放灵活配置混合型发起式证券投资基金二级市场交易价格严重高于基金份额净值，出现极大幅度溢价。特此提示投资者关注二级市场交易价格溢价风险，投资者如果盲目投资，可能遭受重大损失。为维护投资者利益…",
+        "publishedAt": "2026-09-07 12:41:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609073866536596.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中工国际:2026年9月4日投资者关系活动记录表",
+        "summary": "中工国际(002051)：中工国际:2026年9月4日投资者关系活动记录表",
+        "publishedAt": "2026-09-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920171/AN202609041829020278.html",
+        "url": "https://data.eastmoney.com/notices/detail/002051/AN202609071829087233.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "志晟信息(920171)"
+          "中工国际(002051)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "调研活动"
       },
       {
-        "title": "关于对山东新华锦国际股份有限公司予以监管警示的决定",
-        "summary": "ST新华锦(600735)：关于对山东新华锦国际股份有限公司予以监管警示的决定",
-        "publishedAt": "2026-09-04",
+        "title": "摩尔线程:投资者关系活动记录表(2026-02)",
+        "summary": "摩尔线程(688795)：摩尔线程:投资者关系活动记录表(2026-02)",
+        "publishedAt": "2026-09-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600735/AN202609041829026672.html",
+        "url": "https://data.eastmoney.com/notices/detail/688795/AN202609071829093274.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "ST新华锦(600735)"
+          "摩尔线程(688795)"
         ],
         "importance": 1,
-        "noticeType": "上交所股票监管关注"
+        "noticeType": "调研活动"
       },
       {
-        "title": "苏州银行:2026年9月4日投资者关系活动记录表",
-        "summary": "苏州银行(002966)：苏州银行:2026年9月4日投资者关系活动记录表",
-        "publishedAt": "2026-09-04",
+        "title": "温氏股份:2026年9月2日-4日投资者关系活动记录表",
+        "summary": "温氏股份(300498)：温氏股份:2026年9月2日-4日投资者关系活动记录表",
+        "publishedAt": "2026-09-07",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002966/AN202609041829024836.html",
+        "url": "https://data.eastmoney.com/notices/detail/300498/AN202609071829092271.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "温氏股份(300498)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中粮科技:关于参加2026年安徽上市公司投资者网上集体接待日活动的公告",
+        "summary": "中粮科技(000930)：中粮科技:关于参加2026年安徽上市公司投资者网上集体接待日活动的公告",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000930/AN202609071829092215.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中粮科技(000930)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "新北洋:2026年9月4日投资者关系活动记录表",
+        "summary": "新北洋(002376)：新北洋:2026年9月4日投资者关系活动记录表",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002376/AN202609071829090623.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新北洋(002376)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "光洋股份:2026年9月6日投资者关系活动记录表",
+        "summary": "光洋股份(002708)：光洋股份:2026年9月6日投资者关系活动记录表",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002708/AN202609071829088848.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "光洋股份(002708)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长青集团:002616长青集团投资者关系管理信息20260907",
+        "summary": "长青集团(002616)：长青集团:002616长青集团投资者关系管理信息20260907",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002616/AN202609071829088576.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长青集团(002616)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "潍柴动力:2026年9月4日投资者关系活动记录表",
+        "summary": "潍柴动力(000338)：潍柴动力:2026年9月4日投资者关系活动记录表",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000338/AN202609071829088575.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "潍柴动力(000338)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:041-2026年9月4日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:041-2026年9月4日投资者关系活动记录表",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202609071829088227.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300328宜安科技投资者关系管理信息20260907",
+        "summary": "宜安科技(300328)：300328宜安科技投资者关系管理信息20260907",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300328/AN202609071829087015.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宜安科技(300328)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "爱迪特:301580爱迪特投资者关系管理信息20260904",
+        "summary": "爱迪特(301580)：爱迪特:301580爱迪特投资者关系管理信息20260904",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301580/AN202609071829086766.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "爱迪特(301580)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中国人保:中国人保关于本次向特定对象发行A股股票不存在向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "中国人保(601319)：中国人保:中国人保关于本次向特定对象发行A股股票不存在向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-09-07",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601319/AN202609061829079677.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中国人保(601319)"
+        ],
+        "importance": 1,
+        "noticeType": "获得补贴（资助）"
+      },
+      {
+        "title": "超十家车企掀起新一轮促销战",
+        "summary": "【超十家车企掀起新一轮促销战】“金九银十”刚至，车市又掀起了新一轮的促销战。据记者不完全统计，已有超过十家车企在9月集中释放购车权益，覆盖新势力、自主、合资与豪华品牌全阵营，主要促销措施包括金融政策、现金直降、置换补贴、一口价等形式。",
+        "publishedAt": "2026-09-07 13:00:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609073866546952.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "苏州银行(002966)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "崇达技术:2026年9月4日投资者关系活动记录表",
-        "summary": "崇达技术(002815)：崇达技术:2026年9月4日投资者关系活动记录表",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002815/AN202609041829024745.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "崇达技术(002815)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华润三九:2026年9月4日投资者关系活动记录表",
-        "summary": "华润三九(000999)：华润三九:2026年9月4日投资者关系活动记录表",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000999/AN202609041829027049.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华润三九(000999)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中石科技:2026年8月26日-28日、9月1日-3日投资者关系活动记录表",
-        "summary": "中石科技(300684)：中石科技:2026年8月26日-28日、9月1日-3日投资者关系活动记录表",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300684/AN202609041829026634.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中石科技(300684)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金杨精密:301210金杨精密投资者关系管理信息20260904",
-        "summary": "金杨精密(301210)：金杨精密:301210金杨精密投资者关系管理信息20260904",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301210/AN202609041829026354.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金杨精密(301210)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "正海磁材:2026年9月4日投资者关系活动记录表",
-        "summary": "正海磁材(300224)：正海磁材:2026年9月4日投资者关系活动记录表",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300224/AN202609041829026280.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "正海磁材(300224)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "比亚迪:2026年9月3日投资者关系活动记录表",
-        "summary": "比亚迪(002594)：比亚迪:2026年9月3日投资者关系活动记录表",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002594/AN202609041829026277.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "比亚迪(002594)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "002126银轮股份投资者关系管理信息20260904",
-        "summary": "银轮股份(002126)：002126银轮股份投资者关系管理信息20260904",
-        "publishedAt": "2026-09-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002126/AN202609041829026144.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "银轮股份(002126)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美联储哈玛克表示:美联储政策并未具有限制性 且通胀仍然过高",
-        "summary": "美联储哈玛克表示，美联储政策并未具有限制性，且通胀仍然过高。",
-        "publishedAt": "2026-09-05 00:32:06",
+        "title": "机器人数据喷涌 但危险的信号也出现了",
+        "summary": "【机器人数据喷涌 但危险的信号也出现了】近两年来，国内众多企业砸下重金，投资于物理AI数据领域，使得更多真实世界的数据涌出，一定程度上缓解了“数据荒”。不过，机器人业内普遍共识是，现在物理AI数据量，不足以促成机器人到达智能涌现的时刻。同时，近期部分数据采集项目的失利，意味着不少真金白银投向了错误的技术路线。",
+        "publishedAt": "2026-09-07 12:53:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609053865772642.html",
+        "url": "https://finance.eastmoney.com/a/202609073866521685.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "AI算力",
+          "机器人"
+        ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至9月2日美联储资产负债表(万亿美元)",
-        "summary": "美国截至9月2日美联储资产负债表(万亿美元)；公布 6.74，预期 nan，前值 6.73。",
-        "publishedAt": "2026-09-04 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月3日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月3日iShares白银持仓-每日更新(吨)；公布 15319.69，预期 nan，前值 15319.69。",
-        "publishedAt": "2026-09-04 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月3日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月3日iShares黄金持仓-每日更新(吨)；公布 460.57，预期 nan，前值 460.4。",
-        "publishedAt": "2026-09-04 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月3日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月3日SPDR黄金持仓-每日更新(吨)；公布 1053.48，预期 nan，前值 1056.62。",
-        "publishedAt": "2026-09-04 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月2日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月2日COMEX黄金库存-每日更新(百盎司)；公布 273776.17，预期 nan，前值 273456.59。",
-        "publishedAt": "2026-09-04 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -141612,7 +141627,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -141625,15 +141640,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-05 00:53:52",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-09-07 13:05:14",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、军工装备；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -141729,7 +141744,7 @@
               "今日炸板 48 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST仕净:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告；金马游乐:致同会计师事务所(特殊普通合伙)关于广东金马游乐股份有限公司申请向特定对象发行股票的审核问询函中有关财务会计问题的回复(修订稿)。",
+              "新闻/公告风险：财政部大手笔“领衔”注资这三家银行！将撬动多大信贷空间？；中国塑料加工工业协会：警惕盲目扩产风险 推动隔膜产业理性发展。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
