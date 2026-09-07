@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-07",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-07 21:42:10",
+    "generatedAt": "2026-09-07 22:08:38",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -145682,14 +145682,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-07",
-    "generatedAt": "2026-09-07 21:42:57",
+    "generatedAt": "2026-09-07 22:09:38",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 AI算力、能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 AI算力、能源、有色稀土。",
     "themes": [
       {
         "name": "AI算力",
-        "score": 7,
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -145703,12 +145703,17 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
@@ -145734,20 +145739,6 @@
         "publishedAt": "2026-09-07 21:29:24",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202609073866946129.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "翱捷科技第一大股东阿里网络8月17日至9月7日减持公司528.31万股",
-        "summary": "【翱捷科技第一大股东阿里网络8月17日至9月7日减持公司528.31万股】翱捷科技(688220.SH)公告称，公司股东阿里网络于2026年8月17日至9月7日通过集中竞价及大宗交易方式减持公司股份528.31万股，占总股本比例由12.43%降至11.17%，权益变动触及1%刻度。截至公告披露日，减持计划尚未实施完毕。本次减持不触及要约收购，不会导致公司实…",
-        "publishedAt": "2026-09-07 20:48:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609073866909244.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -145991,6 +145982,20 @@
         "tickers": [],
         "importance": 2,
         "noticeType": ""
+      },
+      {
+        "title": "德国7月工作日调整后工业产出年率(%)",
+        "summary": "德国7月工作日调整后工业产出年率(%)；公布 -1.6，预期 nan，前值 -0.1。",
+        "publishedAt": "2026-09-07 14:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
       }
     ]
   },
@@ -146143,8 +146148,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-07 21:42:57",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 AI算力、能源、有色稀土。",
+        "generatedAt": "2026-09-07 22:09:38",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 AI算力、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
@@ -146182,7 +146187,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-07 21:42:10",
+        "generatedAt": "2026-09-07 22:08:38",
         "summary": "上午情绪分 100，涨停 93 家，跌停 2 家，炸板 19 家，连板 13 家，最高 6 板。",
         "sections": [
           {
@@ -146221,7 +146226,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-07 21:42:10",
+        "generatedAt": "2026-09-07 22:08:38",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
