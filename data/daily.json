@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-08",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-08 16:20:19",
+    "generatedAt": "2026-09-08 20:13:15",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -145234,176 +145234,89 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-08",
-    "generatedAt": "2026-09-08 16:21:26",
+    "generatedAt": "2026-09-08 20:14:17",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+      "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 11 条；主题映射集中在 AI算力、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 AI算力、医药、金融。",
     "themes": [
       {
         "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
         "name": "医药",
-        "score": 2,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
+        "name": "金融",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "2国联民生证券承销保荐有限公司关于创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复之核查意见",
-        "summary": "创业黑马(300688)：2国联民生证券承销保荐有限公司关于创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复之核查意见",
+        "title": "怡合达:关于持股5%以上股东及特定股东减持股份的预披露公告",
+        "summary": "怡合达(301029)：怡合达:关于持股5%以上股东及特定股东减持股份的预披露公告",
         "publishedAt": "2026-09-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300688/AN202609081829126548.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "创业黑马(300688)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组问询与回复"
-      },
-      {
-        "title": "1发行人及保荐机构关于审核问询函的回复(豁免版)(上海市翔丰华科技股份有限公司)",
-        "summary": "翔丰华(300890)：1发行人及保荐机构关于审核问询函的回复(豁免版)(上海市翔丰华科技股份有限公司)",
-        "publishedAt": "2026-09-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300890/AN202609081829126545.html",
+        "url": "https://data.eastmoney.com/notices/detail/301029/AN202609081829138124.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "翔丰华(300890)"
+          "怡合达(301029)"
         ],
         "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "3中兴华会计师事务所(特殊普通合伙)关于创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复之核查意见",
-        "summary": "创业黑马(300688)：3中兴华会计师事务所(特殊普通合伙)关于创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复之核查意见",
+        "title": "ST美晨:关于披露重大资产出售预案后的进展公告",
+        "summary": "ST美晨(300237)：ST美晨:关于披露重大资产出售预案后的进展公告",
         "publishedAt": "2026-09-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300688/AN202609081829126542.html",
+        "url": "https://data.eastmoney.com/notices/detail/300237/AN202609081829134612.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "创业黑马(300688)"
+          "ST美晨(300237)"
         ],
         "importance": 1,
-        "noticeType": "创业板重大资产重组问询与回复"
+        "noticeType": "其他"
       },
       {
-        "title": "1创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复",
-        "summary": "创业黑马(300688)：1创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复",
+        "title": "*ST赛为:关于控股股东、实际控制人所持部分公司股份被司法强制执行的预披露公告",
+        "summary": "*ST赛为(300044)：*ST赛为:关于控股股东、实际控制人所持部分公司股份被司法强制执行的预披露公告",
         "publishedAt": "2026-09-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300688/AN202609081829126540.html",
+        "url": "https://data.eastmoney.com/notices/detail/300044/AN202609081829139657.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "创业黑马(300688)"
+          "*ST赛为(300044)"
         ],
         "importance": 1,
-        "noticeType": "创业板重大资产重组问询与回复"
+        "noticeType": "其他"
       },
       {
-        "title": "2会计师关于审核问询函回复(豁免版)(上海市翔丰华科技股份有限公司)",
-        "summary": "翔丰华(300890)：2会计师关于审核问询函回复(豁免版)(上海市翔丰华科技股份有限公司)",
-        "publishedAt": "2026-09-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300890/AN202609081829126536.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "翔丰华(300890)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板再融资问询与回复"
-      },
-      {
-        "title": "4北京市国枫律师事务所关于创业黑马科技集团股份有限公司发行股份及支付现金购买资产并募集配套资金申请的补充法律意见书之十二",
-        "summary": "创业黑马(300688)：4北京市国枫律师事务所关于创业黑马科技集团股份有限公司发行股份及支付现金购买资产并募集配套资金申请的补充法律意见书之十二",
-        "publishedAt": "2026-09-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300688/AN202609081829126541.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "创业黑马(300688)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组问询与回复"
-      },
-      {
-        "title": "发行人及中介机构回复意见(苏州科润新材料股份有限公司)",
-        "summary": "科润新材(A26195)：发行人及中介机构回复意见(苏州科润新材料股份有限公司)",
-        "publishedAt": "2026-09-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26195/AN202609081829126533.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "科润新材(A26195)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
-      },
-      {
-        "title": "肇民科技:关于开设募集资金理财专户并签订募集资金监管协议的公告",
-        "summary": "肇民科技(301000)：肇民科技:关于开设募集资金理财专户并签订募集资金监管协议的公告",
-        "publishedAt": "2026-09-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301000/AN202609081829120453.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "肇民科技(301000)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "特朗普再“画饼”：中东冲突结束后 美国汽油价格将跌破每加仑2美元",
-        "summary": "【特朗普再“画饼”：中东冲突结束后 美国汽油价格将跌破每加仑2美元】美国总统唐纳德·特朗普最新表示，一旦美国与伊朗的冲突结束，油价将迎来大幅下跌，他还预测美国汽油价格最终可能跌至每加仑2美元以下。",
-        "publishedAt": "2026-09-08 16:11:15",
+        "title": "乾照光电：股东和君正德基金拟减持不超3%股份",
+        "summary": "【乾照光电：股东和君正德基金拟减持不超3%股份】乾照光电(300102.SZ)公告称，持股5%以上股东和君正德基金计划自公告披露之日起15个交易日后的3个月内，以集中竞价和大宗交易方式合计减持公司股份不超过2717.04万股，即不超过公司总股本的3%。",
+        "publishedAt": "2026-09-08 19:56:38",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609083868056441.html",
+        "url": "https://finance.eastmoney.com/a/202609083868243446.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -145413,11 +145326,11 @@
         "noticeType": ""
       },
       {
-        "title": "市场监管总局：各级市场监管部门推动放心消费单元和集聚区纳入信用联合激励机制 依法降低检查比例和频次",
-        "summary": "【市场监管总局：各级市场监管部门推动放心消费单元和集聚区纳入信用联合激励机制 依法降低检查比例和频次】市场监管总局发布关于全面开展放心消费单元和集聚区培育的通知。其中提到，各级市场监管部门推动放心消费单元和集聚区纳入信用联合激励机制，依法降低检查比例和频次；加大政策资源投入，强化对经营者权益的保护。",
-        "publishedAt": "2026-09-08 16:02:40",
+        "title": "国能日新：部分董高拟合计减持不超94.15万股",
+        "summary": "【国能日新：部分董高拟合计减持不超94.15万股】国能日新(301162.SZ)公告称，公司董事周永、王彩云、向婕及高管啜美娜拟减持股份，合计不超过94.15万股，占总股本比例0.496%。减持期间为2026年10月1日至12月31日，减持原因为自身资金需求。",
+        "publishedAt": "2026-09-08 19:54:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609083868050571.html",
+        "url": "https://finance.eastmoney.com/a/202609083868245248.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -145427,89 +145340,155 @@
         "noticeType": ""
       },
       {
-        "title": "市场监管总局：到2030年 全国放心消费集聚区达5000个以上",
-        "summary": "【市场监管总局：到2030年 全国放心消费集聚区达5000个以上】市场监管总局发布关于全面开展放心消费单元和集聚区培育的通知，到2030年，全国放心消费集聚区达5000个以上，重点行业领域放心消费单元广泛覆盖，“放心消费在中国”品牌基本形成，消费者获得感明显增强。",
-        "publishedAt": "2026-09-08 16:01:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609083868049929.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "002626金达威投资者关系管理信息20260908",
-        "summary": "金达威(002626)：002626金达威投资者关系管理信息20260908",
+        "title": "000811冰轮环境投资者关系管理信息20260908-2",
+        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20260908-2",
         "publishedAt": "2026-09-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002626/AN202609081829126423.html",
+        "url": "https://data.eastmoney.com/notices/detail/000811/AN202609081829135925.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "金达威(002626)"
+          "冰轮环境(000811)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "海康威视:关于公司高级管理人员增持公司股份的公告",
-        "summary": "海康威视(002415)：海康威视:关于公司高级管理人员增持公司股份的公告",
+        "title": "同力股份:投资者关系活动记录表",
+        "summary": "同力股份(920599)：同力股份:投资者关系活动记录表",
         "publishedAt": "2026-09-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002415/AN202609081829123273.html",
+        "url": "https://data.eastmoney.com/notices/detail/920599/AN202609081829134480.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "海康威视(002415)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "300952恒辉安防投资者关系管理信息20260908",
-        "summary": "恒辉安防(300952)：300952恒辉安防投资者关系管理信息20260908",
-        "publishedAt": "2026-09-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300952/AN202609081829120569.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "恒辉安防(300952)"
+          "同力股份(920599)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "广康生化:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司半年报业绩说明会活动的公告",
-        "summary": "广康生化(300804)：广康生化:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司半年报业绩说明会活动的公告",
+        "title": "华锐精密:投资者关系活动记录表(2026年9月8日)",
+        "summary": "华锐精密(688059)：华锐精密:投资者关系活动记录表(2026年9月8日)",
         "publishedAt": "2026-09-08",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300804/AN202609081829120452.html",
+        "url": "https://data.eastmoney.com/notices/detail/688059/AN202609081829132084.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "广康生化(300804)"
+          "华锐精密(688059)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "上交所：持续推进资本市场高水平对外开放 常态化开展跨境交流活动",
-        "summary": "【上交所：持续推进资本市场高水平对外开放 常态化开展跨境交流活动】下一步，上交所将在中国证监会指导下，持续推进资本市场高水平对外开放，深化双边互信合作，常态化开展跨境交流活动，优化国际投资者服务、讲好中国资本市场故事，助力全球投资者共享中国创新发展机遇。",
-        "publishedAt": "2026-09-08 16:14:17",
+        "title": "泰鹏智能:关于参加2026年山东辖区北交所上市公司投资者网上集体接待日活动预告公告",
+        "summary": "泰鹏智能(920132)：泰鹏智能:关于参加2026年山东辖区北交所上市公司投资者网上集体接待日活动预告公告",
+        "publishedAt": "2026-09-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920132/AN202609081829132899.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "泰鹏智能(920132)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鑫汇科:关于2026年股权激励计划内幕信息知情人买卖公司股票情况的自查报告",
+        "summary": "鑫汇科(920267)：鑫汇科:关于2026年股权激励计划内幕信息知情人买卖公司股票情况的自查报告",
+        "publishedAt": "2026-09-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920267/AN202609081829128732.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鑫汇科(920267)"
+        ],
+        "importance": 1,
+        "noticeType": "自查报告"
+      },
+      {
+        "title": "宁德时代:关于2022年股票期权与限制性股票激励计划之股票期权首次及预留授予第四个行权期行权条件成就的公告",
+        "summary": "宁德时代(300750)：宁德时代:关于2022年股票期权与限制性股票激励计划之股票期权首次及预留授予第四个行权期行权条件成就的公告",
+        "publishedAt": "2026-09-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202609081829139473.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宁德时代(300750)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "宁德时代:关于注销部分已授予尚未行权的股票期权的公告",
+        "summary": "宁德时代(300750)：宁德时代:关于注销部分已授予尚未行权的股票期权的公告",
+        "publishedAt": "2026-09-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202609081829139472.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宁德时代(300750)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "宁德时代:关于作废部分已授予尚未归属的限制性股票的公告",
+        "summary": "宁德时代(300750)：宁德时代:关于作废部分已授予尚未归属的限制性股票的公告",
+        "publishedAt": "2026-09-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202609081829139475.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宁德时代(300750)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "宁德时代:关于2022年股票期权与限制性股票激励计划之限制性股票首次及预留授予第四个归属期归属条件成就的公告",
+        "summary": "宁德时代(300750)：宁德时代:关于2022年股票期权与限制性股票激励计划之限制性股票首次及预留授予第四个归属期归属条件成就的公告",
+        "publishedAt": "2026-09-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202609081829139471.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宁德时代(300750)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "沃尔玛中国拟升级建设华东智慧物流枢纽",
+        "summary": "【沃尔玛中国拟升级建设华东智慧物流枢纽】9月8日，沃尔玛中国在浙江省嘉兴市与政府部门正式签署“沃尔玛中国华东智慧物流枢纽”项目协议。这是沃尔玛进入中国市场三十年来规模最大的单笔供应链投资，该项目将在沃尔玛中国嘉兴配送中心原址上进行全面升级重建，计划于2026年内启动施工、2029年建成投用。",
+        "publishedAt": "2026-09-08 19:52:23",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609083868060290.html",
+        "url": "https://finance.eastmoney.com/a/202609083868243263.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -145519,15 +145498,32 @@
         "noticeType": ""
       },
       {
-        "title": "德业股份：实控人提议回购1亿元至2亿元股份",
-        "summary": "【德业股份：实控人提议回购1亿元至2亿元股份】德业股份(605117.SH)公告称，公司收到实际控制人、董事长张和君提议，拟以自有资金通过集中竞价方式回购公司股份，回购资金总额不低于1亿元且不超过2亿元，回购股份将用于员工持股计划或股权激励。",
-        "publishedAt": "2026-09-08 16:08:43",
+        "title": "Anthropic与OpenAI谋求上市即获投资级评级",
+        "summary": "【Anthropic与OpenAI谋求上市即获投资级评级】大摩、高盛近日代表OpenAI、Anthropic游说信用评级机构，希望两家公司IPO后即获投资级评级，从而降低融资成本、支撑AI基建计划，但评级方态度谨慎。",
+        "publishedAt": "2026-09-08 19:50:08",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609083868056294.html",
+        "url": "https://finance.eastmoney.com/a/202609083868238423.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "习近平同英国首相伯纳姆通电话",
+        "summary": "【习近平同英国首相伯纳姆通电话】习近平祝贺伯纳姆就任英国首相，指出中英是全面战略伙伴，虽然两国社会制度和国情不同，但共同利益大于分歧，双方应当互尊互信、超越分歧、求同存异，做大互利合作的蛋糕。两国政府都致力于发展经济、改善民生，可以优势互补、相互助力。中国“十五五”时期将进一步扩大教育、医疗、金融对外开放，这些都是两国合作有潜力的领域。中英都是科技大国，都…",
+        "publishedAt": "2026-09-08 19:43:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609083868224139.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "医药",
           "金融"
         ],
         "tickers": [],
@@ -145535,15 +145531,17 @@
         "noticeType": ""
       },
       {
-        "title": "新突破！我国首制88000立方米超大型液化气体运输船完工",
-        "summary": "【新突破！我国首制88000立方米超大型液化气体运输船完工】9月8日上午，我国首制88000立方米超大型液化气体运输船（88KVLGC）“长平源”轮正式完成建造并命名，标志着我国在超大型液化气运输船自主设计建造领域取得全新突破。",
-        "publishedAt": "2026-09-08 16:05:12",
+        "title": "深南电路：下调募资总额为不超过43.67亿元",
+        "summary": "【深南电路：下调募资总额为不超过43.67亿元】深南电路(002916.SZ)公告称，公司董事会审议通过调整2026年度向特定对象发行股票方案，募集资金总额由不超过48.82亿元调整为不超过43.67亿元，其中无锡深南电路AI算力电子电路产品项目拟使用募集资金36亿元不变，补充流动资金拟使用募集资金由12.82亿元调整为7.67亿元。",
+        "publishedAt": "2026-09-08 20:06:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609083868052514.html",
+        "url": "https://finance.eastmoney.com/a/202609083868257175.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -145825,15 +145823,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-08 16:21:26",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 11 条；主题映射集中在 AI算力、金融、能源。",
+        "generatedAt": "2026-09-08 20:14:17",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 AI算力、医药、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：农化制品、医疗服务、工业金属；首看 农化制品 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、医药、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -145864,7 +145862,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-08 16:20:19",
+        "generatedAt": "2026-09-08 20:13:15",
         "summary": "上午情绪分 100，涨停 73 家，跌停 0 家，炸板 37 家，连板 18 家，最高 4 板。",
         "sections": [
           {
@@ -145903,7 +145901,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-08 16:20:19",
+        "generatedAt": "2026-09-08 20:13:15",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -145929,7 +145927,7 @@
               "今日炸板 37 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 机器人概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：2国联民生证券承销保荐有限公司关于创业黑马科技集团股份有限公司关于发行股份及支付现金购买资产并募集配套资金申请的并购重组委员会审议意见的落实函的回复之核查意见；1发行人及保荐机构关于审核问询函的回复(豁免版)(上海市翔丰华科技股份有限公司)。",
+              "新闻/公告风险：怡合达:关于持股5%以上股东及特定股东减持股份的预披露公告；ST美晨:关于披露重大资产出售预案后的进展公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
