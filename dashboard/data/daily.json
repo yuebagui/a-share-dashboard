@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-09",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-09 16:23:29",
+    "generatedAt": "2026-09-09 20:29:51",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -144580,7 +144580,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -144745,303 +144746,118 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-09",
-    "generatedAt": "2026-09-09 16:24:31",
+    "generatedAt": "2026-09-09 20:30:58",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 3,
+        "name": "金融",
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "中京电子:股票交易异常波动公告",
-        "summary": "中京电子(002579)：中京电子:股票交易异常波动公告",
+        "title": "众捷股份:关于持股5%以上股东部分股份解除质押及质押的公告",
+        "summary": "众捷股份(301560)：众捷股份:关于持股5%以上股东部分股份解除质押及质押的公告",
         "publishedAt": "2026-09-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002579/AN202609081829141048.html",
+        "url": "https://data.eastmoney.com/notices/detail/301560/AN202609091829179619.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "中京电子(002579)"
+          "众捷股份(301560)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "百大集团：股价短期涨幅较大 存在非理性炒作风险",
-        "summary": "【百大集团：股价短期涨幅较大 存在非理性炒作风险】百大集团(600865.SH)公告称，公司股票于2026年9月3日至9月8日连续4个交易日涨停，9月9日再次涨停。自9月2日至9月9日收盘，股价累计上涨61.09%，平均换手率8.46%，短期涨幅较大，存在市场情绪过热及非理性炒作情形。",
-        "publishedAt": "2026-09-09 16:18:28",
+        "title": "德艺文创:关于特定股东股份减持计划期限届满未减持公司股份的公告",
+        "summary": "德艺文创(300640)：德艺文创:关于特定股东股份减持计划期限届满未减持公司股份的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300640/AN202609091829179433.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "德艺文创(300640)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "安培龙:关于子公司开立募集资金专项账户并签订募集资金四方监管协议的公告",
+        "summary": "安培龙(301413)：安培龙:关于子公司开立募集资金专项账户并签订募集资金四方监管协议的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301413/AN202609091829179366.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "安培龙(301413)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
+      {
+        "title": "潜能恒信:关于控股股东股权质押及解除质押的公告",
+        "summary": "潜能恒信(300191)：潜能恒信:关于控股股东股权质押及解除质押的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300191/AN202609091829179357.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "潜能恒信(300191)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "崇达技术：公司与华为MateXT2、麒麟9050Pro芯片无业务关系",
+        "summary": "【崇达技术：公司与华为MateXT2、麒麟9050Pro芯片无业务关系】崇达技术(002815.SZ)发布异动公告，经核实，2025年度及2026年上半年，公司AI服务器相关PCB产品收入占整体业务不超过10%，对公司当前业绩影响有限；公司在PTFE基材PCB主要应用于通信领域，不涉及高速服务器领域的业务；公司与华为MateXT2、麒麟9050Pro芯片无…",
+        "publishedAt": "2026-09-09 20:13:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609093869337837.html",
+        "url": "https://finance.eastmoney.com/a/202609093869512793.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "凌霄泵业:关于参加2026广东上市公司投资者集体接待日暨半年报业绩说明会的公告",
-        "summary": "凌霄泵业(002884)：凌霄泵业:关于参加2026广东上市公司投资者集体接待日暨半年报业绩说明会的公告",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002884/AN202609091829164700.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "凌霄泵业(002884)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华锋股份:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
-        "summary": "华锋股份(002806)：华锋股份:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002806/AN202609091829164671.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华锋股份(002806)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301680固德电材投资者关系管理信息20260909",
-        "summary": "固德电材(301680)：301680固德电材投资者关系管理信息20260909",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301680/AN202609091829159554.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "固德电材(301680)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "潍柴重机:潍柴重机股份有限公司2026年9月8日投资者关系活动记录表",
-        "summary": "潍柴重机(000880)：潍柴重机:潍柴重机股份有限公司2026年9月8日投资者关系活动记录表",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000880/AN202609091829159021.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "潍柴重机(000880)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "永安药业:002365永安药业投资者关系管理信息20260909",
-        "summary": "永安药业(002365)：永安药业:002365永安药业投资者关系管理信息20260909",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002365/AN202609091829158340.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "永安药业(002365)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "潍柴动力:2026年9月8日投资者关系活动记录表",
-        "summary": "潍柴动力(000338)：潍柴动力:2026年9月8日投资者关系活动记录表",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000338/AN202609091829156196.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "潍柴动力(000338)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "太力科技:投资者关系活动记录表2026023",
-        "summary": "太力科技(301595)：太力科技:投资者关系活动记录表2026023",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301595/AN202609091829156150.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "太力科技(301595)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "三人行:2026年限制性股票激励计划(草案)摘要的公告",
-        "summary": "三人行(605168)：三人行:2026年限制性股票激励计划(草案)摘要的公告",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605168/AN202609081829140497.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三人行(605168)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划摘要"
-      },
-      {
-        "title": "三人行:对外投资公告",
-        "summary": "三人行(605168)：三人行:对外投资公告",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605168/AN202609081829140500.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三人行(605168)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "三人行:关于公司对外投资暨购买资产的公告",
-        "summary": "三人行(605168)：三人行:关于公司对外投资暨购买资产的公告",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605168/AN202609081829140498.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三人行(605168)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "三人行:2026年限制性股票激励计划首次授予激励对象名单",
-        "summary": "三人行(605168)：三人行:2026年限制性股票激励计划首次授予激励对象名单",
-        "publishedAt": "2026-09-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605168/AN202609081829140499.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三人行(605168)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "蔚来李斌最新内部讲话：服务与社区业务利润已可覆盖充换电基础设施投入 成为第二增长曲线",
-        "summary": "【蔚来李斌最新内部讲话：服务与社区业务利润已可覆盖充换电基础设施投入 成为第二增长曲线】9月8日，蔚来创始人、董事长、CEO李斌称，服务与社区业务是公司第二增长曲线的重要部分，该板块业务2025年营收已突破100亿人民币，截至目前已连续多个季度持续实现盈利，利润已经足以覆盖充换电基础设施方面的投入。",
-        "publishedAt": "2026-09-09 16:19:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609093869337546.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "天地科技：股东诚通金控拟增持3亿至6亿元股份",
-        "summary": "【天地科技：股东诚通金控拟增持3亿至6亿元股份】天地科技(600582.SH)公告称，公司持股5%以上股东北京诚通金控投资有限公司基于对公司未来发展的信心，计划自公告披露日起12个月内，通过上交所系统以集中竞价方式增持公司A股股份，增持金额不低于3亿元，不超过6亿元。",
-        "publishedAt": "2026-09-09 16:19:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609093869337357.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "我国稀有金属绿色分离技术实现新突破",
-        "summary": "【我国稀有金属绿色分离技术实现新突破】记者9月9日从中国科学院获悉，全球首套连续塔式萃取分离特色锂矿石伴生铷铯资源示范线在江西全面稳定达产。这套由中国科学院过程工程研究所联合赣锋锂业合作打造的生产线，把藏在锂矿石里的稀有金属铷、铯高效提取出来，产出纯度99.9%以上的碳酸铷、碳酸铯，产品已经投放市场销售，标志着我国在稀有金属绿色分离技术上实现重要突破。",
-        "publishedAt": "2026-09-09 16:17:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609093869336454.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "诺贝尔经济学奖得主萨金特：AI发展尚处在“开普勒阶段”",
-        "summary": "【诺贝尔经济学奖得主萨金特：AI发展尚处在“开普勒阶段”】2011年诺贝尔经济学奖得主、纽约大学教授托马斯·萨金特在2026Inclusion·外滩大会见解论坛上表示，AI正在成为推动经济增长的重要力量，但围绕AI的投资、决策与政策制定，也正面临巨大的不确定性。",
-        "publishedAt": "2026-09-09 16:16:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609093869334972.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
+          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -145049,17 +144865,213 @@
         "noticeType": ""
       },
       {
-        "title": "欧盟新计划或使碳捕集项目获得价值87亿欧元配额",
-        "summary": "【欧盟新计划或使碳捕集项目获得价值87亿欧元配额】欧洲碳捕集与封存(CCS)项目开发商有望从近期欧盟公布的“投资助推器”计划(Investment Booster)中获得约5,800万份碳配额。基于碳价预测，这批配额的价值约为87亿欧元（合101亿美元）。",
-        "publishedAt": "2026-09-09 16:11:15",
+        "title": "摩根大通：霍尔木兹海峡长期封锁情景下 明年布油或均值87美元/桶",
+        "summary": "【摩根大通：霍尔木兹海峡长期封锁情景下 明年布油或均值87美元/桶】大宗商品研究主管娜塔莎·卡涅娃牵头的摩根大通分析师团队在一份研报中表示：即便出现“永久冲突”情景、霍尔木兹海峡实质关闭，明年布伦特原油期货均价仍可能达到每桶87美元。",
+        "publishedAt": "2026-09-09 20:01:57",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609093869332967.html",
+        "url": "https://finance.eastmoney.com/a/202609093869499214.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "宣亚国际:中德证券有限责任公司关于公司调整部分募投项目内部投资结构的核查意见",
+        "summary": "宣亚国际(300612)：宣亚国际:中德证券有限责任公司关于公司调整部分募投项目内部投资结构的核查意见",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300612/AN202609091829179697.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "宣亚国际(300612)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "宣亚国际:关于调整部分募投项目内部投资结构的公告",
+        "summary": "宣亚国际(300612)：宣亚国际:关于调整部分募投项目内部投资结构的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300612/AN202609091829179695.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宣亚国际(300612)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "新易盛:关于参加举办四川辖区2026年投资者网上集体接待日及半年度报告业绩说明会的公告",
+        "summary": "新易盛(300502)：新易盛:关于参加举办四川辖区2026年投资者网上集体接待日及半年度报告业绩说明会的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202609091829179682.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新易盛(300502)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "派诺科技:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会预告公告",
+        "summary": "派诺科技(920375)：派诺科技:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会预告公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920375/AN202609091829179630.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "派诺科技(920375)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "迈普医学:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+        "summary": "迈普医学(301033)：迈普医学:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301033/AN202609091829179505.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "迈普医学(301033)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "科翔股份:关于参加2026年广东辖区上市公司投资者网上集体接待日活动的公告",
+        "summary": "科翔股份(300903)：科翔股份:关于参加2026年广东辖区上市公司投资者网上集体接待日活动的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300903/AN202609091829179502.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "科翔股份(300903)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中胤时尚:关于向银行申请并购贷款并接受关联方担保的公告",
+        "summary": "中胤时尚(300901)：中胤时尚:关于向银行申请并购贷款并接受关联方担保的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300901/AN202609091829179482.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "中胤时尚(300901)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "百普赛斯:关于与专业投资机构共同投资的公告",
+        "summary": "百普赛斯(301080)：百普赛斯:关于与专业投资机构共同投资的公告",
+        "publishedAt": "2026-09-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301080/AN202609091829179365.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "百普赛斯(301080)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "恒玄科技：实控人提议回购5000万至1亿元股份",
+        "summary": "【恒玄科技：实控人提议回购5000万至1亿元股份】恒玄科技(688608.SH)公告称，公司控股股东、实际控制人、董事长LiangZhang提议公司以自有资金通过集中竞价交易方式回购股份，回购资金总额不低于5000万元且不超过1亿元，回购价格不超过150元/股，回购股份将用于员工持股及/或股权激励计划。",
+        "publishedAt": "2026-09-09 20:09:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609093869511275.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至9月4日当周API原油库存变动(万桶)",
+        "summary": "美国截至9月4日当周API原油库存变动(万桶)；公布 nan，预期 nan，前值 -259.3。",
+        "publishedAt": "2026-09-09 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至9月4日当周API汽油库存变动(万桶)",
+        "summary": "美国截至9月4日当周API汽油库存变动(万桶)；公布 nan，预期 nan，前值 34.8。",
+        "publishedAt": "2026-09-09 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月4日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国9月4日COMEX黄金库存-每日更新(百盎司)；公布 273776.81，预期 nan，前值 273776.17。",
+        "publishedAt": "2026-09-09 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -145269,15 +145281,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-09 16:24:31",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
+        "generatedAt": "2026-09-09 20:30:58",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：元件、工业金属、军工装备；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -145308,7 +145320,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-09 16:23:29",
+        "generatedAt": "2026-09-09 20:29:51",
         "summary": "上午情绪分 83，涨停 48 家，跌停 7 家，炸板 27 家，连板 15 家，最高 5 板。",
         "sections": [
           {
@@ -145347,7 +145359,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-09 16:23:29",
+        "generatedAt": "2026-09-09 20:29:51",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -145373,7 +145385,7 @@
               "今日炸板 27 只，追高前先看前排封单和回封质量。",
               "今日跌停 7 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：中京电子:股票交易异常波动公告；百大集团：股价短期涨幅较大 存在非理性炒作风险。",
+              "新闻/公告风险：众捷股份:关于持股5%以上股东部分股份解除质押及质押的公告；德艺文创:关于特定股东股份减持计划期限届满未减持公司股份的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
