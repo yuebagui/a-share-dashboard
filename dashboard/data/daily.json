@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-10",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-10 01:10:33",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-10 01:10:33",
+    "lastNewsAt": "2026-09-10 13:05:07"
   },
   "indices": [
     {
@@ -144746,38 +144748,40 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-10",
-    "generatedAt": "2026-09-10 01:11:26",
+    "generatedAt": "2026-09-10 13:05:07",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 AI算力、能源、医药。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 13,
+        "name": "AI算力",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 3,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "医药",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -144866,36 +144870,86 @@
         "noticeType": "诉讼仲裁"
       },
       {
-        "title": "崇达技术:关于股票交易异常波动的公告",
-        "summary": "崇达技术(002815)：崇达技术:关于股票交易异常波动的公告",
+        "title": "000811冰轮环境投资者关系管理信息20260910",
+        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20260910",
         "publishedAt": "2026-09-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002815/AN202609091829181706.html",
+        "url": "https://data.eastmoney.com/notices/detail/000811/AN202609101829203798.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "崇达技术(002815)"
+          "冰轮环境(000811)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "裕太微:立信会计师事务所(特殊普通合伙)关于裕太微电子股份有限公司向特定对象发行股票申请文件的审核问询函的回复(2026年半年报财务数据更新更正版本)",
-        "summary": "裕太微(688515)：裕太微:立信会计师事务所(特殊普通合伙)关于裕太微电子股份有限公司向特定对象发行股票申请文件的审核问询函的回复(2026年半年报财务数据更新更正版本)",
+        "title": "明阳电气:关于参加2026年广东辖区投资者集体接待日活动的公告",
+        "summary": "明阳电气(301291)：明阳电气:关于参加2026年广东辖区投资者集体接待日活动的公告",
         "publishedAt": "2026-09-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688515/AN202609091829181664.html",
+        "url": "https://data.eastmoney.com/notices/detail/301291/AN202609101829203857.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "裕太微(688515)"
+          "明阳电气(301291)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "凌玮科技:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+        "summary": "凌玮科技(301373)：凌玮科技:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301373/AN202609101829203856.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "凌玮科技(301373)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "深天马Ａ:2026年9月9日投资者关系活动记录表",
+        "summary": "深天马A(000050)：深天马Ａ:2026年9月9日投资者关系活动记录表",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000050/AN202609101829197110.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "深天马A(000050)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "南网能源:2026年9月9日投资者关系活动记录表",
+        "summary": "南网能源(003035)：南网能源:2026年9月9日投资者关系活动记录表",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003035/AN202609101829195742.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "南网能源(003035)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "力勤资源:与投资者保护相关的承诺",
@@ -144930,61 +144984,11 @@
         "noticeType": "其他"
       },
       {
-        "title": "北京科锐:关于子公司项目中标的公告",
-        "summary": "北京科锐(002350)：北京科锐:关于子公司项目中标的公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002350/AN202609091829181827.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "北京科锐(002350)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "意华股份:关于部分限制性股票回购注销完成的公告",
-        "summary": "意华股份(002897)：意华股份:关于部分限制性股票回购注销完成的公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002897/AN202609091829181766.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "意华股份(002897)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "长虹美菱:关于公司及子公司投资建设干衣机和洗碗机项目的公告",
-        "summary": "长虹美菱(000521)：长虹美菱:关于公司及子公司投资建设干衣机和洗碗机项目的公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000521/AN202609091829181720.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "长虹美菱(000521)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分",
-        "summary": "【汉维科技：脂肪酸盐产品目前仍然是公司销售规模的重要组成部分】汉维科技发布投资者关系活动记录表，公司目前已经形成以脂肪酸盐、脂肪酸酯、脂肪酸酰胺、特种助剂、复合助剂等为主要构成的产品体系，2026年上半年公司主营业务收入为3.20亿元，同比增长10.98%。",
-        "publishedAt": "2026-09-10 00:01:50",
+        "title": "福然德：积极探索布局新兴产业 培育第二增长曲线",
+        "summary": "【福然德：积极探索布局新兴产业 培育第二增长曲线】福然德在9月10日召开的2026年半年度网上业绩说明会上表示，未来，公司一方面将通过内生增长，筑牢传统主业，以稳健、适时的节奏进行区域产能布局，推进产能扩张和产线升级，持续强化现有核心竞争力；另一方面，公司也将积极挖掘新兴行业的发展机会外延扩张，通过投资并购等方式，积极探索布局新兴产业，希望在新赛道上为公司…",
+        "publishedAt": "2026-09-10 13:02:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609103869662848.html",
+        "url": "https://finance.eastmoney.com/a/202609103870415424.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -144994,79 +144998,79 @@
         "noticeType": ""
       },
       {
-        "title": "星图测控：公司已完成“星眼”太空感知星座的自主设计",
-        "summary": "【星图测控：公司已完成“星眼”太空感知星座的自主设计】星图测控发布投资者关系活动记录表，公司已完成“星眼”太空感知星座的自主设计，未来通过验证卫星能力并进行组网，构建起太空态势感知（SSA）能力体系，持续获取空间目标轨道信息、空间碎片信息及在轨卫星信息等太空环境数据。",
-        "publishedAt": "2026-09-10 00:01:43",
+        "title": "中秋国庆“旺季”预期先行 桂林旅游股价走出四连板",
+        "summary": "【中秋国庆“旺季”预期先行 桂林旅游股价走出四连板】中秋国庆双节旺季预期、文旅政策持续加码、AI文旅新业态加速落地三重逻辑交织，A股文旅景区板块9月迎来阶段性行情。截至午盘收盘，桂林旅游连续四个交易日涨停，带动云南旅游、张家界、曲江文旅等一批景区上市公司同步走强。",
+        "publishedAt": "2026-09-10 12:56:36",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609103869663117.html",
+        "url": "https://finance.eastmoney.com/a/202609103870412966.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "军工"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月EIA月报预估-当年布伦特原油价格(美元/桶)",
-        "summary": "美国9月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 91.01，预期 nan，前值 86.81。",
-        "publishedAt": "2026-09-10 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "积水化学拟以3.35亿澳元收购Ausbuild51%股权",
+        "summary": "【积水化学拟以3.35亿澳元收购Ausbuild51%股权】9月10日消息，积水化学将以约3.35亿澳元收购澳大利亚Ausbuild集团51%的股权，该集团是一家总部位于昆士兰州的住宅开发与建筑公司。积水化学计划通过未来增持股份，将其持股比例提高至90%。",
+        "publishedAt": "2026-09-10 12:45:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609103870412651.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "苹果新机全面涨价带动二手交易 转转平台iPhone 17交易量环比增长700%",
+        "summary": "【苹果新机全面涨价带动二手交易 转转平台iPhone 17交易量环比增长700%】9月10日消息，苹果2026年秋季新品发布后，二手消费电子市场苹果机型热度同步升温。转转平台数据显示，发布会后，转转平台苹果手机搜索量环比增长270%，苹果手机回收估价量环比增长311%。",
+        "publishedAt": "2026-09-10 12:23:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609103870409643.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "明晚成品油零售限价或上调",
+        "summary": "【明晚成品油零售限价或上调】9月11日（周五）24时，国内成品油零售限价将迎来新一轮调整时间点。机构跟踪的最新国际原油价格变动状况预测数据显示，本轮成品油零售限价上调幅度超过50元/吨的调整红线要求，因此本轮成品油零售限价大概率迎来上调，这意味着成品油零售限价或遇“二连涨”。",
+        "publishedAt": "2026-09-10 12:59:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609103870413013.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
           "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月EIA月报预估-当年WTI原油价格(美元/桶)",
-        "summary": "美国9月EIA月报预估-当年WTI原油价格(美元/桶)；公布 84.65，预期 nan，前值 80.88。",
-        "publishedAt": "2026-09-10 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "脂肪性肝炎“能治了”！诺和盈获批肝病相关适应症",
+        "summary": "【脂肪性肝炎“能治了”！诺和盈获批肝病相关适应症】9月10日，司美格鲁肽注射液（商品名：诺和盈）的代谢相关脂肪性肝炎（MASH）适应症上市申请获得中国国家药品监督管理局（NMPA）批准。该药适用于治疗代谢相关脂肪性肝炎（MASH）伴中重度肝纤维化（符合F2-F3期纤维化）的非肝硬化成人患者，成为首个且唯一获批用于治疗MASH的GLP-1RA类药物。",
+        "publishedAt": "2026-09-10 12:57:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609103870412334.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "能源"
+          "医药"
         ],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月9日10年期国债竞拍-中标利率(%)",
-        "summary": "美国9月9日10年期国债竞拍-中标利率(%)；公布 nan，预期 nan，前值 4.68。",
-        "publishedAt": "2026-09-10 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月9日10年期国债竞拍-高收益率(%)",
-        "summary": "美国9月9日10年期国债竞拍-高收益率(%)；公布 nan，预期 nan，前值 4.68。",
-        "publishedAt": "2026-09-10 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -145263,7 +145267,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -145276,15 +145280,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-10 01:11:26",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-09-10 13:05:07",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 AI算力、能源、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：元件、工业金属、军工装备；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、能源、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
