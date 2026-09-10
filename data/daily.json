@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-10",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-10 16:19:14",
+    "generatedAt": "2026-09-10 16:24:14",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -1116,7 +1116,7 @@
       "tags": [
         "通信设备"
       ],
-      "reason": "连续跌停 1，封单 2429.5万，开板 27 次"
+      "reason": "连续跌停 1，封单 2429.5万，开板 26 次"
     },
     {
       "code": "000912",
@@ -144456,24 +144456,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-10",
-    "generatedAt": "2026-09-10 16:20:16",
+    "generatedAt": "2026-09-10 16:24:58",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、能源、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、能源、医药。",
     "themes": [
       {
         "name": "金融",
-        "score": 16,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 12,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "医药",
-        "score": 8,
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -144487,94 +144487,12 @@
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
-      {
-        "title": "中微公司:关于持股5%以上股东权益变动触及1%刻度暨减持股份结果公告",
-        "summary": "中微公司(688012)：中微公司:关于持股5%以上股东权益变动触及1%刻度暨减持股份结果公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688012/AN202609091829183551.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "中微公司(688012)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "毕得医药:股东减持股份计划公告",
-        "summary": "毕得医药(688073)：毕得医药:股东减持股份计划公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688073/AN202609091829182490.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "毕得医药(688073)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "中粮科技:股票交易异常波动公告",
-        "summary": "中粮科技(000930)：中粮科技:股票交易异常波动公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000930/AN202609091829182372.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "中粮科技(000930)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "*ST步森:关于完成工商变更并换发营业执照的公告",
-        "summary": "*ST步森(002569)：*ST步森:关于完成工商变更并换发营业执照的公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002569/AN202609091829182184.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST步森(002569)"
-        ],
-        "importance": 1,
-        "noticeType": "公司章程修订"
-      },
-      {
-        "title": "逸飞激光:逸飞激光关于公司涉及诉讼进展的公告",
-        "summary": "逸飞激光(688646)：逸飞激光:逸飞激光关于公司涉及诉讼进展的公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688646/AN202609091829181898.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "逸飞激光(688646)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
       {
         "title": "金融监管总局丛林：将引导金融机构加强购房置业、教育、医疗、职业培训等信贷支持",
         "summary": "【金融监管总局丛林：将引导金融机构加强购房置业、教育、医疗、职业培训等信贷支持】在国新办新闻发布会上，金融监管总局副局长丛林表示，下一步金融监管总局将引导金融机构有效满足教、体、文、卫等民生领域金融需求，优化乡村全面振兴金融服务，持续提升小微企业融资获得感，大力发展商业养老保险。加强购房置业、教育、医疗、职业培训等信贷支持，更好地满足新就业群体安居乐业需要。",
@@ -144609,18 +144527,164 @@
         "noticeType": ""
       },
       {
-        "title": "三部门发布《关于开展2026年度享受增值税加计抵减政策的工业母机企业清单制定工作的通知》",
-        "summary": "【三部门发布《关于开展2026年度享受增值税加计抵减政策的工业母机企业清单制定工作的通知》】工业和信息化部、财政部、税务总局发布《关于开展2026年度享受增值税加计抵减政策的工业母机企业清单制定工作的通知》。其中提到，地方工信部门会同财政、税务部门按职责分工对清单内企业加强日常监管。在监管过程中，如发现企业存在以虚假信息申请列入清单，应及时联合核查，并联合…",
-        "publishedAt": "2026-09-10 16:07:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609103870575524.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "富淼科技:江苏富淼科技股份有限公司2026年半年度业绩说明会投资者关系活动记录表",
+        "summary": "富淼科技(688350)：富淼科技:江苏富淼科技股份有限公司2026年半年度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688350/AN202609101829219407.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "富淼科技(688350)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "百利电气:投资者关系活动记录表(2026年9月8日)",
+        "summary": "百利电气(600468)：百利电气:投资者关系活动记录表(2026年9月8日)",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600468/AN202609101829219416.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "百利电气(600468)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "富淼科技:江苏富淼科技股份有限公司投资者关系活动记录表(2026年9月9日)",
+        "summary": "富淼科技(688350)：富淼科技:江苏富淼科技股份有限公司投资者关系活动记录表(2026年9月9日)",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688350/AN202609101829219406.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "富淼科技(688350)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "浩瀚深度:投资者关系活动记录表_2026年半年度业绩说明会(2026.9.10)",
+        "summary": "浩瀚深度(688292)：浩瀚深度:投资者关系活动记录表_2026年半年度业绩说明会(2026.9.10)",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688292/AN202609101829219410.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "浩瀚深度(688292)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "星环科技:投资者关系活动记录表_2026年9月9日",
+        "summary": "星环科技(688031)：星环科技:投资者关系活动记录表_2026年9月9日",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688031/AN202609101829219414.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "星环科技(688031)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "上海机场:2026年8月投资者调研报告",
+        "summary": "上海机场(600009)：上海机场:2026年8月投资者调研报告",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600009/AN202609101829219415.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "上海机场(600009)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "纳科诺尔:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报集体业绩说明会预告公告",
+        "summary": "纳科诺尔(920522)：纳科诺尔:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报集体业绩说明会预告公告",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920522/AN202609101829219442.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "纳科诺尔(920522)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "蜂助手:301382蜂助手投资者关系管理信息20260910",
+        "summary": "蜂助手(301382)：蜂助手:301382蜂助手投资者关系管理信息20260910",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301382/AN202609101829218234.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "蜂助手(301382)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "4-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明，或者估值报告(上会稿)(创业黑马科技集团股份有限公司)",
+        "summary": "创业黑马(300688)：4-2本次重大资产重组涉及的拟购买资产的评估报告及评估说明，或者估值报告(上会稿)(创业黑马科技集团股份有限公司)",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300688/AN202609101829217136.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "创业黑马(300688)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组资产评估报告上会稿"
+      },
+      {
+        "title": "2-1重大资产重组报告书(上会稿)(创业黑马科技集团股份有限公司)",
+        "summary": "创业黑马(300688)：2-1重大资产重组报告书(上会稿)(创业黑马科技集团股份有限公司)",
+        "publishedAt": "2026-09-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300688/AN202609101829217138.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "创业黑马(300688)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组报告书上会稿"
       },
       {
         "title": "000811冰轮环境投资者关系管理信息20260910",
@@ -144655,88 +144719,6 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "凌玮科技:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
-        "summary": "凌玮科技(301373)：凌玮科技:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301373/AN202609101829203856.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "凌玮科技(301373)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "深天马Ａ:2026年9月9日投资者关系活动记录表",
-        "summary": "深天马A(000050)：深天马Ａ:2026年9月9日投资者关系活动记录表",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000050/AN202609101829197110.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深天马A(000050)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "南网能源:2026年9月9日投资者关系活动记录表",
-        "summary": "南网能源(003035)：南网能源:2026年9月9日投资者关系活动记录表",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003035/AN202609101829195742.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "南网能源(003035)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "力勤资源:与投资者保护相关的承诺",
-        "summary": "力勤资源(001246)：力勤资源:与投资者保护相关的承诺",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001246/AN202609091829183241.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "力勤资源(001246)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "力勤资源:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "summary": "力勤资源(001246)：力勤资源:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "publishedAt": "2026-09-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001246/AN202609091829183254.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "力勤资源(001246)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
         "title": "海通国际张忆东：9月逢低布局正当时 看好中国硬核资产和AI科技行情",
         "summary": "【海通国际张忆东：9月逢低布局正当时 看好中国硬核资产和AI科技行情】9月10日，海通国际证券执委会委员、股票研究部主管及首席经济学家张忆东在主题演讲中展望表示，9月将迎来反转向上，建议9月逢低布局秋季行情。不过他也谈到，未来数月的行情，更聚焦在业绩内生成长或外延式增长的投资逻辑的有序扩散，而不是当年估值修复为主的暴涨行情。",
         "publishedAt": "2026-09-10 16:16:55",
@@ -144747,22 +144729,6 @@
         "impact": "催化",
         "themes": [
           "AI算力",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "外汇局：我国直接投资项下已实现基本可兑换",
-        "summary": "【外汇局：我国直接投资项下已实现基本可兑换】国家外汇管理局副局长李斌9月10日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，我国直接投资项下已实现基本可兑换，跨境证券投资形成了以机构投资者制度、互联互通机制、境外投资者直接入市为主的跨境投资制度安排，对跨境融资实施全口径宏观审慎管理。",
-        "publishedAt": "2026-09-10 16:09:20",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609103870576746.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
           "金融"
         ],
         "tickers": [],
@@ -144781,6 +144747,36 @@
         "themes": [
           "能源"
         ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月EIA月报预估-当年WTI原油价格(美元/桶)",
+        "summary": "美国9月EIA月报预估-当年WTI原油价格(美元/桶)；公布 84.65，预期 nan，前值 80.88。",
+        "publishedAt": "2026-09-10 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月9日10年期国债竞拍-中标利率(%)",
+        "summary": "美国9月9日10年期国债竞拍-中标利率(%)；公布 nan，预期 nan，前值 4.68。",
+        "publishedAt": "2026-09-10 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -144957,8 +144953,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-10 16:20:16",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、能源、医药。",
+        "generatedAt": "2026-09-10 16:24:58",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、能源、医药。",
         "sections": [
           {
             "title": "今日先看",
@@ -144996,7 +144992,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-10 16:19:14",
+        "generatedAt": "2026-09-10 16:24:14",
         "summary": "上午情绪分 52，涨停 35 家，跌停 11 家，炸板 22 家，连板 9 家，最高 4 板。",
         "sections": [
           {
@@ -145035,7 +145031,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-10 16:19:14",
+        "generatedAt": "2026-09-10 16:24:14",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -145061,7 +145057,7 @@
               "今日炸板 22 只，追高前先看前排封单和回封质量。",
               "今日跌停 11 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 新能源汽车，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：中微公司:关于持股5%以上股东权益变动触及1%刻度暨减持股份结果公告；毕得医药:股东减持股份计划公告。",
+              "新闻/公告风险：金融监管总局丛林：将引导金融机构加强购房置业、教育、医疗、职业培训等信贷支持；金融监管总局丛林：完善保险资金等投早、投小、投长期、投硬科技各项政策。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
