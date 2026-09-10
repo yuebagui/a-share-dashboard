@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-11",
     "phase": "盘中快照",
-    "generatedAt": "2026-09-11 00:57:23",
+    "generatedAt": "2026-09-11 01:01:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -1116,7 +1116,7 @@
       "tags": [
         "通信设备"
       ],
-      "reason": "连续跌停 1，封单 2429.5万，开板 26 次"
+      "reason": "连续跌停 1，封单 2429.5万，开板 27 次"
     },
     {
       "code": "000912",
@@ -133004,16 +133004,13 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-11",
-    "generatedAt": "2026-09-11 00:58:07",
+    "generatedAt": "2026-09-11 01:02:11",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 能源、AI算力、金融。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、金融、有色稀土。",
     "themes": [
-      {
-        "name": "能源",
-        "score": 15,
-        "isFocusBoard": false
-      },
       {
         "name": "AI算力",
         "score": 7,
@@ -133026,7 +133023,7 @@
       },
       {
         "name": "有色稀土",
-        "score": 3,
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -133036,6 +133033,11 @@
       },
       {
         "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
@@ -133282,49 +133284,47 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至9月4日当周EIA原油库存变动(万桶)",
-        "summary": "美国截至9月4日当周EIA原油库存变动(万桶)；公布 -39.1，预期 -155.4，前值 -445.0。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至9月4日当周EIA精炼油库存变动(万桶)",
-        "summary": "美国截至9月4日当周EIA精炼油库存变动(万桶)；公布 208.7，预期 -72.0，前值 79.6。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "伊朗革命卫队称在霍尔木兹海峡击中了美国无人舰艇",
+        "summary": "据报道，伊朗革命卫队称在霍尔木兹海峡击中了美国无人舰艇。",
+        "publishedAt": "2026-09-11 00:56:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113870969011.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月4日当周EIA每周原油进口变动(万桶)",
-        "summary": "美国截至9月4日当周EIA每周原油进口变动(万桶)；公布 112.0，预期 nan，前值 -7.9。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "胡塞武装称沙特对也门多地发动64次空袭",
+        "summary": "【胡塞武装称沙特对也门多地发动64次空袭】据也门胡塞武装当地时间10日发表的声明，过去24小时内，沙特空军对也门塔伊兹省、荷台达省、马里卜省和焦夫省发动64次空袭。声明说，沙特空军出动F-15和“台风”战斗机，分别从位于塔伊夫的法赫德国王空军基地和海米斯穆谢特的哈立德国王空军基地起飞。",
+        "publishedAt": "2026-09-11 00:56:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113870968856.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "LME期铜收跌534美元 报14234美元/吨",
+        "summary": "【LME期铜收跌534美元 报14234美元/吨】LME期铜收跌534美元，报14234美元/吨。LME期铝收跌64美元，报3294美元/吨。LME期锌收跌160美元，报3892美元/吨。LME期铅收跌14美元，报1901美元/吨。LME期镍收跌231美元，报16666美元/吨。LME期锡收跌874美元，报42380美元/吨。LME期钴收跌560美元，报4…",
+        "publishedAt": "2026-09-11 00:56:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113870968932.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "能源"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -133499,15 +133499,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-11 00:58:07",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 能源、AI算力、金融。",
+        "generatedAt": "2026-09-11 01:02:11",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：银行、证券；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -133538,7 +133538,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-11 00:57:23",
+        "generatedAt": "2026-09-11 01:01:28",
         "summary": "上午情绪分 52，涨停 35 家，跌停 11 家，炸板 22 家，连板 9 家，最高 4 板。",
         "sections": [
           {
@@ -133577,7 +133577,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-11 00:57:23",
+        "generatedAt": "2026-09-11 01:01:28",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
