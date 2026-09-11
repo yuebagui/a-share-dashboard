@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-11",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-11 01:01:28",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-11 01:01:28",
+    "lastNewsAt": "2026-09-11 13:01:48"
   },
   "indices": [
     {
@@ -133004,35 +133006,35 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-11",
-    "generatedAt": "2026-09-11 01:02:11",
+    "generatedAt": "2026-09-11 13:01:48",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 金融、AI算力、汽车链。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 5,
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 2,
+        "name": "AI算力",
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
-        "score": 2,
+        "name": "汽车链",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "军工",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       },
@@ -133110,36 +133112,128 @@
         "noticeType": "其他"
       },
       {
-        "title": "翱捷科技:关于持股5%以上股东权益变动触及1%刻度、提前终止减持计划暨减持股份结果公告",
-        "summary": "翱捷科技(688220)：翱捷科技:关于持股5%以上股东权益变动触及1%刻度、提前终止减持计划暨减持股份结果公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688220/AN202609101829235985.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "康冠科技：多款AI眼镜产品正处于研发阶段",
+        "summary": "【康冠科技：多款AI眼镜产品正处于研发阶段】康冠科技(001308)9月11日在互动平台表示，公司持续布局AI终端硬件新赛道，目前多款AI眼镜产品正处于研发阶段。产品规划搭载近眼显示模块，融合多模态AI交互能力，着力打造新一代轻量化人机交互终端。相关产品计划于2026年下半年至2027年陆续推向市场。由于相关行业整体仍处于市场早期阶段，公司相关产品落地节奏…",
+        "publishedAt": "2026-09-11 12:49:48",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113871924336.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "翱捷科技(688220)"
+        "themes": [
+          "AI算力"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "权益变动报告书"
+        "noticeType": ""
       },
       {
-        "title": "吉鑫科技:江苏吉鑫风能科技股份有限公司股东减持股份结果公告",
-        "summary": "吉鑫科技(601218)：吉鑫科技:江苏吉鑫风能科技股份有限公司股东减持股份结果公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601218/AN202609101829235929.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "行云科技：公司在手订单的利润率受上游供应商采购价格影响",
+        "summary": "【行云科技：公司在手订单的利润率受上游供应商采购价格影响】行云科技(300209)9月11日在互动平台表示，公司在手订单的利润率受上游供应商采购价格影响。公司核心长单采用“按月交付、按月回款、逐月确认收入”模式，若上游供应商采购上涨或下跌，公司已签订但尚未完成交付的订单仍有可能根据市场行情协商调整服务合同。",
+        "publishedAt": "2026-09-11 12:33:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113871922428.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "马来西亚吉隆坡综合指数下跌1%",
+        "summary": "马来西亚吉隆坡综合指数下跌1%至1,688.01点。",
+        "publishedAt": "2026-09-11 12:21:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113871918741.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "天禾股份:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+        "summary": "天禾股份(002999)：天禾股份:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会活动的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002999/AN202609111829252816.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "吉鑫科技(601218)"
+          "天禾股份(002999)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000591太阳能投资者关系管理信息20260911",
+        "summary": "太阳能(000591)：000591太阳能投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000591/AN202609111829249545.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "太阳能(000591)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002582好想你投资者关系管理信息20260911",
+        "summary": "好想你(002582)：002582好想你投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002582/AN202609111829249117.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "好想你(002582)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:043-2026年9月10日投资者关系活动记录表-2",
+        "summary": "京东方A(000725)：京东方Ａ:043-2026年9月10日投资者关系活动记录表-2",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202609111829247852.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:042-2026年9月10日投资者关系活动记录表-1",
+        "summary": "京东方A(000725)：京东方Ａ:042-2026年9月10日投资者关系活动记录表-1",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202609111829247733.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "华发股份:华发股份关于参加2026年广东辖区投资者集体接待日暨召开2026年半年度业绩说明会的公告",
@@ -133192,59 +133286,27 @@
         "noticeType": "回购进展情况"
       },
       {
-        "title": "富特科技:关于调整2025年限制性股票激励计划授予价格及权益数量的公告",
-        "summary": "富特科技(301607)：富特科技:关于调整2025年限制性股票激励计划授予价格及权益数量的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202609101829235652.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "富特科技:2025年限制性股票激励计划预留授予激励对象名单(授予日)",
-        "summary": "富特科技(301607)：富特科技:2025年限制性股票激励计划预留授予激励对象名单(授予日)",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202609101829235657.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "富特科技:关于向2025年限制性股票激励计划激励对象授予预留限制性股票的公告",
-        "summary": "富特科技(301607)：富特科技:关于向2025年限制性股票激励计划激励对象授予预留限制性股票的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202609101829235648.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "黄仁勋：网络安全是AI的下一个重要应用场景",
-        "summary": "【黄仁勋：网络安全是AI的下一个重要应用场景】英伟达CEO黄仁勋出席高盛会议时表示：网络安全是AI的下一个重要应用场景。GraceBlackwell出货量环比增长27%。公司在Anthropic的份额正快速增长。公司的投资并非循环投资。",
-        "publishedAt": "2026-09-11 00:35:42",
+        "title": "出大钱的当LP 出小钱的做GP！国泰海通1月内联手两大险企设立投资企业",
+        "summary": "【出大钱的当LP 出小钱的做GP！国泰海通1月内联手两大险企设立投资企业】天眼查App显示，嘉兴亘慨源股权投资合伙企业（有限合伙）于8月25日成立，注册资本为5亿元。该公司经营范围包括股权投资；创业投资（限投资未上市企业）等。股权结构显示，该公司由阳光人寿保险股份有限公司、国泰海通全资子公司国泰海通开元投资有限公司共同持股。前者出资4.6亿元，持股比例为9…",
+        "publishedAt": "2026-09-11 12:58:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113870965423.html",
+        "url": "https://finance.eastmoney.com/a/202609113871924662.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中国联通“十五五”时期预计撬动千亿级算力网投资",
+        "summary": "【中国联通“十五五”时期预计撬动千亿级算力网投资】在9月10日举行的2026中国联通合作伙伴大会上，中国联通董事长董昕表示，在人工智能从技术变量加速转化为产业增量的关键时刻，中国联通正实现由“传统管道提供商”向“数智综合服务商”的蜕变，公司将聚焦“连接”“算力”“服务”“安全”四大核心赛道，把新一代通信网和算力网作为主责主业。",
+        "publishedAt": "2026-09-11 12:48:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113871914070.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -133256,72 +133318,17 @@
         "noticeType": ""
       },
       {
-        "title": "2026未来投资大会聚焦变化世界中的全球投资",
-        "summary": "【2026未来投资大会聚焦变化世界中的全球投资】9月8日，第二届未来投资大会在厦门开幕。大会由联合国贸易和发展会议和厦门市人民政府共同举办，与中国国际投资贸易洽谈会同期举行。",
-        "publishedAt": "2026-09-11 00:31:23",
+        "title": "SpaceX爆料重磅利好：百亿美元算力大单落地 轨道算力时间表出炉",
+        "summary": "【SpaceX爆料重磅利好：百亿美元算力大单落地 轨道算力时间表出炉】美东时间9月10日，SpaceX首席财务官布雷特·约翰森（BretJohnsen）出席2026高盛Communacopia+科技大会，对外披露最新业务进展。约翰逊透露，SpaceX公司最近拿下又一笔大额AI算力托管订单，算力业务快速成为核心增长引擎。同时，他还公布了公司在地面算力扩容、轨…",
+        "publishedAt": "2026-09-11 12:36:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113870951976.html",
+        "url": "https://finance.eastmoney.com/a/202609113871917398.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "福特将投资10亿美元在肯塔基卡车工厂新建一座先进的涂装车间",
-        "summary": "福特将投资10亿美元，在肯塔基卡车工厂新建一座先进的涂装车间。",
-        "publishedAt": "2026-09-11 00:18:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113870959364.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗革命卫队称在霍尔木兹海峡击中了美国无人舰艇",
-        "summary": "据报道，伊朗革命卫队称在霍尔木兹海峡击中了美国无人舰艇。",
-        "publishedAt": "2026-09-11 00:56:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113870969011.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "胡塞武装称沙特对也门多地发动64次空袭",
-        "summary": "【胡塞武装称沙特对也门多地发动64次空袭】据也门胡塞武装当地时间10日发表的声明，过去24小时内，沙特空军对也门塔伊兹省、荷台达省、马里卜省和焦夫省发动64次空袭。声明说，沙特空军出动F-15和“台风”战斗机，分别从位于塔伊夫的法赫德国王空军基地和海米斯穆谢特的哈立德国王空军基地起飞。",
-        "publishedAt": "2026-09-11 00:56:19",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113870968856.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "LME期铜收跌534美元 报14234美元/吨",
-        "summary": "【LME期铜收跌534美元 报14234美元/吨】LME期铜收跌534美元，报14234美元/吨。LME期铝收跌64美元，报3294美元/吨。LME期锌收跌160美元，报3892美元/吨。LME期铅收跌14美元，报1901美元/吨。LME期镍收跌231美元，报16666美元/吨。LME期锡收跌874美元，报42380美元/吨。LME期钴收跌560美元，报4…",
-        "publishedAt": "2026-09-11 00:56:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113870968932.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "AI算力",
+          "军工"
         ],
         "tickers": [],
         "importance": 1,
@@ -133486,7 +133493,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "修复",
     "positionRule": {
@@ -133499,15 +133506,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-11 01:02:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 AI算力、金融、有色稀土。",
+        "generatedAt": "2026-09-11 13:01:48",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 金融、AI算力、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：银行、证券；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
