@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-11 20:44:28",
+    "generatedAt": "2026-09-12 00:59:02",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -105891,44 +105891,41 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-11",
-    "generatedAt": "2026-09-11 20:45:17",
+    "generatedAt": "2026-09-12 00:59:50",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 金融、能源、有色稀土。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 有色稀土、AI算力、汽车链。",
     "themes": [
       {
-        "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 4,
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "同有科技:公司与招商证券股份有限公司关于北京同有飞骥科技股份有限公司申请向特定对象发行股票的审核问询函的回复(豁免版)",
-        "summary": "同有科技(300302)：同有科技:公司与招商证券股份有限公司关于北京同有飞骥科技股份有限公司申请向特定对象发行股票的审核问询函的回复(豁免版)",
+        "title": "*ST康乐:中信证券股份有限公司关于北京康乐卫士生物技术股份有限公司2026年半年度持续督导跟踪报告",
+        "summary": "*ST康乐(920575)：*ST康乐:中信证券股份有限公司关于北京康乐卫士生物技术股份有限公司2026年半年度持续督导跟踪报告",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300302/AN202609111829280372.html",
+        "url": "https://data.eastmoney.com/notices/detail/920575/AN202609111829272296.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -105936,283 +105933,273 @@
           "金融"
         ],
         "tickers": [
-          "同有科技(300302)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "彩讯股份:关于彩讯科技股份有限公司向不特定对象发行可转换公司债券申请文件的审核问询函的回复",
-        "summary": "彩讯股份(300634)：彩讯股份:关于彩讯科技股份有限公司向不特定对象发行可转换公司债券申请文件的审核问询函的回复",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300634/AN202609111829279742.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "彩讯股份(300634)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "彩讯股份:关于向不特定对象发行可转换公司债券的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "彩讯股份(300634)：彩讯股份:关于向不特定对象发行可转换公司债券的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300634/AN202609111829279744.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "彩讯股份(300634)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "彩讯股份:立信会计师事务所(特殊普通合伙)关于彩讯科技股份有限公司向不特定对象发行可转换公司债券问询函的回复",
-        "summary": "彩讯股份(300634)：彩讯股份:立信会计师事务所(特殊普通合伙)关于彩讯科技股份有限公司向不特定对象发行可转换公司债券问询函的回复",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300634/AN202609111829279745.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "彩讯股份(300634)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "同宇新材:关于持股5%以上股东及公司董事、高级管理人员拟减持公司股份的预披露公告",
-        "summary": "同宇新材(301630)：同宇新材:关于持股5%以上股东及公司董事、高级管理人员拟减持公司股份的预披露公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301630/AN202609111829279464.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "同宇新材(301630)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "印尼附近海域发生6.2级地震",
-        "summary": "【印尼附近海域发生6.2级地震】据印尼气象、气候和地球物理局发布的报告，当地时间今天（9月11日）18时56分，北京时间19时56分，印尼马鲁古省东北166公里海域发生6.2级地震，震源深度143公里。没有引发海啸的风险。",
-        "publishedAt": "2026-09-11 20:09:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872247388.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "证监会发布《期货公司监督管理办法》及配套实施公告",
-        "summary": "【证监会发布《期货公司监督管理办法》及配套实施公告】本次修订主要包括以下内容：一是将期货公司业务分为基础类业务（境内期货经纪、期货交易咨询）和交易类业务（期货做市交易、期货资产管理、衍生品交易），并具体完善了期货公司设立变更、业务准入等方面的规范要求。二是强化对期货公司股东、实际控制人的监管，强化股东的说明、报告等义务，提升期货公司股权透明度。三是完善期货…",
-        "publishedAt": "2026-09-11 20:05:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872244281.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "行云科技:行云科技股份有限公司投资者关系活动记录表",
-        "summary": "行云科技(300209)：行云科技:行云科技股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300209/AN202609111829279665.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "行云科技(300209)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "珠城科技:中信建投证券股份有限公司关于浙江珠城科技股份有限公司股东向特定机构投资者询价转让股份相关资格的核查意见",
-        "summary": "珠城科技(301280)：珠城科技:中信建投证券股份有限公司关于浙江珠城科技股份有限公司股东向特定机构投资者询价转让股份相关资格的核查意见",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301280/AN202609111829279739.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "珠城科技(301280)"
-        ],
-        "importance": 1,
-        "noticeType": "询价转让核查报告/意见"
-      },
-      {
-        "title": "奕帆传动:关于回购注销2024年限制性股票激励计划激励对象所持已获授但尚未解锁的限制性股票暨调整限制性股票回购数量及价格的公告",
-        "summary": "奕帆传动(301023)：奕帆传动:关于回购注销2024年限制性股票激励计划激励对象所持已获授但尚未解锁的限制性股票暨调整限制性股票回购数量及价格的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301023/AN202609111829279654.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "奕帆传动(301023)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
-      },
-      {
-        "title": "奕帆传动:薪酬与考核委员会关于2024年股权激励计划限制性股票第二个解除限售期解除限售条件成就的激励对象名单及回购注销部分限制性股票的核查意见",
-        "summary": "奕帆传动(301023)：奕帆传动:薪酬与考核委员会关于2024年股权激励计划限制性股票第二个解除限售期解除限售条件成就的激励对象名单及回购注销部分限制性股票的核查意见",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301023/AN202609111829279662.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "奕帆传动(301023)"
+          "*ST康乐(920575)"
         ],
         "importance": 1,
         "noticeType": "保荐/核查意见"
       },
       {
-        "title": "奕帆传动:北京德恒(无锡)律师事务所关于奕帆传动2024年限制性股票激励计划第二个解除限售期解除限售条件成就及回购注销部分限制性股票的法律意见",
-        "summary": "奕帆传动(301023)：奕帆传动:北京德恒(无锡)律师事务所关于奕帆传动2024年限制性股票激励计划第二个解除限售期解除限售条件成就及回购注销部分限制性股票的法律意见",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301023/AN202609111829279644.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "桥水基金高管：或许要“闹出人命后”人类才会出手遏制AI",
+        "summary": "【桥水基金高管：或许要“闹出人命后”人类才会出手遏制AI】对冲基金巨头桥水（BridgewaterAssociates）的联席首席投资官GregJensen发出严厉警告，称人工智能热潮可能带来严重风险和后果。",
+        "publishedAt": "2026-09-11 23:59:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872453351.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
-          "金融"
+          "AI算力"
         ],
-        "tickers": [
-          "奕帆传动(301023)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "法律意见书"
+        "noticeType": ""
       },
       {
-        "title": "君逸数码:关于使用闲置募集资金(含超募资金)进行现金管理的公告",
-        "summary": "君逸数码(301172)：君逸数码:关于使用闲置募集资金(含超募资金)进行现金管理的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301172/AN202609111829279590.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "美国众议院计划于下周对一项针对俄罗斯的制裁法案进行全院表决",
+        "summary": "美国众议院计划于下周对一项针对俄罗斯的制裁法案进行全院表决。",
+        "publishedAt": "2026-09-11 23:19:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872427270.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "君逸数码(301172)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": ""
       },
       {
-        "title": "宏达电子:关于使用部分自有资金进行现金管理的公告",
-        "summary": "宏达电子(300726)：宏达电子:关于使用部分自有资金进行现金管理的公告",
+        "title": "秋田微:2026年09月11日投资者关系活动记录表",
+        "summary": "秋田微(300939)：秋田微:2026年09月11日投资者关系活动记录表",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300726/AN202609111829279397.html",
+        "url": "https://data.eastmoney.com/notices/detail/300939/AN202609111829278998.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "宏达电子(300726)"
+          "秋田微(300939)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "调研活动"
       },
       {
-        "title": "美国截至9月4日当周EIA原油库存变动(万桶)",
-        "summary": "美国截至9月4日当周EIA原油库存变动(万桶)；公布 -39.1，预期 -155.4，前值 -445.0。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
+        "title": "000510新金路投资者关系管理信息20260911",
+        "summary": "新金路(000510)：000510新金路投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000510/AN202609111829279059.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新金路(000510)"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
-        "title": "美国截至9月4日当周EIA精炼油库存变动(万桶)",
-        "summary": "美国截至9月4日当周EIA精炼油库存变动(万桶)；公布 208.7，预期 -72.0，前值 79.6。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "2026年9月11日成都高新发展股份有限公司投资者关系活动记录表",
+        "summary": "高新发展(000628)：2026年9月11日成都高新发展股份有限公司投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000628/AN202609111829278595.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "高新发展(000628)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "云图控股:002539云图控股投资者关系管理信息20260911",
+        "summary": "云图控股(002539)：云图控股:002539云图控股投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002539/AN202609111829276844.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "云图控股(002539)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000688国城矿业投资者关系管理信息20260911",
+        "summary": "国城矿业(000688)：000688国城矿业投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000688/AN202609111829276396.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国城矿业(000688)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中密控股2026年半年度网上业绩说明会投关记录表",
+        "summary": "中密控股(300470)：中密控股2026年半年度网上业绩说明会投关记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300470/AN202609111829274883.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中密控股(300470)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "003023彩虹集团投资者关系管理信息20260911",
+        "summary": "彩虹集团(003023)：003023彩虹集团投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003023/AN202609111829273471.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "彩虹集团(003023)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "传音控股:2026年9月9日投资者关系活动记录表",
+        "summary": "传音控股(688036)：传音控股:2026年9月9日投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688036/AN202609111829269146.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "传音控股(688036)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
+        "summary": "华海诚科(688535)：华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688535/AN202609111829268094.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华海诚科(688535)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "2-1重大资产重组报告书(注册稿)(杭州天元宠物用品股份有限公司)",
+        "summary": "天元宠物(301335)：2-1重大资产重组报告书(注册稿)(杭州天元宠物用品股份有限公司)",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301335/AN202609111829284041.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天元宠物(301335)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组报告书注册稿"
+      },
+      {
+        "title": "3-1独立财务顾问报告(注册稿)(杭州天元宠物用品股份有限公司)",
+        "summary": "天元宠物(301335)：3-1独立财务顾问报告(注册稿)(杭州天元宠物用品股份有限公司)",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301335/AN202609111829284042.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天元宠物(301335)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组独立财务顾问报告注册稿"
+      },
+      {
+        "title": "金银含量奇高！我国找矿有重大突破",
+        "summary": "【金银含量奇高！我国找矿有重大突破】近日，由清华大学、中国地质调查局青岛海洋地质研究所、上海交通大学等单位开展的西太平洋海底热液活动与资源联合科考航次取得重要突破。科考团队依托自主研制的设备在西太平洋新锁定一处大型高温活动热液区，初步证实具备大规模多金属硫化物资源潜力。",
+        "publishedAt": "2026-09-11 23:44:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872434033.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月4日当周EIA每周原油进口变动(万桶)",
-        "summary": "美国截至9月4日当周EIA每周原油进口变动(万桶)；公布 112.0，预期 nan，前值 -7.9。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
+        "title": "阿布扎比国家石油公司（ADNOC）、XRG及马斯达尔（Masdar）与德国企业签署多项协议",
+        "summary": "阿布扎比国家石油公司（ADNOC）、XRG及马斯达尔（Masdar）与德国企业签署多项协议，将在德国投资超过50亿欧元。",
+        "publishedAt": "2026-09-11 23:39:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872444426.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月4日当周EIA俄克拉荷马州-库欣原油库存(万桶)",
-        "summary": "美国截至9月4日当周EIA俄克拉荷马州-库欣原油库存(万桶)；公布 -68.4，预期 nan，前值 8.0。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "LME期铜收涨6美元 报14240美元/吨",
+        "summary": "【LME期铜收涨6美元 报14240美元/吨】LME期铜收涨6美元，报14240美元/吨。LME期铝收跌40美元，报3253美元/吨。LME期锌收跌11美元，报3881美元/吨。LME期铅收跌9美元，报1892美元/吨。LME期镍收跌197美元，报16469美元/吨。LME期锡收跌980美元，报53364美元/吨。LME期钴收跌530美元，报41850美元…",
+        "publishedAt": "2026-09-12 00:54:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609123872465296.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "能源"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "佩斯科夫：俄美乌或在近期举行三方会晤",
+        "summary": "【佩斯科夫：俄美乌或在近期举行三方会晤】当地时间9月11日，俄罗斯总统新闻秘书佩斯科夫在接受采访时表示，克里姆林宫预计，在近期俄罗斯、美国和乌克兰能够举行三方会晤并继续对话。他还补充说，就乌克兰问题谈判本身，没有人为举行谈判预设条件，俄罗斯保持开放态度。",
+        "publishedAt": "2026-09-12 00:48:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609123872463169.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -106359,15 +106346,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-11 20:45:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-09-12 00:59:50",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 有色稀土、AI算力、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：通信设备；首看 通信设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -106398,7 +106385,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-11 20:44:28",
+        "generatedAt": "2026-09-12 00:59:02",
         "summary": "上午情绪分 33，涨停 40 家，跌停 21 家，炸板 18 家，连板 7 家，最高 4 板。",
         "sections": [
           {
@@ -106437,7 +106424,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-11 20:44:28",
+        "generatedAt": "2026-09-12 00:59:02",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -106463,7 +106450,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 21 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：同有科技:公司与招商证券股份有限公司关于北京同有飞骥科技股份有限公司申请向特定对象发行股票的审核问询函的回复(豁免版)；彩讯股份:关于彩讯科技股份有限公司向不特定对象发行可转换公司债券申请文件的审核问询函的回复。",
+              "新闻/公告风险：*ST康乐:中信证券股份有限公司关于北京康乐卫士生物技术股份有限公司2026年半年度持续督导跟踪报告；桥水基金高管：或许要“闹出人命后”人类才会出手遏制AI。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
