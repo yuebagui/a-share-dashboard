@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-11 20:17:04",
+    "generatedAt": "2026-09-11 20:22:13",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -133103,16 +133103,11 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-11",
-    "generatedAt": "2026-09-11 20:18:00",
+    "generatedAt": "2026-09-11 20:23:03",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 能源、AI算力、金融。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 13,
-        "isFocusBoard": false
-      },
       {
         "name": "能源",
         "score": 12,
@@ -133124,8 +133119,18 @@
         "isFocusBoard": false
       },
       {
+        "name": "金融",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -133136,43 +133141,11 @@
     ],
     "items": [
       {
-        "title": "信濠光电:中和资产评估有限公司关于对深圳市信濠光电科技股份有限公司问询函的回复",
-        "summary": "信濠光电(301051)：信濠光电:中和资产评估有限公司关于对深圳市信濠光电科技股份有限公司问询函的回复",
+        "title": "*ST康乐:中信证券股份有限公司关于北京康乐卫士生物技术股份有限公司2026年半年度持续督导跟踪报告",
+        "summary": "*ST康乐(920575)：*ST康乐:中信证券股份有限公司关于北京康乐卫士生物技术股份有限公司2026年半年度持续督导跟踪报告",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301051/AN202609111829279000.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "信濠光电(301051)"
-        ],
-        "importance": 1,
-        "noticeType": "问询函其他公告"
-      },
-      {
-        "title": "信濠光电:中喜会计师事务所关于深圳市信濠光电科技股份有限公司问询函问题的专项说明",
-        "summary": "信濠光电(301051)：信濠光电:中喜会计师事务所关于深圳市信濠光电科技股份有限公司问询函问题的专项说明",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301051/AN202609111829278999.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "信濠光电(301051)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "信濠光电:关于深圳证券交易所对深圳市信濠光电科技股份有限公司的问询函的回复",
-        "summary": "信濠光电(301051)：信濠光电:关于深圳证券交易所对深圳市信濠光电科技股份有限公司的问询函的回复",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301051/AN202609111829278947.html",
+        "url": "https://data.eastmoney.com/notices/detail/920575/AN202609111829272296.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -133180,26 +133153,10 @@
           "金融"
         ],
         "tickers": [
-          "信濠光电(301051)"
+          "*ST康乐(920575)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "百迈科:关于签署募集资金三方监管协议的公告",
-        "summary": "百迈科(920268)：百迈科:关于签署募集资金三方监管协议的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920268/AN202609111829278834.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "百迈科(920268)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
+        "noticeType": "保荐/核查意见"
       },
       {
         "title": "印尼附近海域发生6.2级地震",
@@ -133272,136 +133229,180 @@
         "noticeType": ""
       },
       {
-        "title": "宏达电子:关于使用部分自有资金进行现金管理的公告",
-        "summary": "宏达电子(300726)：宏达电子:关于使用部分自有资金进行现金管理的公告",
+        "title": "秋田微:2026年09月11日投资者关系活动记录表",
+        "summary": "秋田微(300939)：秋田微:2026年09月11日投资者关系活动记录表",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300726/AN202609111829279397.html",
+        "url": "https://data.eastmoney.com/notices/detail/300939/AN202609111829278998.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "宏达电子(300726)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "四会富仕:关于部分闲置募集资金现金管理到期赎回的公告",
-        "summary": "四会富仕(300852)：四会富仕:关于部分闲置募集资金现金管理到期赎回的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300852/AN202609111829279325.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "四会富仕(300852)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "四会富仕:关于调整回购公司股份价格上限的公告",
-        "summary": "四会富仕(300852)：四会富仕:关于调整回购公司股份价格上限的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300852/AN202609111829279328.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "四会富仕(300852)"
-        ],
-        "importance": 1,
-        "noticeType": "回购方案修订"
-      },
-      {
-        "title": "泰和科技:回购股份注销完成暨股份变动的公告",
-        "summary": "泰和科技(300801)：泰和科技:回购股份注销完成暨股份变动的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300801/AN202609111829279322.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "泰和科技(300801)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "安控科技:安控科技：2026年9月11日投资者关系活动记录表",
-        "summary": "安控科技(300370)：安控科技:安控科技：2026年9月11日投资者关系活动记录表",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300370/AN202609111829279168.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安控科技(300370)"
+          "秋田微(300939)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "优优绿能:关于调整2025年股权激励计划第二类限制性股票授予价格及数量和股票期权行权价格及数量的公告",
-        "summary": "优优绿能(301590)：优优绿能:关于调整2025年股权激励计划第二类限制性股票授予价格及数量和股票期权行权价格及数量的公告",
+        "title": "000510新金路投资者关系管理信息20260911",
+        "summary": "新金路(000510)：000510新金路投资者关系管理信息20260911",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301590/AN202609111829278826.html",
+        "url": "https://data.eastmoney.com/notices/detail/000510/AN202609111829279059.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "优优绿能(301590)"
+          "新金路(000510)"
         ],
         "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
+        "noticeType": "调研活动"
       },
       {
-        "title": "优优绿能:关于注销2022年股票期权激励计划部分股票期权的公告",
-        "summary": "优优绿能(301590)：优优绿能:关于注销2022年股票期权激励计划部分股票期权的公告",
+        "title": "2026年9月11日成都高新发展股份有限公司投资者关系活动记录表",
+        "summary": "高新发展(000628)：2026年9月11日成都高新发展股份有限公司投资者关系活动记录表",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301590/AN202609111829278793.html",
+        "url": "https://data.eastmoney.com/notices/detail/000628/AN202609111829278595.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "优优绿能(301590)"
+          "高新发展(000628)"
         ],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "优优绿能:关于调整2022年股票期权激励计划行权价格及数量的公告",
-        "summary": "优优绿能(301590)：优优绿能:关于调整2022年股票期权激励计划行权价格及数量的公告",
+        "title": "云图控股:002539云图控股投资者关系管理信息20260911",
+        "summary": "云图控股(002539)：云图控股:002539云图控股投资者关系管理信息20260911",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301590/AN202609111829278795.html",
+        "url": "https://data.eastmoney.com/notices/detail/002539/AN202609111829276844.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "优优绿能(301590)"
+          "云图控股(002539)"
         ],
         "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000688国城矿业投资者关系管理信息20260911",
+        "summary": "国城矿业(000688)：000688国城矿业投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000688/AN202609111829276396.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国城矿业(000688)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中密控股2026年半年度网上业绩说明会投关记录表",
+        "summary": "中密控股(300470)：中密控股2026年半年度网上业绩说明会投关记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300470/AN202609111829274883.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中密控股(300470)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "003023彩虹集团投资者关系管理信息20260911",
+        "summary": "彩虹集团(003023)：003023彩虹集团投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003023/AN202609111829273471.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "彩虹集团(003023)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "传音控股:2026年9月9日投资者关系活动记录表",
+        "summary": "传音控股(688036)：传音控股:2026年9月9日投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688036/AN202609111829269146.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "传音控股(688036)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
+        "summary": "华海诚科(688535)：华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688535/AN202609111829268094.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华海诚科(688535)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中科信息:300678中科信息投资者关系管理信息20260911",
+        "summary": "中科信息(300678)：中科信息:300678中科信息投资者关系管理信息20260911",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300678/AN202609111829281179.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中科信息(300678)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华森制药:2026年半年度业绩说明会投资者关系活动记录表",
+        "summary": "华森制药(002907)：华森制药:2026年半年度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002907/AN202609111829280498.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华森制药(002907)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "第16次亚太经合组织能源部长会议达成多个共识成果",
@@ -133564,15 +133565,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-11 20:18:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-09-11 20:23:03",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 能源、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：通信设备；首看 通信设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -133603,7 +133604,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-11 20:17:04",
+        "generatedAt": "2026-09-11 20:22:13",
         "summary": "上午情绪分 33，涨停 40 家，跌停 21 家，炸板 18 家，连板 7 家，最高 4 板。",
         "sections": [
           {
@@ -133642,7 +133643,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-11 20:17:04",
+        "generatedAt": "2026-09-11 20:22:13",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -133668,7 +133669,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 21 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：信濠光电:中和资产评估有限公司关于对深圳市信濠光电科技股份有限公司问询函的回复；信濠光电:中喜会计师事务所关于深圳市信濠光电科技股份有限公司问询函问题的专项说明。",
+              "新闻/公告风险：*ST康乐:中信证券股份有限公司关于北京康乐卫士生物技术股份有限公司2026年半年度持续督导跟踪报告；印尼附近海域发生6.2级地震。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
