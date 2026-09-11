@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-11 16:18:40",
+    "generatedAt": "2026-09-11 20:17:04",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -1.18,
       "turnover": "9582亿",
       "turnoverValue": 958186336970.0,
-      "quoteTime": "2026-09-11 16:14:33",
+      "quoteTime": "2026-09-11 16:14:03",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -1.01,
       "turnover": "779亿",
       "turnoverValue": 77879623688.0,
-      "quoteTime": "2026-09-11 16:14:45",
+      "quoteTime": "2026-09-11 16:14:15",
       "source": "腾讯直连"
     }
   ],
@@ -133103,118 +133103,110 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-11",
-    "generatedAt": "2026-09-11 16:19:12",
+    "generatedAt": "2026-09-11 20:18:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 AI算力、新能源、有色稀土。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 7,
+        "name": "金融",
+        "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "能源",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "天宏锂电:股东减持股份结果公告",
-        "summary": "天宏锂电(920252)：天宏锂电:股东减持股份结果公告",
+        "title": "信濠光电:中和资产评估有限公司关于对深圳市信濠光电科技股份有限公司问询函的回复",
+        "summary": "信濠光电(301051)：信濠光电:中和资产评估有限公司关于对深圳市信濠光电科技股份有限公司问询函的回复",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920252/AN202609111829268208.html",
+        "url": "https://data.eastmoney.com/notices/detail/301051/AN202609111829279000.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "信濠光电(301051)"
+        ],
+        "importance": 1,
+        "noticeType": "问询函其他公告"
+      },
+      {
+        "title": "信濠光电:中喜会计师事务所关于深圳市信濠光电科技股份有限公司问询函问题的专项说明",
+        "summary": "信濠光电(301051)：信濠光电:中喜会计师事务所关于深圳市信濠光电科技股份有限公司问询函问题的专项说明",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301051/AN202609111829278999.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "信濠光电(301051)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "信濠光电:关于深圳证券交易所对深圳市信濠光电科技股份有限公司的问询函的回复",
+        "summary": "信濠光电(301051)：信濠光电:关于深圳证券交易所对深圳市信濠光电科技股份有限公司的问询函的回复",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301051/AN202609111829278947.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "新能源",
-          "有色稀土"
+          "金融"
         ],
         "tickers": [
-          "天宏锂电(920252)"
+          "信濠光电(301051)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "发行人及中介机构回复意见(江苏点夺技术股份有限公司)",
-        "summary": "点夺技术(A26199)：发行人及中介机构回复意见(江苏点夺技术股份有限公司)",
+        "title": "百迈科:关于签署募集资金三方监管协议的公告",
+        "summary": "百迈科(920268)：百迈科:关于签署募集资金三方监管协议的公告",
         "publishedAt": "2026-09-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26199/AN202609111829268017.html",
+        "url": "https://data.eastmoney.com/notices/detail/920268/AN202609111829278834.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "点夺技术(A26199)"
+          "百迈科(920268)"
         ],
         "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
+        "noticeType": "签订协议"
       },
       {
-        "title": "张小泉:关于持股5%以上股东所持部分股份质押的公告",
-        "summary": "张小泉(301055)：张小泉:关于持股5%以上股东所持部分股份质押的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301055/AN202609111829268032.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "张小泉(301055)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "ST福能:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会的公告",
-        "summary": "ST福能(300173)：ST福能:关于参加2026年广东辖区投资者集体接待日暨辖区上市公司中报业绩说明会的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300173/AN202609111829267957.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST福能(300173)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "8月网约车监管信息交互系统共收到订单信息10.69亿单",
-        "summary": "【8月网约车监管信息交互系统共收到订单信息10.69亿单】交通运输部消息，据网约车监管信息交互系统监测，截至2026年8月31日，全国共有402家网约车平台公司取得网约车平台经营许可，与上月持平。网约车监管信息交互系统8月份共收到订单信息10.69亿单。",
-        "publishedAt": "2026-09-11 15:59:47",
+        "title": "印尼附近海域发生6.2级地震",
+        "summary": "【印尼附近海域发生6.2级地震】据印尼气象、气候和地球物理局发布的报告，当地时间今天（9月11日）18时56分，北京时间19时56分，印尼马鲁古省东北166公里海域发生6.2级地震，震源深度143公里。没有引发海啸的风险。",
+        "publishedAt": "2026-09-11 20:09:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872058669.html",
+        "url": "https://finance.eastmoney.com/a/202609113872247388.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -133224,205 +133216,206 @@
         "noticeType": ""
       },
       {
-        "title": "华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
-        "summary": "华海诚科(688535)：华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688535/AN202609111829268094.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华海诚科(688535)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "台华新材:20260910投资者关系活动记录表",
-        "summary": "台华新材(603055)：台华新材:20260910投资者关系活动记录表",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603055/AN202609111829268096.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "台华新材(603055)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "三旺通信:深圳市三旺通信股份有限公司投资者关系活动记录表(2026年9月10日)",
-        "summary": "三旺通信(688618)：三旺通信:深圳市三旺通信股份有限公司投资者关系活动记录表(2026年9月10日)",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688618/AN202609111829268097.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三旺通信(688618)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "麦加芯彩:投资者关系活动记录表(2026-004)",
-        "summary": "麦加芯彩(603062)：麦加芯彩:投资者关系活动记录表(2026-004)",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603062/AN202609111829268095.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "麦加芯彩(603062)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "翰博高新:关于参加2026年安徽辖区上市公司投资者网上集体接待日活动的公告",
-        "summary": "翰博高新(301321)：翰博高新:关于参加2026年安徽辖区上市公司投资者网上集体接待日活动的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301321/AN202609111829268051.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "翰博高新(301321)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "盛邦安全:远江盛邦安全科技集团股份有限公司2026年9月10日投资者关系活动记录表",
-        "summary": "盛邦安全(688651)：盛邦安全:远江盛邦安全科技集团股份有限公司2026年9月10日投资者关系活动记录表",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688651/AN202609111829267935.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盛邦安全(688651)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "英力股份:关于参加2026年安徽辖区上市公司投资者网上集体接待日活动的公告",
-        "summary": "英力股份(300956)：英力股份:关于参加2026年安徽辖区上市公司投资者网上集体接待日活动的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300956/AN202609111829267969.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "英力股份(300956)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "002046国机精工投资者关系管理信息20260911",
-        "summary": "国机精工(002046)：002046国机精工投资者关系管理信息20260911",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002046/AN202609111829267577.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国机精工(002046)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "三安光电：计划将光芯片产能规模扩充至4500片/月",
-        "summary": "【三安光电：计划将光芯片产能规模扩充至4500片/月】针对投资者关于“全球光芯片短缺涨价，公司光芯片产线是否满产，下半年是否有加大光芯片产线的投资以应付光芯片需求？ ”的提问，三安光电9月11日在互动平台回应称，公司光技术产品现有外延产能6000片/月，光芯片产能2750片/月。因AI光模块需求激增，高速芯片市场供需紧张，公司计划将光芯片产能规模扩充至45…",
-        "publishedAt": "2026-09-11 15:38:36",
+        "title": "证监会发布《期货公司监督管理办法》及配套实施公告",
+        "summary": "【证监会发布《期货公司监督管理办法》及配套实施公告】本次修订主要包括以下内容：一是将期货公司业务分为基础类业务（境内期货经纪、期货交易咨询）和交易类业务（期货做市交易、期货资产管理、衍生品交易），并具体完善了期货公司设立变更、业务准入等方面的规范要求。二是强化对期货公司股东、实际控制人的监管，强化股东的说明、报告等义务，提升期货公司股权透明度。三是完善期货…",
+        "publishedAt": "2026-09-11 20:05:15",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872049522.html",
+        "url": "https://finance.eastmoney.com/a/202609113872244281.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "波罗的海干散货运价指数下跌0.4%",
+        "summary": "波罗的海干散货运价指数下跌0.4%，至3507点。",
+        "publishedAt": "2026-09-11 20:03:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872242917.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股核电股Oklo股价盘前下跌4.1%",
+        "summary": "【美股核电股Oklo股价盘前下跌4.1%】美股核电股Oklo股价盘前下跌4.1%。SEC文件显示，该公司可能发行总收益最高达10亿美元的A类普通股。",
+        "publishedAt": "2026-09-11 19:50:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872238946.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "矩阵股份：四家员工持股平台拟减持不超3%股份",
+        "summary": "【矩阵股份：四家员工持股平台拟减持不超3%股份】矩阵股份公告，公司控股股东、实际控制人王冠控制的员工持股平台天玑玉衡投资、几善优合投资、迷凯斯投资、合纵连横咨询拟于2026年10月13日至2027年1月12日，通过集中竞价、大宗交易减持不超过547.29万股，占总股本3.0000%。",
+        "publishedAt": "2026-09-11 19:44:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872236421.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "宏达电子:关于使用部分自有资金进行现金管理的公告",
+        "summary": "宏达电子(300726)：宏达电子:关于使用部分自有资金进行现金管理的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300726/AN202609111829279397.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宏达电子(300726)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "四会富仕:关于部分闲置募集资金现金管理到期赎回的公告",
+        "summary": "四会富仕(300852)：四会富仕:关于部分闲置募集资金现金管理到期赎回的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300852/AN202609111829279325.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "四会富仕(300852)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "四会富仕:关于调整回购公司股份价格上限的公告",
+        "summary": "四会富仕(300852)：四会富仕:关于调整回购公司股份价格上限的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300852/AN202609111829279328.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "四会富仕(300852)"
+        ],
+        "importance": 1,
+        "noticeType": "回购方案修订"
+      },
+      {
+        "title": "泰和科技:回购股份注销完成暨股份变动的公告",
+        "summary": "泰和科技(300801)：泰和科技:回购股份注销完成暨股份变动的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300801/AN202609111829279322.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "泰和科技(300801)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "安控科技:安控科技：2026年9月11日投资者关系活动记录表",
+        "summary": "安控科技(300370)：安控科技:安控科技：2026年9月11日投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300370/AN202609111829279168.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安控科技(300370)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "优优绿能:关于调整2025年股权激励计划第二类限制性股票授予价格及数量和股票期权行权价格及数量的公告",
+        "summary": "优优绿能(301590)：优优绿能:关于调整2025年股权激励计划第二类限制性股票授予价格及数量和股票期权行权价格及数量的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301590/AN202609111829278826.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "优优绿能(301590)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "优优绿能:关于注销2022年股票期权激励计划部分股票期权的公告",
+        "summary": "优优绿能(301590)：优优绿能:关于注销2022年股票期权激励计划部分股票期权的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301590/AN202609111829278793.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "优优绿能(301590)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "优优绿能:关于调整2022年股票期权激励计划行权价格及数量的公告",
+        "summary": "优优绿能(301590)：优优绿能:关于调整2022年股票期权激励计划行权价格及数量的公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301590/AN202609111829278795.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "优优绿能(301590)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
+      },
+      {
+        "title": "第16次亚太经合组织能源部长会议达成多个共识成果",
+        "summary": "【第16次亚太经合组织能源部长会议达成多个共识成果】经过充分讨论，会议发布《2026年APEC能源部长会议联合声明》，通过《APEC高质量能源普惠愿景与行动》《APEC人工智能与能源双向赋能政策推荐（2026—2030）》《APEC促进能源安全协同的非约束性准则》3项专业领域共识成果，并作出五项东道主自主贡献成果。",
+        "publishedAt": "2026-09-11 19:43:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872236582.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体",
-          "AI算力"
+          "AI算力",
+          "能源"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "小摩：维持宁德时代“增持”评级 目标价725港元",
-        "summary": "【小摩：维持宁德时代“增持“评级 目标价725港元】摩根大通发布研报称，维持宁德时代\"增持\"评级，目标价725港元。该行指出，市场的忧虑由2027年需求增长放缓，已扩大至产能过剩、利用率下降及新一轮价格竞争。最近，小米集团-W的供应商多元化策略，以及理想汽车-W自研电池的消息亦令行业悲观情绪升温。不过，该行相信2027年不会重演2023至2024年产能过剩…",
-        "publishedAt": "2026-09-11 15:29:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872040373.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "汽车链"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "花旗：下调青岛啤酒股份目标价至68.55港元 维持“买入”评级",
-        "summary": "【花旗：下调青岛啤酒股份目标价至68.55港元 维持“买入“评级】花旗发布研报称，考虑内地啤酒行业第二至第三季旺季行业增长逊于预期，该行将青岛啤酒股份(00168)今明两年销售预测分别下降6%及7%、纯利润预测下降2%及5%。该行按2026年预测EV/EBITDA 10倍(与全球同业市值加权平均看齐，原先为12倍，以反映行业疲弱)估值，将目标价由76.1港…",
-        "publishedAt": "2026-09-11 16:15:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872068135.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "也门胡塞武装完全控制曼德海峡",
-        "summary": "据报道，也门胡塞武装完全控制曼德海峡。",
-        "publishedAt": "2026-09-11 16:14:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872068646.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "9月11日港股收盘：恒指跌0.6% 恒生科技指数跌0.23%",
-        "summary": "【9月11日港股收盘：恒指跌0.6% 恒生科技指数跌0.23%】恒生指数收报24805.63点，跌148.84点，跌幅0.6%；恒生科技指数收报4320.57点，跌9.92点，跌幅0.23%。恒生指数成分股中东方海外国际、银河娱乐、申洲国际涨幅居前，洛阳钼业、新鸿基地产、紫金矿业跌幅靠前。",
-        "publishedAt": "2026-09-11 16:10:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872064063.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -133571,15 +133564,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-11 16:19:12",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 AI算力、新能源、有色稀土。",
+        "generatedAt": "2026-09-11 20:18:00",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：通信设备；首看 通信设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、新能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -133610,7 +133603,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-11 16:18:40",
+        "generatedAt": "2026-09-11 20:17:04",
         "summary": "上午情绪分 33，涨停 40 家，跌停 21 家，炸板 18 家，连板 7 家，最高 4 板。",
         "sections": [
           {
@@ -133649,7 +133642,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-11 16:18:40",
+        "generatedAt": "2026-09-11 20:17:04",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -133675,7 +133668,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 21 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天宏锂电:股东减持股份结果公告；发行人及中介机构回复意见(江苏点夺技术股份有限公司)。",
+              "新闻/公告风险：信濠光电:中和资产评估有限公司关于对深圳市信濠光电科技股份有限公司问询函的回复；信濠光电:中喜会计师事务所关于深圳市信濠光电科技股份有限公司问询函问题的专项说明。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
