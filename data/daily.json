@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-11 16:13:46",
+    "generatedAt": "2026-09-11 16:18:40",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -1.18,
       "turnover": "9582亿",
       "turnoverValue": 958186336970.0,
-      "quoteTime": "2026-09-11 16:13:03",
+      "quoteTime": "2026-09-11 16:14:33",
       "source": "腾讯直连"
     },
     {
@@ -22,7 +22,7 @@
       "changePct": -1.08,
       "turnover": "1.01万亿",
       "turnoverValue": 1013712150760.0,
-      "quoteTime": "2026-09-11 16:12:54",
+      "quoteTime": "2026-09-11 16:14:54",
       "source": "腾讯直连"
     },
     {
@@ -31,7 +31,7 @@
       "changePct": -0.49,
       "turnover": "4577亿",
       "turnoverValue": 457744517571.0,
-      "quoteTime": "2026-09-11 16:13:09",
+      "quoteTime": "2026-09-11 16:14:09",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -1.01,
       "turnover": "779亿",
       "turnoverValue": 77879623688.0,
-      "quoteTime": "2026-09-11 16:13:15",
+      "quoteTime": "2026-09-11 16:14:45",
       "source": "腾讯直连"
     }
   ],
@@ -133103,16 +133103,13 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-11",
-    "generatedAt": "2026-09-11 16:14:16",
+    "generatedAt": "2026-09-11 16:19:12",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 能源、AI算力、新能源。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 AI算力、新能源、有色稀土。",
     "themes": [
-      {
-        "name": "能源",
-        "score": 11,
-        "isFocusBoard": false
-      },
       {
         "name": "AI算力",
         "score": 7,
@@ -133120,12 +133117,12 @@
       },
       {
         "name": "新能源",
-        "score": 6,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 5,
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -133137,9 +133134,33 @@
         "name": "汽车链",
         "score": 3,
         "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "天宏锂电:股东减持股份结果公告",
+        "summary": "天宏锂电(920252)：天宏锂电:股东减持股份结果公告",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920252/AN202609111829268208.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "新能源",
+          "有色稀土"
+        ],
+        "tickers": [
+          "天宏锂电(920252)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
       {
         "title": "发行人及中介机构回复意见(江苏点夺技术股份有限公司)",
         "summary": "点夺技术(A26199)：发行人及中介机构回复意见(江苏点夺技术股份有限公司)",
@@ -133201,6 +133222,70 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
+        "summary": "华海诚科(688535)：华海诚科:江苏华海诚科新材料股份有限公司2026年9月投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688535/AN202609111829268094.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华海诚科(688535)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "台华新材:20260910投资者关系活动记录表",
+        "summary": "台华新材(603055)：台华新材:20260910投资者关系活动记录表",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603055/AN202609111829268096.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "台华新材(603055)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "三旺通信:深圳市三旺通信股份有限公司投资者关系活动记录表(2026年9月10日)",
+        "summary": "三旺通信(688618)：三旺通信:深圳市三旺通信股份有限公司投资者关系活动记录表(2026年9月10日)",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688618/AN202609111829268097.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三旺通信(688618)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "麦加芯彩:投资者关系活动记录表(2026-004)",
+        "summary": "麦加芯彩(603062)：麦加芯彩:投资者关系活动记录表(2026-004)",
+        "publishedAt": "2026-09-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603062/AN202609111829268095.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "麦加芯彩(603062)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "翰博高新:关于参加2026年安徽辖区上市公司投资者网上集体接待日活动的公告",
@@ -133267,86 +133352,6 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "福瑞医科:300049福瑞医科投资者关系管理信息20260911",
-        "summary": "福瑞医科(300049)：福瑞医科:300049福瑞医科投资者关系管理信息20260911",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300049/AN202609111829267576.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "福瑞医科(300049)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "世昌股份:关于使用部分闲置自有资金进行现金管理的公告",
-        "summary": "世昌股份(920022)：世昌股份:关于使用部分闲置自有资金进行现金管理的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920022/AN202609111829267616.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "世昌股份(920022)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "昂瑞微:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "summary": "昂瑞微(688790)：昂瑞微:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688790/AN202609111829267539.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "昂瑞微(688790)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "超研股份:关于参加2026年广东辖区上市公司投资者网上集体接待日活动的公告",
-        "summary": "超研股份(301602)：超研股份:关于参加2026年广东辖区上市公司投资者网上集体接待日活动的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301602/AN202609111829267572.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "超研股份(301602)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "石药创新:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报业绩说明会的公告",
-        "summary": "石药创新(300765)：石药创新:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报业绩说明会的公告",
-        "publishedAt": "2026-09-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300765/AN202609111829267472.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "石药创新(300765)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
         "title": "三安光电：计划将光芯片产能规模扩充至4500片/月",
         "summary": "【三安光电：计划将光芯片产能规模扩充至4500片/月】针对投资者关于“全球光芯片短缺涨价，公司光芯片产线是否满产，下半年是否有加大光芯片产线的投资以应付光芯片需求？ ”的提问，三安光电9月11日在互动平台回应称，公司光技术产品现有外延产能6000片/月，光芯片产能2750片/月。因AI光模块需求激增，高速芯片市场供需紧张，公司计划将光芯片产能规模扩充至45…",
         "publishedAt": "2026-09-11 15:38:36",
@@ -133381,49 +133386,45 @@
         "noticeType": ""
       },
       {
-        "title": "润邦股份：公司部分船舶订单已排至2030年",
-        "summary": "【润邦股份：公司部分船舶订单已排至2030年】润邦股份9月11日在互动平台表示，截至目前，公司已获得多个船舶与海洋工程装备相关订单，当前公司部分船舶订单已排至2030年。",
-        "publishedAt": "2026-09-11 15:21:37",
+        "title": "花旗：下调青岛啤酒股份目标价至68.55港元 维持“买入”评级",
+        "summary": "【花旗：下调青岛啤酒股份目标价至68.55港元 维持“买入“评级】花旗发布研报称，考虑内地啤酒行业第二至第三季旺季行业增长逊于预期，该行将青岛啤酒股份(00168)今明两年销售预测分别下降6%及7%、纯利润预测下降2%及5%。该行按2026年预测EV/EBITDA 10倍(与全球同业市值加权平均看齐，原先为12倍，以反映行业疲弱)估值，将目标价由76.1港…",
+        "publishedAt": "2026-09-11 16:15:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872036139.html",
+        "url": "https://finance.eastmoney.com/a/202609113872068135.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "国轩高科拿下沙特首批大型电池储能项目6GWh储能订单",
-        "summary": "【国轩高科拿下沙特首批大型电池储能项目6GWh储能订单】记者获悉，近日沙特首批大型电池储能项目正式落地并进入实质性建设阶段，国轩高科成功拿下该项目核心6GWh储能订单，为沙特三大主力储能站点提供全套储能解决方案，标志着公司正式突破中东高端储能市场。据悉，方案搭载国轩高科乾元智储储能系统，产品具备高集成度、大容量、长循环寿命等优势。",
-        "publishedAt": "2026-09-11 15:20:38",
+        "title": "也门胡塞武装完全控制曼德海峡",
+        "summary": "据报道，也门胡塞武装完全控制曼德海峡。",
+        "publishedAt": "2026-09-11 16:14:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609113872035098.html",
+        "url": "https://finance.eastmoney.com/a/202609113872068646.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源"
-        ],
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月4日当周EIA原油库存变动(万桶)",
-        "summary": "美国截至9月4日当周EIA原油库存变动(万桶)；公布 -39.1，预期 -155.4，前值 -445.0。",
-        "publishedAt": "2026-09-11 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
+        "title": "9月11日港股收盘：恒指跌0.6% 恒生科技指数跌0.23%",
+        "summary": "【9月11日港股收盘：恒指跌0.6% 恒生科技指数跌0.23%】恒生指数收报24805.63点，跌148.84点，跌幅0.6%；恒生科技指数收报4320.57点，跌9.92点，跌幅0.23%。恒生指数成分股中东方海外国际、银河娱乐、申洲国际涨幅居前，洛阳钼业、新鸿基地产、紫金矿业跌幅靠前。",
+        "publishedAt": "2026-09-11 16:10:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609113872064063.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -133570,15 +133571,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-11 16:14:16",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 能源、AI算力、新能源。",
+        "generatedAt": "2026-09-11 16:19:12",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 AI算力、新能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：通信设备；首看 通信设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、新能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -133609,7 +133610,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-11 16:13:46",
+        "generatedAt": "2026-09-11 16:18:40",
         "summary": "上午情绪分 33，涨停 40 家，跌停 21 家，炸板 18 家，连板 7 家，最高 4 板。",
         "sections": [
           {
@@ -133648,7 +133649,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-11 16:13:46",
+        "generatedAt": "2026-09-11 16:18:40",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -133674,7 +133675,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 21 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：发行人及中介机构回复意见(江苏点夺技术股份有限公司)；张小泉:关于持股5%以上股东所持部分股份质押的公告。",
+              "新闻/公告风险：天宏锂电:股东减持股份结果公告；发行人及中介机构回复意见(江苏点夺技术股份有限公司)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
