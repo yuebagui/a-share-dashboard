@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-15",
     "phase": "盘中快照",
-    "generatedAt": "2026-09-15 02:29:24",
+    "generatedAt": "2026-09-15 02:39:35",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": -0.07,
       "turnover": "7793亿",
       "turnoverValue": 779281246497.0,
-      "quoteTime": "2026-09-14 16:14:02",
+      "quoteTime": "2026-09-14 16:14:33",
       "source": "腾讯直连"
     },
     {
@@ -40,7 +40,7 @@
       "changePct": -1.62,
       "turnover": "610亿",
       "turnoverValue": 61008336498.0,
-      "quoteTime": "2026-09-14 16:14:14",
+      "quoteTime": "2026-09-14 16:14:45",
       "source": "腾讯直连"
     }
   ],
@@ -112365,21 +112365,21 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-15",
-    "generatedAt": "2026-09-15 02:30:11",
+    "generatedAt": "2026-09-15 02:40:23",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 3 条；主题映射集中在 AI算力、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 2 条；主题映射集中在 能源、AI算力、金融。",
     "themes": [
       {
-        "name": "AI算力",
+        "name": "能源",
         "score": 10,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 8,
+        "name": "AI算力",
+        "score": 10,
         "isFocusBoard": false
       },
       {
@@ -112427,20 +112427,6 @@
         "themes": [
           "金融"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "特朗普：伊朗冲突结束后油价将会下跌",
-        "summary": "【特朗普：伊朗冲突结束后油价将会下跌】特朗普表示，伊朗冲突结束后油价将会下跌，不会等太久。伊朗军事冲突不久后就会结束。",
-        "publishedAt": "2026-09-15 00:33:48",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873797766.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -112532,7 +112518,23 @@
         "noticeType": ""
       },
       {
-        "title": "美国众议院议长约翰逊称，特朗普将于本周或下周召集AI企业高管开会",
+        "title": "国际原油期货结算价收涨",
+        "summary": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货10合约涨1.34%，报101.39美元/桶。",
+        "publishedAt": "2026-09-15 02:33:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609153873807392.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国众议院议长约翰逊称 特朗普将于本周或下周召集AI企业高管开会",
         "summary": "美国众议院议长约翰逊称，特朗普将于本周或下周召集AI企业高管开会。",
         "publishedAt": "2026-09-15 02:19:11",
         "source": "东方财富7x24",
@@ -112913,15 +112915,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-15 02:30:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 3 条；主题映射集中在 AI算力、能源、金融。",
+        "generatedAt": "2026-09-15 02:40:23",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 2 条；主题映射集中在 能源、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：医疗服务、元件、化学制药；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -112952,7 +112954,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-15 02:29:24",
+        "generatedAt": "2026-09-15 02:39:35",
         "summary": "上午情绪分 58，涨停 55 家，跌停 16 家，炸板 30 家，连板 11 家，最高 4 板。",
         "sections": [
           {
@@ -112991,7 +112993,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-15 02:29:24",
+        "generatedAt": "2026-09-15 02:39:35",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
