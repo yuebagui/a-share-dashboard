@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-14",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-14 17:16:03",
+    "generatedAt": "2026-09-14 22:26:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -112192,7 +112192,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -112364,19 +112365,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-14",
-    "generatedAt": "2026-09-14 17:16:45",
+    "generatedAt": "2026-09-14 22:26:51",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 6 条；主题映射集中在 AI算力、能源、有色稀土。",
     "themes": [
       {
-        "name": "金融",
-        "score": 10,
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 6,
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -112385,91 +112386,111 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST太重:太原重工2026年半年度业绩说明会投资者关系活动记录表(2026年9月14日)",
-        "summary": "ST太重(600169)：ST太重:太原重工2026年半年度业绩说明会投资者关系活动记录表(2026年9月14日)",
+        "title": "ST派瑞:2026年第二次临时股东会决议公告",
+        "summary": "ST派瑞(300831)：ST派瑞:2026年第二次临时股东会决议公告",
         "publishedAt": "2026-09-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600169/AN202609141829372560.html",
+        "url": "https://data.eastmoney.com/notices/detail/300831/AN202609141829376905.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST太重(600169)"
+          "ST派瑞(300831)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股东大会决议公告"
       },
       {
-        "title": "南极光:关于控股股东、实际控制人之一部分股份解除质押的公告",
-        "summary": "南极光(300940)：南极光:关于控股股东、实际控制人之一部分股份解除质押的公告",
+        "title": "神宇股份:关于公司部分董事、高级管理人员减持股份实施情况公告",
+        "summary": "神宇股份(300563)：神宇股份:关于公司部分董事、高级管理人员减持股份实施情况公告",
         "publishedAt": "2026-09-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300940/AN202609141829372336.html",
+        "url": "https://data.eastmoney.com/notices/detail/300563/AN202609141829380046.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "南极光(300940)"
+          "神宇股份(300563)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "高管人员持股变动"
       },
       {
-        "title": "华凯易佰:关于股东部分股份解除质押的公告",
-        "summary": "华凯易佰(300592)：华凯易佰:关于股东部分股份解除质押的公告",
+        "title": "*ST易录:关于签署重整投资协议的公告",
+        "summary": "*ST易录(300212)：*ST易录:关于签署重整投资协议的公告",
         "publishedAt": "2026-09-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300592/AN202609141829372343.html",
+        "url": "https://data.eastmoney.com/notices/detail/300212/AN202609141829380017.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "华凯易佰(300592)"
+          "*ST易录(300212)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "签订协议"
       },
       {
-        "title": "广信科技:股东拟减持股份的预披露公告(再次披露)",
-        "summary": "广信科技(920037)：广信科技:股东拟减持股份的预披露公告(再次披露)",
+        "title": "赛维时代:赛维时代科技股份有限公司关于持股5%以上股东增减变动触及1%整数倍的公告",
+        "summary": "赛维时代(301381)：赛维时代:赛维时代科技股份有限公司关于持股5%以上股东增减变动触及1%整数倍的公告",
         "publishedAt": "2026-09-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920037/AN202609141829372300.html",
+        "url": "https://data.eastmoney.com/notices/detail/301381/AN202609141829379620.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "广信科技(920037)"
+          "赛维时代(301381)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "英伟达美股盘前跌超3%",
-        "summary": "英伟达美股盘前下跌3.14%。",
-        "publishedAt": "2026-09-14 17:15:02",
+        "title": "纳斯达克100指数跌幅收窄至1%",
+        "summary": "纳斯达克100指数跌幅收窄至1%，此前一度下跌1.7%。",
+        "publishedAt": "2026-09-14 22:11:18",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609143873487387.html",
+        "url": "https://finance.eastmoney.com/a/202609143873719222.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "费城半导体指数跌6% 存储板块跌幅居前",
+        "summary": "【费城半导体指数跌6% 存储板块跌幅居前】费城半导体指数跌6%，报11114.65点。英伟达股价下跌4.1%，台积电股价下跌3.46%，博通股价下跌4%，SK海力士股价下跌7.49%，美光科技股价下跌7.35%，超威半导体股价下跌6.2%，阿斯麦股价下跌6.73%，英特尔股价下跌7.45%，泛林集团股价下跌8.12%，ARM股价下跌8.08%，闪迪股价下跌…",
+        "publishedAt": "2026-09-14 21:41:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609143873679832.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
+          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -112477,180 +112498,132 @@
         "noticeType": ""
       },
       {
-        "title": "汇宇制药:四川汇宇制药股份有限公司2026年9月14日投资者关系活动记录表",
-        "summary": "汇宇制药(688553)：汇宇制药:四川汇宇制药股份有限公司2026年9月14日投资者关系活动记录表",
+        "title": "行云科技股份有限公司投资者关系活动记录表",
+        "summary": "行云科技(300209)：行云科技股份有限公司投资者关系活动记录表",
         "publishedAt": "2026-09-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688553/AN202609141829373157.html",
+        "url": "https://data.eastmoney.com/notices/detail/300209/AN202609141829377756.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "汇宇制药(688553)"
+          "行云科技(300209)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "众生药业:2026年9月14日投资者关系活动记录表",
-        "summary": "众生药业(002317)：众生药业:2026年9月14日投资者关系活动记录表",
+        "title": "捷捷微电:江苏捷捷微电子股份有限公司关于调整2026年限制性股票激励计划相关事项的公告",
+        "summary": "捷捷微电(300623)：捷捷微电:江苏捷捷微电子股份有限公司关于调整2026年限制性股票激励计划相关事项的公告",
         "publishedAt": "2026-09-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002317/AN202609141829372704.html",
+        "url": "https://data.eastmoney.com/notices/detail/300623/AN202609141829376973.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "众生药业(002317)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "新瀚新材:2026年9月14日投资者关系活动记录表",
-        "summary": "新瀚新材(301076)：新瀚新材:2026年9月14日投资者关系活动记录表",
-        "publishedAt": "2026-09-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301076/AN202609141829372891.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新瀚新材(301076)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "一博科技投资者关系活动记录表--2026年9月14日",
-        "summary": "一博科技(301366)：一博科技投资者关系活动记录表--2026年9月14日",
-        "publishedAt": "2026-09-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301366/AN202609141829372382.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "一博科技(301366)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "联瑞新材:2026-004联瑞新材投资者关系活动记录表",
-        "summary": "联瑞新材(688300)：联瑞新材:2026-004联瑞新材投资者关系活动记录表",
-        "publishedAt": "2026-09-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688300/AN202609141829372561.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联瑞新材(688300)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "新集能源:投资者活动记录表(2026-投关-06)",
-        "summary": "新集能源(601918)：新集能源:投资者活动记录表(2026-投关-06)",
-        "publishedAt": "2026-09-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601918/AN202609141829372562.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "新集能源(601918)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "世昌股份:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报集体业绩说明会预告公告",
-        "summary": "世昌股份(920022)：世昌股份:关于参加2026年河北辖区上市公司投资者网上集体接待日暨2026年半年报集体业绩说明会预告公告",
-        "publishedAt": "2026-09-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920022/AN202609141829372591.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "世昌股份(920022)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "联检科技:关于向2026年股票期权激励计划激励对象授予预留股票期权的公告",
-        "summary": "联检科技(301115)：联检科技:关于向2026年股票期权激励计划激励对象授予预留股票期权的公告",
-        "publishedAt": "2026-09-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301115/AN202609141829372354.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联检科技(301115)"
+          "捷捷微电(300623)"
         ],
         "importance": 1,
         "noticeType": "股权激励进展公告"
       },
       {
-        "title": "央行：8月份经常项下跨境人民币结算金额为1.7万亿元",
-        "summary": "【央行：8月份经常项下跨境人民币结算金额为1.7万亿元】9月14日，央行公布数据显示，8月份，经常项下跨境人民币结算金额为1.7万亿元，其中货物贸易、服务贸易及其他经常项目分别为1.33万亿元、0.37万亿元；直接投资跨境人民币结算金额为0.6万亿元，其中对外直接投资、外商直接投资分别为0.21万亿元、0.39万亿元。",
-        "publishedAt": "2026-09-14 17:07:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609143873485958.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "博腾股份:2026年限制性股票激励计划首次授予激励对象名单(调整后)",
+        "summary": "博腾股份(300363)：博腾股份:2026年限制性股票激励计划首次授予激励对象名单(调整后)",
+        "publishedAt": "2026-09-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300363/AN202609141829376148.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "博腾股份(300363)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "股权激励对象名单"
       },
       {
-        "title": "央行：8月份银行间人民币市场同业拆借月加权平均利率为1.38%",
-        "summary": "【央行：8月份银行间人民币市场同业拆借月加权平均利率为1.38%】9月14日，央行公布数据显示，8月份同业拆借加权平均利率为1.38%，比上月低0.02个百分点，比上年同期低0.02个百分点；质押式回购加权平均利率为1.4%，比上月低0.02个百分点，比上年同期低0.01个百分点。",
-        "publishedAt": "2026-09-14 17:05:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609143873485214.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "301325曼恩斯特投资者关系管理信息20260914",
+        "summary": "曼恩斯特(301325)：301325曼恩斯特投资者关系管理信息20260914",
+        "publishedAt": "2026-09-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301325/AN202609141829380677.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
+        "themes": [],
+        "tickers": [
+          "曼恩斯特(301325)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "央行：9月15日将开展5000亿元买断式逆回购操作",
-        "summary": "【央行：9月15日将开展5000亿元买断式逆回购操作】为保持银行体系流动性充裕，2026年9月15日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展5000亿元买断式逆回购操作，期限为6个月（181天），到期日为2027年3月15日（遇节假日顺延）。",
-        "publishedAt": "2026-09-14 17:02:06",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609143873482269.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "000935四川双马投资者关系管理信息20260914",
+        "summary": "四川双马(000935)：000935四川双马投资者关系管理信息20260914",
+        "publishedAt": "2026-09-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000935/AN202609141829379523.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
+        "themes": [],
+        "tickers": [
+          "四川双马(000935)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "赛维时代:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "summary": "赛维时代(301381)：赛维时代:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "publishedAt": "2026-09-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301381/AN202609141829379615.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "赛维时代(301381)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "博俊科技:关于对外投资的公告",
+        "summary": "博俊科技(300926)：博俊科技:关于对外投资的公告",
+        "publishedAt": "2026-09-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300926/AN202609141829379618.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "博俊科技(300926)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "赛维时代:关于调整2026年限制性股票激励计划授予价格的公告",
+        "summary": "赛维时代(301381)：赛维时代:关于调整2026年限制性股票激励计划授予价格的公告",
+        "publishedAt": "2026-09-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301381/AN202609141829379622.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "赛维时代(301381)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励行权价（数量）调整"
       },
       {
         "title": "中国9月14日上期所每日仓单变动-原油(桶)",
@@ -112680,6 +112653,34 @@
         "themes": [
           "有色稀土"
         ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月社会融资规模-年初至今(亿元)",
+        "summary": "中国8月社会融资规模-年初至今(亿元)；公布 239100.0，预期 nan，前值 222500.0。",
+        "publishedAt": "2026-09-14 16:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月新增人民币贷款-年初至今(亿元)",
+        "summary": "中国8月新增人民币贷款-年初至今(亿元)；公布 104400.0，预期 nan，前值 103800.0。",
+        "publishedAt": "2026-09-14 16:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -112912,15 +112913,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-14 17:16:45",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-09-14 22:26:51",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 6 条；主题映射集中在 AI算力、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：医疗服务、元件、化学制药；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -112951,7 +112952,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-14 17:16:03",
+        "generatedAt": "2026-09-14 22:26:00",
         "summary": "上午情绪分 58，涨停 55 家，跌停 16 家，炸板 30 家，连板 11 家，最高 4 板。",
         "sections": [
           {
@@ -112990,7 +112991,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-14 17:16:03",
+        "generatedAt": "2026-09-14 22:26:00",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -113016,7 +113017,7 @@
               "今日炸板 30 只，追高前先看前排封单和回封质量。",
               "今日跌停 16 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST太重:太原重工2026年半年度业绩说明会投资者关系活动记录表(2026年9月14日)；南极光:关于控股股东、实际控制人之一部分股份解除质押的公告。",
+              "新闻/公告风险：ST派瑞:2026年第二次临时股东会决议公告；神宇股份:关于公司部分董事、高级管理人员减持股份实施情况公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
