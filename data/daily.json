@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-09-15",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-09-15 21:21:26",
+    "tradeDate": "2026-09-16",
+    "phase": "盘中快照",
+    "generatedAt": "2026-09-16 01:36:49",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -93267,50 +93267,293 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-15",
-    "generatedAt": "2026-09-15 21:22:42",
+    "tradeDate": "2026-09-16",
+    "generatedAt": "2026-09-16 01:37:23",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 金融、能源、汽车链。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
+        "name": "金融",
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 6,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
+        "name": "汽车链",
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "国内商品期货夜盘开盘 主力合约多数下跌",
-        "summary": "国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，丁二烯胶、PVC、原油跌超2%，燃油跌近2%，焦煤、LPG、焦炭、低硫燃油、玻璃等跌超1%；涨幅方面，乙二醇涨超1%，国际铜、沪银、纸浆、沪铜、热卷等小幅上涨。",
-        "publishedAt": "2026-09-15 21:00:01",
+        "title": "*ST集友:上海市锦天城律师事务所关于安徽集友新材料股份有限公司本次交易内幕信息知情人买卖股票情况自查报告的专项核查意见",
+        "summary": "*ST集友(603429)：*ST集友:上海市锦天城律师事务所关于安徽集友新材料股份有限公司本次交易内幕信息知情人买卖股票情况自查报告的专项核查意见",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428309.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST集友:华福证券关于集友股份本次交易相关主体买卖股票情况的自查报告之专项核查意见",
+        "summary": "*ST集友(603429)：*ST集友:华福证券关于集友股份本次交易相关主体买卖股票情况的自查报告之专项核查意见",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428100.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST集友:江苏慧聚药业股份有限公司审计报告(中汇会审[2026]14029号)",
+        "summary": "*ST集友(603429)：*ST集友:江苏慧聚药业股份有限公司审计报告(中汇会审[2026]14029号)",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428094.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "审计报告"
+      },
+      {
+        "title": "*ST集友:上海市锦天城律师事务所关于安徽集友新材料股份有限公司重大资产购买暨关联交易之补充法律意见书(一)",
+        "summary": "*ST集友(603429)：*ST集友:上海市锦天城律师事务所关于安徽集友新材料股份有限公司重大资产购买暨关联交易之补充法律意见书(一)",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428096.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "*ST集友:关于安徽集友新材料股份有限公司备考审阅报告修订的专项说明(中汇会专[2026]14040号)",
+        "summary": "*ST集友(603429)：*ST集友:关于安徽集友新材料股份有限公司备考审阅报告修订的专项说明(中汇会专[2026]14040号)",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428104.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "*ST集友:集友股份重大资产购买暨关联交易报告书(草案)修订说明的公告",
+        "summary": "*ST集友(603429)：*ST集友:集友股份重大资产购买暨关联交易报告书(草案)修订说明的公告",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428106.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "收购出售资产/股权"
+      },
+      {
+        "title": "*ST集友:集友股份董事会关于评估机构独立性、评估假设前提合理性、评估方法与评估目的相关性及评估定价公允性的说明",
+        "summary": "*ST集友(603429)：*ST集友:集友股份董事会关于评估机构独立性、评估假设前提合理性、评估方法与评估目的相关性及评估定价公允性的说明",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428090.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "*ST集友:华福证券股份有限公司关于上海证券交易所《关于对安徽集友新材料股份有限公司重大资产购买暨关联交易报告书草案的问询函》回复之核查意见",
+        "summary": "*ST集友(603429)：*ST集友:华福证券股份有限公司关于上海证券交易所《关于对安徽集友新材料股份有限公司重大资产购买暨关联交易报告书草案的问询函》回复之核查意见",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428108.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST集友:集友股份董事会关于本次交易履行法定程序的完备性、合规性及提交法律文件的有效性的说明",
+        "summary": "*ST集友(603429)：*ST集友:集友股份董事会关于本次交易履行法定程序的完备性、合规性及提交法律文件的有效性的说明",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428105.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "*ST集友:集友股份第三届董事会独立董事专门会议第五次会议决议",
+        "summary": "*ST集友(603429)：*ST集友:集友股份第三届董事会独立董事专门会议第五次会议决议",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428093.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "董事会决议公告"
+      },
+      {
+        "title": "*ST集友:集友股份关于对上海证券交易所《关于对安徽集友新材料股份有限公司重大资产购买暨关联交易报告书草案的问询函》的回复公告",
+        "summary": "*ST集友(603429)：*ST集友:集友股份关于对上海证券交易所《关于对安徽集友新材料股份有限公司重大资产购买暨关联交易报告书草案的问询函》的回复公告",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428092.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "*ST集友:集友股份第三届董事会第四十一次会议决议公告",
+        "summary": "*ST集友(603429)：*ST集友:集友股份第三届董事会第四十一次会议决议公告",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603429/AN202609151829428086.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST集友(603429)"
+        ],
+        "importance": 1,
+        "noticeType": "董事会决议公告"
+      },
+      {
+        "title": "道琼斯指数向下跌破52000点 创8月份以来新低",
+        "summary": "【道琼斯指数向下跌破52000点 创8月份以来新低】美股跌幅扩大，道琼斯指数向下跌破52000点，最新报51910.62点，创8月份以来新低，日内下跌0.97%。标普500指数跌0.51%，纳斯达克综合指数跌0.75%。英伟达股价上涨0.45%，苹果股价下跌0.83%，谷歌-A股价下跌1.37%，微软股价下跌1.02%，亚马逊股价下跌1.72%，Space…",
+        "publishedAt": "2026-09-16 00:19:27",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874954144.html",
+        "url": "https://finance.eastmoney.com/a/202609163875131716.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "有色稀土",
+          "AI算力",
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "周二（9月15日） 美联储隔夜逆回购协议（RRP）使用规模为7亿美元",
+        "summary": "周二（9月15日），美联储隔夜逆回购协议（RRP）使用规模为7亿美元。",
+        "publishedAt": "2026-09-16 01:18:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609163875140274.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "10年期美债收益率“破5” 全球金融韧性面临考验",
+        "summary": "【10年期美债收益率“破5” 全球金融韧性面临考验】美国10年期国债收益率14日盘中突破5%，为2023年10月以来首次。10年期美债收益率“破5”到底是什么原因造成的？对美国及全球市场会带来怎样的影响？",
+        "publishedAt": "2026-09-16 01:03:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609163875138496.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "18家中央企业援青签约总额达3069.84亿元",
+        "summary": "【18家中央企业援青签约总额达3069.84亿元】9月15日，记者从国务院国资委获悉，中央企业助力青海高质量发展活动在西宁举办。活动现场，18家中央企业同青海省签署50个项目投资协议，总投资额达3069.84亿元，2029年底前计划完成投资2845.91亿元。签约项目重点布局清洁能源、电力通信等重点领域，项目全部投产后，预计可新增带动就业11.58万人。",
+        "publishedAt": "2026-09-16 00:44:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609163875135015.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
           "能源"
         ],
         "tickers": [],
@@ -93318,271 +93561,33 @@
         "noticeType": ""
       },
       {
-        "title": "布伦特原油回吐日内全部涨幅 纳斯达克100指数期货转涨",
-        "summary": "【布伦特原油回吐日内全部涨幅 纳斯达克100指数期货转涨】布伦特原油回吐日内全部涨幅，现跌0.13%，报105.539美元/桶。纳斯达克100指数期货收复盘中所有跌幅，此前一度下跌0.7%，国际油价和美债收益率均已回落。",
-        "publishedAt": "2026-09-15 20:49:20",
+        "title": "*ST春兴：子公司借款合同纠纷一审判决 公司承担连带清偿责任",
+        "summary": "【*ST春兴：子公司借款合同纠纷一审判决 公司承担连带清偿责任】*ST春兴(002547.SZ)公告称，公司及子公司金寨春兴收到安徽省金寨县人民法院一审判决，需向金寨汇金投资偿还借款本金1.66亿元及利息，公司承担连带清偿责任。",
+        "publishedAt": "2026-09-15 23:55:42",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874948835.html",
+        "url": "https://finance.eastmoney.com/a/202609153875127762.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "WTI原油期货价格涨超5%",
+        "summary": "【WTI原油期货价格涨超5%】WTI原油期货价格涨5.03%，报106.486美元/桶；布伦特原油期货价格涨3.22%，报109.081美元/桶。",
+        "publishedAt": "2026-09-16 01:11:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609163875139862.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
           "能源"
         ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "电声股份:2026年9月15日投资者关系活动记录表",
-        "summary": "电声股份(300805)：电声股份:2026年9月15日投资者关系活动记录表",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300805/AN202609151829425184.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "电声股份(300805)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "西陇科学:2026广东上市公司投资者集体接待日活动记录表",
-        "summary": "西陇科学(002584)：西陇科学:2026广东上市公司投资者集体接待日活动记录表",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002584/AN202609151829424512.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "西陇科学(002584)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "视源股份:2026年9月15日投资者关系活动记录",
-        "summary": "视源股份(002841)：视源股份:2026年9月15日投资者关系活动记录",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002841/AN202609151829419059.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "视源股份(002841)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "南风股份:300004南风股份投资者关系管理信息20260915",
-        "summary": "南风股份(300004)：南风股份:300004南风股份投资者关系管理信息20260915",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300004/AN202609151829422789.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "南风股份(300004)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "路斯股份:投资者关系活动记录表",
-        "summary": "路斯股份(920419)：路斯股份:投资者关系活动记录表",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920419/AN202609151829423049.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "路斯股份(920419)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "众生药业:2026年9月15日投资者关系活动记录表",
-        "summary": "众生药业(002317)：众生药业:2026年9月15日投资者关系活动记录表",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002317/AN202609151829421307.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "众生药业(002317)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "天元股份:广东天元实业集团股份有限公司投资者关系活动记录表（2026广东上市公司投资者集体接待日活动）",
-        "summary": "天元股份(003003)：天元股份:广东天元实业集团股份有限公司投资者关系活动记录表（2026广东上市公司投资者集体接待日活动）",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003003/AN202609151829421306.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天元股份(003003)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "300403汉宇集团投资者关系管理信息20260915",
-        "summary": "汉宇集团(300403)：300403汉宇集团投资者关系管理信息20260915",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300403/AN202609151829419832.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汉宇集团(300403)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中旗新材:2026年9月15日投资者关系活动记录表",
-        "summary": "中旗新材(001212)：中旗新材:2026年9月15日投资者关系活动记录表",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001212/AN202609151829418567.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中旗新材(001212)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "002656摩登大道投资者关系管理信息20260915",
-        "summary": "摩登大道(002656)：002656摩登大道投资者关系管理信息20260915",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002656/AN202609151829417649.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "摩登大道(002656)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "宝莱特:300246宝莱特投资者关系管理信息20260915",
-        "summary": "宝莱特(300246)：宝莱特:300246宝莱特投资者关系管理信息20260915",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300246/AN202609151829417583.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宝莱特(300246)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "雄塑科技:2026年9月15日投资者关系活动记录表",
-        "summary": "雄塑科技(300599)：雄塑科技:2026年9月15日投资者关系活动记录表",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300599/AN202609151829416705.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "雄塑科技(300599)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "可口可乐：2026年至2030年间计划投资100亿美元的美国基础设施",
-        "summary": "【可口可乐：2026年至2030年间计划投资100亿美元的美国基础设施】可口可乐公司表示，2026年至2030年间，计划投资100亿美元的美国基础设施。",
-        "publishedAt": "2026-09-15 21:04:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874968364.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "加拿大将即时税收抵扣政策扩展至多种投资领域",
-        "summary": "【加拿大将即时税收抵扣政策扩展至多种投资领域】加拿大将即时税收抵扣政策扩展至多种投资领域，将允许对管道和飞机实施加速折旧抵扣。",
-        "publishedAt": "2026-09-15 21:01:42",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874959477.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "甲骨文公司投资德克萨斯州1.7吉瓦风电项目",
-        "summary": "甲骨文公司投资德克萨斯州1.7吉瓦风电项目。",
-        "publishedAt": "2026-09-15 20:54:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874952432.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月11日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月11日COMEX黄金库存-每日更新(百盎司)；公布 273485.17，预期 nan，前值 273485.17。",
-        "publishedAt": "2026-09-15 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -93758,7 +93763,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -93771,15 +93776,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-15 21:22:42",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
+        "generatedAt": "2026-09-16 01:37:23",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 金融、能源、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：半导体、电池；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93810,7 +93815,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-15 21:21:26",
+        "generatedAt": "2026-09-16 01:36:49",
         "summary": "上午情绪分 16，涨停 32 家，跌停 27 家，炸板 24 家，连板 7 家，最高 5 板。",
         "sections": [
           {
@@ -93849,7 +93854,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-15 21:21:26",
+        "generatedAt": "2026-09-16 01:36:49",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -93875,7 +93880,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 27 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：国内商品期货夜盘开盘 主力合约多数下跌；布伦特原油回吐日内全部涨幅 纳斯达克100指数期货转涨。",
+              "新闻/公告风险：*ST集友:上海市锦天城律师事务所关于安徽集友新材料股份有限公司本次交易内幕信息知情人买卖股票情况自查报告的专项核查意见；*ST集友:华福证券关于集友股份本次交易相关主体买卖股票情况的自查报告之专项核查意见。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
