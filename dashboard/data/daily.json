@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-15",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-15 16:53:12",
+    "generatedAt": "2026-09-15 20:54:39",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -93096,7 +93096,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -93267,175 +93268,89 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-15",
-    "generatedAt": "2026-09-15 16:54:04",
+    "generatedAt": "2026-09-15 20:55:46",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 2 条；主题映射集中在 半导体、AI算力、金融。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 能源、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "半导体",
-        "score": 11,
-        "isFocusBoard": true
-      },
-      {
-        "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 7,
+        "name": "能源",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 4,
+        "name": "半导体",
+        "score": 5,
+        "isFocusBoard": true
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 4,
+        "name": "机器人",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "永泰运:关于持股5%以上股东减持计划期限届满暨实施结果的公告",
-        "summary": "永泰运(001228)：永泰运:关于持股5%以上股东减持计划期限届满暨实施结果的公告",
+        "title": "初灵信息:关于控股股东权益变动触及1%暨减持计划实施完成的公告",
+        "summary": "初灵信息(300250)：初灵信息:关于控股股东权益变动触及1%暨减持计划实施完成的公告",
         "publishedAt": "2026-09-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001228/AN202609141829381048.html",
+        "url": "https://data.eastmoney.com/notices/detail/300250/AN202609151829424353.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "永泰运(001228)"
+          "初灵信息(300250)"
+        ],
+        "importance": 1,
+        "noticeType": "权益变动报告书"
+      },
+      {
+        "title": "维峰电子:关于公司控股股东、实际控制人的一致行动人股份减持计划的预披露公告",
+        "summary": "维峰电子(301328)：维峰电子:关于公司控股股东、实际控制人的一致行动人股份减持计划的预披露公告",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301328/AN202609151829424237.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "维峰电子(301328)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "包头稀交所：今日稀土主流产品价格小幅下跌",
-        "summary": "【包头稀交所：今日稀土主流产品价格小幅下跌】据包头稀土产品交易所，今日稀土主流产品价格小幅下跌。氧化镨钕均价72.93万元/吨，下跌0.13万元/吨；金属镨钕均价88.28万元/吨，下跌0.14万元/吨；氧化镝均价142.56万元/吨，下跌1.11万元/吨；氧化铽均价666.50万元/吨，下跌0.06万元/吨。",
-        "publishedAt": "2026-09-15 16:45:11",
+        "title": "布伦特原油回吐日内全部涨幅 纳斯达克100指数期货转涨",
+        "summary": "【布伦特原油回吐日内全部涨幅 纳斯达克100指数期货转涨】布伦特原油回吐日内全部涨幅，现跌0.13%，报105.539美元/桶。纳斯达克100指数期货收复盘中所有跌幅，此前一度下跌0.7%，国际油价和美债收益率均已回落。",
+        "publishedAt": "2026-09-15 20:49:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874730069.html",
+        "url": "https://finance.eastmoney.com/a/202609153874948835.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "粤芯半导体:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "summary": "粤芯半导体(301660)：粤芯半导体:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301660/AN202609141829381826.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [
-          "粤芯半导体(301660)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "焦作万方:焦作万方铝业股份有限公司关于召开终止发行股份购买资产暨关联交易事项投资者说明会的公告",
-        "summary": "焦作万方(000612)：焦作万方:焦作万方铝业股份有限公司关于召开终止发行股份购买资产暨关联交易事项投资者说明会的公告",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000612/AN202609141829381122.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [
-          "焦作万方(000612)"
-        ],
-        "importance": 1,
-        "noticeType": "增发终止"
-      },
-      {
-        "title": "广汽集团:广汽集团关于筹划重大资产重组事项的停牌公告",
-        "summary": "广汽集团(601238)：广汽集团:广汽集团关于筹划重大资产重组事项的停牌公告",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601238/AN202609141829381080.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "广汽集团(601238)"
-        ],
-        "importance": 1,
-        "noticeType": "停牌公告"
-      },
-      {
-        "title": "爱科科技:杭州爱科科技股份有限公司关于回购注销2024年员工持股计划未解锁股份并减少注册资本暨通知债权人的公告",
-        "summary": "爱科科技(688092)：爱科科技:杭州爱科科技股份有限公司关于回购注销2024年员工持股计划未解锁股份并减少注册资本暨通知债权人的公告",
-        "publishedAt": "2026-09-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688092/AN202609141829380328.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "爱科科技(688092)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "伯恩斯坦：印尼主导全球镍市 镍价长期预测下调至1.9万美元/吨",
-        "summary": "【伯恩斯坦：印尼主导全球镍市 镍价长期预测下调至1.9万美元/吨】伯恩斯坦发布研报称，镍是全球市场化程度最低的金属，印尼政策将制约价格上行。该机构将长期镍价预测下调至1.9万美元/吨，预计2026、2027年均价分别为17282美元、18000美元/吨，2028—2030年为19000美元/吨。",
-        "publishedAt": "2026-09-15 16:40:42",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874728646.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "乌外长：乌克兰愿意与俄罗斯达成能源停火协议",
-        "summary": "【乌外长：乌克兰愿意与俄罗斯达成能源停火协议】当地时间15日，乌克兰外长瑟比加表示，乌方愿意与俄罗斯达成相关能源停火协议。",
-        "publishedAt": "2026-09-15 16:51:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874732423.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [
           "能源"
         ],
@@ -93444,158 +93359,240 @@
         "noticeType": ""
       },
       {
-        "title": "科伦药业今日大宗交易平价成交141.39万股 成交额5747.68万元",
-        "summary": "【科伦药业今日大宗交易平价成交141.39万股 成交额5747.68万元】9月15日，科伦药业大宗交易成交141.39万股，成交额5747.68万元，占当日总成交额的11.35%，成交价40.65元，较市场收盘价40.65元持平。",
-        "publishedAt": "2026-09-15 16:50:59",
+        "title": "国家统计局公布最新房价数据！专家：楼市基本触底",
+        "summary": "【国家统计局公布最新房价数据！专家：楼市基本触底】9月15日，国家统计局公布70个大中城市商品住宅销售价格变动情况及1月—8月全国房地产市场基本情况。海易居房地产研究院副院长严跃进书面分析指出：“目前楼市的情况逻辑很清晰，房价虽有小幅下跌，但下跌空间进一步收窄，说明房地产市场基本触底，结合各类利好因素如购房者入市信心增加，房价风险逐渐出清。”",
+        "publishedAt": "2026-09-15 20:39:27",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874732715.html",
+        "url": "https://finance.eastmoney.com/a/202609153874942284.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "千帆星座卫星数量增至248颗",
-        "summary": "【千帆星座卫星数量增至248颗】据垣信卫星消息，北京时间2026年9月15日14时26分，在东风商业航天创新试验区，垣信卫星使用朱雀二号改进型遥七运载火箭将10颗千帆星座组网卫星准确送入预定轨道，所有卫星状态正常，发射任务取得圆满成功。至此，千帆星座卫星数量增至248颗。本次任务中的SSGEN1-288卫星命名为“睿芯金刚号”。",
-        "publishedAt": "2026-09-15 16:50:59",
+        "title": "宁德时代:关于参与投资厦门时代深远创业投资基金合伙企业(有限合伙)的公告",
+        "summary": "宁德时代(300750)：宁德时代:关于参与投资厦门时代深远创业投资基金合伙企业(有限合伙)的公告",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202609151829424508.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宁德时代(300750)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "世荣兆业:2026年9月15日投资者关系活动记录表",
+        "summary": "世荣兆业(002016)：世荣兆业:2026年9月15日投资者关系活动记录表",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002016/AN202609151829424511.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "世荣兆业(002016)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "红墙股份:红墙股份2026年半年度业绩说明会投资者关系活动记录表",
+        "summary": "红墙股份(002809)：红墙股份:红墙股份2026年半年度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002809/AN202609151829424338.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "红墙股份(002809)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "达瑞电子:2026年9月15日投资者关系活动记录表",
+        "summary": "达瑞电子(300976)：达瑞电子:2026年9月15日投资者关系活动记录表",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300976/AN202609151829424421.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "达瑞电子(300976)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "广东建科:301632广东建科投资者关系管理信息20260915",
+        "summary": "广东建科(301632)：广东建科:301632广东建科投资者关系管理信息20260915",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301632/AN202609151829424333.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "广东建科(301632)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "蓝思科技:关于与专业投资机构共同投资的公告",
+        "summary": "蓝思科技(300433)：蓝思科技:关于与专业投资机构共同投资的公告",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300433/AN202609151829424189.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "蓝思科技(300433)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "博盈特焊:2026年9月15日投资者关系活动记录表",
+        "summary": "博盈特焊(301468)：博盈特焊:2026年9月15日投资者关系活动记录表",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301468/AN202609151829424156.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "博盈特焊(301468)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002906华阳集团投资者关系管理信息20260915",
+        "summary": "华阳集团(002906)：002906华阳集团投资者关系管理信息20260915",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002906/AN202609151829424126.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华阳集团(002906)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "赛微电子:关于全资子公司对外投资设立合伙企业的公告",
+        "summary": "赛微电子(300456)：赛微电子:关于全资子公司对外投资设立合伙企业的公告",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300456/AN202609151829424186.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "赛微电子(300456)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "聚胶股份:2026年9月15日投资者关系活动记录表",
+        "summary": "聚胶股份(301283)：聚胶股份:2026年9月15日投资者关系活动记录表",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301283/AN202609151829424127.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "聚胶股份(301283)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "伯恩斯坦：施工成数据中心新瓶颈 模块化建设升温",
+        "summary": "【伯恩斯坦：施工成数据中心新瓶颈 模块化建设升温】伯恩斯坦认为，随着施工取代电力供应成为制约数据中心部署的新瓶颈，模块化建设的重要性将进一步上升。伯恩斯坦将施耐德、维谛和伊顿视为模块化趋势下投资敞口最明确的综合型设备商，三家公司均获“跑赢大市”评级，目标价分别为350欧元、368美元和534美元。",
+        "publishedAt": "2026-09-15 20:45:30",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874732678.html",
+        "url": "https://finance.eastmoney.com/a/202609153874947496.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [
-          "军工"
+          "AI算力",
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "国家超算互联网：累计上线智能体500余个",
-        "summary": "【国家超算互联网：累计上线智能体500余个】9月15日，在2026算力网发展大会上，曙光智算总裁何牧君表示，目前，超算互联网平台已建成材料计算、工业仿真等6大智能体矩阵，覆盖170余个核心计算场景，累计上线智能体500余个、技能1万余项。",
-        "publishedAt": "2026-09-15 16:50:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874732364.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月11日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国9月11日COMEX黄金库存-每日更新(百盎司)；公布 273485.17，预期 nan，前值 273485.17。",
+        "publishedAt": "2026-09-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "奥克股份：签署合作研发合同承担辽宁省科技重大专项课题",
-        "summary": "【奥克股份：签署合作研发合同承担辽宁省科技重大专项课题】9月15日，奥克股份(300082.SZ)公告称，公司与大连理工大学联合申报的“环氧衍生聚合物固态电解质材料的研发及中试应用”入选2026年辽宁省科技重大专项计划项目，双方已签署合作研究合同书，共同承担该课题。",
-        "publishedAt": "2026-09-15 16:49:13",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874732290.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月14日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国9月14日SPDR黄金持仓-每日更新(吨)；公布 1047.2，预期 nan，前值 1047.42。",
+        "publishedAt": "2026-09-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月14日iShares白银持仓-每日更新(吨)",
+        "summary": "美国9月14日iShares白银持仓-每日更新(吨)；公布 15291.6，预期 nan，前值 15316.88。",
+        "publishedAt": "2026-09-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "也门胡塞武装：拦截两批沙特战机编队 含“台风”和F-15",
-        "summary": "【也门胡塞武装：拦截两批沙特战机编队 含“台风”和F-15】9月14日，也门胡塞武装发言人称，当天，胡塞武装防空部队发射多枚自制防空导弹在也门萨达省上空拦截了两批沙特空军战机编队。两批战机分别为“台风”战机和F-15战机。胡塞武装称“迫使战机撤退返航”。沙特方面对此暂无回应。",
-        "publishedAt": "2026-09-15 16:46:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874729576.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "军工"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "全球首个MW级单相冷板全液冷超节点方案发布",
-        "summary": "【全球首个MW级单相冷板全液冷超节点方案发布】9月15日，宁畅信息正式推出全球首个MW级单相冷板全液冷超节点方案。该方案将散热能力从单颗芯片延伸至计算节点、交换节点和整柜，单柜总散热能力达到1MW，为下一代高功耗AI芯片及高密度算力集群提供系统级散热支撑。",
-        "publishedAt": "2026-09-15 16:46:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874729975.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "“算电织网·算电协同高质量发展项目库”在2026中国算力大会发布",
-        "summary": "【“算电织网·算电协同高质量发展项目库”在2026中国算力大会发布】据中国信通院消息，9月12日，在2026中国算力大会“零碳筑基·算电织网——算电协同高质量发展论坛”上，由中国信息通信研究院牵头建设的“算电织网·算电协同高质量发展项目库”正式发布，算电协同公共服务平台2.0同步升级发布。",
-        "publishedAt": "2026-09-15 16:44:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874729260.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "常山药业：肝素钠注射液获得摩尔多瓦药品注册证书",
-        "summary": "【常山药业：肝素钠注射液获得摩尔多瓦药品注册证书】常山药业公告，公司药品肝素钠注射液获得摩尔多瓦药品监督管理部门签发的药品注册证书，本次肝素钠注射液获得摩尔多瓦注册批文，对公司拓展海外市场带来一定积极影响。目前公司肝素制剂产品海外销售收入占公司营业总收入比例较低。",
-        "publishedAt": "2026-09-15 16:44:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874729185.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "泽连斯基称乌克兰袭击了俄罗斯的瑟兹兰炼油厂",
-        "summary": "泽连斯基称乌克兰袭击了俄罗斯的瑟兹兰炼油厂。",
-        "publishedAt": "2026-09-15 16:43:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874729095.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "小红书发布首份《社区金融生态公约》",
-        "summary": "【小红书发布首份《社区金融生态公约》】9月15日，小红书发布首份《社区金融生态公约》，对社区鼓励的专业内容和非法荐股等八类禁止内容做了明确划分，同时对平台上金融营销行为做出规范。",
-        "publishedAt": "2026-09-15 16:40:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153874728487.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -93784,15 +93781,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-15 16:54:04",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 2 条；主题映射集中在 半导体、AI算力、金融。",
+        "generatedAt": "2026-09-15 20:55:46",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 能源、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：半导体、电池；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93823,7 +93820,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-15 16:53:12",
+        "generatedAt": "2026-09-15 20:54:39",
         "summary": "上午情绪分 16，涨停 32 家，跌停 27 家，炸板 24 家，连板 7 家，最高 5 板。",
         "sections": [
           {
@@ -93862,7 +93859,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-15 16:53:12",
+        "generatedAt": "2026-09-15 20:54:39",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -93888,7 +93885,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 27 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：永泰运:关于持股5%以上股东减持计划期限届满暨实施结果的公告；包头稀交所：今日稀土主流产品价格小幅下跌。",
+              "新闻/公告风险：初灵信息:关于控股股东权益变动触及1%暨减持计划实施完成的公告；维峰电子:关于公司控股股东、实际控制人的一致行动人股份减持计划的预披露公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
