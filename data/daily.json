@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-15",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-15 02:39:35",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-15 02:39:35",
+    "lastNewsAt": "2026-09-15 13:10:52"
   },
   "indices": [
     {
@@ -112365,40 +112367,96 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-15",
-    "generatedAt": "2026-09-15 02:40:23",
+    "generatedAt": "2026-09-15 13:10:52",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 2 条；主题映射集中在 能源、AI算力、金融。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、半导体、新能源。",
     "themes": [
       {
-        "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 7,
+        "name": "有色稀土",
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 6,
+        "score": 10,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 3,
+        "name": "新能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "贝特利:关于签订募集资金三方监管协议的公告",
+        "summary": "贝特利(301697)：贝特利:关于签订募集资金三方监管协议的公告",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301697/AN202609151829401120.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "贝特利(301697)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
+      {
+        "title": "*ST东智:2026年限制性股票激励计划考核管理办法",
+        "summary": "*ST东智(002175)：*ST东智:2026年限制性股票激励计划考核管理办法",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002175/AN202609151829392992.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST东智(002175)"
+        ],
+        "importance": 1,
+        "noticeType": "管理办法/制度"
+      },
+      {
+        "title": "翔丰华:关于股东减持股份计划时间届满的公告",
+        "summary": "翔丰华(300890)：翔丰华:关于股东减持股份计划时间届满的公告",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300890/AN202609151829392685.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "翔丰华(300890)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
       {
         "title": "永泰运:关于持股5%以上股东减持计划期限届满暨实施结果的公告",
         "summary": "永泰运(001228)：永泰运:关于持股5%以上股东减持计划期限届满暨实施结果的公告",
@@ -112416,11 +112474,11 @@
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "美国银行股价下跌5.7%",
-        "summary": "美国银行股价下跌5.7%，为2025年4月以来最大跌幅。",
-        "publishedAt": "2026-09-15 01:57:27",
+        "title": "印度储备银行重启IPO强制要求后 Tata Sons的上市关联股东股价集体上涨",
+        "summary": "【印度储备银行重启IPO强制要求后 Tata Sons的上市关联股东股价集体上涨】印度银行业监管机构拒绝给予塔塔集团顶层控股实体上市豁免权，要求其必须完成公开挂牌，持有TataSons少数股权的多家塔塔系上市公司股价应声大涨。印度储备银行驳回了塔塔之子放弃影子银行机构身份的申请，明确要求该公司必须遵守针对此类机构的监管规则，其中就包含首次公开募股的强制要求。",
+        "publishedAt": "2026-09-15 12:44:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873805681.html",
+        "url": "https://finance.eastmoney.com/a/202609153874517810.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -112432,8 +112490,24 @@
         "noticeType": ""
       },
       {
+        "title": "顺丰控股:2026年9月14日投资者关系活动记录表",
+        "summary": "顺丰控股(002352)：顺丰控股:2026年9月14日投资者关系活动记录表",
+        "publishedAt": "2026-09-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002352/AN202609151829392271.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "顺丰控股(002352)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
         "title": "粤芯半导体:与投资者保护相关的承诺",
-        "summary": "粤芯股份(301660)：粤芯半导体:与投资者保护相关的承诺",
+        "summary": "粤芯半导体(301660)：粤芯半导体:与投资者保护相关的承诺",
         "publishedAt": "2026-09-15",
         "source": "东方财富公告",
         "url": "https://data.eastmoney.com/notices/detail/301660/AN202609141829381832.html",
@@ -112444,14 +112518,14 @@
           "半导体"
         ],
         "tickers": [
-          "粤芯股份(301660)"
+          "粤芯半导体(301660)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
         "title": "粤芯半导体:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "summary": "粤芯股份(301660)：粤芯半导体:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "summary": "粤芯半导体(301660)：粤芯半导体:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
         "publishedAt": "2026-09-15",
         "source": "东方财富公告",
         "url": "https://data.eastmoney.com/notices/detail/301660/AN202609141829381826.html",
@@ -112462,7 +112536,7 @@
           "半导体"
         ],
         "tickers": [
-          "粤芯股份(301660)"
+          "粤芯半导体(301660)"
         ],
         "importance": 1,
         "noticeType": "其他"
@@ -112502,189 +112576,123 @@
         "noticeType": "停牌公告"
       },
       {
-        "title": "美联储隔夜逆回购协议（RRP）使用规模为14.20亿美元",
-        "summary": "周一（9月14日），美联储隔夜逆回购协议（RRP）使用规模为14.20亿美元。",
-        "publishedAt": "2026-09-15 01:22:07",
+        "title": "2026年度电影总票房突破290亿元",
+        "summary": "【2026年度电影总票房突破290亿元】截至9月15日，2026年度电影总票房（含预售）突破290亿元，总观影人次达7.37亿，放映总场次1.06亿场。据测算，今年以来电影全产业链产值已超过4500亿元。",
+        "publishedAt": "2026-09-15 12:53:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873800998.html",
+        "url": "https://finance.eastmoney.com/a/202609153874518191.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "2027年量产节点渐近！固态电池板块大爆发 产业链核心股一览",
+        "summary": "【2027年量产节点渐近！固态电池板块大爆发 产业链核心股一览】9月15日，A股固态电池概念板块快速走强。消息面上，固态电池产业在标准制定与量产规划两个维度同步迎来关键进展。比亚迪执行副总裁李柯近日在接受采访时明确表示，比亚迪计划在2027年推出搭载固态电池的车型，并持续推进相关技术研发，计划通过车型搭载推动技术落地。与此同时，我国在固态电池标准领域连续取…",
+        "publishedAt": "2026-09-15 12:50:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609153874513094.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "新能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "国际原油期货结算价收涨",
-        "summary": "【国际原油期货结算价收涨】国际原油期货结算价收涨。WTI原油期货10合约涨1.34%，报101.39美元/桶。",
-        "publishedAt": "2026-09-15 02:33:31",
+        "title": "先导智能：三季度以来持续斩获头部客户订单",
+        "summary": "【先导智能：三季度以来持续斩获头部客户订单】先导智能(300450)9月15日在互动平台表示，公司三季度以来持续斩获头部客户订单，多家客户产线设备并行交付，订单覆盖干法电极、电解质涂布、转印设备、固态叠片、等静压等核心工艺设备。",
+        "publishedAt": "2026-09-15 12:44:40",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873807392.html",
+        "url": "https://finance.eastmoney.com/a/202609153874517733.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国众议院议长约翰逊称 特朗普将于本周或下周召集AI企业高管开会",
-        "summary": "美国众议院议长约翰逊称，特朗普将于本周或下周召集AI企业高管开会。",
-        "publishedAt": "2026-09-15 02:19:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873806183.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "花旗、高盛和摩根大通等上调年末美债收益率预测",
-        "summary": "【花旗、高盛和摩根大通等上调年末美债收益率预测】上周五美国公布的消费者价格指数推动市场隐含的美联储加息概率升至约90%后，花旗、高盛和摩根大通利率策略师均转而预计，美联储本周可能加息。上述机构以及道明证券加入华尔街其他多家交易商的行列，预计美联储将在9月16日宣布加息。",
-        "publishedAt": "2026-09-15 02:07:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873805928.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "特朗普在Truth Social上发布关于Ai的帖子称 所谓AI正在接管世界的说法是骗局",
-        "summary": "特朗普在TruthSocial上发布关于Ai的帖子称，所谓AI正在接管世界的说法是骗局。",
-        "publishedAt": "2026-09-15 01:39:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873805490.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国际原子能机构批准东帝汶入会申请",
-        "summary": "【国际原子能机构批准东帝汶入会申请】国际原子能机构第70届大会当地时间9月14日批准了东帝汶的入会申请。东帝汶将成为该机构第182个成员国。东帝汶此前已申请加入国际原子能机构，并获得该机构理事会推荐。大会批准后，东帝汶还需交存接受《国际原子能机构规约》的文书，完成相关程序后正式成为成员国。国际原子能机构第70届大会14日在奥地利维也纳开幕。",
-        "publishedAt": "2026-09-15 01:38:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873805555.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "沙特能源出口面临新考验 关键输油管道或数周无法恢复",
-        "summary": "【沙特能源出口面临新考验 关键输油管道或数周无法恢复】受沙特关键输油管道需数周才能恢复运行的影响，国际油价周一（9月14日）一度大幅上涨。",
-        "publishedAt": "2026-09-15 01:35:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873804637.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月11日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国9月11日COMEX黄金库存-每日更新(百盎司)；公布 273485.17，预期 nan，前值 273485.17。",
+        "publishedAt": "2026-09-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "能源"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国众议院议长约翰逊将于本周末或下周初与人工智能高管会谈",
-        "summary": "美国众议院议长约翰逊将于本周末或下周初与人工智能高管会谈。",
-        "publishedAt": "2026-09-15 01:31:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873803661.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月14日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国9月14日SPDR黄金持仓-每日更新(吨)；公布 1047.2，预期 nan，前值 1047.42。",
+        "publishedAt": "2026-09-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "一架小型飞机在德国坠毁 致3人死亡",
-        "summary": "【一架小型飞机在德国坠毁 致3人死亡】当地时间14日，一架小型飞机在德国埃尔克伦茨坠毁，造成3人死亡。埃尔克伦茨靠近德国与荷兰边境。据悉，飞机原本并未计划在埃尔克伦茨降落。但飞机坠毁的原因仍未披露。",
-        "publishedAt": "2026-09-15 01:30:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873803235.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月14日iShares白银持仓-每日更新(吨)",
+        "summary": "美国9月14日iShares白银持仓-每日更新(吨)；公布 15291.6，预期 nan，前值 15316.88。",
+        "publishedAt": "2026-09-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "谷歌正研究在美国新墨西哥州建设数据中心的可能性",
-        "summary": "【谷歌正研究在美国新墨西哥州建设数据中心的可能性】谷歌正研究在美国新墨西哥州建设数据中心的可能性，关于新墨西哥州利县数据中心项目的洽谈仍在推进中。",
-        "publishedAt": "2026-09-15 01:24:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873803088.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月14日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国9月14日iShares黄金持仓-每日更新(吨)；公布 462.59，预期 nan，前值 461.54。",
+        "publishedAt": "2026-09-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "苹果推出Siri人工智能",
-        "summary": "【苹果推出Siri人工智能】苹果推出Siri人工智能。Siri人工智能今日开始以英语进行测试，未来将扩展至5种语言。Siri人工智能在iOS、iPadOS和watchOS上初期将无法在欧盟使用。",
-        "publishedAt": "2026-09-15 01:15:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873800587.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伦敦波罗的海交易所：石油行业基准航线的油轮租赁成本首次超过每天100万美元",
-        "summary": "【伦敦波罗的海交易所：石油行业基准航线的油轮租赁成本首次超过每天100万美元】根据伦敦波罗的海交易所（BalticExchange）周一公布的数据，由于伊朗战争导致愿意穿越霍尔木兹海峡接载货物的油轮数量不足，石油行业基准航线的油轮租赁成本首次超过每天100万美元。",
-        "publishedAt": "2026-09-15 01:08:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153873800498.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "澳大利亚截至9月13日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至9月13日当周ANZ消费者信心指数；公布 73.9，预期 nan，前值 71.9。",
+        "publishedAt": "2026-09-15 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -112902,7 +112910,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "修复",
     "positionRule": {
@@ -112915,15 +112923,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-15 02:40:23",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 2 条；主题映射集中在 能源、AI算力、金融。",
+        "generatedAt": "2026-09-15 13:10:52",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、半导体、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：医疗服务、元件、化学制药；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -113019,7 +113027,7 @@
               "今日炸板 30 只，追高前先看前排封单和回封质量。",
               "今日跌停 16 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：永泰运:关于持股5%以上股东减持计划期限届满暨实施结果的公告；美国银行股价下跌5.7%。",
+              "新闻/公告风险：贝特利:关于签订募集资金三方监管协议的公告；*ST东智:2026年限制性股票激励计划考核管理办法。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
