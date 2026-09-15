@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-16",
     "phase": "盘中快照",
-    "generatedAt": "2026-09-16 01:36:49",
+    "generatedAt": "2026-09-16 01:41:05",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -93268,12 +93268,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-16",
-    "generatedAt": "2026-09-16 01:37:23",
+    "generatedAt": "2026-09-16 01:41:39",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 金融、能源、汽车链。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
         "name": "金融",
@@ -93286,13 +93286,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 2,
+        "name": "汽车链",
+        "score": 4,
         "isFocusBoard": false
       }
     ],
@@ -93561,15 +93561,17 @@
         "noticeType": ""
       },
       {
-        "title": "*ST春兴：子公司借款合同纠纷一审判决 公司承担连带清偿责任",
-        "summary": "【*ST春兴：子公司借款合同纠纷一审判决 公司承担连带清偿责任】*ST春兴(002547.SZ)公告称，公司及子公司金寨春兴收到安徽省金寨县人民法院一审判决，需向金寨汇金投资偿还借款本金1.66亿元及利息，公司承担连带清偿责任。",
-        "publishedAt": "2026-09-15 23:55:42",
+        "title": "谷歌公司发布Gemini 3.8实时对话模型",
+        "summary": "【谷歌公司发布Gemini 3.8实时对话模型】谷歌公司发布Gemini3.8实时对话模型。推出Gemini3.8Live和Gemini3.8LiveExtendedThinking，两款模型为我们目前最出色的对话式人工智能模型。与Salesforce、Genspark、以及Lumeris构建合作伙伴关系。",
+        "publishedAt": "2026-09-16 01:34:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609153875127762.html",
+        "url": "https://finance.eastmoney.com/a/202609163875141796.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -93776,15 +93778,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-16 01:37:23",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 金融、能源、汽车链。",
+        "generatedAt": "2026-09-16 01:41:39",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 13 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：半导体、电池；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、汽车链；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93815,7 +93817,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-16 01:36:49",
+        "generatedAt": "2026-09-16 01:41:05",
         "summary": "上午情绪分 16，涨停 32 家，跌停 27 家，炸板 24 家，连板 7 家，最高 5 板。",
         "sections": [
           {
@@ -93854,7 +93856,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-16 01:36:49",
+        "generatedAt": "2026-09-16 01:41:05",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
