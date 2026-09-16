@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-09-16",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-09-16 21:19:56",
+    "tradeDate": "2026-09-17",
+    "phase": "盘中快照",
+    "generatedAt": "2026-09-17 01:35:03",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -216,10 +216,10 @@
       ],
       "sealAmount": "1.1亿",
       "turnover": "成交 5.1亿",
-      "reason": "半导体方向涨停，涨停统计 2/2，首次封板 09:32:12，炸板 2 次。",
+      "reason": "半导体方向涨停，涨停统计 2/2，首次封板 09:32:12，炸板 3 次。",
       "firstSeal": "09:32:12",
       "lastSeal": "09:34:48",
-      "failCount": 2
+      "failCount": 3
     },
     {
       "code": "002584",
@@ -111669,16 +111669,18 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-16",
-    "generatedAt": "2026-09-16 21:21:05",
+    "tradeDate": "2026-09-17",
+    "generatedAt": "2026-09-17 01:35:53",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 半导体、AI算力、有色稀土。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、能源。",
     "themes": [
       {
-        "name": "半导体",
-        "score": 15,
-        "isFocusBoard": true
+        "name": "金融",
+        "score": 17,
+        "isFocusBoard": false
       },
       {
         "name": "AI算力",
@@ -111686,58 +111688,110 @@
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 8,
+        "score": 10,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 2,
+        "name": "半导体",
+        "score": 5,
+        "isFocusBoard": true
+      },
+      {
+        "name": "新能源",
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST迪瑞:关于变更职工代表董事的公告",
-        "summary": "ST迪瑞(300396)：ST迪瑞:关于变更职工代表董事的公告",
-        "publishedAt": "2026-09-16",
+        "title": "华瓷股份:关于股票交易异常波动的公告",
+        "summary": "华瓷股份(001216)：华瓷股份:关于股票交易异常波动的公告",
+        "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300396/AN202609161829463205.html",
+        "url": "https://data.eastmoney.com/notices/detail/001216/AN202609161829470919.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST迪瑞(300396)"
+          "华瓷股份(001216)"
         ],
         "importance": 1,
-        "noticeType": "高管人员任职变动"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "富创精密：两股东拟合计减持不超2%股份",
-        "summary": "【富创精密：两股东拟合计减持不超2%股份】富创精密(688409.SH)公告称，公司股东泰州祥浦、国投创业基金因自身资金安排需要，拟通过集中竞价方式分别减持不超过306.21万股，减持比例均不超过公司总股本的1%，减持期间为2026年10月19日至2027年1月18日。",
-        "publishedAt": "2026-09-16 21:11:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609163876289712.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "闽东电力:关于股票交易异常波动暨风险提示的公告",
+        "summary": "闽东电力(000993)：闽东电力:关于股票交易异常波动暨风险提示的公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000993/AN202609161829470871.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "闽东电力(000993)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "力勤资源:首次公开发行股票并在主板上市投资风险特别公告",
+        "summary": "力勤资源(001246)：力勤资源:首次公开发行股票并在主板上市投资风险特别公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001246/AN202609161829470801.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "力勤资源(001246)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "首发投资风险特别公告"
       },
       {
-        "title": "土耳其股市下跌6% 触发全市场熔断机制",
-        "summary": "【土耳其股市下跌6% 触发全市场熔断机制】土耳其股市下跌6%，触发全市场熔断机制，主要银行指数下跌7.7%。",
-        "publishedAt": "2026-09-16 21:06:24",
+        "title": "川润股份:关于公司申请向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "川润股份(002272)：川润股份:关于公司申请向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002272/AN202609161829470720.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "川润股份(002272)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "*ST皇庭:关于拟续聘会计师事务所的公告",
+        "summary": "*ST皇庭(000056)：*ST皇庭:关于拟续聘会计师事务所的公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000056/AN202609161829470719.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST皇庭(000056)"
+        ],
+        "importance": 1,
+        "noticeType": "审计机构变更"
+      },
+      {
+        "title": "保险法大修将深刻影响险资投资逻辑",
+        "summary": "【保险法大修将深刻影响险资投资逻辑】目前，《中华人民共和国保险法（修订草案征求意见稿）》（以下简称“草案”）正在公开征求意见。本次大修对保险业经营作出系统性完善。聚焦险资运用领域，修订的主线体现为“拓宽工具，严控风险”：保险资金运用形式拟新增四大类别，资产负债管理要求、负面清单与罚则也同步写入草案。这是保险资金投资权责的一次法律重构，将深刻影响险资投资逻辑…",
+        "publishedAt": "2026-09-17 00:57:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609163876287097.html",
+        "url": "https://finance.eastmoney.com/a/202609173876437731.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -111749,27 +111803,11 @@
         "noticeType": ""
       },
       {
-        "title": "国内商品期货夜盘开盘 主力合约多数上涨",
-        "summary": "国内商品期货夜盘开盘，主力合约多数上涨。涨幅方面，菜粕、丁二烯胶涨超2%，甲醇、沪银、豆粕、焦煤、沪镍等涨超1%；跌幅方面，塑料、原油跌超1%，对二甲苯、苯乙烯、低硫燃油、燃油、纯碱等小幅下跌。",
-        "publishedAt": "2026-09-16 21:00:01",
+        "title": "华尔街大多头Yardeni下调标普500指数目标至7,900点",
+        "summary": "【华尔街大多头Yardeni下调标普500指数目标至7,900点】华尔街最看好美股的人士之一EdYardeni下调了标普500指数的年末目标，理由是未来三到六个月经济下行的风险正在上升。YardeniResearchInc.总裁兼首席投资策略师Yardeni将标普500指数年末目标从8,400点下调至7,900点。",
+        "publishedAt": "2026-09-16 23:53:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609163876272939.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "2连板华瓷股份：股价异动提示氧化锆业务炒作风险",
-        "summary": "【2连板华瓷股份：股价异动提示氧化锆业务炒作风险】华瓷股份(001216.SZ)公告称，公司基本面未发生变化，2026年上半年营收5.76亿元，同比下降20.77%；扣非净利润7576.73万元，同比下降31.42%，主要受欧盟反倾销关税提升、出口退税取消及人民币升值影响。此外，公司2025年度定增股份预计于2026年11月11日解禁，解禁数量3837万股…",
-        "publishedAt": "2026-09-16 20:48:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609163876268857.html",
+        "url": "https://finance.eastmoney.com/a/202609163876429317.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -111779,211 +111817,187 @@
         "noticeType": ""
       },
       {
-        "title": "威马农机:国浩律师(成都)事务所关于威马农机股份有限公司控股股东、实际控制人增持股份之法律意见书",
-        "summary": "威马农机(301533)：威马农机:国浩律师(成都)事务所关于威马农机股份有限公司控股股东、实际控制人增持股份之法律意见书",
-        "publishedAt": "2026-09-16",
+        "title": "紫金矿业:紫金矿业集团股份有限公司关于全资子公司与关联人共同投资的公告",
+        "summary": "紫金矿业(601899)：紫金矿业:紫金矿业集团股份有限公司关于全资子公司与关联人共同投资的公告",
+        "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301533/AN202609161829469756.html",
+        "url": "https://data.eastmoney.com/notices/detail/601899/AN202609161829472320.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "威马农机(301533)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "康普化学:关于参加重庆辖区2026年投资者网上集体接待日暨半年度业绩说明会预告公告",
-        "summary": "康普化学(920033)：康普化学:关于参加重庆辖区2026年投资者网上集体接待日暨半年度业绩说明会预告公告",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920033/AN202609161829467298.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "康普化学(920033)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "奔朗新材:投资者关系活动记录表",
-        "summary": "奔朗新材(920807)：奔朗新材:投资者关系活动记录表",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920807/AN202609161829467283.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "奔朗新材(920807)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "品高股份:2026-003投资者关系活动记录表-2026年9月",
-        "summary": "品高股份(688227)：品高股份:2026-003投资者关系活动记录表-2026年9月",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688227/AN202609161829464065.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "品高股份(688227)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中国电研:中国电器科学研究院股份有限公司投资者关系活动记录(2026年广东辖区投资者集体接待日暨半年报业绩说明会活动)",
-        "summary": "中国电研(688128)：中国电研:中国电器科学研究院股份有限公司投资者关系活动记录(2026年广东辖区投资者集体接待日暨半年报业绩说明会活动)",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688128/AN202609161829463393.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中国电研(688128)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "林平发展:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "summary": "林平发展(603284)：林平发展:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603284/AN202609161829462342.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "林平发展(603284)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "山科智能:关于收到中标通知书的公告",
-        "summary": "山科智能(300897)：山科智能:关于收到中标通知书的公告",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300897/AN202609161829462059.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "山科智能(300897)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "002348高乐股份投资者关系管理信息20260916",
-        "summary": "高乐股份(002348)：002348高乐股份投资者关系管理信息20260916",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002348/AN202609161829446012.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "高乐股份(002348)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "佳都科技:佳都科技关于参加2026年广东辖区投资者集体接待日暨2026年半年度业绩说明会情况的公告",
-        "summary": "佳都科技(600728)：佳都科技:佳都科技关于参加2026年广东辖区投资者集体接待日暨2026年半年度业绩说明会情况的公告",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600728/AN202609151829421055.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佳都科技(600728)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第二期)票面利率公告",
-        "summary": "电投绿能(000875)：电投绿能:国电投绿色能源股份有限公司2026年面向专业机构投资者公开发行科技创新公司债券(第二期)票面利率公告",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000875/AN202609161829471212.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "电投绿能(000875)"
+          "紫金矿业(601899)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "泰胜风能:2026年9月16日上海辖区上市公司集体接待日暨中报业绩说明会活动记录",
-        "summary": "泰胜风能(300129)：泰胜风能:2026年9月16日上海辖区上市公司集体接待日暨中报业绩说明会活动记录",
-        "publishedAt": "2026-09-16",
+        "title": "电投能源:公司未来三年股东分红回报规划(2026年-2028年)",
+        "summary": "电投能源(002128)：电投能源:公司未来三年股东分红回报规划(2026年-2028年)",
+        "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300129/AN202609161829470776.html",
+        "url": "https://data.eastmoney.com/notices/detail/002128/AN202609161829470878.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融",
+          "能源"
+        ],
+        "tickers": [
+          "电投能源(002128)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "电投能源:关于投资国家电投额济纳旗温图高勒10万千瓦风电项目公告",
+        "summary": "电投能源(002128)：电投能源:关于投资国家电投额济纳旗温图高勒10万千瓦风电项目公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002128/AN202609161829470880.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "新能源",
+          "能源"
+        ],
+        "tickers": [
+          "电投能源(002128)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "联亚药业:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "summary": "联亚药业(301569)：联亚药业:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301569/AN202609161829470798.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "泰胜风能(300129)"
+          "联亚药业(301569)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "纽约期金突破4400美元/盎司",
-        "summary": "纽约期金突破4400美元/盎司，日内涨1.61%。",
-        "publishedAt": "2026-09-16 21:17:51",
+        "title": "联亚药业:与投资者保护相关的承诺",
+        "summary": "联亚药业(301569)：联亚药业:与投资者保护相关的承诺",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301569/AN202609161829470799.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "联亚药业(301569)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "经纬股份:北京博星证券投资顾问有限公司关于杭州经纬信息技术股份有限公司详式权益变动报告书之财务顾问核查意见",
+        "summary": "经纬股份(301390)：经纬股份:北京博星证券投资顾问有限公司关于杭州经纬信息技术股份有限公司详式权益变动报告书之财务顾问核查意见",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301390/AN202609161829470787.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "经纬股份(301390)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "经纬股份:简式权益变动报告书(一晟投资、点力投资、定晟投资、叶肖华)",
+        "summary": "经纬股份(301390)：经纬股份:简式权益变动报告书(一晟投资、点力投资、定晟投资、叶肖华)",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301390/AN202609161829470784.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "经纬股份(301390)"
+        ],
+        "importance": 1,
+        "noticeType": "权益变动报告书"
+      },
+      {
+        "title": "周三（9月16日） 美联储隔夜逆回购协议（RRP）使用规模为53.75亿美元",
+        "summary": "周三（9月16日），美联储隔夜逆回购协议（RRP）使用规模为53.75亿美元。",
+        "publishedAt": "2026-09-17 01:17:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609163876292734.html",
+        "url": "https://finance.eastmoney.com/a/202609173876444128.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月11日当周API原油库存变动(万桶)",
-        "summary": "美国截至9月11日当周API原油库存变动(万桶)；公布 714.4，预期 -175.0，前值 -32.7。",
-        "publishedAt": "2026-09-16 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "据报道 谷歌与DeepMind成立研究所探索通用人工智能",
+        "summary": "据报道，谷歌与DeepMind成立研究所探索通用人工智能。",
+        "publishedAt": "2026-09-17 01:22:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173876444633.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "能源"
+          "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "据报道 OpenAI、GitHub在AI编程工具版权诉讼中取得胜利",
+        "summary": "据报道，OpenAI、GitHub在AI编程工具版权诉讼中取得胜利。",
+        "publishedAt": "2026-09-17 01:08:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173876443287.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "土耳其财政部称：土耳其金融稳定委员会将于当地时间周四召开会议",
+        "summary": "土耳其财政部称，土耳其金融稳定委员会将于当地时间周四召开会议。",
+        "publishedAt": "2026-09-17 01:03:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173876442541.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -112068,7 +112082,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -112081,15 +112095,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-16 21:21:05",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 半导体、AI算力、有色稀土。",
+        "generatedAt": "2026-09-17 01:35:53",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -112120,7 +112134,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-16 21:19:56",
+        "generatedAt": "2026-09-17 01:35:03",
         "summary": "上午情绪分 100，涨停 89 家，跌停 4 家，炸板 11 家，连板 12 家，最高 6 板。",
         "sections": [
           {
@@ -112159,7 +112173,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-16 21:19:56",
+        "generatedAt": "2026-09-17 01:35:03",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -112185,7 +112199,7 @@
               "今日炸板 11 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST迪瑞:关于变更职工代表董事的公告；富创精密：两股东拟合计减持不超2%股份。",
+              "新闻/公告风险：华瓷股份:关于股票交易异常波动的公告；闽东电力:关于股票交易异常波动暨风险提示的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
