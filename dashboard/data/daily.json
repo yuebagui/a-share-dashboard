@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-16",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-16 16:46:51",
+    "generatedAt": "2026-09-16 16:51:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -94125,14 +94125,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-16",
-    "generatedAt": "2026-09-16 16:47:53",
+    "generatedAt": "2026-09-16 16:52:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 有色稀土、能源、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 有色稀土、能源、半导体。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 11,
         "isFocusBoard": false
       },
       {
@@ -94146,8 +94146,8 @@
         "isFocusBoard": true
       },
       {
-        "name": "AI算力",
-        "score": 4,
+        "name": "金融",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -94166,7 +94166,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
@@ -94189,17 +94189,33 @@
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "*ST禾信:2026年广东辖区投资者网上集体接待日活动投资者关系活动记录表",
-        "summary": "*ST禾信(688622)：*ST禾信:2026年广东辖区投资者网上集体接待日活动投资者关系活动记录表",
+        "title": "白云机场:2026-011投资者关系活动记录表(2026年9月15日)",
+        "summary": "白云机场(600004)：白云机场:2026-011投资者关系活动记录表(2026年9月15日)",
         "publishedAt": "2026-09-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688622/AN202609161829460824.html",
+        "url": "https://data.eastmoney.com/notices/detail/600004/AN202609161829462112.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST禾信(688622)"
+          "白云机场(600004)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "金钼股份:2026年9月15日投资者关系活动记录表",
+        "summary": "金钼股份(601958)：金钼股份:2026年9月15日投资者关系活动记录表",
+        "publishedAt": "2026-09-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601958/AN202609161829461926.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金钼股份(601958)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -94351,20 +94367,20 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "珠免集团:投资者关系活动记录表2026-003",
-        "summary": "珠免集团(600185)：珠免集团:投资者关系活动记录表2026-003",
-        "publishedAt": "2026-09-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600185/AN202609161829460826.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "德业股份：拟1亿元至2亿元回购公司股份",
+        "summary": "【德业股份：拟1亿元至2亿元回购公司股份】德业股份(605117.SH)公告称，公司拟以集中竞价方式回购股份，回购资金总额不低于1亿元且不超过2亿元，回购价格不超过133元/股，回购股份将用于员工持股计划或股权激励。回购期限为董事会审议通过之日起12个月内。",
+        "publishedAt": "2026-09-16 16:45:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609163876084862.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "珠免集团(600185)"
+        "themes": [
+          "金融"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
         "title": "迈凯伦将投资近5亿英镑扩大英国业务 包括新建汽车生产设施",
@@ -94429,22 +94445,6 @@
       {
         "title": "美国9月14日COMEX黄金库存-每日更新(百盎司)",
         "summary": "美国9月14日COMEX黄金库存-每日更新(百盎司)；公布 273838.18，预期 nan，前值 273485.17。",
-        "publishedAt": "2026-09-16 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月15日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月15日SPDR黄金持仓-每日更新(吨)；公布 1050.28，预期 nan，前值 1047.2。",
         "publishedAt": "2026-09-16 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -94553,8 +94553,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-16 16:47:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 有色稀土、能源、半导体。",
+        "generatedAt": "2026-09-16 16:52:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 有色稀土、能源、半导体。",
         "sections": [
           {
             "title": "今日先看",
@@ -94592,7 +94592,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-16 16:46:51",
+        "generatedAt": "2026-09-16 16:51:07",
         "summary": "上午情绪分 100，涨停 89 家，跌停 4 家，炸板 11 家，连板 12 家，最高 6 板。",
         "sections": [
           {
@@ -94631,7 +94631,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-16 16:46:51",
+        "generatedAt": "2026-09-16 16:51:07",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -94657,7 +94657,7 @@
               "今日炸板 11 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：腾亚精工:关于实际控制人部分股份解除质押的公告；*ST禾信:2026年广东辖区投资者网上集体接待日活动投资者关系活动记录表。",
+              "新闻/公告风险：腾亚精工:关于实际控制人部分股份解除质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
