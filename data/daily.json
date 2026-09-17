@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-17",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-17 20:47:59",
+    "generatedAt": "2026-09-17 21:16:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -121178,7 +121178,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -121340,28 +121341,23 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-17",
-    "generatedAt": "2026-09-17 20:48:39",
+    "generatedAt": "2026-09-17 21:17:12",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 有色稀土、金融、医药。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
+        "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 8,
+        "name": "金融",
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "医药",
         "score": 4,
         "isFocusBoard": false
       },
@@ -121371,17 +121367,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
         "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
@@ -121404,11 +121390,42 @@
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "恐慌指数VIX跌至超过一周低点",
-        "summary": "【恐慌指数VIX跌至超过一周低点】恐慌指数VIX跌至超过一周低点，最新下跌2.26点至15.45。",
-        "publishedAt": "2026-09-17 20:37:59",
+        "title": "三部门联合印发方案 部署四大任务保护农业品牌",
+        "summary": "【三部门联合印发方案 部署四大任务保护农业品牌】据央视新闻，近日，农业农村部、市场监管总局和国家知识产权局联合印发《农业品牌保护专项行动实施方案（2026—2027年）》，提出带动一批特色品牌、壮大一批品牌主体，集中力量查办一批侵权违法案件、震慑一批侵权行为，完善部门协同保护机制，健全覆盖农业品牌培育、管理、使用、推广的全链条保护体系，增强消费信心、提升品…",
+        "publishedAt": "2026-09-17 21:09:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173877516610.html",
+        "url": "https://finance.eastmoney.com/a/202609173877536727.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国内商品期货夜盘开盘 主力合约多数下跌",
+        "summary": "国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，纯苯、原油跌超4%，苯乙烯、燃油、LPG、焦煤跌超3%，对二甲苯、丁二烯胶、PTA、PVC、丙烯等跌超2%，聚丙烯、沥青、短纤、瓶片跌近2%，塑料、焦炭、棕榈油跌超1%；涨幅方面，沪银涨超2%，沪锡、沪锌、国际铜、沪金、沪铜涨超1%。",
+        "publishedAt": "2026-09-17 21:00:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877528183.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "英国30年期国债收益率日内下跌11个基点",
+        "summary": "【英国30年期国债收益率日内下跌11个基点】英国30年期国债收益率日内下跌11个基点，势将创下5月20日以来最大单日跌幅。",
+        "publishedAt": "2026-09-17 20:52:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877524994.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -121598,11 +121615,27 @@
         "noticeType": "股本变动"
       },
       {
-        "title": "云图控股：拟与藏格矿业合资投资刚果（布）钾盐项目",
-        "summary": "【云图控股：拟与藏格矿业合资投资刚果（布）钾盐项目】云图控股(002539.SZ)公告称，公司全资子公司应城化工拟与藏格矿业全资孙公司藏格国际在新加坡合资设立联合资源公司，应城化工持股25%。联合资源公司拟以1.71亿美元(约11.57亿元)收购KP公司92%股权，应城化工对应投资金额约2.89亿元。",
-        "publishedAt": "2026-09-17 20:29:40",
+        "title": "渣打银行预计美联储将在2026年12月加息25个基点",
+        "summary": "【渣打银行预计美联储将在2026年12月加息25个基点】渣打银行预计美联储将在2026年12月加息25个基点，此前预测为今年政策利率维持不变。",
+        "publishedAt": "2026-09-17 20:58:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173877504840.html",
+        "url": "https://finance.eastmoney.com/a/202609173877529176.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "*ST英飞：与重整投资人签署重整投资协议",
+        "summary": "【*ST英飞：与重整投资人签署重整投资协议】*ST英飞(002528.SZ)公告称，公司与国科控股等6家重整投资人签署《重整投资协议》，重整投资人将以2.61元/股认购转增股票，投资款合计约28.41亿元。其中，国科控股作为牵头投资人，将取得公司控制权。",
+        "publishedAt": "2026-09-17 20:52:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877524311.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -121621,52 +121654,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月联邦基金利率目标上限(%)",
-        "summary": "美国9月联邦基金利率目标上限(%)；公布 4.0，预期 4.0，前值 3.75。",
-        "publishedAt": "2026-09-17 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国7月外资净买入长期证券(亿美元)",
-        "summary": "美国7月外资净买入长期证券(亿美元)；公布 -279.0，预期 nan，前值 1727.0。",
-        "publishedAt": "2026-09-17 04:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月16日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月16日iShares黄金持仓-每日更新(吨)；公布 464.2，预期 nan，前值 464.2。",
-        "publishedAt": "2026-09-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -121829,15 +121816,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-17 20:48:39",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-09-17 21:17:12",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 有色稀土、金融、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：光学光电子；首看 光学光电子 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121868,7 +121855,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-17 20:47:59",
+        "generatedAt": "2026-09-17 21:16:28",
         "summary": "上午情绪分 84，涨停 47 家，跌停 1 家，炸板 20 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -121907,7 +121894,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-17 20:47:59",
+        "generatedAt": "2026-09-17 21:16:28",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121933,7 +121920,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：凯旺科技:河南凯旺电子科技股份有限公司关于公司股东部分股份解除质押的公告；恐慌指数VIX跌至超过一周低点。",
+              "新闻/公告风险：凯旺科技:河南凯旺电子科技股份有限公司关于公司股东部分股份解除质押的公告；三部门联合印发方案 部署四大任务保护农业品牌。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
