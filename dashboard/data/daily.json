@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-18",
     "phase": "盘中快照",
-    "generatedAt": "2026-09-18 01:34:39",
+    "generatedAt": "2026-09-18 01:38:36",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -121341,7 +121341,7 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-18",
-    "generatedAt": "2026-09-18 01:35:04",
+    "generatedAt": "2026-09-18 01:39:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
     "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、AI算力、军工。",
@@ -121364,6 +121364,11 @@
       {
         "name": "金融",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -121811,7 +121816,7 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-18 01:35:04",
+        "generatedAt": "2026-09-18 01:39:00",
         "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、AI算力、军工。",
         "sections": [
           {
@@ -121850,7 +121855,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-18 01:34:39",
+        "generatedAt": "2026-09-18 01:38:36",
         "summary": "上午情绪分 84，涨停 47 家，跌停 1 家，炸板 20 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -121889,7 +121894,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-18 01:34:39",
+        "generatedAt": "2026-09-18 01:38:36",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
