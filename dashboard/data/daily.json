@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-17",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-17 01:38:27",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-17 01:38:27",
+    "lastNewsAt": "2026-09-17 13:09:27"
   },
   "indices": [
     {
@@ -111670,36 +111672,44 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-17",
-    "generatedAt": "2026-09-17 01:39:19",
+    "generatedAt": "2026-09-17 13:09:27",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 半导体、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 17,
+        "name": "半导体",
+        "score": 10,
+        "isFocusBoard": true
+      },
+      {
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 10,
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 10,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 5,
-        "isFocusBoard": true
+        "name": "金融",
+        "score": 3,
+        "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -111721,100 +111731,224 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "闽东电力:关于股票交易异常波动暨风险提示的公告",
-        "summary": "闽东电力(000993)：闽东电力:关于股票交易异常波动暨风险提示的公告",
+        "title": "反对特朗普唱立场 联合国秘书长呼吁为AI设护栏",
+        "summary": "【反对特朗普唱立场 联合国秘书长呼吁为AI设护栏】美东时间9月16日，联合国秘书长古特雷斯在记者招待会上呼吁全球协同行动，为人工智能设立护栏。他说，越来越多的开发者警告，其开发速度超出人类对风险的认知，他们甚至呼吁暂停开发。",
+        "publishedAt": "2026-09-17 13:00:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877168326.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "世界气象组织：全球水循环日趋异常",
+        "summary": "【世界气象组织：全球水循环日趋异常】世界气象组织17日发布《全球水资源状况报告》指出，2025年全球河流遭遇了35年来最干旱的年份之一。陆地水储量延续近十年来的下降趋势，全球主要冰川区连续第四年出现冰量损失。报告警告，全球水循环正变得更加异常和难以预测，水资源安全面临长期风险。",
+        "publishedAt": "2026-09-17 12:48:52",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877166091.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "苹果iOS 27上线新反诈功能 转账前可预警冒充型诈骗",
+        "summary": "【苹果iOS 27上线新反诈功能 转账前可预警冒充型诈骗】近日，苹果在iOS27与iPadOS27系统内正式上线冒充风险检测（ImpersonationRiskDetection）安全功能，帮助用户防范网络冒充诈骗。",
+        "publishedAt": "2026-09-17 12:44:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877164589.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储聚焦“抗通胀” 港股或延续低迷走势｜市场观察",
+        "summary": "【美联储聚焦“抗通胀” 港股或延续低迷走势｜市场观察】9月17日凌晨，美联储加息如期落地，当天上午港股继续走低，恒生指数午盘跌0.73%，报收24533点，成交991亿港元。在业内人士看来，虽然美联储加息“靴子落地”，但会后表态聚焦于“抗通胀”总体偏“鹰派”，这是港股等风险资产继续承压的主要原因，相关利空仍需时间消化。",
+        "publishedAt": "2026-09-17 12:41:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877163870.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "康泰医学:300869康泰医学投资者关系管理信息20260917",
+        "summary": "康泰医学(300869)：康泰医学:300869康泰医学投资者关系管理信息20260917",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000993/AN202609161829470871.html",
+        "url": "https://data.eastmoney.com/notices/detail/300869/AN202609171829490525.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "康泰医学(300869)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000600建投能源投资者关系管理信息20260917",
+        "summary": "建投能源(000600)：000600建投能源投资者关系管理信息20260917",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000600/AN202609171829487947.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
           "能源"
         ],
         "tickers": [
-          "闽东电力(000993)"
+          "建投能源(000600)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "力勤资源:首次公开发行股票并在主板上市投资风险特别公告",
-        "summary": "力勤资源(001246)：力勤资源:首次公开发行股票并在主板上市投资风险特别公告",
+        "title": "澄天伟业:2026年9月16日投资者关系活动记录表.docx",
+        "summary": "澄天伟业(300689)：澄天伟业:2026年9月16日投资者关系活动记录表.docx",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001246/AN202609161829470801.html",
+        "url": "https://data.eastmoney.com/notices/detail/300689/AN202609171829487564.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "力勤资源(001246)"
+          "澄天伟业(300689)"
         ],
         "importance": 1,
-        "noticeType": "首发投资风险特别公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "川润股份:关于公司申请向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "川润股份(002272)：川润股份:关于公司申请向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "title": "广电计量投资者关系管理信息",
+        "summary": "广电计量(002967)：广电计量投资者关系管理信息",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002272/AN202609161829470720.html",
+        "url": "https://data.eastmoney.com/notices/detail/002967/AN202609171829487103.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "川润股份(002272)"
+          "广电计量(002967)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST皇庭:关于拟续聘会计师事务所的公告",
-        "summary": "*ST皇庭(000056)：*ST皇庭:关于拟续聘会计师事务所的公告",
+        "title": "河钢资源:2026年9月16日投资者关系活动记录表",
+        "summary": "河钢资源(000923)：河钢资源:2026年9月16日投资者关系活动记录表",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000056/AN202609161829470719.html",
+        "url": "https://data.eastmoney.com/notices/detail/000923/AN202609171829487473.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST皇庭(000056)"
+          "河钢资源(000923)"
         ],
         "importance": 1,
-        "noticeType": "审计机构变更"
+        "noticeType": "调研活动"
       },
       {
-        "title": "保险法大修将深刻影响险资投资逻辑",
-        "summary": "【保险法大修将深刻影响险资投资逻辑】目前，《中华人民共和国保险法（修订草案征求意见稿）》（以下简称“草案”）正在公开征求意见。本次大修对保险业经营作出系统性完善。聚焦险资运用领域，修订的主线体现为“拓宽工具，严控风险”：保险资金运用形式拟新增四大类别，资产负债管理要求、负面清单与罚则也同步写入草案。这是保险资金投资权责的一次法律重构，将深刻影响险资投资逻辑…",
-        "publishedAt": "2026-09-17 00:57:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173876437731.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "华尔街大多头Yardeni下调标普500指数目标至7,900点",
-        "summary": "【华尔街大多头Yardeni下调标普500指数目标至7,900点】华尔街最看好美股的人士之一EdYardeni下调了标普500指数的年末目标，理由是未来三到六个月经济下行的风险正在上升。YardeniResearchInc.总裁兼首席投资策略师Yardeni将标普500指数年末目标从8,400点下调至7,900点。",
-        "publishedAt": "2026-09-16 23:53:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609163876429317.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "伟星股份:2026年9月15日投资者关系活动记录表",
+        "summary": "伟星股份(002003)：伟星股份:2026年9月15日投资者关系活动记录表",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002003/AN202609171829486209.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "伟星股份(002003)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000778新兴铸管投资者关系管理信息20260916",
+        "summary": "新兴铸管(000778)：000778新兴铸管投资者关系管理信息20260916",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000778/AN202609171829486204.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新兴铸管(000778)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300969恒帅股份投资者关系管理信息20260917",
+        "summary": "恒帅股份(300969)：300969恒帅股份投资者关系管理信息20260917",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300969/AN202609171829486119.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒帅股份(300969)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "石药创新:300765石药创新投资者关系管理信息20260916",
+        "summary": "石药创新(300765)：石药创新:300765石药创新投资者关系管理信息20260916",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300765/AN202609171829485667.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "石药创新(300765)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "申菱环境:关于签订日常经营重大合同的公告",
+        "summary": "申菱环境(301018)：申菱环境:关于签订日常经营重大合同的公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301018/AN202609171829483857.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "申菱环境(301018)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
       },
       {
         "title": "紫金矿业:紫金矿业集团股份有限公司关于全资子公司与关联人共同投资的公告",
@@ -111833,169 +111967,31 @@
         "noticeType": "其他"
       },
       {
-        "title": "电投能源:公司未来三年股东分红回报规划(2026年-2028年)",
-        "summary": "电投能源(002128)：电投能源:公司未来三年股东分红回报规划(2026年-2028年)",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002128/AN202609161829470878.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融",
-          "能源"
-        ],
-        "tickers": [
-          "电投能源(002128)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "电投能源:关于投资国家电投额济纳旗温图高勒10万千瓦风电项目公告",
-        "summary": "电投能源(002128)：电投能源:关于投资国家电投额济纳旗温图高勒10万千瓦风电项目公告",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002128/AN202609161829470880.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "能源"
-        ],
-        "tickers": [
-          "电投能源(002128)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "联亚药业:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "summary": "联亚药业(301569)：联亚药业:落实投资者关系管理相关规定的安排、股利分配决策程序、股东投票机制建立情况",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301569/AN202609161829470798.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联亚药业(301569)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "联亚药业:与投资者保护相关的承诺",
-        "summary": "联亚药业(301569)：联亚药业:与投资者保护相关的承诺",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301569/AN202609161829470799.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联亚药业(301569)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "经纬股份:北京博星证券投资顾问有限公司关于杭州经纬信息技术股份有限公司详式权益变动报告书之财务顾问核查意见",
-        "summary": "经纬股份(301390)：经纬股份:北京博星证券投资顾问有限公司关于杭州经纬信息技术股份有限公司详式权益变动报告书之财务顾问核查意见",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301390/AN202609161829470787.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "经纬股份(301390)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "经纬股份:简式权益变动报告书(一晟投资、点力投资、定晟投资、叶肖华)",
-        "summary": "经纬股份(301390)：经纬股份:简式权益变动报告书(一晟投资、点力投资、定晟投资、叶肖华)",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301390/AN202609161829470784.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "经纬股份(301390)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "周三（9月16日） 美联储隔夜逆回购协议（RRP）使用规模为53.75亿美元",
-        "summary": "周三（9月16日），美联储隔夜逆回购协议（RRP）使用规模为53.75亿美元。",
-        "publishedAt": "2026-09-17 01:17:00",
+        "title": "恒帅股份：公司机器人相关业务尚未形成规模化订单",
+        "summary": "【恒帅股份：公司机器人相关业务尚未形成规模化订单】恒帅股份(300969)近日接受机构调研时表示，在人形机器人领域，公司依托谐波磁场电机技术，已针对直线关节电机、旋转关节电机、灵巧手电机等品种开展定制化开发，并与国内外客户进行需求匹配及样件送样，正陆续对接客户推进定制方案，但规模化订单及业绩贡献时间需视客户项目进度确定，建议关注后续公告。截至当前，公司机器…",
+        "publishedAt": "2026-09-17 12:57:25",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173876444128.html",
+        "url": "https://finance.eastmoney.com/a/202609173877166486.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "机器人"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "据报道 谷歌与DeepMind成立研究所探索通用人工智能",
-        "summary": "据报道，谷歌与DeepMind成立研究所探索通用人工智能。",
-        "publishedAt": "2026-09-17 01:22:34",
+        "title": "985高校迎新：多所高校新生人数超2万",
+        "summary": "【985高校迎新：多所高校新生人数超2万】10541人！吉林大学再次成为2026级本科新生人数最多的985高校。若把本科生和研究生合并计算，多所985高校的新生规模已突破2万人。记者梳理各校新生大数据发现，39所985高校今年普遍扩招，清华大学、北京理工大学、东南大学等高校扩招规模多达数百人，浙江大学、中山大学、山东大学等高校本硕博新生人数突破2万人。",
+        "publishedAt": "2026-09-17 12:56:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173876444633.html",
+        "url": "https://finance.eastmoney.com/a/202609173877166318.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "据报道 OpenAI、GitHub在AI编程工具版权诉讼中取得胜利",
-        "summary": "据报道，OpenAI、GitHub在AI编程工具版权诉讼中取得胜利。",
-        "publishedAt": "2026-09-17 01:08:12",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173876443287.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "土耳其财政部称：土耳其金融稳定委员会将于当地时间周四召开会议",
-        "summary": "土耳其财政部称，土耳其金融稳定委员会将于当地时间周四召开会议。",
-        "publishedAt": "2026-09-17 01:03:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173876442541.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -112082,7 +112078,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -112095,15 +112091,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-17 01:39:19",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、能源。",
+        "generatedAt": "2026-09-17 13:09:27",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 半导体、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -112199,7 +112195,7 @@
               "今日炸板 11 只，追高前先看前排封单和回封质量。",
               "今日跌停 4 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：华瓷股份:关于股票交易异常波动的公告；闽东电力:关于股票交易异常波动暨风险提示的公告。",
+              "新闻/公告风险：华瓷股份:关于股票交易异常波动的公告；反对特朗普唱立场 联合国秘书长呼吁为AI设护栏。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
