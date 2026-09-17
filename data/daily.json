@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-17",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-17 16:50:09",
+    "generatedAt": "2026-09-17 16:55:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -110798,24 +110798,26 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-17",
-    "generatedAt": "2026-09-17 16:50:43",
+    "generatedAt": "2026-09-17 16:55:39",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: HTTP Error 500: Internal Server Error"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 AI算力、金融、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 12,
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 9,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 6,
+        "name": "有色稀土",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -110841,6 +110843,54 @@
     ],
     "items": [
       {
+        "title": "诺思兰德:关于延期回复北京证券交易所审核问询函的公告",
+        "summary": "诺思兰德(920047)：诺思兰德:关于延期回复北京证券交易所审核问询函的公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920047/AN202609171829509107.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "诺思兰德(920047)"
+        ],
+        "importance": 1,
+        "noticeType": "延期回复问询函公告"
+      },
+      {
+        "title": "博苑新材:关于变更募投项目后重新签订募集资金三方监管协议的公告",
+        "summary": "博苑新材(301617)：博苑新材:关于变更募投项目后重新签订募集资金三方监管协议的公告",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301617/AN202609171829508545.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "博苑新材(301617)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
+      {
+        "title": "3天2板吉鑫科技：不存在应披露而未披露的重大信息",
+        "summary": "【3天2板吉鑫科技：不存在应披露而未披露的重大信息】吉鑫科技(601218.SH)公告称，经自查及问询控股股东、实际控制人，不存在应披露而未披露的重大信息。公司经营情况正常，内外部经营环境未发生重大变化。9月17日换手率达27.91%，连续3日累计换手率达60.43%，公司提示投资者注意二级市场交易风险。",
+        "publishedAt": "2026-09-17 16:47:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877350870.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "在岸人民币兑美元收盘报6.7085",
         "summary": "【在岸人民币兑美元收盘报6.7085】9月17日消息，在岸人民币兑美元收盘报6.7085，较上一交易日下跌21点。",
         "publishedAt": "2026-09-17 16:32:24",
@@ -110855,121 +110905,27 @@
         "noticeType": ""
       },
       {
-        "title": "5连板澳弘电子：泰国生产基地目前尚处于产品认证及小批量生产阶段",
-        "summary": "【5连板澳弘电子：泰国生产基地目前尚处于产品认证及小批量生产阶段】9月17日，澳弘电子发布股票交易风险提示公告称，公司泰国生产基地目前尚处于产品认证及小批量生产阶段，且受下游客户认证周期较长、产能爬坡、当地供应链配套磨合等因素影响，预计短期内不会对公司业绩产生重大影响。",
-        "publishedAt": "2026-09-17 16:26:30",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609173877333935.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "昂立教育:9月投资者关系活动记录表",
-        "summary": "昂立教育(600661)：昂立教育:9月投资者关系活动记录表",
+        "title": "鼎通科技:投资者关系活动记录表2026.09.15",
+        "summary": "鼎通科技(688668)：鼎通科技:投资者关系活动记录表2026.09.15",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600661/AN202609171829507095.html",
+        "url": "https://data.eastmoney.com/notices/detail/688668/AN202609171829507097.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "昂立教育(600661)"
+          "鼎通科技(688668)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "天创时尚:天创时尚股份有限公司投资者关系活动记录表(2026年9月15日)",
-        "summary": "天创时尚(603608)：天创时尚:天创时尚股份有限公司投资者关系活动记录表(2026年9月15日)",
+        "title": "迪哲医药:投资者关系活动记录表科创板2026年半年度创新药行业集体业绩说明会",
+        "summary": "迪哲医药(688192)：迪哲医药:投资者关系活动记录表科创板2026年半年度创新药行业集体业绩说明会",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603608/AN202609171829507113.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天创时尚(603608)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "原尚股份:2026年9月15日投资者关系活动记录表",
-        "summary": "原尚股份(603813)：原尚股份:2026年9月15日投资者关系活动记录表",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603813/AN202609171829507096.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "原尚股份(603813)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "瀚蓝环境:投资者关系活动记录表(2026年9月16日)",
-        "summary": "瀚蓝环境(600323)：瀚蓝环境:投资者关系活动记录表(2026年9月16日)",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600323/AN202609171829507103.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "瀚蓝环境(600323)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "九州一轨:北京九州一轨环境科技股份有限公司投资者关系活动记录表",
-        "summary": "九州一轨(688485)：九州一轨:北京九州一轨环境科技股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688485/AN202609171829507114.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "九州一轨(688485)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "鹿山新材:广州鹿山新材料股份有限公司投资者关系活动记录表2026-003",
-        "summary": "鹿山新材(603051)：鹿山新材:广州鹿山新材料股份有限公司投资者关系活动记录表2026-003",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603051/AN202609171829507112.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鹿山新材(603051)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "苑东生物:2026年9月16日投资者关系活动记录表(科创板2026年半年度创新药行业集体业绩说明会)",
-        "summary": "苑东生物(688513)：苑东生物:2026年9月16日投资者关系活动记录表(科创板2026年半年度创新药行业集体业绩说明会)",
-        "publishedAt": "2026-09-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688513/AN202609171829507102.html",
+        "url": "https://data.eastmoney.com/notices/detail/688192/AN202609171829507104.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -110977,87 +110933,135 @@
           "医药"
         ],
         "tickers": [
-          "苑东生物(688513)"
+          "迪哲医药(688192)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "百利天恒:投资者关系活动记录表(2026年9月16日)",
-        "summary": "百利天恒(688506)：百利天恒:投资者关系活动记录表(2026年9月16日)",
+        "title": "瑜欣电子:关于参加重庆辖区上市公司2026年投资者网上集体接待日暨半年度业绩说明会的公告",
+        "summary": "瑜欣电子(301107)：瑜欣电子:关于参加重庆辖区上市公司2026年投资者网上集体接待日暨半年度业绩说明会的公告",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688506/AN202609171829507107.html",
+        "url": "https://data.eastmoney.com/notices/detail/301107/AN202609171829508542.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "百利天恒(688506)"
+          "瑜欣电子(301107)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "盟科药业:上海盟科药业股份有限公司投资者关系活动表(2026年9月16日)",
-        "summary": "盟科药业(688373)：盟科药业:上海盟科药业股份有限公司投资者关系活动表(2026年9月16日)",
+        "title": "爱婴室:上海爱婴室商务服务股份有限公司投资者关系活动记录表(2026年中报业绩说明会)",
+        "summary": "爱婴室(603214)：爱婴室:上海爱婴室商务服务股份有限公司投资者关系活动记录表(2026年中报业绩说明会)",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688373/AN202609171829507099.html",
+        "url": "https://data.eastmoney.com/notices/detail/603214/AN202609171829508499.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "盟科药业(688373)"
+          "爱婴室(603214)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "光明乳业:-光明乳业:2026半年报业绩说明会投资者关系活动记录表",
-        "summary": "光明乳业(600597)：光明乳业:-光明乳业:2026半年报业绩说明会投资者关系活动记录表",
+        "title": "道生天合:2026年半年度业绩说明会投资者关系活动记录表",
+        "summary": "道生天合(601026)：道生天合:2026年半年度业绩说明会投资者关系活动记录表",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600597/AN202609171829507109.html",
+        "url": "https://data.eastmoney.com/notices/detail/601026/AN202609171829508508.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "光明乳业(600597)"
+          "道生天合(601026)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "兴发集团:湖北兴发化工集团股份有限公司投资者关系活动记录表(2026-008)",
-        "summary": "兴发集团(600141)：兴发集团:湖北兴发化工集团股份有限公司投资者关系活动记录表(2026-008)",
+        "title": "300180华峰超纤投资者关系管理信息20260917",
+        "summary": "华峰超纤(300180)：300180华峰超纤投资者关系管理信息20260917",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600141/AN202609171829507106.html",
+        "url": "https://data.eastmoney.com/notices/detail/300180/AN202609171829508486.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "兴发集团(600141)"
+          "华峰超纤(300180)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "炬芯科技:炬芯科技股份有限公司投资者关系活动记录表(2026-009)",
-        "summary": "炬芯科技(688049)：炬芯科技:炬芯科技股份有限公司投资者关系活动记录表(2026-009)",
+        "title": "威马农机:关于参加重庆辖区2026年投资者网上集体接待日暨半年度业绩说明会活动的公告",
+        "summary": "威马农机(301533)：威马农机:关于参加重庆辖区2026年投资者网上集体接待日暨半年度业绩说明会活动的公告",
         "publishedAt": "2026-09-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688049/AN202609171829507110.html",
+        "url": "https://data.eastmoney.com/notices/detail/301533/AN202609171829508514.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "炬芯科技(688049)"
+          "威马农机(301533)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "一博科技投资者关系活动记录表--2026年9月17日",
+        "summary": "一博科技(301366)：一博科技投资者关系活动记录表--2026年9月17日",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301366/AN202609171829507997.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "一博科技(301366)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "亚太股份:2026年09月16日投资者关系活动记录表",
+        "summary": "亚太股份(002284)：亚太股份:2026年09月16日投资者关系活动记录表",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002284/AN202609171829506887.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "亚太股份(002284)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "金发科技:投资者关系活动记录表(2026年9月上)",
+        "summary": "金发科技(600143)：金发科技:投资者关系活动记录表(2026年9月上)",
+        "publishedAt": "2026-09-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600143/AN202609171829507115.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金发科技(600143)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -111079,47 +111083,45 @@
         "noticeType": ""
       },
       {
-        "title": "美国9月联邦基金利率目标下限(%)",
-        "summary": "美国9月联邦基金利率目标下限(%)；公布 3.75，预期 3.75，前值 3.5。",
-        "publishedAt": "2026-09-17 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "茅台缺席 古井贡酒“降档” 白酒“中秋礼盒”为何“退潮”？",
+        "summary": "【茅台缺席 古井贡酒“降档” 白酒“中秋礼盒”为何“退潮”？】中秋国庆双节将至，茅台酒中秋礼盒却确定“缺席”。去年，茅台文旅发布“2025年传统中国节·中秋团圆季”套盒，含两瓶53%vol飞天茅台酒（200ml）及一套茶具，售价2599元/套；今年，这款礼盒确定不再生产。记者调查发现，目前市场上尚未上市五粮液、今世缘的中秋定制礼盒产品，而其他酒企的“中秋礼…",
+        "publishedAt": "2026-09-17 16:51:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877351093.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月联邦基金利率目标上限(%)",
-        "summary": "美国9月联邦基金利率目标上限(%)；公布 4.0，预期 4.0，前值 3.75。",
-        "publishedAt": "2026-09-17 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "中国贸促会副会长聂文慧赴蒙古国出席第十九届中俄蒙工商论坛",
+        "summary": "【中国贸促会副会长聂文慧赴蒙古国出席第十九届中俄蒙工商论坛】9月16日至17日，中国贸促会副会长聂文慧赴蒙古国出席第十九届中俄蒙工商论坛并致辞。",
+        "publishedAt": "2026-09-17 16:51:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877350668.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国7月外资净买入长期证券(亿美元)",
-        "summary": "美国7月外资净买入长期证券(亿美元)；公布 -279.0，预期 nan，前值 1727.0。",
-        "publishedAt": "2026-09-17 04:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "金融"
-        ],
+        "title": "巴基斯坦财政部长：巴基斯坦没有计划向国际货币基金组织请求额外融资",
+        "summary": "巴基斯坦财政部长表示，巴基斯坦没有计划向国际货币基金组织请求额外融资。",
+        "publishedAt": "2026-09-17 16:48:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609173877350767.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -111280,15 +111282,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-17 16:50:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-09-17 16:55:39",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 AI算力、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：光学光电子；首看 光学光电子 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -111319,7 +111321,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-17 16:50:09",
+        "generatedAt": "2026-09-17 16:55:07",
         "summary": "上午情绪分 84，涨停 47 家，跌停 1 家，炸板 20 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -111358,7 +111360,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-17 16:50:09",
+        "generatedAt": "2026-09-17 16:55:07",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -111384,7 +111386,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：在岸人民币兑美元收盘报6.7085；5连板澳弘电子：泰国生产基地目前尚处于产品认证及小批量生产阶段。",
+              "新闻/公告风险：诺思兰德:关于延期回复北京证券交易所审核问询函的公告；博苑新材:关于变更募投项目后重新签订募集资金三方监管协议的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
