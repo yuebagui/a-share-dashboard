@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-18",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-18 20:51:21",
+    "generatedAt": "2026-09-19 01:00:39",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -134307,7 +134307,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -134471,14 +134472,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-18",
-    "generatedAt": "2026-09-18 20:52:37",
+    "generatedAt": "2026-09-19 01:01:49",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
       {
         "name": "金融",
-        "score": 11,
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -134487,110 +134488,72 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
         "name": "半导体",
         "score": 5,
         "isFocusBoard": true
       },
       {
-        "name": "军工",
+        "name": "低空经济",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
+        "name": "AI算力",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "发行人及中介机构回复意见(江苏长晶科技股份有限公司)",
-        "summary": "长晶科技(A26159)：发行人及中介机构回复意见(江苏长晶科技股份有限公司)",
+        "title": "朗新科技:关于控股股东部分股份补充质押的公告",
+        "summary": "朗新科技(300682)：朗新科技:关于控股股东部分股份补充质押的公告",
         "publishedAt": "2026-09-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26159/AN202609181829626078.html",
+        "url": "https://data.eastmoney.com/notices/detail/300682/AN202609181829620934.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "长晶科技(A26159)"
+          "朗新科技(300682)"
         ],
         "importance": 1,
-        "noticeType": "深主板发行上市问询与回复"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "关于对福建傲农生物科技集团股份有限公司有关责任人予以监管警示的决定",
-        "summary": "傲农生物(603363)：关于对福建傲农生物科技集团股份有限公司有关责任人予以监管警示的决定",
+        "title": "欧洲主要股指收盘集体下跌",
+        "summary": "【欧洲主要股指收盘集体下跌】英国富时100指数跌1.50%，法国CAC40指数跌1.62%，德国DAX30指数跌1.63%，富时意大利MIB指数跌1.60%。",
+        "publishedAt": "2026-09-18 23:38:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609183878913155.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "康希通信:2026-009投资者关系活动记录表(2026年9月16日、17日、18日)",
+        "summary": "康希通信(688653)：康希通信:2026-009投资者关系活动记录表(2026年9月16日、17日、18日)",
         "publishedAt": "2026-09-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603363/AN202609181829626071.html",
+        "url": "https://data.eastmoney.com/notices/detail/688653/AN202609181829619677.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "傲农生物(603363)"
+          "康希通信(688653)"
         ],
         "importance": 1,
-        "noticeType": "上交所股票监管关注"
-      },
-      {
-        "title": "欧洲电信板块股价跌幅进一步扩大 日内下跌3%",
-        "summary": "【欧洲电信板块股价跌幅进一步扩大 日内下跌3%】欧洲电信板块股价跌幅进一步扩大，日内下跌3%，有望创下2025年4月以来最大单日跌幅。",
-        "publishedAt": "2026-09-18 20:30:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183878798250.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "汇丰拟通过风险转移交易对冲数据中心贷款风险",
-        "summary": "【汇丰拟通过风险转移交易对冲数据中心贷款风险】汇丰控股据悉正筹划一笔风险转移交易，以对冲与数据中心相关的贷款敞口。随着人工智能投资热潮持续升温，越来越多银行也在考虑类似交易。汇丰正与投资者进行初步磋商，考虑针对逾10亿美元用于数据中心等AI基础设施融资的贷款安排一笔重大风险转移(SRT)交易。",
-        "publishedAt": "2026-09-18 20:28:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183878788417.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "华软科技：公司不生产光刻胶产品 仅有少量光引发剂产品",
-        "summary": "【华软科技：公司不生产光刻胶产品 仅有少量光引发剂产品】华软科技9月18日公告，公司不生产光刻胶产品，仅有少量光引发剂产品。敬请广大投资者注意投资风险，理性投资。",
-        "publishedAt": "2026-09-18 20:22:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183878782952.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
         "title": "华伍股份:关于2026年半年度权益分派实施后调整回购股份价格上限的公告",
@@ -134707,63 +134670,75 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "先导智能:H股公告-根据2026年H股激励计划授予奖励",
-        "summary": "先导智能(300450)：先导智能:H股公告-根据2026年H股激励计划授予奖励",
+        "title": "000528柳工投资者关系管理信息20260918",
+        "summary": "柳工(000528)：000528柳工投资者关系管理信息20260918",
         "publishedAt": "2026-09-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300450/AN202609181829625989.html",
+        "url": "https://data.eastmoney.com/notices/detail/000528/AN202609181829615634.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "先导智能(300450)"
+          "柳工(000528)"
         ],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "华研精机:广州华研精密机械股份有限公司分红派息实施公告",
-        "summary": "华研精机(301138)：华研精机:广州华研精密机械股份有限公司分红派息实施公告",
+        "title": "金隅集团:投资者关系活动记录表(2026年半年度业绩说明会)",
+        "summary": "金隅集团(601992)：金隅集团:投资者关系活动记录表(2026年半年度业绩说明会)",
         "publishedAt": "2026-09-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301138/AN202609181829626018.html",
+        "url": "https://data.eastmoney.com/notices/detail/601992/AN202609181829616064.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "华研精机(301138)"
+          "金隅集团(601992)"
         ],
         "importance": 1,
-        "noticeType": "分配方案实施"
+        "noticeType": "调研活动"
       },
       {
-        "title": "锐捷网络:锐捷网络股份有限公司未来三年(2026年-2028年)股东分红回报规划",
-        "summary": "锐捷网络(301165)：锐捷网络:锐捷网络股份有限公司未来三年(2026年-2028年)股东分红回报规划",
+        "title": "电子城:投资者关系活动记录表(2026年半年度业绩说明会)",
+        "summary": "电子城(600658)：电子城:投资者关系活动记录表(2026年半年度业绩说明会)",
         "publishedAt": "2026-09-18",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301165/AN202609181829626025.html",
+        "url": "https://data.eastmoney.com/notices/detail/600658/AN202609181829619148.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "锐捷网络(301165)"
+          "电子城(600658)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "调研活动"
       },
       {
-        "title": "安森美再发涨价函",
-        "summary": "【安森美再发涨价函】近日，安森美（onsemi）发布涨价通知，将对广泛的产品系列实施价格调整，新价格将于2026年10月10日起生效。今年上半年，该公司已进行过一轮调价。",
-        "publishedAt": "2026-09-18 20:37:00",
+        "title": "美联储施密德表示：美国财政部回购国债不会让美联储的工作变得更困难或更容易",
+        "summary": "美联储施密德表示，美国财政部回购国债不会让美联储的工作变得更困难或更容易。",
+        "publishedAt": "2026-09-19 00:29:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183878802758.html",
+        "url": "https://finance.eastmoney.com/a/202609193878927853.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "以太坊突破2600美元",
+        "summary": "【以太坊突破2600美元】行情显示，以太坊涨至2601.19美元，过去24小时内涨5.33%；行情显示，比特币涨至81022.4美元，过去24小时内涨5.6%。",
+        "publishedAt": "2026-09-19 00:19:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609193878925366.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -134773,15 +134748,18 @@
         "noticeType": ""
       },
       {
-        "title": "食品涨价 更多韩国消费者买菜选“小份”",
-        "summary": "【食品涨价 更多韩国消费者买菜选“小份”】据报道，由于食品价格普遍上涨，韩国消费者更加精打细算，购买水果和蔬菜等食品时倾向于购买切块的小份装。韩国商家为迎合消费者节约开支的需求，把卷心菜、西瓜等果蔬切半或切成三四块出售。",
-        "publishedAt": "2026-09-18 20:27:33",
+        "title": "北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持",
+        "summary": "【北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，创新算力与词元金融工具。支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品，为企业提供中长期信贷支持，实施词元工程师再技能化…",
+        "publishedAt": "2026-09-18 23:52:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183878789548.html",
+        "url": "https://finance.eastmoney.com/a/202609183878919237.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "AI算力",
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -134789,6 +134767,20 @@
       {
         "title": "美国9月17日10年期TIPS竞拍-高收益率(%)",
         "summary": "美国9月17日10年期TIPS竞拍-高收益率(%)；公布 2.65，预期 nan，前值 2.44。",
+        "publishedAt": "2026-09-18 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月17日10年期TIPS竞拍-总金额(亿美元)",
+        "summary": "美国9月17日10年期TIPS竞拍-总金额(亿美元)；公布 190.0，预期 nan，前值 210.0。",
         "publishedAt": "2026-09-18 01:00",
         "source": "百度财经日历",
         "url": "",
@@ -134993,15 +134985,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-18 20:52:37",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-09-19 01:01:49",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：半导体、芯片概念、存储芯片；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -135032,7 +135024,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-18 20:51:21",
+        "generatedAt": "2026-09-19 01:00:39",
         "summary": "上午情绪分 100，涨停 78 家，跌停 0 家，炸板 25 家，连板 12 家，最高 4 板。",
         "sections": [
           {
@@ -135071,7 +135063,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-18 20:51:21",
+        "generatedAt": "2026-09-19 01:00:39",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -135097,7 +135089,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：发行人及中介机构回复意见(江苏长晶科技股份有限公司)；关于对福建傲农生物科技集团股份有限公司有关责任人予以监管警示的决定。",
+              "新闻/公告风险：朗新科技:关于控股股东部分股份补充质押的公告；欧洲主要股指收盘集体下跌。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
