@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-18",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-18 01:38:36",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-18 01:38:36",
+    "lastNewsAt": "2026-09-18 13:02:12"
   },
   "indices": [
     {
@@ -121341,10 +121343,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-18",
-    "generatedAt": "2026-09-18 01:39:00",
+    "generatedAt": "2026-09-18 13:02:12",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、AI算力、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、AI算力、能源。",
     "themes": [
       {
         "name": "有色稀土",
@@ -121357,7 +121359,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "能源",
         "score": 4,
         "isFocusBoard": false
       },
@@ -121367,17 +121369,38 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "格林生物:关于格林生物签订募集资金三方及四方监管协议的公告",
+        "summary": "格林生物(301688)：格林生物:关于格林生物签订募集资金三方及四方监管协议的公告",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301688/AN202609181829604923.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "格林生物(301688)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
       {
         "title": "长园集团:关于收到持股5%以上股东《执行裁定书》的进展公告",
         "summary": "长园集团(600525)：长园集团:关于收到持股5%以上股东《执行裁定书》的进展公告",
@@ -121411,75 +121434,11 @@
         "noticeType": "董事会决议公告"
       },
       {
-        "title": "*ST英飞:关于与重整投资人签署《重整投资协议》的公告",
-        "summary": "*ST英飞(002528)：*ST英飞:关于与重整投资人签署《重整投资协议》的公告",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002528/AN202609171829535494.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST英飞(002528)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "京基智农:股东股份质押公告",
-        "summary": "京基智农(000048)：京基智农:股东股份质押公告",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000048/AN202609171829535489.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "京基智农(000048)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "世联行:股票交易异常波动公告",
-        "summary": "世联行(002285)：世联行:股票交易异常波动公告",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002285/AN202609171829535480.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "世联行(002285)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "亚世光电:关于持股5%以上股东减持计划时间届满暨减持结果的公告",
-        "summary": "亚世光电(002952)：亚世光电:关于持股5%以上股东减持计划时间届满暨减持结果的公告",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002952/AN202609171829533538.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "亚世光电(002952)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "特朗普表示他在伊朗战争问题上正接近重大十字路口",
-        "summary": "特朗普表示他在伊朗战争问题上正接近重大十字路口。伊朗战争正接近关键节点，需要决定是否恢复大规模军事行动，以推动冲突结束。",
-        "publishedAt": "2026-09-18 00:59:33",
+        "title": "世界气象组织最新预警：冰川巨量消融 全球水资源安全面临长期风险",
+        "summary": "【世界气象组织最新预警：冰川巨量消融 全球水资源安全面临长期风险】世界气象组织（WMO）近日发布《全球水资源状况报告》，显示2025年是过去35年来全球河流最干旱的年份之一。陆地水储量延续近十年来的下降趋势，全球主要冰川区连续第四年出现冰量损失。地下水情况同样不容乐观，2025年，全球近三分之二监测井的水位偏离历史常态。报告警告，全球水循环正变得更加异常和…",
+        "publishedAt": "2026-09-18 12:58:27",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183877676073.html",
+        "url": "https://finance.eastmoney.com/a/202609183878449413.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -121487,6 +121446,168 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "AI安全风险引爆担忧？Palantir CEO建议：领先AI实验室恐需“国有化”！",
+        "summary": "【AI安全风险引爆担忧？Palantir CEO建议：领先AI实验室恐需“国有化”！】当地时间周四，人工智能软件公司Palantir的首席执行官AlexKarp呼吁制定人工智能（AI）监管的“合理准则”，但他表示，由于该技术“无限风险”带来的责任，可能需要实行国有化。",
+        "publishedAt": "2026-09-18 12:57:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609183878384616.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "全球债市尚未脱险？分析师集体预警下一重大威胁：食品通胀飙升！",
+        "summary": "【全球债市尚未脱险？分析师集体预警下一重大威胁：食品通胀飙升！】随着伊朗战事久拖不决，叠加超强厄尔尼诺袭来，全球粮食安全风险正日益加剧。市场焦点正从“能源价格冲击”转向“食品价格冲击”。投资者正日益担心食品通胀将成为下一轮推高物价的主要推手，并冲击全球债券市场。",
+        "publishedAt": "2026-09-18 12:54:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609183878396880.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美伊冲突搅动油轮市场 巨型油轮订购潮席卷全球",
+        "summary": "【美伊冲突搅动油轮市场 巨型油轮订购潮席卷全球】随着美伊冲突重塑贸易路线并推动长途原油运输需求，全球掀起了一场价值超过200亿美元的巨型油轮采购热潮，船东今年订购的巨型油轮数量已达2025年全年的两倍多。航运分析平台Signal Group的数据显示，2026年迄今船东们已订购217艘超大型原油运输船（VLCC），而去年全年仅为93艘。",
+        "publishedAt": "2026-09-18 12:53:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609183878437536.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "300328宜安科技投资者关系管理信息20260918",
+        "summary": "宜安科技(300328)：300328宜安科技投资者关系管理信息20260918",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300328/AN202609181829591500.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宜安科技(300328)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国药一致:000028国药一致投资者关系管理信息20260918",
+        "summary": "国药一致(000028)：国药一致:000028国药一致投资者关系管理信息20260918",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000028/AN202609181829594645.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国药一致(000028)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300727润禾材料投资者关系管理信息20260918",
+        "summary": "润禾材料(300727)：300727润禾材料投资者关系管理信息20260918",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300727/AN202609181829591499.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "润禾材料(300727)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002582好想你投资者关系管理信息20260918",
+        "summary": "好想你(002582)：002582好想你投资者关系管理信息20260918",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002582/AN202609181829591172.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "好想你(002582)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国信证券:2026年9月17日投资者关系活动记录表",
+        "summary": "国信证券(002736)：国信证券:2026年9月17日投资者关系活动记录表",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002736/AN202609181829591171.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国信证券(002736)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "欧普康视:2026年9月17日投资者关系活动记录表",
+        "summary": "欧普康视(300595)：欧普康视:2026年9月17日投资者关系活动记录表",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300595/AN202609181829584129.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "欧普康视(300595)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "美盈森:2026年9月17日投资者关系活动记录表",
+        "summary": "美盈森(002303)：美盈森:2026年9月17日投资者关系活动记录表",
+        "publishedAt": "2026-09-18",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002303/AN202609181829580502.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美盈森(002303)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "奥康国际:简式权益变动报告书(转让方-奥康投资及其一致行动人王振滔)",
@@ -121521,141 +121642,31 @@
         "noticeType": "投资设立公司"
       },
       {
-        "title": "新金路:2026年股票期权与限制性股票激励计划(草案)摘要",
-        "summary": "新金路(000510)：新金路:2026年股票期权与限制性股票激励计划(草案)摘要",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000510/AN202609171829535453.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新金路(000510)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划摘要"
-      },
-      {
-        "title": "新金路:2026年股票期权与限制性股票激励计划(草案)",
-        "summary": "新金路(000510)：新金路:2026年股票期权与限制性股票激励计划(草案)",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000510/AN202609171829535456.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新金路(000510)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "新金路:四川新金路集团股份有限公司2026年股票期权与限制性股票激励计划自查表",
-        "summary": "新金路(000510)：新金路:四川新金路集团股份有限公司2026年股票期权与限制性股票激励计划自查表",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000510/AN202609171829535455.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新金路(000510)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "云图控股:关于全资子公司拟与藏格矿业合资成立公司并投资刚果(布)钾盐项目的公告",
-        "summary": "云图控股(002539)：云图控股:关于全资子公司拟与藏格矿业合资成立公司并投资刚果(布)钾盐项目的公告",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002539/AN202609171829533539.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "云图控股(002539)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "周四（9月17日） 美联储隔夜逆回购协议（RRP）使用规模为2.76亿美元",
-        "summary": "周四（9月17日），美联储隔夜逆回购协议（RRP）使用规模为2.76亿美元。",
-        "publishedAt": "2026-09-18 01:16:50",
+        "title": "联想集团股价创历史新高 总市值突破4500亿港元",
+        "summary": "【联想集团股价创历史新高 总市值突破4500亿港元】9月18日上午，港股联想集团股价持续攀升。截至发稿，该股涨超6%，报36.44港元/股，股价创历史新高，总市值已突破4500亿港元。消息面上，9月16日，针对联想集团的长期估值问题，联想集团高级副总裁兼首席财务官郑孝明回应，当前联想的市场估值尚未充分反映公司的收入、盈利能力和增长前景。他以戴尔科技为参照表…",
+        "publishedAt": "2026-09-18 12:44:35",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183877678954.html",
+        "url": "https://finance.eastmoney.com/a/202609183878458467.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月17日10年期TIPS竞拍-高收益率(%)",
-        "summary": "美国9月17日10年期TIPS竞拍-高收益率(%)；公布 nan，预期 nan，前值 2.44。",
-        "publishedAt": "2026-09-18 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "顺丰同城：控股股东增持4584.4万股H股 持股比例升至约63.48%",
+        "summary": "【顺丰同城：控股股东增持4584.4万股H股 持股比例升至约63.48%】顺丰同城在港交所公告，公司获控股股东顺丰控股的全资附属公司Celestial OceanInvestments Limited告知，其已于9月18日通过大宗交易收购4584.4万股公司H股股份，占公司全部已发行股本（包含库存股份）约4.9973%。由于收购事项，顺丰控股直接及间接持有…",
+        "publishedAt": "2026-09-18 12:41:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609183878458832.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月17日10年期TIPS竞拍-总金额(亿美元)",
-        "summary": "美国9月17日10年期TIPS竞拍-总金额(亿美元)；公布 nan，预期 nan，前值 210.0。",
-        "publishedAt": "2026-09-18 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至9月16日美联储资产负债表(万亿美元)",
-        "summary": "美国截至9月16日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.79。",
-        "publishedAt": "2026-09-18 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月17日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月17日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 464.2。",
-        "publishedAt": "2026-09-18 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -121803,7 +121814,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121816,15 +121827,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-18 01:39:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、AI算力、军工。",
+        "generatedAt": "2026-09-18 13:02:12",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：光学光电子；首看 光学光电子 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121920,7 +121931,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：长园集团:关于收到持股5%以上股东《执行裁定书》的进展公告；*ST英飞:第七届董事会第二次会议决议公告。",
+              "新闻/公告风险：格林生物:关于格林生物签订募集资金三方及四方监管协议的公告；长园集团:关于收到持股5%以上股东《执行裁定书》的进展公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
