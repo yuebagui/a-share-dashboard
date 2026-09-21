@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-18",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-19 01:06:10",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-19 01:06:10",
+    "lastNewsAt": "2026-09-21 13:18:33"
   },
   "indices": [
     {
@@ -134471,325 +134473,326 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-18",
-    "generatedAt": "2026-09-19 01:07:24",
+    "tradeDate": "2026-09-21",
+    "generatedAt": "2026-09-21 13:18:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、有色稀土、半导体。",
+    "errors": [
+      "macro-calendar: cannot convert float NaN to integer"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 AI算力、医药、有色稀土。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
+        "name": "AI算力",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 5,
-        "isFocusBoard": true
-      },
-      {
-        "name": "低空经济",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 3,
+        "name": "金融",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "朗新科技:关于控股股东部分股份补充质押的公告",
-        "summary": "朗新科技(300682)：朗新科技:关于控股股东部分股份补充质押的公告",
-        "publishedAt": "2026-09-18",
+        "title": "七彩化学:关于公司实际控制人部分股份解除质押的公告",
+        "summary": "七彩化学(300758)：七彩化学:关于公司实际控制人部分股份解除质押的公告",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300682/AN202609181829620934.html",
+        "url": "https://data.eastmoney.com/notices/detail/300758/AN202609201829668282.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "朗新科技(300682)"
+          "七彩化学(300758)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "康希通信:2026-009投资者关系活动记录表(2026年9月16日、17日、18日)",
-        "summary": "康希通信(688653)：康希通信:2026-009投资者关系活动记录表(2026年9月16日、17日、18日)",
-        "publishedAt": "2026-09-18",
+        "title": "美利信:关于参加重庆辖区上市公司2026年投资者网上集体接待日暨半年度业绩说明会活动的公告",
+        "summary": "美利信(301307)：美利信:关于参加重庆辖区上市公司2026年投资者网上集体接待日暨半年度业绩说明会活动的公告",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688653/AN202609181829619677.html",
+        "url": "https://data.eastmoney.com/notices/detail/301307/AN202609211829711967.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "康希通信(688653)"
+          "美利信(301307)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "华伍股份:关于2026年半年度权益分派实施后调整回购股份价格上限的公告",
-        "summary": "华伍股份(300095)：华伍股份:关于2026年半年度权益分派实施后调整回购股份价格上限的公告",
-        "publishedAt": "2026-09-18",
+        "title": "300497富祥股份投资者关系管理信息20260921",
+        "summary": "富祥股份(300497)：300497富祥股份投资者关系管理信息20260921",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300095/AN202609181829621629.html",
+        "url": "https://data.eastmoney.com/notices/detail/300497/AN202609211829700415.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "富祥股份(300497)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "彩讯股份:关于签订算力技术服务合同的公告",
+        "summary": "彩讯股份(300634)：彩讯股份:关于签订算力技术服务合同的公告",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300634/AN202609211829687888.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "AI算力"
         ],
         "tickers": [
-          "华伍股份(300095)"
+          "彩讯股份(300634)"
         ],
         "importance": 1,
-        "noticeType": "回购方案修订"
+        "noticeType": "重大合同"
       },
       {
-        "title": "秦川物联:2026年9月18日投资者关系活动记录表",
-        "summary": "秦川物联(688528)：秦川物联:2026年9月18日投资者关系活动记录表",
-        "publishedAt": "2026-09-18",
+        "title": "彩讯股份:广东环球经纬律师事务所关于彩讯科技股份有限公司签署重大合同的法律意见书",
+        "summary": "彩讯股份(300634)：彩讯股份:广东环球经纬律师事务所关于彩讯科技股份有限公司签署重大合同的法律意见书",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688528/AN202609181829619678.html",
+        "url": "https://data.eastmoney.com/notices/detail/300634/AN202609211829687887.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "秦川物联(688528)"
+          "彩讯股份(300634)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "法律意见书"
       },
       {
-        "title": "安达科技:投资者关系活动记录表",
-        "summary": "安达科技(920809)：安达科技:投资者关系活动记录表",
-        "publishedAt": "2026-09-18",
+        "title": "广和通:关于重大资产重组进展的公告",
+        "summary": "广和通(300638)：广和通:关于重大资产重组进展的公告",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920809/AN202609181829619649.html",
+        "url": "https://data.eastmoney.com/notices/detail/300638/AN202609201829668273.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "安达科技(920809)"
+          "广和通(300638)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "重组进展公告"
       },
       {
-        "title": "科拜尔:投资者关系活动记录表",
-        "summary": "科拜尔(920066)：科拜尔:投资者关系活动记录表",
-        "publishedAt": "2026-09-18",
+        "title": "大明电子:关于召开2026年半年度业绩说明会的公告",
+        "summary": "大明电子(603376)：大明电子:关于召开2026年半年度业绩说明会的公告",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920066/AN202609181829618411.html",
+        "url": "https://data.eastmoney.com/notices/detail/603376/AN202609201829668288.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "科拜尔(920066)"
+          "大明电子(603376)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "中电鑫龙:2026年安徽上市公司投资者网上集体接待日活动记录表",
-        "summary": "中电鑫龙(002298)：中电鑫龙:2026年安徽上市公司投资者网上集体接待日活动记录表",
-        "publishedAt": "2026-09-18",
+        "title": "津滨发展:关于签署《天津市国有土地使用权出让合同补充合同二-13》的公告",
+        "summary": "津滨发展(000897)：津滨发展:关于签署《天津市国有土地使用权出让合同补充合同二-13》的公告",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002298/AN202609181829618037.html",
+        "url": "https://data.eastmoney.com/notices/detail/000897/AN202609201829668271.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中电鑫龙(002298)"
+          "津滨发展(000897)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "重大合同"
       },
       {
-        "title": "国力电子:投资者关系活动记录表—2026年8月27日-9月18日",
-        "summary": "国力电子(688103)：国力电子:投资者关系活动记录表—2026年8月27日-9月18日",
-        "publishedAt": "2026-09-18",
+        "title": "鸿路钢构:关于公司全资子公司签订重大经营合同的公告",
+        "summary": "鸿路钢构(002541)：鸿路钢构:关于公司全资子公司签订重大经营合同的公告",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688103/AN202609181829616487.html",
+        "url": "https://data.eastmoney.com/notices/detail/002541/AN202609201829668276.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "国力电子(688103)"
+          "鸿路钢构(002541)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "重大合同"
       },
       {
-        "title": "300328宜安科技投资者关系管理信息20260918",
-        "summary": "宜安科技(300328)：300328宜安科技投资者关系管理信息20260918",
-        "publishedAt": "2026-09-18",
+        "title": "博济医药:关于道远天使股权投资基金相关事项变更并完成工商变更登记的公告",
+        "summary": "博济医药(300404)：博济医药:关于道远天使股权投资基金相关事项变更并完成工商变更登记的公告",
+        "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300328/AN202609181829591500.html",
+        "url": "https://data.eastmoney.com/notices/detail/300404/AN202609201829668277.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宜安科技(300328)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000528柳工投资者关系管理信息20260918",
-        "summary": "柳工(000528)：000528柳工投资者关系管理信息20260918",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000528/AN202609181829615634.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "柳工(000528)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金隅集团:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "summary": "金隅集团(601992)：金隅集团:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601992/AN202609181829616064.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金隅集团(601992)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "电子城:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "summary": "电子城(600658)：电子城:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "publishedAt": "2026-09-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600658/AN202609181829619148.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "电子城(600658)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美联储施密德表示：美国财政部回购国债不会让美联储的工作变得更困难或更容易",
-        "summary": "美联储施密德表示，美国财政部回购国债不会让美联储的工作变得更困难或更容易。",
-        "publishedAt": "2026-09-19 00:29:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609193878927853.html",
-        "category": "market",
-        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "医药"
         ],
-        "tickers": [],
+        "tickers": [
+          "博济医药(300404)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "公司关联方基本资料变更"
       },
       {
-        "title": "以太坊突破2600美元",
-        "summary": "【以太坊突破2600美元】行情显示，以太坊涨至2601.19美元，过去24小时内涨5.33%；行情显示，比特币涨至81022.4美元，过去24小时内涨5.6%。",
-        "publishedAt": "2026-09-19 00:19:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609193878925366.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "拓维信息:拓维信息2026年股票期权与限制性股票激励计划(草案)摘要",
+        "summary": "拓维信息(002261)：拓维信息:拓维信息2026年股票期权与限制性股票激励计划(草案)摘要",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002261/AN202609201829667544.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "拓维信息(002261)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "股权激励计划摘要"
       },
       {
-        "title": "北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持",
-        "summary": "【北京：支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品 为企业提供中长期信贷支持】北京市经济和信息化局、北京市发展和改革委员会关于印发《北京市加快词元经济发展的行动方案（2026—2028年）》。其中提到，创新算力与词元金融工具。支持金融机构面向算力基础设施建设和词元消费场景开发专项金融产品，为企业提供中长期信贷支持，实施词元工程师再技能化…",
-        "publishedAt": "2026-09-18 23:52:45",
+        "title": "拓维信息:拓维信息2026年股票期权与限制性股票激励计划(草案)",
+        "summary": "拓维信息(002261)：拓维信息:拓维信息2026年股票期权与限制性股票激励计划(草案)",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002261/AN202609201829667577.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "拓维信息(002261)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "迪安诊断、华大基因涨超7%！医药板块Beta行情全面上攻",
+        "summary": "【迪安诊断、华大基因涨超7%！医药板块Beta行情全面上攻】9月21日，受脑机接口、AI制药等重磅突破催化，医药板块Beta行情全面上攻！医疗器械ETF招商（159898）标的指数上涨2.2%，成份股新华医疗涨停，迪安诊断、华大基因涨超7%，迈瑞医疗、联影医疗涨超1%。",
+        "publishedAt": "2026-09-21 13:08:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609183878919237.html",
+        "url": "https://finance.eastmoney.com/a/202609213879881926.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "AI算力",
-          "金融"
+          "医药"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月17日10年期TIPS竞拍-高收益率(%)",
-        "summary": "美国9月17日10年期TIPS竞拍-高收益率(%)；公布 2.65，预期 nan，前值 2.44。",
-        "publishedAt": "2026-09-18 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "机构：2026年第二季度耳夹式耳机全球出货量同比大涨82.2%",
+        "summary": "【机构：2026年第二季度耳夹式耳机全球出货量同比大涨82.2%】国际数据公司IDC发布报告显示，2026年第二季度，全球耳戴市场出货9613万台，同比增长5.4%，其中开放式耳机出货1233万台，同比增长35.0%，增速虽然领跑全品类，但与第一季度相比，开放式出货量的同比增速放缓，内部剧烈分化：耳夹式增长82.2%，耳挂式下降5.1%，颈挂式增长0.9%。",
+        "publishedAt": "2026-09-21 13:16:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213879882845.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月17日10年期TIPS竞拍-总金额(亿美元)",
-        "summary": "美国9月17日10年期TIPS竞拍-总金额(亿美元)；公布 190.0，预期 nan，前值 210.0。",
-        "publishedAt": "2026-09-18 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "电网设备板块震荡走高 智光电气涨停",
+        "summary": "电网设备板块震荡走高，智光电气涨停，华通线缆逼近涨停，未来电器、新宏泰、凯发电气、良信股份、金冠电气涨幅靠前。",
+        "publishedAt": "2026-09-21 13:11:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213879877079.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月16日美联储资产负债表(万亿美元)",
-        "summary": "美国截至9月16日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.79。",
-        "publishedAt": "2026-09-18 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "“请3休13”拼假重构黄金周 时间松绑催生消费新范式",
+        "summary": "【“请3休13”拼假重构黄金周 时间松绑催生消费新范式】“以前黄金周是‘7天赶场’，现在变成‘13天自己安排’。这看着是个数学题，其实是个消费习惯的改变。”联合国旅游组织专家贾云峰向21世纪经济报道记者表示，时间窗口的拉长，正在推动国内文旅消费逻辑、产品供给、客流分布发生结构性变化，也给行业带来新的机遇与现实考验。",
+        "publishedAt": "2026-09-21 13:09:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213879872819.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上周港股赚钱效应集中“科技+医药”！机构：港股短期或有技术性企稳反弹",
+        "summary": "【上周港股赚钱效应集中“科技+医药”！机构：港股短期或有技术性企稳反弹】9月21日午后，港股通科技ETF招商（159125）标的指数上涨1.13%，权重股信达生物涨超6%，药明生物涨近6%，阿里巴巴、百济神州涨超2%，腾讯控股、小米集团纷纷上涨。值得注意的是，今日159125的涨幅来自\"结构\"而非\"普涨\"。",
+        "publishedAt": "2026-09-21 13:08:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213879879054.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "房屋租赁概念震荡反弹 我爱我家涨停",
+        "summary": "房屋租赁概念震荡反弹，我爱我家涨停，世联行、金地集团、金螳螂、滨江集团、深物业A等跟涨。",
+        "publishedAt": "2026-09-21 13:07:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213879874343.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -134972,7 +134975,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -134985,15 +134988,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-19 01:07:24",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-09-21 13:18:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 AI算力、医药、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：半导体、芯片概念、存储芯片；首看 半导体 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、医药、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -135089,7 +135092,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：朗新科技:关于控股股东部分股份补充质押的公告。",
+              "新闻/公告风险：七彩化学:关于公司实际控制人部分股份解除质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
