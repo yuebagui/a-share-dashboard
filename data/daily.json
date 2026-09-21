@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-21",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-21 22:24:39",
+    "generatedAt": "2026-09-21 22:33:26",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -134914,12 +134914,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-21",
-    "generatedAt": "2026-09-21 22:25:44",
+    "generatedAt": "2026-09-21 22:35:46",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: cannot convert float NaN to integer"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、金融、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、金融、能源。",
     "themes": [
       {
         "name": "AI算力",
@@ -134932,13 +134932,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 3,
+        "name": "能源",
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 2,
+        "name": "半导体",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -135177,6 +135177,22 @@
         "noticeType": ""
       },
       {
+        "title": "WTI原油失守92美元/桶",
+        "summary": "WTI原油失守92美元/桶，日内跌4.25%。",
+        "publishedAt": "2026-09-21 22:24:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213880328118.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "奕斯伟计算通过港交所上市聆讯",
         "summary": "【奕斯伟计算通过港交所上市聆讯】据港交所文件，北京奕斯伟计算技术股份有限公司通过港交所上市聆讯。",
         "publishedAt": "2026-09-21 22:14:41",
@@ -135212,20 +135228,6 @@
         "publishedAt": "2026-09-21 22:10:41",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202609213880313287.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "诺和诺德首席财务官：公司目标是在2030年之前将营业利润率维持在与当前大致稳定的水平",
-        "summary": "【诺和诺德首席财务官：公司目标是在2030年之前将营业利润率维持在与当前大致稳定的水平】诺和诺德首席财务官表示，公司目标是在2030年之前将营业利润率维持在与当前大致稳定的水平。",
-        "publishedAt": "2026-09-21 22:08:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609213880313459.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -135427,15 +135429,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-21 22:25:44",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、金融、半导体。",
+        "generatedAt": "2026-09-21 22:35:46",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：创新药、化学制药、生物制品；首看 创新药 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -135466,7 +135468,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-21 22:24:39",
+        "generatedAt": "2026-09-21 22:33:26",
         "summary": "上午情绪分 100，涨停 103 家，跌停 2 家，炸板 25 家，连板 21 家，最高 5 板。",
         "sections": [
           {
@@ -135505,7 +135507,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-21 22:24:39",
+        "generatedAt": "2026-09-21 22:33:26",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
