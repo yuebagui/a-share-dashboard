@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-21",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-21 17:18:21",
+    "generatedAt": "2026-09-21 22:24:39",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -134914,26 +134914,26 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-21",
-    "generatedAt": "2026-09-21 17:18:57",
+    "generatedAt": "2026-09-21 22:25:44",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: cannot convert float NaN to integer"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 AI算力、医药、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、金融、半导体。",
     "themes": [
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 4,
+        "name": "金融",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 2,
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -134942,111 +134942,263 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "有色稀土",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST亿通:关于取得发明专利证书的公告",
-        "summary": "*ST亿通(300211)：*ST亿通:关于取得发明专利证书的公告",
+        "title": "上海证券交易所并购重组审核委员会2026年第18次审议会议公告",
+        "summary": "*ST禾信(688622)：上海证券交易所并购重组审核委员会2026年第18次审议会议公告",
         "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300211/AN202609211829720643.html",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202609211829728065.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "*ST亿通(300211)"
+          "*ST禾信(688622)"
         ],
         "importance": 1,
-        "noticeType": "获得认证"
+        "noticeType": "上交所并购重组委会议公告"
       },
       {
-        "title": "协创数据:关于公司融资租赁业务的进展暨以应收账款追加质押的公告",
-        "summary": "协创数据(300857)：协创数据:关于公司融资租赁业务的进展暨以应收账款追加质押的公告",
+        "title": "龙磁科技:天健会计师事务所(特殊普通合伙)关于安徽龙磁科技股份有限公司申请向特定对象发行股票审核问询函中有关财务事项的说明(豁免版)",
+        "summary": "龙磁科技(300835)：龙磁科技:天健会计师事务所(特殊普通合伙)关于安徽龙磁科技股份有限公司申请向特定对象发行股票审核问询函中有关财务事项的说明(豁免版)",
         "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202609211829720484.html",
+        "url": "https://data.eastmoney.com/notices/detail/300835/AN202609211829720916.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "协创数据(300857)"
+          "龙磁科技(300835)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "其他"
       },
       {
-        "title": "发行人及中介机构回复意见(纽氏达特行星传动系统技术(淄博)股份有限公司)",
-        "summary": "纽氏达特(A26103)：发行人及中介机构回复意见(纽氏达特行星传动系统技术(淄博)股份有限公司)",
+        "title": "*ST元道:关于公司股票进入退市整理期交易的公告",
+        "summary": "*ST元道(301139)：*ST元道:关于公司股票进入退市整理期交易的公告",
         "publishedAt": "2026-09-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26103/AN202609211829720075.html",
+        "url": "https://data.eastmoney.com/notices/detail/301139/AN202609211829730691.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "纽氏达特(A26103)"
+          "*ST元道(301139)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST元道:关于收到股票终止上市决定的公告",
+        "summary": "*ST元道(301139)：*ST元道:关于收到股票终止上市决定的公告",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301139/AN202609211829730690.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST元道(301139)"
+        ],
+        "importance": 1,
+        "noticeType": "终止上市"
+      },
+      {
+        "title": "*ST元道:关于公司股票被实施其他风险警示的第九次提示性公告",
+        "summary": "*ST元道(301139)：*ST元道:关于公司股票被实施其他风险警示的第九次提示性公告",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301139/AN202609211829730689.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST元道(301139)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "发行人及中介机构关于审核中心意见落实函的回复(超聚变数字技术股份有限公司)",
+        "summary": "超聚变(A26128)：发行人及中介机构关于审核中心意见落实函的回复(超聚变数字技术股份有限公司)",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/A26128/AN202609211829730203.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "超聚变(A26128)"
         ],
         "importance": 1,
         "noticeType": "创业板IPO问询与回复"
       },
       {
-        "title": "3连板金健米业：公司销售活动正常开展 销售终端价格未发生异常变动",
-        "summary": "【3连板金健米业：公司销售活动正常开展 销售终端价格未发生异常变动】金健米业(600127.SH)发布风险提示公告，经公司自查，截至本公告披露日，公司原材料采购活动按需有序实施，无重大不利影响，其中公司大米加工所需的稻谷、白米等原料价格无重大变化。公司销售活动正常开展，销售终端价格未发生异常变动。",
-        "publishedAt": "2026-09-21 17:11:35",
+        "title": "津膜科技:关于持股5%以上股东减持计划预披露的公告",
+        "summary": "津膜科技(300334)：津膜科技:关于持股5%以上股东减持计划预披露的公告",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300334/AN202609211829729514.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "津膜科技(300334)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "通源石油:2026年9月21日投资者关系活动记录表",
+        "summary": "通源石油(300164)：通源石油:2026年9月21日投资者关系活动记录表",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300164/AN202609211829723767.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "通源石油(300164)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "奔朗新材:首次回购股份暨回购进展情况公告",
+        "summary": "奔朗新材(920807)：奔朗新材:首次回购股份暨回购进展情况公告",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920807/AN202609211829720450.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "奔朗新材(920807)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "宇信科技:宇信科技：2026年9月21日投资者关系活动记录表",
+        "summary": "宇信科技(300674)：宇信科技:宇信科技：2026年9月21日投资者关系活动记录表",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300674/AN202609211829730104.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宇信科技(300674)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "深南电路:2026年9月21日投资者关系活动记录表",
+        "summary": "深南电路(002916)：深南电路:2026年9月21日投资者关系活动记录表",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002916/AN202609211829730075.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "深南电路(002916)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "甘肃能化:甘肃能化股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第二期)票面利率公告",
+        "summary": "甘肃能化(000552)：甘肃能化:甘肃能化股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第二期)票面利率公告",
+        "publishedAt": "2026-09-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000552/AN202609211829729520.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "甘肃能化(000552)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "AMD总市值首次突破1万亿美元 股价创历史新高",
+        "summary": "【AMD总市值首次突破1万亿美元 股价创历史新高】超威半导体（AMD）美股盘中涨幅扩大至9.5%，股价突破613美元，总市值首次突破1万亿美元，成为全球市值突破万亿美元的半导体公司之一。",
+        "publishedAt": "2026-09-21 22:17:12",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609213880069785.html",
+        "url": "https://finance.eastmoney.com/a/202609213880319081.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "湖北：发放“算力券”提升补贴比例 将模型、词元等服务模式纳入补贴范围",
+        "summary": "【湖北：发放“算力券”提升补贴比例 将模型、词元等服务模式纳入补贴范围】湖北省人民政府办公厅印发《湖北省三四季度长短结合促进经济稳中向好若干措施》，其中提出，加力推进“六张网”建设。建立项目储备库及年度重大项目清单，安排省预算内投资前期工作费支持重大项目推进。深化国有水资源水工程资产化改革，培育壮大现代绿色水经济。发放“算力券”，提升补贴比例，将模型、词元…",
+        "publishedAt": "2026-09-21 21:57:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213880298855.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "奕斯伟计算通过港交所上市聆讯",
+        "summary": "【奕斯伟计算通过港交所上市聆讯】据港交所文件，北京奕斯伟计算技术股份有限公司通过港交所上市聆讯。",
+        "publishedAt": "2026-09-21 22:14:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609213880323633.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "莎普爱思：股东陈德康拟减持不超1%公司股份",
-        "summary": "【莎普爱思：股东陈德康拟减持不超1%公司股份】莎普爱思公告，大股东陈德康因个人资金需求，计划自本公告披露之日起15个交易日后的3个月内，即2026年10月21日至2027年1月20日，通过集中竞价交易方式减持的股份数量不超过3741265股，即不超过公司总股本的1.00%。",
-        "publishedAt": "2026-09-21 17:10:21",
+        "title": "WTI原油期货跌幅扩大至4%",
+        "summary": "WTI原油期货跌幅扩大至4%，报92.148美元/桶。",
+        "publishedAt": "2026-09-21 22:13:15",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609213880069239.html",
+        "url": "https://finance.eastmoney.com/a/202609213880313569.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗革命卫队：已做好持久战准备",
-        "summary": "【伊朗革命卫队：已做好持久战准备】伊朗伊斯兰革命卫队21日发表声明说，已做好打长期消耗战的准备，若“敌人”卷土重来，将使用新型武器并扩大冲突范围。",
-        "publishedAt": "2026-09-21 17:02:48",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609213880063481.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "摩根士丹利：美股短期面临7%的下跌风险",
-        "summary": "【摩根士丹利：美股短期面临7%的下跌风险】据报道，摩根士丹利策略师Michael Wilson的团队表示，美国股市容易受到能源价格进一步上涨以及债券市场波动加剧的影响，在这种情景下，标普500指数可能下跌最多7%。该团队表示，尽管强劲的企业盈利迄今帮助股价抵御了债券收益率上升的压力，但标普500指数估值在过去四个月已经下滑至3月以来最低水平。",
-        "publishedAt": "2026-09-21 16:57:25",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609213880060745.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "中性",
         "themes": [
           "能源"
         ],
@@ -135055,171 +135207,25 @@
         "noticeType": ""
       },
       {
-        "title": "国家金融监督管理总局举行中国与东盟及周边国家金融监管合作研讨会",
-        "summary": "【国家金融监督管理总局举行中国与东盟及周边国家金融监管合作研讨会】2026年9月17日—18日，金融监管总局在广西南宁举行中国与东盟及周边国家金融监管合作研讨会。来自中国、文莱、印度尼西亚、菲律宾、新加坡、泰国、越南、韩国、蒙古国、尼泊尔等12个国家和地区的金融监管机构及东盟与中日韩宏观经济研究办公室的30余名代表参会。",
-        "publishedAt": "2026-09-21 16:55:56",
+        "title": "妙可蓝多：创始人、董事柴琇辞职",
+        "summary": "【妙可蓝多：创始人、董事柴琇辞职】妙可蓝多公告称，公司董事会于9月20日收到柴琇提交的辞职报告，其因个人原因申请辞去第十二届非独立董事及董事会专门委员会相关职务，辞职后不再担任公司及子公司任何职务。",
+        "publishedAt": "2026-09-21 22:10:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609213880063724.html",
+        "url": "https://finance.eastmoney.com/a/202609213880313287.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "苏美达:投资者关系活动记录表20260921(国机集团2026年上市公司集体投资者交流活动)",
-        "summary": "苏美达(600710)：苏美达:投资者关系活动记录表20260921(国机集团2026年上市公司集体投资者交流活动)",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600710/AN202609211829720612.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "苏美达(600710)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "大胜达:浙江大胜达包装股份有限公司2026年半年度业绩说明会活动记录表",
-        "summary": "大胜达(603687)：大胜达:浙江大胜达包装股份有限公司2026年半年度业绩说明会活动记录表",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603687/AN202609211829720632.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "大胜达(603687)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "佳华科技:2026年半年度业绩说明会记录",
-        "summary": "佳华科技(688051)：佳华科技:2026年半年度业绩说明会记录",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688051/AN202609211829720501.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佳华科技(688051)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "悦安新材:688786悦安新材投资者关系活动记录表",
-        "summary": "悦安新材(688786)：悦安新材:688786悦安新材投资者关系活动记录表",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688786/AN202609211829718909.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "悦安新材(688786)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "呈和科技:2026年9月18日投资者关系活动记录表(科创板2026年半年度新材料行业集体业绩说明会)",
-        "summary": "呈和科技(688625)：呈和科技:2026年9月18日投资者关系活动记录表(科创板2026年半年度新材料行业集体业绩说明会)",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688625/AN202609211829718895.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "呈和科技(688625)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中科蓝讯:2026-010深圳市中科蓝讯科技股份有限公司投资者关系活动记录表",
-        "summary": "中科蓝讯(688332)：中科蓝讯:2026-010深圳市中科蓝讯科技股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688332/AN202609211829718906.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中科蓝讯(688332)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "壹石通:投资者关系活动记录表(2026-007)",
-        "summary": "壹石通(688733)：壹石通:投资者关系活动记录表(2026-007)",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688733/AN202609211829718917.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "壹石通(688733)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "井松智能:投资者关系活动记录表(2026年半年度业绩说明会)2026-003-9月",
-        "summary": "井松智能(688251)：井松智能:投资者关系活动记录表(2026年半年度业绩说明会)2026-003-9月",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688251/AN202609211829718916.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "井松智能(688251)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华丰科技:2026-004投资者关系活动记录表-2026年9月18日",
-        "summary": "华丰科技(688629)：华丰科技:2026-004投资者关系活动记录表-2026年9月18日",
-        "publishedAt": "2026-09-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688629/AN202609211829718890.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华丰科技(688629)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "爱尔兰数据保护委员会对谷歌处以4.03亿欧元罚款",
-        "summary": "【爱尔兰数据保护委员会对谷歌处以4.03亿欧元罚款】爱尔兰数据保护委员会在对谷歌处理位置数据的调查完成后，对谷歌处以4.03亿欧元罚款。",
-        "publishedAt": "2026-09-21 17:14:53",
+        "title": "诺和诺德首席财务官：公司目标是在2030年之前将营业利润率维持在与当前大致稳定的水平",
+        "summary": "【诺和诺德首席财务官：公司目标是在2030年之前将营业利润率维持在与当前大致稳定的水平】诺和诺德首席财务官表示，公司目标是在2030年之前将营业利润率维持在与当前大致稳定的水平。",
+        "publishedAt": "2026-09-21 22:08:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609213880070147.html",
+        "url": "https://finance.eastmoney.com/a/202609213880313459.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -135421,15 +135427,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-21 17:18:57",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 AI算力、医药、半导体。",
+        "generatedAt": "2026-09-21 22:25:44",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 AI算力、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：创新药、化学制药、生物制品；首看 创新药 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、医药、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -135460,7 +135466,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-21 17:18:21",
+        "generatedAt": "2026-09-21 22:24:39",
         "summary": "上午情绪分 100，涨停 103 家，跌停 2 家，炸板 25 家，连板 21 家，最高 5 板。",
         "sections": [
           {
@@ -135499,7 +135505,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-21 17:18:21",
+        "generatedAt": "2026-09-21 22:24:39",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -135525,7 +135531,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "今日跌停 2 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST亿通:关于取得发明专利证书的公告；协创数据:关于公司融资租赁业务的进展暨以应收账款追加质押的公告。",
+              "新闻/公告风险：上海证券交易所并购重组审核委员会2026年第18次审议会议公告；龙磁科技:天健会计师事务所(特殊普通合伙)关于安徽龙磁科技股份有限公司申请向特定对象发行股票审核问询函中有关财务事项的说明(豁免版)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
