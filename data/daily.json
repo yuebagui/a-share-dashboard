@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-22 20:50:57",
+    "generatedAt": "2026-09-22 21:17:25",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -146474,7 +146474,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -146637,10 +146638,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-22",
-    "generatedAt": "2026-09-22 20:51:46",
+    "generatedAt": "2026-09-22 21:18:25",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 有色稀土、半导体、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、半导体、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -146649,31 +146650,21 @@
       },
       {
         "name": "半导体",
-        "score": 8,
+        "score": 10,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 3,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
@@ -146744,57 +146735,44 @@
         "noticeType": "其他"
       },
       {
-        "title": "海晨股份:关于控股股东的一致行动人、持股5%以上股东减持股份预披露公告",
-        "summary": "海晨股份(300873)：海晨股份:关于控股股东的一致行动人、持股5%以上股东减持股份预披露公告",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300873/AN202609221829765966.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "海晨股份(300873)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "科净源:关于公司股东减持股份的预披露公告",
-        "summary": "科净源(301372)：科净源:关于公司股东减持股份的预披露公告",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301372/AN202609221829765949.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "科净源(301372)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "楚环科技：股东浙楚投资拟减持不超0.96%股份",
-        "summary": "【楚环科技：股东浙楚投资拟减持不超0.96%股份】楚环科技公告，股东杭州浙楚股权投资合伙企业（有限合伙）计划在本公告披露日起3个交易日后的3个月内，即2026年9月29日至2026年12月28日，以集中竞价交易方式减持公司股份不超过999561股，占公司总股本比例的0.96%。",
-        "publishedAt": "2026-09-22 20:41:54",
+        "title": "国内商品期货夜盘开盘 主力合约多数下跌",
+        "summary": "国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，原油、短纤、LPG跌超2%，低硫燃油、塑料、瓶片、燃油、苯乙烯等跌超1%；涨幅方面，沪镍涨超1%，沪锡、沪铜、不锈钢、国际铜、铸造铝等小幅上涨。",
+        "publishedAt": "2026-09-22 21:00:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881428919.html",
+        "url": "https://finance.eastmoney.com/a/202609223881437980.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "有色稀土",
+          "能源"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "中塑股份：上市首日股价涨幅较大 发布风险提示公告",
-        "summary": "【中塑股份：上市首日股价涨幅较大 发布风险提示公告】中塑股份(301686.SZ)公告称，公司股票于2026年9月22日在深交所创业板上市，发行价55.28元/股，上市首日收盘价433.00元/股，涨幅683.29%，显著偏离行业估值水平。公司静态市盈率168.38倍、市净率17.14倍，远高于行业平均的29.02倍和2.26倍。",
-        "publishedAt": "2026-09-22 20:40:32",
+        "title": "英媒：土耳其多家航司取消往返伊朗航班",
+        "summary": "【英媒：土耳其多家航司取消往返伊朗航班】据新华社，受美国制裁伊朗航空业影响，土耳其三家航空公司21日起被迫取消土耳其往返伊朗的航班。英国“中东之眼”新闻网援引多名知情人士的话报道，土耳其航空公司与旗下廉航AJet、以及土耳其飞马航空公司21日起停飞往返土伊之间的所有航线。",
+        "publishedAt": "2026-09-22 20:55:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881427937.html",
+        "url": "https://finance.eastmoney.com/a/202609223881436668.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "科净源：股东平易缙元拟减持不超3%股份",
+        "summary": "【科净源：股东平易缙元拟减持不超3%股份】科净源公告，股东上海平易缙元创业投资中心（有限合伙）计划自本公告发布之日起3个交易日后的90个自然日内，拟通过集中竞价交易和大宗交易方式减持本公司股份合计不超过公司总股本的3.00%，即不超过205.5万股。",
+        "publishedAt": "2026-09-22 20:51:54",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609223881434374.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -146868,6 +146846,38 @@
         "noticeType": "调研活动"
       },
       {
+        "title": "京东方Ａ:045-2026年9月22日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:045-2026年9月22日投资者关系活动记录表",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202609221829766629.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "深圳华强:2026年9月22日投资者关系活动记录表",
+        "summary": "深圳华强(000062)：深圳华强:2026年9月22日投资者关系活动记录表",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000062/AN202609221829766630.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "深圳华强(000062)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
         "title": "海目星:海目星激光科技集团股份有限公司2026年9月投资者关系活动记录表【调】202609-02",
         "summary": "海目星(688559)：海目星:海目星激光科技集团股份有限公司2026年9月投资者关系活动记录表【调】202609-02",
         "publishedAt": "2026-09-22",
@@ -146900,43 +146910,11 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "摩根大通戴蒙：超大规模云服务商明年AI投资或达1万亿美元",
-        "summary": "【摩根大通戴蒙：超大规模云服务商明年AI投资或达1万亿美元】当地时间9月21日，摩根大通董事长兼首席执行官杰米·戴蒙表示，以超大规模云服务商为核心的AI投资今年约7000亿美元，明年可能增至1万亿美元。他称，大规模投资将推动经济增长，但短期也可能加剧通胀压力，长期来看AI则有望降低成本。",
-        "publishedAt": "2026-09-22 20:46:33",
+        "title": "深圳华强：存储产品线出货额同比增超330% MLCC高端产能紧张交期拉长",
+        "summary": "【深圳华强：存储产品线出货额同比增超330% MLCC高端产能紧张交期拉长】深圳华强(000062.SZ)发布投资者关系活动记录表公告，公司作为江波龙、晶存科技、兆易创新、慧荣科技、千奕国际等存储厂商的重要代理商，2026年上半年存储类产品线出货额同比增幅超330%，业务收入占授权分销业务收入总额比例超过40%。",
+        "publishedAt": "2026-09-22 20:56:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881432023.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "东莞控股：拟605.42万元收购低空经济公司65%股权",
-        "summary": "【东莞控股：拟605.42万元收购低空经济公司65%股权】东莞控股9月22日公告，公司拟收购东莞市交通投资控股集团有限公司持有的东莞市低空经济发展有限公司65%股权，交易价格为605.4165万元。",
-        "publishedAt": "2026-09-22 20:43:38",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881429279.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "江丰电子：拟出资4.17亿元参与设立合伙企业投向半导体产业链",
-        "summary": "【江丰电子：拟出资4.17亿元参与设立合伙企业投向半导体产业链】江丰电子(300666.SZ)公告称，公司全资子公司宁波江丰博鑫拟与关联方共同投资设立宁波涌光同行项目管理合伙企业，总出资额6亿元，其中宁波江丰博鑫拟出资4.17亿元，占比69.50%。该合伙企业将投向与主业具有协同效应的半导体产业链关键环节。",
-        "publishedAt": "2026-09-22 20:41:25",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881428055.html",
+        "url": "https://finance.eastmoney.com/a/202609223881436831.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -146948,15 +146926,34 @@
         "noticeType": ""
       },
       {
-        "title": "世纪华通：子公司拟出资6.5亿元认缴基金份额",
-        "summary": "【世纪华通：子公司拟出资6.5亿元认缴基金份额】世纪华通(002602)9月22日公告，公司全资子公司嘉兴兴颂于近日与北京尚势投资管理有限公司签署《拾象尚势（天津）创业投资合伙企业（有限合伙）有限合伙协议》，参与投资拾象尚势（天津）创业投资合伙企业（有限合伙）。嘉兴兴颂作为有限合伙人之一以自有资金认缴出资6.5亿元。",
-        "publishedAt": "2026-09-22 20:36:01",
+        "title": "京东方A：玻璃基封装载板试验线全线拉通 24层产品已送客户验证",
+        "summary": "【京东方A：玻璃基封装载板试验线全线拉通 24层产品已送客户验证】京东方A(000725.SZ)发布投资者关系活动记录表公告，公司玻璃基封装载板试验线已全线拉通，完成尺寸超过100×100毫米的24层基板产出，并通过厂内信赖性测试。目前正与客户进行芯片上代后的电性能测试，将载板与真实CPU、GPU芯片封装后放入服务器运行。",
+        "publishedAt": "2026-09-22 20:55:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881424138.html",
+        "url": "https://finance.eastmoney.com/a/202609223881438567.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "摩根大通戴蒙：超大规模云服务商明年AI投资或达1万亿美元",
+        "summary": "【摩根大通戴蒙：超大规模云服务商明年AI投资或达1万亿美元】当地时间9月21日，摩根大通董事长兼首席执行官杰米·戴蒙表示，以超大规模云服务商为核心的AI投资今年约7000亿美元，明年可能增至1万亿美元。他称，大规模投资将推动经济增长，但短期也可能加剧通胀压力，长期来看AI则有望降低成本。",
+        "publishedAt": "2026-09-22 20:46:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609223881432023.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -147105,8 +147102,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-22 20:51:46",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 有色稀土、半导体、AI算力。",
+        "generatedAt": "2026-09-22 21:18:25",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、半导体、AI算力。",
         "sections": [
           {
             "title": "今日先看",
@@ -147144,7 +147141,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-22 20:50:57",
+        "generatedAt": "2026-09-22 21:17:25",
         "summary": "上午情绪分 100，涨停 63 家，跌停 3 家，炸板 18 家，连板 24 家，最高 6 板。",
         "sections": [
           {
@@ -147183,7 +147180,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-22 20:50:57",
+        "generatedAt": "2026-09-22 21:17:25",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
