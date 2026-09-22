@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-22 16:48:44",
+    "generatedAt": "2026-09-22 20:43:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -936,10 +936,10 @@
       ],
       "sealAmount": "1624.7万",
       "turnover": "成交 13.0亿",
-      "reason": "元件方向涨停，涨停统计 8/6，首次封板 11:22:27，炸板 6 次。",
+      "reason": "元件方向涨停，涨停统计 8/6，首次封板 11:22:27，炸板 5 次。",
       "firstSeal": "11:22:27",
       "lastSeal": "14:45:12",
-      "failCount": 6
+      "failCount": 5
     },
     {
       "code": "603903",
@@ -147291,10 +147291,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-22",
-    "generatedAt": "2026-09-22 16:49:32",
+    "generatedAt": "2026-09-22 20:44:19",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、医药、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 有色稀土、医药、半导体。",
     "themes": [
       {
         "name": "有色稀土",
@@ -147303,91 +147303,133 @@
       },
       {
         "name": "医药",
-        "score": 9,
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 8,
+        "name": "半导体",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 6,
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "龙磁科技:关于实际控制人股份质押的公告",
-        "summary": "龙磁科技(300835)：龙磁科技:关于实际控制人股份质押的公告",
+        "title": "中塑股份:关于股票交易风险的提示性公告",
+        "summary": "中塑股份(301686)：中塑股份:关于股票交易风险的提示性公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300835/AN202609221829759284.html",
+        "url": "https://data.eastmoney.com/notices/detail/301686/AN202609221829766441.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "龙磁科技(300835)"
+          "中塑股份(301686)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "其它风险提示公告"
       },
       {
-        "title": "杭州高新:关于控股股东部分股份质押的公告",
-        "summary": "杭州高新(300478)：杭州高新:关于控股股东部分股份质押的公告",
+        "title": "艾布鲁:关于公司特定股东减持计划实施完毕的公告",
+        "summary": "艾布鲁(301259)：艾布鲁:关于公司特定股东减持计划实施完毕的公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300478/AN202609221829758814.html",
+        "url": "https://data.eastmoney.com/notices/detail/301259/AN202609221829766272.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "杭州高新(300478)"
+          "艾布鲁(301259)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "康龙化成:关于公司实际控制人的一致行动人部分股份解除质押的公告",
-        "summary": "康龙化成(300759)：康龙化成:关于公司实际控制人的一致行动人部分股份解除质押的公告",
+        "title": "天亿马:关于特定股东减持股份的预披露公告",
+        "summary": "天亿马(301178)：天亿马:关于特定股东减持股份的预披露公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300759/AN202609221829758691.html",
+        "url": "https://data.eastmoney.com/notices/detail/301178/AN202609221829765753.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "康龙化成(300759)"
+          "天亿马(301178)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "欣旺达:关于控股股东部分股份质押的公告",
-        "summary": "欣旺达(300207)：欣旺达:关于控股股东部分股份质押的公告",
+        "title": "聚杰微纤:天健会计师事务所关于江苏聚杰微纤科技集团股份有限公司向特定对象发行股票发行股票审核问询函中有关财务事项的说明(豁免版)",
+        "summary": "聚杰微纤(300819)：聚杰微纤:天健会计师事务所关于江苏聚杰微纤科技集团股份有限公司向特定对象发行股票发行股票审核问询函中有关财务事项的说明(豁免版)",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300207/AN202609221829758695.html",
+        "url": "https://data.eastmoney.com/notices/detail/300819/AN202609221829762506.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "欣旺达(300207)"
+          "聚杰微纤(300819)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "其他"
       },
       {
-        "title": "美元兑日元下跌0.2%",
-        "summary": "美元兑日元下跌0.2%，至157.03。",
-        "publishedAt": "2026-09-22 16:43:20",
+        "title": "海晨股份:关于控股股东的一致行动人、持股5%以上股东减持股份预披露公告",
+        "summary": "海晨股份(300873)：海晨股份:关于控股股东的一致行动人、持股5%以上股东减持股份预披露公告",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300873/AN202609221829765966.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "海晨股份(300873)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "科净源:关于公司股东减持股份的预披露公告",
+        "summary": "科净源(301372)：科净源:关于公司股东减持股份的预披露公告",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301372/AN202609221829765949.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "科净源(301372)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "天亿马：特定股东南京优志拟减持不超2.49%股份",
+        "summary": "【天亿马：特定股东南京优志拟减持不超2.49%股份】天亿马(301178.SZ)公告称，公司特定股东南京优志投资管理合伙企业(有限合伙)持有公司股份282.38万股，占总股本3.03%，计划自公告披露之日起3个交易日后的3个月内，以集中竞价交易、大宗交易方式减持公司股份不超过231.89万股，占总股本比例2.49%。",
+        "publishedAt": "2026-09-22 20:07:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881282060.html",
+        "url": "https://finance.eastmoney.com/a/202609223881406871.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -147397,11 +147439,11 @@
         "noticeType": ""
       },
       {
-        "title": "在岸人民币兑美元收盘报6.7019",
-        "summary": "【在岸人民币兑美元收盘报6.7019】9月22日消息，在岸人民币兑美元收盘报6.7019，较上一交易日下跌64点。",
-        "publishedAt": "2026-09-22 16:33:12",
+        "title": "两部门联合部署全国碳市场重点排放单位碳排放计量审查摸底工作",
+        "summary": "【两部门联合部署全国碳市场重点排放单位碳排放计量审查摸底工作】近日，市场监管总局办公厅、生态环境部办公厅联合印发通知，部署对全国碳排放权交易市场重点排放单位开展碳排放计量审查摸底工作，旨在落实党中央、国务院决策部署，为重点排放单位碳计量管理工作提供清晰的“路线图”，也为碳市场的公平、公正交易提供坚实的数据保障。",
+        "publishedAt": "2026-09-22 20:03:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881269463.html",
+        "url": "https://finance.eastmoney.com/a/202609223881404721.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -147409,6 +147451,70 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "甲骨文与Wipro合作 加强端到端药物警戒服务",
+        "summary": "【甲骨文与Wipro合作 加强端到端药物警戒服务】9月22日，甲骨文生命科学宣布与Wipro合作，将利用甲骨文生命科学Argus业务流程服务（BPS）增强Wipro的药物警戒服务，为全球生命科学企业提供药品安全数据处理、监管报告及合规支持等服务。",
+        "publishedAt": "2026-09-22 20:03:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609223881404145.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "华策影视:关于公司与专业投资机构共同投资的公告",
+        "summary": "华策影视(300133)：华策影视:关于公司与专业投资机构共同投资的公告",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300133/AN202609221829764826.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华策影视(300133)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "科德教育:关于对外投资在香港设立全资子公司及孙公司的进展公告",
+        "summary": "科德教育(300192)：科德教育:关于对外投资在香港设立全资子公司及孙公司的进展公告",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300192/AN202609221829759888.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "科德教育(300192)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "金陵饭店:投资者关系活动记录表(2026年半年度业绩说明会)",
+        "summary": "金陵饭店(601007)：金陵饭店:投资者关系活动记录表(2026年半年度业绩说明会)",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601007/AN202609221829759631.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金陵饭店(601007)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "澳柯玛:澳柯玛股份有限公司投资者关系活动记录表",
@@ -147427,179 +147533,79 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "天禄科技:2026年9月22日投资者关系活动记录表",
-        "summary": "天禄科技(301045)：天禄科技:2026年9月22日投资者关系活动记录表",
+        "title": "海目星:海目星激光科技集团股份有限公司2026年9月投资者关系活动记录表【调】202609-02",
+        "summary": "海目星(688559)：海目星:海目星激光科技集团股份有限公司2026年9月投资者关系活动记录表【调】202609-02",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301045/AN202609221829759163.html",
+        "url": "https://data.eastmoney.com/notices/detail/688559/AN202609221829765241.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "天禄科技(301045)"
+          "海目星(688559)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "瑞尔竞达:关于与专业投资机构共同投资的公告",
-        "summary": "瑞尔竞达(920191)：瑞尔竞达:关于与专业投资机构共同投资的公告",
+        "title": "金明精机:2026年9月22日投资者关系活动记录表",
+        "summary": "金明精机(300281)：金明精机:2026年9月22日投资者关系活动记录表",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920191/AN202609221829759136.html",
+        "url": "https://data.eastmoney.com/notices/detail/300281/AN202609221829766212.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "瑞尔竞达(920191)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "长华化学:关于公司控股股东增持股份计划实施进展暨增持时间过半的公告",
-        "summary": "长华化学(301518)：长华化学:关于公司控股股东增持股份计划实施进展暨增持时间过半的公告",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301518/AN202609221829759059.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "长华化学(301518)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "国邦医药:2026年9月22日投资者关系活动记录表",
-        "summary": "国邦医药(605507)：国邦医药:2026年9月22日投资者关系活动记录表",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605507/AN202609221829758726.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "国邦医药(605507)"
+          "金明精机(300281)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "圣邦股份:关于部分股票期权注销完成的公告",
-        "summary": "圣邦股份(300661)：圣邦股份:关于部分股票期权注销完成的公告",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300661/AN202609221829758690.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "圣邦股份(300661)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "奥尼电子:关于全资子公司签署日常经营重大合同的公告",
-        "summary": "奥尼电子(301189)：奥尼电子:关于全资子公司签署日常经营重大合同的公告",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301189/AN202609221829758720.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "奥尼电子(301189)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "浙江黎明:2026年半年度业绩说明会投资者关系活动记录表(2026年9月22日)",
-        "summary": "浙江黎明(603048)：浙江黎明:2026年半年度业绩说明会投资者关系活动记录表(2026年9月22日)",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603048/AN202609221829758668.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "浙江黎明(603048)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "韩政府称首个对美投资项目为得州天然气发电厂",
-        "summary": "【韩政府称首个对美投资项目为得州天然气发电厂】韩国产业通商资源部部长金正官22日表示，韩国已选定美国得克萨斯州恩西纳尔的燃气联合循环电站建设项目，作为韩国对美国战略投资的首个项目。这项工程是韩国向美国承诺的3500亿美元投资计划中首个确定的项目。",
-        "publishedAt": "2026-09-22 16:38:41",
+        "title": "世纪华通：子公司拟出资6.5亿元认缴基金份额",
+        "summary": "【世纪华通：子公司拟出资6.5亿元认缴基金份额】世纪华通(002602)9月22日公告，公司全资子公司嘉兴兴颂于近日与北京尚势投资管理有限公司签署《拾象尚势（天津）创业投资合伙企业（有限合伙）有限合伙协议》，参与投资拾象尚势（天津）创业投资合伙企业（有限合伙）。嘉兴兴颂作为有限合伙人之一以自有资金认缴出资6.5亿元。",
+        "publishedAt": "2026-09-22 20:36:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223881278589.html",
+        "url": "https://finance.eastmoney.com/a/202609223881424138.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "2连板华媒控股：9月22日控股股东卖出530.54万股公司股份",
+        "summary": "【2连板华媒控股：9月22日控股股东卖出530.54万股公司股份】华媒控股(000607.SZ)公告称，控股股东杭州日报报业集团于2026年9月22日卖出公司股票530.54万股，计划近期卖出数量合计不超过此前增持的股票数量。",
+        "publishedAt": "2026-09-22 20:29:59",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609223881419457.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "ASML高管：欧洲目前没有芯片制造设备销售 半导体投资不足",
+        "summary": "【ASML高管：欧洲目前没有芯片制造设备销售 半导体投资不足】9月22日，据报道，荷兰光刻机制造商阿斯麦（ASML）全球公共事务负责人弗兰克·海姆斯克尔表示，欧洲目前没有购买ASML芯片制造设备，原因是当地投资不足、没有新建芯片工厂。",
+        "publishedAt": "2026-09-22 20:20:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609223881413737.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "能源"
+          "半导体"
         ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月21日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月21日iShares白银持仓-每日更新(吨)；公布 15429.26，预期 nan，前值 15226.98。",
-        "publishedAt": "2026-09-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月18日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月18日COMEX黄金库存-每日更新(百盎司)；公布 274157.87，预期 nan，前值 273837.86。",
-        "publishedAt": "2026-09-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月21日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月21日iShares黄金持仓-每日更新(吨)；公布 464.73，预期 nan，前值 464.49。",
-        "publishedAt": "2026-09-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -147617,7 +147623,7 @@
       "name": "广合科技",
       "changePct": 6.84,
       "industry": "元件",
-      "failCount": 11
+      "failCount": 12
     },
     {
       "code": "600630",
@@ -147746,15 +147752,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-22 16:49:32",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、医药、AI算力。",
+        "generatedAt": "2026-09-22 20:44:19",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 有色稀土、医药、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：文化传媒、元件；首看 文化传媒 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、医药、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -147785,7 +147791,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-22 16:48:44",
+        "generatedAt": "2026-09-22 20:43:28",
         "summary": "上午情绪分 100，涨停 63 家，跌停 3 家，炸板 18 家，连板 24 家，最高 6 板。",
         "sections": [
           {
@@ -147824,7 +147830,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-22 16:48:44",
+        "generatedAt": "2026-09-22 20:43:28",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -147850,7 +147856,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 3 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：龙磁科技:关于实际控制人股份质押的公告；杭州高新:关于控股股东部分股份质押的公告。",
+              "新闻/公告风险：中塑股份:关于股票交易风险的提示性公告；艾布鲁:关于公司特定股东减持计划实施完毕的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
