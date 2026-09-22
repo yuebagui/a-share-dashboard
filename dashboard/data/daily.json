@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-22",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-22 02:44:33",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-22 02:44:33",
+    "lastNewsAt": "2026-09-22 13:16:40"
   },
   "indices": [
     {
@@ -148040,14 +148042,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-22",
-    "generatedAt": "2026-09-22 02:45:24",
+    "generatedAt": "2026-09-22 13:16:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
         "name": "金融",
-        "score": 19,
+        "score": 14,
         "isFocusBoard": false
       },
       {
@@ -148056,22 +148058,22 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 5,
+        "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "医药",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -148182,38 +148184,64 @@
         "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "观想科技:浙商证券股份有限公司关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定情形的核查意见",
-        "summary": "观想科技(301213)：观想科技:浙商证券股份有限公司关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定情形的核查意见",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301213/AN202609211829729854.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "观想科技(301213)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "国际原子能机构：扎波罗热核电站附近袭击频发 核安全风险持续",
-        "summary": "【国际原子能机构：扎波罗热核电站附近袭击频发 核安全风险持续】国际原子能机构9月21日通报，近几周扎波罗热核电站附近发生多起无人机及其他军事袭击，造成多人伤亡，并可能对核安全构成威胁。",
-        "publishedAt": "2026-09-22 01:05:51",
+        "title": "厄尔尼诺影响粮食生产 国家发改委给出“定心丸”",
+        "summary": "【厄尔尼诺影响粮食生产 国家发改委给出“定心丸”】国家发改委新闻发言人李超22日表示，今年秋冬季将出现一次超强厄尔尼诺事件，并于年底达到峰值，相关气候影响将延续至明年夏季，对全球粮食生产带来较大不确定性，必须高度重视。她强调，总体看，我国农业生产应对厄尔尼诺等风险挑战是有底气、有条件、有能力的。",
+        "publishedAt": "2026-09-22 12:51:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223880379886.html",
+        "url": "https://finance.eastmoney.com/a/202609223881083133.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "低空经济"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "日均5.5亿快件如何保安全？快递行业发布自律公约",
+        "summary": "【日均5.5亿快件如何保安全？快递行业发布自律公约】《中国快递协会以安全为中心的自律公约》近日发布。中国快递协会表示，此次牵头制定自律公约并推进8家快递总部企业签约实施，推动全行业从“要我合规”向“我要合规”根本性转变，是快递业安全治理模式的一次重要创新，标志着行业安全由“外部监管推动”向“内部自律约束”迈出实质性一步。",
+        "publishedAt": "2026-09-22 12:48:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609223881094582.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "000811冰轮环境投资者关系管理信息20260922",
+        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20260922",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000811/AN202609221829751114.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "冰轮环境(000811)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "金智科技:2026年9月21日投资者关系活动记录表",
+        "summary": "金智科技(002090)：金智科技:2026年9月21日投资者关系活动记录表",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002090/AN202609221829741917.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金智科技(002090)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "观想科技:浙商证券股份有限公司关于本次交易不构成《上市公司重大资产重组管理办法》第十三条规定的重组上市情形的核查意见",
@@ -148284,27 +148312,11 @@
         "noticeType": "保荐/核查意见"
       },
       {
-        "title": "观想科技:董事会关于本次交易符合《上市公司重大资产重组管理办法》第十一条及不适用第四十三条、第四十四条规定的说明",
-        "summary": "观想科技(301213)：观想科技:董事会关于本次交易符合《上市公司重大资产重组管理办法》第十一条及不适用第四十三条、第四十四条规定的说明",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301213/AN202609211829729850.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "观想科技(301213)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "美联储穆萨莱姆：利率可能需要进一步上升 以抑制由需求和供应驱动的通胀",
-        "summary": "【美联储穆萨莱姆：利率可能需要进一步上升 以抑制由需求和供应驱动的通胀】美联储穆萨莱姆称，如果没有进一步的政策限制，通胀在18个月后仍有可能大幅高于2%的目标。利率可能需要进一步上升，以抑制由需求和供应驱动的通胀。",
-        "publishedAt": "2026-09-22 02:20:43",
+        "title": "沪深两市成交额突破1.5万亿 较上一日此时放量超1000亿",
+        "summary": "沪深两市成交额突破1.5万亿，较上一日此时放量超1000亿。",
+        "publishedAt": "2026-09-22 13:08:57",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223880387665.html",
+        "url": "https://finance.eastmoney.com/a/202609223881115562.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -148314,56 +148326,36 @@
         "noticeType": ""
       },
       {
-        "title": "算力产业迎来多重催化 公募加大产品布局力度",
-        "summary": "【算力产业迎来多重催化 公募加大产品布局力度】算力正在成为基金管理人和投资人双向发力的方向。数据显示，目前已经成立的8只创业板算力主题ETF募集规模超50亿元。与此同时，公募还在加大布局力度，继首批10只产品后，9月以来，又有7只包括了ETF与场外指数基金的创业板算力主题基金上报。",
-        "publishedAt": "2026-09-22 02:14:02",
+        "title": "雷军直播回应“打新”宇树科技挣100亿元",
+        "summary": "【雷军直播回应“打新”宇树科技挣100亿元】9月21日，雷军在直播中澄清“打新宇树科技赚了100多亿元”传闻。他回应称，该投资并非其个人投资，而是顺为资本投资；也并非打新，而是支持早期创业者的天使投资。",
+        "publishedAt": "2026-09-22 12:55:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223880386141.html",
+        "url": "https://finance.eastmoney.com/a/202609223881081724.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美联储隔夜逆回购协议（RRP）使用规模为5.82亿美元",
-        "summary": "周一（9月21日），美联储隔夜逆回购协议（RRP）使用规模为5.82亿美元。",
-        "publishedAt": "2026-09-22 01:21:58",
+        "title": "新世界发展与阿布扎比投资局据悉以30亿港元估值洽售香港酒店",
+        "summary": "【新世界发展与阿布扎比投资局据悉以30亿港元估值洽售香港酒店】据报道，新世界发展正就将其持有的香港一家酒店50%的股份出售给新加坡的华业集团进行商谈。这笔潜在交易对位于九龙的凯悦酒店的估值约30亿港元（3.82亿美元），拥有该酒店另一半股份的阿布扎比投资局也在与华业集团洽谈出售持股事宜。",
+        "publishedAt": "2026-09-22 12:55:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223880381667.html",
+        "url": "https://finance.eastmoney.com/a/202609223881096012.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英伟达承诺通过私募方式认购15亿美元的SB ENERGY N类普通股",
-        "summary": "【英伟达承诺通过私募方式认购15亿美元的SB ENERGY N类普通股】据美国证交会（SEC）文件，英伟达承诺通过私募方式认购15亿美元的SBENERGYN类普通股，将就此次公开发行向SBENERGY总计投资30亿美元",
-        "publishedAt": "2026-09-22 00:46:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609223880377260.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
         "title": "美国9月21日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月21日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15226.98。",
+        "summary": "美国9月21日iShares白银持仓-每日更新(吨)；公布 15429.26，预期 nan，前值 15226.98。",
         "publishedAt": "2026-09-22 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -148555,7 +148547,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -148568,15 +148560,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-22 02:45:24",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-09-22 13:16:40",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 8 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：创新药、化学制药、生物制品；首看 创新药 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
