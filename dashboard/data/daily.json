@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-22 16:44:31",
+    "generatedAt": "2026-09-22 16:48:44",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -147291,14 +147291,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-22",
-    "generatedAt": "2026-09-22 16:45:11",
+    "generatedAt": "2026-09-22 16:49:32",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、医药、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 12,
+        "score": 14,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -147307,121 +147312,89 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
         "score": 6,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "发行人及中介机构关于第二轮审核问询函的回复意见(深圳云豹智能股份有限公司)",
-        "summary": "云豹智能(A26229)：发行人及中介机构关于第二轮审核问询函的回复意见(深圳云豹智能股份有限公司)",
+        "title": "龙磁科技:关于实际控制人股份质押的公告",
+        "summary": "龙磁科技(300835)：龙磁科技:关于实际控制人股份质押的公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26229/AN202609221829756174.html",
+        "url": "https://data.eastmoney.com/notices/detail/300835/AN202609221829759284.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "云豹智能(A26229)"
+          "龙磁科技(300835)"
         ],
         "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "发行人及中介机构关于第二轮审核问询函的回复意见(上海季丰电子股份有限公司)",
-        "summary": "季丰电子(A26158)：发行人及中介机构关于第二轮审核问询函的回复意见(上海季丰电子股份有限公司)",
+        "title": "杭州高新:关于控股股东部分股份质押的公告",
+        "summary": "杭州高新(300478)：杭州高新:关于控股股东部分股份质押的公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26158/AN202609221829756173.html",
+        "url": "https://data.eastmoney.com/notices/detail/300478/AN202609221829758814.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "季丰电子(A26158)"
+          "杭州高新(300478)"
         ],
         "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "*ST亚士:亚士创能关于公司庭外重组进展暨风险提示的公告",
-        "summary": "*ST亚士(603378)：*ST亚士:亚士创能关于公司庭外重组进展暨风险提示的公告",
+        "title": "康龙化成:关于公司实际控制人的一致行动人部分股份解除质押的公告",
+        "summary": "康龙化成(300759)：康龙化成:关于公司实际控制人的一致行动人部分股份解除质押的公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603378/AN202609211829730990.html",
+        "url": "https://data.eastmoney.com/notices/detail/300759/AN202609221829758691.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST亚士(603378)"
+          "康龙化成(300759)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "观想科技:浙商证券股份有限公司关于本次交易符合《关于加强证券公司在投资银行类业务中聘请第三方等廉洁从业风险防控的意见》的相关规定的核查意见",
-        "summary": "观想科技(301213)：观想科技:浙商证券股份有限公司关于本次交易符合《关于加强证券公司在投资银行类业务中聘请第三方等廉洁从业风险防控的意见》的相关规定的核查意见",
+        "title": "欣旺达:关于控股股东部分股份质押的公告",
+        "summary": "欣旺达(300207)：欣旺达:关于控股股东部分股份质押的公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301213/AN202609211829729892.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "观想科技(301213)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "观想科技:董事会关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条和《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
-        "summary": "观想科技(301213)：观想科技:董事会关于本次交易符合《创业板上市公司持续监管办法(试行)》第十八条和《深圳证券交易所上市公司重大资产重组审核规则》第八条规定的说明",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301213/AN202609211829729881.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "观想科技(301213)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "观想科技:关于重大资产重组的一般风险提示公告",
-        "summary": "观想科技(301213)：观想科技:关于重大资产重组的一般风险提示公告",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301213/AN202609211829729891.html",
+        "url": "https://data.eastmoney.com/notices/detail/300207/AN202609221829758695.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "观想科技(301213)"
+          "欣旺达(300207)"
         ],
         "importance": 1,
-        "noticeType": "其它风险提示公告"
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "美元兑日元下跌0.2%",
+        "summary": "美元兑日元下跌0.2%，至157.03。",
+        "publishedAt": "2026-09-22 16:43:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609223881282060.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "在岸人民币兑美元收盘报6.7019",
@@ -147438,102 +147411,134 @@
         "noticeType": ""
       },
       {
-        "title": "4-1本次重大资产重组涉及的拟购买资产最近两年及一期的财务报告和审计报告(确实无法提供的，应当说明原因及相关资产的财务状况和经营成果)(申报稿)(福建元力活性炭股份有限公司)",
-        "summary": "元力股份(300174)：4-1本次重大资产重组涉及的拟购买资产最近两年及一期的财务报告和审计报告(确实无法提供的，应当说明原因及相关资产的财务状况和经营成果)(申报稿)(福建元力活性炭股份有限公司)",
+        "title": "澳柯玛:澳柯玛股份有限公司投资者关系活动记录表",
+        "summary": "澳柯玛(600336)：澳柯玛:澳柯玛股份有限公司投资者关系活动记录表",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300174/AN202609221829756172.html",
+        "url": "https://data.eastmoney.com/notices/detail/600336/AN202609221829757087.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "元力股份(300174)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组审计报告申报稿"
-      },
-      {
-        "title": "3-1独立财务顾问报告(申报稿)(福建元力活性炭股份有限公司)",
-        "summary": "元力股份(300174)：3-1独立财务顾问报告(申报稿)(福建元力活性炭股份有限公司)",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300174/AN202609221829756177.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "元力股份(300174)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组独立财务顾问报告申报稿"
-      },
-      {
-        "title": "3-2法律意见书(申报稿)(福建元力活性炭股份有限公司)",
-        "summary": "元力股份(300174)：3-2法律意见书(申报稿)(福建元力活性炭股份有限公司)",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300174/AN202609221829756176.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "元力股份(300174)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组法律意见书申报稿"
-      },
-      {
-        "title": "000811冰轮环境投资者关系管理信息20260922",
-        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20260922",
-        "publishedAt": "2026-09-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000811/AN202609221829751114.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "冰轮环境(000811)"
+          "澳柯玛(600336)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "金智科技:2026年9月21日投资者关系活动记录表",
-        "summary": "金智科技(002090)：金智科技:2026年9月21日投资者关系活动记录表",
+        "title": "天禄科技:2026年9月22日投资者关系活动记录表",
+        "summary": "天禄科技(301045)：天禄科技:2026年9月22日投资者关系活动记录表",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002090/AN202609221829741917.html",
+        "url": "https://data.eastmoney.com/notices/detail/301045/AN202609221829759163.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "金智科技(002090)"
+          "天禄科技(301045)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "观想科技:浙商证券股份有限公司关于本次交易不构成《上市公司重大资产重组管理办法》第十三条规定的重组上市情形的核查意见",
-        "summary": "观想科技(301213)：观想科技:浙商证券股份有限公司关于本次交易不构成《上市公司重大资产重组管理办法》第十三条规定的重组上市情形的核查意见",
+        "title": "瑞尔竞达:关于与专业投资机构共同投资的公告",
+        "summary": "瑞尔竞达(920191)：瑞尔竞达:关于与专业投资机构共同投资的公告",
         "publishedAt": "2026-09-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301213/AN202609211829729890.html",
+        "url": "https://data.eastmoney.com/notices/detail/920191/AN202609221829759136.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "瑞尔竞达(920191)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "长华化学:关于公司控股股东增持股份计划实施进展暨增持时间过半的公告",
+        "summary": "长华化学(301518)：长华化学:关于公司控股股东增持股份计划实施进展暨增持时间过半的公告",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301518/AN202609221829759059.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长华化学(301518)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "国邦医药:2026年9月22日投资者关系活动记录表",
+        "summary": "国邦医药(605507)：国邦医药:2026年9月22日投资者关系活动记录表",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/605507/AN202609221829758726.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "医药"
         ],
         "tickers": [
-          "观想科技(301213)"
+          "国邦医药(605507)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "圣邦股份:关于部分股票期权注销完成的公告",
+        "summary": "圣邦股份(300661)：圣邦股份:关于部分股票期权注销完成的公告",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300661/AN202609221829758690.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "圣邦股份(300661)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "奥尼电子:关于全资子公司签署日常经营重大合同的公告",
+        "summary": "奥尼电子(301189)：奥尼电子:关于全资子公司签署日常经营重大合同的公告",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301189/AN202609221829758720.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "奥尼电子(301189)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "浙江黎明:2026年半年度业绩说明会投资者关系活动记录表(2026年9月22日)",
+        "summary": "浙江黎明(603048)：浙江黎明:2026年半年度业绩说明会投资者关系活动记录表(2026年9月22日)",
+        "publishedAt": "2026-09-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603048/AN202609221829758668.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "浙江黎明(603048)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "韩政府称首个对美投资项目为得州天然气发电厂",
@@ -147596,22 +147601,6 @@
         "tickers": [],
         "importance": 2,
         "noticeType": ""
-      },
-      {
-        "title": "美国9月21日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月21日SPDR黄金持仓-每日更新(吨)；公布 1055.41，预期 nan，前值 1057.12。",
-        "publishedAt": "2026-09-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
       }
     ]
   },
@@ -147628,7 +147617,7 @@
       "name": "广合科技",
       "changePct": 6.84,
       "industry": "元件",
-      "failCount": 12
+      "failCount": 11
     },
     {
       "code": "600630",
@@ -147757,15 +147746,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-22 16:45:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-09-22 16:49:32",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、医药、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：文化传媒、元件；首看 文化传媒 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -147796,7 +147785,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-22 16:44:31",
+        "generatedAt": "2026-09-22 16:48:44",
         "summary": "上午情绪分 100，涨停 63 家，跌停 3 家，炸板 18 家，连板 24 家，最高 6 板。",
         "sections": [
           {
@@ -147835,7 +147824,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-22 16:44:31",
+        "generatedAt": "2026-09-22 16:48:44",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -147861,7 +147850,7 @@
               "今日炸板 18 只，追高前先看前排封单和回封质量。",
               "今日跌停 3 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：发行人及中介机构关于第二轮审核问询函的回复意见(深圳云豹智能股份有限公司)；发行人及中介机构关于第二轮审核问询函的回复意见(上海季丰电子股份有限公司)。",
+              "新闻/公告风险：龙磁科技:关于实际控制人股份质押的公告；杭州高新:关于控股股东部分股份质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
