@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-23",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-23 01:39:20",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-23 01:39:20",
+    "lastNewsAt": "2026-09-23 13:01:42"
   },
   "indices": [
     {
@@ -146638,29 +146640,44 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-23",
-    "generatedAt": "2026-09-23 01:40:01",
+    "generatedAt": "2026-09-23 13:01:42",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 10,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -146698,84 +146715,100 @@
         "noticeType": "诉讼仲裁"
       },
       {
-        "title": "*ST宝馨:关于公司控股股东所持公司部分股份司法拍卖过户完成暨权益变动触及1%刻度及5%整数倍的提示性公告",
-        "summary": "*ST宝馨(002514)：*ST宝馨:关于公司控股股东所持公司部分股份司法拍卖过户完成暨权益变动触及1%刻度及5%整数倍的提示性公告",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002514/AN202609221829766803.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "斯洛伐克今年因高温致死人数创十年来纪录",
+        "summary": "【斯洛伐克今年因高温致死人数创十年来纪录】斯洛伐克统计局近日发布报告称，2026年该国已有12人因高温直接致死，创过去十年新高。统计局指出，高温可能通过加重慢性病或其他疾病间接导致死亡，这在直接死因统计中难以体现。世界卫生组织及相关专家研究表明，极端高温会增加心血管、呼吸系统和代谢性疾病以及糖尿病患者的健康风险。",
+        "publishedAt": "2026-09-23 12:59:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609233882308479.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "*ST宝馨(002514)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "权益变动报告书"
+        "noticeType": ""
       },
       {
-        "title": "*ST宝馨:简式权益变动报告书(江苏立青及其一致行动人)",
-        "summary": "*ST宝馨(002514)：*ST宝馨:简式权益变动报告书(江苏立青及其一致行动人)",
+        "title": "300488恒锋工具投资者关系管理信息20260923",
+        "summary": "恒锋工具(300488)：300488恒锋工具投资者关系管理信息20260923",
         "publishedAt": "2026-09-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002514/AN202609221829766804.html",
+        "url": "https://data.eastmoney.com/notices/detail/300488/AN202609231829776017.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST宝馨(002514)"
+          "恒锋工具(300488)"
         ],
         "importance": 1,
-        "noticeType": "权益变动报告书"
+        "noticeType": "调研活动"
       },
       {
-        "title": "伦敦股市22日下跌",
-        "summary": "【伦敦股市22日下跌】英国伦敦股市《金融时报》100种股票平均价格指数22日报收于10708.33点，较前一交易日下跌30.68点，跌幅为0.29%。欧洲三大股指当天涨跌不一。",
-        "publishedAt": "2026-09-23 01:13:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233881619615.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "002901大博医疗投资者关系活动记录表20260922",
+        "summary": "大博医疗(002901)：002901大博医疗投资者关系活动记录表20260922",
+        "publishedAt": "2026-09-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002901/AN202609231829793340.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "金融"
+          "医药"
         ],
-        "tickers": [],
+        "tickers": [
+          "大博医疗(002901)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "联大主席：要建设能主动塑造变化的联合国",
-        "summary": "【联大主席：要建设能主动塑造变化的联合国】当地时间9月22日，第81届联合国大会一般性辩论在纽约联合国总部开幕。本届联大主席卡利勒·拉赫曼在开幕致辞中表示，面对持续的地区冲突、发展挑战以及人工智能等新兴技术带来的变革，联合国需要正视自身不足、推进改革，以重新赢得国际社会的信任。拉赫曼表示，本届联大要建设能主动塑造变化的联合国，以改革和广泛参与重拾全球信任。",
-        "publishedAt": "2026-09-23 01:11:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233881619169.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
+        "title": "恒铭达:002947恒铭达投资者关系管理信息20260923",
+        "summary": "恒铭达(002947)：恒铭达:002947恒铭达投资者关系管理信息20260923",
+        "publishedAt": "2026-09-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002947/AN202609231829790962.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒铭达(002947)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "OPENAI将允许外部团体在更早阶段评估AI模型",
-        "summary": "【OPENAI将允许外部团体在更早阶段评估AI模型】OpenAI计划允许第三方机构在其人工智能模型开发周期的早期阶段，对其模型的安全风险进行审查，这是其为应对外界对该技术潜在危害日益加剧的担忧而采取的持续举措之一。OpenAI还列出了确保这些评估有效运作的关键优先级，包括确保“强有力的独立机制、科学严谨性、稳健的安全实践和明确的责任划分”。",
-        "publishedAt": "2026-09-23 01:07:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233881618964.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
+        "title": "榕基软件:榕基软件投资者关系活动记录表20260922",
+        "summary": "榕基软件(002474)：榕基软件:榕基软件投资者关系活动记录表20260922",
+        "publishedAt": "2026-09-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002474/AN202609231829779060.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "榕基软件(002474)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鲁西化工:2026年9月22日投资者关系活动记录表",
+        "summary": "鲁西化工(000830)：鲁西化工:2026年9月22日投资者关系活动记录表",
+        "publishedAt": "2026-09-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000830/AN202609231829777234.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鲁西化工(000830)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "申科股份:申科滑动轴承股份有限公司2026年股票期权激励计划(草案)",
@@ -146862,64 +146895,62 @@
         "noticeType": "回购预案"
       },
       {
-        "title": "智度股份:2026年限制性股票激励计划自查表",
-        "summary": "智度股份(000676)：智度股份:2026年限制性股票激励计划自查表",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000676/AN202609221829766527.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "智度股份(000676)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "智度股份:2026年限制性股票激励计划(草案)摘要",
-        "summary": "智度股份(000676)：智度股份:2026年限制性股票激励计划(草案)摘要",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000676/AN202609221829766526.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "智度股份(000676)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划摘要"
-      },
-      {
-        "title": "智度股份:2026年限制性股票激励计划(草案)",
-        "summary": "智度股份(000676)：智度股份:2026年限制性股票激励计划(草案)",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000676/AN202609221829766523.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "智度股份(000676)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "周二（9月22日） 美联储隔夜逆回购协议（RRP）使用规模为4.53亿美元",
-        "summary": "周二（9月22日），美联储隔夜逆回购协议（RRP）使用规模为4.53亿美元。",
-        "publishedAt": "2026-09-23 01:17:06",
+        "title": "引导逆周期布局 郑希、张明昕、陈文凯等基金经理松绑限购",
+        "summary": "【引导逆周期布局 郑希、张明昕、陈文凯等基金经理松绑限购】9月22日，易方达明星基金经理郑希所管理的两只主投A股市场的基金——易方达信息产业、易方达信息行业精选的大额申购上限从1万元上调至50万元，这也是两只基金自6月25日以来首次放宽大额申购上限。在业内看来，此举意在引导资金逆周期布局——不少绩优基金在市场过热阶段收紧大额申购，市场回调之后放开申购，这样…",
+        "publishedAt": "2026-09-23 12:51:16",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233881620060.html",
+        "url": "https://finance.eastmoney.com/a/202609233882307248.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中企在伊拉克投建的天然气处理装置投产",
+        "summary": "【中企在伊拉克投建的天然气处理装置投产】由中国企业振华石油控股有限公司投资建设的伊拉克东巴油田天然气处理装置22日顺利投产。伊拉克石油部长巴西姆·穆罕默德·胡达伊尔及多名高级官员出席投产仪式。据悉，该天然气处理装置设计处理能力为每日2500万标准立方英尺，是完善油田地面生产系统、推进伴生气综合利用的重要工程。",
+        "publishedAt": "2026-09-23 12:40:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609233882306665.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "Pimco：几无证据显示AI发债会对美国国债产生直接排挤效应",
+        "summary": "【Pimco：几无证据显示AI发债会对美国国债产生直接排挤效应】品浩(Pimco)表示，综合名义收益率、期限溢价与掉期利差来看，有关AI企业超预期发债正推高美国国债收益率的证据相当匮乏。多资产信贷策略师LotfiKaroui在报告中写道，AI资本支出热潮确实可能通过储蓄与投资管道拉高均衡实质利率，但若说AI发债正对美国国债产生直接的排挤效应，这一较为狭隘的…",
+        "publishedAt": "2026-09-23 12:37:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609233882305881.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "港交所：陆续推出更多人民币计价贵金属等商品投资产品",
+        "summary": "【港交所：陆续推出更多人民币计价贵金属等商品投资产品】港交所董事总经理兼市场主管余学勤表示，香港金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他在财资市场高峰会上透露，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的投资产品，以丰富人民币计价资产选择。",
+        "publishedAt": "2026-09-23 12:33:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609233882305384.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "有色稀土"
         ],
         "tickers": [],
         "importance": 1,
@@ -146927,7 +146958,7 @@
       },
       {
         "title": "美国截至9月18日当周API原油库存变动(万桶)",
-        "summary": "美国截至9月18日当周API原油库存变动(万桶)；公布 nan，预期 -56.3，前值 714.4。",
+        "summary": "美国截至9月18日当周API原油库存变动(万桶)；公布 178.6，预期 -56.3，前值 714.4。",
         "publishedAt": "2026-09-23 04:30",
         "source": "百度财经日历",
         "url": "",
@@ -146937,20 +146968,6 @@
         "themes": [
           "能源"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至9月18日当周API汽油库存变动(万桶)",
-        "summary": "美国截至9月18日当周API汽油库存变动(万桶)；公布 nan，预期 15.8，前值 146.2。",
-        "publishedAt": "2026-09-23 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -147086,7 +147103,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -147099,15 +147116,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-23 01:40:01",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-09-23 13:01:42",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：文化传媒、元件；首看 文化传媒 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
