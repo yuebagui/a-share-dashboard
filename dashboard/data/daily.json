@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-09-23",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-09-23 21:31:35",
+    "tradeDate": "2026-09-24",
+    "phase": "盘中快照",
+    "generatedAt": "2026-09-24 01:47:49",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -141494,142 +141494,252 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-23",
-    "generatedAt": "2026-09-23 21:32:22",
+    "tradeDate": "2026-09-24",
+    "generatedAt": "2026-09-24 01:48:21",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、半导体、能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 14,
+        "name": "金融",
+        "score": 16,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 11,
+        "name": "半导体",
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 10,
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 6,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 3,
+        "name": "有色稀土",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "发行人及中介机构回复意见(巨力自动化设备(浙江)股份有限公司)",
-        "summary": "巨力股份(A26181)：发行人及中介机构回复意见(巨力自动化设备(浙江)股份有限公司)",
-        "publishedAt": "2026-09-23",
+        "title": "普冉股份:中联资产评估咨询(上海)有限公司关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函中资产评估相关问题回复核查意见",
+        "summary": "普冉股份(688766)：普冉股份:中联资产评估咨询(上海)有限公司关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函中资产评估相关问题回复核查意见",
+        "publishedAt": "2026-09-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26181/AN202609231829812367.html",
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609231829818514.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "半导体"
+        ],
         "tickers": [
-          "巨力股份(A26181)"
+          "普冉股份(688766)"
         ],
         "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
+        "noticeType": "其他"
       },
       {
-        "title": "德福科技:关于公司部分董事及高级管理人员及合伙企业股份减持计划的预披露公告",
-        "summary": "德福科技(301511)：德福科技:关于公司部分董事及高级管理人员及合伙企业股份减持计划的预披露公告",
-        "publishedAt": "2026-09-23",
+        "title": "普冉股份:立信会计师事务所(特殊普通合伙)关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函中相关财务问题的专项核查意见",
+        "summary": "普冉股份(688766)：普冉股份:立信会计师事务所(特殊普通合伙)关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函中相关财务问题的专项核查意见",
+        "publishedAt": "2026-09-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202609231829812178.html",
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609231829818509.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [
+          "普冉股份(688766)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "普冉股份:国泰海通证券股份有限公司关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函回复之核查意见",
+        "summary": "普冉股份(688766)：普冉股份:国泰海通证券股份有限公司关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函回复之核查意见",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609231829818508.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "金融"
+        ],
+        "tickers": [
+          "普冉股份(688766)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "普冉股份:普冉半导体(上海)股份有限公司关于发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函回复",
+        "summary": "普冉股份(688766)：普冉股份:普冉半导体(上海)股份有限公司关于发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函回复",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609231829818504.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [
+          "普冉股份(688766)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "广和通:上海众华资产评估有限公司关于对深圳证券交易所《关于对深圳市广和通无线股份有限公司的重组问询函》的回复",
+        "summary": "广和通(300638)：广和通:上海众华资产评估有限公司关于对深圳证券交易所《关于对深圳市广和通无线股份有限公司的重组问询函》的回复",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300638/AN202609231829814252.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "广和通(300638)"
+        ],
+        "importance": 1,
+        "noticeType": "问询函其他公告"
+      },
+      {
+        "title": "广和通:关于深圳证券交易所对深圳市广和通无线股份有限公司的重组问询函中有关财务会计问题的回复",
+        "summary": "广和通(300638)：广和通:关于深圳证券交易所对深圳市广和通无线股份有限公司的重组问询函中有关财务会计问题的回复",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300638/AN202609231829814231.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "广和通(300638)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "上峰材料:关于公司控股股东的一致行动人减持股份计划期限届满暨实施情况的公告",
+        "summary": "上峰材料(000672)：上峰材料:关于公司控股股东的一致行动人减持股份计划期限届满暨实施情况的公告",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000672/AN202609231829814455.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "德福科技(301511)"
+          "上峰材料(000672)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "多浦乐:关于持股5%以上股东、董事减持股份的预披露公告",
-        "summary": "多浦乐(301528)：多浦乐:关于持股5%以上股东、董事减持股份的预披露公告",
-        "publishedAt": "2026-09-23",
+        "title": "广和通:中信证券股份有限公司关于深圳证券交易所《关于对深圳市广和通无线股份有限公司的重组问询函》回复之核查意见",
+        "summary": "广和通(300638)：广和通:中信证券股份有限公司关于深圳证券交易所《关于对深圳市广和通无线股份有限公司的重组问询函》回复之核查意见",
+        "publishedAt": "2026-09-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301528/AN202609231829812262.html",
+        "url": "https://data.eastmoney.com/notices/detail/300638/AN202609231829814278.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "多浦乐(301528)"
+          "广和通(300638)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "8-1发行人及中介机构关于首轮审核问询函的回复(丹东东方测控技术股份有限公司)",
-        "summary": "东方测控(A25291)：8-1发行人及中介机构关于首轮审核问询函的回复(丹东东方测控技术股份有限公司)",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A25291/AN202609231829812226.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "东方测控(A25291)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板发行上市问询与回复"
-      },
-      {
-        "title": "ST恒信:简式权益变动报告书",
-        "summary": "ST恒信(300081)：ST恒信:简式权益变动报告书",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300081/AN202609231829812117.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST恒信(300081)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "国内商品期货夜盘开盘 主力合约跌多涨少",
-        "summary": "国内商品期货夜盘开盘，主力合约跌多涨少。跌幅方面，沪锡、氧化铝、沪银、焦煤、沥青等小幅下跌；涨幅方面，丁二烯胶涨超3%，低硫燃油、20号胶、燃油涨超2%，橡胶、苯乙烯、原油、LPG、纯苯涨超1%。",
-        "publishedAt": "2026-09-23 21:00:09",
+        "title": "美国柴油期货下跌逾7%",
+        "summary": "美国柴油期货下跌逾7%，触及日内低点。",
+        "publishedAt": "2026-09-24 00:57:08",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233882646670.html",
+        "url": "https://finance.eastmoney.com/a/202609243882826785.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "有色稀土",
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "南方乳业:向不特定合格投资者公开发行股票并在北京证券交易所上市网上路演公告",
-        "summary": "南方乳业(920196)：南方乳业:向不特定合格投资者公开发行股票并在北京证券交易所上市网上路演公告",
-        "publishedAt": "2026-09-23",
+        "title": "普冉股份:根据本次重大资产重组完成后的架构编制的上市公司最近一年及一期的备考财务报告及其审阅报告",
+        "summary": "普冉股份(688766)：普冉股份:根据本次重大资产重组完成后的架构编制的上市公司最近一年及一期的备考财务报告及其审阅报告",
+        "publishedAt": "2026-09-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920196/AN202609231829807038.html",
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609231829818501.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "普冉股份(688766)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "普冉股份:本次重大资产重组涉及的拟购买资产最近两年及一期的财务报告和审计报告",
+        "summary": "普冉股份(688766)：普冉股份:本次重大资产重组涉及的拟购买资产最近两年及一期的财务报告和审计报告",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688766/AN202609231829818502.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "普冉股份(688766)"
+        ],
+        "importance": 1,
+        "noticeType": "重组进展公告"
+      },
+      {
+        "title": "康辰药业:康辰药业关于2026年限制性股票激励计划首次授予结果公告",
+        "summary": "康辰药业(603590)：康辰药业:康辰药业关于2026年限制性股票激励计划首次授予结果公告",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603590/AN202609231829814515.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "康辰药业(603590)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "广和通:关于向银行申请并购贷款的公告",
+        "summary": "广和通(300638)：广和通:关于向银行申请并购贷款的公告",
+        "publishedAt": "2026-09-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300638/AN202609231829814255.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -141637,130 +141747,17 @@
           "金融"
         ],
         "tickers": [
-          "南方乳业(920196)"
+          "广和通(300638)"
         ],
         "importance": 1,
-        "noticeType": "首发网上路演公告"
+        "noticeType": "借贷"
       },
       {
-        "title": "通宝光电:股东增持股份结果公告",
-        "summary": "通宝光电(920168)：通宝光电:股东增持股份结果公告",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920168/AN202609231829804041.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "通宝光电(920168)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "顺博合金:2026年9月23日投资者关系活动记录表",
-        "summary": "顺博合金(002996)：顺博合金:2026年9月23日投资者关系活动记录表",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002996/AN202609231829803778.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "顺博合金(002996)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "300488恒锋工具投资者关系管理信息20260923",
-        "summary": "恒锋工具(300488)：300488恒锋工具投资者关系管理信息20260923",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300488/AN202609231829776017.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "恒锋工具(300488)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "苏州天脉:投资者关系活动记录表",
-        "summary": "苏州天脉(301626)：苏州天脉:投资者关系活动记录表",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301626/AN202609231829812253.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "苏州天脉(301626)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301330熵基科技投资者关系管理信息20260923",
-        "summary": "熵基科技(301330)：301330熵基科技投资者关系管理信息20260923",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301330/AN202609231829812187.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "熵基科技(301330)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "鸿合科技2026年9月23日投资者关系活动记录表",
-        "summary": "鸿合科技(002955)：鸿合科技2026年9月23日投资者关系活动记录表",
-        "publishedAt": "2026-09-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002955/AN202609231829812161.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鸿合科技(002955)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "江淮汽车：公司及控股股东不存在其他应披露而未披露的重大资产重组、重大业务合作等重大事项",
-        "summary": "【江淮汽车：公司及控股股东不存在其他应披露而未披露的重大资产重组、重大业务合作等重大事项】江淮汽车9月23日发布公告，经核实，截至本公告披露日，公司日常经营情况未发生重大变化；公司及控股股东不存在其他应披露而未披露的重大资产重组、股份发行、重大交易类事项、业务重组、股份回购、股权激励、破产重整、重大业务合作、引进战略投资者等重大事项。截至本公告披露日，公司…",
-        "publishedAt": "2026-09-23 21:19:56",
+        "title": "周三（9月23日） 美联储隔夜逆回购协议（RRP）使用规模为4.61亿美元",
+        "summary": "周三（9月23日），美联储隔夜逆回购协议（RRP）使用规模为4.61亿美元。",
+        "publishedAt": "2026-09-24 01:18:31",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233882666736.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "汽车链",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "报道：摩根士丹利投资银行交易清单意外泄露",
-        "summary": "据报道，摩根士丹利投资银行交易清单意外泄露。",
-        "publishedAt": "2026-09-23 20:48:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233882642428.html",
+        "url": "https://finance.eastmoney.com/a/202609243882830897.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -141772,47 +141769,61 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至9月18日当周API原油库存变动(万桶)",
-        "summary": "美国截至9月18日当周API原油库存变动(万桶)；公布 178.6，预期 -56.3，前值 714.4。",
-        "publishedAt": "2026-09-23 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "投资16.52亿元 斯迪克扩产高分子材料",
+        "summary": "【投资16.52亿元 斯迪克扩产高分子材料】9月23日，斯迪克（300806）发布公告称，公司拟由全资子公司江苏兴远泰新材料科技有限公司（以下简称“兴远泰”）投资建设年产10.3万吨高端功能性BOPET基膜扩产项目，总投资约16.52亿元，建设期1.5年，产品涵盖MLCC离型膜基膜、偏光片离保膜基膜、感光干膜基膜等。项目资金来源为兴远泰自有资金及自筹资金，…",
+        "publishedAt": "2026-09-24 00:52:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609243882823316.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "微软计划到2030年在中东地区投资4亿美元用于海底和陆地连接",
+        "summary": "微软计划到2030年在中东地区投资4亿美元用于海底和陆地连接，投资包括在该地区扩展云计算和人工智能基础设施。",
+        "publishedAt": "2026-09-24 00:37:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609243882824871.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "能源"
+          "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月18日当周API汽油库存变动(万桶)",
-        "summary": "美国截至9月18日当周API汽油库存变动(万桶)；公布 -216.0，预期 15.8，前值 146.2。",
-        "publishedAt": "2026-09-23 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "伊朗总统联大演讲誓言“永不屈膝投降”",
+        "summary": "【伊朗总统联大演讲誓言“永不屈膝投降”】伊朗总统佩泽希齐扬23日在联合国大会一般性辩论发言中表示，伊朗“永不低头、也不会屈膝投降”，并呼吁各国共同努力实现和平。",
+        "publishedAt": "2026-09-24 01:43:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609243882831749.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月22日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月22日iShares白银持仓-每日更新(吨)；公布 15375.88，预期 nan，前值 15429.26。",
-        "publishedAt": "2026-09-23 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "白宫官员称：美国考虑柴油出口禁令的报道是“假新闻”",
+        "summary": "白宫官员称，美国考虑柴油出口禁令的报道是“假新闻”。",
+        "publishedAt": "2026-09-24 01:43:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609243882831873.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -142002,7 +142013,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "中",
     "emotionCycle": "修复",
     "positionRule": {
@@ -142015,15 +142026,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-23 21:32:22",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-09-24 01:48:21",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 金融、半导体、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：电子化学品；首看 电子化学品 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -142054,7 +142065,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-23 21:31:35",
+        "generatedAt": "2026-09-24 01:47:49",
         "summary": "上午情绪分 64，涨停 51 家，跌停 13 家，炸板 26 家，连板 12 家，最高 4 板。",
         "sections": [
           {
@@ -142093,7 +142104,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-23 21:31:35",
+        "generatedAt": "2026-09-24 01:47:49",
         "summary": "市场温度 中，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -142119,7 +142130,7 @@
               "今日炸板 26 只，追高前先看前排封单和回封质量。",
               "今日跌停 13 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：发行人及中介机构回复意见(巨力自动化设备(浙江)股份有限公司)；德福科技:关于公司部分董事及高级管理人员及合伙企业股份减持计划的预披露公告。",
+              "新闻/公告风险：普冉股份:中联资产评估咨询(上海)有限公司关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函中资产评估相关问题回复核查意见；普冉股份:立信会计师事务所(特殊普通合伙)关于普冉半导体(上海)股份有限公司发行股份、可转换公司债券及支付现金购买资产并募集配套资金申请的审核问询函中相关财务问题的专项核查意见。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
