@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-23",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-23 20:50:22",
+    "generatedAt": "2026-09-23 21:31:35",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -141332,7 +141332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -141494,10 +141495,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-23",
-    "generatedAt": "2026-09-23 20:51:17",
+    "generatedAt": "2026-09-23 21:32:22",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 6 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
         "name": "有色稀土",
@@ -141506,7 +141507,12 @@
       },
       {
         "name": "金融",
-        "score": 8,
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 10,
         "isFocusBoard": false
       },
       {
@@ -141515,23 +141521,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
         "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
+        "score": 3,
         "isFocusBoard": false
       }
     ],
@@ -141617,15 +141608,18 @@
         "noticeType": "权益变动报告书"
       },
       {
-        "title": "德福科技：部分董监高及合伙企业拟合计减持不超0.8%股份",
-        "summary": "【德福科技：部分董监高及合伙企业拟合计减持不超0.8%股份】德福科技(301511.SZ)公告称，公司董事及高管罗佳、金荣涛、宋铁峰、吴丹妮及股东九江德福投资管理中心、九江经开区琥珀管理中心计划自公告之日起15个交易日后的3个月内，通过集中竞价方式合计减持不超过502.72万股，占公司总股本的0.80%。减持原因为自身资金需求。",
-        "publishedAt": "2026-09-23 20:14:18",
+        "title": "国内商品期货夜盘开盘 主力合约跌多涨少",
+        "summary": "国内商品期货夜盘开盘，主力合约跌多涨少。跌幅方面，沪锡、氧化铝、沪银、焦煤、沥青等小幅下跌；涨幅方面，丁二烯胶涨超3%，低硫燃油、20号胶、燃油涨超2%，橡胶、苯乙烯、原油、LPG、纯苯涨超1%。",
+        "publishedAt": "2026-09-23 21:00:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233882620192.html",
+        "url": "https://finance.eastmoney.com/a/202609233882646670.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "有色稀土",
+          "能源"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -141745,11 +141739,28 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "运机集团：拟1亿元至2亿元回购公司股份",
-        "summary": "【运机集团：拟1亿元至2亿元回购公司股份】运机集团(001288.SZ)公告称，公司拟使用自有资金或自筹资金(含银行股票回购专项贷款等)不低于1亿元且不超过2亿元，通过集中竞价方式回购公司已发行A股股票，回购价格不超过40元/股，回购股份拟用于实施员工持股计划或股权激励。",
-        "publishedAt": "2026-09-23 20:12:09",
+        "title": "江淮汽车：公司及控股股东不存在其他应披露而未披露的重大资产重组、重大业务合作等重大事项",
+        "summary": "【江淮汽车：公司及控股股东不存在其他应披露而未披露的重大资产重组、重大业务合作等重大事项】江淮汽车9月23日发布公告，经核实，截至本公告披露日，公司日常经营情况未发生重大变化；公司及控股股东不存在其他应披露而未披露的重大资产重组、股份发行、重大交易类事项、业务重组、股份回购、股权激励、破产重整、重大业务合作、引进战略投资者等重大事项。截至本公告披露日，公司…",
+        "publishedAt": "2026-09-23 21:19:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609233882619094.html",
+        "url": "https://finance.eastmoney.com/a/202609233882666736.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "汽车链",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "报道：摩根士丹利投资银行交易清单意外泄露",
+        "summary": "据报道，摩根士丹利投资银行交易清单意外泄露。",
+        "publishedAt": "2026-09-23 20:48:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609233882642428.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -141800,22 +141811,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月22日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月22日iShares黄金持仓-每日更新(吨)；公布 463.85，预期 nan，前值 464.73。",
-        "publishedAt": "2026-09-23 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -142020,15 +142015,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-23 20:51:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 6 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-09-23 21:32:22",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：电子化学品；首看 电子化学品 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -142059,7 +142054,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-23 20:50:22",
+        "generatedAt": "2026-09-23 21:31:35",
         "summary": "上午情绪分 64，涨停 51 家，跌停 13 家，炸板 26 家，连板 12 家，最高 4 板。",
         "sections": [
           {
@@ -142098,7 +142093,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-23 20:50:22",
+        "generatedAt": "2026-09-23 21:31:35",
         "summary": "市场温度 中，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
