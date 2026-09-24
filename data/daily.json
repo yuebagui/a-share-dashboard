@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-09-24",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-09-24 21:26:53",
+    "tradeDate": "2026-09-25",
+    "phase": "盘中快照",
+    "generatedAt": "2026-09-25 01:49:33",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -139094,151 +139094,251 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-24",
-    "generatedAt": "2026-09-24 21:27:40",
+    "tradeDate": "2026-09-25",
+    "generatedAt": "2026-09-25 01:49:50",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 7,
+        "score": 20,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 4,
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "汽车链",
-        "score": 3,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "海能技术:股东拟减持股份的预披露公告(再次披露)",
-        "summary": "海能技术(920476)：海能技术:股东拟减持股份的预披露公告(再次披露)",
-        "publishedAt": "2026-09-24",
+        "title": "湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚事先告知书和行政监督管理措施事先告知书的公告",
+        "summary": "湘财股份(600095)：湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚事先告知书和行政监督管理措施事先告知书的公告",
+        "publishedAt": "2026-09-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920476/AN202609241829868925.html",
+        "url": "https://data.eastmoney.com/notices/detail/600095/AN202609241829875273.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "海能技术(920476)"
+          "湘财股份(600095)"
+        ],
+        "importance": 1,
+        "noticeType": "处罚"
+      },
+      {
+        "title": "国盛证券:关于公司及相关当事人收到《行政处罚事先告知书》及《行政监管措施事先告知书》的公告",
+        "summary": "国盛证券(002670)：国盛证券:关于公司及相关当事人收到《行政处罚事先告知书》及《行政监管措施事先告知书》的公告",
+        "publishedAt": "2026-09-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002670/AN202609241829875057.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国盛证券(002670)"
+        ],
+        "importance": 1,
+        "noticeType": "处罚"
+      },
+      {
+        "title": "华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话事先告知书的公告",
+        "summary": "华林证券(002945)：华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话事先告知书的公告",
+        "publishedAt": "2026-09-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002945/AN202609241829875058.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "华林证券(002945)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "源杰科技:陕西源杰半导体科技股份有限公司股东减持股份计划公告",
+        "summary": "源杰科技(688498)：源杰科技:陕西源杰半导体科技股份有限公司股东减持股份计划公告",
+        "publishedAt": "2026-09-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688498/AN202609241829874915.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [
+          "源杰科技(688498)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "越秀资本:2026年9月24日投资者关系活动记录表",
-        "summary": "越秀资本(000987)：越秀资本:2026年9月24日投资者关系活动记录表",
-        "publishedAt": "2026-09-24",
+        "title": "新华文轩:新华文轩股票交易风险提示公告",
+        "summary": "新华文轩(601811)：新华文轩:新华文轩股票交易风险提示公告",
+        "publishedAt": "2026-09-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000987/AN202609241829867567.html",
+        "url": "https://data.eastmoney.com/notices/detail/601811/AN202609241829872137.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "越秀资本(000987)"
+          "新华文轩(601811)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其它风险提示公告"
       },
       {
-        "title": "苏豪时尚:投资者关系活动记录表(苏豪时尚:2026年半年度业绩说明会)",
-        "summary": "苏豪时尚(600287)：苏豪时尚:投资者关系活动记录表(苏豪时尚:2026年半年度业绩说明会)",
-        "publishedAt": "2026-09-24",
+        "title": "新华传媒:关于股票交易风险提示性公告",
+        "summary": "新华传媒(600825)：新华传媒:关于股票交易风险提示性公告",
+        "publishedAt": "2026-09-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600287/AN202609241829867566.html",
+        "url": "https://data.eastmoney.com/notices/detail/600825/AN202609241829872126.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "苏豪时尚(600287)"
+          "新华传媒(600825)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其它风险提示公告"
       },
       {
-        "title": "南京商旅:2026年半年度业绩说明会投资者关系活动记录表",
-        "summary": "南京商旅(600250)：南京商旅:2026年半年度业绩说明会投资者关系活动记录表",
-        "publishedAt": "2026-09-24",
+        "title": "长园集团:关于持股5%以上股东所持股份被轮候冻结的公告",
+        "summary": "长园集团(600525)：长园集团:关于持股5%以上股东所持股份被轮候冻结的公告",
+        "publishedAt": "2026-09-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600250/AN202609241829867286.html",
+        "url": "https://data.eastmoney.com/notices/detail/600525/AN202609241829871685.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "南京商旅(600250)"
+          "长园集团(600525)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "迪森股份:关于签署物业租赁合同补充协议的公告",
-        "summary": "迪森股份(300335)：迪森股份:关于签署物业租赁合同补充协议的公告",
-        "publishedAt": "2026-09-24",
+        "title": "*ST利达:柯利达2026年第二次临时股东会会议资料",
+        "summary": "*ST利达(603828)：*ST利达:柯利达2026年第二次临时股东会会议资料",
+        "publishedAt": "2026-09-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300335/AN202609241829866676.html",
+        "url": "https://data.eastmoney.com/notices/detail/603828/AN202609241829871656.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "迪森股份(300335)"
+          "*ST利达(603828)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": "股东大会资料"
       },
       {
-        "title": "高华科技:投资者关系活动记录表-202609",
-        "summary": "高华科技(688539)：高华科技:投资者关系活动记录表-202609",
-        "publishedAt": "2026-09-24",
+        "title": "*ST利达:柯利达关于聘任会计师事务所的公告",
+        "summary": "*ST利达(603828)：*ST利达:柯利达关于聘任会计师事务所的公告",
+        "publishedAt": "2026-09-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688539/AN202609241829862282.html",
+        "url": "https://data.eastmoney.com/notices/detail/603828/AN202609241829871659.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "高华科技(688539)"
+          "*ST利达(603828)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "审计机构变更"
       },
       {
-        "title": "探路者:关于部分限制性股票回购注销完成的公告",
-        "summary": "探路者(300005)：探路者:关于部分限制性股票回购注销完成的公告",
-        "publishedAt": "2026-09-24",
+        "title": "*ST利达:柯利达关于收到中国证券监督管理委员会江苏监管局《行政处罚决定书》的公告",
+        "summary": "*ST利达(603828)：*ST利达:柯利达关于收到中国证券监督管理委员会江苏监管局《行政处罚决定书》的公告",
+        "publishedAt": "2026-09-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300005/AN202609241829862527.html",
+        "url": "https://data.eastmoney.com/notices/detail/603828/AN202609241829871658.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST利达(603828)"
+        ],
+        "importance": 1,
+        "noticeType": "处罚"
+      },
+      {
+        "title": "美股走高 标普500指数率先转涨",
+        "summary": "【美股走高 标普500指数率先转涨】美股走高，标普500指数率先转涨。截至目前，道琼斯指数跌0.23%，标普500指数涨0.02%，纳斯达克综合指数跌0.09%。英伟达股价下跌0.71%，苹果股价上涨0.22%，谷歌-A股价上涨1.07%，微软股价下跌1.06%，亚马逊股价下跌0.32%，Meta股价上涨3.21%，特斯拉股价上涨0.3%。",
+        "publishedAt": "2026-09-25 00:37:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253883993394.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "旺成科技：公司上游原材料成本整体保持相对平稳",
+        "summary": "【旺成科技：公司上游原材料成本整体保持相对平稳】旺成科技发布投资者关系活动记录表，公司上游原材料成本整体保持相对平稳。公司持续加强原材料采购管理，积极与原材料供应商沟通，保障原材料供应稳定。另外，公司建立生产管理和财务管理双向监管机制，保证公司各项成本的合理稳定。",
+        "publishedAt": "2026-09-25 00:01:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253883979833.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "明阳智能:关于变更回购股份用途并注销的公告",
+        "summary": "明阳智能(601615)：明阳智能:关于变更回购股份用途并注销的公告",
+        "publishedAt": "2026-09-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601615/AN202609241829872215.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -139246,173 +139346,81 @@
           "金融"
         ],
         "tickers": [
-          "探路者(300005)"
+          "明阳智能(601615)"
+        ],
+        "importance": 1,
+        "noticeType": "回购方案修订"
+      },
+      {
+        "title": "中际旭创:关于股份回购结果暨股份变动公告",
+        "summary": "中际旭创(300308)：中际旭创:关于股份回购结果暨股份变动公告",
+        "publishedAt": "2026-09-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609241829871808.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "中际旭创(300308)"
         ],
         "importance": 1,
         "noticeType": "股本变动"
       },
       {
-        "title": "渝三峡Ａ:000565渝三峡Ａ投资者关系管理信息20260924",
-        "summary": "渝三峡A(000565)：渝三峡Ａ:000565渝三峡Ａ投资者关系管理信息20260924",
-        "publishedAt": "2026-09-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000565/AN202609241829861803.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "渝三峡A(000565)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "汇川技术:第六届董事会薪酬与考核委员会关于第七期股权激励计划首次授予部分股票期权注销的核查意见",
-        "summary": "汇川技术(300124)：汇川技术:第六届董事会薪酬与考核委员会关于第七期股权激励计划首次授予部分股票期权注销的核查意见",
-        "publishedAt": "2026-09-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300124/AN202609241829861233.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汇川技术(300124)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "欧陆通:2026年9月21日-9月24日投资者关系活动记录表",
-        "summary": "欧陆通(300870)：欧陆通:2026年9月21日-9月24日投资者关系活动记录表",
-        "publishedAt": "2026-09-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300870/AN202609241829859985.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "欧陆通(300870)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "001696宗申动力投资者关系管理信息20260924",
-        "summary": "宗申动力(001696)：001696宗申动力投资者关系管理信息20260924",
-        "publishedAt": "2026-09-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001696/AN202609241829859778.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宗申动力(001696)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "3-2法律意见书(申报稿)(天津汽车模具股份有限公司)",
-        "summary": "天汽模(002510)：3-2法律意见书(申报稿)(天津汽车模具股份有限公司)",
-        "publishedAt": "2026-09-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002510/AN202609241829859313.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "汽车链"
-        ],
-        "tickers": [
-          "天汽模(002510)"
-        ],
-        "importance": 1,
-        "noticeType": "深主板并购重组法律意见书"
-      },
-      {
-        "title": "美联储哈马克：通胀维持高位的时间越长 将其拉回目标就越困难",
-        "summary": "【美联储哈马克：通胀维持高位的时间越长 将其拉回目标就越困难】克利夫兰联储主席哈马克表示，在产出需求保持稳健的背景下，美国通胀仍然处于高位。通胀维持高位的时间越长，将其拉回目标就越困难。供应冲击目前是美联储政策面临的显著挑战。",
-        "publishedAt": "2026-09-24 20:55:10",
+        "title": "央行三季度货政例会：继续实施适度宽松的货币政策！释放哪些信号？专家团队解读",
+        "summary": "【央行三季度货政例会：继续实施适度宽松的货币政策！释放哪些信号？专家团队解读】9月24日，人民银行披露货币政策委员会2026年第三季度例会主要内容。会议提出，要继续实施适度宽松的货币政策，加大逆周期调节力度。此外，根据国内外经济金融形势和金融市场运行情况，把握好政策实施的力度、节奏和时机。综合运用并适时调整货币政策工具，保持流动性充裕。",
+        "publishedAt": "2026-09-25 01:36:57",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609243883883081.html",
+        "url": "https://finance.eastmoney.com/a/202609253883982627.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月23日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月23日iShares黄金持仓-每日更新(吨)；公布 464.2，预期 nan，前值 463.85。",
-        "publishedAt": "2026-09-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "美联储隔夜逆回购协议（RRP）使用规模为6.3亿美元",
+        "summary": "周四（9月24日），美联储隔夜逆回购协议（RRP）使用规模为6.3亿美元。",
+        "publishedAt": "2026-09-25 01:16:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884007926.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月23日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月23日SPDR黄金持仓-每日更新(吨)；公布 1056.84，预期 nan，前值 1055.98。",
-        "publishedAt": "2026-09-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "杰理科技：在智能穿戴芯片和物联芯片领域均有多年的布局",
+        "summary": "【杰理科技：在智能穿戴芯片和物联芯片领域均有多年的布局】杰理科技发布投资者关系活动记录表，公司在智能穿戴芯片和物联芯片领域均有多年的布局，已经推出AC701N、AC707N、AC791N、AC792N等多款受市场欢迎的芯片。公司将根据市场需求，持续加大研发投入，发掘产品应用场景，通过研发创新持续推出贴合市场需求的新产品，进一步拓宽物联网终端设备的应用领域。",
+        "publishedAt": "2026-09-25 00:01:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253883980068.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "半导体"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月22日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月22日COMEX黄金库存-每日更新(百盎司)；公布 233563.26，预期 nan，前值 233563.9。",
-        "publishedAt": "2026-09-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月23日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月23日iShares白银持仓-每日更新(吨)；公布 15350.6，预期 nan，前值 15375.88。",
-        "publishedAt": "2026-09-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚8月就业人口变动(万人)",
-        "summary": "澳大利亚8月就业人口变动(万人)；公布 3.95，预期 2.0，前值 -1.58。",
-        "publishedAt": "2026-09-24 09:30",
+        "title": "美国截至9月23日美联储资产负债表(万亿美元)",
+        "summary": "美国截至9月23日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.8。",
+        "publishedAt": "2026-09-25 04:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -139498,7 +139506,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -139511,15 +139519,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-24 21:27:40",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-09-25 01:49:50",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -139550,7 +139558,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-24 21:26:53",
+        "generatedAt": "2026-09-25 01:49:33",
         "summary": "上午情绪分 74，涨停 52 家，跌停 13 家，炸板 10 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -139589,7 +139597,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-24 21:26:53",
+        "generatedAt": "2026-09-25 01:49:33",
         "summary": "市场温度 中，情绪周期偏发酵。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -139615,7 +139623,7 @@
               "今日炸板 10 只，追高前先看前排封单和回封质量。",
               "今日跌停 13 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：海能技术:股东拟减持股份的预披露公告(再次披露)。",
+              "新闻/公告风险：湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚事先告知书和行政监督管理措施事先告知书的公告；国盛证券:关于公司及相关当事人收到《行政处罚事先告知书》及《行政监管措施事先告知书》的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
