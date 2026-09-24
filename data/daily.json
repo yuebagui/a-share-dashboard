@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-24",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-24 20:48:08",
+    "generatedAt": "2026-09-24 21:26:53",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -138934,7 +138934,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -139094,16 +139095,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-24",
-    "generatedAt": "2026-09-24 20:48:48",
+    "generatedAt": "2026-09-24 21:27:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 金融、AI算力、汽车链。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
+        "name": "有色稀土",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
-        "score": 9,
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -139112,8 +139121,18 @@
         "isFocusBoard": false
       },
       {
+        "name": "军工",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
         "name": "汽车链",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -139133,20 +139152,6 @@
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "甲骨文美股盘前下跌2.8%",
-        "summary": "甲骨文美股盘前下跌2.8%，此前发布不可抗力声明。",
-        "publishedAt": "2026-09-24 20:28:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609243883870889.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       },
       {
         "title": "越秀资本:2026年9月24日投资者关系活动记录表",
@@ -139329,77 +139334,93 @@
         "noticeType": "深主板并购重组法律意见书"
       },
       {
-        "title": "商务部：1-8月 我国企业在共建“一带一路”国家非金融类直接投资1672.4亿元人民币",
-        "summary": "【商务部：1-8月 我国企业在共建“一带一路”国家非金融类直接投资1672.4亿元人民币】9月24日消息，商务部统计数据显示，2026年1-8月，我国企业在共建“一带一路”国家非金融类直接投资1672.4亿元人民币，同比下降11.3%（以美元计为243.6亿美元，下降7.4%）。",
-        "publishedAt": "2026-09-24 20:38:07",
+        "title": "美联储哈马克：通胀维持高位的时间越长 将其拉回目标就越困难",
+        "summary": "【美联储哈马克：通胀维持高位的时间越长 将其拉回目标就越困难】克利夫兰联储主席哈马克表示，在产出需求保持稳健的背景下，美国通胀仍然处于高位。通胀维持高位的时间越长，将其拉回目标就越困难。供应冲击目前是美联储政策面临的显著挑战。",
+        "publishedAt": "2026-09-24 20:55:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609243883874210.html",
+        "url": "https://finance.eastmoney.com/a/202609243883883081.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月23日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国9月23日iShares黄金持仓-每日更新(吨)；公布 464.2，预期 nan，前值 463.85。",
+        "publishedAt": "2026-09-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "商务部副部长凌激与欧委会贸易和经济安全总司总司长约根森开展磋商",
-        "summary": "【商务部副部长凌激与欧委会贸易和经济安全总司总司长约根森开展磋商】据商务部网站，9月23—24日，商务部副部长兼中华人民共和国国际贸易谈判副代表凌激带领中方团队，与欧委会贸易和经济安全总司总司长约根森带领的欧方团队在京开展了磋商，为中欧贸易投资磋商机制第二次会议作准备。",
-        "publishedAt": "2026-09-24 20:33:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609243883873047.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "商务部：1-8月我国全行业对外直接投资1133.9亿美元 增长3.9%",
-        "summary": "【商务部：1-8月我国全行业对外直接投资1133.9亿美元 增长3.9%】据商务部、外汇局统计，2026年1-8月，我国全行业对外直接投资7784.7亿元人民币，同比下降0.6%（以美元计为1133.9亿美元，增长3.9%）。",
-        "publishedAt": "2026-09-24 20:31:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609243883871588.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中际旭创：完成50亿元股份回购",
-        "summary": "【中际旭创：完成50亿元股份回购】中际旭创9月24日公告，公司于2026年8月31日审议通过回购方案，拟以自有资金或自筹资金回购股份用于股权激励或员工持股计划。截至9月23日，公司累计回购565.31万股，占总股本0.48%，成交总额49.97亿元，回购方案已实施完成。",
-        "publishedAt": "2026-09-24 20:25:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609243883867229.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国9月23日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国9月23日SPDR黄金持仓-每日更新(吨)；公布 1056.84，预期 nan，前值 1055.98。",
+        "publishedAt": "2026-09-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "俄罗斯预计2027年GDP增长1.4%",
-        "summary": "【俄罗斯预计2027年GDP增长1.4%】俄罗斯总理米舒斯京表示，俄罗斯预计2027年GDP增长1.4%。",
-        "publishedAt": "2026-09-24 20:43:48",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609243883877458.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国9月22日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国9月22日COMEX黄金库存-每日更新(百盎司)；公布 233563.26，预期 nan，前值 233563.9。",
+        "publishedAt": "2026-09-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月23日iShares白银持仓-每日更新(吨)",
+        "summary": "美国9月23日iShares白银持仓-每日更新(吨)；公布 15350.6，预期 nan，前值 15375.88。",
+        "publishedAt": "2026-09-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚8月就业人口变动(万人)",
+        "summary": "澳大利亚8月就业人口变动(万人)；公布 3.95，预期 2.0，前值 -1.58。",
+        "publishedAt": "2026-09-24 09:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -139490,15 +139511,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-24 20:48:48",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 金融、AI算力、汽车链。",
+        "generatedAt": "2026-09-24 21:27:40",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、AI算力、汽车链；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -139529,7 +139550,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-24 20:48:08",
+        "generatedAt": "2026-09-24 21:26:53",
         "summary": "上午情绪分 74，涨停 52 家，跌停 13 家，炸板 10 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -139568,7 +139589,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-24 20:48:08",
+        "generatedAt": "2026-09-24 21:26:53",
         "summary": "市场温度 中，情绪周期偏发酵。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -139594,7 +139615,7 @@
               "今日炸板 10 只，追高前先看前排封单和回封质量。",
               "今日跌停 13 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：海能技术:股东拟减持股份的预披露公告(再次披露)；甲骨文美股盘前下跌2.8%。",
+              "新闻/公告风险：海能技术:股东拟减持股份的预披露公告(再次披露)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
