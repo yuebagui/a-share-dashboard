@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-25",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-26 01:53:15",
+    "generatedAt": "2026-09-26 01:57:59",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -130371,10 +130371,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-25",
-    "generatedAt": "2026-09-26 01:53:33",
+    "generatedAt": "2026-09-26 01:58:16",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 10 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 11 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
         "name": "金融",
@@ -130388,6 +130388,11 @@
       },
       {
         "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       },
@@ -130574,6 +130579,22 @@
         "noticeType": "处罚"
       },
       {
+        "title": "Meta Platforms的AI产品Muse被发现存在安全漏洞",
+        "summary": "【Meta Platforms的AI产品Muse被发现存在安全漏洞】据报道，Meta Platforms的AI产品Muse被发现存在安全漏洞，可能影响用户数据和虚拟环境安全，因此Meta准备加强风险提示。",
+        "publishedAt": "2026-09-26 01:55:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609263884349130.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "明阳智能:关于变更回购股份用途并注销的公告",
         "summary": "明阳智能(601615)：明阳智能:关于变更回购股份用途并注销的公告",
         "publishedAt": "2026-09-25",
@@ -130684,22 +130705,6 @@
         "tickers": [],
         "importance": 2,
         "noticeType": ""
-      },
-      {
-        "title": "美国9月23日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月23日COMEX黄金库存-每日更新(百盎司)；公布 233563.26，预期 nan，前值 233563.26。",
-        "publishedAt": "2026-09-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
       }
     ]
   },
@@ -130789,8 +130794,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-26 01:53:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 10 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-09-26 01:58:16",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 11 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
@@ -130828,7 +130833,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-26 01:53:15",
+        "generatedAt": "2026-09-26 01:57:59",
         "summary": "上午情绪分 74，涨停 52 家，跌停 13 家，炸板 10 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -130867,7 +130872,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-26 01:53:15",
+        "generatedAt": "2026-09-26 01:57:59",
         "summary": "市场温度 中，情绪周期偏发酵。题材活跃，等分歧后的承接",
         "sections": [
           {
