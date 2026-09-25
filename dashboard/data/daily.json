@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-25",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-25 17:00:46",
+    "generatedAt": "2026-09-25 17:06:19",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -139095,10 +139095,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-25",
-    "generatedAt": "2026-09-25 17:01:16",
+    "generatedAt": "2026-09-25 17:06:46",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
         "name": "金融",
@@ -139106,8 +139108,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "能源",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -139122,16 +139124,6 @@
       },
       {
         "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       },
@@ -139411,33 +139403,31 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至9月23日美联储资产负债表(万亿美元)",
-        "summary": "美国截至9月23日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.8。",
-        "publishedAt": "2026-09-25 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "纳斯达克100指数期货涨0.6% 至盘中高点",
+        "summary": "纳斯达克100指数期货涨0.6%，报30950.11点，至盘中高点。",
+        "publishedAt": "2026-09-25 17:02:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884289722.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月24日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月24日SPDR黄金持仓-每日更新(吨)；公布 1056.84，预期 nan，前值 1056.84。",
-        "publishedAt": "2026-09-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
+        "title": "伊拉克纳杰夫机场暂停所有往返伊朗的航班",
+        "summary": "据伊拉克方面消息，伊拉克纳杰夫机场暂停所有往返伊朗的航班。",
+        "publishedAt": "2026-09-25 16:57:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884289552.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -139528,15 +139518,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-25 17:01:16",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-09-25 17:06:46",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -139567,7 +139557,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-25 17:00:46",
+        "generatedAt": "2026-09-25 17:06:19",
         "summary": "上午情绪分 74，涨停 52 家，跌停 13 家，炸板 10 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -139606,7 +139596,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-25 17:00:46",
+        "generatedAt": "2026-09-25 17:06:19",
         "summary": "市场温度 中，情绪周期偏发酵。题材活跃，等分歧后的承接",
         "sections": [
           {
