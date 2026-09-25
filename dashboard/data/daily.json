@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-25",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-25 17:06:19",
+    "generatedAt": "2026-09-25 20:51:36",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -139095,16 +139095,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-25",
-    "generatedAt": "2026-09-25 17:06:46",
+    "generatedAt": "2026-09-25 20:51:57",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、能源、AI算力。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 20,
+        "score": 14,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -139113,18 +139121,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "汽车链",
         "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -139305,6 +139303,48 @@
         "noticeType": "处罚"
       },
       {
+        "title": "优利德：67GHz矢量网络分析仪目前处于研发阶段",
+        "summary": "【优利德：67GHz矢量网络分析仪目前处于研发阶段】优利德在互动平台回复投资者提问时表示，公司2026年上半年设立了天津研发中心，与成都研发中心协同开展射频测试仪器的技术研发，67GHz矢量网络分析仪目前处于研发阶段。研发进展、产品落地及市场推广均存在较大不确定性，项目短期内不会对公司业绩产生重大影响。请投资者理性看待在研项目，注意投资风险。",
+        "publishedAt": "2026-09-25 20:30:38",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884318863.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "波罗的海海岬型船运价指数下跌2.79%",
+        "summary": "波罗的海海岬型船运价指数下跌2.79%，至48,954美元。",
+        "publishedAt": "2026-09-25 20:03:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884316021.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "乌克兰多地遭袭 泽连斯基呼吁美欧落实对俄制裁",
+        "summary": "【乌克兰多地遭袭，泽连斯基呼吁美欧落实对俄制裁】据乌克兰方面9月25日消息，乌多地遭俄军空袭，造成人员伤亡。乌总统泽连斯基呼吁美欧落实对俄制裁措施。",
+        "publishedAt": "2026-09-25 19:58:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884315848.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "明阳智能:关于变更回购股份用途并注销的公告",
         "summary": "明阳智能(601615)：明阳智能:关于变更回购股份用途并注销的公告",
         "publishedAt": "2026-09-25",
@@ -139341,27 +139381,11 @@
         "noticeType": "股本变动"
       },
       {
-        "title": "汇丰控股(00005)9月24日斥资1.34亿港元回购85.08万股",
-        "summary": "【汇丰控股(00005)9月24日斥资1.34亿港元回购85.08万股】汇丰控股(00005)发布公告，该公司于2026年9月24日斥资1.34亿港元回购85.08万股股份，每股回购价格为156.3-158.4港元。",
-        "publishedAt": "2026-09-25 16:45:12",
+        "title": "高盛：美国AI巨头未来需实现3000亿美元年AI收入才能覆盖巨额投资",
+        "summary": "【高盛：美国AI巨头未来需实现3000亿美元年AI收入才能覆盖巨额投资】9月25日消息，高盛表示，美国最大AI基础设施企业未来几年需要实现约3000亿美元年度AI收入，才能实现对大规模资本投入的盈亏平衡。",
+        "publishedAt": "2026-09-25 20:35:35",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884287856.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "IMF：2026年全球AI投资规模或突破2万亿美元 债务融资依赖同步扩大",
-        "summary": "【IMF：2026年全球AI投资规模或突破2万亿美元 债务融资依赖同步扩大】国际货币基金组织(IMF)发布最新年度报告，引述外部估计指出，今年由私人部门主导的全球人工智能(AI)投资规模可能突破2万亿美元，成为近年来推动经济增长的最强劲动力之一。报告指出，与AI相关的技术投资，估计带动美国2025年GDP增速提高0.5个百分点，而美国近年生产率增速加快，某…",
-        "publishedAt": "2026-09-25 16:39:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884287091.html",
+        "url": "https://finance.eastmoney.com/a/202609253884319175.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -139373,11 +139397,11 @@
         "noticeType": ""
       },
       {
-        "title": "2026中秋档票房破亿",
-        "summary": "【2026中秋档票房破亿】据灯塔专业版，截至9月25日16时30分，2026年中秋档档期（9月25日-9月27日）票房突破1亿！《复仇者联盟4：终局之战（加码臻享版）》《欢迎来龙餐馆》《八仙！》暂列档期票房前三。",
-        "publishedAt": "2026-09-25 16:35:26",
+        "title": "美国8月耐用品订单初值环比持平",
+        "summary": "美国8月耐用品订单初值环比持平，市场预估为下滑0.3%。",
+        "publishedAt": "2026-09-25 20:30:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884286054.html",
+        "url": "https://finance.eastmoney.com/a/202609253884318918.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -139387,44 +139411,14 @@
         "noticeType": ""
       },
       {
-        "title": "瑞声科技：9月25日斥资785.77万港元回购20万股",
-        "summary": "【瑞声科技：9月25日斥资785.77万港元回购20万股】瑞声科技（02018.HK）发布翌日披露报表，9月25日公司回购20万股，每股最高回购价为39.5港元，每股最低回购价为38.9港元，付出的总代价为785.77万港元。本次回购股份拟持作库存股份，拟注销数目为0。",
-        "publishedAt": "2026-09-25 16:35:00",
+        "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟国家就66亿欧元乌克兰资金达成条款",
+        "summary": "欧盟外交与安全政策高级代表卡拉斯表示，欧盟国家就66亿欧元乌克兰资金达成条款。",
+        "publishedAt": "2026-09-25 20:00:39",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884286140.html",
+        "url": "https://finance.eastmoney.com/a/202609253884315997.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "纳斯达克100指数期货涨0.6% 至盘中高点",
-        "summary": "纳斯达克100指数期货涨0.6%，报30950.11点，至盘中高点。",
-        "publishedAt": "2026-09-25 17:02:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884289722.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊拉克纳杰夫机场暂停所有往返伊朗的航班",
-        "summary": "据伊拉克方面消息，伊拉克纳杰夫机场暂停所有往返伊朗的航班。",
-        "publishedAt": "2026-09-25 16:57:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884289552.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
@@ -139518,15 +139512,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-25 17:06:46",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-09-25 20:51:57",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -139557,7 +139551,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-25 17:06:19",
+        "generatedAt": "2026-09-25 20:51:36",
         "summary": "上午情绪分 74，涨停 52 家，跌停 13 家，炸板 10 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -139596,7 +139590,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-25 17:06:19",
+        "generatedAt": "2026-09-25 20:51:36",
         "summary": "市场温度 中，情绪周期偏发酵。题材活跃，等分歧后的承接",
         "sections": [
           {
