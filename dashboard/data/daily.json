@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-25",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-25 20:51:36",
+    "generatedAt": "2026-09-25 21:30:58",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -130210,7 +130210,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -130370,10 +130371,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-25",
-    "generatedAt": "2026-09-25 20:51:57",
+    "generatedAt": "2026-09-25 21:31:22",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 11 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
         "name": "金融",
@@ -130387,7 +130388,12 @@
       },
       {
         "name": "AI算力",
-        "score": 5,
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -130396,12 +130402,17 @@
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "新能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
@@ -130592,34 +130603,6 @@
         "noticeType": ""
       },
       {
-        "title": "波罗的海海岬型船运价指数下跌2.79%",
-        "summary": "波罗的海海岬型船运价指数下跌2.79%，至48,954美元。",
-        "publishedAt": "2026-09-25 20:03:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884316021.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "乌克兰多地遭袭 泽连斯基呼吁美欧落实对俄制裁",
-        "summary": "【乌克兰多地遭袭，泽连斯基呼吁美欧落实对俄制裁】据乌克兰方面9月25日消息，乌多地遭俄军空袭，造成人员伤亡。乌总统泽连斯基呼吁美欧落实对俄制裁措施。",
-        "publishedAt": "2026-09-25 19:58:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884315848.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "明阳智能:关于变更回购股份用途并注销的公告",
         "summary": "明阳智能(601615)：明阳智能:关于变更回购股份用途并注销的公告",
         "publishedAt": "2026-09-25",
@@ -130656,6 +130639,36 @@
         "noticeType": "股本变动"
       },
       {
+        "title": "曼恩斯特：固态电池领域 在多工序设备取得订单落地验证",
+        "summary": "【曼恩斯特：固态电池领域 在多工序设备取得订单落地验证】曼恩斯特在机构调研时表示，固态电池领域，公司已布局覆盖干法与湿法双路线、贯通粉体到极片全流程的整体解决方案，在新型陶瓷材料、双螺杆高效分散、超薄湿法涂层、活性物质与固态电解质双层共涂等技术均具有创新优势，在多工序设备取得订单落地验证，但相关设备的订单规模较小，尚未实现规模化应用。",
+        "publishedAt": "2026-09-25 21:18:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884323934.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "新能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中秋档票房已破亿 黑马竟是它",
+        "summary": "【中秋档票房已破亿 黑马竟是它】9月25日下午，2026年中秋档档期（9月25日—9月27日）票房突破1亿元。《复仇者联盟4：终局之战（加码臻享版）》《欢迎来龙餐馆》《八仙！》暂列中秋档票房榜前三位。",
+        "publishedAt": "2026-09-25 21:04:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609253884320879.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "高盛：美国AI巨头未来需实现3000亿美元年AI收入才能覆盖巨额投资",
         "summary": "【高盛：美国AI巨头未来需实现3000亿美元年AI收入才能覆盖巨额投资】9月25日消息，高盛表示，美国最大AI基础设施企业未来几年需要实现约3000亿美元年度AI收入，才能实现对大规模资本投入的盈亏平衡。",
         "publishedAt": "2026-09-25 20:35:35",
@@ -130686,17 +130699,17 @@
         "noticeType": ""
       },
       {
-        "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟国家就66亿欧元乌克兰资金达成条款",
-        "summary": "欧盟外交与安全政策高级代表卡拉斯表示，欧盟国家就66亿欧元乌克兰资金达成条款。",
-        "publishedAt": "2026-09-25 20:00:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609253884315997.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国截至9月23日美联储资产负债表(万亿美元)",
+        "summary": "美国截至9月23日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.8。",
+        "publishedAt": "2026-09-25 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -130787,8 +130800,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-25 20:51:57",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-09-25 21:31:22",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 11 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
@@ -130826,7 +130839,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-25 20:51:36",
+        "generatedAt": "2026-09-25 21:30:58",
         "summary": "上午情绪分 74，涨停 52 家，跌停 13 家，炸板 10 家，连板 13 家，最高 5 板。",
         "sections": [
           {
@@ -130865,7 +130878,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-25 20:51:36",
+        "generatedAt": "2026-09-25 21:30:58",
         "summary": "市场温度 中，情绪周期偏发酵。题材活跃，等分歧后的承接",
         "sections": [
           {
