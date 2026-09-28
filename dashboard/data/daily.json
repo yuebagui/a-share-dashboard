@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-29",
     "phase": "盘中快照",
-    "generatedAt": "2026-09-29 00:39:21",
+    "generatedAt": "2026-09-29 04:04:40",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -119199,7 +119199,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -119367,28 +119368,33 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-29",
-    "generatedAt": "2026-09-29 00:39:54",
+    "generatedAt": "2026-09-29 04:05:01",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 10,
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 7,
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -119429,27 +119435,11 @@
         "noticeType": "签订协议"
       },
       {
-        "title": "国际原油期货大幅跳水 美油、布油日内转跌",
-        "summary": "【国际原油期货大幅跳水 美油、布油日内转跌】国际原油期货大幅跳水，WTI原油期货价格跌0.08%，报92.338美元/桶，此前一度涨超4%；布伦特原油期货价格跌0.07%，报97.375美元/桶，此前一度涨近4%。消息面上，据报道，美国官员表示，特朗普已准备好放宽对伊朗的制裁，并解冻其被冻结资产，以换取伊核问题取得进展。",
-        "publishedAt": "2026-09-29 00:28:05",
+        "title": "美国总统特朗普表示，很快将赢得伊朗战争，油价将大幅下跌",
+        "summary": "美国总统特朗普表示，很快将赢得伊朗战争，油价将大幅下跌。",
+        "publishedAt": "2026-09-29 02:50:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293885580685.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国官员称特朗普已准备好放宽对伊朗的制裁",
-        "summary": "据报道，美国官员表示，美国继续通过中间人渠道与伊朗进行积极讨论；如果不解决核问题，将不会达成协议。特朗普已准备好放宽对伊朗的制裁，并解冻其被冻结资产，以换取伊核问题取得进展。",
-        "publishedAt": "2026-09-29 00:19:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293885579249.html",
+        "url": "https://finance.eastmoney.com/a/202609293885600476.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -119683,6 +119673,20 @@
         "tickers": [],
         "importance": 2,
         "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至9月27日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至9月27日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 72.0。",
+        "publishedAt": "2026-09-29 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
       }
     ]
   },
@@ -119779,8 +119783,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-29 00:39:54",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-09-29 04:05:01",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
@@ -119818,7 +119822,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-29 00:39:21",
+        "generatedAt": "2026-09-29 04:04:40",
         "summary": "上午情绪分 0，涨停 33 家，跌停 56 家，炸板 11 家，连板 7 家，最高 5 板。",
         "sections": [
           {
@@ -119857,7 +119861,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-29 00:39:21",
+        "generatedAt": "2026-09-29 04:04:40",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
