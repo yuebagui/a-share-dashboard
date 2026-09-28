@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-09-25",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-09-26 01:57:59",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-09-26 01:57:59",
+    "lastNewsAt": "2026-09-28 13:44:13"
   },
   "indices": [
     {
@@ -130370,30 +130372,25 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-25",
-    "generatedAt": "2026-09-26 01:58:16",
+    "tradeDate": "2026-09-28",
+    "generatedAt": "2026-09-28 13:44:13",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 11 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
         "name": "金融",
-        "score": 19,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -130405,219 +130402,116 @@
         "name": "半导体",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚事先告知书和行政监督管理措施事先告知书的公告",
-        "summary": "湘财股份(600095)：湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚事先告知书和行政监督管理措施事先告知书的公告",
-        "publishedAt": "2026-09-25",
+        "title": "盛新锂能:关于控股股东的一致行动人部分股份质押及解除质押的公告",
+        "summary": "盛新锂能(002240)：盛新锂能:关于控股股东的一致行动人部分股份质押及解除质押的公告",
+        "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600095/AN202609241829875273.html",
+        "url": "https://data.eastmoney.com/notices/detail/002240/AN202609271829937352.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [
-          "湘财股份(600095)"
-        ],
-        "importance": 1,
-        "noticeType": "处罚"
-      },
-      {
-        "title": "国盛证券:关于公司及相关当事人收到《行政处罚事先告知书》及《行政监管措施事先告知书》的公告",
-        "summary": "国盛证券(002670)：国盛证券:关于公司及相关当事人收到《行政处罚事先告知书》及《行政监管措施事先告知书》的公告",
-        "publishedAt": "2026-09-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002670/AN202609241829875057.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国盛证券(002670)"
-        ],
-        "importance": 1,
-        "noticeType": "处罚"
-      },
-      {
-        "title": "华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话事先告知书的公告",
-        "summary": "华林证券(002945)：华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话事先告知书的公告",
-        "publishedAt": "2026-09-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002945/AN202609241829875058.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华林证券(002945)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "源杰科技:陕西源杰半导体科技股份有限公司股东减持股份计划公告",
-        "summary": "源杰科技(688498)：源杰科技:陕西源杰半导体科技股份有限公司股东减持股份计划公告",
-        "publishedAt": "2026-09-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688498/AN202609241829874915.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [
-          "源杰科技(688498)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "新华文轩:新华文轩股票交易风险提示公告",
-        "summary": "新华文轩(601811)：新华文轩:新华文轩股票交易风险提示公告",
-        "publishedAt": "2026-09-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601811/AN202609241829872137.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新华文轩(601811)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "新华传媒:关于股票交易风险提示性公告",
-        "summary": "新华传媒(600825)：新华传媒:关于股票交易风险提示性公告",
-        "publishedAt": "2026-09-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600825/AN202609241829872126.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新华传媒(600825)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "长园集团:关于持股5%以上股东所持股份被轮候冻结的公告",
-        "summary": "长园集团(600525)：长园集团:关于持股5%以上股东所持股份被轮候冻结的公告",
-        "publishedAt": "2026-09-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600525/AN202609241829871685.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "长园集团(600525)"
+          "盛新锂能(002240)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "*ST利达:柯利达2026年第二次临时股东会会议资料",
-        "summary": "*ST利达(603828)：*ST利达:柯利达2026年第二次临时股东会会议资料",
-        "publishedAt": "2026-09-25",
+        "title": "ST同德:关于公司控股子公司诉讼事项的公告",
+        "summary": "ST同德(002360)：ST同德:关于公司控股子公司诉讼事项的公告",
+        "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603828/AN202609241829871656.html",
+        "url": "https://data.eastmoney.com/notices/detail/002360/AN202609271829937216.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST利达(603828)"
+          "ST同德(002360)"
         ],
         "importance": 1,
-        "noticeType": "股东大会资料"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "*ST利达:柯利达关于聘任会计师事务所的公告",
-        "summary": "*ST利达(603828)：*ST利达:柯利达关于聘任会计师事务所的公告",
-        "publishedAt": "2026-09-25",
+        "title": "*ST华西:关于控股子公司重大诉讼的进展公告",
+        "summary": "*ST华西(002630)：*ST华西:关于控股子公司重大诉讼的进展公告",
+        "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603828/AN202609241829871659.html",
+        "url": "https://data.eastmoney.com/notices/detail/002630/AN202609271829937173.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST利达(603828)"
+          "*ST华西(002630)"
         ],
         "importance": 1,
-        "noticeType": "审计机构变更"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "*ST利达:柯利达关于收到中国证券监督管理委员会江苏监管局《行政处罚决定书》的公告",
-        "summary": "*ST利达(603828)：*ST利达:柯利达关于收到中国证券监督管理委员会江苏监管局《行政处罚决定书》的公告",
-        "publishedAt": "2026-09-25",
+        "title": "威星智能:关于股票交易异常波动的公告",
+        "summary": "威星智能(002849)：威星智能:关于股票交易异常波动的公告",
+        "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603828/AN202609241829871658.html",
+        "url": "https://data.eastmoney.com/notices/detail/002849/AN202609271829937187.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "*ST利达(603828)"
+          "威星智能(002849)"
         ],
         "importance": 1,
-        "noticeType": "处罚"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "Meta Platforms的AI产品Muse被发现存在安全漏洞",
-        "summary": "【Meta Platforms的AI产品Muse被发现存在安全漏洞】据报道，Meta Platforms的AI产品Muse被发现存在安全漏洞，可能影响用户数据和虚拟环境安全，因此Meta准备加强风险提示。",
-        "publishedAt": "2026-09-26 01:55:22",
+        "title": "国家税务总局曝光 骗取出口退税多人获刑",
+        "summary": "【国家税务总局曝光 骗取出口退税多人获刑】国家税务总局集中曝光一批骗取出口退税案件，释放严监管信号。9月28日，国家税务总局曝光了5起骗取出口退税案件，涉案企业税款不仅面临补缴税款和罚款，相关负责人也遭到刑事追责。",
+        "publishedAt": "2026-09-28 13:14:28",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609263884349130.html",
+        "url": "https://finance.eastmoney.com/a/202609283885072443.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "明阳智能:关于变更回购股份用途并注销的公告",
-        "summary": "明阳智能(601615)：明阳智能:关于变更回购股份用途并注销的公告",
-        "publishedAt": "2026-09-25",
+        "title": "000811冰轮环境投资者关系管理信息20260928",
+        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20260928",
+        "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601615/AN202609241829872215.html",
+        "url": "https://data.eastmoney.com/notices/detail/000811/AN202609281829953571.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "明阳智能(601615)"
+          "冰轮环境(000811)"
         ],
         "importance": 1,
-        "noticeType": "回购方案修订"
+        "noticeType": "调研活动"
       },
       {
-        "title": "中际旭创:关于股份回购结果暨股份变动公告",
-        "summary": "中际旭创(300308)：中际旭创:关于股份回购结果暨股份变动公告",
-        "publishedAt": "2026-09-25",
+        "title": "恒玄科技:关于股份回购进展公告",
+        "summary": "恒玄科技(688608)：恒玄科技:关于股份回购进展公告",
+        "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202609241829871808.html",
+        "url": "https://data.eastmoney.com/notices/detail/688608/AN202609281829953317.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -130625,31 +130519,159 @@
           "金融"
         ],
         "tickers": [
-          "中际旭创(300308)"
+          "恒玄科技(688608)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "虹软科技:关于以集中竞价交易方式回购公司股份的进展公告",
+        "summary": "虹软科技(688088)：虹软科技:关于以集中竞价交易方式回购公司股份的进展公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688088/AN202609281829953282.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "虹软科技(688088)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "金盾股份:关于近期中标项目的公告",
+        "summary": "金盾股份(300411)：金盾股份:关于近期中标项目的公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300411/AN202609271829937621.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金盾股份(300411)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "本钢板材:本钢板材股份有限公司关于设立全资子公司的公告",
+        "summary": "本钢板材(000761)：本钢板材:本钢板材股份有限公司关于设立全资子公司的公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000761/AN202609271829937178.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "本钢板材(000761)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "盈新发展:2026年限制性股票激励计划自查表",
+        "summary": "盈新发展(000620)：盈新发展:2026年限制性股票激励计划自查表",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000620/AN202609271829937227.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盈新发展(000620)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "智微智能:关于向2026年股票期权激励计划激励对象授予预留部分(第一批)股票期权的公告",
+        "summary": "智微智能(001339)：智微智能:关于向2026年股票期权激励计划激励对象授予预留部分(第一批)股票期权的公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001339/AN202609271829937323.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "智微智能(001339)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "长缆科技:关于回购公司股份比例达到6%及回购结果暨股份变动的公告",
+        "summary": "长缆科技(002879)：长缆科技:关于回购公司股份比例达到6%及回购结果暨股份变动的公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002879/AN202609271829937272.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "长缆科技(002879)"
         ],
         "importance": 1,
         "noticeType": "股本变动"
       },
       {
-        "title": "周五美联储隔夜逆回购协议（RRP）使用规模为5.76亿美元",
-        "summary": "周五（9月25日），美联储隔夜逆回购协议（RRP）使用规模为5.76亿美元。",
-        "publishedAt": "2026-09-26 01:26:30",
+        "title": "摩根大通：强劲PMI数据与能源因素或是近期债券抛售主因",
+        "summary": "【摩根大通：强劲PMI数据与能源因素或是近期债券抛售主因】摩根大通策略师在报告中表示，最新一轮债券抛售反映了9月PMI数据强于预期，尤其是欧元区和美国，同时市场对能源相关消息较为敏感。策略师表示，围绕美国可能限制柴油出口的噪音又增添了一层不确定性。摩根大通建议投资者短期内对德国国债久期保持中性，不过策略师强调，对于能够承受短期波动的长期投资者而言，德国国债…",
+        "publishedAt": "2026-09-28 13:29:59",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609263884348810.html",
+        "url": "https://finance.eastmoney.com/a/202609283885100856.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至9月23日美联储资产负债表(万亿美元)",
-        "summary": "美国截至9月23日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.8。",
-        "publishedAt": "2026-09-25 04:30",
+        "title": "段永平发帖：买入3万股贵州茅台",
+        "summary": "【段永平发帖：买入3万股贵州茅台】知名投资人段永平今日发帖称：“买了点贵州茅台”。其发布的截图显示，买入了3万股。",
+        "publishedAt": "2026-09-28 13:26:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609283885093911.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "日本2年期国债收益率逼近2% 市场加大押注央行升息",
+        "summary": "【日本2年期国债收益率逼近2% 市场加大押注央行升息】日本2年期国债收益率逼近2%关口，投资者加大对日本央行进一步加息的押注。对货币政策预期较为敏感的该品种国债收益率周一上涨4个基点至1.975%，创下1995年以来的最高水平。其他期限国债也承压，其中5年期国债收益率上涨3个基点至2.43%。",
+        "publishedAt": "2026-09-28 13:20:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609283885086781.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中国8月规模以上工业企业利润年率-单月(%)",
+        "summary": "中国8月规模以上工业企业利润年率-单月(%)；公布 4.2，预期 nan，前值 11.2。",
+        "publishedAt": "2026-09-28 09:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -130661,9 +130683,9 @@
         "noticeType": ""
       },
       {
-        "title": "美国9月24日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月24日SPDR黄金持仓-每日更新(吨)；公布 1056.84，预期 nan，前值 1056.84。",
-        "publishedAt": "2026-09-25 06:30",
+        "title": "中国9月28日上期所每日仓单变动-铜(吨)",
+        "summary": "中国9月28日上期所每日仓单变动-铜(吨)；公布 nan，预期 nan，前值 -2468.0。",
+        "publishedAt": "2026-09-28 15:10",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -130672,36 +130694,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月24日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月24日iShares黄金持仓-每日更新(吨)；公布 464.2，预期 nan，前值 464.2。",
-        "publishedAt": "2026-09-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月24日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月24日iShares白银持仓-每日更新(吨)；公布 15361.83，预期 nan，前值 15350.6。",
-        "publishedAt": "2026-09-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -130781,7 +130773,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -130794,8 +130786,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-26 01:58:16",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 11 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-09-28 13:44:13",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
@@ -130898,7 +130890,7 @@
               "今日炸板 10 只，追高前先看前排封单和回封质量。",
               "今日跌停 13 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚事先告知书和行政监督管理措施事先告知书的公告；国盛证券:关于公司及相关当事人收到《行政处罚事先告知书》及《行政监管措施事先告知书》的公告。",
+              "新闻/公告风险：盛新锂能:关于控股股东的一致行动人部分股份质押及解除质押的公告；ST同德:关于公司控股子公司诉讼事项的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
