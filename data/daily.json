@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-28",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-28 18:04:12",
+    "generatedAt": "2026-09-28 18:10:35",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -130435,23 +130435,28 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-28",
-    "generatedAt": "2026-09-28 18:04:28",
+    "generatedAt": "2026-09-28 18:10:49",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、新能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 金融、医药、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 24,
+        "score": 16,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
+        "name": "医药",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 3,
         "isFocusBoard": false
       },
@@ -130468,86 +130473,87 @@
     ],
     "items": [
       {
-        "title": "西磁科技:股东减持股份结果公告",
-        "summary": "西磁科技(920061)：西磁科技:股东减持股份结果公告",
+        "title": "铜牛信息:关于公司银行基本账户部分资金解除冻结的公告",
+        "summary": "铜牛信息(300895)：铜牛信息:关于公司银行基本账户部分资金解除冻结的公告",
         "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920061/AN202609281829959900.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "西磁科技(920061)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "ST创意:关于控股股东部分股份办理质押的公告",
-        "summary": "ST创意(300366)：ST创意:关于控股股东部分股份办理质押的公告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300366/AN202609281829959860.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST创意(300366)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "七彩化学:关于公司实际控制人部分股份质押的公告",
-        "summary": "七彩化学(300758)：七彩化学:关于公司实际控制人部分股份质押的公告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300758/AN202609281829959592.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "七彩化学(300758)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "益客食品:关于延期回复深圳证券交易所关于公司申请向特定对象发行股票的审核问询函的公告",
-        "summary": "益客食品(301116)：益客食品:关于延期回复深圳证券交易所关于公司申请向特定对象发行股票的审核问询函的公告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301116/AN202609281829959535.html",
+        "url": "https://data.eastmoney.com/notices/detail/300895/AN202609281829961790.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
+          "有色稀土",
           "金融"
         ],
         "tickers": [
-          "益客食品(301116)"
+          "铜牛信息(300895)"
         ],
         "importance": 1,
-        "noticeType": "延期回复问询函公告"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "华凯易佰:关于股东部分股份质押的公告",
-        "summary": "华凯易佰(300592)：华凯易佰:关于股东部分股份质押的公告",
+        "title": "光线传媒:关于控股股东部分股份质押及解除质押的公告",
+        "summary": "光线传媒(300251)：光线传媒:关于控股股东部分股份质押及解除质押的公告",
         "publishedAt": "2026-09-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300592/AN202609281829959528.html",
+        "url": "https://data.eastmoney.com/notices/detail/300251/AN202609281829959919.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "华凯易佰(300592)"
+          "光线传媒(300251)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "海希通讯:内部控制整改进展暨股票可能被实施退市风险警示的风险提示公告",
+        "summary": "海希通讯(920405)：海希通讯:内部控制整改进展暨股票可能被实施退市风险警示的风险提示公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920405/AN202609281829961909.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "海希通讯(920405)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "ST佳缘:关于公司收到违规处理的公告",
+        "summary": "ST佳缘(301117)：ST佳缘:关于公司收到违规处理的公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301117/AN202609281829961874.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST佳缘(301117)"
+        ],
+        "importance": 1,
+        "noticeType": "违法违规"
+      },
+      {
+        "title": "关于上海新华传媒股份有限公司有关股价波动事项的监管工作函",
+        "summary": "新华传媒(600825)：关于上海新华传媒股份有限公司有关股价波动事项的监管工作函",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600825/AN202609281829961751.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "新华传媒(600825)"
+        ],
+        "importance": 1,
+        "noticeType": "上交所股票监管工作函"
       },
       {
         "title": "上交所向五连板新华传媒下发监管工作函",
@@ -130580,140 +130586,135 @@
         "noticeType": ""
       },
       {
-        "title": "金融监管总局 科技部等部门联合召开科技保险交流推进会 多方协同支持科技创新",
-        "summary": "【金融监管总局 科技部等部门联合召开科技保险交流推进会 多方协同支持科技创新】金融监管总局、科技部等部门联合召开科技保险交流推进会，总结地方和保险机构实践经验，部署下一步重点工作。",
-        "publishedAt": "2026-09-28 17:37:03",
+        "title": "美盈森:2026年9月28日投资者关系活动记录表",
+        "summary": "美盈森(002303)：美盈森:2026年9月28日投资者关系活动记录表",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002303/AN202609281829962113.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美盈森(002303)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "仟源医药:关于公司向银行申请并购贷款并接受关联方担保的公告",
+        "summary": "仟源医药(300254)：仟源医药:关于公司向银行申请并购贷款并接受关联方担保的公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300254/AN202609281829962127.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药",
+          "金融"
+        ],
+        "tickers": [
+          "仟源医药(300254)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "中谷物流:2026年半年度业绩说明会召开情况",
+        "summary": "中谷物流(603565)：中谷物流:2026年半年度业绩说明会召开情况",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603565/AN202609281829961855.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中谷物流(603565)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "上海电影:2026年半年度业绩说明会投资者关系活动记录表",
+        "summary": "上海电影(601595)：上海电影:2026年半年度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601595/AN202609281829961847.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "上海电影(601595)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "云南白药:2026年9月28日投资者关系活动记录表",
+        "summary": "云南白药(000538)：云南白药:2026年9月28日投资者关系活动记录表",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000538/AN202609281829961758.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "云南白药(000538)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "云南白药:2026年9月28日调研活动附件之投资者调研会议记录",
+        "summary": "云南白药(000538)：云南白药:2026年9月28日调研活动附件之投资者调研会议记录",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000538/AN202609281829961757.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "云南白药(000538)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "唯特偶:关于调整2026年股票期权与限制性股票激励计划相关事项的公告",
+        "summary": "唯特偶(301319)：唯特偶:关于调整2026年股票期权与限制性股票激励计划相关事项的公告",
+        "publishedAt": "2026-09-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301319/AN202609281829961662.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "唯特偶(301319)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "腾讯控股于9月28日回购227,000股",
+        "summary": "【腾讯控股于9月28日回购227,000股】腾讯控股于9月28日回购227,000股，耗资1.002亿港元。",
+        "publishedAt": "2026-09-28 18:04:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609283885275294.html",
+        "url": "https://finance.eastmoney.com/a/202609283885299844.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
-      },
-      {
-        "title": "渤海租赁:长城证券股份有限公司关于渤海租赁股份有限公司面向合格投资者公开发行公司债券临时受托管理事务报告",
-        "summary": "渤海租赁(000415)：渤海租赁:长城证券股份有限公司关于渤海租赁股份有限公司面向合格投资者公开发行公司债券临时受托管理事务报告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000415/AN202609281829959861.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "渤海租赁(000415)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "金宏气体:投资者关系活动记录表2026年9月23日-9月24日",
-        "summary": "金宏气体(688106)：金宏气体:投资者关系活动记录表2026年9月23日-9月24日",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688106/AN202609281829959601.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金宏气体(688106)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "辰奕智能:关于部分限制性股票回购注销完成的公告",
-        "summary": "辰奕智能(301578)：辰奕智能:关于部分限制性股票回购注销完成的公告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301578/AN202609281829959581.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "辰奕智能(301578)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "强瑞技术:关于2026年股票期权激励计划首次授予登记完成的公告",
-        "summary": "强瑞技术(301128)：强瑞技术:关于2026年股票期权激励计划首次授予登记完成的公告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301128/AN202609281829959587.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "强瑞技术(301128)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "艾芬达:回购股份报告书",
-        "summary": "艾芬达(301575)：艾芬达:回购股份报告书",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301575/AN202609281829959584.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "艾芬达(301575)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "宇信科技:关于与专业投资机构共同投资暨关联交易的进展公告",
-        "summary": "宇信科技(300674)：宇信科技:关于与专业投资机构共同投资暨关联交易的进展公告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300674/AN202609281829959536.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宇信科技(300674)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "同星科技:关于股份回购结果暨股份变动的公告",
-        "summary": "同星科技(301252)：同星科技:关于股份回购结果暨股份变动的公告",
-        "publishedAt": "2026-09-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301252/AN202609281829959529.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "同星科技(301252)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
       },
       {
         "title": "山姆回应“蛋糕上有蛆虫”",
@@ -130857,15 +130858,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-28 18:04:28",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、新能源、有色稀土。",
+        "generatedAt": "2026-09-28 18:10:49",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 金融、医药、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、新能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、医药、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -130896,7 +130897,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-28 18:04:12",
+        "generatedAt": "2026-09-28 18:10:35",
         "summary": "上午情绪分 0，涨停 33 家，跌停 56 家，炸板 11 家，连板 7 家，最高 5 板。",
         "sections": [
           {
@@ -130935,7 +130936,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-28 18:04:12",
+        "generatedAt": "2026-09-28 18:10:35",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -130961,7 +130962,7 @@
               "今日炸板 11 只，追高前先看前排封单和回封质量。",
               "今日跌停 56 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：西磁科技:股东减持股份结果公告；ST创意:关于控股股东部分股份办理质押的公告。",
+              "新闻/公告风险：铜牛信息:关于公司银行基本账户部分资金解除冻结的公告；光线传媒:关于控股股东部分股份质押及解除质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
