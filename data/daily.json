@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-09-29",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-09-29 22:45:40",
+    "tradeDate": "2026-09-30",
+    "phase": "盘中快照",
+    "generatedAt": "2026-09-30 02:32:30",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -125310,45 +125310,93 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-09-29",
-    "generatedAt": "2026-09-29 22:46:57",
+    "tradeDate": "2026-09-30",
+    "generatedAt": "2026-09-30 02:33:27",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 11,
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 6,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
+        "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "AI算力",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "科达自控:关于拟申请银行授信追加资产质押的公告",
-        "summary": "科达自控(920932)：科达自控:关于拟申请银行授信追加资产质押的公告",
-        "publishedAt": "2026-09-29",
+        "title": "杰普特:关于深圳市杰普特光电股份有限公司2026年度向特定对象发行A股股票申请文件的审核问询回复",
+        "summary": "杰普特(688025)：杰普特:关于深圳市杰普特光电股份有限公司2026年度向特定对象发行A股股票申请文件的审核问询回复",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920932/AN202609291829998942.html",
+        "url": "https://data.eastmoney.com/notices/detail/688025/AN202609291830008243.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "杰普特(688025)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "杰普特:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "杰普特(688025)：杰普特:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688025/AN202609291830008245.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "杰普特(688025)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "杰普特:致同会计师事务所(特殊普通合伙)关于深圳市杰普特光电股份有限公司向特定对象发行股票申请文件的审核问询函的回复",
+        "summary": "杰普特(688025)：杰普特:致同会计师事务所(特殊普通合伙)关于深圳市杰普特光电股份有限公司向特定对象发行股票申请文件的审核问询函的回复",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688025/AN202609291830008241.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "杰普特(688025)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "科森科技:关于收到上海证券交易所《关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函》的公告",
+        "summary": "科森科技(603626)：科森科技:关于收到上海证券交易所《关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函》的公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603626/AN202609291830006988.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -125356,33 +125404,35 @@
           "金融"
         ],
         "tickers": [
-          "科达自控(920932)"
+          "科森科技(603626)"
         ],
         "importance": 1,
-        "noticeType": "借贷"
+        "noticeType": "对外项目投资"
       },
       {
-        "title": "关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函",
-        "summary": "科森科技(603626)：关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函",
-        "publishedAt": "2026-09-29",
+        "title": "科森科技:关于最近五年被证券监管部门和交易所采取处罚或监管措施的公告",
+        "summary": "科森科技(603626)：科森科技:关于最近五年被证券监管部门和交易所采取处罚或监管措施的公告",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603626/AN202609291830007673.html",
+        "url": "https://data.eastmoney.com/notices/detail/603626/AN202609291830006582.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
           "科森科技(603626)"
         ],
         "importance": 1,
-        "noticeType": "问询函"
+        "noticeType": "处罚"
       },
       {
-        "title": "上海证券交易所并购重组审核委员会2026年第18次审议会议结果公告",
-        "summary": "*ST禾信(688622)：上海证券交易所并购重组审核委员会2026年第18次审议会议结果公告",
-        "publishedAt": "2026-09-29",
+        "title": "*ST禾信:广州禾信仪器股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得上海证券交易所并购重组审核委员会审核通过的公告",
+        "summary": "*ST禾信(688622)：*ST禾信:广州禾信仪器股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得上海证券交易所并购重组审核委员会审核通过的公告",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688622/AN202609291830005005.html",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202609291830006303.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -125393,32 +125443,46 @@
           "*ST禾信(688622)"
         ],
         "importance": 1,
-        "noticeType": "上交所并购重组委会议结果公告"
+        "noticeType": "增发获准公告"
       },
       {
-        "title": "光莆股份:关于以集中竞价方式出售已回购股份的预披露公告",
-        "summary": "光莆股份(300632)：光莆股份:关于以集中竞价方式出售已回购股份的预披露公告",
-        "publishedAt": "2026-09-29",
+        "title": "ST晨鸣:第十一届董事会第三次临时会议决议公告",
+        "summary": "ST晨鸣(000488)：ST晨鸣:第十一届董事会第三次临时会议决议公告",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300632/AN202609291830004121.html",
+        "url": "https://data.eastmoney.com/notices/detail/000488/AN202609291830005317.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "光莆股份(300632)"
+          "ST晨鸣(000488)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "董事会决议公告"
       },
       {
-        "title": "微软股价转涨0.5% 此前一度下跌1.3%",
-        "summary": "微软股价转涨0.5%，此前一度下跌1.3%。",
-        "publishedAt": "2026-09-29 22:30:32",
+        "title": "ST晨鸣:关于获得控股股东债务豁免暨关联交易的公告",
+        "summary": "ST晨鸣(000488)：ST晨鸣:关于获得控股股东债务豁免暨关联交易的公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000488/AN202609291830005321.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST晨鸣(000488)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
+      },
+      {
+        "title": "巴克莱：若生产率增长持续加快 美国30年期国债收益率或升至6%",
+        "summary": "【巴克莱：若生产率增长持续加快 美国30年期国债收益率或升至6%】巴克莱资本(BarclaysCapital)美国利率研究主管在报告中表示，美国30年期国债收益率有升至6%的空间，因为本月美债市场的抛售尚未计入生产率增速持续上升的风险。报告称，如果结果是生产率增长持续加速，“美联储就没有那么多理由将政策利率降回目前远期曲线所反映的水平”，投资者也“需要上调…",
+        "publishedAt": "2026-09-30 02:21:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293886784947.html",
+        "url": "https://finance.eastmoney.com/a/202609303886847745.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -125428,107 +125492,103 @@
         "noticeType": ""
       },
       {
-        "title": "吉峰科技:关于下属全资子公司投资设立全资子公司并完成工商注册登记的公告",
-        "summary": "吉峰科技(300022)：吉峰科技:关于下属全资子公司投资设立全资子公司并完成工商注册登记的公告",
-        "publishedAt": "2026-09-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300022/AN202609291829994874.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "美联储古尔斯比：油价可能会相对快速下跌",
+        "summary": "美联储古尔斯比表示，油价可能会相对快速下跌，但更深层次的问题是如何让炼油厂恢复运营。",
+        "publishedAt": "2026-09-30 01:51:59",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609303886845931.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "吉峰科技(300022)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "公司关联方基本资料变更"
+        "noticeType": ""
       },
       {
-        "title": "300951博硕科技投资者关系管理信息20260929",
-        "summary": "博硕科技(300951)：300951博硕科技投资者关系管理信息20260929",
-        "publishedAt": "2026-09-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300951/AN202609291830006807.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博硕科技(300951)"
+        "title": "胡塞武装称沙特空袭也门多省通信设施和学校",
+        "summary": "【胡塞武装称沙特空袭也门多省通信设施和学校】也门胡塞武装当地时间9月29日晚发表声明称，过去24小时沙特通过F15和台风战机空袭了胡塞武装控制下的也门多个省份的通信设施和学校。自本轮冲突升级以来，沙特对也门胡塞武装控制区已经进行了1158次空袭和导弹袭击。",
+        "publishedAt": "2026-09-30 01:47:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609303886845395.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "军工"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "赛微电子:2026年限制性股票激励计划(草案)摘要",
-        "summary": "赛微电子(300456)：赛微电子:2026年限制性股票激励计划(草案)摘要",
-        "publishedAt": "2026-09-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300456/AN202609291830005446.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "美联储穆萨莱姆：美联储应避免在没有明确框架的情况下退出沟通 否则市场可能无法理解其政策和行动",
+        "summary": "【美联储穆萨莱姆：美联储应避免在没有明确框架的情况下退出沟通 否则市场可能无法理解其政策和行动】美联储穆萨莱姆表示，美联储应避免在没有明确框架的情况下退出沟通，否则市场可能无法理解其政策和行动；也应避免“退出对话”，因为这可能带来通胀风险。一个可预测、透明的政策框架，是央行获得民主合法性的重要组成部分。如果公众理解这一框架，私人部门预期就会与美联储的政策意…",
+        "publishedAt": "2026-09-30 01:33:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609303886844046.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "赛微电子(300456)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股权激励计划摘要"
+        "noticeType": ""
       },
       {
-        "title": "赛微电子:2026年限制性股票激励计划自查表",
-        "summary": "赛微电子(300456)：赛微电子:2026年限制性股票激励计划自查表",
-        "publishedAt": "2026-09-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300456/AN202609291830005441.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "赛微电子(300456)"
+        "title": "美联储古尔斯比表示：对未来人工智能生产力提升的预期现在带来了过热的高风险",
+        "summary": "美联储古尔斯比表示，对未来人工智能生产力提升的预期现在带来了过热的高风险。",
+        "publishedAt": "2026-09-30 01:30:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609303886843938.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": ""
       },
       {
-        "title": "赛微电子:2026年限制性股票激励计划(草案)",
-        "summary": "赛微电子(300456)：赛微电子:2026年限制性股票激励计划(草案)",
-        "publishedAt": "2026-09-29",
+        "title": "科森科技:关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "科森科技(603626)：科森科技:关于2026年度向特定对象发行A股股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300456/AN202609291830005443.html",
+        "url": "https://data.eastmoney.com/notices/detail/603626/AN202609291830006583.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "赛微电子(300456)"
+          "科森科技(603626)"
         ],
         "importance": 1,
-        "noticeType": "股权激励计划"
+        "noticeType": "获得补贴（资助）"
       },
       {
-        "title": "多浦乐:关于参与认购基金份额暨对外投资的公告",
-        "summary": "多浦乐(301528)：多浦乐:关于参与认购基金份额暨对外投资的公告",
-        "publishedAt": "2026-09-29",
+        "title": "科森科技:关于对外投资暨购买资产的公告",
+        "summary": "科森科技(603626)：科森科技:关于对外投资暨购买资产的公告",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301528/AN202609291830004188.html",
+        "url": "https://data.eastmoney.com/notices/detail/603626/AN202609291830006586.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "多浦乐(301528)"
+          "科森科技(603626)"
         ],
         "importance": 1,
         "noticeType": "对外项目投资"
       },
       {
-        "title": "天亿马:国泰海通证券股份有限公司关于广东天亿马信息产业股份有限公司本次交易方案调整不构成重组方案重大调整的核查意见",
-        "summary": "天亿马(301178)：天亿马:国泰海通证券股份有限公司关于广东天亿马信息产业股份有限公司本次交易方案调整不构成重组方案重大调整的核查意见",
-        "publishedAt": "2026-09-29",
+        "title": "科森科技:关于向银行申请并购贷款的公告",
+        "summary": "科森科技(603626)：科森科技:关于向银行申请并购贷款的公告",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301178/AN202609291830004166.html",
+        "url": "https://data.eastmoney.com/notices/detail/603626/AN202609291830006589.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -125536,101 +125596,43 @@
           "金融"
         ],
         "tickers": [
-          "天亿马(301178)"
+          "科森科技(603626)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "借贷"
       },
       {
-        "title": "天亿马:关于与关联方共同投资设立合资公司暨关联交易的公告",
-        "summary": "天亿马(301178)：天亿马:关于与关联方共同投资设立合资公司暨关联交易的公告",
-        "publishedAt": "2026-09-29",
+        "title": "永和股份:浙江永和制冷股份有限公司关于变更回购股份用途并注销暨减少注册资本、修订《公司章程》的公告",
+        "summary": "永和股份(605020)：永和股份:浙江永和制冷股份有限公司关于变更回购股份用途并注销暨减少注册资本、修订《公司章程》的公告",
+        "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301178/AN202609291830004171.html",
+        "url": "https://data.eastmoney.com/notices/detail/605020/AN202609291830005999.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "天亿马(301178)"
+          "永和股份(605020)"
         ],
         "importance": 1,
-        "noticeType": "投资设立公司"
+        "noticeType": "公司注册资本变更"
       },
       {
-        "title": "纽约期金突破4200美元/盎司",
-        "summary": "【纽约期金突破4200美元/盎司】纽约期金突破4200美元/盎司，日内涨0.76%。",
-        "publishedAt": "2026-09-29 22:08:50",
+        "title": "美联储威廉姆斯：人工智能投资问题正日益成为影响通胀的重要因素",
+        "summary": "美联储威廉姆斯称，人工智能投资问题正日益成为影响通胀的重要因素。",
+        "publishedAt": "2026-09-30 02:03:14",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293886761214.html",
+        "url": "https://finance.eastmoney.com/a/202609303886847472.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月28日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月28日iShares白银持仓-每日更新(吨)；公布 15364.64，预期 nan，前值 15378.69。",
-        "publishedAt": "2026-09-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月28日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月28日SPDR黄金持仓-每日更新(吨)；公布 1058.83，预期 nan，前值 1054.55。",
-        "publishedAt": "2026-09-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月25日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月25日COMEX黄金库存-每日更新(百盎司)；公布 233879.89，预期 nan，前值 233563.26。",
-        "publishedAt": "2026-09-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月28日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月28日iShares黄金持仓-每日更新(吨)；公布 462.91，预期 nan，前值 463.2。",
-        "publishedAt": "2026-09-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -125694,7 +125696,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -125707,15 +125709,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-29 22:46:57",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-09-30 02:33:27",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：元件、房地产、华为概念；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -125746,7 +125748,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-29 22:45:40",
+        "generatedAt": "2026-09-30 02:32:30",
         "summary": "上午情绪分 93，涨停 57 家，跌停 10 家，炸板 8 家，连板 10 家，最高 6 板。",
         "sections": [
           {
@@ -125785,7 +125787,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-29 22:45:40",
+        "generatedAt": "2026-09-30 02:32:30",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -125811,7 +125813,7 @@
               "今日炸板 8 只，追高前先看前排封单和回封质量。",
               "今日跌停 10 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 华为概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：科达自控:关于拟申请银行授信追加资产质押的公告；关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函。",
+              "新闻/公告风险：杰普特:关于深圳市杰普特光电股份有限公司2026年度向特定对象发行A股股票申请文件的审核问询回复；杰普特:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
