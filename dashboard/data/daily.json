@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-29",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-29 22:11:09",
+    "generatedAt": "2026-09-29 22:45:40",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -125146,7 +125146,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -125310,24 +125311,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-29",
-    "generatedAt": "2026-09-29 22:12:33",
+    "generatedAt": "2026-09-29 22:46:57",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 有色稀土、金融、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 12,
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 8,
+        "score": 11,
         "isFocusBoard": false
       },
       {
@@ -125336,17 +125332,12 @@
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
@@ -125369,6 +125360,22 @@
         ],
         "importance": 1,
         "noticeType": "借贷"
+      },
+      {
+        "title": "关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函",
+        "summary": "科森科技(603626)：关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函",
+        "publishedAt": "2026-09-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603626/AN202609291830007673.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "科森科技(603626)"
+        ],
+        "importance": 1,
+        "noticeType": "问询函"
       },
       {
         "title": "上海证券交易所并购重组审核委员会2026年第18次审议会议结果公告",
@@ -125407,51 +125414,15 @@
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "新雷能:关于特定股东减持股份的预披露公告",
-        "summary": "新雷能(300593)：新雷能:关于特定股东减持股份的预披露公告",
-        "publishedAt": "2026-09-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300593/AN202609291830004036.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "微软股价转涨0.5% 此前一度下跌1.3%",
+        "summary": "微软股价转涨0.5%，此前一度下跌1.3%。",
+        "publishedAt": "2026-09-29 22:30:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609293886784947.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "新雷能(300593)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "费城半导体指数涨幅扩大至2% ARM股价上涨6%",
-        "summary": "【费城半导体指数涨幅扩大至2% ARM股价上涨6%】费城半导体指数涨2%，报12715.93点。英伟达股价上涨0.58%，台积电股价下跌0.66%，博通股价上涨2.78%，SK海力士股价上涨2.03%，美光科技股价上涨1.87%，超威半导体股价上涨2.5%，阿斯麦股价上涨2.27%，英特尔股价上涨0.34%，泛林集团股价上涨3.12%，ARM股价上涨5.8…",
-        "publishedAt": "2026-09-29 21:57:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293886735290.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "费城半导体指数开盘涨1.7%",
-        "summary": "【费城半导体指数开盘涨1.7%】费城半导体指数开盘涨1.7%，英伟达股价上涨1.05%，台积电股价下跌0.82%，博通股价上涨2.39%，SK海力士股价上涨1.78%，美光科技股价上涨1.84%，超威半导体股价上涨0.87%，阿斯麦股价上涨2.05%，英特尔股价上涨0.78%，泛林集团股价上涨2.96%，ARM股价上涨2.48%，闪迪股价上涨1.36%。",
-        "publishedAt": "2026-09-29 21:31:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293886686448.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -125587,27 +125558,11 @@
         "noticeType": "投资设立公司"
       },
       {
-        "title": "科森科技：拟定增募资不超11.02亿元 用于收购液冷精密金属结构件企业展固科技53.26%股权等",
-        "summary": "【科森科技：拟定增募资不超11.02亿元 用于收购液冷精密金属结构件企业展固科技53.26%股权等】科森科技(603626.SH)公告称，公司拟向不超过35名特定投资者发行A股股票，募集资金总额不超过11.02亿元，用于收购惠州展固科技53.26%股权、机器人与智能终端精密结构件及模组制造项目(一期)及补充流动资金。",
-        "publishedAt": "2026-09-29 21:37:10",
+        "title": "纽约期金突破4200美元/盎司",
+        "summary": "【纽约期金突破4200美元/盎司】纽约期金突破4200美元/盎司，日内涨0.76%。",
+        "publishedAt": "2026-09-29 22:08:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293886708969.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "机器人"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "房贷贴息来了 一图看懂政策要点",
-        "summary": "【房贷贴息来了 一图看懂政策要点】三部委宣布，从10月1日起，对符合条件的居民购房实施年化1个百分点贷款贴息。这是我国第一次对居民房贷实施贴息。",
-        "publishedAt": "2026-09-29 21:23:18",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609293886682444.html",
+        "url": "https://finance.eastmoney.com/a/202609293886761214.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -125633,6 +125588,38 @@
       {
         "title": "美国9月28日SPDR黄金持仓-每日更新(吨)",
         "summary": "美国9月28日SPDR黄金持仓-每日更新(吨)；公布 1058.83，预期 nan，前值 1054.55。",
+        "publishedAt": "2026-09-29 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月25日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国9月25日COMEX黄金库存-每日更新(百盎司)；公布 233879.89，预期 nan，前值 233563.26。",
+        "publishedAt": "2026-09-29 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月28日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国9月28日iShares黄金持仓-每日更新(吨)；公布 462.91，预期 nan，前值 463.2。",
         "publishedAt": "2026-09-29 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -125720,15 +125707,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-29 22:12:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 有色稀土、金融、半导体。",
+        "generatedAt": "2026-09-29 22:46:57",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：元件、房地产、华为概念；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -125759,7 +125746,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-29 22:11:09",
+        "generatedAt": "2026-09-29 22:45:40",
         "summary": "上午情绪分 93，涨停 57 家，跌停 10 家，炸板 8 家，连板 10 家，最高 6 板。",
         "sections": [
           {
@@ -125798,7 +125785,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-29 22:11:09",
+        "generatedAt": "2026-09-29 22:45:40",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -125824,7 +125811,7 @@
               "今日炸板 8 只，追高前先看前排封单和回封质量。",
               "今日跌停 10 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 华为概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：科达自控:关于拟申请银行授信追加资产质押的公告；上海证券交易所并购重组审核委员会2026年第18次审议会议结果公告。",
+              "新闻/公告风险：科达自控:关于拟申请银行授信追加资产质押的公告；关于昆山科森科技股份有限公司对外投资暨购买资产相关事项的监管问询函。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
