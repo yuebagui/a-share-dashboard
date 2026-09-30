@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-30",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-30 17:55:44",
+    "generatedAt": "2026-09-30 18:00:33",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -125197,34 +125197,39 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-30",
-    "generatedAt": "2026-09-30 17:56:53",
+    "generatedAt": "2026-09-30 18:01:48",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 1 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 21,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
+        "name": "金融",
         "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 3,
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -125239,6 +125244,54 @@
       }
     ],
     "items": [
+      {
+        "title": "值得买:北京值得买科技股份有限公司持股5%以上股东、董事、高级管理人员减持股份触及1%整数倍的公告",
+        "summary": "值得买(300785)：值得买:北京值得买科技股份有限公司持股5%以上股东、董事、高级管理人员减持股份触及1%整数倍的公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300785/AN202609301830049036.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "值得买(300785)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "百瑞吉:股票交易异常波动公告",
+        "summary": "百瑞吉(920201)：百瑞吉:股票交易异常波动公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920201/AN202609301830049015.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "百瑞吉(920201)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "熙菱信息:关于控股股东部分股份质押的公告",
+        "summary": "熙菱信息(300588)：熙菱信息:关于控股股东部分股份质押的公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300588/AN202609301830048775.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "熙菱信息(300588)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
       {
         "title": "英国央行行长贝利：在监管前需要对AI模型进行部署前后的更多测试",
         "summary": "【英国央行行长贝利：在监管前需要对AI模型进行部署前后的更多测试】英国央行行长贝利表示，在监管前，需要对AI模型进行部署前后的更多测试。",
@@ -125256,6 +125309,136 @@
         "noticeType": ""
       },
       {
+        "title": "奥尼电子:关于全资子公司签署日常经营重大合同的公告",
+        "summary": "奥尼电子(301189)：奥尼电子:关于全资子公司签署日常经营重大合同的公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301189/AN202609301830049037.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "奥尼电子(301189)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "金石资源:投资者关系活动记录表(2026年9月)",
+        "summary": "金石资源(603505)：金石资源:投资者关系活动记录表(2026年9月)",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603505/AN202609301830048801.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金石资源(603505)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "锴威特:苏州锴威特半导体股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
+        "summary": "锴威特(688693)：锴威特:苏州锴威特半导体股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688693/AN202609301830048802.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [
+          "锴威特(688693)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "浙江东日:-浙江东日:2026年半年度业绩说明会投资者关系活动记录表",
+        "summary": "浙江东日(600113)：浙江东日:-浙江东日:2026年半年度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600113/AN202609301830048790.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "浙江东日(600113)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "小商品城:投资者关系活动记录表(20260930)",
+        "summary": "小商品城(600415)：小商品城:投资者关系活动记录表(20260930)",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600415/AN202609301830048788.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "小商品城(600415)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "肯特催化:投资者关系活动记录表20260930",
+        "summary": "肯特催化(603120)：肯特催化:投资者关系活动记录表20260930",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603120/AN202609301830048789.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "肯特催化(603120)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "埃斯顿:2026年8月24日-9月29日投资者关系活动记录表",
+        "summary": "埃斯顿(002747)：埃斯顿:2026年8月24日-9月29日投资者关系活动记录表",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002747/AN202609301830048619.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "埃斯顿(002747)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "移远通信:投资者关系活动记录表2026年9月",
+        "summary": "移远通信(603236)：移远通信:投资者关系活动记录表2026年9月",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603236/AN202609301830048266.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "移远通信(603236)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
         "title": "汉邦高科:关于召开终止发行股份购买资产并募集配套资金事项投资者说明会的公告",
         "summary": "汉邦高科(300449)：汉邦高科:关于召开终止发行股份购买资产并募集配套资金事项投资者说明会的公告",
         "publishedAt": "2026-09-30",
@@ -125270,194 +125453,6 @@
         ],
         "importance": 1,
         "noticeType": "增发终止"
-      },
-      {
-        "title": "南方乳业:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "summary": "南方乳业(920196)：南方乳业:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920196/AN202609301830048119.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "南方乳业(920196)"
-        ],
-        "importance": 1,
-        "noticeType": "首发发行结果公告"
-      },
-      {
-        "title": "节能铁汉:关于筹划重大资产重组暨关联交易的进展公告",
-        "summary": "节能铁汉(300197)：节能铁汉:关于筹划重大资产重组暨关联交易的进展公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300197/AN202609301830048113.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "节能铁汉(300197)"
-        ],
-        "importance": 1,
-        "noticeType": "重组进展公告"
-      },
-      {
-        "title": "欢乐家:中信证券股份有限公司关于欢乐家食品集团股份有限公司股东向特定机构投资者询价转让股份的核查报告",
-        "summary": "欢乐家(300997)：欢乐家:中信证券股份有限公司关于欢乐家食品集团股份有限公司股东向特定机构投资者询价转让股份的核查报告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300997/AN202609301830048114.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "欢乐家(300997)"
-        ],
-        "importance": 1,
-        "noticeType": "询价转让核查报告/意见"
-      },
-      {
-        "title": "巨能股份:关于使用自有闲置资金购买理财产品进展的公告",
-        "summary": "巨能股份(920578)：巨能股份:关于使用自有闲置资金购买理财产品进展的公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920578/AN202609301830048077.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "巨能股份(920578)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "天马新材:对外投资设立全资子公司并取得营业执照的公告",
-        "summary": "天马新材(920971)：天马新材:对外投资设立全资子公司并取得营业执照的公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920971/AN202609301830047561.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天马新材(920971)"
-        ],
-        "importance": 1,
-        "noticeType": "公司关联方基本资料变更"
-      },
-      {
-        "title": "灿能电力:关于使用闲置自有资金购买理财产品的进展公告",
-        "summary": "灿能电力(920299)：灿能电力:关于使用闲置自有资金购买理财产品的进展公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920299/AN202609301830047560.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "灿能电力(920299)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "北方长龙:中信证券股份有限公司关于北方长龙新材料技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
-        "summary": "北方长龙(301357)：北方长龙:中信证券股份有限公司关于北方长龙新材料技术股份有限公司股东向特定机构投资者询价转让股份的核查报告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301357/AN202609301830047552.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "北方长龙(301357)"
-        ],
-        "importance": 1,
-        "noticeType": "询价转让核查报告/意见"
-      },
-      {
-        "title": "洲明科技:关于首次回购公司股份的进展公告",
-        "summary": "洲明科技(300232)：洲明科技:关于首次回购公司股份的进展公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300232/AN202609301830047553.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "洲明科技(300232)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "海南机场:海南机场设施股份有限公司2026年第三季度投资者关系活动事项纪要",
-        "summary": "海南机场(600515)：海南机场:海南机场设施股份有限公司2026年第三季度投资者关系活动事项纪要",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600515/AN202609301830047220.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海南机场(600515)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "海南机场:海南机场设施股份有限公司投资者关系活动记录表(2026年9月2日—9月30日)",
-        "summary": "海南机场(600515)：海南机场:海南机场设施股份有限公司投资者关系活动记录表(2026年9月2日—9月30日)",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600515/AN202609301830047222.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海南机场(600515)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "派克新材:2026年半年度业绩暨现金分红说明会投资者关系活动记录表",
-        "summary": "派克新材(605123)：派克新材:2026年半年度业绩暨现金分红说明会投资者关系活动记录表",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605123/AN202609301830047221.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "派克新材(605123)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
       },
       {
         "title": "澜起科技：截至9月30日已累计回购208.8万股 金额约4.1亿元",
@@ -125637,15 +125632,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-30 17:56:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 1 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-09-30 18:01:48",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -125676,7 +125671,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-30 17:55:44",
+        "generatedAt": "2026-09-30 18:00:33",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -125715,7 +125710,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-30 17:55:44",
+        "generatedAt": "2026-09-30 18:00:33",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -125741,7 +125736,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：英国央行行长贝利：在监管前需要对AI模型进行部署前后的更多测试。",
+              "新闻/公告风险：值得买:北京值得买科技股份有限公司持股5%以上股东、董事、高级管理人员减持股份触及1%整数倍的公告；百瑞吉:股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
