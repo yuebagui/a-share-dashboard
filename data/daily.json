@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-09-30",
     "phase": "盘后复盘",
-    "generatedAt": "2026-09-30 18:00:33",
+    "generatedAt": "2026-09-30 22:00:13",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120446,7 +120446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -120610,19 +120611,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-09-30",
-    "generatedAt": "2026-09-30 18:01:48",
+    "generatedAt": "2026-09-30 22:01:37",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 11,
+        "name": "金融",
+        "score": 10,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 6,
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 8,
         "isFocusBoard": false
       },
       {
@@ -120636,81 +120642,100 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "汽车链",
         "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "值得买:北京值得买科技股份有限公司持股5%以上股东、董事、高级管理人员减持股份触及1%整数倍的公告",
-        "summary": "值得买(300785)：值得买:北京值得买科技股份有限公司持股5%以上股东、董事、高级管理人员减持股份触及1%整数倍的公告",
+        "title": "*ST田野:关于公司股票退市相关风险的风险提示公告",
+        "summary": "*ST田野(920023)：*ST田野:关于公司股票退市相关风险的风险提示公告",
         "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300785/AN202609301830049036.html",
+        "url": "https://data.eastmoney.com/notices/detail/920023/AN202609301830050486.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "值得买(300785)"
+          "*ST田野(920023)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "*ST建艺:关于公开招募和遴选投资人的公告",
+        "summary": "*ST建艺(002789)：*ST建艺:关于公开招募和遴选投资人的公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002789/AN202609301830055564.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST建艺(002789)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST天喻:关于控股股东股份司法拍卖流拍的公告",
+        "summary": "*ST天喻(300205)：*ST天喻:关于控股股东股份司法拍卖流拍的公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300205/AN202609301830055560.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST天喻(300205)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "长城证券:关于持股5%以上股东减持股份的预披露公告",
+        "summary": "长城证券(002939)：长城证券:关于持股5%以上股东减持股份的预披露公告",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002939/AN202609301830055099.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "长城证券(002939)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "百瑞吉:股票交易异常波动公告",
-        "summary": "百瑞吉(920201)：百瑞吉:股票交易异常波动公告",
+        "title": "塔牌集团:关于持股5%以上的股东部分股份解除质押和再质押的公告",
+        "summary": "塔牌集团(002233)：塔牌集团:关于持股5%以上的股东部分股份解除质押和再质押的公告",
         "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920201/AN202609301830049015.html",
+        "url": "https://data.eastmoney.com/notices/detail/002233/AN202609301830055013.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "百瑞吉(920201)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "熙菱信息:关于控股股东部分股份质押的公告",
-        "summary": "熙菱信息(300588)：熙菱信息:关于控股股东部分股份质押的公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300588/AN202609301830048775.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "熙菱信息(300588)"
+          "塔牌集团(002233)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "英国央行行长贝利：在监管前需要对AI模型进行部署前后的更多测试",
-        "summary": "【英国央行行长贝利：在监管前需要对AI模型进行部署前后的更多测试】英国央行行长贝利表示，在监管前，需要对AI模型进行部署前后的更多测试。",
-        "publishedAt": "2026-09-30 17:36:35",
+        "title": "美国联邦贸易委员会据悉正在对Anthropic和OpenAI加大调查力度",
+        "summary": "【美国联邦贸易委员会据悉正在对Anthropic和OpenAI加大调查力度】9月30日，据报道，美国联邦贸易委员会（FTC）正在加大对Anthropic、OpenAI及其他前沿AI实验室的全面调查力度，以查明其技术可能给消费者带来的潜在风险。报道称，该机构目前正在起草民事调查令，以迫使这些领先企业的高管进行作证。",
+        "publishedAt": "2026-09-30 21:50:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609303887790394.html",
+        "url": "https://finance.eastmoney.com/a/202609303887907880.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -120722,99 +120747,51 @@
         "noticeType": ""
       },
       {
-        "title": "奥尼电子:关于全资子公司签署日常经营重大合同的公告",
-        "summary": "奥尼电子(301189)：奥尼电子:关于全资子公司签署日常经营重大合同的公告",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301189/AN202609301830049037.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "奥尼电子(301189)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "金石资源:投资者关系活动记录表(2026年9月)",
-        "summary": "金石资源(603505)：金石资源:投资者关系活动记录表(2026年9月)",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603505/AN202609301830048801.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金石资源(603505)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "锴威特:苏州锴威特半导体股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
-        "summary": "锴威特(688693)：锴威特:苏州锴威特半导体股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688693/AN202609301830048802.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "土耳其主要BIST-100指数下跌2.7%",
+        "summary": "【土耳其主要BIST-100指数下跌2.7%】土耳其主要BIST-100指数下跌2.7%，主要银行指数下跌5.1%。",
+        "publishedAt": "2026-09-30 21:34:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609303887900023.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
-          "半导体"
+          "金融"
         ],
-        "tickers": [
-          "锴威特(688693)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "浙江东日:-浙江东日:2026年半年度业绩说明会投资者关系活动记录表",
-        "summary": "浙江东日(600113)：浙江东日:-浙江东日:2026年半年度业绩说明会投资者关系活动记录表",
+        "title": "美股开盘集体高开 AI硬件、半导体、存储芯片和互联网科技板块权重股普涨",
+        "summary": "【美股开盘集体高开 AI硬件、半导体、存储芯片和互联网科技板块权重股普涨】美股开盘集体高开，道指涨0.19%，纳指涨0.36%，标普500指数涨0.31%，美国8月核心PCE价格指数环比低于市场预期，市场对美联储加息预期较一日前明显降温。AI硬件、半导体、存储芯片和互联网科技板块权重股普涨，英伟达股价上涨1.29%，苹果股价上涨0.57%，谷歌-A股价上涨…",
+        "publishedAt": "2026-09-30 21:30:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609303887896061.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力",
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "立航科技:成都立航科技股份有限公司投资者关系活动记录表2026-002",
+        "summary": "立航科技(603261)：立航科技:成都立航科技股份有限公司投资者关系活动记录表2026-002",
         "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600113/AN202609301830048790.html",
+        "url": "https://data.eastmoney.com/notices/detail/603261/AN202609301830051309.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "浙江东日(600113)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "小商品城:投资者关系活动记录表(20260930)",
-        "summary": "小商品城(600415)：小商品城:投资者关系活动记录表(20260930)",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600415/AN202609301830048788.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "小商品城(600415)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "肯特催化:投资者关系活动记录表20260930",
-        "summary": "肯特催化(603120)：肯特催化:投资者关系活动记录表20260930",
-        "publishedAt": "2026-09-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603120/AN202609301830048789.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "肯特催化(603120)"
+          "立航科技(603261)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -120836,43 +120813,105 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "移远通信:投资者关系活动记录表2026年9月",
-        "summary": "移远通信(603236)：移远通信:投资者关系活动记录表2026年9月",
+        "title": "华测检测:2026年8月20日至9月30日投资者关系活动记录表",
+        "summary": "华测检测(300012)：华测检测:2026年8月20日至9月30日投资者关系活动记录表",
         "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603236/AN202609301830048266.html",
+        "url": "https://data.eastmoney.com/notices/detail/300012/AN202609301830042891.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "移远通信(603236)"
+          "华测检测(300012)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "汉邦高科:关于召开终止发行股份购买资产并募集配套资金事项投资者说明会的公告",
-        "summary": "汉邦高科(300449)：汉邦高科:关于召开终止发行股份购买资产并募集配套资金事项投资者说明会的公告",
+        "title": "招标股份:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集福建省招标股份有限公司表决权的法律意见书",
+        "summary": "招标股份(301136)：招标股份:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集福建省招标股份有限公司表决权的法律意见书",
         "publishedAt": "2026-09-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300449/AN202609301830048382.html",
+        "url": "https://data.eastmoney.com/notices/detail/301136/AN202609301830055109.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "汉邦高科(300449)"
+          "招标股份(301136)"
         ],
         "importance": 1,
-        "noticeType": "增发终止"
+        "noticeType": "法律意见书"
       },
       {
-        "title": "澜起科技：截至9月30日已累计回购208.8万股 金额约4.1亿元",
-        "summary": "【澜起科技：截至9月30日已累计回购208.8万股 金额约4.1亿元】澜起科技(688008.SH)公告称，截至2026年9月30日，公司通过集中竞价交易方式累计回购A股股份208.80万股，占总股本比例0.17%，回购金额约4.1亿元，实际回购价格区间184.14元/股至210.00元/股。",
-        "publishedAt": "2026-09-30 17:35:32",
+        "title": "中科创达:2026年09月投资者关系活动记录表",
+        "summary": "中科创达(300496)：中科创达:2026年09月投资者关系活动记录表",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300496/AN202609301830054795.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中科创达(300496)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "徐工机械:2026年9月23日投资者关系活动记录表（一）",
+        "summary": "徐工机械(000425)：徐工机械:2026年9月23日投资者关系活动记录表（一）",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000425/AN202609301830053727.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "徐工机械(000425)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "徐工机械:2026年9月28日投资者关系活动记录表",
+        "summary": "徐工机械(000425)：徐工机械:2026年9月28日投资者关系活动记录表",
+        "publishedAt": "2026-09-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000425/AN202609301830053797.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "徐工机械(000425)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中加经贸联委会投资工作组首次会议在加拿大渥太华召开",
+        "summary": "【中加经贸联委会投资工作组首次会议在加拿大渥太华召开】9月28日，中华人民共和国国际贸易谈判代表兼商务部副部长李成钢与加拿大国际贸易副部长珀维斯在加拿大渥太华共同主持召开中加经贸联委会投资工作组首次会议。双方就增进投资政策沟通、投资环境改善、双向投资合作等进行了坦诚、务实和建设性的交流。",
+        "publishedAt": "2026-09-30 21:54:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609303887788868.html",
+        "url": "https://finance.eastmoney.com/a/202609303887908443.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "加拿大多伦多道明银行拟启动100亿加元股票回购计划",
+        "summary": "【加拿大多伦多道明银行拟启动100亿加元股票回购计划】加拿大多伦多道明银行（TD）宣布，拟启动一项新的股票回购计划，回购规模最高达100亿加元，不超过6100万股普通股，预计于2027年7月前完成。该计划约占公司截至2026年8月31日已发行普通股的3.74%。",
+        "publishedAt": "2026-09-30 21:24:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202609303887893427.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -120884,11 +120923,11 @@
         "noticeType": ""
       },
       {
-        "title": "松原安全：拟5000万元-1亿元回购公司股份",
-        "summary": "【松原安全：拟5000万元-1亿元回购公司股份】松原安全9月30日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于5000万元且不超过1亿元。回购价格不超过21.03元/股。回购股份将用于维护公司价值及股东权益（出售）。",
-        "publishedAt": "2026-09-30 17:31:07",
+        "title": "寒武纪前高管连续6次败诉 新诉请对公司日常研发及经营不存在影响",
+        "summary": "【寒武纪前高管连续6次败诉 新诉请对公司日常研发及经营不存在影响】寒武纪公告称，公司原副总经理梁军（2022年初已离职）就劳动争议诉讼变更诉讼请求，将索赔的股权激励损失金额从42.87亿元调整为278.32亿元。该金额为梁军单方主张，不代表法院最终审理结果。此前双方涉及的6起股权激励相关案件均以梁军败诉结案，回购案件目前处于司法强制执行阶段。本次诉讼尚未开…",
+        "publishedAt": "2026-09-30 21:19:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609303887784688.html",
+        "url": "https://finance.eastmoney.com/a/202609303887893249.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -120897,50 +120936,6 @@
         ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "盛美上海：截至9月29日在手订单达170.73亿元 同比增长88.2%",
-        "summary": "【盛美上海：截至9月29日在手订单达170.73亿元 同比增长88.2%】盛美上海(688082.SH)公告称，公司披露在手订单情况，截至2026年9月29日，在手订单总金额为170.73亿元，与上年同期已自愿性披露的在手订单金额相比，同比增加88.2%。",
-        "publishedAt": "2026-09-30 17:28:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609303887779354.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "台积电据悉正在评估在得克萨斯州的潜在投资",
-        "summary": "【台积电据悉正在评估在得克萨斯州的潜在投资】据两位知情人士透露，台积电正在评估在得克萨斯州进行潜在投资，以扩大其在美国的芯片产能。这笔潜在投资将是台积电此前已承诺投入亚利桑那州的2650亿美元之外的额外部分。",
-        "publishedAt": "2026-09-30 17:24:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202609303887767715.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至9月25日当周API汽油库存变动(万桶)",
-        "summary": "美国截至9月25日当周API汽油库存变动(万桶)；公布 299.1，预期 -54.2，前值 -216.0。",
-        "publishedAt": "2026-09-30 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -121045,15 +121040,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-09-30 18:01:48",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 有色稀土、金融、半导体。",
+        "generatedAt": "2026-09-30 22:01:37",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 8 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121084,7 +121079,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-09-30 18:00:33",
+        "generatedAt": "2026-09-30 22:00:13",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121123,7 +121118,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-09-30 18:00:33",
+        "generatedAt": "2026-09-30 22:00:13",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121149,7 +121144,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：值得买:北京值得买科技股份有限公司持股5%以上股东、董事、高级管理人员减持股份触及1%整数倍的公告；百瑞吉:股票交易异常波动公告。",
+              "新闻/公告风险：*ST田野:关于公司股票退市相关风险的风险提示公告；*ST建艺:关于公开招募和遴选投资人的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
