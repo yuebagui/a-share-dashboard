@@ -1,12 +1,10 @@
 {
   "meta": {
     "tradeDate": "2026-10-01",
-    "phase": "盘前简报",
-    "generatedAt": "2026-10-01 02:27:51",
+    "phase": "盘后复盘",
+    "generatedAt": "2026-10-01 18:22:21",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [],
-    "marketGeneratedAt": "2026-10-01 02:27:51",
-    "lastNewsAt": "2026-10-01 14:24:09"
+    "errors": []
   },
   "indices": [
     {
@@ -120613,19 +120611,34 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-01",
-    "generatedAt": "2026-10-01 14:24:09",
+    "generatedAt": "2026-10-01 18:23:16",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 9 条；主题映射集中在 有色稀土、金融、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 汽车链、有色稀土、新能源。",
     "themes": [
       {
+        "name": "汽车链",
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
-        "score": 12,
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 3,
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -120635,16 +120648,6 @@
       },
       {
         "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
@@ -120781,11 +120784,11 @@
         "noticeType": "独立董事候选人声明"
       },
       {
-        "title": "报告称美联储管理不善致总部大楼翻修超支",
-        "summary": "【报告称美联储管理不善致总部大楼翻修超支】美国联邦储备委员会内部监察机构9月30日发布报告称，美联储未能有效监管其总部大楼翻修项目，导致项目大幅超支，但无人在翻修项目中触犯联邦刑法。",
-        "publishedAt": "2026-10-01 13:57:43",
+        "title": "英镑兑美元下跌0.5%至1.3198",
+        "summary": "英镑兑美元下跌0.5%至1.3198，为6月29日以来最低。",
+        "publishedAt": "2026-10-01 18:02:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888220232.html",
+        "url": "https://finance.eastmoney.com/a/202610013888246664.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -120861,16 +120864,46 @@
         "noticeType": "法律意见书"
       },
       {
-        "title": "我国“亚洲锂腰带”找矿再获突破",
-        "summary": "【我国“亚洲锂腰带”找矿再获突破】我国川西锂矿找矿再获突破，新增碳酸锂当量约104.68万吨。增储完成后，加达锂矿累计备案碳酸锂当量达253.10万吨，矿床规模进一步扩大，巩固了超大型伟晶岩锂矿地位。",
-        "publishedAt": "2026-10-01 13:50:25",
+        "title": "江龙船艇签约海外26米专业护航拖轮项目",
+        "summary": "【江龙船艇签约海外26米专业护航拖轮项目】据江龙船艇消息，10月1日，公司与海外客户正式签约26米护航拖轮建造项目，标志着公司在海外高端特种作业船艇领域持续取得新突破。",
+        "publishedAt": "2026-10-01 18:16:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888219268.html",
+        "url": "https://finance.eastmoney.com/a/202610013888247542.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "富国银行将微软纳入2026年第四季度战术投资建议名单",
+        "summary": "富国银行将微软纳入2026年第四季度战术投资建议名单（Tactical Ideas List）。",
+        "publishedAt": "2026-10-01 17:29:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888245372.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "百兆瓦级压缩二氧化碳储能项目并网发电",
+        "summary": "【百兆瓦级压缩二氧化碳储能项目并网发电】9月30日，百兆瓦级压缩二氧化碳储能项目——中国华电新疆木垒压缩二氧化碳储能项目并网发电，打通了二氧化碳“压缩—液化—储能—气化—膨胀—释能—发电”全流程，标志着我国气液相变储能关键技术与工程集成应用实现重要突破，为长时储能探索出新路径。",
+        "publishedAt": "2026-10-01 17:20:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888244371.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "新能源"
         ],
         "tickers": [],
         "importance": 1,
@@ -120904,36 +120937,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月29日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月29日COMEX黄金库存-每日更新(百盎司)；公布 234392.58，预期 nan，前值 234072.79。",
-        "publishedAt": "2026-10-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月30日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月30日iShares白银持仓-每日更新(吨)；公布 15352.0，预期 nan，前值 15395.54。",
-        "publishedAt": "2026-10-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -121027,7 +121030,7 @@
     }
   ],
   "reports": {
-    "active": "pre-market",
+    "active": "post-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121040,15 +121043,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-01 14:24:09",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 9 条；主题映射集中在 有色稀土、金融、半导体。",
+        "generatedAt": "2026-10-01 18:23:16",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 汽车链、有色稀土、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：汽车链、有色稀土、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121079,7 +121082,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-01 02:27:51",
+        "generatedAt": "2026-10-01 18:22:21",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121118,7 +121121,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-01 02:27:51",
+        "generatedAt": "2026-10-01 18:22:21",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
