@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-01",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-01 02:27:51",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-01 02:27:51",
+    "lastNewsAt": "2026-10-01 14:24:09"
   },
   "indices": [
     {
@@ -120611,19 +120613,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-01",
-    "generatedAt": "2026-10-01 02:28:42",
+    "generatedAt": "2026-10-01 14:24:09",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 8 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 9 条；主题映射集中在 有色稀土、金融、半导体。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 4,
+        "score": 12,
         "isFocusBoard": false
       },
       {
@@ -120632,7 +120629,17 @@
         "isFocusBoard": false
       },
       {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       },
@@ -120774,6 +120781,20 @@
         "noticeType": "独立董事候选人声明"
       },
       {
+        "title": "报告称美联储管理不善致总部大楼翻修超支",
+        "summary": "【报告称美联储管理不善致总部大楼翻修超支】美国联邦储备委员会内部监察机构9月30日发布报告称，美联储未能有效监管其总部大楼翻修项目，导致项目大幅超支，但无人在翻修项目中触犯联邦刑法。",
+        "publishedAt": "2026-10-01 13:57:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888220232.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "贝泰妮:2026年9月投资者关系活动记录表",
         "summary": "贝泰妮(300957)：贝泰妮:2026年9月投资者关系活动记录表",
         "publishedAt": "2026-10-01",
@@ -120840,8 +120861,24 @@
         "noticeType": "法律意见书"
       },
       {
+        "title": "我国“亚洲锂腰带”找矿再获突破",
+        "summary": "【我国“亚洲锂腰带”找矿再获突破】我国川西锂矿找矿再获突破，新增碳酸锂当量约104.68万吨。增储完成后，加达锂矿累计备案碳酸锂当量达253.10万吨，矿床规模进一步扩大，巩固了超大型伟晶岩锂矿地位。",
+        "publishedAt": "2026-10-01 13:50:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888219268.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "美国9月30日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月30日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.5。",
+        "summary": "美国9月30日iShares黄金持仓-每日更新(吨)；公布 463.5，预期 nan，前值 463.5。",
         "publishedAt": "2026-10-01 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120857,7 +120894,7 @@
       },
       {
         "title": "美国9月30日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月30日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1057.41。",
+        "summary": "美国9月30日SPDR黄金持仓-每日更新(吨)；公布 1055.7，预期 nan，前值 1057.41。",
         "publishedAt": "2026-10-01 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120873,7 +120910,7 @@
       },
       {
         "title": "美国9月29日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国9月29日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234072.79。",
+        "summary": "美国9月29日COMEX黄金库存-每日更新(百盎司)；公布 234392.58，预期 nan，前值 234072.79。",
         "publishedAt": "2026-10-01 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120889,36 +120926,8 @@
       },
       {
         "title": "美国9月30日iShares白银持仓-每日更新(吨)",
-        "summary": "美国9月30日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15395.54。",
+        "summary": "美国9月30日iShares白银持仓-每日更新(吨)；公布 15352.0，预期 nan，前值 15395.54。",
         "publishedAt": "2026-10-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本第三季度央行短观大型制造业景气展望",
-        "summary": "日本第三季度央行短观大型制造业景气展望；公布 nan，预期 22.0，前值 17.0。",
-        "publishedAt": "2026-10-01 07:50",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本第三季度央行短观大型制造业资本支出(%)",
-        "summary": "日本第三季度央行短观大型制造业资本支出(%)；公布 nan，预期 12.3，前值 11.5。",
-        "publishedAt": "2026-10-01 07:50",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -121018,7 +121027,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121031,15 +121040,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-01 02:28:42",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 8 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-10-01 14:24:09",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 9 条；主题映射集中在 有色稀土、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
