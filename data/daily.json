@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-01",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-01 18:27:56",
+    "generatedAt": "2026-10-01 22:47:49",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120446,7 +120446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -120610,34 +120611,34 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-01",
-    "generatedAt": "2026-10-01 18:28:46",
+    "generatedAt": "2026-10-01 22:49:04",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 汽车链、有色稀土、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
-        "name": "汽车链",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 6,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -120646,7 +120647,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
@@ -120783,11 +120784,74 @@
         "noticeType": "独立董事候选人声明"
       },
       {
-        "title": "英镑兑美元下跌0.5%至1.3198",
-        "summary": "英镑兑美元下跌0.5%至1.3198，为6月29日以来最低。",
-        "publishedAt": "2026-10-01 18:02:44",
+        "title": "乌克兰称乌国家科学院核研究所遭袭",
+        "summary": "【乌克兰称乌国家科学院核研究所遭袭】乌克兰国家核能监管局10月1日在官网发文称，一架俄军无人机9月30日傍晚袭击了乌克兰国家科学院核研究所，袭击引发火情但被迅速扑灭，未造成人员伤亡和辐射水平异常。",
+        "publishedAt": "2026-10-01 22:20:47",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888246664.html",
+        "url": "https://finance.eastmoney.com/a/202610013888279781.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "低空经济"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美光科技股价跌3%至1033.225美元",
+        "summary": "【美光科技股价跌3%至1033.225美元】美光科技股价下跌3%，报1033.225美元/股，总市值报1.17万亿美元。",
+        "publishedAt": "2026-10-01 22:10:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888277416.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "监管机构称巴西8月份石油和天然气产量为600.2万桶油当量/日",
+        "summary": "监管机构称，巴西8月份石油和天然气产量为600.2万桶油当量/日。",
+        "publishedAt": "2026-10-01 21:53:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888274927.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "欧洲央行行长拉加德：欧洲必须发展自身人工智能能力",
+        "summary": "【欧洲央行行长拉加德：欧洲必须发展自身人工智能能力】欧洲央行行长拉加德表示，如果欧洲依赖其他地区开发的人工智能模型，将面临自身脆弱的风险。她表示：“欧洲需要发展自身的人工智能能力，成为最终生产人工智能供应链中不可或缺的一部分，这样关系到金融韧性的关键工具，其使用权才不会取决于其他地区的开关。”拉加德和多名管理委员会成员此前已多次强调这一观点，警告欧洲不能与…",
+        "publishedAt": "2026-10-01 21:51:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888273366.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美光科技季度业绩公布后股价下跌2%",
+        "summary": "美光科技季度业绩公布后股价下跌2%。",
+        "publishedAt": "2026-10-01 21:38:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610013888269141.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -120863,81 +120927,17 @@
         "noticeType": "法律意见书"
       },
       {
-        "title": "江龙船艇签约海外26米专业护航拖轮项目",
-        "summary": "【江龙船艇签约海外26米专业护航拖轮项目】据江龙船艇消息，10月1日，公司与海外客户正式签约26米护航拖轮建造项目，标志着公司在海外高端特种作业船艇领域持续取得新突破。",
-        "publishedAt": "2026-10-01 18:16:00",
+        "title": "旅游市场需求强劲 南非8月游客总量突破百万",
+        "summary": "【旅游市场需求强劲 南非8月游客总量突破百万】南非旅游部10月1日发布声明说，今年8月南非接待国际游客100.5万人次，较去年同期增长7.4%；今年前8个月共接待国际游客758.1万人次，同比增长11.7%。",
+        "publishedAt": "2026-10-01 22:16:47",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888247542.html",
+        "url": "https://finance.eastmoney.com/a/202610013888278536.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "富国银行将微软纳入2026年第四季度战术投资建议名单",
-        "summary": "富国银行将微软纳入2026年第四季度战术投资建议名单（Tactical Ideas List）。",
-        "publishedAt": "2026-10-01 17:29:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888245372.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "百兆瓦级压缩二氧化碳储能项目并网发电",
-        "summary": "【百兆瓦级压缩二氧化碳储能项目并网发电】9月30日，百兆瓦级压缩二氧化碳储能项目——中国华电新疆木垒压缩二氧化碳储能项目并网发电，打通了二氧化碳“压缩—液化—储能—气化—膨胀—释能—发电”全流程，标志着我国气液相变储能关键技术与工程集成应用实现重要突破，为长时储能探索出新路径。",
-        "publishedAt": "2026-10-01 17:20:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888244371.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月30日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月30日iShares黄金持仓-每日更新(吨)；公布 463.5，预期 nan，前值 463.5。",
-        "publishedAt": "2026-10-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月30日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国9月30日SPDR黄金持仓-每日更新(吨)；公布 1055.7，预期 nan，前值 1057.41。",
-        "publishedAt": "2026-10-01 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -121042,15 +121042,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-01 18:28:46",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 汽车链、有色稀土、新能源。",
+        "generatedAt": "2026-10-01 22:49:04",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：汽车链、有色稀土、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121081,7 +121081,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-01 18:27:56",
+        "generatedAt": "2026-10-01 22:47:49",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121120,7 +121120,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-01 18:27:56",
+        "generatedAt": "2026-10-01 22:47:49",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
