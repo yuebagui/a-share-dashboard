@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-10-01",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-10-01 23:18:12",
+    "tradeDate": "2026-10-02",
+    "phase": "盘中快照",
+    "generatedAt": "2026-10-02 02:46:58",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120610,11 +120610,13 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-01",
-    "generatedAt": "2026-10-01 23:19:17",
+    "tradeDate": "2026-10-02",
+    "generatedAt": "2026-10-02 02:47:36",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 有色稀土、金融、能源。",
+    "errors": [
+      "notices: '代码'"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -120623,216 +120625,53 @@
       },
       {
         "name": "金融",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 2,
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 2,
+        "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
-        "score": 2,
+        "name": "军工",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST葫芦娃:海南葫芦娃药业集团股份有限公司关于公司股票被实施其他风险警示相关事项的进展公告",
-        "summary": "ST葫芦娃(605199)：ST葫芦娃:海南葫芦娃药业集团股份有限公司关于公司股票被实施其他风险警示相关事项的进展公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605199/AN202609301830058471.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST葫芦娃(605199)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "ST葫芦娃:海南葫芦娃药业集团股份有限公司关于召开2026年第二次临时股东会的通知",
-        "summary": "ST葫芦娃(605199)：ST葫芦娃:海南葫芦娃药业集团股份有限公司关于召开2026年第二次临时股东会的通知",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605199/AN202609301830058470.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST葫芦娃(605199)"
-        ],
-        "importance": 1,
-        "noticeType": "召开股东大会通知"
-      },
-      {
-        "title": "ST葫芦娃:海南葫芦娃药业集团股份有限公司第四届董事会2026年第四次临时会议决议公告",
-        "summary": "ST葫芦娃(605199)：ST葫芦娃:海南葫芦娃药业集团股份有限公司第四届董事会2026年第四次临时会议决议公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605199/AN202609301830058469.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST葫芦娃(605199)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "ST葫芦娃:海南葫芦娃药业集团股份有限公司关于中证中小投资者服务中心《股东建议函》回复的公告",
-        "summary": "ST葫芦娃(605199)：ST葫芦娃:海南葫芦娃药业集团股份有限公司关于中证中小投资者服务中心《股东建议函》回复的公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605199/AN202609301830058468.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST葫芦娃(605199)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "ST葫芦娃:海南葫芦娃药业集团股份有限公司关于补选第四届董事会独立董事的公告",
-        "summary": "ST葫芦娃(605199)：ST葫芦娃:海南葫芦娃药业集团股份有限公司关于补选第四届董事会独立董事的公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605199/AN202609301830058467.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST葫芦娃(605199)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "江淮汽车:江淮汽车股票交易异常波动公告",
-        "summary": "江淮汽车(600418)：江淮汽车:江淮汽车股票交易异常波动公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600418/AN202609301830056989.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "汽车链"
-        ],
-        "tickers": [
-          "江淮汽车(600418)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "寒武纪:关于离职高管诉讼进展的公告",
-        "summary": "寒武纪(688256)：寒武纪:关于离职高管诉讼进展的公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688256/AN202609301830056680.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "寒武纪(688256)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "ST葫芦娃:海南葫芦娃药业集团股份有限公司独立董事候选人声明与承诺(王文学)",
-        "summary": "ST葫芦娃(605199)：ST葫芦娃:海南葫芦娃药业集团股份有限公司独立董事候选人声明与承诺(王文学)",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605199/AN202609301830053961.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST葫芦娃(605199)"
-        ],
-        "importance": 1,
-        "noticeType": "独立董事候选人声明"
-      },
-      {
-        "title": "墨西哥主要股指下跌1%",
-        "summary": "墨西哥主要股指下跌1%。",
-        "publishedAt": "2026-10-01 22:58:15",
+        "title": "美联储卡什卡利：取决于经济表现 美联储可能需要比预期加息更多",
+        "summary": "【美联储卡什卡利：取决于经济表现 美联储可能需要比预期加息更多】美联储卡什卡利表示，对于10月是否加息，没有强烈看法；对于美联储应该以多快的速度加息，持开放态度；取决于经济表现，美联储可能需要比预期加息更多。并表示他9月的利率预测是今年再加息一次，2027年再加息一次。同时表示，从目前数据来看，金融条件并未出现明显收紧；美联储9月加息表明，央行将采取行动降…",
+        "publishedAt": "2026-10-02 01:46:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888287278.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "欧元/瑞郎延续跌势 下跌1.1%至0.93634 创一个月低点",
-        "summary": "欧元/瑞郎延续跌势，下跌1.1%至0.93634，创一个月低点。",
-        "publishedAt": "2026-10-01 22:49:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888284718.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "乌克兰称乌国家科学院核研究所遭袭",
-        "summary": "【乌克兰称乌国家科学院核研究所遭袭】乌克兰国家核能监管局10月1日在官网发文称，一架俄军无人机9月30日傍晚袭击了乌克兰国家科学院核研究所，袭击引发火情但被迅速扑灭，未造成人员伤亡和辐射水平异常。",
-        "publishedAt": "2026-10-01 22:20:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888279781.html",
+        "url": "https://finance.eastmoney.com/a/202610023888298027.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "低空经济"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美光科技股价跌3%至1033.225美元",
-        "summary": "【美光科技股价跌3%至1033.225美元】美光科技股价下跌3%，报1033.225美元/股，总市值报1.17万亿美元。",
-        "publishedAt": "2026-10-01 22:10:00",
+        "title": "美国2年期国债收益率短暂触及9月22日以来最低水平 最新下跌12.68个基点 报4.764%",
+        "summary": "美国2年期国债收益率短暂触及9月22日以来最低水平，最新下跌12.68个基点，报4.764%。",
+        "publishedAt": "2026-10-02 01:38:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888277416.html",
+        "url": "https://finance.eastmoney.com/a/202610023888297983.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -120842,89 +120681,121 @@
         "noticeType": ""
       },
       {
-        "title": "贝泰妮:2026年9月投资者关系活动记录表",
-        "summary": "贝泰妮(300957)：贝泰妮:2026年9月投资者关系活动记录表",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300957/AN202610011830059731.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "贝泰妮(300957)"
+        "title": "美联储副主席杰斐逊：决策者可能需要更多时间判断是否有必要进一步加息",
+        "summary": "【美联储副主席杰斐逊：决策者可能需要更多时间判断是否有必要进一步加息】美联储副主席杰斐逊表示，通胀已经过高太久，且仍存在持续高企的风险，但决策者可能需要更多时间判断是否有必要进一步加息。未来任何政策调整都应仔细评估数据趋势、经济前景变化和风险平衡。杰斐逊指出，美国经济活动和劳动力市场仍然稳健，但能源价格上涨、AI投资热潮和关税等多重冲击正在影响经济，制定政…",
+        "publishedAt": "2026-10-02 01:33:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888297789.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "能源"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "杰美特:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
-        "summary": "杰美特(300868)：杰美特:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300868/AN202609301830054919.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "杰美特(300868)"
+        "title": "费城半导体指数涨2%",
+        "summary": "【费城半导体指数涨2%】费城半导体指数涨2%，报12886.64点。英伟达股价上涨1.14%，台积电股价上涨0.79%，博通股价下跌0.35%，美光科技股价上涨1.11%，超威半导体股价上涨1%，英特尔股价上涨1.31%，ARM股价上涨2.46%，闪迪股价上涨3.28%。",
+        "publishedAt": "2026-10-02 01:31:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888297688.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": ""
       },
       {
-        "title": "长源东谷:襄阳长源东谷实业股份有限公司回购实施进展公告",
-        "summary": "长源东谷(603950)：长源东谷:襄阳长源东谷实业股份有限公司回购实施进展公告",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603950/AN202609301830054876.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "费城半导体指数涨1%",
+        "summary": "【费城半导体指数涨1%】费城半导体指数涨1%，报12755.47点。台积电股价下跌0.06%，博通股价下跌0.92%，美光科技股价下跌0.15%，超威半导体股价上涨0.14%，阿斯麦股价下跌0.38%，英特尔股价下跌0.18%，ARM股价上涨0.95%。",
+        "publishedAt": "2026-10-02 01:12:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888296932.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "据报道 英伟达与软银已分别就其对OpenAI上一轮融资各300亿美元的承诺 完成各自最后一笔100亿美元投资",
+        "summary": "据报道，英伟达与软银已分别就其对OpenAI上一轮融资各300亿美元的承诺，完成各自最后一笔100亿美元投资。",
+        "publishedAt": "2026-10-02 02:19:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888298774.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国财政部回购60亿美元较长期国债 规模达到上限",
+        "summary": "【美国财政部回购60亿美元较长期国债 规模达到上限】美国财政部在10月1日进行了价值60亿美元的10至20年期美国国债流动性回购操作。10至20年期买回操作共收到463.9亿美元投标。",
+        "publishedAt": "2026-10-02 02:04:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888298474.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "长源东谷(603950)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "宁波港:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集宁波港投票权的法律意见书",
-        "summary": "宁波港(601018)：宁波港:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集宁波港投票权的法律意见书",
-        "publishedAt": "2026-10-01",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601018/AN202609301830054125.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宁波港(601018)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "旅游市场需求强劲 南非8月游客总量突破百万",
-        "summary": "【旅游市场需求强劲 南非8月游客总量突破百万】南非旅游部10月1日发布声明说，今年8月南非接待国际游客100.5万人次，较去年同期增长7.4%；今年前8个月共接待国际游客758.1万人次，同比增长11.7%。",
-        "publishedAt": "2026-10-01 22:16:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610013888278536.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月30日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国9月30日iShares黄金持仓-每日更新(吨)；公布 463.5，预期 nan，前值 463.5。",
-        "publishedAt": "2026-10-01 06:30",
+        "title": "周四（10月1日） 美联储隔夜逆回购协议（RRP）使用规模为3.5亿美元",
+        "summary": "周四（10月1日），美联储隔夜逆回购协议（RRP）使用规模为3.5亿美元。",
+        "publishedAt": "2026-10-02 01:17:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888297347.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至9月30日美联储资产负债表(万亿美元)",
+        "summary": "美国截至9月30日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.8。",
+        "publishedAt": "2026-10-02 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月1日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月1日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1055.7。",
+        "publishedAt": "2026-10-02 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -120935,6 +120806,122 @@
         ],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月1日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月1日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.5。",
+        "publishedAt": "2026-10-02 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月30日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国9月30日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234392.58。",
+        "publishedAt": "2026-10-02 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月1日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月1日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15352.0。",
+        "publishedAt": "2026-10-02 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本9月东京CPI年率(%)",
+        "summary": "日本9月东京CPI年率(%)；公布 nan，预期 2.3，前值 1.9。",
+        "publishedAt": "2026-10-02 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本8月失业率(%)",
+        "summary": "日本8月失业率(%)；公布 nan，预期 2.4，前值 2.4。",
+        "publishedAt": "2026-10-02 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "欧元区9月核心调和CPI年率-未季调初值(%)",
+        "summary": "欧元区9月核心调和CPI年率-未季调初值(%)；公布 nan，预期 nan，前值 2.1。",
+        "publishedAt": "2026-10-02 17:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "据报道 Authentic讨论以每股逾20美元价格收购美泰公司",
+        "summary": "据报道，Authentic讨论以每股逾20美元价格收购美泰公司。",
+        "publishedAt": "2026-10-02 02:19:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888298867.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "Anthropic推出Mods",
+        "summary": "【Anthropic推出Mods】Anthropic推出Mods，可通过小型TypeScript函数自定义ClaudeCode的运行方式。",
+        "publishedAt": "2026-10-02 02:09:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888298553.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -121026,7 +121013,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121039,15 +121026,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-01 23:19:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-02 02:47:36",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121078,7 +121065,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-01 23:18:12",
+        "generatedAt": "2026-10-02 02:46:58",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121117,7 +121104,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-01 23:18:12",
+        "generatedAt": "2026-10-02 02:46:58",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121143,7 +121130,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST葫芦娃:海南葫芦娃药业集团股份有限公司关于公司股票被实施其他风险警示相关事项的进展公告；ST葫芦娃:海南葫芦娃药业集团股份有限公司关于召开2026年第二次临时股东会的通知。",
+              "新闻/公告风险：美联储卡什卡利：取决于经济表现 美联储可能需要比预期加息更多；美国2年期国债收益率短暂触及9月22日以来最低水平 最新下跌12.68个基点 报4.764%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
