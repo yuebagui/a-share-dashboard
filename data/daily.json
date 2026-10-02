@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-02",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-02 18:03:35",
+    "generatedAt": "2026-10-02 22:10:20",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120446,7 +120446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -120610,21 +120611,21 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-02",
-    "generatedAt": "2026-10-02 18:04:40",
+    "generatedAt": "2026-10-02 22:11:12",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "notices: '代码'"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 1 条；主题映射集中在 AI算力、有色稀土、能源。",
     "themes": [
       {
-        "name": "有色稀土",
+        "name": "AI算力",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 7,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -120633,22 +120634,70 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 2,
+        "name": "半导体",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "腾讯于10月2日回购了价值1.003亿港元的股份",
-        "summary": "腾讯于10月2日回购了价值1.003亿港元的股份。",
-        "publishedAt": "2026-10-02 17:31:32",
+        "title": "耐克股价开盘下跌8.3% 创4月以来最大单日跌幅",
+        "summary": "10月2日，耐克股价开盘下跌8.3%，创4月以来最大单日跌幅。",
+        "publishedAt": "2026-10-02 21:36:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888364236.html",
+        "url": "https://finance.eastmoney.com/a/202610023888398061.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月耐用品订单终值环比下降0.1% 预估为0%",
+        "summary": "美国8月耐用品订单终值环比下降0.1%，预估为0%。",
+        "publishedAt": "2026-10-02 22:00:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888403985.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国8月份工厂订单增长0.1% 预估为0.2%",
+        "summary": "美国8月份工厂订单增长0.1%，预估为0.2%。",
+        "publishedAt": "2026-10-02 22:00:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888404080.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "英伟达股价突破5月高点刷新历史新高 市值重返5.7万亿美元",
+        "summary": "【英伟达股价突破5月高点刷新历史新高 市值重返5.7万亿美元】英伟达股价盘中持续走高，突破今年5月创下的前期历史高点，刷新历史新高，总市值重返5.7万亿美元。截至发稿，英伟达涨2.34%，报236.26美元。最近，英伟达将股票回购授权增加1500亿美元，使回购计划总额达到2350亿美元。公司预计将在2028财年之前执行该回购计划。就在一个月前，英伟达最新财…",
+        "publishedAt": "2026-10-02 21:36:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888397817.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
+          "AI算力",
           "金融"
         ],
         "tickers": [],
@@ -120774,27 +120823,11 @@
         "noticeType": ""
       },
       {
-        "title": "丰业银行将AT&T的目标价从每股29.25美元下调至27.50美元",
-        "summary": "丰业银行将AT&T的目标价从每股29.25美元下调至27.50美元。",
-        "publishedAt": "2026-10-02 17:57:00",
+        "title": "美国总统特朗普称欧洲将释放大量库存柴油",
+        "summary": "美国总统特朗普称欧洲将释放大量库存柴油。",
+        "publishedAt": "2026-10-02 22:03:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888366221.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "俄罗斯副总理亚历山大·诺瓦克：俄罗斯将考虑部分解除柴油出口限制",
-        "summary": "俄罗斯副总理亚历山大·诺瓦克表示，俄罗斯将考虑部分解除柴油出口限制。",
-        "publishedAt": "2026-10-02 17:51:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888365217.html",
+        "url": "https://finance.eastmoney.com/a/202610023888405477.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120804,27 +120837,11 @@
         "noticeType": ""
       },
       {
-        "title": "科威特9月原油产量环比下降约20万桶/日",
-        "summary": "科威特9月原油产量环比下降约20万桶/日，降至177万桶/日。",
-        "publishedAt": "2026-10-02 17:51:10",
+        "title": "欧洲柴油期货跌至盘中低点 现报每吨1350美元",
+        "summary": "欧洲柴油期货跌至盘中低点，现报每吨1350美元。",
+        "publishedAt": "2026-10-02 22:03:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888365069.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国庆节后将有8只北交所主题基金开启发行",
-        "summary": "【国庆节后将有8只北交所主题基金开启发行】年初至今，北证50指数跌幅超27%，显著跑输各大股指；这只曾经半年涨幅超160%的热门指数，自历史高点算起回撤幅度已经超过34%。国庆节后将有8只北交所主题基金开启发行，有基金经理分析指出，在当前成交清淡、情绪冰封的阶段，正是利用新发产品从容进行左侧建仓的关键窗口。",
-        "publishedAt": "2026-10-02 17:45:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888364795.html",
+        "url": "https://finance.eastmoney.com/a/202610023888405516.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120834,25 +120851,11 @@
         "noticeType": ""
       },
       {
-        "title": "美银全球研究将耐克目标价从30美元下调至24美元",
-        "summary": "美银全球研究将耐克目标价从30美元下调至24美元。",
-        "publishedAt": "2026-10-02 17:44:47",
+        "title": "美联储加息预期降温 美股三大指数集体上涨 英伟达股价创历史新高 国际油价走低",
+        "summary": "【美联储加息预期降温 美股三大指数集体上涨 英伟达股价创历史新高 国际油价大跌】美东时间周五，美股三大指数集体上涨，纳指涨1.37%，道指涨0.58%，标普500指数涨0.88%。盘前美国非农数据公布，表现疲软，美联储加息预期降温。",
+        "publishedAt": "2026-10-02 22:01:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888364962.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "摩根士丹利将英伟达重新列为“首选股”（Top Pick）",
-        "summary": "摩根士丹利将英伟达重新列为“首选股”（TopPick）。",
-        "publishedAt": "2026-10-02 17:30:25",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888364386.html",
+        "url": "https://finance.eastmoney.com/a/202610023888395631.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120864,11 +120867,27 @@
         "noticeType": ""
       },
       {
-        "title": "马克龙呼吁七国集团协调应对柴油价格上涨",
-        "summary": "【马克龙呼吁七国集团协调应对柴油价格上涨】当地时间10月2日，法国总统马克龙呼吁七国集团采取协调一致的行动，避免实施出口限制，共同遏制燃油价格上涨。美国正要求欧洲进一步动用燃油储备，尤其敦促法国和德国释放柴油紧急储备。",
-        "publishedAt": "2026-10-02 17:23:18",
+        "title": "马克龙：G7将在4个月内释放至多1亿桶柴油和原油储备",
+        "summary": "【马克龙：G7将在4个月内释放柴油和原油储备】法国总统马克龙表示，七国集团（G7）已决定释放柴油和原油储备，释放将在4个月内完成。",
+        "publishedAt": "2026-10-02 22:00:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888363019.html",
+        "url": "https://finance.eastmoney.com/a/202610023888403675.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "哈塞特在谈到美债收益率时表示 强劲的经济推动收益率上升",
+        "summary": "哈塞特在谈到美债收益率时表示，强劲的经济推动收益率上升。",
+        "publishedAt": "2026-10-02 21:52:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610023888402448.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120878,25 +120897,11 @@
         "noticeType": ""
       },
       {
-        "title": "刚果民主共和国的埃博拉疫情已导致超过4000人死亡",
-        "summary": "刚果民主共和国的埃博拉疫情已导致超过4000人死亡。",
-        "publishedAt": "2026-10-02 17:12:29",
+        "title": "白宫国家经济委员会主任凯文·哈塞特表示白宫尊重美联储的独立性",
+        "summary": "白宫国家经济委员会主任凯文·哈塞特表示，白宫尊重美联储的独立性。",
+        "publishedAt": "2026-10-02 21:50:08",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888362919.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "宁德时代：公司将于2026年10月20日举行董事会会议",
-        "summary": "【宁德时代：公司将于2026年10月20日举行董事会会议】宁德时代在港交所公告称，公司将于2026年10月20日举行董事会会议，考虑及批准公司及其附属公司截至2026年9月30日止九个月的第三季度业绩及其发布事宜。",
-        "publishedAt": "2026-10-02 17:03:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610023888362629.html",
+        "url": "https://finance.eastmoney.com/a/202610023888402352.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -121007,15 +121012,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-02 18:04:40",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-02 22:11:12",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 1 条；主题映射集中在 AI算力、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121046,7 +121051,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-02 18:03:35",
+        "generatedAt": "2026-10-02 22:10:20",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121085,7 +121090,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-02 18:03:35",
+        "generatedAt": "2026-10-02 22:10:20",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121111,7 +121116,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
+              "新闻/公告风险：耐克股价开盘下跌8.3% 创4月以来最大单日跌幅。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
