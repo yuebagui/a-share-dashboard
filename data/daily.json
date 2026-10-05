@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-10-05",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-10-05 18:51:40",
+    "tradeDate": "2026-10-06",
+    "phase": "盘中快照",
+    "generatedAt": "2026-10-06 01:01:17",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120446,7 +120446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -120609,56 +120610,47 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-05",
-    "generatedAt": "2026-10-05 18:52:18",
+    "tradeDate": "2026-10-06",
+    "generatedAt": "2026-10-06 01:02:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "notices: '代码'"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 1 条；主题映射集中在 金融、医药、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 0 条；主题映射集中在 有色稀土、军工、医药。",
     "themes": [
       {
-        "name": "金融",
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
         "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "医药",
-        "score": 4,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 4,
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "内塔尼亚胡称伊朗政权终将消失",
-        "summary": "【内塔尼亚胡称伊朗政权终将消失】今天（10月5日），以色列开始举行仪式，纪念2023年10月7日爆发的新一轮巴以冲突三周年。以色列总理内塔尼亚胡发表讲话，重申对巴勒斯坦加沙地带及黎巴嫩的强硬军事立场，并直接对伊朗发出威胁。他再次扬言伊朗政权当前正处于“最虚弱的时期”，“终将从世界上消失”。",
-        "publishedAt": "2026-10-05 18:28:28",
+        "title": "阿斯利康在马萨诸塞州的业务投资超过10亿美元",
+        "summary": "阿斯利康在马萨诸塞州的业务投资超过10亿美元。",
+        "publishedAt": "2026-10-06 00:03:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888655592.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "北京两机场客流较去年提前17天突破1亿人次",
-        "summary": "【北京两机场客流较去年提前17天突破1亿人次】从首都机场集团获悉，截至10月4日，北京首都国际机场、北京大兴国际机场今年旅客吞吐量已突破1亿人次，较去年提前17天。具体来看，截至10月4日，北京两机场国内旅客吞吐量8106万人次，同比增长6%；国际及地区旅客吞吐量1915万人次，同比增长9.6%。",
-        "publishedAt": "2026-10-05 18:16:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888652349.html",
+        "url": "https://finance.eastmoney.com/a/202610063888700338.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -120668,157 +120660,129 @@
         "noticeType": ""
       },
       {
-        "title": "小米集团回购了200万股B类股份",
-        "summary": "小米集团于10月5日以4760万港元回购了200万股B类股份。",
-        "publishedAt": "2026-10-05 17:51:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888647126.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月5日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月5日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1055.7。",
+        "publishedAt": "2026-10-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "腾讯控股回购23.8万股股份",
-        "summary": "腾讯控股于10月5日斥资1.002亿港元回购23.8万股股份。",
-        "publishedAt": "2026-10-05 17:46:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888646859.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月5日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月5日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.54。",
+        "publishedAt": "2026-10-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "全球9月ANZ商品价格指数年率(%)",
-        "summary": "全球9月ANZ商品价格指数年率(%)；公布 1.0，预期 nan，前值 -0.6。",
-        "publishedAt": "2026-10-05 09:30",
+        "title": "美国10月2日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月2日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234797.47。",
+        "publishedAt": "2026-10-06 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "全球9月ANZ商品价格指数月率(%)",
-        "summary": "全球9月ANZ商品价格指数月率(%)；公布 0.6，预期 nan，前值 -0.4。",
-        "publishedAt": "2026-10-05 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "英国9月政府官方净储备变动(亿美元)",
-        "summary": "英国9月政府官方净储备变动(亿美元)；公布 -60.1，预期 nan，前值 53.28。",
-        "publishedAt": "2026-10-05 16:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "欧元区10月Sentix投资者信心指数",
-        "summary": "欧元区10月Sentix投资者信心指数；公布 2.7，预期 5.0，前值 5.1。",
-        "publishedAt": "2026-10-05 16:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国9月ISM非制造业PMI",
-        "summary": "美国9月ISM非制造业PMI；公布 nan，预期 55.0，前值 55.4。",
-        "publishedAt": "2026-10-05 22:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "Vaxcyte美股盘前大涨超85%",
-        "summary": "【Vaxcyte美股盘前大涨超85%】美股Vaxcyte股价盘前大涨超85%，此前该公司的肺炎球菌疫苗达到后期临床试验目标。",
-        "publishedAt": "2026-10-05 18:35:48",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888656047.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [
-          "医药"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "贸易商：印度9月葵花籽油进口量环比下降36%",
-        "summary": "【贸易商：印度9月葵花籽油进口量环比下降36%】据贸易商表示，印度9月葵花籽油进口量环比下降36%，至10.3万公吨，为逾四年来最低水平。棕榈油进口量环比增长3.5%，至81万公吨，为七个月来最高水平。豆油进口量环比下降4.6%，至60万公吨。食用油进口总量环比下降3.75%，至150万公吨。",
-        "publishedAt": "2026-10-05 18:33:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888655618.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国10月5日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月5日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15345.27。",
+        "publishedAt": "2026-10-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "一艘正驶入霍尔木兹海峡的油轮在航行途中收到伊朗革命卫队的无线电呼叫",
-        "summary": "英国海上贸易行动办公室（UKMTO）称，收到有关阿曼海塞卜以北11海里处发生事件的报告。一艘正驶入霍尔木兹海峡的油轮在航行途中收到伊朗革命卫队的无线电呼叫。油轮被指示掉头，否则将成为攻击目标。油轮已遵循指示。",
-        "publishedAt": "2026-10-05 18:23:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888654691.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "澳大利亚截至10月4日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至10月4日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 70.5。",
+        "publishedAt": "2026-10-06 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "迪拜航空副驾驶被曝曾企图在赴以航班上实施袭击",
-        "summary": "【迪拜航空副驾驶被曝曾企图在赴以航班上实施袭击】总台记者当地时间10月5日获悉，有以色列知情官员表示，日前在迪拜航空客机上袭击机长的阿曼籍副驾驶哈马姆·哈马米在入职该公司前便已开始策划袭击。",
-        "publishedAt": "2026-10-05 18:23:06",
+        "title": "瑞士9月未季调失业率(%)",
+        "summary": "瑞士9月未季调失业率(%)；公布 nan，预期 nan，前值 3.0。",
+        "publishedAt": "2026-10-06 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "瑞士9月季调后失业率(%)",
+        "summary": "瑞士9月季调后失业率(%)；公布 nan，预期 3.1，前值 3.1。",
+        "publishedAt": "2026-10-06 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "欧元区8月零售销售月率(%)",
+        "summary": "欧元区8月零售销售月率(%)；公布 nan，预期 0.2，前值 -0.6。",
+        "publishedAt": "2026-10-06 17:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "英航一客机7分钟急坠8230米",
+        "summary": "【英航一客机7分钟急坠8230米】据美国媒体报道，当地时间10月5日，英国航空公司一架客机在从伦敦飞往美国芝加哥途中一度宣布紧急状态。根据航班追踪网站的数据，在起飞约30分钟后，这架波音777客机的飞行高度在大约7分钟内从36000英尺（10972.8米）下降到9000英尺（2743.2米），也就是说下降了差不多8230米。",
+        "publishedAt": "2026-10-06 00:51:31",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888654143.html",
+        "url": "https://finance.eastmoney.com/a/202610063888701172.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120830,11 +120794,55 @@
         "noticeType": ""
       },
       {
-        "title": "美股Vaxcyte股价盘前大涨超54%",
-        "summary": "美股Vaxcyte股价盘前大涨超54%，此前该公司的肺炎球菌疫苗达到后期临床试验目标。",
-        "publishedAt": "2026-10-05 18:20:59",
+        "title": "美称轰炸机撤出英国系常规轮换 并非出于安全考量",
+        "summary": "【美称轰炸机撤出英国系常规轮换 并非出于安全考量】当地时间10月5日，美国国务卿鲁比奥在接受采访时表示，美国轰炸机撤出英国皇家空军费尔福德基地与此前发生的安全威胁事件没有直接关联。鲁比奥表示，美国国防部会根据需要持续调整军事资源部署，基地也会进行常规轮换，包括人员和飞机的更替，因此在世界不同地区调动军事资产并不罕见。",
+        "publishedAt": "2026-10-06 00:46:13",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888653467.html",
+        "url": "https://finance.eastmoney.com/a/202610063888701014.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "买房车的年轻人变多了 2026年房车销量有望再创新高",
+        "summary": "【买房车的年轻人变多了 2026年房车销量有望再创新高】这个国庆假期，公路出行预计占到90%以上，其中，自驾游是主力。长假让更多人选择跨城深度游，带着“家”去旅行的房车，也受到越来越多消费者的青睐。租赁市场火热的同时，越来越多的人选择直接购买房车。",
+        "publishedAt": "2026-10-06 00:43:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610053888694189.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "法国“戴高乐”号航母发生火灾 无人员受伤",
+        "summary": "【法国“戴高乐”号航母发生火灾 无人员受伤】法国海军发布公告称，停泊在法国土伦海军基地的“戴高乐”号核动力航空母舰当天发生火灾。目前火灾已被扑灭，事故没有造成人员受伤。",
+        "publishedAt": "2026-10-06 00:28:59",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888700967.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国联邦贸易委员会（FTC）主席弗格森向全美24家大型医疗服务企业发出信函 警告其不得实施虚假定价行为",
+        "summary": "美国联邦贸易委员会（FTC）主席弗格森向全美24家大型医疗服务企业发出信函，警告其不得实施虚假定价行为。",
+        "publishedAt": "2026-10-06 00:20:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888700894.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120846,27 +120854,11 @@
         "noticeType": ""
       },
       {
-        "title": "欧盟委员会发言人：已准备好召集石油协调小组和能源安全工作组举行会议",
-        "summary": "欧盟委员会发言人称，已准备好召集石油协调小组和能源安全工作组举行会议。",
-        "publishedAt": "2026-10-05 18:16:55",
+        "title": "国庆假期步入后半程 广东文旅市场消费活力持续释放",
+        "summary": "【国庆假期步入后半程 广东文旅市场消费活力持续释放】国庆假期步入后半程，广东文旅市场热度不减、消费活力持续释放。全省文旅产品供给充足、游玩业态丰富，大众出游热情持续高涨，山水休闲、乡村漫游、红色研学、文化体验多点开花，文旅市场保持平稳有序、稳步攀升的良好态势。",
+        "publishedAt": "2026-10-06 00:17:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888652481.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "沙特主导联军宣布参与“也门黎明”军事行动",
-        "summary": "【沙特主导联军宣布参与“也门黎明”军事行动】沙特阿拉伯主导的多国联军发言人图尔基·马利基5日在社交媒体上宣布，多国联军的100架战斗机当天凌晨参与了“也门黎明”军事行动，摧毁了324个高价值目标。",
-        "publishedAt": "2026-10-05 18:10:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888648110.html",
+        "url": "https://finance.eastmoney.com/a/202610063888700545.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120876,27 +120868,39 @@
         "noticeType": ""
       },
       {
-        "title": "加拿大能源公司Cenovus：将以每股12.00加元的现金加股票方式收购Athabasca Oil",
-        "summary": "据报道，加拿大能源公司Cenovus表示，将以每股12.00加元的现金加股票方式收购Athabasca Oil。",
-        "publishedAt": "2026-10-05 18:08:45",
+        "title": "英国海上贸易行动办公室：3艘船在霍尔木兹海峡遭袭",
+        "summary": "【英国海上贸易行动办公室：3艘船在霍尔木兹海峡遭袭】根据英国海上贸易行动办公室5日发布的多份通报，连日来，有3艘船只在霍尔木兹海峡遭袭，另有1艘油轮被伊朗伊斯兰革命卫队劝返。其中3份通报显示，2艘油轮和1艘液化石油气运输船于3日和4日在霍尔木兹海峡被“不明发射物”击中。目前相关方面正在调查。",
+        "publishedAt": "2026-10-06 00:06:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888648020.html",
+        "url": "https://finance.eastmoney.com/a/202610063888700685.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
-        "themes": [
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "英特尔美股盘前跌超4%",
-        "summary": "英特尔美股盘前跌超4%，现报114.52美元。",
-        "publishedAt": "2026-10-05 17:58:13",
+        "title": "美国30年期国债收益率涨至5.69% 创2002年以来新高",
+        "summary": "美国30年期国债收益率涨至5.69%，创2002年以来新高。",
+        "publishedAt": "2026-10-06 00:03:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610053888647570.html",
+        "url": "https://finance.eastmoney.com/a/202610063888700451.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "欧股主要指数多数收涨",
+        "summary": "【欧股主要指数多数收涨】欧股主要指数多数收涨，英国富时100指数涨0.34%，法国CAC40指数跌0.91%，德国DAX30指数涨0.06%，富时意大利MIB指数涨0.66%。",
+        "publishedAt": "2026-10-05 23:49:38",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610053888698373.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120994,7 +120998,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121007,15 +121011,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-05 18:52:18",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 1 条；主题映射集中在 金融、医药、能源。",
+        "generatedAt": "2026-10-06 01:02:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 0 条；主题映射集中在 有色稀土、军工、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、医药、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、军工、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121046,7 +121050,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-05 18:51:40",
+        "generatedAt": "2026-10-06 01:01:17",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121085,7 +121089,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-05 18:51:40",
+        "generatedAt": "2026-10-06 01:01:17",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121111,7 +121115,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：内塔尼亚胡称伊朗政权终将消失。",
+              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
