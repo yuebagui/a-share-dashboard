@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-06",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-06 18:38:40",
+    "generatedAt": "2026-10-06 18:47:19",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120611,12 +120611,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-06",
-    "generatedAt": "2026-10-06 18:39:31",
+    "generatedAt": "2026-10-06 18:47:59",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "notices: '代码'"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
         "name": "有色稀土",
@@ -120625,16 +120625,21 @@
       },
       {
         "name": "金融",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "低空经济",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
@@ -120652,14 +120657,25 @@
         "name": "军工",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "Constellation Energy美股盘前涨超5%",
+        "summary": "ConstellationEnergy美股盘前拉升，现涨超5%。报道称谷歌与ConstellationEnergy签署20年电力购买协议，将为PJM互联电网新增890兆瓦（MW）的可靠核电装机容量，该协议将创造约7200个就业岗位，投资43亿美元。",
+        "publishedAt": "2026-10-06 18:40:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888780852.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
       {
         "title": "下半年装机旺季叠加毛利率修复 这几家风电设备公司被机构加仓",
         "summary": "【下半年装机旺季叠加毛利率修复 这几家风电设备公司被机构加仓】2026年中报收官，风电设备板块“增收不增利”：32家公司营收增长12.03%，归母净利却下滑23.72%。整机营收虽增19.29%，净利却降35.17%，主因低价订单交付、原材料波动及汇兑损失。但随着下半年装机旺季到来，叠加成本压力减弱、低价订单去化，盈利修复可期。近期机构调研热度明显回升，行…",
@@ -120825,6 +120841,68 @@
         "noticeType": ""
       },
       {
+        "title": "西班牙政府批准新的紧急住房法令",
+        "summary": "西班牙政府批准新的紧急住房法令。",
+        "publishedAt": "2026-10-06 18:42:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888780762.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "保总理：有商船在保加利亚黑海专属经济区遭袭沉没",
+        "summary": "【保总理：有商船在保加利亚黑海专属经济区遭袭沉没】当地时间10月6日，保加利亚总理拉德夫主持召开会议，处理两艘轮船在黑海保加利亚专属经济区内遭无人机袭击事件。拉德夫表示，当天凌晨3时左右，两艘商船遭到无人机袭击，两船均受损。",
+        "publishedAt": "2026-10-06 18:40:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888780698.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "低空经济"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "瑞穗银行将AMD目标价从580美元上调至705美元",
+        "summary": "瑞穗银行将AMD目标价从580美元上调至705美元。",
+        "publishedAt": "2026-10-06 18:38:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888780579.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国银行全球研究将阿斯麦欧股价格目标从2452欧元上调至2557欧元",
+        "summary": "美国银行全球研究将阿斯麦欧股价格目标从2452欧元上调至2557欧元。",
+        "publishedAt": "2026-10-06 18:34:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888781042.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "迎返程高峰 广东高速今天中午起车流量高位运行",
         "summary": "【迎返程高峰 广东高速今天中午起车流量高位运行】今天（10月6日），记者从广东省公安厅交通管理局了解到，今年国庆假期高速公路返程车流量从今天中午开始高位运行，预计持续到10月7日假期结束。",
         "publishedAt": "2026-10-06 18:23:10",
@@ -120849,83 +120927,6 @@
         "impact": "中性",
         "themes": [
           "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "胡塞武装称袭击沙特艾卜哈机场等目标",
-        "summary": "【胡塞武装称袭击沙特艾卜哈机场等目标】也门胡塞武装当地时间10月6日发表声明说，向沙特艾卜哈国际机场发射弹道导弹，并使用多枚弹道导弹袭击沙特吉赞省达加里尔军事营地。",
-        "publishedAt": "2026-10-06 18:15:18",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888778069.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "军工"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "浙BA点燃国庆观赛热：一张球票背后的“乘数效应”",
-        "summary": "【浙BA点燃国庆观赛热：一张球票背后的“乘数效应”】10月1日晚，舟山体育馆外人头攒动。“球迷乐园”文旅市集的烧烤香气混着呐喊声飘散在夜风里。来自上海的球迷李先生原计划假期中期才到舟山，看到浙江省城市篮球联赛(浙BA)赛事消息后提前上了岛。“先看球赛，后续几天吃海鲜、看海景。”他说道。",
-        "publishedAt": "2026-10-06 18:06:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888777929.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "沙特称东西输油管道日输油量已恢复至580万桶",
-        "summary": "【沙特称东西输油管道日输油量已恢复至580万桶】当地时间10月6日，沙特阿拉伯能源大臣阿卜杜勒-阿齐兹·本·萨勒曼表示，目前，沙特东西输油管道日输油量已恢复到580万桶。9月，沙特东西输油管道一度因遭到无人机袭击而停止运行。沙特东西输油管道连接该国东部主要产油区和红海沿岸的延布港，最大输送能力约为每日700万桶，是沙特原油出口绕开霍尔木兹海峡的重要替代通道。",
-        "publishedAt": "2026-10-06 17:58:27",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888777441.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "低空经济",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "2026年诺贝尔物理学奖揭晓",
-        "summary": "【2026年诺贝尔物理学奖揭晓】当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台作出的决定性贡献，以及对天体物理来源高能中微子的发现。",
-        "publishedAt": "2026-10-06 17:50:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888774622.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "老干妈质检用上AI 去年营收54亿创历史峰值 线上仍处“断网”状态",
-        "summary": "【老干妈质检用上AI 去年营收54亿创历史峰值 线上仍处“断网”状态】近日，老干妈常务副总、首席质量官李鑫在2026年贵州省质量发展大会上透露，2025年，老干妈全面上线AI视觉质检系统，营收达54亿元，创历史最高峰值。",
-        "publishedAt": "2026-10-06 17:48:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888776096.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
           "AI算力"
         ],
         "tickers": [],
@@ -121034,15 +121035,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-06 18:39:31",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-10-06 18:47:59",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121073,7 +121074,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-06 18:38:40",
+        "generatedAt": "2026-10-06 18:47:19",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121112,7 +121113,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-06 18:38:40",
+        "generatedAt": "2026-10-06 18:47:19",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
