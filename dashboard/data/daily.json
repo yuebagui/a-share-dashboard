@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-06",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-06 22:19:17",
+    "generatedAt": "2026-10-06 22:57:06",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120446,7 +120446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -120610,10 +120611,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-06",
-    "generatedAt": "2026-10-06 22:20:06",
+    "generatedAt": "2026-10-06 22:57:54",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -120621,17 +120622,83 @@
         "isFocusBoard": false
       },
       {
+        "name": "金融",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
-        "score": 6,
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "卡塔尔说结束地区冲突的谈判和信息交换仍在继续",
+        "summary": "【卡塔尔说结束地区冲突的谈判和信息交换仍在继续】卡塔尔外交部媒体与传播司司长易卜拉欣·哈什米6日在例行记者会上说，地区冲突有关各方之间的谈判和信息交换仍在通过卡塔尔及其地区伙伴进行，各方正通过外交努力弥合分歧。哈什米说，谈判仍在进行，并考虑到了各方关切。但他拒绝就具体方案、分歧焦点或其他技术性细节发表评论。哈什米说，整个世界为这场冲突付出巨大代价，必须竭尽…",
+        "publishedAt": "2026-10-06 22:26:55",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888810761.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "欧洲央行管委科赫尔称：欧元区经济对冲击表现出韧性 能源价格对预测构成上行风险",
+        "summary": "欧洲央行管委科赫尔称，欧元区经济对冲击表现出韧性，能源价格对预测构成上行风险。",
+        "publishedAt": "2026-10-06 22:23:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888809379.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "IMF：对冲基金快速扩张或放大市场风险",
+        "summary": "【IMF：对冲基金快速扩张或放大市场风险】国际货币基金组织（IMF）在6日公布的《全球金融稳定报告》第二章中指出，应警惕对冲基金可能对宏观金融稳定带来的风险。报告说，全球对冲基金资产规模增速过快，在资本市场波动中容易放大价格错位和流动性紧张，一旦遭遇严重负面冲击，可能引发系统性风险。",
+        "publishedAt": "2026-10-06 22:20:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888808077.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
       {
         "title": "印尼北加里曼丹省发生5.3级地震",
         "summary": "【印尼北加里曼丹省发生5.3级地震】据印尼气象、气候和地球物理局报告，当地时间10月6日20时11分，印尼北加里曼丹省塔拉坎市东北219公里处发生5.3级地震，震源深度为10公里，暂无海啸风险。",
@@ -120661,30 +120728,17 @@
         "noticeType": ""
       },
       {
-        "title": "资深投资人Jim Paulsen称三重压力下美股或跌15% 科技股恐下挫20%",
-        "summary": "【资深投资人Jim Paulsen称三重压力下美股或跌15% 科技股恐下挫20%】美股面对的“忧虑之墙”越高，爬升得似乎就越快，周一收盘距离历史高点仅一步之遥。不过，在备受关注的资深投资人士JimPaulsen看来，油价位于每桶100美元、美债收益率达到5%以及美元走强所累积的压力，尚未真正对市场造成显著冲击。Paulsen表示，过去当这三项因素同时对标普…",
-        "publishedAt": "2026-10-06 21:38:00",
+        "title": "太美医疗科技：10月6日斥资7.32万港元回购1.52万股",
+        "summary": "【太美医疗科技：10月6日斥资7.32万港元回购1.52万股】太美医疗科技（02576.HK）发布翌日披露报表，10月6日公司回购1.52万股，每股最高回购价4.89港元，每股最低回购价4.75港元，付出的总代价为7.32万港元，购回股份拟持作库存股份。",
+        "publishedAt": "2026-10-06 22:39:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888800293.html",
+        "url": "https://finance.eastmoney.com/a/202610063888811528.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国能源部长赖特：柴油价格在几周前已达到峰值",
-        "summary": "【美国能源部长赖特：柴油价格在几周前已达到峰值】美国能源部长赖特表示，柴油价格在几周前已达到峰值；霍尔木兹海峡仍然是冲突区，因此原油接近100美元；但原油价格正在下跌。",
-        "publishedAt": "2026-10-06 21:20:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888798264.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
-          "能源"
+          "医药",
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
@@ -120823,67 +120877,44 @@
         "noticeType": ""
       },
       {
-        "title": "也门胡塞武装称毙伤沙特支持的武装人员逾200人",
-        "summary": "【也门胡塞武装称毙伤沙特支持的武装人员逾200人】也门胡塞武装军事发言人叶海亚·萨雷亚6日在社交媒体发表声明称，胡塞武装当天在也门南部拉赫季省对“沙特支持的武装人员集结地”发动数十次袭击，造成对方200多人伤亡。",
-        "publishedAt": "2026-10-06 22:08:47",
+        "title": "北约拟以无人机和AI应对“可能的俄罗斯袭击”",
+        "summary": "【北约拟以无人机和AI应对“可能的俄罗斯袭击”】彭博社5日披露了北约的一份非机密文件，文件显示北约最高军事指挥官正在制定一项名为“胜利理论”的战略，旨在利用人工智能等新兴技术迅速击退“俄罗斯可能对北约东翼发起的进攻”。",
+        "publishedAt": "2026-10-06 22:50:43",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888807347.html",
+        "url": "https://finance.eastmoney.com/a/202610063888812919.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
-        "themes": [],
+        "themes": [
+          "AI算力",
+          "低空经济"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国9月全球供应链压力指数1.28 前值1.06",
-        "summary": "美国9月全球供应链压力指数1.28，前值1.06。",
-        "publishedAt": "2026-10-06 22:05:50",
+        "title": "美股存储股跌幅扩大 希捷科技跌超8% 西部数据跌近7% SK海力士跌超3%",
+        "summary": "美股存储股跌幅扩大，希捷科技跌超8%，西部数据跌近7%，SK海力士跌超3%。",
+        "publishedAt": "2026-10-06 22:47:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888807271.html",
+        "url": "https://finance.eastmoney.com/a/202610063888812878.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
-        "themes": [],
+        "themes": [
+          "半导体"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美股西部数据、希捷科技早盘跳水均跌6%左右 SK海力士跌近3%",
-        "summary": "美股西部数据、希捷科技早盘双双跳水，均跌6%左右，SK海力士跌近3%。",
-        "publishedAt": "2026-10-06 21:43:41",
+        "title": "外地客户涌入深圳买房  有深圳房产中介销售额暴增200%",
+        "summary": "【外地客户涌入深圳买房  有深圳房产中介销售额暴增200%】记者走访发现，国庆假期期间，深圳的二手房市场活跃度明显提升。非深户在深圳非核心区域购房，无需社保或个税即可购买2套。数据显示，2026年9月，深圳一二手住宅合计网签7049套，环比上涨2.7%。",
+        "publishedAt": "2026-10-06 22:43:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888802676.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中国男足0比1不敌塔吉克斯坦队",
-        "summary": "【中国男足0比1不敌塔吉克斯坦队】10月6日，在2026CFA中国之队·重庆国际足球邀请赛中，中国队0比1不敌塔吉克斯坦队。",
-        "publishedAt": "2026-10-06 21:43:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888801654.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "标普500指数开盘后快速冲高 创历史新高",
-        "summary": "标普500指数开盘后快速冲高，创历史新高，日内一度涨幅达0.6%，报7817点。",
-        "publishedAt": "2026-10-06 21:35:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888800088.html",
+        "url": "https://finance.eastmoney.com/a/202610063888812193.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120994,15 +121025,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-06 22:20:06",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、AI算力、能源。",
+        "generatedAt": "2026-10-06 22:57:54",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 5 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121033,7 +121064,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-06 22:19:17",
+        "generatedAt": "2026-10-06 22:57:06",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121072,7 +121103,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-06 22:19:17",
+        "generatedAt": "2026-10-06 22:57:06",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121098,7 +121129,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：印尼北加里曼丹省发生5.3级地震；以色列政府发出旅行警告 提醒海外公民防范潜在安全风险。",
+              "新闻/公告风险：卡塔尔说结束地区冲突的谈判和信息交换仍在继续；欧洲央行管委科赫尔称：欧元区经济对冲击表现出韧性 能源价格对预测构成上行风险。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
