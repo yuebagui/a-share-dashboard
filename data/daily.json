@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-06",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-06 18:47:19",
+    "generatedAt": "2026-10-06 22:19:17",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120611,12 +120611,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-06",
-    "generatedAt": "2026-10-06 18:47:59",
+    "generatedAt": "2026-10-06 22:20:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: '代码'"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、AI算力、能源。",
     "themes": [
       {
         "name": "有色稀土",
@@ -120624,51 +120622,68 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 7,
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "Constellation Energy美股盘前涨超5%",
-        "summary": "ConstellationEnergy美股盘前拉升，现涨超5%。报道称谷歌与ConstellationEnergy签署20年电力购买协议，将为PJM互联电网新增890兆瓦（MW）的可靠核电装机容量，该协议将创造约7200个就业岗位，投资43亿美元。",
-        "publishedAt": "2026-10-06 18:40:58",
+        "title": "印尼北加里曼丹省发生5.3级地震",
+        "summary": "【印尼北加里曼丹省发生5.3级地震】据印尼气象、气候和地球物理局报告，当地时间10月6日20时11分，印尼北加里曼丹省塔拉坎市东北219公里处发生5.3级地震，震源深度为10公里，暂无海啸风险。",
+        "publishedAt": "2026-10-06 22:05:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888780852.html",
+        "url": "https://finance.eastmoney.com/a/202610063888807161.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "以色列政府发出旅行警告 提醒海外公民防范潜在安全风险",
+        "summary": "【以色列政府发出旅行警告 提醒海外公民防范潜在安全风险】当地时间6日，以色列总理办公室通过社交媒体发布官方通知称，在2023年10月7日新一轮巴以冲突爆发三周年来临之际，提醒海外以色列公民提高安全防范意识，以应对潜在的袭击风险和示威活动。",
+        "publishedAt": "2026-10-06 21:56:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888806182.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "资深投资人Jim Paulsen称三重压力下美股或跌15% 科技股恐下挫20%",
+        "summary": "【资深投资人Jim Paulsen称三重压力下美股或跌15% 科技股恐下挫20%】美股面对的“忧虑之墙”越高，爬升得似乎就越快，周一收盘距离历史高点仅一步之遥。不过，在备受关注的资深投资人士JimPaulsen看来，油价位于每桶100美元、美债收益率达到5%以及美元走强所累积的压力，尚未真正对市场造成显著冲击。Paulsen表示，过去当这三项因素同时对标普…",
+        "publishedAt": "2026-10-06 21:38:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888800293.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国能源部长赖特：柴油价格在几周前已达到峰值",
+        "summary": "【美国能源部长赖特：柴油价格在几周前已达到峰值】美国能源部长赖特表示，柴油价格在几周前已达到峰值；霍尔木兹海峡仍然是冲突区，因此原油接近100美元；但原油价格正在下跌。",
+        "publishedAt": "2026-10-06 21:20:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888798264.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "能源"
         ],
@@ -120677,47 +120692,15 @@
         "noticeType": ""
       },
       {
-        "title": "下半年装机旺季叠加毛利率修复 这几家风电设备公司被机构加仓",
-        "summary": "【下半年装机旺季叠加毛利率修复 这几家风电设备公司被机构加仓】2026年中报收官，风电设备板块“增收不增利”：32家公司营收增长12.03%，归母净利却下滑23.72%。整机营收虽增19.29%，净利却降35.17%，主因低价订单交付、原材料波动及汇兑损失。但随着下半年装机旺季到来，叠加成本压力减弱、低价订单去化，盈利修复可期。近期机构调研热度明显回升，行…",
-        "publishedAt": "2026-10-06 18:29:31",
+        "title": "迈威尔科技涨超10%",
+        "summary": "【迈威尔科技涨超10%】迈威尔科技盘初拉升，现涨超10%，公司今日举行2026年投资者日，CEO表示公司预计28财年总收入约为200亿美元；到2030年，公司总潜在市场规模预计约为4000亿美元。",
+        "publishedAt": "2026-10-06 21:46:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888779612.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "华尔街交易和投行业务迎来丰收年 奖金预计将创纪录新高",
-        "summary": "【华尔街交易和投行业务迎来丰收年 奖金预计将创纪录新高】华尔街交易和投行业务增长强劲，今年行业利润有望突破900亿美元，刷新历史，奖金规模预计也将达到纪录高位。纽约州审计长ThomasDiNapoli的一份报告显示，按2026年上半年的增长势头估算，行业全年利润将轻松超过去年的651亿美元纪录。",
-        "publishedAt": "2026-10-06 18:21:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888779871.html",
+        "url": "https://finance.eastmoney.com/a/202610063888803744.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "腾讯控股：10月6日斥资1亿港元回购23.5万股",
-        "summary": "【腾讯控股：10月6日斥资1亿港元回购23.5万股】腾讯控股（00700.HK）发布翌日披露报表，10月6日，公司回购23.5万股，每股最高回购价为429.2港元，每股最低回购价为425.6港元，付出的总代价为1亿港元。回购股份拟注销。",
-        "publishedAt": "2026-10-06 17:36:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888770297.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -120841,11 +120824,11 @@
         "noticeType": ""
       },
       {
-        "title": "西班牙政府批准新的紧急住房法令",
-        "summary": "西班牙政府批准新的紧急住房法令。",
-        "publishedAt": "2026-10-06 18:42:12",
+        "title": "也门胡塞武装称毙伤沙特支持的武装人员逾200人",
+        "summary": "【也门胡塞武装称毙伤沙特支持的武装人员逾200人】也门胡塞武装军事发言人叶海亚·萨雷亚6日在社交媒体发表声明称，胡塞武装当天在也门南部拉赫季省对“沙特支持的武装人员集结地”发动数十次袭击，造成对方200多人伤亡。",
+        "publishedAt": "2026-10-06 22:08:47",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888780762.html",
+        "url": "https://finance.eastmoney.com/a/202610063888807347.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120855,59 +120838,11 @@
         "noticeType": ""
       },
       {
-        "title": "保总理：有商船在保加利亚黑海专属经济区遭袭沉没",
-        "summary": "【保总理：有商船在保加利亚黑海专属经济区遭袭沉没】当地时间10月6日，保加利亚总理拉德夫主持召开会议，处理两艘轮船在黑海保加利亚专属经济区内遭无人机袭击事件。拉德夫表示，当天凌晨3时左右，两艘商船遭到无人机袭击，两船均受损。",
-        "publishedAt": "2026-10-06 18:40:58",
+        "title": "美国9月全球供应链压力指数1.28 前值1.06",
+        "summary": "美国9月全球供应链压力指数1.28，前值1.06。",
+        "publishedAt": "2026-10-06 22:05:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888780698.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "瑞穗银行将AMD目标价从580美元上调至705美元",
-        "summary": "瑞穗银行将AMD目标价从580美元上调至705美元。",
-        "publishedAt": "2026-10-06 18:38:32",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888780579.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国银行全球研究将阿斯麦欧股价格目标从2452欧元上调至2557欧元",
-        "summary": "美国银行全球研究将阿斯麦欧股价格目标从2452欧元上调至2557欧元。",
-        "publishedAt": "2026-10-06 18:34:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888781042.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "迎返程高峰 广东高速今天中午起车流量高位运行",
-        "summary": "【迎返程高峰 广东高速今天中午起车流量高位运行】今天（10月6日），记者从广东省公安厅交通管理局了解到，今年国庆假期高速公路返程车流量从今天中午开始高位运行，预计持续到10月7日假期结束。",
-        "publishedAt": "2026-10-06 18:23:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888779920.html",
+        "url": "https://finance.eastmoney.com/a/202610063888807271.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120917,18 +120852,43 @@
         "noticeType": ""
       },
       {
-        "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
-        "summary": "【苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产】AMD首席执行官苏姿丰（LisaSu）预计，尽管芯片行业正面临AI安全等一系列挑战，未来几年的需求仍将保持“非常旺盛”的状态。",
-        "publishedAt": "2026-10-06 18:22:39",
+        "title": "美股西部数据、希捷科技早盘跳水均跌6%左右 SK海力士跌近3%",
+        "summary": "美股西部数据、希捷科技早盘双双跳水，均跌6%左右，SK海力士跌近3%。",
+        "publishedAt": "2026-10-06 21:43:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888779327.html",
+        "url": "https://finance.eastmoney.com/a/202610063888802676.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中国男足0比1不敌塔吉克斯坦队",
+        "summary": "【中国男足0比1不敌塔吉克斯坦队】10月6日，在2026CFA中国之队·重庆国际足球邀请赛中，中国队0比1不敌塔吉克斯坦队。",
+        "publishedAt": "2026-10-06 21:43:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888801654.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "标普500指数开盘后快速冲高 创历史新高",
+        "summary": "标普500指数开盘后快速冲高，创历史新高，日内一度涨幅达0.6%，报7817点。",
+        "publishedAt": "2026-10-06 21:35:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888800088.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -121035,15 +120995,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-06 18:47:59",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-06 22:20:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 4 条；主题映射集中在 有色稀土、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121074,7 +121034,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-06 18:47:19",
+        "generatedAt": "2026-10-06 22:19:17",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121113,7 +121073,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-06 18:47:19",
+        "generatedAt": "2026-10-06 22:19:17",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121139,7 +121099,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
+              "新闻/公告风险：印尼北加里曼丹省发生5.3级地震；以色列政府发出旅行警告 提醒海外公民防范潜在安全风险。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
