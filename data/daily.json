@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-07",
     "phase": "盘中快照",
-    "generatedAt": "2026-10-07 02:52:02",
+    "generatedAt": "2026-10-07 02:55:39",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120611,17 +120611,26 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-07",
-    "generatedAt": "2026-10-07 02:52:39",
+    "generatedAt": "2026-10-07 02:56:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: '代码'",
-      "macro-calendar: HTTP Error 403: "
+      "notices: '代码'"
     ],
-    "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 1 条；主题映射集中在 AI算力、金融、汽车链。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 1 条；主题映射集中在 能源、AI算力、有色稀土。",
     "themes": [
       {
+        "name": "能源",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
-        "score": 4,
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -120666,6 +120675,130 @@
         ],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月EIA月报预估-当年WTI原油价格(美元/桶)",
+        "summary": "美国10月EIA月报预估-当年WTI原油价格(美元/桶)；公布 88.21，预期 nan，前值 84.65。",
+        "publishedAt": "2026-10-07 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月EIA月报预估-当年布伦特原油价格(美元/桶)",
+        "summary": "美国10月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 96.32，预期 nan，前值 91.01。",
+        "publishedAt": "2026-10-07 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月2日当周API原油库存变动(万桶)",
+        "summary": "美国截至10月2日当周API原油库存变动(万桶)；公布 nan，预期 nan，前值 101.9。",
+        "publishedAt": "2026-10-07 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月2日当周API汽油库存变动(万桶)",
+        "summary": "美国截至10月2日当周API汽油库存变动(万桶)；公布 nan，预期 nan，前值 299.1。",
+        "publishedAt": "2026-10-07 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚9月AIG制造业表现指数",
+        "summary": "澳大利亚9月AIG制造业表现指数；公布 nan，预期 nan，前值 -16.6。",
+        "publishedAt": "2026-10-07 06:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月5日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月5日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234796.19。",
+        "publishedAt": "2026-10-07 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月6日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月6日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15345.27。",
+        "publishedAt": "2026-10-07 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月6日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月6日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1056.27。",
+        "publishedAt": "2026-10-07 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       },
       {
@@ -120779,94 +120912,6 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
-      },
-      {
-        "title": "OpenAI与Ironclad开展合作 针对复杂合同工作流开展人工智能智能体研究",
-        "summary": "OpenAI与Ironclad开展合作，针对复杂合同工作流开展人工智能智能体研究。",
-        "publishedAt": "2026-10-07 01:43:02",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888827357.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "派拉蒙完成对华纳兄弟探索公司收购",
-        "summary": "【派拉蒙完成对华纳兄弟探索公司收购】当地时间10月6日，派拉蒙（Paramount）宣布完成对华纳兄弟探索公司（Warner Bros. Discovery）的收购。合并后的公司天空之舞（Skydance）将由亿万富翁大卫·埃里森（David Ellison）及新任联合首席执行官伊农·克雷兹（Ynon Kreiz）领导。",
-        "publishedAt": "2026-10-07 01:32:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888827240.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储施密德表示 通货膨胀令人沮丧 必须解决",
-        "summary": "美联储施密德表示，通货膨胀令人沮丧，必须解决；在抑制通胀方面仍有很长的路要走；人工智能现在是通胀的主要推动力之一。",
-        "publishedAt": "2026-10-07 01:24:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888827156.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "谷歌与美国最大核电运营商Constellation Energy达成一项为期20年的核电协议",
-        "summary": "谷歌与美国最大核电运营商Constellation Energy达成一项为期20年的核电协议。",
-        "publishedAt": "2026-10-07 01:18:02",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888826989.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国3年期国债中标利率为4.932% 创2006年以来最高拍卖收益率",
-        "summary": "美国3年期国债中标利率为4.932%，创2006年以来最高拍卖收益率。",
-        "publishedAt": "2026-10-07 01:12:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888826792.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制",
-        "summary": "【因士兵涉嫌抢劫杀人 驻冲绳美军实施外出限制】据日本方面6日消息，在一名驻冲绳美军士兵因涉嫌抢劫杀人被捕后，驻冲绳美军最高负责人、冲绳地区协调官沃森6日下令，自9日起对所有驻冲绳美军人员实施为期30天的外出限制，每日零时至凌晨5时禁止外出。",
-        "publishedAt": "2026-10-07 01:01:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888826527.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       }
     ]
   },
@@ -120970,15 +121015,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-07 02:52:39",
-        "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 1 条；主题映射集中在 AI算力、金融、汽车链。",
+        "generatedAt": "2026-10-07 02:56:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 1 条；主题映射集中在 能源、AI算力、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、汽车链；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121009,7 +121054,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-07 02:52:02",
+        "generatedAt": "2026-10-07 02:55:39",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121048,7 +121093,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-07 02:52:02",
+        "generatedAt": "2026-10-07 02:55:39",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
