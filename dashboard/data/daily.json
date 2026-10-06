@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-06",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-06 05:12:23",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-06 05:12:23",
+    "lastNewsAt": "2026-10-06 14:48:17"
   },
   "indices": [
     {
@@ -120611,31 +120613,31 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-06",
-    "generatedAt": "2026-10-06 05:13:00",
+    "generatedAt": "2026-10-06 14:48:17",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: '代码'"
+      "notices: HTTPSConnectionPool(host='np-anotice-stock.eastmoney.com', port=443): Max retries exceeded with url: /api/security/ann?sr=-1&page_size=100&page_index=1&ann_type=A&client_source=web&f_node=0&s_node=0&begin_time=2026-10-06&end_time=2026-10-06 (Caused by NewConnectionError(\"HTTPSConnection(host='np-anotice-stock.eastmoney.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 1 条；主题映射集中在 有色稀土、低空经济、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 2,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -120651,24 +120653,67 @@
     ],
     "items": [
       {
-        "title": "美国纽约联邦储备银行走访大型银行 将就总体风险敞口质询各大银行",
-        "summary": "美国纽约联邦储备银行走访大型银行，将就总体风险敞口质询各大银行。",
-        "publishedAt": "2026-10-06 04:16:27",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888704583.html",
+        "title": "越南VN指数下跌1%，报1735.57点。",
+        "summary": "越南VN指数下跌1%，报1735.57点。",
+        "publishedAt": "2026-10-06 14:41:08",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "植田和男：将通过观察经济前景和风险来决定加息步伐。",
+        "summary": "植田和男：将通过观察经济前景和风险来决定加息步伐。",
+        "publishedAt": "2026-10-06 14:33:07",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "AMD苏姿丰密会台积电 证实中国台湾百亿美元投资将加码",
+        "summary": "【AMD苏姿丰密会台积电 证实中国台湾百亿美元投资将加码】据报道，AMD CEO苏姿丰今天密集拜会鸿海、广达、华硕、宏碁等代工与品牌大厂，下午更驱车直奔新竹密会晶圆代工龙头台积电。面对强劲的AI运算需求，苏姿丰证实，AMD先前宣布在中国台湾投资100亿美元（约新台币3176亿元）的供应链计划不仅符合进度，更因市场需求暴增，已决定调高相关投资金额，未来将持续…",
+        "publishedAt": "2026-10-06 14:37:11",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "金融"
+          "半导体",
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
+        "title": "花旗：土耳其年末通胀将达30%",
+        "summary": "【花旗：土耳其年末通胀将达30%】花旗集团经济学家预计，土耳其本年度年末通胀将达到 30%，略低于 2025 年末 30.9% 的水平。花旗经济学家伊尔克尔・多马克与居尔泰金・伊什克拉尔周一在报告中写道：“即便经济增长预期走弱，通胀前景依旧充满挑战。”花旗预计土耳其央行将在 10 月下调政策利率 100 个基点，并维持年末政策利率 35% 的预测不变。",
+        "publishedAt": "2026-10-06 14:35:57",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "美国10月5日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月5日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1055.7。",
+        "summary": "美国10月5日SPDR黄金持仓-每日更新(吨)；公布 1056.27，预期 nan，前值 1055.7。",
         "publishedAt": "2026-10-06 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120684,7 +120729,7 @@
       },
       {
         "title": "美国10月5日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月5日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.54。",
+        "summary": "美国10月5日iShares黄金持仓-每日更新(吨)；公布 463.54，预期 nan，前值 463.54。",
         "publishedAt": "2026-10-06 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120700,7 +120745,7 @@
       },
       {
         "title": "美国10月2日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月2日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234797.47。",
+        "summary": "美国10月2日COMEX黄金库存-每日更新(百盎司)；公布 234796.19，预期 nan，前值 234797.47。",
         "publishedAt": "2026-10-06 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120716,7 +120761,7 @@
       },
       {
         "title": "美国10月5日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月5日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15345.27。",
+        "summary": "美国10月5日iShares白银持仓-每日更新(吨)；公布 15345.27，预期 nan，前值 15345.27。",
         "publishedAt": "2026-10-06 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120730,7 +120775,7 @@
       },
       {
         "title": "澳大利亚截至10月4日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至10月4日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 70.5。",
+        "summary": "澳大利亚截至10月4日当周ANZ消费者信心指数；公布 67.1，预期 nan，前值 70.5。",
         "publishedAt": "2026-10-06 08:30",
         "source": "百度财经日历",
         "url": "",
@@ -120785,27 +120830,11 @@
         "noticeType": ""
       },
       {
-        "title": "巴拿马型船闸将试行长期通航预约",
-        "summary": "【巴拿马型船闸将试行长期通航预约】巴拿马运河管理局5日发布公告说，将通过“长期通航名额分配计划”提前分配2027年1月3日至4月3日期间的长期通航名额，并首次将这一机制从新巴拿马型船闸扩展至巴拿马型船闸试行。",
-        "publishedAt": "2026-10-06 05:11:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888706316.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "沙特阿拉伯首都利雅得5日晚传出爆炸声",
-        "summary": "沙特阿拉伯首都利雅得5日晚传出爆炸声。",
-        "publishedAt": "2026-10-06 05:05:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888705995.html",
+        "title": "越南Vingroup集团与阿尔斯通签署技术许可协议，开发河内下一代城市轨道交通网络。",
+        "summary": "越南Vingroup集团与阿尔斯通签署技术许可协议，开发河内下一代城市轨道交通网络。",
+        "publishedAt": "2026-10-06 14:45:40",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120815,27 +120844,27 @@
         "noticeType": ""
       },
       {
-        "title": "国际贵金属期货收涨",
-        "summary": "国际贵金属期货收涨，COMEX黄金期货涨0.13%，报4167.6美元/盎司；COMEX白银期货涨1.63%，报61.4美元/盎司。",
-        "publishedAt": "2026-10-06 05:02:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888705437.html",
+        "title": "WTI原油日内跌1%，现报88.53美元/桶。",
+        "summary": "WTI原油日内跌1%，现报88.53美元/桶。",
+        "publishedAt": "2026-10-06 14:45:39",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "韩国9月外汇储备报4405.6亿美元",
-        "summary": "韩国9月外汇储备报4405.6亿美元，前值4422.8亿美元。",
-        "publishedAt": "2026-10-06 05:00:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888705318.html",
+        "title": "市场消息：蚂蚁国际与汇丰将实时财资管理服务拓展至中东地区。",
+        "summary": "市场消息：蚂蚁国际与汇丰将实时财资管理服务拓展至中东地区。",
+        "publishedAt": "2026-10-06 14:45:36",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120845,11 +120874,11 @@
         "noticeType": ""
       },
       {
-        "title": "沙特主导的联军称在也门荷台达省实施军事行动",
-        "summary": "【沙特主导的联军称在也门荷台达省实施军事行动】当地时间10月5日，沙特主导的多国联军发言人图尔基·马利基表示，联军海军部队当天在也门荷台达省实施军事行动，打击了胡塞武装相关军事目标。",
-        "publishedAt": "2026-10-06 04:57:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888705713.html",
+        "title": "法国8月工业产出月率 -0.3%，预期0.2%，前值由-0.40%修正为-0.6%…",
+        "summary": "法国8月工业产出月率 -0.3%，预期0.2%，前值由-0.40%修正为-0.6%。法国8月政府预算 -1596亿欧元，前值-1459亿欧元。",
+        "publishedAt": "2026-10-06 14:45:08",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120859,11 +120888,11 @@
         "noticeType": ""
       },
       {
-        "title": "美国纽约州宣布针对麻疹疫情进入灾难紧急状态",
-        "summary": "【美国纽约州宣布针对麻疹疫情进入灾难紧急状态】当地时间10月5日，美国纽约州州长凯西·霍楚尔发布命令称，纽约州针对麻疹疫情宣布进入灾难紧急状态，有效期为2026年10月5日至11月4日。截至2026年10月3日，纽约州报告麻疹病例108例。",
-        "publishedAt": "2026-10-06 04:57:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888705878.html",
+        "title": "法国财政部长表示：我们必须尽一切努力避免走到那一步。",
+        "summary": "法国财政部长表示：我们必须尽一切努力避免走到那一步。",
+        "publishedAt": "2026-10-06 14:42:51",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120873,44 +120902,11 @@
         "noticeType": ""
       },
       {
-        "title": "也门胡塞武装称对沙特境内多个目标实施三轮军事行动",
-        "summary": "【也门胡塞武装称对沙特境内多个目标实施三轮军事行动】也门胡塞武装10月5日夜间发表声明称，为回应沙特过去24小时对也门发动的军事行动，胡塞武装当天实施三轮军事行动，使用大量弹道导弹、巡航导弹和无人机，分别袭击沙特利雅得哈立德国王国际机场、拉比格阿美炼油厂，以及艾卜哈机场、海米斯穆谢特基地、阿西尔省阿基法军营和纳季兰、吉赞省的多个敏感目标。",
-        "publishedAt": "2026-10-06 04:54:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888705633.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "军工",
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判",
-        "summary": "OpenAI已与Thrive、Andreessen Horowitz进行融资谈判，同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
-        "publishedAt": "2026-10-06 04:51:30",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888706074.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "土耳其一客机发现爆炸物威胁纸条 143人安全撤离",
-        "summary": "【土耳其一客机发现爆炸物威胁纸条 143人安全撤离】总台记者获悉，当地时间10月5日晚，一架从土耳其首都安卡拉飞往尚勒乌尔法的客机上发现一张声称机上有爆炸物的纸条。",
-        "publishedAt": "2026-10-06 04:38:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610063888705251.html",
+        "title": "法国经济财政部长：我们现在还没到可以开始讨论欧洲央行传导保护工具的时候。",
+        "summary": "法国经济财政部长：我们现在还没到可以开始讨论欧洲央行传导保护工具的时候。",
+        "publishedAt": "2026-10-06 14:42:47",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -121008,7 +121004,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121021,15 +121017,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-06 05:13:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 1 条；主题映射集中在 有色稀土、低空经济、军工。",
+        "generatedAt": "2026-10-06 14:48:17",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、低空经济、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121125,7 +121121,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：美国纽约联邦储备银行走访大型银行 将就总体风险敞口质询各大银行。",
+              "新闻/公告风险：越南VN指数下跌1%，报1735.57点。；植田和男：将通过观察经济前景和风险来决定加息步伐。。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
