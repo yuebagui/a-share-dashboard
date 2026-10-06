@@ -1,12 +1,10 @@
 {
   "meta": {
     "tradeDate": "2026-10-06",
-    "phase": "盘前简报",
-    "generatedAt": "2026-10-06 05:12:23",
+    "phase": "盘后复盘",
+    "generatedAt": "2026-10-06 18:38:40",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [],
-    "marketGeneratedAt": "2026-10-06 05:12:23",
-    "lastNewsAt": "2026-10-06 14:48:17"
+    "errors": []
   },
   "indices": [
     {
@@ -120613,12 +120611,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-06",
-    "generatedAt": "2026-10-06 14:48:17",
+    "generatedAt": "2026-10-06 18:39:31",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: HTTPSConnectionPool(host='np-anotice-stock.eastmoney.com', port=443): Max retries exceeded with url: /api/security/ann?sr=-1&page_size=100&page_index=1&ann_type=A&client_source=web&f_node=0&s_node=0&begin_time=2026-10-06&end_time=2026-10-06 (Caused by NewConnectionError(\"HTTPSConnection(host='np-anotice-stock.eastmoney.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      "notices: '代码'"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -120626,87 +120624,84 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "金融",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "低空经济",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "越南VN指数下跌1%，报1735.57点。",
-        "summary": "越南VN指数下跌1%，报1735.57点。",
-        "publishedAt": "2026-10-06 14:41:08",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "植田和男：将通过观察经济前景和风险来决定加息步伐。",
-        "summary": "植田和男：将通过观察经济前景和风险来决定加息步伐。",
-        "publishedAt": "2026-10-06 14:33:07",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "AMD苏姿丰密会台积电 证实中国台湾百亿美元投资将加码",
-        "summary": "【AMD苏姿丰密会台积电 证实中国台湾百亿美元投资将加码】据报道，AMD CEO苏姿丰今天密集拜会鸿海、广达、华硕、宏碁等代工与品牌大厂，下午更驱车直奔新竹密会晶圆代工龙头台积电。面对强劲的AI运算需求，苏姿丰证实，AMD先前宣布在中国台湾投资100亿美元（约新台币3176亿元）的供应链计划不仅符合进度，更因市场需求暴增，已决定调高相关投资金额，未来将持续…",
-        "publishedAt": "2026-10-06 14:37:11",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "下半年装机旺季叠加毛利率修复 这几家风电设备公司被机构加仓",
+        "summary": "【下半年装机旺季叠加毛利率修复 这几家风电设备公司被机构加仓】2026年中报收官，风电设备板块“增收不增利”：32家公司营收增长12.03%，归母净利却下滑23.72%。整机营收虽增19.29%，净利却降35.17%，主因低价订单交付、原材料波动及汇兑损失。但随着下半年装机旺季到来，叠加成本压力减弱、低价订单去化，盈利修复可期。近期机构调研热度明显回升，行…",
+        "publishedAt": "2026-10-06 18:29:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888779612.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体",
-          "AI算力"
+          "新能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "花旗：土耳其年末通胀将达30%",
-        "summary": "【花旗：土耳其年末通胀将达30%】花旗集团经济学家预计，土耳其本年度年末通胀将达到 30%，略低于 2025 年末 30.9% 的水平。花旗经济学家伊尔克尔・多马克与居尔泰金・伊什克拉尔周一在报告中写道：“即便经济增长预期走弱，通胀前景依旧充满挑战。”花旗预计土耳其央行将在 10 月下调政策利率 100 个基点，并维持年末政策利率 35% 的预测不变。",
-        "publishedAt": "2026-10-06 14:35:57",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "华尔街交易和投行业务迎来丰收年 奖金预计将创纪录新高",
+        "summary": "【华尔街交易和投行业务迎来丰收年 奖金预计将创纪录新高】华尔街交易和投行业务增长强劲，今年行业利润有望突破900亿美元，刷新历史，奖金规模预计也将达到纪录高位。纽约州审计长ThomasDiNapoli的一份报告显示，按2026年上半年的增长势头估算，行业全年利润将轻松超过去年的651亿美元纪录。",
+        "publishedAt": "2026-10-06 18:21:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888779871.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "腾讯控股：10月6日斥资1亿港元回购23.5万股",
+        "summary": "【腾讯控股：10月6日斥资1亿港元回购23.5万股】腾讯控股（00700.HK）发布翌日披露报表，10月6日，公司回购23.5万股，每股最高回购价为429.2港元，每股最低回购价为425.6港元，付出的总代价为1亿港元。回购股份拟注销。",
+        "publishedAt": "2026-10-06 17:36:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888770297.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -120789,7 +120784,7 @@
       },
       {
         "title": "瑞士9月未季调失业率(%)",
-        "summary": "瑞士9月未季调失业率(%)；公布 nan，预期 nan，前值 3.0。",
+        "summary": "瑞士9月未季调失业率(%)；公布 3.0，预期 nan，前值 3.0。",
         "publishedAt": "2026-10-06 15:00",
         "source": "百度财经日历",
         "url": "",
@@ -120803,7 +120798,7 @@
       },
       {
         "title": "瑞士9月季调后失业率(%)",
-        "summary": "瑞士9月季调后失业率(%)；公布 nan，预期 3.1，前值 3.1。",
+        "summary": "瑞士9月季调后失业率(%)；公布 3.1，预期 3.1，前值 3.1。",
         "publishedAt": "2026-10-06 15:00",
         "source": "百度财经日历",
         "url": "",
@@ -120817,7 +120812,7 @@
       },
       {
         "title": "欧元区8月零售销售月率(%)",
-        "summary": "欧元区8月零售销售月率(%)；公布 nan，预期 0.2，前值 -0.6。",
+        "summary": "欧元区8月零售销售月率(%)；公布 0.1，预期 0.2，前值 -0.6。",
         "publishedAt": "2026-10-06 17:00",
         "source": "百度财经日历",
         "url": "",
@@ -120830,11 +120825,11 @@
         "noticeType": ""
       },
       {
-        "title": "越南Vingroup集团与阿尔斯通签署技术许可协议，开发河内下一代城市轨道交通网络。",
-        "summary": "越南Vingroup集团与阿尔斯通签署技术许可协议，开发河内下一代城市轨道交通网络。",
-        "publishedAt": "2026-10-06 14:45:40",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "迎返程高峰 广东高速今天中午起车流量高位运行",
+        "summary": "【迎返程高峰 广东高速今天中午起车流量高位运行】今天（10月6日），记者从广东省公安厅交通管理局了解到，今年国庆假期高速公路返程车流量从今天中午开始高位运行，预计持续到10月7日假期结束。",
+        "publishedAt": "2026-10-06 18:23:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888779920.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120844,15 +120839,63 @@
         "noticeType": ""
       },
       {
-        "title": "WTI原油日内跌1%，现报88.53美元/桶。",
-        "summary": "WTI原油日内跌1%，现报88.53美元/桶。",
-        "publishedAt": "2026-10-06 14:45:39",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
+        "summary": "【苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产】AMD首席执行官苏姿丰（LisaSu）预计，尽管芯片行业正面临AI安全等一系列挑战，未来几年的需求仍将保持“非常旺盛”的状态。",
+        "publishedAt": "2026-10-06 18:22:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888779327.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "胡塞武装称袭击沙特艾卜哈机场等目标",
+        "summary": "【胡塞武装称袭击沙特艾卜哈机场等目标】也门胡塞武装当地时间10月6日发表声明说，向沙特艾卜哈国际机场发射弹道导弹，并使用多枚弹道导弹袭击沙特吉赞省达加里尔军事营地。",
+        "publishedAt": "2026-10-06 18:15:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888778069.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "浙BA点燃国庆观赛热：一张球票背后的“乘数效应”",
+        "summary": "【浙BA点燃国庆观赛热：一张球票背后的“乘数效应”】10月1日晚，舟山体育馆外人头攒动。“球迷乐园”文旅市集的烧烤香气混着呐喊声飘散在夜风里。来自上海的球迷李先生原计划假期中期才到舟山，看到浙江省城市篮球联赛(浙BA)赛事消息后提前上了岛。“先看球赛，后续几天吃海鲜、看海景。”他说道。",
+        "publishedAt": "2026-10-06 18:06:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888777929.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "沙特称东西输油管道日输油量已恢复至580万桶",
+        "summary": "【沙特称东西输油管道日输油量已恢复至580万桶】当地时间10月6日，沙特阿拉伯能源大臣阿卜杜勒-阿齐兹·本·萨勒曼表示，目前，沙特东西输油管道日输油量已恢复到580万桶。9月，沙特东西输油管道一度因遭到无人机袭击而停止运行。沙特东西输油管道连接该国东部主要产油区和红海沿岸的延布港，最大输送能力约为每日700万桶，是沙特原油出口绕开霍尔木兹海峡的重要替代通道。",
+        "publishedAt": "2026-10-06 17:58:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888777441.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "低空经济",
           "能源"
         ],
         "tickers": [],
@@ -120860,11 +120903,11 @@
         "noticeType": ""
       },
       {
-        "title": "市场消息：蚂蚁国际与汇丰将实时财资管理服务拓展至中东地区。",
-        "summary": "市场消息：蚂蚁国际与汇丰将实时财资管理服务拓展至中东地区。",
-        "publishedAt": "2026-10-06 14:45:36",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "2026年诺贝尔物理学奖揭晓",
+        "summary": "【2026年诺贝尔物理学奖揭晓】当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台作出的决定性贡献，以及对天体物理来源高能中微子的发现。",
+        "publishedAt": "2026-10-06 17:50:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888774622.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120874,43 +120917,17 @@
         "noticeType": ""
       },
       {
-        "title": "法国8月工业产出月率 -0.3%，预期0.2%，前值由-0.40%修正为-0.6%…",
-        "summary": "法国8月工业产出月率 -0.3%，预期0.2%，前值由-0.40%修正为-0.6%。法国8月政府预算 -1596亿欧元，前值-1459亿欧元。",
-        "publishedAt": "2026-10-06 14:45:08",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "老干妈质检用上AI 去年营收54亿创历史峰值 线上仍处“断网”状态",
+        "summary": "【老干妈质检用上AI 去年营收54亿创历史峰值 线上仍处“断网”状态】近日，老干妈常务副总、首席质量官李鑫在2026年贵州省质量发展大会上透露，2025年，老干妈全面上线AI视觉质检系统，营收达54亿元，创历史最高峰值。",
+        "publishedAt": "2026-10-06 17:48:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610063888776096.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "法国财政部长表示：我们必须尽一切努力避免走到那一步。",
-        "summary": "法国财政部长表示：我们必须尽一切努力避免走到那一步。",
-        "publishedAt": "2026-10-06 14:42:51",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "法国经济财政部长：我们现在还没到可以开始讨论欧洲央行传导保护工具的时候。",
-        "summary": "法国经济财政部长：我们现在还没到可以开始讨论欧洲央行传导保护工具的时候。",
-        "publishedAt": "2026-10-06 14:42:47",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -121004,7 +121021,7 @@
     }
   ],
   "reports": {
-    "active": "pre-market",
+    "active": "post-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121017,15 +121034,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-06 14:48:17",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 有色稀土、AI算力、能源。",
+        "generatedAt": "2026-10-06 18:39:31",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121056,7 +121073,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-06 05:12:23",
+        "generatedAt": "2026-10-06 18:38:40",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121095,7 +121112,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-06 05:12:23",
+        "generatedAt": "2026-10-06 18:38:40",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121121,7 +121138,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：越南VN指数下跌1%，报1735.57点。；植田和男：将通过观察经济前景和风险来决定加息步伐。。",
+              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
