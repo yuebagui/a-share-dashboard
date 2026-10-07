@@ -1,12 +1,10 @@
 {
   "meta": {
     "tradeDate": "2026-10-07",
-    "phase": "盘前简报",
-    "generatedAt": "2026-10-07 02:55:39",
+    "phase": "盘后复盘",
+    "generatedAt": "2026-10-07 18:29:06",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [],
-    "marketGeneratedAt": "2026-10-07 02:55:39",
-    "lastNewsAt": "2026-10-07 14:19:49"
+    "errors": []
   },
   "indices": [
     {
@@ -120613,248 +120611,88 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-07",
-    "generatedAt": "2026-10-07 14:19:49",
+    "generatedAt": "2026-10-07 18:29:45",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: '代码'"
+      "notices: '代码'",
+      "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 能源、有色稀土、军工。",
+    "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
       {
-        "name": "能源",
-        "score": 12,
+        "name": "金融",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "港股午评：恒生指数跌0.53% 恒生科技指数跌0.91%",
-        "summary": "港股午间收盘，恒生指数跌0.53%，恒生科技指数跌0.91%。大型科网股走弱，阿里巴巴跌超3%，百度集团跌逾2%，美团、小米集团跌超1%。半导体股集体下跌，澜起科技跌逾6%，爱芯元智跌近6%，兆易创新跌超3%，江波龙跌超2%。生物医药股回调，和铂医药跌超7%，康希诺生物跌近6%，君实生物跌逾4%。",
-        "publishedAt": "2026-10-07 12:00:51",
+        "title": "中亚股份：实控人及其一致行动人拟合计减持股份不超1177.9万股",
+        "summary": "【中亚股份：实控人及其一致行动人拟合计减持股份不超1177.9万股】中亚股份公告，公司董事长、实控人史中伟计划减持股份不超过900万股；股东杭州富派管理咨询有限公司计划减持股份不超过150万股。",
+        "publishedAt": "2026-10-07 18:14:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888864145.html",
+        "url": "https://finance.eastmoney.com/a/202610073888899616.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "红塔证券：控股股东及一致行动人承诺36个月内不减持股份",
+        "summary": "【红塔证券：控股股东及一致行动人承诺36个月内不减持股份】红塔证券(601236.SH)公告称，公司收到控股股东合和集团及一致行动人中国双维、云南华叶、浙江烟草、昆明万兴出具的承诺函，基于对公司未来发展前景的信心，上述股东承诺自2026年9月30日起36个月内不以任何方式减持所持有的红塔证券股份。",
+        "publishedAt": "2026-10-07 17:22:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888895362.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "半导体",
-          "医药"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "港股半导体股集体下跌",
-        "summary": "【港股半导体股集体下跌】澜起科技跌近8%，爱芯元智跌超5%，纳芯微、晶合集成、兆易创新跌超4%，华虹宏力、江波龙、上海复旦跌超2%。",
-        "publishedAt": "2026-10-07 11:23:43",
+        "title": "北森控股：10月7日斥资37.88万港元回购11.7万股",
+        "summary": "北森控股（09669.HK）发布翌日披露报表，10月7日，公司回购股份11.7万股，每股最高回购价3.25港元，每股最低回购价3.16港元，付出的总代价为37.88万港元。本次回购股份拟持作库存股份11.7万股，拟注销0股。",
+        "publishedAt": "2026-10-07 17:44:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888861976.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国庆档电影票房破11亿",
-        "summary": "【国庆档电影票房破11亿】据网络平台数据，2026年国庆档（10月1日—10月7日），电影总票房（含预售）突破11亿。",
-        "publishedAt": "2026-10-07 13:43:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888870076.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "韩国政府表示，私营部门将在能源转型重点项目中投资220万亿韩元",
-        "summary": "韩国政府表示，私营部门将在能源转型重点项目中投资220万亿韩元。",
-        "publishedAt": "2026-10-07 13:15:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888869231.html",
+        "url": "https://finance.eastmoney.com/a/202610073888896957.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "能源"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月EIA月报预估-当年WTI原油价格(美元/桶)",
-        "summary": "美国10月EIA月报预估-当年WTI原油价格(美元/桶)；公布 88.21，预期 nan，前值 84.65。",
-        "publishedAt": "2026-10-07 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月EIA月报预估-当年布伦特原油价格(美元/桶)",
-        "summary": "美国10月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 96.32，预期 nan，前值 91.01。",
-        "publishedAt": "2026-10-07 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月2日当周API原油库存变动(万桶)",
-        "summary": "美国截至10月2日当周API原油库存变动(万桶)；公布 -210.0，预期 nan，前值 101.9。",
-        "publishedAt": "2026-10-07 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月2日当周API汽油库存变动(万桶)",
-        "summary": "美国截至10月2日当周API汽油库存变动(万桶)；公布 -140.0，预期 nan，前值 299.1。",
-        "publishedAt": "2026-10-07 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚9月AIG制造业表现指数",
-        "summary": "澳大利亚9月AIG制造业表现指数；公布 -8.7，预期 nan，前值 -16.6。",
-        "publishedAt": "2026-10-07 06:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月5日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月5日COMEX黄金库存-每日更新(百盎司)；公布 234796.19，预期 nan，前值 234796.19。",
-        "publishedAt": "2026-10-07 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月6日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月6日iShares白银持仓-每日更新(吨)；公布 15331.23，预期 nan，前值 15345.27。",
-        "publishedAt": "2026-10-07 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月6日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月6日SPDR黄金持仓-每日更新(吨)；公布 1059.97，预期 nan，前值 1056.27。",
-        "publishedAt": "2026-10-07 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "福建漳州市漳浦县发生3.1级地震 震源深度22千米",
-        "summary": "【福建漳州市漳浦县发生3.1级地震，震源深度22千米】中国地震台网正式测定：10月07日14时05分在福建漳州市漳浦县（北纬24.23度，东经117.70度）发生3.1级地震，震源深度22千米。",
-        "publishedAt": "2026-10-07 14:17:30",
+        "title": "摩根士丹利将迈威尔科技集团目标价从268美元上调至300美元",
+        "summary": "摩根士丹利将迈威尔科技集团目标价从268美元上调至300美元。",
+        "publishedAt": "2026-10-07 18:18:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888870885.html",
+        "url": "https://finance.eastmoney.com/a/202610073888899823.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120864,11 +120702,67 @@
         "noticeType": ""
       },
       {
-        "title": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗",
-        "summary": "德意志银行将诺和诺德目标股价从245丹麦克朗下调至225丹麦克朗。",
-        "publishedAt": "2026-10-07 14:14:37",
+        "title": "伊朗军方称如有必要将发动先发制人打击",
+        "summary": "伊朗军方称如有必要将发动先发制人打击。",
+        "publishedAt": "2026-10-07 18:10:23",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888870768.html",
+        "url": "https://finance.eastmoney.com/a/202610073888899792.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "*ST康佳A：现金选择权申报期间为9月30日至10月13日",
+        "summary": "【*ST康佳A：现金选择权申报期间为9月30日至10月13日】*ST康佳A(000016.SZ)公告称，公司以股东会决议方式主动终止股票上市，已派发现金选择权，A股行权价2.48元/股，B股行权价0.73港币/股。",
+        "publishedAt": "2026-10-07 18:07:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888899522.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上海：国庆假期全市线上线下消费金额762.4亿元 同比增长9.9%",
+        "summary": "【上海：国庆假期全市线上线下消费金额762.4亿元，同比增长9.9%】据上海商务消息，国庆假期（9月30日至10月6日），上海全市线上线下消费金额762.4亿元，同比增长9.9%。",
+        "publishedAt": "2026-10-07 17:50:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888898226.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "2026年诺贝尔化学奖揭晓 2名科学家获奖",
+        "summary": "【2026年诺贝尔化学奖揭晓 2名科学家获奖】当地时间10月7日，瑞典皇家科学院决定将2026年诺贝尔化学奖授予2名科学家。获奖者将平分1200万瑞典克朗（约合802万元人民币）奖金。",
+        "publishedAt": "2026-10-07 17:48:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888897060.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "景旺电子：H股调入港股通标的证券名单",
+        "summary": "【景旺电子：H股调入港股通标的证券名单】景旺电子(603228.SH)公告，根据有关规定，公司境外上市外资股(简称“H股”)自2026年9月29日起调入沪港通及深港通下的港股通(统称“港股通”)标的证券名单。",
+        "publishedAt": "2026-10-07 17:47:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888898010.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120880,11 +120774,11 @@
         "noticeType": ""
       },
       {
-        "title": "德国8月工业产值同比增长2.3% 市场预估为增长0.7%",
-        "summary": "德国8月工业产值同比增长2.3%，市场预估为增长0.7%；德国8月工业产值环比增长2.0%，预估为增长0.5%。",
-        "publishedAt": "2026-10-07 14:01:08",
+        "title": "美国30年期国债收益率升破5.7%",
+        "summary": "美国30年期国债收益率升至5.7041%，日内上涨逾6个基点，为2002年以来最高水平。",
+        "publishedAt": "2026-10-07 17:38:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888870516.html",
+        "url": "https://finance.eastmoney.com/a/202610073888895833.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120894,48 +120788,92 @@
         "noticeType": ""
       },
       {
-        "title": "也门称胡塞武装袭击亚丁机场迫使一客机改降",
-        "summary": "【也门称胡塞武装袭击亚丁机场迫使一客机改降】据央视新闻，也门政府交通部7日说，胡塞武装当天凌晨使用弹道导弹和无人机袭击亚丁国际机场，导致一架客机被迫改降沙特阿拉伯。机场同时紧急疏散人员。目前暂无人员伤亡报告。",
-        "publishedAt": "2026-10-07 13:33:02",
+        "title": "欧洲央行管委Dolenc称 当前利率水平为后续决策留出“灵活空间”",
+        "summary": "欧洲央行管委Dolenc称，当前利率水平为后续决策留出“灵活空间”。",
+        "publishedAt": "2026-10-07 17:29:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888869571.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "军工",
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "黑海油轮遇袭起火 俄救起全部23名印度籍船员",
-        "summary": "【黑海油轮遇袭起火 俄救起全部23名印度籍船员】据俄罗斯交通部通报，一艘悬挂利比里亚旗帜的油轮6日傍晚在黑海遭无人机袭击后起火，俄方应急人员成功营救了全部23名船员。",
-        "publishedAt": "2026-10-07 13:01:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888867775.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "印度10年期国债收益率升至7.2655% 为2023年12月以来最高水平",
-        "summary": "印度10年期国债收益率升至7.2655%，为2023年12月以来最高水平。",
-        "publishedAt": "2026-10-07 12:43:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888867185.html",
+        "url": "https://finance.eastmoney.com/a/202610073888895632.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "北汽蓝谷：子公司9月销量同比增长17.24%",
+        "summary": "【北汽蓝谷：子公司9月销量同比增长17.24%】北汽蓝谷(600733.SH)公告称，公司子公司2026年9月产销快报显示，本月产量24843辆，同比增长23.94%；本年累计产量156599辆，同比增长43.16%。",
+        "publishedAt": "2026-10-07 17:24:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888895272.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "纽约梅隆银行在中国平安的H股好仓比例上升0.28%至5.20%",
+        "summary": "香港交易所披露信息显示，TheBankofNewYorkMellonCorporation（纽约梅隆银行）在中国平安的H股好仓（L）比例于10月5日从4.92%上升至5.20%。",
+        "publishedAt": "2026-10-07 17:24:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888895543.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "瑞银集团在洛阳钼业的H股好仓比例下降0.09%至4.97%",
+        "summary": "香港交易所披露信息显示，UBSGroupAG（瑞银集团）在洛阳钼业的H股好仓（L）比例于10月1日从5.06%下降至4.97%。",
+        "publishedAt": "2026-10-07 17:20:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888894972.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "现货黄金失守4120美元/盎司",
+        "summary": "现货黄金失守4120美元/盎司，日内跌1.05%。",
+        "publishedAt": "2026-10-07 17:19:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888894816.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "马斯克称特斯拉“Terafab”芯片工厂将由公司自主建设运营",
+        "summary": "【马斯克称特斯拉“Terafab”芯片工厂将由公司自主建设运营】10月7日，有消息称，台积电正在探讨参与埃隆·马斯克位于得克萨斯州的“Terafab”芯片项目。",
+        "publishedAt": "2026-10-07 17:18:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888895035.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体",
+          "汽车链"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -121029,7 +120967,7 @@
     }
   ],
   "reports": {
-    "active": "pre-market",
+    "active": "post-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121042,15 +120980,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-07 14:19:49",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 能源、有色稀土、军工。",
+        "generatedAt": "2026-10-07 18:29:45",
+        "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、有色稀土、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121081,7 +121019,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-07 02:55:39",
+        "generatedAt": "2026-10-07 18:29:06",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121120,7 +121058,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-07 02:55:39",
+        "generatedAt": "2026-10-07 18:29:06",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121146,7 +121084,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：港股午评：恒生指数跌0.53% 恒生科技指数跌0.91%；港股半导体股集体下跌。",
+              "新闻/公告风险：中亚股份：实控人及其一致行动人拟合计减持股份不超1177.9万股；红塔证券：控股股东及一致行动人承诺36个月内不减持股份。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
