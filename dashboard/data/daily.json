@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-07",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-07 18:29:06",
+    "generatedAt": "2026-10-07 18:34:59",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120611,13 +120611,13 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-07",
-    "generatedAt": "2026-10-07 18:29:45",
+    "generatedAt": "2026-10-07 18:35:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "notices: '代码'",
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
+    "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土。",
     "themes": [
       {
         "name": "金融",
@@ -120626,16 +120626,6 @@
       },
       {
         "name": "有色稀土",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
@@ -120683,6 +120673,20 @@
         "themes": [
           "金融"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗总统佩泽希齐扬称该国处于“全面战争”状态",
+        "summary": "伊朗总统佩泽希齐扬称该国处于“全面战争”状态。",
+        "publishedAt": "2026-10-07 18:30:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888901069.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -120860,23 +120864,6 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
-      },
-      {
-        "title": "马斯克称特斯拉“Terafab”芯片工厂将由公司自主建设运营",
-        "summary": "【马斯克称特斯拉“Terafab”芯片工厂将由公司自主建设运营】10月7日，有消息称，台积电正在探讨参与埃隆·马斯克位于得克萨斯州的“Terafab”芯片项目。",
-        "publishedAt": "2026-10-07 17:18:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888895035.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "半导体",
-          "汽车链"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       }
     ]
   },
@@ -120980,15 +120967,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-07 18:29:45",
-        "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-10-07 18:35:35",
+        "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121019,7 +121006,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-07 18:29:06",
+        "generatedAt": "2026-10-07 18:34:59",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121058,7 +121045,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-07 18:29:06",
+        "generatedAt": "2026-10-07 18:34:59",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
