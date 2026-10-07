@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-07",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-07 18:34:59",
+    "generatedAt": "2026-10-07 22:46:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120446,7 +120446,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -120610,32 +120611,52 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-07",
-    "generatedAt": "2026-10-07 18:35:35",
+    "generatedAt": "2026-10-07 22:46:42",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "notices: '代码'",
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土。",
+    "summary": "已抓取 16 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 能源、半导体、军工。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
+        "name": "能源",
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "中亚股份：实控人及其一致行动人拟合计减持股份不超1177.9万股",
-        "summary": "【中亚股份：实控人及其一致行动人拟合计减持股份不超1177.9万股】中亚股份公告，公司董事长、实控人史中伟计划减持股份不超过900万股；股东杭州富派管理咨询有限公司计划减持股份不超过150万股。",
-        "publishedAt": "2026-10-07 18:14:10",
+        "title": "SpaceX信用风险指标创新高",
+        "summary": "【SpaceX信用风险指标创新高】ICEDataServices数据显示，SpaceX五年期信用违约掉期(CDS)价格一度上涨14.5个基点，至年化约195.4个基点，创该公司CDS自6月开始活跃交易以来的盘中最高。",
+        "publishedAt": "2026-10-07 22:17:09",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888899616.html",
+        "url": "https://finance.eastmoney.com/a/202610073888962162.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -120645,143 +120666,103 @@
         "noticeType": ""
       },
       {
-        "title": "红塔证券：控股股东及一致行动人承诺36个月内不减持股份",
-        "summary": "【红塔证券：控股股东及一致行动人承诺36个月内不减持股份】红塔证券(601236.SH)公告称，公司收到控股股东合和集团及一致行动人中国双维、云南华叶、浙江烟草、昆明万兴出具的承诺函，基于对公司未来发展前景的信心，上述股东承诺自2026年9月30日起36个月内不以任何方式减持所持有的红塔证券股份。",
-        "publishedAt": "2026-10-07 17:22:14",
+        "title": "卡特彼勒股价下跌超过5%",
+        "summary": "【卡特彼勒股价下跌超过5%】卡特彼勒股价下跌超过5%，为道琼斯指数中表现最差的成分股。",
+        "publishedAt": "2026-10-07 22:12:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888895362.html",
+        "url": "https://finance.eastmoney.com/a/202610073888961143.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国庆假期上海接待游客超2020万人次 全要素旅游交易总额预计超298亿元",
+        "summary": "【国庆假期上海接待游客超2020万人次，全要素旅游交易总额预计超298亿元】10月7日，上海市文化旅游局介绍，国庆假日期间，全市有2800余项文商旅体展联动活动落地。据上海旅游大数据监测，10月7日，本市接待游客453.02万人次，同比增长13.25%。10月1日至7日，本市共接待游客2020.54万人次。此外，截至10月6日24时，临时来沪外国人日均15…",
+        "publishedAt": "2026-10-07 22:34:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888974015.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国际能源署（IEA）表示 若完全释放3月以来已承诺但尚未投放的所有库存",
+        "summary": "【国际能源署（IEA）表示 若完全释放3月以来已承诺但尚未投放的所有库存】国际能源署（IEA）表示，若完全释放3月以来已承诺但尚未投放的所有库存，将向市场提供约1亿桶原油。",
+        "publishedAt": "2026-10-07 22:32:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888973079.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "北森控股：10月7日斥资37.88万港元回购11.7万股",
-        "summary": "北森控股（09669.HK）发布翌日披露报表，10月7日，公司回购股份11.7万股，每股最高回购价3.25港元，每股最低回购价3.16港元，付出的总代价为37.88万港元。本次回购股份拟持作库存股份11.7万股，拟注销0股。",
-        "publishedAt": "2026-10-07 17:44:00",
+        "title": "美国上周EIA原油库存下降319万桶",
+        "summary": "美国上周EIA原油库存下降319万桶。",
+        "publishedAt": "2026-10-07 22:31:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888896957.html",
+        "url": "https://finance.eastmoney.com/a/202610073888969658.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "伊朗总统佩泽希齐扬称该国处于“全面战争”状态",
-        "summary": "伊朗总统佩泽希齐扬称该国处于“全面战争”状态。",
-        "publishedAt": "2026-10-07 18:30:44",
+        "title": "美股存储芯片板块拉升",
+        "summary": "【美股存储芯片板块拉升】美股存储芯片板块拉升，闪迪涨超2%，美光科技涨1%，SK海力士跌幅收窄至1%。",
+        "publishedAt": "2026-10-07 22:27:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888901069.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "摩根士丹利将迈威尔科技集团目标价从268美元上调至300美元",
-        "summary": "摩根士丹利将迈威尔科技集团目标价从268美元上调至300美元。",
-        "publishedAt": "2026-10-07 18:18:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888899823.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗军方称如有必要将发动先发制人打击",
-        "summary": "伊朗军方称如有必要将发动先发制人打击。",
-        "publishedAt": "2026-10-07 18:10:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888899792.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "*ST康佳A：现金选择权申报期间为9月30日至10月13日",
-        "summary": "【*ST康佳A：现金选择权申报期间为9月30日至10月13日】*ST康佳A(000016.SZ)公告称，公司以股东会决议方式主动终止股票上市，已派发现金选择权，A股行权价2.48元/股，B股行权价0.73港币/股。",
-        "publishedAt": "2026-10-07 18:07:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888899522.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "上海：国庆假期全市线上线下消费金额762.4亿元 同比增长9.9%",
-        "summary": "【上海：国庆假期全市线上线下消费金额762.4亿元，同比增长9.9%】据上海商务消息，国庆假期（9月30日至10月6日），上海全市线上线下消费金额762.4亿元，同比增长9.9%。",
-        "publishedAt": "2026-10-07 17:50:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888898226.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "2026年诺贝尔化学奖揭晓 2名科学家获奖",
-        "summary": "【2026年诺贝尔化学奖揭晓 2名科学家获奖】当地时间10月7日，瑞典皇家科学院决定将2026年诺贝尔化学奖授予2名科学家。获奖者将平分1200万瑞典克朗（约合802万元人民币）奖金。",
-        "publishedAt": "2026-10-07 17:48:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888897060.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "景旺电子：H股调入港股通标的证券名单",
-        "summary": "【景旺电子：H股调入港股通标的证券名单】景旺电子(603228.SH)公告，根据有关规定，公司境外上市外资股(简称“H股”)自2026年9月29日起调入沪港通及深港通下的港股通(统称“港股通”)标的证券名单。",
-        "publishedAt": "2026-10-07 17:47:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888898010.html",
+        "url": "https://finance.eastmoney.com/a/202610073888968166.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "金融"
+          "半导体"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国30年期国债收益率升破5.7%",
-        "summary": "美国30年期国债收益率升至5.7041%，日内上涨逾6个基点，为2002年以来最高水平。",
-        "publishedAt": "2026-10-07 17:38:53",
+        "title": "俄回应法国试射导弹：欧洲执着于军事化想法",
+        "summary": "【俄回应法国试射导弹：欧洲执着于军事化想法】俄罗斯总统新闻秘书佩斯科夫7日说，法国6日试射洲际导弹以及法国总统马克龙的相关言论，显示出欧洲“执着于军事化想法”，试图与俄罗斯对抗。",
+        "publishedAt": "2026-10-07 22:21:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888895833.html",
+        "url": "https://finance.eastmoney.com/a/202610073888964230.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "马来西亚举办全球文明倡议高峰论坛 聚焦儒伊文明对话",
+        "summary": "【马来西亚举办全球文明倡议高峰论坛 聚焦儒伊文明对话】马来西亚7日在吉隆坡举办全球文明倡议高峰论坛暨儒伊文明文化节。来自马来西亚、中国等国家和地区各界人士500多人齐聚一堂，围绕文明对话、文化交流、共同价值等议题展开交流。",
+        "publishedAt": "2026-10-07 22:19:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888962762.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120791,11 +120772,11 @@
         "noticeType": ""
       },
       {
-        "title": "欧洲央行管委Dolenc称 当前利率水平为后续决策留出“灵活空间”",
-        "summary": "欧洲央行管委Dolenc称，当前利率水平为后续决策留出“灵活空间”。",
-        "publishedAt": "2026-10-07 17:29:56",
+        "title": "高通与OKSI达成合作 部署Omniscience自主软件组合",
+        "summary": "高通与OKSI达成合作，部署Omniscience自主软件组合。",
+        "publishedAt": "2026-10-07 22:10:42",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888895632.html",
+        "url": "https://finance.eastmoney.com/a/202610073888960983.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120805,25 +120786,11 @@
         "noticeType": ""
       },
       {
-        "title": "北汽蓝谷：子公司9月销量同比增长17.24%",
-        "summary": "【北汽蓝谷：子公司9月销量同比增长17.24%】北汽蓝谷(600733.SH)公告称，公司子公司2026年9月产销快报显示，本月产量24843辆，同比增长23.94%；本年累计产量156599辆，同比增长43.16%。",
-        "publishedAt": "2026-10-07 17:24:18",
+        "title": "戴尔科技：The Dorman Family Foundation拟出售9214股",
+        "summary": "【戴尔科技：The Dorman Family Foundation拟出售9214股】戴尔科技（DellTechnologiesInc.，纽约证券交易所：DELL）董事关联方TheDormanFamilyFoundation提交Form144限制股出售声明。TheDormanFamilyFoundation拟出售9214股普通股，合计市值约515.99万美…",
+        "publishedAt": "2026-10-07 22:06:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888895272.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "纽约梅隆银行在中国平安的H股好仓比例上升0.28%至5.20%",
-        "summary": "香港交易所披露信息显示，TheBankofNewYorkMellonCorporation（纽约梅隆银行）在中国平安的H股好仓（L）比例于10月5日从4.92%上升至5.20%。",
-        "publishedAt": "2026-10-07 17:24:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888895543.html",
+        "url": "https://finance.eastmoney.com/a/202610073888960469.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120835,11 +120802,27 @@
         "noticeType": ""
       },
       {
-        "title": "瑞银集团在洛阳钼业的H股好仓比例下降0.09%至4.97%",
-        "summary": "香港交易所披露信息显示，UBSGroupAG（瑞银集团）在洛阳钼业的H股好仓（L）比例于10月1日从5.06%下降至4.97%。",
-        "publishedAt": "2026-10-07 17:20:00",
+        "title": "谷歌宣布 其SynthID检测器（SynthID Detector）现已在全球范围内以英语提供",
+        "summary": "【谷歌宣布 其SynthID检测器（SynthID Detector）现已在全球范围内以英语提供】谷歌宣布，其SynthID检测器（SynthIDDetector）现已在全球范围内以英语提供。该工具用于识别由AI生成的内容。",
+        "publishedAt": "2026-10-07 22:05:18",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888894972.html",
+        "url": "https://finance.eastmoney.com/a/202610073888960136.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "本周（10月8日-11日）资本市场大事提醒：A股明起开市",
+        "summary": "【本周（10月8日-11日）资本市场大事提醒：A股明起开市】1、沪深北三大交易所10月8日起照常开市。2、经济数据方面，10月8日有日本、德国8月贸易帐，美国上周初请失业金人数，美国8月批发销售数据等。10月9日有美国10月密歇根大学消费者信心指数，美国10月一年期、五至十年期通胀率预期等。",
+        "publishedAt": "2026-10-07 22:03:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888960559.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -120849,16 +120832,60 @@
         "noticeType": ""
       },
       {
-        "title": "现货黄金失守4120美元/盎司",
-        "summary": "现货黄金失守4120美元/盎司，日内跌1.05%。",
-        "publishedAt": "2026-10-07 17:19:37",
+        "title": "美股医疗保健板块盘初逆势上涨",
+        "summary": "【美股医疗保健板块盘初逆势上涨】美股医疗保健板块盘初逆势上涨，礼来涨超2%，诺和诺德涨近1%，联合健康涨0.6%。",
+        "publishedAt": "2026-10-07 21:52:39",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888894816.html",
+        "url": "https://finance.eastmoney.com/a/202610073888954020.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "有色稀土"
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股光通信股开盘普跌 Lumentum跌3.24%",
+        "summary": "【美股光通信股开盘普跌 Lumentum跌3.24%】10月7日，美股光通信股开盘普跌，Lumentum跌3.24%，康宁跌3.87%，Coherent跌3.67%，应用光电跌3.50%，Ciena跌4.16%，博通跌0.97%，迈威尔科技跌3.01%。",
+        "publishedAt": "2026-10-07 21:49:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888954120.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "公安部：国庆假期治安秩序良好 刑事、治安警情同比分别下降23.7%、7%",
+        "summary": "【公安部：国庆假期治安秩序良好 刑事、治安警情同比分别下降23.7%、7%】公安部消息，截至10月7日16时，全国社会大局稳定、治安秩序良好，刑事、治安警情同比分别下降23.7%、7%，2700余场大型活动安全顺利，全国道路交通总体平稳有序，旅游景区秩序井然。",
+        "publishedAt": "2026-10-07 21:47:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888952439.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国际货币基金组织预计高油价将持续至明年",
+        "summary": "【国际货币基金组织预计高油价将持续至明年】国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃7日在新加坡表示，即使当前海湾地区的战事很快结束，高能源价格仍可能持续一段时间。",
+        "publishedAt": "2026-10-07 21:45:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888950222.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
@@ -120966,15 +120993,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-07 18:35:35",
-        "summary": "已抓取 16 条新闻/公告/日历事件，催化 1 条，风险 2 条；主题映射集中在 金融、有色稀土。",
+        "generatedAt": "2026-10-07 22:46:42",
+        "summary": "已抓取 16 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 能源、半导体、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、半导体、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121005,7 +121032,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-07 18:34:59",
+        "generatedAt": "2026-10-07 22:46:00",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121044,7 +121071,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-07 18:34:59",
+        "generatedAt": "2026-10-07 22:46:00",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121070,7 +121097,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：中亚股份：实控人及其一致行动人拟合计减持股份不超1177.9万股；红塔证券：控股股东及一致行动人承诺36个月内不减持股份。",
+              "新闻/公告风险：SpaceX信用风险指标创新高；卡特彼勒股价下跌超过5%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
