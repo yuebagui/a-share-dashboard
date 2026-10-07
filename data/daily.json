@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-07",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-07 22:46:00",
+    "generatedAt": "2026-10-07 23:24:47",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -120611,17 +120611,22 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-07",
-    "generatedAt": "2026-10-07 22:46:42",
+    "generatedAt": "2026-10-07 23:25:27",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "notices: '代码'",
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 16 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 能源、半导体、军工。",
+    "summary": "已抓取 16 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 能源、金融、半导体。",
     "themes": [
       {
         "name": "能源",
-        "score": 6,
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 7,
         "isFocusBoard": false
       },
       {
@@ -120633,24 +120638,23 @@
         "name": "军工",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "加沙29%的财产破坏发生在停火后",
+        "summary": "【加沙29%的财产破坏发生在停火后】国际非政府组织“武装冲突地点与事件数据库项目”的一份报告显示，在新一轮巴以冲突爆发三周年之际，虽然在加沙地带和黎巴嫩都已经分别达成了停火协议，但两地仍未真正走出冲突，暴力事件仍在以较低水平持续发生。",
+        "publishedAt": "2026-10-07 22:43:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888982524.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
       {
         "title": "SpaceX信用风险指标创新高",
         "summary": "【SpaceX信用风险指标创新高】ICEDataServices数据显示，SpaceX五年期信用违约掉期(CDS)价格一度上涨14.5个基点，至年化约195.4个基点，创该公司CDS自6月开始活跃交易以来的盘中最高。",
@@ -120666,15 +120670,123 @@
         "noticeType": ""
       },
       {
-        "title": "卡特彼勒股价下跌超过5%",
-        "summary": "【卡特彼勒股价下跌超过5%】卡特彼勒股价下跌超过5%，为道琼斯指数中表现最差的成分股。",
-        "publishedAt": "2026-10-07 22:12:45",
+        "title": "美国财政部周四将回购至多60亿美元的长期债券",
+        "summary": "美国财政部周四将回购至多60亿美元的长期债券。",
+        "publishedAt": "2026-10-07 23:03:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888961143.html",
+        "url": "https://finance.eastmoney.com/a/202610073888990349.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "我国科学家研发出新型高效碳捕集膜",
+        "summary": "【我国科学家研发出新型高效碳捕集膜】天津大学姜忠义、何光伟团队成功研制出一种新型全有机混合基质膜，突破了膜分离性能与加工性难以兼顾的瓶颈，为工业气体低能耗、低成本碳捕集提供了新的材料路径。这一成果10月7日在线发表于国际顶级学术期刊《自然·能源》。",
+        "publishedAt": "2026-10-07 22:49:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888986258.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "日本东证股指成分股将大幅减少",
+        "summary": "【日本东证股指成分股将大幅减少】日本东京证券交易所母公司日本交易所集团7日表示，东京证券交易所股票价格指数成分股将于10月底开始调整，调整后成分股数量将减少约40%至986只。此次调整的核心是成分股筛选标准发生变化。此前，原东证一部（现主要市场）上市企业基本都被纳入东证股指。新规则下，上市企业能否进入东证股指，将取决于股票交易活跃度和流通股市值等指标，不再…",
+        "publishedAt": "2026-10-07 23:21:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888995225.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "Snowflake：董事兼高管Benoit Dageville拟出售5万股",
+        "summary": "【Snowflake：董事兼高管Benoit Dageville拟出售5万股】Snowflake董事兼高管BenoitDageville提交Form144限制股出售声明。Dageville拟出售5万股普通股，合计市值约1667.10万美元，拟出售日期为10月7日。上述股份来源于2012年8月1日从发行人处获授的创始人股份，经纪商为FidelityBroke…",
+        "publishedAt": "2026-10-07 23:12:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888993850.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "科研人员发现特定细菌具有调节胆固醇代谢的功能",
+        "summary": "【科研人员发现特定细菌具有调节胆固醇代谢的功能】生活在人体肠道内的一类细菌，被证实能够自发地产生具有调节胆固醇代谢功能的脂肪酸，从而有望为高血脂、动脉粥样硬化等疾病的预防和治疗提供全新的路径。这是从深圳湾实验室了解到的。这项研究由深圳湾实验室和中山大学中山医学院合作完成，相关研究成果北京时间7日在线发表于国际学术期刊《自然》。",
+        "publishedAt": "2026-10-07 23:07:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888992018.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国9月纽约联储1年通胀预期报3.9%",
+        "summary": "美国9月纽约联储1年通胀预期报3.9%，预期3.64%，前值3.58%。",
+        "publishedAt": "2026-10-07 23:00:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888990496.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "据美国能源信息署 美国原油产量上周再度升至历史新高",
+        "summary": "【据美国能源信息署 美国原油产量上周再度升至历史新高】据美国能源信息署，美国原油产量上周再度升至历史新高，为连续第二周创纪录。",
+        "publishedAt": "2026-10-07 22:48:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888986315.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "芝加哥期权交易所欧洲清算公司将证券融资交易清算服务拓展至美国股票领域",
+        "summary": "芝加哥期权交易所欧洲清算公司将证券融资交易清算服务拓展至美国股票领域。",
+        "publishedAt": "2026-10-07 22:45:52",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610073888984749.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -120767,126 +120879,6 @@
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "高通与OKSI达成合作 部署Omniscience自主软件组合",
-        "summary": "高通与OKSI达成合作，部署Omniscience自主软件组合。",
-        "publishedAt": "2026-10-07 22:10:42",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888960983.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "戴尔科技：The Dorman Family Foundation拟出售9214股",
-        "summary": "【戴尔科技：The Dorman Family Foundation拟出售9214股】戴尔科技（DellTechnologiesInc.，纽约证券交易所：DELL）董事关联方TheDormanFamilyFoundation提交Form144限制股出售声明。TheDormanFamilyFoundation拟出售9214股普通股，合计市值约515.99万美…",
-        "publishedAt": "2026-10-07 22:06:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888960469.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "谷歌宣布 其SynthID检测器（SynthID Detector）现已在全球范围内以英语提供",
-        "summary": "【谷歌宣布 其SynthID检测器（SynthID Detector）现已在全球范围内以英语提供】谷歌宣布，其SynthID检测器（SynthIDDetector）现已在全球范围内以英语提供。该工具用于识别由AI生成的内容。",
-        "publishedAt": "2026-10-07 22:05:18",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888960136.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "本周（10月8日-11日）资本市场大事提醒：A股明起开市",
-        "summary": "【本周（10月8日-11日）资本市场大事提醒：A股明起开市】1、沪深北三大交易所10月8日起照常开市。2、经济数据方面，10月8日有日本、德国8月贸易帐，美国上周初请失业金人数，美国8月批发销售数据等。10月9日有美国10月密歇根大学消费者信心指数，美国10月一年期、五至十年期通胀率预期等。",
-        "publishedAt": "2026-10-07 22:03:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888960559.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股医疗保健板块盘初逆势上涨",
-        "summary": "【美股医疗保健板块盘初逆势上涨】美股医疗保健板块盘初逆势上涨，礼来涨超2%，诺和诺德涨近1%，联合健康涨0.6%。",
-        "publishedAt": "2026-10-07 21:52:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888954020.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股光通信股开盘普跌 Lumentum跌3.24%",
-        "summary": "【美股光通信股开盘普跌 Lumentum跌3.24%】10月7日，美股光通信股开盘普跌，Lumentum跌3.24%，康宁跌3.87%，Coherent跌3.67%，应用光电跌3.50%，Ciena跌4.16%，博通跌0.97%，迈威尔科技跌3.01%。",
-        "publishedAt": "2026-10-07 21:49:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888954120.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "公安部：国庆假期治安秩序良好 刑事、治安警情同比分别下降23.7%、7%",
-        "summary": "【公安部：国庆假期治安秩序良好 刑事、治安警情同比分别下降23.7%、7%】公安部消息，截至10月7日16时，全国社会大局稳定、治安秩序良好，刑事、治安警情同比分别下降23.7%、7%，2700余场大型活动安全顺利，全国道路交通总体平稳有序，旅游景区秩序井然。",
-        "publishedAt": "2026-10-07 21:47:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888952439.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国际货币基金组织预计高油价将持续至明年",
-        "summary": "【国际货币基金组织预计高油价将持续至明年】国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃7日在新加坡表示，即使当前海湾地区的战事很快结束，高能源价格仍可能持续一段时间。",
-        "publishedAt": "2026-10-07 21:45:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610073888950222.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "能源"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -120993,15 +120985,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-07 22:46:42",
-        "summary": "已抓取 16 条新闻/公告/日历事件，催化 0 条，风险 2 条；主题映射集中在 能源、半导体、军工。",
+        "generatedAt": "2026-10-07 23:25:27",
+        "summary": "已抓取 16 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 能源、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、半导体、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121032,7 +121024,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-07 22:46:00",
+        "generatedAt": "2026-10-07 23:24:47",
         "summary": "上午情绪分 85，涨停 52 家，跌停 9 家，炸板 12 家，连板 12 家，最高 7 板。",
         "sections": [
           {
@@ -121071,7 +121063,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-07 22:46:00",
+        "generatedAt": "2026-10-07 23:24:47",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -121097,7 +121089,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：SpaceX信用风险指标创新高；卡特彼勒股价下跌超过5%。",
+              "新闻/公告风险：加沙29%的财产破坏发生在停火后；SpaceX信用风险指标创新高。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
