@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-08",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-08 03:21:49",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-08 03:21:49",
+    "lastNewsAt": "2026-10-08 14:31:21"
   },
   "indices": [
     {
@@ -120611,24 +120613,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-08",
-    "generatedAt": "2026-10-08 03:22:27",
+    "generatedAt": "2026-10-08 14:31:21",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 5 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 8,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 7,
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -120637,22 +120634,64 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 2,
+        "name": "医药",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "中亚股份:关于公司董事长、实际控制人及其一致行动人减持股份的预披露公告(更新后)",
+        "summary": "中亚股份(300512)：中亚股份:关于公司董事长、实际控制人及其一致行动人减持股份的预披露公告(更新后)",
+        "publishedAt": "2026-10-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300512/AN202610081830203485.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "中亚股份(300512)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "中亚股份:关于公司董事长、实际控制人及其一致行动人减持股份预披露的更正公告",
+        "summary": "中亚股份(300512)：中亚股份:关于公司董事长、实际控制人及其一致行动人减持股份预披露的更正公告",
+        "publishedAt": "2026-10-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300512/AN202610081830203487.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "中亚股份(300512)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
       {
         "title": "通则康威:首次公开发行股票并在创业板上市投资风险特别公告",
         "summary": "通则康威(301718)：通则康威:首次公开发行股票并在创业板上市投资风险特别公告",
@@ -120670,27 +120709,11 @@
         "noticeType": "首发投资风险特别公告"
       },
       {
-        "title": "WTI原油期货结算价为88.28美元/桶 下跌1.16美元",
-        "summary": "WTI原油期货结算价为88.28美元/桶，下跌1.16美元，跌幅1.30%。",
-        "publishedAt": "2026-10-08 02:31:11",
+        "title": "以色列宣布关闭英国驻耶路撒冷领事馆",
+        "summary": "【以色列宣布关闭英国驻耶路撒冷领事馆】当地时间10月8日，以色列外交部长吉德翁·萨尔在社交媒体发文称，鉴于英国政府此前对以色列实施一系列单方面制裁，以方已于当天正式关闭英国驻耶路撒冷领事馆，并限令英国总领事及20名外交官离境。",
+        "publishedAt": "2026-10-08 14:21:17",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610083889021697.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "SpaceX大规模举债引发市场担忧 信用风险飙升",
-        "summary": "SpaceX大规模举债引发市场担忧，信用风险飙升。",
-        "publishedAt": "2026-10-08 02:25:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610083889021493.html",
+        "url": "https://finance.eastmoney.com/a/202610083889552986.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -120700,38 +120723,36 @@
         "noticeType": ""
       },
       {
-        "title": "黄金储备“23连增”背后的深意",
-        "summary": "【黄金储备“23连增”背后的深意】央行连续增持黄金，背后有何深意？央行最新数据显示，截至2026年9月末，我国黄金储备为7747万盎司，较8月末的7673万盎司增加74万盎司，已实现连续23个月增持。在全球经济不确定性加剧、国际货币体系深度调整的背景下，中国央行连续增持黄金，并非跟随市场行情的短期投机行为，而是立足国家金融安全、主动优化国际储备资产结构的战…",
-        "publishedAt": "2026-10-08 02:22:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610083889016843.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "有色稀土",
-          "金融"
+        "title": "000985大庆华科投资者关系管理信息20260918",
+        "summary": "大庆华科(000985)：000985大庆华科投资者关系管理信息20260918",
+        "publishedAt": "2026-10-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000985/AN202610081830201841.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大庆华科(000985)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "美联储会议纪要显示 9月会议上19名官员全体支持加息",
-        "summary": "【美联储会议纪要显示 9月会议上19名官员全体支持加息】美联储会议纪要显示，9月会议上19名官员全体支持加息，大多数与会者认为到年底再加息一次可能是合适的。与会者普遍认为通胀风险偏向上行，部分与会者认为这些风险在短期有所加剧。部分与会者认为，人工智能基础设施建设可能导致中期总需求超过供给，从而给通胀带来上行压力。众多与会者表示，尽管长期国债收益率近期上升，…",
-        "publishedAt": "2026-10-08 02:01:18",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610083889020896.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "金融"
+        "title": "汇绿生态:关于重大资产重组进展的提示性公告",
+        "summary": "汇绿生态(001267)：汇绿生态:关于重大资产重组进展的提示性公告",
+        "publishedAt": "2026-10-08",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001267/AN202610081830198654.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汇绿生态(001267)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "重组进展公告"
       },
       {
         "title": "艾力斯:上海艾力斯医药科技股份有限公司关于公司实际控制人、董事长兼总经理提议公司回购股份的公告",
@@ -120769,43 +120790,41 @@
         "noticeType": "重组进展公告"
       },
       {
-        "title": "鸿路钢构:关于公司全资子公司收到中标通知书的公告",
-        "summary": "鸿路钢构(002541)：鸿路钢构:关于公司全资子公司收到中标通知书的公告",
-        "publishedAt": "2026-10-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002541/AN202610071830185723.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鸿路钢构(002541)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "三美股份:浙江三美化工股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回的公告",
-        "summary": "三美股份(603379)：三美股份:浙江三美化工股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回的公告",
-        "publishedAt": "2026-10-08",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603379/AN202610071830185395.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三美股份(603379)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "FOMC会议纪要显示 官员们敦促为市场压力制定预案",
-        "summary": "【FOMC会议纪要显示 官员们敦促为市场压力制定预案】上一次美国联邦公开市场委员会（FOMC）会议的纪要显示，在资产负债表政策方面，一些与会者认为美国国债市场运行平稳，但也指出为应对市场压力而制定预案的重要性。会议纪要显示，与会者建议强化美联储应对市场失灵的策略、沟通机制和政策工具，以应对可能出现的市场失灵，同时尽量限制央行在美国国债市场中的介入程度。",
-        "publishedAt": "2026-10-08 02:47:33",
+        "title": "中核田湾核电7号机组首次并网成功",
+        "summary": "【中核田湾核电7号机组首次并网成功】中核集团旗下中国核电投资控股的田湾核电7号机组10月8日首次并网成功，正式向电网送出第一度电，为后续机组商业运行奠定坚实基础。据了解，田湾核电基地计划建设8台机组，1-6号机组已安全稳定发电超5500亿千瓦时，7号机组预计在年内投入商运。待田湾核电基地8台机组全部投运后，总装机容量将突破900万千瓦，年发电量超700亿千…",
+        "publishedAt": "2026-10-08 14:23:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610083889021870.html",
+        "url": "https://finance.eastmoney.com/a/202610083889557244.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "具身智能企业灵生科技完成亿元级A轮融资",
+        "summary": "【具身智能企业灵生科技完成亿元级A轮融资】今天，北京具身智能企业灵生科技宣布完成亿元级A轮融资，本次融资由华方资本、道禾长期旗下道禾元启、苏文电能、某具身智能领域头部产业战略投资方联合投资。",
+        "publishedAt": "2026-10-08 14:19:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610083889542082.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "机器人"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "留学生在美实习遇新挑战 美国拟大幅抬高OPT申请费",
+        "summary": "【留学生在美实习遇新挑战 美国拟大幅抬高OPT申请费】美国国土安全部（DHS）当地时间10月7日提出一项新规，就外国留学生参加“选择性实习训练计划”（OPT），向校方征收费用。目前，这一政策正在公示期，公众可在10月8日至11月9日提交意见，待公示结束后，将会颁布正式的政策。",
+        "publishedAt": "2026-10-08 14:15:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610083889442936.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -120858,7 +120877,7 @@
       },
       {
         "title": "美国10月7日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月7日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15331.23。",
+        "summary": "美国10月7日iShares白银持仓-每日更新(吨)；公布 15311.57，预期 nan，前值 15331.23。",
         "publishedAt": "2026-10-08 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120872,7 +120891,7 @@
       },
       {
         "title": "美国10月6日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月6日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234796.19。",
+        "summary": "美国10月6日COMEX黄金库存-每日更新(百盎司)；公布 234796.19，预期 nan，前值 234796.19。",
         "publishedAt": "2026-10-08 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120888,7 +120907,7 @@
       },
       {
         "title": "美国10月7日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月7日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.54。",
+        "summary": "美国10月7日iShares黄金持仓-每日更新(吨)；公布 463.54，预期 nan，前值 463.54。",
         "publishedAt": "2026-10-08 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120904,7 +120923,7 @@
       },
       {
         "title": "美国10月7日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月7日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1059.97。",
+        "summary": "美国10月7日SPDR黄金持仓-每日更新(吨)；公布 1061.11，预期 nan，前值 1059.97。",
         "publishedAt": "2026-10-08 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -120914,20 +120933,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本8月贸易收支-央行基于海关数据季调后(亿日元)",
-        "summary": "日本8月贸易收支-央行基于海关数据季调后(亿日元)；公布 nan，预期 nan，前值 -42.94。",
-        "publishedAt": "2026-10-08 07:50",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -121021,7 +121026,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -121034,15 +121039,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-08 03:22:27",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 5 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-10-08 14:31:21",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：医疗服务、化学制药、银行；首看 医疗服务 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -121138,7 +121143,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 9 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：通则康威:首次公开发行股票并在创业板上市投资风险特别公告；WTI原油期货结算价为88.28美元/桶 下跌1.16美元。",
+              "新闻/公告风险：中亚股份:关于公司董事长、实际控制人及其一致行动人减持股份的预披露公告(更新后)；中亚股份:关于公司董事长、实际控制人及其一致行动人减持股份预披露的更正公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
