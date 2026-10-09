@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-09",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-09 23:09:53",
+    "generatedAt": "2026-10-10 02:44:08",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -101596,29 +101596,36 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-09",
-    "generatedAt": "2026-10-09 23:11:10",
+    "generatedAt": "2026-10-10 02:45:11",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 金融、有色稀土、能源。",
+    "errors": [
+      "notices: ('Connection broken: IncompleteRead(34517 bytes read, 35254 more expected)', IncompleteRead(34517 bytes read, 35254 more expected))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 23,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 3,
+        "name": "军工",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -101629,77 +101636,11 @@
     ],
     "items": [
       {
-        "title": "六九一二:关于特定股东减持股份计划期限届满暨实施情况的公告",
-        "summary": "六九一二(301592)：六九一二:关于特定股东减持股份计划期限届满暨实施情况的公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301592/AN202610091830273237.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "六九一二(301592)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "宏海科技:持股5%以上股东减持股份结果公告",
-        "summary": "宏海科技(920108)：宏海科技:持股5%以上股东减持股份结果公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920108/AN202610091830272686.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "宏海科技(920108)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "富特科技:关于公司持股5%以上股东减持股份的预披露公告",
-        "summary": "富特科技(301607)：富特科技:关于公司持股5%以上股东减持股份的预披露公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202610091830272518.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "华维设计:关于公司及相关责任主体收到中国证券监督管理委员会江西监管局行政监管措施决定书的公告",
-        "summary": "华维设计(920427)：华维设计:关于公司及相关责任主体收到中国证券监督管理委员会江西监管局行政监管措施决定书的公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920427/AN202610091830271742.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华维设计(920427)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "国内部分商品期货夜盘收盘 主力合约多数上涨",
-        "summary": "【国内部分商品期货夜盘收盘 主力合约多数上涨】截至23:00，国内部分商品期货夜盘收盘，主力合约多数上涨。涨幅方面，20号胶涨超4%，橡胶、焦煤涨超3%，甲醇、焦炭涨近3%，丁二烯胶、豆一、聚丙烯、塑料涨超2%，LPG、丙烯、玉米、白糖、乙二醇等涨超1%；跌幅方面，玻璃、沥青跌超1%，对二甲苯、纯碱、苯乙烯、纸浆、纯苯等小幅下跌。",
-        "publishedAt": "2026-10-09 23:00:11",
+        "title": "加纳上西部省暴发黄热病疫情 3例确诊病例死亡",
+        "summary": "【加纳上西部省暴发黄热病疫情 3例确诊病例死亡】加纳卫生部8日晚发布声明，宣布该国上西部省暴发黄热病疫情，3例确诊病例已死亡。声明表示，卫生部门已启动国家和区域卫生应急行动中心，并部署快速反应小组到受影响社区，开展病例搜索、监测和风险沟通工作，同时准备本月在受影响区域开展应急疫苗接种。",
+        "publishedAt": "2026-10-10 02:27:31",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093891576432.html",
+        "url": "https://finance.eastmoney.com/a/202610103891617546.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -101709,11 +101650,11 @@
         "noticeType": ""
       },
       {
-        "title": "针对美国财政部将国际刑事法院列入制裁名单 国际刑事法院表示：法院不会屈服于压力",
-        "summary": "针对美国财政部将国际刑事法院列入制裁名单，国际刑事法院表示，美方制裁旨在干扰法院工作，恐吓与其合作者，法院不会屈服于压力。",
-        "publishedAt": "2026-10-09 22:52:15",
+        "title": "低端产能加速出清 水泥行业市场集中度进一步提升",
+        "summary": "【低端产能加速出清 水泥行业市场集中度进一步提升】房地产、基建投资持续走弱，令水泥行业进入深度调整期。当前行业亏损面已达60%，大量中小水泥企业陷入价格倒挂、库存高企、回款不畅的经营困局。据不完全统计，今年已有20余家水泥及粉磨企业进入破产相关程序，中小主体债务风险集中暴露，并向上游产业链传导。",
+        "publishedAt": "2026-10-10 01:47:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093891574560.html",
+        "url": "https://finance.eastmoney.com/a/202610103891607729.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -101723,11 +101664,11 @@
         "noticeType": ""
       },
       {
-        "title": "美国财政部将国际刑事法院列入制裁名单",
-        "summary": "据外媒9日报道，美国财政部将国际刑事法院列入制裁名单。",
-        "publishedAt": "2026-10-09 22:51:42",
+        "title": "南苏丹发生暴力冲突 致70余人死亡",
+        "summary": "【南苏丹发生暴力冲突 致70余人死亡】南苏丹信息、通信技术与邮政服务部发表声明称，当天清晨湖泊州伦拜克镇发生暴力冲突，约有71人丧生，伤亡人数尚未确定。遇难者中包括4名士兵。声明称，当地政府已部署由南苏丹人民国防军、国家安全局和南苏丹国家警察组成的联合安全部队，目前局势已得到控制。南苏丹政府表示强烈谴责暴力行为，并敦促湖泊州所有社区保持冷静克制，避免采取可…",
+        "publishedAt": "2026-10-10 01:15:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093891572925.html",
+        "url": "https://finance.eastmoney.com/a/202610103891614239.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -101737,141 +101678,11 @@
         "noticeType": ""
       },
       {
-        "title": "凌霄泵业:关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告",
-        "summary": "凌霄泵业(002884)：凌霄泵业:关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002884/AN202610091830244111.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "凌霄泵业(002884)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "康龙化成:华泰联合证券有限责任公司关于公司股东向特定机构投资者询价转让股份相关资格的核查意见",
-        "summary": "康龙化成(300759)：康龙化成:华泰联合证券有限责任公司关于公司股东向特定机构投资者询价转让股份相关资格的核查意见",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300759/AN202610091830273225.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "康龙化成(300759)"
-        ],
-        "importance": 1,
-        "noticeType": "询价转让核查报告/意见"
-      },
-      {
-        "title": "2026年10月9日天孚通信投资者关系活动记录表",
-        "summary": "天孚通信(300394)：2026年10月9日天孚通信投资者关系活动记录表",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610091830272662.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天孚通信(300394)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "世昌股份:对外投资的公告",
-        "summary": "世昌股份(920022)：世昌股份:对外投资的公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920022/AN202610091830272387.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "世昌股份(920022)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "胜业电气:董事会薪酬与考核委员会关于2026年股权激励计划激励对象名单的核查意见及公示情况说明",
-        "summary": "胜业电气(920128)：胜业电气:董事会薪酬与考核委员会关于2026年股权激励计划激励对象名单的核查意见及公示情况说明",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920128/AN202610091830272167.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "胜业电气(920128)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "000688国城矿业投资者关系管理信息20261009",
-        "summary": "国城矿业(000688)：000688国城矿业投资者关系管理信息20261009",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000688/AN202610091830272116.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国城矿业(000688)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "广咨国际:北京大成(广州)律师事务所关于广东广咨国际投资咨询集团股份有限公司2026年第一次临时股东会法律意见书",
-        "summary": "广咨国际(920892)：广咨国际:北京大成(广州)律师事务所关于广东广咨国际投资咨询集团股份有限公司2026年第一次临时股东会法律意见书",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920892/AN202610091830272118.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "广咨国际(920892)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "博迅生物:关于使用闲置自有资金购买理财产品的进展公告",
-        "summary": "博迅生物(920504)：博迅生物:关于使用闲置自有资金购买理财产品的进展公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920504/AN202610091830271865.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博迅生物(920504)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "博亚精工：10派1元 股权登记日为10月15日",
-        "summary": "【博亚精工：10派1元 股权登记日为10月15日】10月9日，博亚精工发布2026年中期权益分派实施公告称，本次权益分派以公司现有总股本约1.18亿股剔除回购专用证券账户持有的212.31万股后的约1.15亿股为基数，向全体股东每10股派发现金红利1元（含税），不送红股，不以公积金转增股本，公司回购专用证券账户所持股份不参与本次权益分派。本次共计派发现金红…",
-        "publishedAt": "2026-10-09 22:44:02",
+        "title": "美联储周五隔夜逆回购协议（RRP）使用规模为3亿美元",
+        "summary": "美联储周五隔夜逆回购协议（RRP）使用规模为3亿美元。",
+        "publishedAt": "2026-10-10 01:16:29",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093891566933.html",
+        "url": "https://finance.eastmoney.com/a/202610103891614662.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -101883,34 +101694,213 @@
         "noticeType": ""
       },
       {
-        "title": "佰维存储：截至9月30日累计回购约104.47万股 占总股本0.22%",
-        "summary": "【佰维存储：截至9月30日累计回购约104.47万股 占总股本0.22%】10月9日，佰维存储发布公告称，截至2026年9月30日，公司通过上海证券交易所交易系统以集中竞价交易方式累计回购公司股份约104.47万股，占公司总股本的比例为0.22%，回购成交的最高价为214.05元/股，最低价为211.01元/股，支付的资金总额约为2.22亿元（不含印花税、…",
-        "publishedAt": "2026-10-09 22:44:00",
+        "title": "美国截至10月7日美联储资产负债表(万亿美元)",
+        "summary": "美国截至10月7日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.79。",
+        "publishedAt": "2026-10-09 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月7日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月7日COMEX黄金库存-每日更新(百盎司)；公布 234775.29，预期 nan，前值 234796.19。",
+        "publishedAt": "2026-10-09 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月8日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月8日SPDR黄金持仓-每日更新(吨)；公布 1055.41，预期 nan，前值 1061.11。",
+        "publishedAt": "2026-10-09 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月8日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月8日iShares白银持仓-每日更新(吨)；公布 15341.06，预期 nan，前值 15311.57。",
+        "publishedAt": "2026-10-09 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月8日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月8日iShares黄金持仓-每日更新(吨)；公布 463.87，预期 nan，前值 463.54。",
+        "publishedAt": "2026-10-09 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "瑞士9月消费者信心指数-未季调",
+        "summary": "瑞士9月消费者信心指数-未季调；公布 -34.48，预期 nan，前值 -31.89。",
+        "publishedAt": "2026-10-09 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国10月9日上期所每日仓单变动-原油(桶)",
+        "summary": "中国10月9日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 1985000.0。",
+        "publishedAt": "2026-10-09 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国10月9日上期所每日仓单变动-铜(吨)",
+        "summary": "中国10月9日上期所每日仓单变动-铜(吨)；公布 599.0，预期 nan，前值 -2325.0。",
+        "publishedAt": "2026-10-09 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "WTI原油期货结算价为91.85美元/桶 上涨36美分",
+        "summary": "WTI原油期货结算价为91.85美元/桶，上涨36美分，涨幅0.39%。",
+        "publishedAt": "2026-10-10 02:33:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093891568493.html",
+        "url": "https://finance.eastmoney.com/a/202610103891617866.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [
-          "半导体",
-          "金融"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "神州数码：截至9月30日累计回购525万股 占总股本0.52%",
-        "summary": "【神州数码：截至9月30日累计回购525万股 占总股本0.52%】10月9日，神州数码发布公告称，截至2026年9月30日，公司通过回购专用证券账户以集中竞价交易方式累计回购股份525.00万股，占公司总股本的0.52%，购买股份的最高成交价为23.53元/股，最低成交价为22.37元/股，支付的总金额约1.21亿元（不含交易费用）。上述回购资金来源为公司…",
-        "publishedAt": "2026-10-09 22:44:00",
+        "title": "上期所原油期货主力合约夜盘收跌0.2%，报739.8元/桶，沪金主力合约收涨1.05%，报909元/克，沪银主力合约收涨2.23%，报14838元/千克",
+        "summary": "上期所原油期货主力合约夜盘收跌0.2%，报739.8元/桶。沪金主力合约收涨1.05%，报909元/克，沪银主力合约收涨2.23%，报14838元/千克。",
+        "publishedAt": "2026-10-10 02:32:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093891568218.html",
+        "url": "https://finance.eastmoney.com/a/202610103891617760.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [
-          "金融"
+          "能源"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国财长贝森特将缺席在曼谷举行的国际货币基金组织（IMF）年会 财政部官员布鲁克和布朗将出席",
+        "summary": "美国财长贝森特将缺席在曼谷举行的国际货币基金组织（IMF）年会，财政部官员布鲁克和布朗将出席。",
+        "publishedAt": "2026-10-10 02:28:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610103891617690.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "“六张网”协同进阶 乘数效应激活产业新动能",
+        "summary": "【“六张网”协同进阶 乘数效应激活产业新动能】“十五五”开局之年，我国水网、新型电网、算力网、新一代通信网、城市地下管网、物流网“六张网”建设全面提速。作为现代化基础设施体系的核心骨干，“六张网”正从各自独立建设的单项工程，转向跨领域、跨行业、跨主体的协同融合，持续重构国内基础设施体系与产业发展格局。",
+        "publishedAt": "2026-10-10 02:17:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610103891617135.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "巴勒斯坦要求安理会紧急开会 呼吁国际社会干预以方升级袭击行为",
+        "summary": "【巴勒斯坦要求安理会紧急开会 呼吁国际社会干预以方升级袭击行为】据巴勒斯坦方面10月9日消息，巴勒斯坦总统府已正式指示其外交部及驻联合国代表团，要求联合国安理会召开紧急会议，呼吁国际社会紧急干预、采取切实措施制止以军和犹太人定居者不断升级的袭击行为，并向巴勒斯坦人民提供国际保护。",
+        "publishedAt": "2026-10-10 02:05:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610103891616730.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "巴拿马发生7.7级地震",
+        "summary": "【巴拿马发生7.7级地震】根据欧洲-地中海地震中心报告，当地时间9日12时56分，巴拿马中部马卡拉卡斯地区发生7.7级地震，震源深度12公里。美国海啸预警系统发布海啸警告。",
+        "publishedAt": "2026-10-10 02:04:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610103891616897.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -102031,15 +102021,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-09 23:11:10",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-10-10 02:45:11",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 1 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：AI应用、贵金属、AIGC概念；首看 AI应用 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -102070,7 +102060,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-09 23:09:53",
+        "generatedAt": "2026-10-10 02:44:08",
         "summary": "上午情绪分 100，涨停 69 家，跌停 8 家，炸板 14 家，连板 12 家，最高 9 板。",
         "sections": [
           {
@@ -102109,7 +102099,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-09 23:09:53",
+        "generatedAt": "2026-10-10 02:44:08",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -102135,7 +102125,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 同花顺漂亮100，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：六九一二:关于特定股东减持股份计划期限届满暨实施情况的公告；宏海科技:持股5%以上股东减持股份结果公告。",
+              "新闻/公告风险：加纳上西部省暴发黄热病疫情 3例确诊病例死亡；低端产能加速出清 水泥行业市场集中度进一步提升。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
