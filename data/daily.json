@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-09",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-09 03:17:35",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-09 03:17:35",
+    "lastNewsAt": "2026-10-09 14:32:47"
   },
   "indices": [
     {
@@ -103355,38 +103357,40 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-09",
-    "generatedAt": "2026-10-09 03:18:18",
+    "generatedAt": "2026-10-09 14:32:47",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、有色稀土、能源。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、汽车链。",
     "themes": [
       {
         "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
         "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 7,
+        "name": "AI算力",
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "汽车链",
-        "score": 6,
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 4,
+        "name": "新能源",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 2,
         "isFocusBoard": false
       }
@@ -103505,50 +103509,36 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "好上好:关于持股5%以上股东及特定股东股份减持计划期限届满暨实施完成的公告",
-        "summary": "好上好(001298)：好上好:关于持股5%以上股东及特定股东股份减持计划期限届满暨实施完成的公告",
+        "title": "凌霄泵业:关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告",
+        "summary": "凌霄泵业(002884)：凌霄泵业:关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告",
         "publishedAt": "2026-10-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001298/AN202610081830218930.html",
+        "url": "https://data.eastmoney.com/notices/detail/002884/AN202610091830244111.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "好上好(001298)"
+          "凌霄泵业(002884)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "投资理财"
       },
       {
-        "title": "九阳股份:九阳股份股票交易异常波动公告",
-        "summary": "九阳股份(002242)：九阳股份:九阳股份股票交易异常波动公告",
+        "title": "000039中集集团投资者关系管理信息20261009",
+        "summary": "中集集团(000039)：000039中集集团投资者关系管理信息20261009",
         "publishedAt": "2026-10-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002242/AN202610081830218733.html",
+        "url": "https://data.eastmoney.com/notices/detail/000039/AN202610091830240945.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "九阳股份(002242)"
+          "中集集团(000039)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "中概股下跌",
-        "summary": "【中概股下跌】文远知行跌8.97%，慧荣科技跌8.64%，奇景光电跌7.63%，金山云跌5.9%，小马智行跌5.52%。",
-        "publishedAt": "2026-10-09 01:25:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093890041993.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
         "title": "常润股份:常熟通润汽车零部件股份有限公司关于使用部分暂时闲置募集资金进行现金管理到期赎回的公告",
@@ -103606,11 +103596,27 @@
         "noticeType": "回购进展情况"
       },
       {
-        "title": "美国财政部接受60亿美元回购投标 全额达到本次操作上限",
-        "summary": "美国财政部接受60亿美元回购投标，全额达到本次操作上限。",
-        "publishedAt": "2026-10-09 02:13:28",
+        "title": "OpenAI数学突破震惊币圈：密码学危机在量子时代前就将上演？",
+        "summary": "【OpenAI数学突破震惊币圈：密码学危机在量子时代前就将上演？】OpenAI本周一次性公开数百项AI数学成果的劲爆消息，不仅惊动了全球数学界，也令加密货币行业一时间“风声鹤唳”……",
+        "publishedAt": "2026-10-09 14:22:47",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093890045833.html",
+        "url": "https://finance.eastmoney.com/a/202610093891181482.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "券商上半年盈利面超九成，证券ETF鹏华涨超2%",
+        "summary": "【券商上半年盈利面超九成，证券ETF鹏华涨超2%】消息面上，10月9日，中国证券业协会向券商下发《证券公司2026年上半年度经营情况分析》，显示上半年全行业150家证券公司实现营业收入3298.10亿元、净利润1386.64亿元，同比分别增长31.38%、23.50%，136家券商实现盈利，盈利面超90%；全行业平均代理买卖证券净佣金率下降至万分之1.71…",
+        "publishedAt": "2026-10-09 14:20:38",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610093891181179.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -103622,25 +103628,11 @@
         "noticeType": ""
       },
       {
-        "title": "美联储穆萨莱姆表示 需要进一步收紧货币政策以使通胀回到目标",
-        "summary": "美联储穆萨莱姆表示，需要进一步收紧货币政策以使通胀回到目标，未来6至9个月利率应当上调。",
-        "publishedAt": "2026-10-09 01:46:53",
+        "title": "宝能集团所持120亿元股权被冻结",
+        "summary": "【宝能集团所持120亿元股权被冻结】天眼查App显示，近日，云南宝能合创永安产业扶贫投资基金合伙企业（有限合伙）新增一则股权冻结信息，被执行人为深圳市宝能投资集团有限公司，股权所在企业为该基金，冻结股权数额120亿元人民币，执行法院为北京金融法院，冻结期限为三年，冻结日期自2026年9月18日至2029年9月17日。",
+        "publishedAt": "2026-10-09 14:13:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093890042963.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储周四隔夜逆回购协议（RRP）使用规模为3.35亿美元",
-        "summary": "美联储周四隔夜逆回购协议（RRP）使用规模为3.35亿美元。",
-        "publishedAt": "2026-10-09 01:16:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610093890038216.html",
+        "url": "https://finance.eastmoney.com/a/202610093891166938.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -103652,33 +103644,50 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至10月7日美联储资产负债表(万亿美元)",
-        "summary": "美国截至10月7日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.79。",
-        "publishedAt": "2026-10-09 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
+        "title": "参股中广核粤汕（陆丰）公司 宁德时代入局核电产业",
+        "summary": "【参股中广核粤汕（陆丰）公司 宁德时代入局核电产业】企查查App显示，近日，中广核粤汕（陆丰）核电有限公司成立，注册资本1亿元。该公司由中国广核、宁德时代全资子公司宁德时代（肇庆）新能源科技有限公司、明阳智能、久立特材等共同持股，其中宁德时代（肇庆）新能源科技有限公司持股比例为5%。",
+        "publishedAt": "2026-10-09 14:29:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610093891183565.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "新能源",
+          "能源"
+        ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月7日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月7日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234796.19。",
-        "publishedAt": "2026-10-09 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "OpenAI：正推进敲定与第三方安全评估机构的合作协议",
+        "summary": "OpenAI表示，正推进敲定与第三方安全评估机构的合作协议，相关细节将在未来几周公布。",
+        "publishedAt": "2026-10-09 14:22:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610093891186670.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "寒武纪成交额超100亿元",
+        "summary": "寒武纪成交额超100亿元，现涨0.73%。",
+        "publishedAt": "2026-10-09 14:22:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610093891184157.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -103910,7 +103919,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -103923,15 +103932,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-09 03:18:18",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-10-09 14:32:47",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 金融、AI算力、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：电池、电力、银行；首看 电池 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
