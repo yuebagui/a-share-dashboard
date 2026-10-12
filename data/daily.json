@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-13",
     "phase": "盘中快照",
-    "generatedAt": "2026-10-13 00:52:59",
+    "generatedAt": "2026-10-13 01:39:27",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -90484,7 +90484,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -90647,14 +90648,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-13",
-    "generatedAt": "2026-10-13 00:53:32",
+    "generatedAt": "2026-10-13 01:39:52",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
+        "score": 16,
         "isFocusBoard": false
       },
       {
@@ -90664,11 +90665,6 @@
       },
       {
         "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
@@ -90755,7 +90751,7 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "美联储哈玛克表示 利率需要进一步上调",
+        "title": "美联储哈玛克：利率需要进一步上调",
         "summary": "【美联储哈玛克：利率需要进一步上调】美联储哈玛克表示，利率需要进一步上调；倾向于幅度更小、频率更高的加息；当前政策的限制性还不够；通胀回归速度过慢，高通胀风险仍在上升。",
         "publishedAt": "2026-10-13 00:44:19",
         "source": "东方财富7x24",
@@ -90788,34 +90784,6 @@
         "publishedAt": "2026-10-12 23:51:05",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202610123893033547.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "联合国报告：苏丹多个地区饥荒风险加剧",
-        "summary": "【联合国报告：苏丹多个地区饥荒风险加剧】当地时间10月12日，由联合国粮农组织、世界粮食计划署及其合作伙伴共同参与的“粮食安全阶段综合分类（IPC）”机制发布报告称，受苏丹武装冲突以及厄尔尼诺现象引发的严重干旱等因素影响，苏丹多个地区的粮食不安全状况进一步恶化，饥荒风险持续上升。",
-        "publishedAt": "2026-10-12 23:44:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610123893026978.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美“松绑”俄柴油引发美两党议员批评",
-        "summary": "【美“松绑”俄柴油引发美两党议员批评】美国财政部外国资产控制办公室9日发布公告说，在未来几个月放松针对俄罗斯柴油贸易的制裁，以缓解美国内柴油供应紧张、平抑油价。同日，美国总统特朗普宣布，美俄领导人就俄向美国及全球市场提供柴油达成一致。",
-        "publishedAt": "2026-10-12 23:44:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610123893027147.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -90939,6 +90907,36 @@
       {
         "title": "美国10月12日iShares黄金持仓-每日更新(吨)",
         "summary": "美国10月12日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.87。",
+        "publishedAt": "2026-10-13 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月12日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月12日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15363.53。",
+        "publishedAt": "2026-10-13 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月9日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月9日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234774.64。",
         "publishedAt": "2026-10-13 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -91145,8 +91143,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-13 00:53:32",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-10-13 01:39:52",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
@@ -91184,7 +91182,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-13 00:52:59",
+        "generatedAt": "2026-10-13 01:39:27",
         "summary": "上午情绪分 79，涨停 46 家，跌停 19 家，炸板 25 家，连板 18 家，最高 10 板。",
         "sections": [
           {
@@ -91223,7 +91221,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-13 00:52:59",
+        "generatedAt": "2026-10-13 01:39:27",
         "summary": "市场温度 中，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
