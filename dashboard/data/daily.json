@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-09",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-10 02:50:12",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-10 02:50:12",
+    "lastNewsAt": "2026-10-12 14:21:28"
   },
   "indices": [
     {
@@ -101595,302 +101597,315 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-09",
-    "generatedAt": "2026-10-10 02:51:05",
+    "tradeDate": "2026-10-12",
+    "generatedAt": "2026-10-12 14:21:28",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 AI算力、能源、半导体。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 10,
+        "name": "AI算力",
+        "score": 13,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 7,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "机器人",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "六九一二:关于特定股东减持股份计划期限届满暨实施情况的公告",
-        "summary": "六九一二(301592)：六九一二:关于特定股东减持股份计划期限届满暨实施情况的公告",
-        "publishedAt": "2026-10-09",
+        "title": "力勤资源:关于签订募集资金监管协议的公告",
+        "summary": "力勤资源(001246)：力勤资源:关于签订募集资金监管协议的公告",
+        "publishedAt": "2026-10-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301592/AN202610091830273237.html",
+        "url": "https://data.eastmoney.com/notices/detail/001246/AN202610121830348646.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "六九一二(301592)"
+          "力勤资源(001246)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "签订协议"
       },
       {
-        "title": "宏海科技:持股5%以上股东减持股份结果公告",
-        "summary": "宏海科技(920108)：宏海科技:持股5%以上股东减持股份结果公告",
-        "publishedAt": "2026-10-09",
+        "title": "步科股份:董事减持计划时间届满暨减持股份结果公告",
+        "summary": "步科股份(688160)：步科股份:董事减持计划时间届满暨减持股份结果公告",
+        "publishedAt": "2026-10-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920108/AN202610091830272686.html",
+        "url": "https://data.eastmoney.com/notices/detail/688160/AN202610111830334118.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "宏海科技(920108)"
+          "步科股份(688160)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "富特科技:关于公司持股5%以上股东减持股份的预披露公告",
-        "summary": "富特科技(301607)：富特科技:关于公司持股5%以上股东减持股份的预披露公告",
-        "publishedAt": "2026-10-09",
+        "title": "华盛锂电:江苏华盛锂电材料股份有限公司关于股东减持计划完成暨减持股份结果的公告",
+        "summary": "华盛锂电(688353)：华盛锂电:江苏华盛锂电材料股份有限公司关于股东减持计划完成暨减持股份结果的公告",
+        "publishedAt": "2026-10-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202610091830272518.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "华维设计:关于公司及相关责任主体收到中国证券监督管理委员会江西监管局行政监管措施决定书的公告",
-        "summary": "华维设计(920427)：华维设计:关于公司及相关责任主体收到中国证券监督管理委员会江西监管局行政监管措施决定书的公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920427/AN202610091830271742.html",
+        "url": "https://data.eastmoney.com/notices/detail/688353/AN202610111830334114.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "金融"
+          "新能源",
+          "有色稀土"
         ],
         "tickers": [
-          "华维设计(920427)"
+          "华盛锂电(688353)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "深证成指跌逾2%",
+        "summary": "深证成指跌逾2%，上证指数跌0.58%，创业板指跌2.48%。沪深京三市下跌个股近4400只。",
+        "publishedAt": "2026-10-12 14:17:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610123892593661.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "301353普莱得投资者关系管理信息20261012",
+        "summary": "普莱得(301353)：301353普莱得投资者关系管理信息20261012",
+        "publishedAt": "2026-10-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301353/AN202610121830341464.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "普莱得(301353)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "安徽合力:安徽合力股份有限公司关于使用暂时闲置募集资金进行现金管理到期赎回的公告",
+        "summary": "安徽合力(600761)：安徽合力:安徽合力股份有限公司关于使用暂时闲置募集资金进行现金管理到期赎回的公告",
+        "publishedAt": "2026-10-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600761/AN202610111830334105.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安徽合力(600761)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "东百集团:福建东百集团股份有限公司因投资事宜所涉及的杭州快灵光电科技有限公司股东全部权益市场价值资产评估报告",
+        "summary": "东百集团(600693)：东百集团:福建东百集团股份有限公司因投资事宜所涉及的杭州快灵光电科技有限公司股东全部权益市场价值资产评估报告",
+        "publishedAt": "2026-10-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600693/AN202610111830334055.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "东百集团(600693)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "加纳上西部省暴发黄热病疫情 3例确诊病例死亡",
-        "summary": "【加纳上西部省暴发黄热病疫情 3例确诊病例死亡】加纳卫生部8日晚发布声明，宣布该国上西部省暴发黄热病疫情，3例确诊病例已死亡。声明表示，卫生部门已启动国家和区域卫生应急行动中心，并部署快速反应小组到受影响社区，开展病例搜索、监测和风险沟通工作，同时准备本月在受影响区域开展应急疫苗接种。",
-        "publishedAt": "2026-10-10 02:27:31",
+        "title": "宁德时代:关于参与投资的基金完成私募投资基金备案的公告",
+        "summary": "宁德时代(300750)：宁德时代:关于参与投资的基金完成私募投资基金备案的公告",
+        "publishedAt": "2026-10-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202610111830333710.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宁德时代(300750)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "盛天网络:关于变更募集资金用途及募投项目延期的公告",
+        "summary": "盛天网络(300494)：盛天网络:关于变更募集资金用途及募投项目延期的公告",
+        "publishedAt": "2026-10-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300494/AN202610111830333725.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盛天网络(300494)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "太空机器人企业弦引未来4个月融资数亿",
+        "summary": "【太空机器人企业弦引未来4个月融资数亿】近日，安徽太空机器人企业弦引未来宣布融资进展：自2026年5月起，四个月连续完成天使轮、Pre-A轮、A轮三轮融资，累计募资数亿元。天使轮由蓝驰创投、高瓴创投、彬复资本领投，凯风创投、水木清华校友种子基金、连界启辰资本、智元机器人和天合光能等投资。Pre-A轮由华映资本领投，元禾原点投资。同时老股东蓝驰创投、高瓴创投…",
+        "publishedAt": "2026-10-12 14:18:31",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610103891617546.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "低端产能加速出清 水泥行业市场集中度进一步提升",
-        "summary": "【低端产能加速出清 水泥行业市场集中度进一步提升】房地产、基建投资持续走弱，令水泥行业进入深度调整期。当前行业亏损面已达60%，大量中小水泥企业陷入价格倒挂、库存高企、回款不畅的经营困局。据不完全统计，今年已有20余家水泥及粉磨企业进入破产相关程序，中小主体债务风险集中暴露，并向上游产业链传导。",
-        "publishedAt": "2026-10-10 01:47:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610103891607729.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "南苏丹发生暴力冲突 致70余人死亡",
-        "summary": "【南苏丹发生暴力冲突 致70余人死亡】南苏丹信息、通信技术与邮政服务部发表声明称，当天清晨湖泊州伦拜克镇发生暴力冲突，约有71人丧生，伤亡人数尚未确定。遇难者中包括4名士兵。声明称，当地政府已部署由南苏丹人民国防军、国家安全局和南苏丹国家警察组成的联合安全部队，目前局势已得到控制。南苏丹政府表示强烈谴责暴力行为，并敦促湖泊州所有社区保持冷静克制，避免采取可…",
-        "publishedAt": "2026-10-10 01:15:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610103891614239.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "凌霄泵业:关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告",
-        "summary": "凌霄泵业(002884)：凌霄泵业:关于公司使用闲置自有资金购买理财产品及部分理财产品到期赎回的公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002884/AN202610091830244111.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "凌霄泵业(002884)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "康龙化成:华泰联合证券有限责任公司关于公司股东向特定机构投资者询价转让股份相关资格的核查意见",
-        "summary": "康龙化成(300759)：康龙化成:华泰联合证券有限责任公司关于公司股东向特定机构投资者询价转让股份相关资格的核查意见",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300759/AN202610091830273225.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "康龙化成(300759)"
-        ],
-        "importance": 1,
-        "noticeType": "询价转让核查报告/意见"
-      },
-      {
-        "title": "2026年10月9日天孚通信投资者关系活动记录表",
-        "summary": "天孚通信(300394)：2026年10月9日天孚通信投资者关系活动记录表",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610091830272662.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天孚通信(300394)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "世昌股份:对外投资的公告",
-        "summary": "世昌股份(920022)：世昌股份:对外投资的公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920022/AN202610091830272387.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "世昌股份(920022)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "胜业电气:董事会薪酬与考核委员会关于2026年股权激励计划激励对象名单的核查意见及公示情况说明",
-        "summary": "胜业电气(920128)：胜业电气:董事会薪酬与考核委员会关于2026年股权激励计划激励对象名单的核查意见及公示情况说明",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920128/AN202610091830272167.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "胜业电气(920128)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "000688国城矿业投资者关系管理信息20261009",
-        "summary": "国城矿业(000688)：000688国城矿业投资者关系管理信息20261009",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000688/AN202610091830272116.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国城矿业(000688)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "广咨国际:北京大成(广州)律师事务所关于广东广咨国际投资咨询集团股份有限公司2026年第一次临时股东会法律意见书",
-        "summary": "广咨国际(920892)：广咨国际:北京大成(广州)律师事务所关于广东广咨国际投资咨询集团股份有限公司2026年第一次临时股东会法律意见书",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920892/AN202610091830272118.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "广咨国际(920892)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "博迅生物:关于使用闲置自有资金购买理财产品的进展公告",
-        "summary": "博迅生物(920504)：博迅生物:关于使用闲置自有资金购买理财产品的进展公告",
-        "publishedAt": "2026-10-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920504/AN202610091830271865.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博迅生物(920504)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "美联储周五隔夜逆回购协议（RRP）使用规模为3亿美元",
-        "summary": "美联储周五隔夜逆回购协议（RRP）使用规模为3亿美元。",
-        "publishedAt": "2026-10-10 01:16:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610103891614662.html",
+        "url": "https://finance.eastmoney.com/a/202610123892594950.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "机器人"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至10月7日美联储资产负债表(万亿美元)",
-        "summary": "美国截至10月7日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.79。",
-        "publishedAt": "2026-10-09 04:30",
+        "title": "南兴股份：智算相关业务尚处于起步阶段",
+        "summary": "【南兴股份：智算相关业务尚处于起步阶段】10月12日，南兴股份在互动平台回复投资者提问时称，当前市场对AI算力机柜的业务需求有所增加，公司子公司唯一网络已将AI智算作为公司战略方向，积极把握行业发展机遇。目前，智算相关业务尚处于起步阶段。",
+        "publishedAt": "2026-10-12 14:10:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610123892584420.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国民假期出行新标配 哈啰租车国庆订单增幅逾120%",
+        "summary": "【国民假期出行新标配 哈啰租车国庆订单增幅逾120%】国庆假期收官，自驾租车再次迎来爆发式增长。哈啰租车日前发布的国庆自驾租车数据报告显示，超60万用户选择哈啰租车开启假日旅途，订单增幅逾120%，长租、即兴租车、异地取还成为出行新趋势，租车自驾已从小众选择逐步成为国民假期出行新标配。",
+        "publishedAt": "2026-10-12 14:08:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610123892583128.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "AI芯片测试时间持续拉长 封测市场迎涨价潮",
+        "summary": "【AI芯片测试时间持续拉长 封测市场迎涨价潮】业界传出，由于AI芯片测试时间持续拉长，加上云端大厂纷纷推出自研芯片，近期封测市场产能严重供不应求，业内人士透露“随时都在涨价”，涨幅上看一至三成，小客户急件价格甚至翻倍上涨。",
+        "publishedAt": "2026-10-12 14:00:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610123892578629.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "九阳股份回应“六连板”",
+        "summary": "【九阳股份回应“六连板”】针对公司股价连续大涨，以及市场关注的公司在AI、机器人方向投资等问题，记者12日上午以投资者身份致电九阳股份董秘办。董秘办接线工作人员回应表示，相关情况以公司上周披露的公告为准，（目前）没有任何消息，AI、机器人业务方面暂无新进展，也没有相关公告计划。",
+        "publishedAt": "2026-10-12 13:47:55",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610123892570783.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力",
+          "机器人"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中国10月12日上期所每日仓单变动-铜(吨)",
+        "summary": "中国10月12日上期所每日仓单变动-铜(吨)；公布 nan，预期 nan，前值 599.0。",
+        "publishedAt": "2026-10-12 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国10月12日上期所每日仓单变动-原油(桶)",
+        "summary": "中国10月12日上期所每日仓单变动-原油(桶)；公布 nan，预期 nan，前值 0.0。",
+        "publishedAt": "2026-10-12 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国9月新增人民币贷款-年初至今(亿元)",
+        "summary": "中国9月新增人民币贷款-年初至今(亿元)；公布 nan，预期 nan，前值 104400.0。",
+        "publishedAt": "2026-10-12 16:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -101902,17 +101917,15 @@
         "noticeType": ""
       },
       {
-        "title": "美国10月7日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月7日COMEX黄金库存-每日更新(百盎司)；公布 234775.29，预期 nan，前值 234796.19。",
-        "publishedAt": "2026-10-09 06:30",
+        "title": "中国9月M2货币供应年率(%)",
+        "summary": "中国9月M2货币供应年率(%)；公布 nan，预期 7.4，前值 7.5。",
+        "publishedAt": "2026-10-12 16:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -102020,7 +102033,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -102033,15 +102046,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-10 02:51:05",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-12 14:21:28",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 AI算力、能源、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：AI应用、贵金属、AIGC概念；首看 AI应用 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -102137,7 +102150,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 同花顺漂亮100，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：六九一二:关于特定股东减持股份计划期限届满暨实施情况的公告；宏海科技:持股5%以上股东减持股份结果公告。",
+              "新闻/公告风险：力勤资源:关于签订募集资金监管协议的公告；步科股份:董事减持计划时间届满暨减持股份结果公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
