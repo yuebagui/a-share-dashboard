@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-13",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-13 05:45:19",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-13 05:45:19",
+    "lastNewsAt": "2026-10-13 15:00:10"
   },
   "indices": [
     {
@@ -90648,29 +90650,34 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-13",
-    "generatedAt": "2026-10-13 05:45:42",
+    "generatedAt": "2026-10-13 15:00:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 有色稀土、AI算力、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 9 条；主题映射集中在 有色稀土、AI算力、机器人。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 7,
+        "score": 10,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 6,
+        "name": "机器人",
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 4,
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -90684,17 +90691,28 @@
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "远程股份:关于股票交易异常波动公告的补充公告",
+        "summary": "远程股份(002692)：远程股份:关于股票交易异常波动公告的补充公告",
+        "publishedAt": "2026-10-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002692/AN202610131830393994.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "远程股份(002692)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
       {
         "title": "润都股份:关于持股5%以上股东减持股份预披露的公告",
         "summary": "润都股份(002923)：润都股份:关于持股5%以上股东减持股份预披露的公告",
@@ -90776,11 +90794,11 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "俄方称欧盟单边制裁非法且毫无根据 俄将进行回应",
-        "summary": "【俄方称欧盟单边制裁非法且毫无根据 俄将进行回应】俄罗斯常驻欧盟代表团10月12日在社交平台发文，回应欧盟当天通过的对俄制裁名单。",
-        "publishedAt": "2026-10-13 04:06:38",
+        "title": "美元兑日元扩大跌幅",
+        "summary": "因美债收益率下跌，美元兑日元扩大跌幅，现跌0.3%至158.11。",
+        "publishedAt": "2026-10-13 14:53:42",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133893060711.html",
+        "url": "https://finance.eastmoney.com/a/202610133894109535.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -90790,20 +90808,52 @@
         "noticeType": ""
       },
       {
-        "title": "纳斯达克中国金龙指数收跌0.38%",
-        "summary": "纳斯达克中国金龙指数收跌0.38%，热门中概股多数下跌，世纪互联、蔚来跌超3%，小鹏集团跌超2%，京东、百度、理想汽车、哔哩哔哩跌超1%，霸王茶姬涨超6%。",
-        "publishedAt": "2026-10-13 04:01:58",
+        "title": "东方财富证券陈果：年底双创板块有望迎来可观反弹",
+        "summary": "【东方财富证券陈果：年底双创板块有望迎来可观反弹】陈果团队发布的研报称，流动性收缩是三季度市场走弱的关键。市场成交萎缩、融资资金持续偿还，叠加IPO扩容带来资金分流，压制成长股表现。不过近期已出现边际改善，科创、创业板ETF迎来大额净流入，交易拥挤度明显释放，双创板块估值显著回落，股权风险溢价抬升，成长资产吸引力提升。",
+        "publishedAt": "2026-10-13 14:47:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133893060473.html",
+        "url": "https://finance.eastmoney.com/a/202610133894102373.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "汽车链"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "IMF重磅警告：多重风险共振 政府债券收益率或急剧飙升！",
+        "summary": "【IMF重磅警告：多重风险共振 政府债券收益率或急剧飙升！】国际货币基金组织（IMF）周二警告称，由于通货膨胀加剧、债务增加以及与人工智能（AI）相关的借款给主权债券市场带来压力，政府债券收益率可能会急剧上升。",
+        "publishedAt": "2026-10-13 14:44:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610133894095758.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "天阳科技:关于签订日常经营合同的公告",
+        "summary": "天阳科技(300872)：天阳科技:关于签订日常经营合同的公告",
+        "publishedAt": "2026-10-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300872/AN202610131830379968.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天阳科技(300872)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
       },
       {
         "title": "创元科技:2026年限制性股票激励计划(草案)",
@@ -90886,48 +90936,36 @@
         "noticeType": "权益变动报告书"
       },
       {
-        "title": "盐田港:关于投资苏州港张家港港区冶金工业园作业区深张港务码头一期工程项目的公告",
-        "summary": "盐田港(000088)：盐田港:关于投资苏州港张家港港区冶金工业园作业区深张港务码头一期工程项目的公告",
-        "publishedAt": "2026-10-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000088/AN202610121830372132.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盐田港(000088)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "盐田港:关于举办2026年半年度业绩说明会的公告",
-        "summary": "盐田港(000088)：盐田港:关于举办2026年半年度业绩说明会的公告",
-        "publishedAt": "2026-10-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000088/AN202610121830372140.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盐田港(000088)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "美联储哈马克表示 仍需进一步收紧货币政策 但对加息步伐保持开放态度",
-        "summary": "美联储哈马克表示，仍需进一步收紧货币政策，但对加息步伐保持开放态度；通胀压力正从人工智能领域扩散开来，其他企业表现同样强劲，且已准备好开展投资。",
-        "publishedAt": "2026-10-13 05:36:48",
+        "title": "梁文锋拟再投一家机器人公司",
+        "summary": "【梁文锋拟再投一家机器人公司】10月13日，证券时报记者从知情人士处获悉，DeepSeek计划投资机器人初创公司Winverse AI。这家公司成立仅数月，由腾讯原混元多模态大模型负责人胡瀚创办。融资顺利落地的话，Winverse AI的估值约为4亿美元，将成为DeepSeek在具身智能领域的一块重要拼图。",
+        "publishedAt": "2026-10-13 14:58:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133893073923.html",
+        "url": "https://finance.eastmoney.com/a/202610133894108592.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "AI算力",
+          "机器人",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "AI4S、具身智能、算力芯片 人工智能哪类项目最受市场青睐？",
+        "summary": "【AI4S、具身智能、算力芯片 人工智能哪类项目最受市场青睐？】在近日2026未来科学·创想季活动——数学与计算机科学×数字未来跨界对话上，上海未来产业基金总经理、上海未来启点社区理事长魏凡杰表示，从资本与生态的角度来看，AI for Science已成为科学原始创新的主战场。AI与科学、基础研究与初创科技企业都在相向而行，AI的发展仍需要数据、验证等生态…",
+        "publishedAt": "2026-10-13 14:39:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610133894097575.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体",
+          "AI算力",
+          "机器人"
         ],
         "tickers": [],
         "importance": 1,
@@ -90935,37 +90973,7 @@
       },
       {
         "title": "美国10月12日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月12日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.87。",
-        "publishedAt": "2026-10-13 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月12日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月12日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15363.53。",
-        "publishedAt": "2026-10-13 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月9日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月9日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234774.64。",
+        "summary": "美国10月12日iShares黄金持仓-每日更新(吨)；公布 463.87，预期 nan，前值 463.87。",
         "publishedAt": "2026-10-13 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -91159,7 +91167,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -91172,15 +91180,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-13 05:45:42",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 有色稀土、AI算力、军工。",
+        "generatedAt": "2026-10-13 15:00:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 9 条；主题映射集中在 有色稀土、AI算力、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -91276,7 +91284,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "今日跌停 19 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：润都股份:关于持股5%以上股东减持股份预披露的公告；海思科:关于董事、高级管理人员减持股份的预披露公告。",
+              "新闻/公告风险：远程股份:关于股票交易异常波动公告的补充公告；润都股份:关于持股5%以上股东减持股份预披露的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
