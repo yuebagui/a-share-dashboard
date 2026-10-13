@@ -1980,8 +1980,8 @@
     }
   ],
   "candidatePools": {
-    "tradeDate": "2026-10-13",
-    "generatedAt": "2026-10-13 23:10:39",
+    "tradeDate": "2026-10-14",
+    "generatedAt": "2026-10-14 00:07:29",
     "scoreThreshold": 60,
     "universe": "沪深主板+创业板，排除ST/退市/数据不足",
     "marketLevel": "中",
@@ -27458,6 +27458,45 @@
             }
           },
           {
+            "code": "603558",
+            "name": "健盛集团",
+            "theme": "沪深主板",
+            "boards": 0,
+            "score": 73,
+            "labels": [
+              "沪深主板",
+              "龙头分歧低吸或等待确认",
+              "小仓试错或继续观察"
+            ],
+            "amount": "4122.2万",
+            "amountValue": 41222398.0,
+            "failCount": 0,
+            "setup": "龙头分歧低吸或等待确认",
+            "buyPoint": "趋势回踩MA20附近",
+            "risk": "止损距离舒适",
+            "position": "10%-25%",
+            "technical": {
+              "status": "ok",
+              "mode": "auto",
+              "total": 73,
+              "action": "小仓试错或继续观察",
+              "confidence": "中",
+              "suggestedPosition": "10%-25%",
+              "vetoes": [],
+              "ma20": 12.799,
+              "atrPct": 3.5,
+              "volumeRatio": 0.71,
+              "position60Pct": 73.6,
+              "buyPoint": "趋势回踩MA20附近",
+              "riskLabel": "止损距离舒适",
+              "stopLossPct": 2.12,
+              "barDate": "2026-10-13",
+              "quoteTime": "2026-10-13",
+              "quoteSource": "eastmoney",
+              "barSource": "eastmoney"
+            }
+          },
+          {
             "code": "002535",
             "name": "林州重机",
             "theme": "沪深主板",
@@ -27767,45 +27806,6 @@
               "quoteTime": "2026-10-13",
               "quoteSource": "eastmoney",
               "barSource": "eastmoney"
-            }
-          },
-          {
-            "code": "603558",
-            "name": "健盛集团",
-            "theme": "沪深主板",
-            "boards": 0,
-            "score": 73,
-            "labels": [
-              "沪深主板",
-              "龙头分歧低吸或等待确认",
-              "小仓试错或继续观察"
-            ],
-            "amount": "0",
-            "amountValue": 0,
-            "failCount": 0,
-            "setup": "龙头分歧低吸或等待确认",
-            "buyPoint": "趋势回踩MA20附近",
-            "risk": "止损距离舒适",
-            "position": "10%-25%",
-            "technical": {
-              "status": "ok",
-              "mode": "auto",
-              "total": 73,
-              "action": "小仓试错或继续观察",
-              "confidence": "中",
-              "suggestedPosition": "10%-25%",
-              "vetoes": [],
-              "ma20": 12.799,
-              "atrPct": 3.5,
-              "volumeRatio": 0.71,
-              "position60Pct": 73.6,
-              "buyPoint": "趋势回踩MA20附近",
-              "riskLabel": "止损距离舒适",
-              "stopLossPct": 2.12,
-              "barDate": "2026-10-13",
-              "quoteTime": "2026-10-13",
-              "quoteSource": "tencent",
-              "barSource": "tencent"
             }
           },
           {
@@ -92124,8 +92124,7 @@
           }
         ]
       }
-    ],
-    "source": "full-universe technical scan"
+    ]
   },
   "executionPlan": {
     "marketLevel": "中",
