@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-13",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-13 23:18:02",
+    "generatedAt": "2026-10-13 23:47:56",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -92289,34 +92289,29 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-13",
-    "generatedAt": "2026-10-13 23:19:14",
+    "generatedAt": "2026-10-13 23:49:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 能源、有色稀土、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
-        "name": "能源",
-        "score": 12,
+        "name": "有色稀土",
+        "score": 16,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 12,
+        "name": "能源",
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "金融",
         "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -92376,34 +92371,6 @@
         ],
         "importance": 1,
         "noticeType": "创业板IPO问询与回复"
-      },
-      {
-        "title": "应用材料股价下跌5%",
-        "summary": "【应用材料股价下跌5%】应用材料股价下跌5%，报473.3美元/股，总市值报3756亿美元。",
-        "publishedAt": "2026-10-13 23:10:16",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133894487429.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "SpaceX股价下跌4%",
-        "summary": "SpaceX股价下跌4%，报156.85美元/股，总市值报2.07万亿美元。",
-        "publishedAt": "2026-10-13 22:22:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133894452050.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       },
       {
         "title": "聚灿光电:300708聚灿光电投资者关系管理信息20261013",
@@ -92556,6 +92523,66 @@
         "noticeType": "其他"
       },
       {
+        "title": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资",
+        "summary": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资。",
+        "publishedAt": "2026-10-13 23:45:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610133894510680.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "通宝光电：实控人拟增持300万至500万元股份",
+        "summary": "【通宝光电：实控人拟增持300万至500万元股份】通宝光电公告，控股股东、实际控制人刘国学计划自公告披露之日起不超过6个月内，通过集中竞价方式增持公司股份，拟增持金额为300万元至500万元。",
+        "publishedAt": "2026-10-13 23:38:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610133894506926.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "英伟达首席执行官黄仁勋表示 公司过去一年在欧洲的投资总额达到80亿美元",
+        "summary": "英伟达首席执行官黄仁勋表示，公司过去一年在欧洲的投资总额达到80亿美元。",
+        "publishedAt": "2026-10-13 23:26:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610133894497965.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上海二手房单日成交量再创新高",
+        "summary": "【上海二手房单日成交量再创新高】随着“金九银十”传统销售旺季到来，全国多个重点城市房地产交易数据呈现出回暖态势。进入“银十”，上海二手房市场迎来一波成交热潮，市场看房、签约活跃度明显提升。上海市房地产交易中心数据显示，10月11日，上海二手房单日网签成交1615套，刷新2026年下半年单日成交新高，这也是今年上海二手房第三次单日网签突破1600套。上海某房…",
+        "publishedAt": "2026-10-13 23:20:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610133894495956.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "美国10月12日iShares黄金持仓-每日更新(吨)",
         "summary": "美国10月12日iShares黄金持仓-每日更新(吨)；公布 463.87，预期 nan，前值 463.87。",
         "publishedAt": "2026-10-13 06:30",
@@ -92581,38 +92608,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月9日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月9日COMEX黄金库存-每日更新(百盎司)；公布 234772.72，预期 nan，前值 234774.64。",
-        "publishedAt": "2026-10-13 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月12日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月12日SPDR黄金持仓-每日更新(吨)；公布 1055.41，预期 nan，前值 1053.13。",
-        "publishedAt": "2026-10-13 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -92768,15 +92763,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-13 23:19:14",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 能源、有色稀土、金融。",
+        "generatedAt": "2026-10-13 23:49:00",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：共封装光学(CPO)、元件、军工装备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -92807,7 +92802,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-13 23:18:02",
+        "generatedAt": "2026-10-13 23:47:56",
         "summary": "上午情绪分 89，涨停 67 家，跌停 8 家，炸板 19 家，连板 10 家，最高 3 板。",
         "sections": [
           {
@@ -92846,7 +92841,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-13 23:18:02",
+        "generatedAt": "2026-10-13 23:47:56",
         "summary": "市场温度 中，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
