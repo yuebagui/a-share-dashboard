@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-14",
     "phase": "盘中快照",
-    "generatedAt": "2026-10-14 03:49:12",
+    "generatedAt": "2026-10-14 03:53:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -92289,13 +92289,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-14",
-    "generatedAt": "2026-10-14 03:51:28",
+    "generatedAt": "2026-10-14 03:53:48",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 AI算力、军工、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、AI算力、军工。",
     "themes": [
+      {
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
       {
         "name": "AI算力",
         "score": 5,
@@ -92564,45 +92567,49 @@
         "noticeType": ""
       },
       {
-        "title": "巴布亚新几内亚发生6.0级地震",
-        "summary": "【巴布亚新几内亚发生6.0级地震】据美国地质调查局地震信息网消息，格林尼治时间13日18时45分（北京时间14日2时45分），巴布亚新几内亚科科波以南126公里处发生6.0级地震，震中位于南纬5.48度、东经152.14度，震源深度20.8公里。",
-        "publishedAt": "2026-10-14 03:18:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143894541935.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
+        "title": "美国10月12日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月12日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234772.72。",
+        "publishedAt": "2026-10-14 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "特朗普指责胡塞武装蓄意推高油价",
-        "summary": "【特朗普指责胡塞武装蓄意推高油价】美国总统特朗普10月13日在社交媒体发文，指责也门胡塞武装以“非常恶劣”的手段打击沙特阿拉伯，并很可能“蓄意在美国中期选举前推高油价”。当天早些时候，特朗普在离开白宫前往阿拉斯加州前还对媒体说，他已与沙特王储兼首相穆罕默德通了话，但拒绝透露是否已决定加入沙特打击胡塞武装的行动。他还说，将很快就伊朗问题作出决定。特朗普10月…",
-        "publishedAt": "2026-10-14 03:09:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143894541868.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国10月13日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月13日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15346.67。",
+        "publishedAt": "2026-10-14 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "恒指期货夜盘收跌0.07%",
-        "summary": "恒指期货夜盘收跌0.07%，报24340点，低水5点。",
-        "publishedAt": "2026-10-14 03:01:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143894541712.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
+        "title": "美国10月13日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月13日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.87。",
+        "publishedAt": "2026-10-14 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -92756,15 +92763,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-14 03:51:28",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 AI算力、军工、能源。",
+        "generatedAt": "2026-10-14 03:53:48",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、AI算力、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：共封装光学(CPO)、元件、军工装备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、军工、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -92795,7 +92802,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-14 03:49:12",
+        "generatedAt": "2026-10-14 03:53:00",
         "summary": "上午情绪分 89，涨停 67 家，跌停 8 家，炸板 19 家，连板 10 家，最高 3 板。",
         "sections": [
           {
@@ -92834,7 +92841,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-14 03:49:12",
+        "generatedAt": "2026-10-14 03:53:00",
         "summary": "市场温度 中，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
