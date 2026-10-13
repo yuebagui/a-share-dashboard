@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-10-13",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-10-13 23:47:56",
+    "tradeDate": "2026-10-14",
+    "phase": "盘中快照",
+    "generatedAt": "2026-10-14 03:49:12",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -92124,7 +92124,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -92287,30 +92288,32 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-13",
-    "generatedAt": "2026-10-13 23:49:00",
+    "tradeDate": "2026-10-14",
+    "generatedAt": "2026-10-14 03:51:28",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "errors": [
+      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 AI算力、军工、能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 16,
+        "name": "AI算力",
+        "score": 5,
         "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 5,
+        "isFocusBoard": true
       },
       {
         "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 6,
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -92321,212 +92324,235 @@
     ],
     "items": [
       {
-        "title": "光库科技:珠海光库科技股份有限公司关于珠海光库科技股份有限公司发行股份、可转换公司债券及支付现金并募集配套资金申请的审核问询函的回复(修订稿)",
-        "summary": "光库科技(300620)：光库科技:珠海光库科技股份有限公司关于珠海光库科技股份有限公司发行股份、可转换公司债券及支付现金并募集配套资金申请的审核问询函的回复(修订稿)",
-        "publishedAt": "2026-10-13",
+        "title": "东百集团:东百集团股票交易风险提示公告",
+        "summary": "东百集团(600693)：东百集团:东百集团股票交易风险提示公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300620/AN202610131830415556.html",
+        "url": "https://data.eastmoney.com/notices/detail/600693/AN202610131830416804.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "光库科技(300620)"
+          "东百集团(600693)"
+        ],
+        "importance": 1,
+        "noticeType": "其它风险提示公告"
+      },
+      {
+        "title": "威力传动:天健会计师事务所(特殊普通合伙)关于银川威力传动技术股份有限公司审核问询函中有关财务事项的说明",
+        "summary": "威力传动(300904)：威力传动:天健会计师事务所(特殊普通合伙)关于银川威力传动技术股份有限公司审核问询函中有关财务事项的说明",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300904/AN202610131830416736.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "威力传动(300904)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "华凯易佰:关于持股5%以上股东及其一致行动人、其他股东股份减持计划期满暨完成情况的公告",
-        "summary": "华凯易佰(300592)：华凯易佰:关于持股5%以上股东及其一致行动人、其他股东股份减持计划期满暨完成情况的公告",
-        "publishedAt": "2026-10-13",
+        "title": "威力传动:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "威力传动(300904)：威力传动:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300592/AN202610131830415089.html",
+        "url": "https://data.eastmoney.com/notices/detail/300904/AN202610131830416731.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "华凯易佰(300592)"
+          "威力传动(300904)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "威力传动:银川威力传动技术股份有限公司与国泰海通证券股份有限公司关于银川威力传动技术股份有限公司申请向特定对象发行股票的审核问询函之回复报告",
+        "summary": "威力传动(300904)：威力传动:银川威力传动技术股份有限公司与国泰海通证券股份有限公司关于银川威力传动技术股份有限公司申请向特定对象发行股票的审核问询函之回复报告",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300904/AN202610131830416732.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "威力传动(300904)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "兄弟科技:关于公司控股股东减持计划届满未减持公司股份的公告",
+        "summary": "兄弟科技(002562)：兄弟科技:关于公司控股股东减持计划届满未减持公司股份的公告",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002562/AN202610131830416632.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "兄弟科技(002562)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "发行人及中介机构回复意见(力高新能源技术股份有限公司)",
-        "summary": "力高新能(A23134)：发行人及中介机构回复意见(力高新能源技术股份有限公司)",
-        "publishedAt": "2026-10-13",
+        "title": "深科达:关于实际控制人及其一致行动人权益变动触及1%及5%刻度、提前终止减持计划暨减持股份结果公告",
+        "summary": "深科达(688328)：深科达:关于实际控制人及其一致行动人权益变动触及1%及5%刻度、提前终止减持计划暨减持股份结果公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A23134/AN202610131830419004.html",
+        "url": "https://data.eastmoney.com/notices/detail/688328/AN202610131830416616.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "新能源",
-          "能源"
-        ],
-        "tickers": [
-          "力高新能(A23134)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
-      },
-      {
-        "title": "聚灿光电:300708聚灿光电投资者关系管理信息20261013",
-        "summary": "聚灿光电(300708)：聚灿光电:300708聚灿光电投资者关系管理信息20261013",
-        "publishedAt": "2026-10-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300708/AN202610131830416517.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [],
         "tickers": [
-          "聚灿光电(300708)"
+          "深科达(688328)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "权益变动报告书"
       },
       {
-        "title": "华大九天:关于终止投资合肥中湾聚芯创业投资基金合伙企业(有限合伙)暨关联交易的公告",
-        "summary": "华大九天(301269)：华大九天:关于终止投资合肥中湾聚芯创业投资基金合伙企业(有限合伙)暨关联交易的公告",
-        "publishedAt": "2026-10-13",
+        "title": "神州细胞:神州细胞股东减持股份计划公告",
+        "summary": "神州细胞(688520)：神州细胞:神州细胞股东减持股份计划公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301269/AN202610131830416499.html",
+        "url": "https://data.eastmoney.com/notices/detail/688520/AN202610131830416558.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "华大九天(301269)"
+          "神州细胞(688520)"
         ],
         "importance": 1,
-        "noticeType": "关联交易"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "301716鸿富诚投资者关系管理信息20261013",
-        "summary": "鸿富诚(301716)：301716鸿富诚投资者关系管理信息20261013",
-        "publishedAt": "2026-10-13",
+        "title": "硕世生物:江苏硕世生物科技股份有限公司关于控股股东涉及诉讼的公告",
+        "summary": "硕世生物(688399)：硕世生物:江苏硕世生物科技股份有限公司关于控股股东涉及诉讼的公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301716/AN202610131830416459.html",
+        "url": "https://data.eastmoney.com/notices/detail/688399/AN202610131830416487.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "鸿富诚(301716)"
+          "硕世生物(688399)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "宁波银行:2026年10月13日投资者关系活动记录表",
-        "summary": "宁波银行(002142)：宁波银行:2026年10月13日投资者关系活动记录表",
-        "publishedAt": "2026-10-13",
+        "title": "硕世生物:江苏硕世生物科技股份有限公司关于控股股东部分股份被司法冻结的公告",
+        "summary": "硕世生物(688399)：硕世生物:江苏硕世生物科技股份有限公司关于控股股东部分股份被司法冻结的公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002142/AN202610131830403940.html",
+        "url": "https://data.eastmoney.com/notices/detail/688399/AN202610131830416488.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "宁波银行(002142)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中集环科:2026年10月13日投资者关系活动记录表",
-        "summary": "中集环科(301559)：中集环科:2026年10月13日投资者关系活动记录表",
-        "publishedAt": "2026-10-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301559/AN202610131830419785.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "中集环科(301559)"
+          "硕世生物(688399)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "豪鹏科技:2026年10月13日投资者关系活动记录表",
-        "summary": "豪鹏科技(001283)：豪鹏科技:2026年10月13日投资者关系活动记录表",
-        "publishedAt": "2026-10-13",
+        "title": "怡亚通:关于持股5%以上股东减持股份触及1%整数倍的公告",
+        "summary": "怡亚通(002183)：怡亚通:关于持股5%以上股东减持股份触及1%整数倍的公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001283/AN202610131830418187.html",
+        "url": "https://data.eastmoney.com/notices/detail/002183/AN202610131830416447.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "豪鹏科技(001283)"
+          "怡亚通(002183)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "国信证券:国信证券股份有限公司2026年面向专业投资者公开发行公司债券(第六期)票面利率公告",
-        "summary": "国信证券(002736)：国信证券:国信证券股份有限公司2026年面向专业投资者公开发行公司债券(第六期)票面利率公告",
-        "publishedAt": "2026-10-13",
+        "title": "*ST利达:柯利达关于公司及子公司累计诉讼、仲裁事项的公告",
+        "summary": "*ST利达(603828)：*ST利达:柯利达关于公司及子公司累计诉讼、仲裁事项的公告",
+        "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002736/AN202610131830416972.html",
+        "url": "https://data.eastmoney.com/notices/detail/603828/AN202610131830416229.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国信证券(002736)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "奥飞娱乐:2026年10月13日投资者关系活动记录表",
-        "summary": "奥飞娱乐(002292)：奥飞娱乐:2026年10月13日投资者关系活动记录表",
-        "publishedAt": "2026-10-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002292/AN202610131830416670.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "奥飞娱乐(002292)"
+          "*ST利达(603828)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "深圳能源:深圳能源集团股份有限公司2026年面向专业投资者公开发行公司债券(第一期)票面利率公告",
-        "summary": "深圳能源(000027)：深圳能源:深圳能源集团股份有限公司2026年面向专业投资者公开发行公司债券(第一期)票面利率公告",
-        "publishedAt": "2026-10-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000027/AN202610131830416116.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "深圳能源(000027)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资",
-        "summary": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资。",
-        "publishedAt": "2026-10-13 23:45:32",
+        "title": "WTI原油期货结算价为94.14美元/桶 上涨40美分 涨幅0.43%",
+        "summary": "WTI原油期货结算价为94.14美元/桶，上涨40美分，涨幅0.43%。布伦特原油期货结算价为105.69美元/桶，下跌96美分，跌幅0.9%。",
+        "publishedAt": "2026-10-14 02:31:31",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133894510680.html",
+        "url": "https://finance.eastmoney.com/a/202610143894541250.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈",
+        "summary": "【泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈】当地时间13日，乌克兰总统泽连斯基通过视频讲话表示，乌美双方工作团队持续沟通，积极磋商俄乌冲突和平进程相关事宜。目前乌方已向美方提交新一轮会晤与磋商方案，提议未来几天内举行会谈，并已将相关建议递交美方相关代表。",
+        "publishedAt": "2026-10-14 01:58:49",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143894539065.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "恩捷股份:2026年前三季度业绩预增提示性公告",
+        "summary": "恩捷股份(002812)：恩捷股份:2026年前三季度业绩预增提示性公告",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002812/AN202610131830416310.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恩捷股份(002812)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "Rosenberg称美股越来越像泡沫 多项指标极端程度从业40年来未见",
+        "summary": "【Rosenberg称美股越来越像泡沫 多项指标极端程度从业40年来未见】David Rosenberg表示，美国股市越来越像一个泡沫，估值、杠杆和投资者仓位均处于其从业40年来前所未见的极端水平。Rosenberg是总部位于多伦多的Rosenberg Research & Associates创始人。他认为，当前牛市对人工智能(AI)进展走向的依赖程度，…",
+        "publishedAt": "2026-10-14 03:33:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143894542496.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -92538,77 +92564,45 @@
         "noticeType": ""
       },
       {
-        "title": "通宝光电：实控人拟增持300万至500万元股份",
-        "summary": "【通宝光电：实控人拟增持300万至500万元股份】通宝光电公告，控股股东、实际控制人刘国学计划自公告披露之日起不超过6个月内，通过集中竞价方式增持公司股份，拟增持金额为300万元至500万元。",
-        "publishedAt": "2026-10-13 23:38:34",
+        "title": "巴布亚新几内亚发生6.0级地震",
+        "summary": "【巴布亚新几内亚发生6.0级地震】据美国地质调查局地震信息网消息，格林尼治时间13日18时45分（北京时间14日2时45分），巴布亚新几内亚科科波以南126公里处发生6.0级地震，震中位于南纬5.48度、东经152.14度，震源深度20.8公里。",
+        "publishedAt": "2026-10-14 03:18:24",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133894506926.html",
+        "url": "https://finance.eastmoney.com/a/202610143894541935.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "英伟达首席执行官黄仁勋表示 公司过去一年在欧洲的投资总额达到80亿美元",
-        "summary": "英伟达首席执行官黄仁勋表示，公司过去一年在欧洲的投资总额达到80亿美元。",
-        "publishedAt": "2026-10-13 23:26:50",
+        "title": "特朗普指责胡塞武装蓄意推高油价",
+        "summary": "【特朗普指责胡塞武装蓄意推高油价】美国总统特朗普10月13日在社交媒体发文，指责也门胡塞武装以“非常恶劣”的手段打击沙特阿拉伯，并很可能“蓄意在美国中期选举前推高油价”。当天早些时候，特朗普在离开白宫前往阿拉斯加州前还对媒体说，他已与沙特王储兼首相穆罕默德通了话，但拒绝透露是否已决定加入沙特打击胡塞武装的行动。他还说，将很快就伊朗问题作出决定。特朗普10月…",
+        "publishedAt": "2026-10-14 03:09:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133894497965.html",
+        "url": "https://finance.eastmoney.com/a/202610143894541868.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "上海二手房单日成交量再创新高",
-        "summary": "【上海二手房单日成交量再创新高】随着“金九银十”传统销售旺季到来，全国多个重点城市房地产交易数据呈现出回暖态势。进入“银十”，上海二手房市场迎来一波成交热潮，市场看房、签约活跃度明显提升。上海市房地产交易中心数据显示，10月11日，上海二手房单日网签成交1615套，刷新2026年下半年单日成交新高，这也是今年上海二手房第三次单日网签突破1600套。上海某房…",
-        "publishedAt": "2026-10-13 23:20:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610133894495956.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月12日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月12日iShares黄金持仓-每日更新(吨)；公布 463.87，预期 nan，前值 463.87。",
-        "publishedAt": "2026-10-13 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月12日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月12日iShares白银持仓-每日更新(吨)；公布 15346.67，预期 nan，前值 15363.53。",
-        "publishedAt": "2026-10-13 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "恒指期货夜盘收跌0.07%",
+        "summary": "恒指期货夜盘收跌0.07%，报24340点，低水5点。",
+        "publishedAt": "2026-10-14 03:01:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143894541712.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -92749,7 +92743,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -92762,15 +92756,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-13 23:49:00",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-10-14 03:51:28",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 AI算力、军工、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：共封装光学(CPO)、元件、军工装备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、军工、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -92801,7 +92795,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-13 23:47:56",
+        "generatedAt": "2026-10-14 03:49:12",
         "summary": "上午情绪分 89，涨停 67 家，跌停 8 家，炸板 19 家，连板 10 家，最高 3 板。",
         "sections": [
           {
@@ -92840,7 +92834,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-13 23:47:56",
+        "generatedAt": "2026-10-14 03:49:12",
         "summary": "市场温度 中，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -92866,7 +92860,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "今日跌停 8 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 共封装光学(CPO)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：光库科技:珠海光库科技股份有限公司关于珠海光库科技股份有限公司发行股份、可转换公司债券及支付现金并募集配套资金申请的审核问询函的回复(修订稿)；华凯易佰:关于持股5%以上股东及其一致行动人、其他股东股份减持计划期满暨完成情况的公告。",
+              "新闻/公告风险：东百集团:东百集团股票交易风险提示公告；威力传动:天健会计师事务所(特殊普通合伙)关于银川威力传动技术股份有限公司审核问询函中有关财务事项的说明。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
