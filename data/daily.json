@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-14",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-14 20:57:35",
+    "generatedAt": "2026-10-14 21:31:16",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -76212,7 +76212,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -76382,29 +76383,34 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-14",
-    "generatedAt": "2026-10-14 20:58:14",
+    "generatedAt": "2026-10-14 21:31:49",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 金融、半导体、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 8,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 4,
+        "name": "金融",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 3,
         "isFocusBoard": false
       }
     ],
@@ -76426,6 +76432,38 @@
         "noticeType": "股份质押、冻结"
       },
       {
+        "title": "*ST天喻:关于股东权益变动暨公司控股股东、实际控制人变更的提示性公告",
+        "summary": "*ST天喻(300205)：*ST天喻:关于股东权益变动暨公司控股股东、实际控制人变更的提示性公告",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300205/AN202610141830470403.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST天喻(300205)"
+        ],
+        "importance": 1,
+        "noticeType": "权益变动报告书"
+      },
+      {
+        "title": "*ST天喻:简式权益变动报告书(深圳市鼎沣投资合伙企业(有限合伙))",
+        "summary": "*ST天喻(300205)：*ST天喻:简式权益变动报告书(深圳市鼎沣投资合伙企业(有限合伙))",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300205/AN202610141830470408.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST天喻(300205)"
+        ],
+        "importance": 1,
+        "noticeType": "权益变动报告书"
+      },
+      {
         "title": "金力泰:关于董事长减持股份的预披露公告",
         "summary": "金力泰(300225)：金力泰:关于董事长减持股份的预披露公告",
         "publishedAt": "2026-10-14",
@@ -76442,17 +76480,15 @@
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "现货黄金跌破4100美元",
-        "summary": "现货黄金跌破4100美元，日内下跌1.58%。",
-        "publishedAt": "2026-10-14 20:43:01",
+        "title": "现货白银跌破57美元/盎司",
+        "summary": "【现货白银跌破57美元/盎司】现货白银跌破57美元/盎司，日内下跌3.53%。",
+        "publishedAt": "2026-10-14 21:03:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143895664725.html",
+        "url": "https://finance.eastmoney.com/a/202610143895702981.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -76488,6 +76524,38 @@
         ],
         "importance": 1,
         "noticeType": "调研活动"
+      },
+      {
+        "title": "300909汇创达投资者关系管理信息20261014",
+        "summary": "汇创达(300909)：300909汇创达投资者关系管理信息20261014",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300909/AN202610141830470500.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汇创达(300909)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "越秀资本:广州越秀资本控股集团股份有限公司2025年面向专业投资者公开发行公司债券(第三期)(品种一)2026年付息公告",
+        "summary": "越秀资本(000987)：越秀资本:广州越秀资本控股集团股份有限公司2025年面向专业投资者公开发行公司债券(第三期)(品种一)2026年付息公告",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000987/AN202610141830470466.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "越秀资本(000987)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
       },
       {
         "title": "鲁西化工:2026年10月14日投资者关系活动记录表",
@@ -76556,145 +76624,79 @@
         "noticeType": "回购进展情况"
       },
       {
-        "title": "明阳电路:北京市中伦(深圳)律师事务所关于深圳明阳电路科技股份有限公司2025年限制性股票激励计划首次及预留授予第一个解除限售期解除限售条件成就及回购注销部分限制性股票的法律意见书",
-        "summary": "明阳电路(300739)：明阳电路:北京市中伦(深圳)律师事务所关于深圳明阳电路科技股份有限公司2025年限制性股票激励计划首次及预留授予第一个解除限售期解除限售条件成就及回购注销部分限制性股票的法律意见书",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300739/AN202610141830469091.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "意大利科技公司Bending Spoons盘前直线拉升涨超32%",
+        "summary": "【意大利科技公司Bending Spoons盘前直线拉升涨超32%】意大利科技公司Bending Spoons盘前直线拉升涨超32%，其获得伯克希尔追加投资。",
+        "publishedAt": "2026-10-14 21:21:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143895717234.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中国贸促会副会长刘健男会见英国前投资国务大臣、吉科资本董事长秦智涛",
+        "summary": "【中国贸促会副会长刘健男会见英国前投资国务大臣、吉科资本董事长秦智涛】10月14日，中国贸促会副会长刘健男在京会见英国前投资国务大臣、吉科资本董事长秦智涛一行，就深化中英工商界交流、支持两国企业务实合作、促进中英产业链供应链协同发展等进行交流。",
+        "publishedAt": "2026-10-14 21:10:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143895709822.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "现代汽车：将同印度企业在电动汽车和电池等领域合作",
+        "summary": "【现代汽车：将同印度企业在电动汽车和电池等领域合作】现代汽车集团会长郑义宣10月14日出席印度浦那新工厂竣工仪式时表示，集团今后将继续在汽车、基建和能源等领域扩大对印投资。郑义宣称，现代汽车将同印度本土企业在电动汽车和电池等领域开展合作，加快研发与生产的本地化进程。他预计，印度电动汽车市场发展成熟还需约5年时间。",
+        "publishedAt": "2026-10-14 21:07:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143895711119.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "新能源",
+          "汽车链",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中小银行收债券投资提示？知情人士：并非全国统一安排",
+        "summary": "【中小银行收债券投资提示？知情人士：并非全国统一安排】知情人士在21世纪经济报道记者求证时表示，金融管理部门并未就中小银行金融投资增速和新增债券久期作出全国统一安排。在市场化原则下，中小银行基于自身资产负债状况进行的债券投资决策，属于其自主经营权范畴。",
+        "publishedAt": "2026-10-14 21:04:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143895712629.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "明阳电路(300739)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "法律意见书"
+        "noticeType": ""
       },
       {
-        "title": "明阳电路:关于回购注销限制性股票的减资公告",
-        "summary": "明阳电路(300739)：明阳电路:关于回购注销限制性股票的减资公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300739/AN202610141830469093.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "明阳电路(300739)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "好上好:2026年10月14日投资者活动记录表",
-        "summary": "好上好(001298)：好上好:2026年10月14日投资者活动记录表",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001298/AN202610141830468828.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "美国30年期国债收益率突破5.62%",
+        "summary": "【美国30年期国债收益率突破5.62%】美国长期国债收益率快速拉升，美国30年期国债收益率升至5.624%，日内上涨5.8个基点，涨幅约1.05%；盘中最高触及5.627%。美国10年期国债收益率报5.327%，日内上涨幅度亦较为明显。",
+        "publishedAt": "2026-10-14 21:02:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143895700557.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [
-          "好上好(001298)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "顺网科技:杭州顺网科技股份有限公司关于与专业投资机构共同投资的公告",
-        "summary": "顺网科技(300113)：顺网科技:杭州顺网科技股份有限公司关于与专业投资机构共同投资的公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300113/AN202610141830468872.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "顺网科技(300113)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "美国10月12日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月12日COMEX黄金库存-每日更新(百盎司)；公布 234771.11，预期 nan，前值 234772.72。",
-        "publishedAt": "2026-10-14 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月13日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月13日SPDR黄金持仓-每日更新(吨)；公布 1054.2，预期 nan，前值 1055.41。",
-        "publishedAt": "2026-10-14 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国9月PPI年率(%)",
-        "summary": "中国9月PPI年率(%)；公布 5.0，预期 4.5，前值 3.8。",
-        "publishedAt": "2026-10-14 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国9月CPI年率(%)",
-        "summary": "中国9月CPI年率(%)；公布 0.9，预期 1.0，前值 0.8。",
-        "publishedAt": "2026-10-14 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国9月贸易帐-美元计价(亿美元)",
-        "summary": "中国9月贸易帐-美元计价(亿美元)；公布 1335.3，预期 1181.0，前值 1190.9。",
-        "publishedAt": "2026-10-14 10:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -76883,15 +76885,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-14 20:58:14",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 金融、半导体、有色稀土。",
+        "generatedAt": "2026-10-14 21:31:49",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：电力；首看 电力 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、半导体、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -76922,7 +76924,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-14 20:57:35",
+        "generatedAt": "2026-10-14 21:31:16",
         "summary": "上午情绪分 64，涨停 36 家，跌停 11 家，炸板 24 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -76961,7 +76963,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-14 20:57:35",
+        "generatedAt": "2026-10-14 21:31:16",
         "summary": "市场温度 弱，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -76987,7 +76989,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 11 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告；金力泰:关于董事长减持股份的预披露公告。",
+              "新闻/公告风险：天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告；*ST天喻:关于股东权益变动暨公司控股股东、实际控制人变更的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
