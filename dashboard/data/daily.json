@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-14",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-14 03:53:00",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-14 03:53:00",
+    "lastNewsAt": "2026-10-14 13:14:04"
   },
   "indices": [
     {
@@ -92289,29 +92291,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-14",
-    "generatedAt": "2026-10-14 03:53:48",
+    "generatedAt": "2026-10-14 13:14:04",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、AI算力、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 AI算力、有色稀土、汽车链。",
     "themes": [
+      {
+        "name": "AI算力",
+        "score": 9,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "汽车链",
         "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 5,
-        "isFocusBoard": true
-      },
-      {
-        "name": "能源",
-        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -92320,7 +92317,22 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
@@ -92425,137 +92437,123 @@
         "noticeType": "权益变动报告书"
       },
       {
-        "title": "神州细胞:神州细胞股东减持股份计划公告",
-        "summary": "神州细胞(688520)：神州细胞:神州细胞股东减持股份计划公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688520/AN202610131830416558.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "神州细胞(688520)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "硕世生物:江苏硕世生物科技股份有限公司关于控股股东涉及诉讼的公告",
-        "summary": "硕世生物(688399)：硕世生物:江苏硕世生物科技股份有限公司关于控股股东涉及诉讼的公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688399/AN202610131830416487.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "硕世生物(688399)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "硕世生物:江苏硕世生物科技股份有限公司关于控股股东部分股份被司法冻结的公告",
-        "summary": "硕世生物(688399)：硕世生物:江苏硕世生物科技股份有限公司关于控股股东部分股份被司法冻结的公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688399/AN202610131830416488.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "硕世生物(688399)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "怡亚通:关于持股5%以上股东减持股份触及1%整数倍的公告",
-        "summary": "怡亚通(002183)：怡亚通:关于持股5%以上股东减持股份触及1%整数倍的公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002183/AN202610131830416447.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "怡亚通(002183)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "*ST利达:柯利达关于公司及子公司累计诉讼、仲裁事项的公告",
-        "summary": "*ST利达(603828)：*ST利达:柯利达关于公司及子公司累计诉讼、仲裁事项的公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603828/AN202610131830416229.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST利达(603828)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "WTI原油期货结算价为94.14美元/桶 上涨40美分 涨幅0.43%",
-        "summary": "WTI原油期货结算价为94.14美元/桶，上涨40美分，涨幅0.43%。布伦特原油期货结算价为105.69美元/桶，下跌96美分，跌幅0.9%。",
-        "publishedAt": "2026-10-14 02:31:31",
+        "title": "“AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI”",
+        "summary": "【“AI教父”怒批特朗普：他对AI“几乎一无所知”！此前特朗普宣布用“SI”替代“AI”】有“AI教父”之称的计算机科学家杰弗里·辛顿（Geoffrey Hinton）再度警告，人工智能（AI）可能对人类构成生存威胁，并批评美国总统特朗普对AI“几乎一无所知”，也不认同让科技业者自行监管。",
+        "publishedAt": "2026-10-14 13:03:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143894541250.html",
+        "url": "https://finance.eastmoney.com/a/202610143895271444.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "能源"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈",
-        "summary": "【泽连斯基向美方提交新一轮会晤方案 提议近日开展会谈】当地时间13日，乌克兰总统泽连斯基通过视频讲话表示，乌美双方工作团队持续沟通，积极磋商俄乌冲突和平进程相关事宜。目前乌方已向美方提交新一轮会晤与磋商方案，提议未来几天内举行会谈，并已将相关建议递交美方相关代表。",
-        "publishedAt": "2026-10-14 01:58:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143894539065.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "恩捷股份:2026年前三季度业绩预增提示性公告",
-        "summary": "恩捷股份(002812)：恩捷股份:2026年前三季度业绩预增提示性公告",
+        "title": "嘉欣丝绸:2026年10月13日投资者关系活动记录表",
+        "summary": "嘉欣丝绸(002404)：嘉欣丝绸:2026年10月13日投资者关系活动记录表",
         "publishedAt": "2026-10-14",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002812/AN202610131830416310.html",
+        "url": "https://data.eastmoney.com/notices/detail/002404/AN202610141830431490.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "恩捷股份(002812)"
+          "嘉欣丝绸(002404)"
         ],
         "importance": 1,
-        "noticeType": "业绩预告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "Rosenberg称美股越来越像泡沫 多项指标极端程度从业40年来未见",
-        "summary": "【Rosenberg称美股越来越像泡沫 多项指标极端程度从业40年来未见】David Rosenberg表示，美国股市越来越像一个泡沫，估值、杠杆和投资者仓位均处于其从业40年来前所未见的极端水平。Rosenberg是总部位于多伦多的Rosenberg Research & Associates创始人。他认为，当前牛市对人工智能(AI)进展走向的依赖程度，…",
-        "publishedAt": "2026-10-14 03:33:28",
+        "title": "太力科技:投资者关系活动记录表2026025",
+        "summary": "太力科技(301595)：太力科技:投资者关系活动记录表2026025",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301595/AN202610141830431536.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "太力科技(301595)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鸿利智汇:2026年10月13日投资者关系活动记录表",
+        "summary": "鸿利智汇(300219)：鸿利智汇:2026年10月13日投资者关系活动记录表",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300219/AN202610141830430397.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鸿利智汇(300219)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "丽珠集团:2026年10月13日投资者关系活动记录表",
+        "summary": "丽珠集团(000513)：丽珠集团:2026年10月13日投资者关系活动记录表",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000513/AN202610141830430301.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "丽珠集团(000513)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "新宙邦:2026年10月12日-10月13日投资者关系活动记录表",
+        "summary": "新宙邦(300037)：新宙邦:2026年10月12日-10月13日投资者关系活动记录表",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300037/AN202610141830430151.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新宙邦(300037)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中色股份:2026年10月13日投资者关系活动记录表",
+        "summary": "中色股份(000758)：中色股份:2026年10月13日投资者关系活动记录表",
+        "publishedAt": "2026-10-14",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000758/AN202610141830428375.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中色股份(000758)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "阿斯麦：部分客户已与公司开始了2029年甚至2030年的设备订单接洽",
+        "summary": "【阿斯麦：部分客户已与公司开始了2029年甚至2030年的设备订单接洽】阿斯麦（ASML）总裁兼首席执行官傅恪礼表示，客户持续上调对ASML设备的短期和中期需求预期，主要基于其对人工智能相关投资规模及持续周期的判断。随着未来需求前景更加清晰，部分客户已与公司开始了2029年甚至2030年的设备订单接洽。",
+        "publishedAt": "2026-10-14 13:10:20",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143894542496.html",
+        "url": "https://finance.eastmoney.com/a/202610143895277969.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -92567,8 +92565,40 @@
         "noticeType": ""
       },
       {
+        "title": "中汽协：中欧混动汽车、电动汽车磋商共识有助于维护双方产业界共同利益",
+        "summary": "【中汽协：中欧混动汽车、电动汽车磋商共识有助于维护双方产业界共同利益】10月14日，中国汽车工业协会发布关于中欧混动汽车、电动汽车磋商共识的声明。中汽协称，这一共识有助于稳定双方产业预期，维护汽车产业链供应链稳定畅通，为车企开展贸易投资合作创造更加可预期的环境；也有助于维护双方产业界和消费者的共同利益，避免贸易摩擦升级。",
+        "publishedAt": "2026-10-14 13:07:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143895274481.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "小方制药：长期看好家庭常备外用药赛道",
+        "summary": "【小方制药：长期看好家庭常备外用药赛道】小方制药在2026年半年度业绩说明会上表示，公司未来盈利增长主要依赖创新药研发突破与全渠道销售放量两大核心驱动，同时受益于外用药市场的长期扩容。公司长期看好家庭常备外用药赛道，老龄化与健康消费升级带来稳定需求，行业空间广阔。公司将持续深耕主业、推进产品创新，把握行业机遇。",
+        "publishedAt": "2026-10-14 13:00:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610143895270228.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "美国10月12日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月12日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234772.72。",
+        "summary": "美国10月12日COMEX黄金库存-每日更新(百盎司)；公布 234771.11，预期 nan，前值 234772.72。",
         "publishedAt": "2026-10-14 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -92592,22 +92622,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月13日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月13日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.87。",
-        "publishedAt": "2026-10-14 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -92750,7 +92764,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -92763,15 +92777,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-14 03:53:48",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 13 条；主题映射集中在 有色稀土、AI算力、军工。",
+        "generatedAt": "2026-10-14 13:14:04",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 AI算力、有色稀土、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：共封装光学(CPO)、元件、军工装备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
