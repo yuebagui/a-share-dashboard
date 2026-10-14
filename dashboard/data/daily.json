@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-10-14",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-10-14 21:31:16",
+    "tradeDate": "2026-10-15",
+    "phase": "盘中快照",
+    "generatedAt": "2026-10-15 01:54:37",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -76382,299 +76382,219 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-14",
-    "generatedAt": "2026-10-14 21:31:49",
+    "tradeDate": "2026-10-15",
+    "generatedAt": "2026-10-15 01:55:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+    "errors": [
+      "macro-calendar: HTTP Error 403: "
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 AI算力、金融、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
+        "name": "AI算力",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
+        "name": "金融",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告",
-        "summary": "天禄科技(301045)：天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告",
-        "publishedAt": "2026-10-14",
+        "title": "慈文传媒:关于股票交易异常波动的公告",
+        "summary": "慈文传媒(002343)：慈文传媒:关于股票交易异常波动的公告",
+        "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301045/AN202610141830464126.html",
+        "url": "https://data.eastmoney.com/notices/detail/002343/AN202610141830470870.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "天禄科技(301045)"
+          "慈文传媒(002343)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "*ST天喻:关于股东权益变动暨公司控股股东、实际控制人变更的提示性公告",
-        "summary": "*ST天喻(300205)：*ST天喻:关于股东权益变动暨公司控股股东、实际控制人变更的提示性公告",
-        "publishedAt": "2026-10-14",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司风险管理制度(草案)(H股发行并上市后适用)",
+        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司风险管理制度(草案)(H股发行并上市后适用)",
+        "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300205/AN202610141830470403.html",
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470646.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST天喻(300205)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "*ST天喻:简式权益变动报告书(深圳市鼎沣投资合伙企业(有限合伙))",
-        "summary": "*ST天喻(300205)：*ST天喻:简式权益变动报告书(深圳市鼎沣投资合伙企业(有限合伙))",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300205/AN202610141830470408.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST天喻(300205)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "金力泰:关于董事长减持股份的预披露公告",
-        "summary": "金力泰(300225)：金力泰:关于董事长减持股份的预披露公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300225/AN202610141830469092.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "金力泰(300225)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "现货白银跌破57美元/盎司",
-        "summary": "【现货白银跌破57美元/盎司】现货白银跌破57美元/盎司，日内下跌3.53%。",
-        "publishedAt": "2026-10-14 21:03:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143895702981.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "奕帆传动:关于终止与专业机构共同投资的公告",
-        "summary": "奕帆传动(301023)：奕帆传动:关于终止与专业机构共同投资的公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301023/AN202610141830467666.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "奕帆传动(301023)"
+          "江丰电子(300666)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "曼卡龙:2026年10月14日投资者关系活动记录表",
-        "summary": "曼卡龙(300945)：曼卡龙:2026年10月14日投资者关系活动记录表",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300945/AN202610141830453300.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为",
+        "summary": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为。",
+        "publishedAt": "2026-10-15 01:51:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153895870788.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "曼卡龙(300945)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "300909汇创达投资者关系管理信息20261014",
-        "summary": "汇创达(300909)：300909汇创达投资者关系管理信息20261014",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300909/AN202610141830470500.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "美国30年期国债收益率触及盘中低点 最新下跌3.2个基点至5.531%",
+        "summary": "美国30年期国债收益率触及盘中低点，最新下跌3.2个基点至5.531%。",
+        "publishedAt": "2026-10-15 01:34:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153895870411.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "汇创达(300909)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "越秀资本:广州越秀资本控股集团股份有限公司2025年面向专业投资者公开发行公司债券(第三期)(品种一)2026年付息公告",
-        "summary": "越秀资本(000987)：越秀资本:广州越秀资本控股集团股份有限公司2025年面向专业投资者公开发行公司债券(第三期)(品种一)2026年付息公告",
-        "publishedAt": "2026-10-14",
+        "title": "万通发展:2026年股票期权激励计划草案摘要",
+        "summary": "万通发展(600246)：万通发展:2026年股票期权激励计划草案摘要",
+        "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000987/AN202610141830470466.html",
+        "url": "https://data.eastmoney.com/notices/detail/600246/AN202610141830470902.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "越秀资本(000987)"
+          "万通发展(600246)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划摘要"
+      },
+      {
+        "title": "万通发展:万通发展2026年股票期权激励计划(草案)",
+        "summary": "万通发展(600246)：万通发展:万通发展2026年股票期权激励计划(草案)",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600246/AN202610141830470896.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "万通发展(600246)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励计划"
+      },
+      {
+        "title": "万通发展:2026年股票期权激励计划首次授予激励对象名单",
+        "summary": "万通发展(600246)：万通发展:2026年股票期权激励计划首次授予激励对象名单",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600246/AN202610141830470901.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "万通发展(600246)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励对象名单"
+      },
+      {
+        "title": "江丰电子:宁波江丰电子材料股份有限公司媒体采访和投资者调研接待办法(草案)(H股发行并上市后适用)",
+        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司媒体采访和投资者调研接待办法(草案)(H股发行并上市后适用)",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470636.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "江丰电子(300666)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "鲁西化工:2026年10月14日投资者关系活动记录表",
-        "summary": "鲁西化工(000830)：鲁西化工:2026年10月14日投资者关系活动记录表",
-        "publishedAt": "2026-10-14",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司重大投资决策管理制度(草案)(H股发行并上市后适用)",
+        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司重大投资决策管理制度(草案)(H股发行并上市后适用)",
+        "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000830/AN202610141830469555.html",
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470617.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "鲁西化工(000830)"
+          "江丰电子(300666)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "云意电气:300304云意电气投资者关系管理信息20261014",
-        "summary": "云意电气(300304)：云意电气:300304云意电气投资者关系管理信息20261014",
-        "publishedAt": "2026-10-14",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
+        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
+        "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300304/AN202610141830469383.html",
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470655.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "云意电气(300304)"
+          "江丰电子(300666)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "002351漫步者投资者关系管理信息20261014",
-        "summary": "漫步者(002351)：002351漫步者投资者关系管理信息20261014",
-        "publishedAt": "2026-10-14",
+        "title": "平安电工:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "平安电工(001359)：平安电工:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002351/AN202610141830469153.html",
+        "url": "https://data.eastmoney.com/notices/detail/001359/AN202610141830470409.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "漫步者(002351)"
+          "平安电工(001359)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "获得补贴（资助）"
       },
       {
-        "title": "明阳电路:关于回购注销部分限制性股票的公告",
-        "summary": "明阳电路(300739)：明阳电路:关于回购注销部分限制性股票的公告",
-        "publishedAt": "2026-10-14",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300739/AN202610141830469096.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "明阳电路(300739)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "意大利科技公司Bending Spoons盘前直线拉升涨超32%",
-        "summary": "【意大利科技公司Bending Spoons盘前直线拉升涨超32%】意大利科技公司Bending Spoons盘前直线拉升涨超32%，其获得伯克希尔追加投资。",
-        "publishedAt": "2026-10-14 21:21:18",
+        "title": "美联储周三隔夜逆回购协议（RRP）使用规模为2.01亿美元",
+        "summary": "美联储周三隔夜逆回购协议（RRP）使用规模为2.01亿美元。",
+        "publishedAt": "2026-10-15 01:17:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143895717234.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中国贸促会副会长刘健男会见英国前投资国务大臣、吉科资本董事长秦智涛",
-        "summary": "【中国贸促会副会长刘健男会见英国前投资国务大臣、吉科资本董事长秦智涛】10月14日，中国贸促会副会长刘健男在京会见英国前投资国务大臣、吉科资本董事长秦智涛一行，就深化中英工商界交流、支持两国企业务实合作、促进中英产业链供应链协同发展等进行交流。",
-        "publishedAt": "2026-10-14 21:10:42",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143895709822.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "现代汽车：将同印度企业在电动汽车和电池等领域合作",
-        "summary": "【现代汽车：将同印度企业在电动汽车和电池等领域合作】现代汽车集团会长郑义宣10月14日出席印度浦那新工厂竣工仪式时表示，集团今后将继续在汽车、基建和能源等领域扩大对印投资。郑义宣称，现代汽车将同印度本土企业在电动汽车和电池等领域开展合作，加快研发与生产的本地化进程。他预计，印度电动汽车市场发展成熟还需约5年时间。",
-        "publishedAt": "2026-10-14 21:07:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143895711119.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "汽车链",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中小银行收债券投资提示？知情人士：并非全国统一安排",
-        "summary": "【中小银行收债券投资提示？知情人士：并非全国统一安排】知情人士在21世纪经济报道记者求证时表示，金融管理部门并未就中小银行金融投资增速和新增债券久期作出全国统一安排。在市场化原则下，中小银行基于自身资产负债状况进行的债券投资决策，属于其自主经营权范畴。",
-        "publishedAt": "2026-10-14 21:04:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143895712629.html",
+        "url": "https://finance.eastmoney.com/a/202610153895867945.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -76686,14 +76606,86 @@
         "noticeType": ""
       },
       {
-        "title": "美国30年期国债收益率突破5.62%",
-        "summary": "【美国30年期国债收益率突破5.62%】美国长期国债收益率快速拉升，美国30年期国债收益率升至5.624%，日内上涨5.8个基点，涨幅约1.05%；盘中最高触及5.627%。美国10年期国债收益率报5.327%，日内上涨幅度亦较为明显。",
-        "publishedAt": "2026-10-14 21:02:50",
+        "title": "9月CPI同比上涨0.9% 居民消费价格继续温和回升",
+        "summary": "【9月CPI同比上涨0.9% 居民消费价格继续温和回升】10月14日，国家统计局发布数据显示，9月，居民消费价格指数（CPI）环比上涨0.2%，涨幅比8月回落0.2个百分点；同比上涨0.9%，涨幅比8月扩大0.1个百分点。9月，工业生产者出厂价格指数（PPI）环比上涨1.2%，涨幅比8月扩大0.8个百分点；同比上涨5.0%，涨幅比8月扩大1.2个百分点。",
+        "publishedAt": "2026-10-15 01:51:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610143895700557.html",
+        "url": "https://finance.eastmoney.com/a/202610153895869925.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "必和必拓智利埃斯孔迪达矿的主管人员批准集体协议 避免罢工",
+        "summary": "必和必拓智利埃斯孔迪达矿的主管人员批准集体协议，避免罢工。",
+        "publishedAt": "2026-10-15 01:41:47",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153895870666.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "英伟达CEO黄仁勋表示：将切断所有开发不安全AI产品的客户的供货",
+        "summary": "英伟达CEO黄仁勋表示，安全相关顾虑是行业发展的“成长阵痛”，将切断所有开发不安全AI产品的客户的供货。",
+        "publishedAt": "2026-10-15 01:36:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153895870571.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "纳斯达克100指数跌幅扩大至2% 成分股CoreWeave目前跌超15%",
+        "summary": "截至发稿，纳斯达克100指数跌幅扩大至2%，成分股CoreWeave目前跌超15%。",
+        "publishedAt": "2026-10-15 01:30:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153895869252.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "一名被也门胡塞武装关押两年的联合国员工获释",
+        "summary": "【一名被也门胡塞武装关押两年的联合国员工获释】联合国秘书长副发言人法尔汉·哈克14日在例行记者会上宣布，联合国也门问题特使办公室工作人员萨米·卡拉比获释。他自2024年以来一直被胡塞武装拘押，目前已经回到家中，与家人团聚。",
+        "publishedAt": "2026-10-15 01:17:55",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153895867310.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国防科技初创企业Anduril将以约900亿美元估值出售内部人士持股",
+        "summary": "【国防科技初创企业Anduril将以约900亿美元估值出售内部人士持股】知情人士透露，安杜里尔工业公司（Anduril）正通过要约收购安排，允许员工出售所持股份，这笔交易将把这家国防科技初创企业的估值推高至约900亿美元。消息人士称，本次要约收购为员工提供了以每股94.80美元出售股份的渠道，整体交易规模的上限约为130亿美元。其中一位知情人士透露，本次要…",
+        "publishedAt": "2026-10-15 01:10:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153895866836.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
         "tickers": [],
         "importance": 1,
@@ -76872,7 +76864,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "弱",
     "emotionCycle": "修复",
     "positionRule": {
@@ -76885,15 +76877,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-14 21:31:49",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-15 01:55:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 AI算力、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：电力；首看 电力 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -76924,7 +76916,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-14 21:31:16",
+        "generatedAt": "2026-10-15 01:54:37",
         "summary": "上午情绪分 64，涨停 36 家，跌停 11 家，炸板 24 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -76963,7 +76955,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-14 21:31:16",
+        "generatedAt": "2026-10-15 01:54:37",
         "summary": "市场温度 弱，情绪周期偏修复。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -76989,7 +76981,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 11 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天禄科技:关于持股5%以上股东所持公司股份被轮候冻结的公告；*ST天喻:关于股东权益变动暨公司控股股东、实际控制人变更的提示性公告。",
+              "新闻/公告风险：慈文传媒:关于股票交易异常波动的公告；江丰电子:宁波江丰电子材料股份有限公司风险管理制度(草案)(H股发行并上市后适用)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
