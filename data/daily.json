@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-15",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-15 20:44:50",
+    "generatedAt": "2026-10-15 20:52:32",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -76558,135 +76558,110 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-15",
-    "generatedAt": "2026-10-15 20:45:33",
+    "generatedAt": "2026-10-15 20:53:17",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 15,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 5,
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "医药",
         "score": 4,
         "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "华信永道:持股5%以上股东减持股份结果公告",
-        "summary": "华信永道(920592)：华信永道:持股5%以上股东减持股份结果公告",
+        "title": "金刚光伏:关于甘肃金刚光伏股份有限公司申请向特定对象发行股票的审核问询函的回复(豁免版)",
+        "summary": "金刚光伏(300093)：金刚光伏:关于甘肃金刚光伏股份有限公司申请向特定对象发行股票的审核问询函的回复(豁免版)",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920592/AN202610151830521164.html",
+        "url": "https://data.eastmoney.com/notices/detail/300093/AN202610151830522729.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "新能源"
+        ],
+        "tickers": [
+          "金刚光伏(300093)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "常友科技:关于控股股东股份解除质押的公告",
+        "summary": "常友科技(301557)：常友科技:关于控股股东股份解除质押的公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301557/AN202610151830509866.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "华信永道(920592)"
+          "常友科技(301557)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "股份质押、冻结"
       },
       {
-        "title": "光智科技:关于子公司项目预中标公示的提示性公告",
-        "summary": "光智科技(300489)：光智科技:关于子公司项目预中标公示的提示性公告",
+        "title": "并行科技:关于收到北京证券交易所《关于北京并行科技股份有限公司向特定对象发行股票申请文件的审核问询函》的公告",
+        "summary": "并行科技(920493)：并行科技:关于收到北京证券交易所《关于北京并行科技股份有限公司向特定对象发行股票申请文件的审核问询函》的公告",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300489/AN202610151830521629.html",
+        "url": "https://data.eastmoney.com/notices/detail/920493/AN202610151830525980.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "光智科技(300489)"
+          "并行科技(920493)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": "收到问询函公告"
       },
       {
-        "title": "先惠技术:上海先惠自动化技术股份有限公司2026年10月投资者关系活动记录表",
-        "summary": "先惠技术(688155)：先惠技术:上海先惠自动化技术股份有限公司2026年10月投资者关系活动记录表",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688155/AN202610151830521441.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "美国长端国债收益率跌幅扩大 20年期和30年期收益率跌逾14个基点",
+        "summary": "【美国长端国债收益率跌幅扩大 20年期和30年期收益率日内跌逾14个基点】美国国债收益率集体下行，长端收益率跌幅居前。行情数据显示，美国20年期国债收益率报5.434%，日内下跌14.6个基点；30年期国债收益率报5.385%，日内下跌14.1个基点；10年期国债收益率报5.054%，日内下跌13.6个基点。美国7年期国债收益率日内下跌13.5个基点，5年…",
+        "publishedAt": "2026-10-15 20:44:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153897132068.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
-        "tickers": [
-          "先惠技术(688155)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "河钢资源:2026年10月15日投资者关系活动记录表",
-        "summary": "河钢资源(000923)：河钢资源:2026年10月15日投资者关系活动记录表",
+        "title": "东利机械:关于董事长提议变更回购股份用途为注销并减少注册资本的公告",
+        "summary": "东利机械(301298)：东利机械:关于董事长提议变更回购股份用途为注销并减少注册资本的公告",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000923/AN202610151830520965.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "河钢资源(000923)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "冠中生态:关于拟中标项目的进展公告",
-        "summary": "冠中生态(300948)：冠中生态:关于拟中标项目的进展公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300948/AN202610151830521461.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "冠中生态(300948)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "行云科技:行云科技股份有限公司投资者关系活动记录表",
-        "summary": "行云科技(300209)：行云科技:行云科技股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300209/AN202610151830520511.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "行云科技(300209)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "国信证券:2025年面向专业投资者公开发行永续次级债券(第四期)2026年付息公告",
-        "summary": "国信证券(002736)：国信证券:2025年面向专业投资者公开发行永续次级债券(第四期)2026年付息公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002736/AN202610151830521174.html",
+        "url": "https://data.eastmoney.com/notices/detail/301298/AN202610151830508033.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -76694,33 +76669,83 @@
           "金融"
         ],
         "tickers": [
-          "国信证券(002736)"
+          "东利机械(301298)"
+        ],
+        "importance": 1,
+        "noticeType": "公司注册资本变更"
+      },
+      {
+        "title": "新宁物流:2026年10月15日投资者关系活动记录表",
+        "summary": "新宁物流(300013)：新宁物流:2026年10月15日投资者关系活动记录表",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300013/AN202610151830531109.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新宁物流(300013)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "艾可蓝:关于与专业投资机构共同投资的公告",
+        "summary": "艾可蓝(300816)：艾可蓝:关于与专业投资机构共同投资的公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300816/AN202610151830530837.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "艾可蓝(300816)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "招商蛇口:招商局蛇口工业区控股股份有限公司2026年面向专业投资者公开发行公司债券(第二期)票面利率公告",
+        "summary": "招商蛇口(001979)：招商蛇口:招商局蛇口工业区控股股份有限公司2026年面向专业投资者公开发行公司债券(第二期)票面利率公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001979/AN202610151830530473.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "招商蛇口(001979)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "渝农商行:2026年7月、9月投资者关系活动记录表",
-        "summary": "渝农商行(601077)：渝农商行:2026年7月、9月投资者关系活动记录表",
+        "title": "神马电力:投资者关系活动记录表(2026-020)",
+        "summary": "神马电力(603530)：神马电力:投资者关系活动记录表(2026-020)",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601077/AN202610151830520724.html",
+        "url": "https://data.eastmoney.com/notices/detail/603530/AN202610151830511352.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "能源"
+        ],
         "tickers": [
-          "渝农商行(601077)"
+          "神马电力(603530)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "新易盛:关于收到控股股东、实际控制人、董事长提议回购公司股份的公告",
-        "summary": "新易盛(300502)：新易盛:关于收到控股股东、实际控制人、董事长提议回购公司股份的公告",
+        "title": "星图测控:中信建投证券股份有限公司关于中科星图测控技术股份有限公司对外投资暨关联交易的核查意见",
+        "summary": "星图测控(920116)：星图测控:中信建投证券股份有限公司关于中科星图测控技术股份有限公司对外投资暨关联交易的核查意见",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300502/AN202610151830520856.html",
+        "url": "https://data.eastmoney.com/notices/detail/920116/AN202610151830526335.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -76728,62 +76753,60 @@
           "金融"
         ],
         "tickers": [
-          "新易盛(300502)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "惠柏新材:2026年半年度分红派息实施公告",
-        "summary": "惠柏新材(301555)：惠柏新材:2026年半年度分红派息实施公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301555/AN202610151830520715.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "惠柏新材(301555)"
-        ],
-        "importance": 1,
-        "noticeType": "分配方案实施"
-      },
-      {
-        "title": "中塑股份:国信证券股份有限公司关于广东中塑新材料股份有限公司调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体的核查意见",
-        "summary": "中塑股份(301686)：中塑股份:国信证券股份有限公司关于广东中塑新材料股份有限公司调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体的核查意见",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301686/AN202610151830520723.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "中塑股份(301686)"
+          "星图测控(920116)"
         ],
         "importance": 1,
         "noticeType": "保荐/核查意见"
       },
       {
-        "title": "中塑股份:关于调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体的公告",
-        "summary": "中塑股份(301686)：中塑股份:关于调整募集资金投资项目拟投入募集资金金额及部分募投项目增加实施主体的公告",
+        "title": "星图测控:对外投资暨关联交易的公告",
+        "summary": "星图测控(920116)：星图测控:对外投资暨关联交易的公告",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301686/AN202610151830520712.html",
+        "url": "https://data.eastmoney.com/notices/detail/920116/AN202610151830526337.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中塑股份(301686)"
+          "星图测控(920116)"
         ],
         "importance": 1,
-        "noticeType": "变更募集资金投资项目"
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "五新智能:关于使用闲置自有资金购买理财产品进展的公告",
+        "summary": "五新智能(920174)：五新智能:关于使用闲置自有资金购买理财产品进展的公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920174/AN202610151830525585.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "五新智能(920174)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "亿纬锂能:2026年前三季度业绩预告",
+        "summary": "亿纬锂能(300014)：亿纬锂能:2026年前三季度业绩预告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300014/AN202610151830524910.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [
+          "亿纬锂能(300014)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
       },
       {
         "title": "沐曦股份：预计前三季度净利润5.87亿元-7.17亿元 同比扭亏为盈",
@@ -76795,22 +76818,6 @@
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "拓荆科技：董事长提议回购2亿元-3亿元公司股份",
-        "summary": "【拓荆科技：董事长提议回购2亿元-3亿元公司股份】拓荆科技10月15日公告，公司董事长吕光泉提议公司使用自有资金通过上海证券交易所交易系统以集中竞价交易方式回购公司已发行的部分人民币普通股（A股）股份，用于员工股权激励/员工持股计划或减少公司注册资本。回购资金总额不低于2亿元（含），不超过3亿元（含）。",
-        "publishedAt": "2026-10-15 20:23:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153897114724.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -76944,15 +76951,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-15 20:45:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-10-15 20:53:17",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：证券、电池；首看 证券 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -76983,7 +76990,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-15 20:44:50",
+        "generatedAt": "2026-10-15 20:52:32",
         "summary": "上午情绪分 25，涨停 36 家，跌停 26 家，炸板 7 家，连板 6 家，最高 5 板。",
         "sections": [
           {
@@ -77022,7 +77029,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-15 20:44:50",
+        "generatedAt": "2026-10-15 20:52:32",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -77048,7 +77055,7 @@
               "今日炸板 7 只，追高前先看前排封单和回封质量。",
               "今日跌停 26 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：华信永道:持股5%以上股东减持股份结果公告。",
+              "新闻/公告风险：金刚光伏:关于甘肃金刚光伏股份有限公司申请向特定对象发行股票的审核问询函的回复(豁免版)；常友科技:关于控股股东股份解除质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
