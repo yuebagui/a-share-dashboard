@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-15",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-15 02:01:46",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-15 02:01:46",
+    "lastNewsAt": "2026-10-15 13:05:53"
   },
   "indices": [
     {
@@ -76383,287 +76385,161 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-15",
-    "generatedAt": "2026-10-15 02:02:08",
+    "generatedAt": "2026-10-15 13:05:53",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "macro-calendar: HTTP Error 403: "
+      "notices: HTTPSConnectionPool(host='np-anotice-stock.eastmoney.com', port=443): Max retries exceeded with url: /api/security/ann?sr=-1&page_size=100&page_index=1&ann_type=A&client_source=web&f_node=0&s_node=0&begin_time=2026-10-15&end_time=2026-10-15 (Caused by NewConnectionError(\"HTTPSConnection(host='np-anotice-stock.eastmoney.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 AI算力、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 0 条；主题映射集中在 有色稀土、半导体、能源。",
     "themes": [
       {
-        "name": "AI算力",
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "慈文传媒:关于股票交易异常波动的公告",
-        "summary": "慈文传媒(002343)：慈文传媒:关于股票交易异常波动的公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002343/AN202610141830470870.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "慈文传媒(002343)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "江丰电子:宁波江丰电子材料股份有限公司风险管理制度(草案)(H股发行并上市后适用)",
-        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司风险管理制度(草案)(H股发行并上市后适用)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470646.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "江丰电子(300666)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为",
-        "summary": "Coreweave首席执行官认为股价下跌是由于市场“非理性”行为。",
-        "publishedAt": "2026-10-15 01:51:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895870788.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "美国截至10月9日当周API汽油库存变动(万桶)",
+        "summary": "美国截至10月9日当周API汽油库存变动(万桶)；公布 109.1，预期 -80.0，前值 -140.0。",
+        "publishedAt": "2026-10-15 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国30年期国债收益率触及盘中低点 最新下跌3.2个基点至5.531%",
-        "summary": "美国30年期国债收益率触及盘中低点，最新下跌3.2个基点至5.531%。",
-        "publishedAt": "2026-10-15 01:34:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895870411.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "万通发展:2026年股票期权激励计划草案摘要",
-        "summary": "万通发展(600246)：万通发展:2026年股票期权激励计划草案摘要",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600246/AN202610141830470902.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "万通发展(600246)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划摘要"
-      },
-      {
-        "title": "万通发展:万通发展2026年股票期权激励计划(草案)",
-        "summary": "万通发展(600246)：万通发展:万通发展2026年股票期权激励计划(草案)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600246/AN202610141830470896.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "万通发展(600246)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "万通发展:2026年股票期权激励计划首次授予激励对象名单",
-        "summary": "万通发展(600246)：万通发展:2026年股票期权激励计划首次授予激励对象名单",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600246/AN202610141830470901.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "万通发展(600246)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "江丰电子:宁波江丰电子材料股份有限公司媒体采访和投资者调研接待办法(草案)(H股发行并上市后适用)",
-        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司媒体采访和投资者调研接待办法(草案)(H股发行并上市后适用)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470636.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "江丰电子(300666)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "江丰电子:宁波江丰电子材料股份有限公司重大投资决策管理制度(草案)(H股发行并上市后适用)",
-        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司重大投资决策管理制度(草案)(H股发行并上市后适用)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470617.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "江丰电子(300666)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "江丰电子:宁波江丰电子材料股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
-        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470655.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "江丰电子(300666)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "平安电工:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "平安电工(001359)：平安电工:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001359/AN202610141830470409.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "平安电工(001359)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "美联储周三隔夜逆回购协议（RRP）使用规模为2.01亿美元",
-        "summary": "美联储周三隔夜逆回购协议（RRP）使用规模为2.01亿美元。",
-        "publishedAt": "2026-10-15 01:17:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895867945.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国截至10月9日当周API原油库存变动(万桶)",
+        "summary": "美国截至10月9日当周API原油库存变动(万桶)；公布 -1112.3，预期 190.0，前值 -210.0。",
+        "publishedAt": "2026-10-15 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "纳指跌幅扩大至2% 道指跌0.48% 标普500指数跌1.33%",
-        "summary": "纳指跌幅扩大至2%，道指跌0.48%，标普500指数跌1.33%。",
-        "publishedAt": "2026-10-15 01:53:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895870890.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "9月CPI同比上涨0.9% 居民消费价格继续温和回升",
-        "summary": "【9月CPI同比上涨0.9% 居民消费价格继续温和回升】10月14日，国家统计局发布数据显示，9月，居民消费价格指数（CPI）环比上涨0.2%，涨幅比8月回落0.2个百分点；同比上涨0.9%，涨幅比8月扩大0.1个百分点。9月，工业生产者出厂价格指数（PPI）环比上涨1.2%，涨幅比8月扩大0.8个百分点；同比上涨5.0%，涨幅比8月扩大1.2个百分点。",
-        "publishedAt": "2026-10-15 01:51:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895869925.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "必和必拓智利埃斯孔迪达矿的主管人员批准集体协议 避免罢工",
-        "summary": "必和必拓智利埃斯孔迪达矿的主管人员批准集体协议，避免罢工。",
-        "publishedAt": "2026-10-15 01:41:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895870666.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英伟达CEO黄仁勋表示：将切断所有开发不安全AI产品的客户的供货",
-        "summary": "英伟达CEO黄仁勋表示，安全相关顾虑是行业发展的“成长阵痛”，将切断所有开发不安全AI产品的客户的供货。",
-        "publishedAt": "2026-10-15 01:36:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895870571.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国10月13日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月13日COMEX黄金库存-每日更新(百盎司)；公布 234760.96，预期 nan，前值 234771.11。",
+        "publishedAt": "2026-10-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "纳斯达克100指数跌幅扩大至2% 成分股CoreWeave目前跌超15%",
-        "summary": "截至发稿，纳斯达克100指数跌幅扩大至2%，成分股CoreWeave目前跌超15%。",
-        "publishedAt": "2026-10-15 01:30:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895869252.html",
+        "title": "美国10月14日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月14日SPDR黄金持仓-每日更新(吨)；公布 1054.2，预期 nan，前值 1054.2。",
+        "publishedAt": "2026-10-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月14日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月14日iShares白银持仓-每日更新(吨)；公布 15371.95，预期 nan，前值 15359.31。",
+        "publishedAt": "2026-10-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月14日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月14日iShares黄金持仓-每日更新(吨)；公布 463.05，预期 nan，前值 463.51。",
+        "publishedAt": "2026-10-15 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚9月季调后失业率(%)",
+        "summary": "澳大利亚9月季调后失业率(%)；公布 4.7，预期 4.6，前值 4.6。",
+        "publishedAt": "2026-10-15 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚9月就业人口变动(万人)",
+        "summary": "澳大利亚9月就业人口变动(万人)；公布 -3.93，预期 2.0，前值 3.95。",
+        "publishedAt": "2026-10-15 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "爱立信：预计第四季云端软件和服务销售增长将与三年平均季节性表现基本一致。",
+        "summary": "爱立信：预计第四季云端软件和服务销售增长将与三年平均季节性表现基本一致。",
+        "publishedAt": "2026-10-15 13:02:12",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -76673,11 +76549,123 @@
         "noticeType": ""
       },
       {
-        "title": "一名被也门胡塞武装关押两年的联合国员工获释",
-        "summary": "【一名被也门胡塞武装关押两年的联合国员工获释】联合国秘书长副发言人法尔汉·哈克14日在例行记者会上宣布，联合国也门问题特使办公室工作人员萨米·卡拉比获释。他自2024年以来一直被胡塞武装拘押，目前已经回到家中，与家人团聚。",
-        "publishedAt": "2026-10-15 01:17:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153895867310.html",
+        "title": "爱立信：各业务板块均发力，仍具备充足优势应对当前挑战，实现长期盈利增长。",
+        "summary": "爱立信：各业务板块均发力，仍具备充足优势应对当前挑战，实现长期盈利增长。",
+        "publishedAt": "2026-10-15 13:01:39",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "爱立信 第三季度调整后EBIT 97.6亿瑞典克朗，预估75.3亿瑞典克朗。爱立信…",
+        "summary": "爱立信 第三季度调整后EBIT 97.6亿瑞典克朗，预估75.3亿瑞典克朗。爱立信 第三季度经调整毛利率47.7％，预估47.4％。",
+        "publishedAt": "2026-10-15 13:01:18",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "沪深两市成交额超1万亿元，较上日此时放量1320亿元。",
+        "summary": "沪深两市成交额超1万亿元，较上日此时放量1320亿元。",
+        "publishedAt": "2026-10-15 13:01:11",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "爱立信第三季度销售净额594.8亿瑞典克朗，预估553.9亿瑞典克朗。爱立信第三季…",
+        "summary": "爱立信第三季度销售净额594.8亿瑞典克朗，预估553.9亿瑞典克朗。爱立信第三季度网络业务调整后营业利润率23.1％，预估19.4％。",
+        "publishedAt": "2026-10-15 13:00:56",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "创业板指跌3.14%，现报2776.758点；上证指数跌1.94%，现报3694.…",
+        "summary": "创业板指跌3.14%，现报2776.758点；上证指数跌1.94%，现报3694.223点；深证成指跌2.62%，现报11793.437点。",
+        "publishedAt": "2026-10-15 13:00:05",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "深证成指跌2.62%，现报11793.437点；上证指数跌1.94%，现报3694…",
+        "summary": "深证成指跌2.62%，现报11793.437点；上证指数跌1.94%，现报3694.223点；创业板指跌3.14%，现报2776.758点。",
+        "publishedAt": "2026-10-15 13:00:05",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上证指数跌1.94%，现报3694.223点；深证成指跌2.69%，现报11784…",
+        "summary": "上证指数跌1.94%，现报3694.223点；深证成指跌2.69%，现报11784.473点；创业板指跌3.21%，现报2774.663点。",
+        "publishedAt": "2026-10-15 13:00:04",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国际货币基金组织官员表示，埃及在宏观经济发展方面已取得良好进展，但在缩减国有经济布…",
+        "summary": "国际货币基金组织官员表示，埃及在宏观经济发展方面已取得良好进展，但在缩减国有经济布局方面仍需进一步发力。",
+        "publishedAt": "2026-10-15 12:59:16",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "德国财长克林贝尔：美国曾试图让俄罗斯重返二十国集团舞台。",
+        "summary": "德国财长克林贝尔：美国曾试图让俄罗斯重返二十国集团舞台。",
+        "publishedAt": "2026-10-15 12:58:21",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -76859,7 +76847,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "修复",
     "positionRule": {
@@ -76872,15 +76860,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-15 02:02:08",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 4 条；主题映射集中在 AI算力、金融、有色稀土。",
+        "generatedAt": "2026-10-15 13:05:53",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 0 条；主题映射集中在 有色稀土、半导体、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：电力；首看 电力 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -76976,7 +76964,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 11 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：慈文传媒:关于股票交易异常波动的公告；江丰电子:宁波江丰电子材料股份有限公司风险管理制度(草案)(H股发行并上市后适用)。",
+              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
