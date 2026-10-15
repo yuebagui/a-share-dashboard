@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-15",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-15 16:30:42",
+    "generatedAt": "2026-10-15 16:35:57",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -76558,13 +76558,18 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-15",
-    "generatedAt": "2026-10-15 16:31:15",
+    "generatedAt": "2026-10-15 16:36:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 AI算力、金融、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 5 条；主题映射集中在 能源、AI算力、金融。",
     "themes": [
+      {
+        "name": "能源",
+        "score": 6,
+        "isFocusBoard": false
+      },
       {
         "name": "AI算力",
         "score": 5,
@@ -76576,11 +76581,6 @@
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
         "name": "医药",
         "score": 2,
         "isFocusBoard": false
@@ -76588,43 +76588,11 @@
     ],
     "items": [
       {
-        "title": "常友科技:关于控股股东股份解除质押的公告",
-        "summary": "常友科技(301557)：常友科技:关于控股股东股份解除质押的公告",
+        "title": "平安电工:关于最近五年被证券监管部门和交易所采取监管措施或处罚及整改情况的公告",
+        "summary": "平安电工(001359)：平安电工:关于最近五年被证券监管部门和交易所采取监管措施或处罚及整改情况的公告",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301557/AN202610151830509866.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "常友科技(301557)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "阳光电源:关于控股股东部分股份解除质押的公告",
-        "summary": "阳光电源(300274)：阳光电源:关于控股股东部分股份解除质押的公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300274/AN202610151830508442.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "阳光电源(300274)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "富恒新材:关于公司及全资子公司银行账户解除冻结的公告",
-        "summary": "富恒新材(920469)：富恒新材:关于公司及全资子公司银行账户解除冻结的公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920469/AN202610151830508331.html",
+        "url": "https://data.eastmoney.com/notices/detail/001359/AN202610141830470405.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -76632,28 +76600,58 @@
           "金融"
         ],
         "tickers": [
-          "富恒新材(920469)"
+          "平安电工(001359)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "百洋医药:关于控股股东部分股份解除质押的公告",
-        "summary": "百洋医药(301015)：百洋医药:关于控股股东部分股份解除质押的公告",
+        "title": "荣丰控股:股票交易异常波动公告",
+        "summary": "荣丰控股(000668)：荣丰控股:股票交易异常波动公告",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301015/AN202610151830508111.html",
+        "url": "https://data.eastmoney.com/notices/detail/000668/AN202610141830469955.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "医药"
-        ],
+        "themes": [],
         "tickers": [
-          "百洋医药(301015)"
+          "荣丰控股(000668)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "禾盛新材:2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示及填补回报措施和相关主体承诺(修订稿)的公告",
+        "summary": "禾盛新材(002290)：禾盛新材:2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示及填补回报措施和相关主体承诺(修订稿)的公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002290/AN202610141830469958.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "禾盛新材(002290)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST正平:正平股份关于公司及子公司诉讼仲裁事项进展及新增诉讼仲裁事项的公告",
+        "summary": "*ST正平(603843)：*ST正平:正平股份关于公司及子公司诉讼仲裁事项进展及新增诉讼仲裁事项的公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603843/AN202610141830469629.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST正平(603843)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
       },
       {
         "title": "美债价格延续涨势",
@@ -76670,39 +76668,79 @@
         "noticeType": ""
       },
       {
-        "title": "四部门公布纸尿裤甲酰胺问题调查结果",
-        "summary": "【四部门公布纸尿裤甲酰胺问题调查结果】2026年6月22日，市场监管总局、工业和信息化部、国家卫生健康委、国家疾控局针对舆情反映的婴幼儿纸尿裤甲酰胺问题成立联合调查组，坚持实事求是，认真核实线索，赴多地开展现场调查核实和研究论证，全面深入开展调查工作。目前，调查工作已结束，现将调查情况通报如下。",
-        "publishedAt": "2026-10-15 16:03:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153896923214.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股三大期指走势分化 纳指期货下跌1.1%",
-        "summary": "【美股三大期指走势分化 纳指期货下跌1.1%】美股三大期指走势分化，纳指期货下跌1.1%，标普500指数期货下跌0.3%，道指期货上涨0.3%。",
-        "publishedAt": "2026-10-15 16:02:48",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610153896920848.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "东利机械:关于董事长提议变更回购股份用途为注销并减少注册资本的公告",
-        "summary": "东利机械(301298)：东利机械:关于董事长提议变更回购股份用途为注销并减少注册资本的公告",
+        "title": "江丰电子:宁波江丰电子材料股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
+        "summary": "江丰电子(300666)：江丰电子:宁波江丰电子材料股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
         "publishedAt": "2026-10-15",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301298/AN202610151830508033.html",
+        "url": "https://data.eastmoney.com/notices/detail/300666/AN202610141830470655.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "江丰电子(300666)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "平安电工:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "平安电工(001359)：平安电工:关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001359/AN202610141830470409.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "平安电工(001359)"
+        ],
+        "importance": 1,
+        "noticeType": "获得补贴（资助）"
+      },
+      {
+        "title": "建投能源:国浩律师(石家庄)事务所关于河北建投能源投资股份有限公司二〇二六年第一次临时股东会的法律意见书",
+        "summary": "建投能源(000600)：建投能源:国浩律师(石家庄)事务所关于河北建投能源投资股份有限公司二〇二六年第一次临时股东会的法律意见书",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000600/AN202610141830469951.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "建投能源(000600)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "建投能源:河北建投能源投资股份有限公司章程",
+        "summary": "建投能源(000600)：建投能源:河北建投能源投资股份有限公司章程",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000600/AN202610141830469959.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "建投能源(000600)"
+        ],
+        "importance": 1,
+        "noticeType": "公司章程"
+      },
+      {
+        "title": "东阳光:东阳光关于以集中竞价交易方式回购股份的进展公告",
+        "summary": "东阳光(600673)：东阳光:东阳光关于以集中竞价交易方式回购股份的进展公告",
+        "publishedAt": "2026-10-15",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600673/AN202610141830469617.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -76710,122 +76748,10 @@
           "金融"
         ],
         "tickers": [
-          "东利机械(301298)"
+          "东阳光(600673)"
         ],
         "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "城投控股:600649城投控股2026-09-15城投控股:投资者关系活动记录表2026-009",
-        "summary": "城投控股(600649)：城投控股:600649城投控股2026-09-15城投控股:投资者关系活动记录表2026-009",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600649/AN202610151830509770.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "城投控股(600649)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "光库科技:2026年前三季度业绩预告",
-        "summary": "光库科技(300620)：光库科技:2026年前三季度业绩预告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300620/AN202610151830509547.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "光库科技(300620)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "畅联股份:上海畅联国际物流股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
-        "summary": "畅联股份(603648)：畅联股份:上海畅联国际物流股份有限公司投资者关系活动记录表(2026年半年度业绩说明会)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603648/AN202610151830509373.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "畅联股份(603648)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "维信诺:2026年10月14日投资者关系活动记录表",
-        "summary": "维信诺(002387)：维信诺:2026年10月14日投资者关系活动记录表",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002387/AN202610151830508436.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "维信诺(002387)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "伟时电子:伟时电子股份有限公司投资者关系活动记录表(2026年10月15日)",
-        "summary": "伟时电子(605218)：伟时电子:伟时电子股份有限公司投资者关系活动记录表(2026年10月15日)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605218/AN202610151830508263.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "伟时电子(605218)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "熊猫乳品:关于部分募投项目增加实施主体的公告",
-        "summary": "熊猫乳品(300898)：熊猫乳品:关于部分募投项目增加实施主体的公告",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300898/AN202610151830508309.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "熊猫乳品(300898)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "康希通信:2026-010投资者关系活动记录表(2026年10月13日、14日)",
-        "summary": "康希通信(688653)：康希通信:2026-010投资者关系活动记录表(2026年10月13日、14日)",
-        "publishedAt": "2026-10-15",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688653/AN202610151830506907.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "康希通信(688653)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "回购进展情况"
       },
       {
         "title": "光库科技：前三季度净利润同比预增142%-162% 高速光模块及光器件市场需求持续增长",
@@ -76838,6 +76764,50 @@
         "impact": "催化",
         "themes": [
           "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "在岸人民币兑美元收盘报6.6916",
+        "summary": "【在岸人民币兑美元收盘报6.6916】10月15日消息，在岸人民币兑美元收盘报6.6916，较上一交易日上涨9点。",
+        "publishedAt": "2026-10-15 16:31:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153896948028.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "京东：今年以来商家数字人开播量同比增长340%",
+        "summary": "【京东：今年以来商家数字人开播量同比增长340%】在京东11.11启动发布会上，《科创板日报》获悉，今年以来商家数字人开播量同比增长340% 。",
+        "publishedAt": "2026-10-15 16:30:32",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153896947956.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "白云山：硫酸阿米卡星注射液通过仿制药质量和疗效一致性评价",
+        "summary": "【白云山：硫酸阿米卡星注射液通过仿制药质量和疗效一致性评价】白云山(600332)10月15日公告，近日，公司控股子公司天心制药收到国家药品监督管理局核准签发的《药品补充申请批准通知书》，硫酸阿米卡星注射液（2ml:0.2g）（20万单位）已通过仿制药质量和疗效一致性评价。",
+        "publishedAt": "2026-10-15 16:29:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153896947047.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "医药"
         ],
         "tickers": [],
         "importance": 1,
@@ -76863,6 +76833,34 @@
         "publishedAt": "2026-10-15 16:25:21",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202610153896943261.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "恐慌指数VIX触及两周高点",
+        "summary": "【恐慌指数VIX触及两周高点】恐慌指数VIX触及两周高点，最新上涨0.69点至17.56。",
+        "publishedAt": "2026-10-15 16:24:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153896942543.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "大族激光：预计2026年前三季度净利润同比增长145%-157%",
+        "summary": "【大族激光：预计2026年前三季度净利润同比增长145%-157%】大族激光(002008.SZ)公告称，预计2026年前三季度归属于上市公司股东的净利润为21.20亿元-22.20亿元，同比增长145.55%-157.13%。",
+        "publishedAt": "2026-10-15 16:22:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610153896937887.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -76938,15 +76936,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-15 16:31:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 7 条；主题映射集中在 AI算力、金融、半导体。",
+        "generatedAt": "2026-10-15 16:36:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 5 条；主题映射集中在 能源、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：证券、电池；首看 证券 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -76977,7 +76975,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-15 16:30:42",
+        "generatedAt": "2026-10-15 16:35:57",
         "summary": "上午情绪分 25，涨停 36 家，跌停 26 家，炸板 7 家，连板 6 家，最高 5 板。",
         "sections": [
           {
@@ -77016,7 +77014,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-15 16:30:42",
+        "generatedAt": "2026-10-15 16:35:57",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -77042,7 +77040,7 @@
               "今日炸板 7 只，追高前先看前排封单和回封质量。",
               "今日跌停 26 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：常友科技:关于控股股东股份解除质押的公告；阳光电源:关于控股股东部分股份解除质押的公告。",
+              "新闻/公告风险：平安电工:关于最近五年被证券监管部门和交易所采取监管措施或处罚及整改情况的公告；荣丰控股:股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
