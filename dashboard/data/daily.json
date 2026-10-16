@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-16",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-16 01:47:20",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-16 01:47:20",
+    "lastNewsAt": "2026-10-16 12:51:31"
   },
   "indices": [
     {
@@ -49397,10 +49399,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-16",
-    "generatedAt": "2026-10-16 01:47:53",
+    "generatedAt": "2026-10-16 12:51:31",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 AI算力、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 AI算力、能源、金融。",
     "themes": [
       {
         "name": "AI算力",
@@ -49414,16 +49416,31 @@
       },
       {
         "name": "金融",
-        "score": 7,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 5,
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -49562,46 +49579,78 @@
         "noticeType": "其他"
       },
       {
-        "title": "*ST禾信:第四届董事会独立董事专门会议第十次会议决议",
-        "summary": "*ST禾信(688622)：*ST禾信:第四届董事会独立董事专门会议第十次会议决议",
+        "title": "中科环保:2026年10月15日投资者关系活动记录表",
+        "summary": "中科环保(301175)：中科环保:2026年10月15日投资者关系活动记录表",
         "publishedAt": "2026-10-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688622/AN202610151830531530.html",
+        "url": "https://data.eastmoney.com/notices/detail/301175/AN202610161830580329.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST禾信(688622)"
+          "中科环保(301175)"
         ],
         "importance": 1,
-        "noticeType": "董事会决议公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST禾信:广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书(草案)(上会稿)(修订稿)",
-        "summary": "*ST禾信(688622)：*ST禾信:广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书(草案)(上会稿)(修订稿)",
+        "title": "雷赛智能:投资者关系活动记录表（2026年10月15日）",
+        "summary": "雷赛智能(002979)：雷赛智能:投资者关系活动记录表（2026年10月15日）",
         "publishedAt": "2026-10-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688622/AN202610151830531529.html",
+        "url": "https://data.eastmoney.com/notices/detail/002979/AN202610161830587780.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST禾信(688622)"
+          "雷赛智能(002979)"
         ],
         "importance": 1,
-        "noticeType": "其他增发事项公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "Anthropic计划发布其AI模型的风险评估结果，公司正与包括埃森哲、Faculty在内的独立评估机构合作，来测试诸多模型",
-        "summary": "Anthropic计划发布其AI模型的风险评估结果，公司正与包括埃森哲、Faculty在内的独立评估机构合作，来测试诸多模型。",
-        "publishedAt": "2026-10-16 01:22:21",
+        "title": "粤海饲料:粤海饲料投资者关系活动记录表（2026年10月15日）",
+        "summary": "粤海饲料(001313)：粤海饲料:粤海饲料投资者关系活动记录表（2026年10月15日）",
+        "publishedAt": "2026-10-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001313/AN202610161830585022.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "粤海饲料(001313)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:048-2026年10月15日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:048-2026年10月15日投资者关系活动记录表",
+        "publishedAt": "2026-10-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202610161830578805.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "一文读懂：AI融资离“爆雷”究竟有多远？",
+        "summary": "【一文读懂：AI融资离“爆雷”究竟有多远？】AI交易如今面临的究竟是整体的信贷问题，还是仅仅是CoreWeave一家公司的问题？这可能是本周经历“惊魂一跳”后，所有AI领域的投资者必须思考的问题……",
+        "publishedAt": "2026-10-16 12:44:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163897327448.html",
+        "url": "https://finance.eastmoney.com/a/202610163898217522.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
           "AI算力"
         ],
@@ -49610,14 +49659,14 @@
         "noticeType": ""
       },
       {
-        "title": "花旗策略师预计科技股将贡献2027年全球绝大部分的盈利增长",
-        "summary": "【花旗策略师预计科技股将贡献2027年全球绝大部分的盈利增长】花旗集团策略师表示，科技股明年料将贡献全球近70%的盈利增长，因此如果人工智能热潮开始降温，股市涨势可能因此面临风险。花旗的分析显示，从行业贡献来看，这一比例将使2027年的盈利增长集中度跻身有记录以来最高之列。",
-        "publishedAt": "2026-10-16 00:27:30",
+        "title": "美联储主席沃什：AI将带来巨大经济红利 发展过程将经历阵痛",
+        "summary": "【美联储主席沃什：AI将带来巨大经济红利 发展过程将经历阵痛】当地时间16日，在泰国曼谷举行的国际货币基金组织（IMF）和世行年会上，美联储主席凯文·沃什（KevinWarsh）在谈及人工智能（AI）投资对宏观经济及货币政策的影响时表示，这项技术将成为他一生中见证的对美国及全球最重要的事件之一，宏观政策制定者必须对其保持高度重视。",
+        "publishedAt": "2026-10-16 12:36:19",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163897316222.html",
+        "url": "https://finance.eastmoney.com/a/202610163898229125.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
           "AI算力"
         ],
@@ -49626,49 +49675,15 @@
         "noticeType": ""
       },
       {
-        "title": "深南电路:2026年前三季度业绩预告",
-        "summary": "深南电路(002916)：深南电路:2026年前三季度业绩预告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002916/AN202610151830531246.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深南电路(002916)"
-        ],
-        "importance": 1,
-        "noticeType": "业绩预告"
-      },
-      {
-        "title": "皇冠新材:北京市海问律师事务所关于参与战略配售投资者核查事项的法律意见书",
-        "summary": "皇冠新材(001381)：皇冠新材:北京市海问律师事务所关于参与战略配售投资者核查事项的法律意见书",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001381/AN202610151830530592.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "皇冠新材(001381)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "美联储周四隔夜逆回购协议（RRP）使用规模为12.01亿美元",
-        "summary": "美联储周四隔夜逆回购协议（RRP）使用规模为12.01亿美元。",
-        "publishedAt": "2026-10-16 01:17:35",
+        "title": "上海：进博会上海会议活动期间将发布企业出海、大宗商品价格指数等研究报告",
+        "summary": "【上海：进博会上海会议活动期间将发布企业出海、大宗商品价格指数等研究报告】10月16日上午，国新办举行介绍第九届中国国际进口博览会筹备情况的新闻发布会。上海市商务委员会主任申卫华介绍了进博会上海会议活动的情况。上海会议活动是进博会和虹桥论坛的延伸，也是有益的补充，2026年进博会上海会议活动我们将以更高层级、更深讨论、更广交流、更大影响为目标，目前我们已经…",
+        "publishedAt": "2026-10-16 12:06:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163897327169.html",
+        "url": "https://finance.eastmoney.com/a/202610163898226042.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -49771,7 +49786,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -49784,8 +49799,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-16 01:47:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 AI算力、能源、金融。",
+        "generatedAt": "2026-10-16 12:51:31",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 AI算力、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
