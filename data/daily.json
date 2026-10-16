@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-16",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-17 01:17:08",
+    "generatedAt": "2026-10-17 01:26:17",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -63474,14 +63474,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-16",
-    "generatedAt": "2026-10-17 01:17:50",
+    "generatedAt": "2026-10-17 01:26:58",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
     "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 15,
+        "score": 18,
         "isFocusBoard": false
       },
       {
@@ -63495,17 +63495,17 @@
         "isFocusBoard": false
       },
       {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "军工",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
@@ -63728,6 +63728,22 @@
         "noticeType": "股权激励进展公告"
       },
       {
+        "title": "美联储周五隔夜逆回购协议（RRP）使用规模为1亿美元",
+        "summary": "美联储周五隔夜逆回购协议（RRP）使用规模为1亿美元。",
+        "publishedAt": "2026-10-17 01:16:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610173898781711.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "油价涨势扩大 美国原油期货突破每桶100美元 涨幅近2%",
         "summary": "油价涨势扩大，美国原油期货突破每桶100美元，涨幅近2%。",
         "publishedAt": "2026-10-17 00:32:39",
@@ -63738,22 +63754,6 @@
         "impact": "催化",
         "themes": [
           "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "量化基金巨头Two Sigma停止为不动产部门筹资并裁撤高层",
-        "summary": "【量化基金巨头Two Sigma停止为不动产部门筹资并裁撤高层】TwoSigmaInvestments削减了不动产部门的高级职员并停止为其筹资，也不再从该业务进行新的投资，而此举距其对外部资金开放仅过了两年。据知情人士透露，该部门的合伙人兼首席投资官RichGomel将去职。",
-        "publishedAt": "2026-10-17 00:14:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610173898773671.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
@@ -64164,7 +64164,7 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-17 01:17:50",
+        "generatedAt": "2026-10-17 01:26:58",
         "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
@@ -64203,7 +64203,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-17 01:17:08",
+        "generatedAt": "2026-10-17 01:26:17",
         "summary": "上午情绪分 84，涨停 61 家，跌停 10 家，炸板 49 家，连板 7 家，最高 11 板。",
         "sections": [
           {
@@ -64242,7 +64242,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-17 01:17:08",
+        "generatedAt": "2026-10-17 01:26:17",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
