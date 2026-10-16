@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-16",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-16 21:07:59",
+    "generatedAt": "2026-10-17 01:17:08",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -63474,19 +63474,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-16",
-    "generatedAt": "2026-10-16 21:09:22",
+    "generatedAt": "2026-10-17 01:17:50",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 17,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 15,
+        "score": 14,
         "isFocusBoard": false
       },
       {
@@ -63495,46 +63495,32 @@
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "军工",
         "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "国内商品期货夜盘开盘 主力合约涨跌互现",
-        "summary": "国内商品期货夜盘开盘，主力合约涨跌互现。涨幅方面，燃油涨超2%，沪银、国际铜、氧化铝、对二甲苯、棕榈油等小幅上涨；跌幅方面，焦煤跌超2%，原油、丙烯跌超1%，LPG、豆粕、塑料、聚丙烯、豆二等小幅下跌。",
-        "publishedAt": "2026-10-16 21:00:03",
+        "title": "美国总统特朗普谈通胀称 油价即将下跌",
+        "summary": "美国总统特朗普谈通胀称，油价即将下跌。",
+        "publishedAt": "2026-10-17 01:01:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163898610761.html",
+        "url": "https://finance.eastmoney.com/a/202610173898777830.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "有色稀土",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国天然气期货下跌5%",
-        "summary": "美国天然气期货在美国解除不可抗力后下跌5%。",
-        "publishedAt": "2026-10-16 20:32:20",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163898572535.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -63601,6 +63587,38 @@
         "themes": [],
         "tickers": [
           "中科环保(301175)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华测检测:2026年10月15日至16日投资者关系活动记录表",
+        "summary": "华测检测(300012)：华测检测:2026年10月15日至16日投资者关系活动记录表",
+        "publishedAt": "2026-10-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300012/AN202610161830624783.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华测检测(300012)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "2026年10月16日天孚通信投资者关系活动记录表",
+        "summary": "天孚通信(300394)：2026年10月16日天孚通信投资者关系活动记录表",
+        "publishedAt": "2026-10-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610161830623411.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天孚通信(300394)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -63710,61 +63728,33 @@
         "noticeType": "股权激励进展公告"
       },
       {
-        "title": "富特科技:2026年限制性股票激励计划授予激励对象名单(授予日)",
-        "summary": "富特科技(301607)：富特科技:2026年限制性股票激励计划授予激励对象名单(授予日)",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202610161830622675.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "富特科技:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
-        "summary": "富特科技(301607)：富特科技:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202610161830622676.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "iPhone Duo首批现货最高涨7143元",
-        "summary": "【iPhone Duo首批现货最高涨7143元】10月16日晚8点，苹果旗下首款折叠屏手机iPhone Duo正式开启预购。首批货源在售罄后，多线上平台显示无货，苹果官方网站也显示预计发货时间延后。得物App显示，iPhone Duo多个版本的预售市场成交价突破2万元，其中1TB黑色版本接近2.9万元，比发售价高出7143元；256GB黑色版本涨幅则接近四…",
-        "publishedAt": "2026-10-16 20:51:39",
+        "title": "油价涨势扩大 美国原油期货突破每桶100美元 涨幅近2%",
+        "summary": "油价涨势扩大，美国原油期货突破每桶100美元，涨幅近2%。",
+        "publishedAt": "2026-10-17 00:32:39",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163898607995.html",
+        "url": "https://finance.eastmoney.com/a/202610173898775116.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "能源"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "嘉信理财CEO：投资者对固收产品的兴趣达到创纪录水平",
-        "summary": "【嘉信理财CEO：投资者对固收产品的兴趣达到创纪录水平】嘉信理财CEO表示，投资者对固收产品的兴趣达到创纪录水平。",
-        "publishedAt": "2026-10-16 20:41:01",
+        "title": "量化基金巨头Two Sigma停止为不动产部门筹资并裁撤高层",
+        "summary": "【量化基金巨头Two Sigma停止为不动产部门筹资并裁撤高层】TwoSigmaInvestments削减了不动产部门的高级职员并停止为其筹资，也不再从该业务进行新的投资，而此举距其对外部资金开放仅过了两年。据知情人士透露，该部门的合伙人兼首席投资官RichGomel将去职。",
+        "publishedAt": "2026-10-17 00:14:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163898599039.html",
+        "url": "https://finance.eastmoney.com/a/202610173898773671.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -63788,6 +63778,20 @@
       {
         "title": "美国截至10月5日当周EIA精炼油库存变动(万桶)",
         "summary": "美国截至10月5日当周EIA精炼油库存变动(万桶)；公布 -252.7，预期 -156.0，前值 -4.2。",
+        "publishedAt": "2026-10-16 00:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月5日当周EIA汽油库存变动(万桶)",
+        "summary": "美国截至10月5日当周EIA汽油库存变动(万桶)；公布 351.8，预期 -80.0，前值 38.2。",
         "publishedAt": "2026-10-16 00:00",
         "source": "百度财经日历",
         "url": "",
@@ -64160,8 +64164,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-16 21:09:22",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-10-17 01:17:50",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
@@ -64199,7 +64203,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-16 21:07:59",
+        "generatedAt": "2026-10-17 01:17:08",
         "summary": "上午情绪分 84，涨停 61 家，跌停 10 家，炸板 49 家，连板 7 家，最高 11 板。",
         "sections": [
           {
@@ -64238,7 +64242,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-16 21:07:59",
+        "generatedAt": "2026-10-17 01:17:08",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -64264,7 +64268,7 @@
               "今日炸板 49 只，追高前先看前排封单和回封质量。",
               "今日跌停 10 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 华为概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：国内商品期货夜盘开盘 主力合约涨跌互现；美国天然气期货下跌5%。",
+              "新闻/公告风险：美国总统特朗普谈通胀称 油价即将下跌。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
