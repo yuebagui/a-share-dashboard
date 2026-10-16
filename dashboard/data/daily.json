@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-16",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-16 20:46:21",
+    "generatedAt": "2026-10-16 21:07:59",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -63474,19 +63474,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-16",
-    "generatedAt": "2026-10-16 20:47:11",
+    "generatedAt": "2026-10-16 21:09:22",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、能源、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
         "name": "金融",
-        "score": 15,
+        "score": 17,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 11,
+        "score": 15,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -63495,22 +63500,29 @@
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
         "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "国内商品期货夜盘开盘 主力合约涨跌互现",
+        "summary": "国内商品期货夜盘开盘，主力合约涨跌互现。涨幅方面，燃油涨超2%，沪银、国际铜、氧化铝、对二甲苯、棕榈油等小幅上涨；跌幅方面，焦煤跌超2%，原油、丙烯跌超1%，LPG、豆粕、塑料、聚丙烯、豆二等小幅下跌。",
+        "publishedAt": "2026-10-16 21:00:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610163898610761.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
       {
         "title": "美国天然气期货下跌5%",
         "summary": "美国天然气期货在美国解除不可抗力后下跌5%。",
@@ -63522,22 +63534,6 @@
         "impact": "风险",
         "themes": [
           "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "泰格医药：公司实控人因信披违规被罚100万元",
-        "summary": "【泰格医药：公司实控人因信披违规被罚100万元】泰格医药公告称，公司实际控制人叶小平、曹晓春收到证监会浙江监管局出具的《行政处罚决定书》，因2019年9月20日合计持有公司有表决权股份比例累计变动达5%时未及时披露《简式权益变动报告书》，迟至2026年5月12日补充披露，构成信息披露违法行为。",
-        "publishedAt": "2026-10-16 20:15:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163898566154.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "医药"
         ],
         "tickers": [],
         "importance": 1,
@@ -63605,6 +63601,22 @@
         "themes": [],
         "tickers": [
           "中科环保(301175)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "立高食品:2026年10月16日投资者关系活动记录表",
+        "summary": "立高食品(300973)：立高食品:2026年10月16日投资者关系活动记录表",
+        "publishedAt": "2026-10-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300973/AN202610161830623155.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "立高食品(300973)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -63730,27 +63742,25 @@
         "noticeType": "股权激励进展公告"
       },
       {
-        "title": "富特科技:关于公司2025年限制性股票激励计划首次授予部分第一个归属期归属条件成就的公告",
-        "summary": "富特科技(301607)：富特科技:关于公司2025年限制性股票激励计划首次授予部分第一个归属期归属条件成就的公告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202610161830622665.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "iPhone Duo首批现货最高涨7143元",
+        "summary": "【iPhone Duo首批现货最高涨7143元】10月16日晚8点，苹果旗下首款折叠屏手机iPhone Duo正式开启预购。首批货源在售罄后，多线上平台显示无货，苹果官方网站也显示预计发货时间延后。得物App显示，iPhone Duo多个版本的预售市场成交价突破2万元，其中1TB黑色版本接近2.9万元，比发售价高出7143元；256GB黑色版本涨幅则接近四…",
+        "publishedAt": "2026-10-16 20:51:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610163898607995.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股权激励进展公告"
+        "noticeType": ""
       },
       {
-        "title": "iPhone Duo预售即售罄：最高溢价7143元 代拍价近千元",
-        "summary": "【iPhone Duo预售即售罄：最高溢价7143元 代拍价近千元】10月16日晚8点，苹果旗下首款折叠屏手机iPhone Duo正式开启预购，并迅速在多个渠道售罄。在得物App上，iPhone Duo多个版本的预售市场成交价已突破2万元，其中1TB黑色版本成交价接近2.9万元，较发售价高出7143元；256GB黑色版本涨幅则接近四成。与此同时，记者在闲鱼…",
-        "publishedAt": "2026-10-16 20:40:53",
+        "title": "嘉信理财CEO：投资者对固收产品的兴趣达到创纪录水平",
+        "summary": "【嘉信理财CEO：投资者对固收产品的兴趣达到创纪录水平】嘉信理财CEO表示，投资者对固收产品的兴趣达到创纪录水平。",
+        "publishedAt": "2026-10-16 20:41:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610163898596358.html",
+        "url": "https://finance.eastmoney.com/a/202610163898599039.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -63778,20 +63788,6 @@
       {
         "title": "美国截至10月5日当周EIA精炼油库存变动(万桶)",
         "summary": "美国截至10月5日当周EIA精炼油库存变动(万桶)；公布 -252.7，预期 -156.0，前值 -4.2。",
-        "publishedAt": "2026-10-16 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月5日当周EIA汽油库存变动(万桶)",
-        "summary": "美国截至10月5日当周EIA汽油库存变动(万桶)；公布 351.8，预期 -80.0，前值 38.2。",
         "publishedAt": "2026-10-16 00:00",
         "source": "百度财经日历",
         "url": "",
@@ -64164,15 +64160,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-16 20:47:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 金融、能源、半导体。",
+        "generatedAt": "2026-10-16 21:09:22",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：军工装备、房地产；首看 军工装备 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -64203,7 +64199,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-16 20:46:21",
+        "generatedAt": "2026-10-16 21:07:59",
         "summary": "上午情绪分 84，涨停 61 家，跌停 10 家，炸板 49 家，连板 7 家，最高 11 板。",
         "sections": [
           {
@@ -64242,7 +64238,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-16 20:46:21",
+        "generatedAt": "2026-10-16 21:07:59",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -64268,7 +64264,7 @@
               "今日炸板 49 只，追高前先看前排封单和回封质量。",
               "今日跌停 10 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 华为概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：美国天然气期货下跌5%；泰格医药：公司实控人因信披违规被罚100万元。",
+              "新闻/公告风险：国内商品期货夜盘开盘 主力合约涨跌互现；美国天然气期货下跌5%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
