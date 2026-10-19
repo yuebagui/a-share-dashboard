@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-16",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-17 01:26:17",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-17 01:26:17",
+    "lastNewsAt": "2026-10-19 13:06:31"
   },
   "indices": [
     {
@@ -63473,30 +63475,30 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-16",
-    "generatedAt": "2026-10-17 01:26:58",
+    "tradeDate": "2026-10-19",
+    "generatedAt": "2026-10-19 13:06:31",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 AI算力、医药、金融。",
     "themes": [
       {
+        "name": "AI算力",
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
-        "score": 18,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 5,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -63505,234 +63507,297 @@
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "美国总统特朗普谈通胀称 油价即将下跌",
-        "summary": "美国总统特朗普谈通胀称，油价即将下跌。",
-        "publishedAt": "2026-10-17 01:01:49",
+        "title": "*ST准油:关于接受控股股东赠与现金资产暨关联交易的公告",
+        "summary": "*ST准油(002207)：*ST准油:关于接受控股股东赠与现金资产暨关联交易的公告",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002207/AN202610181830660553.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST准油(002207)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
+      },
+      {
+        "title": "*ST准油:第八届董事会第二十次(临时)会议决议公告",
+        "summary": "*ST准油(002207)：*ST准油:第八届董事会第二十次(临时)会议决议公告",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002207/AN202610181830660554.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST准油(002207)"
+        ],
+        "importance": 1,
+        "noticeType": "董事会决议公告"
+      },
+      {
+        "title": "长芯博创:长芯博创科技股份有限公司关于特定股东自愿承诺未来6个月不减持公司股份的公告",
+        "summary": "长芯博创(300548)：长芯博创:长芯博创科技股份有限公司关于特定股东自愿承诺未来6个月不减持公司股份的公告",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300548/AN202610181830660343.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "长芯博创(300548)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "东方财富证券陈果：当前上证综指和沪深300股权风险溢价具备吸引力",
+        "summary": "【东方财富证券陈果：当前上证综指和沪深300股权风险溢价具备吸引力】10月19日，东方财富证券首席策略官陈果发布最新观点称，从配置性价比来看，当前上证综指和沪深300股权风险溢价具备吸引力。陈果称，A股整体三季报及全年盈利增长、ETF资金托底对A股将提供支撑。建议在市场调整过程中积极寻找景气改善与估值修复的交集。",
+        "publishedAt": "2026-10-19 12:41:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610173898777830.html",
+        "url": "https://finance.eastmoney.com/a/202610193899748618.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "稳健医疗:投资者关系活动记录表（10月8日-10月16日）",
+        "summary": "稳健医疗(300888)：稳健医疗:投资者关系活动记录表（10月8日-10月16日）",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300888/AN202610191830670714.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "稳健医疗(300888)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "稳健医疗:投资者关系活动记录表（10月8日-10月16日）",
+        "summary": "稳健医疗(300888)：稳健医疗:投资者关系活动记录表（10月8日-10月16日）",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300888/AN202610191830670715.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "稳健医疗(300888)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "001301尚太科技投资者关系管理信息20261019",
+        "summary": "尚太科技(001301)：001301尚太科技投资者关系管理信息20261019",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001301/AN202610191830670447.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "尚太科技(001301)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "三鑫医疗:2026年10月16日投资者关系活动记录表",
+        "summary": "三鑫医疗(300453)：三鑫医疗:2026年10月16日投资者关系活动记录表",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300453/AN202610191830669545.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "三鑫医疗(300453)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:049-2026年10月16日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:049-2026年10月16日投资者关系活动记录表",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202610191830667660.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "固高科技:301510固高科技投资者关系管理信息20261019",
+        "summary": "固高科技(301510)：固高科技:301510固高科技投资者关系管理信息20261019",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301510/AN202610191830665140.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "固高科技(301510)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "恒力石化:恒力石化2026年前三季度业绩预增公告",
+        "summary": "恒力石化(600346)：恒力石化:恒力石化2026年前三季度业绩预增公告",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600346/AN202610181830660934.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒力石化(600346)"
+        ],
+        "importance": 1,
+        "noticeType": "业绩预告"
+      },
+      {
+        "title": "海能达:关于向2026年限制性股票与股票期权激励计划激励对象首次授予限制性股票与股票期权的公告",
+        "summary": "海能达(002583)：海能达:关于向2026年限制性股票与股票期权激励计划激励对象首次授予限制性股票与股票期权的公告",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002583/AN202610181830660345.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海能达(002583)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "海能达:关于调整2026年限制性股票与股票期权激励计划相关事项的公告",
+        "summary": "海能达(002583)：海能达:关于调整2026年限制性股票与股票期权激励计划相关事项的公告",
+        "publishedAt": "2026-10-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002583/AN202610181830660347.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海能达(002583)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "英伟达GTC柏林大会即将开幕 黄仁勋将发表主题演讲 AI工厂、欧洲投资引关注",
+        "summary": "【英伟达GTC柏林大会即将开幕 黄仁勋将发表主题演讲 AI工厂、欧洲投资引关注】当地时间10月20日至22日，英伟达GTC大会将在德国柏林举行，黄仁勋将在21日发表主题演讲。作为英伟达下半年最受关注的技术与生态大会，本届GTC把重心从“卖GPU”进一步推向“卖AI工厂”。",
+        "publishedAt": "2026-10-19 13:03:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610193899753548.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "官方二手房交易数据连续两月上涨 释放了哪些信号？",
+        "summary": "【官方二手房交易数据连续两月上涨 释放了哪些信号？】10月19日，国家统计局发布今年1—9月全国房地产市场投资、销售等数据。统计局指出，根据住房城乡建设部数据，1—9月份，二手房交易网签面积6.17亿平方米，同比增长10.7%。这是官方连续两个月公布二手房网签数据。上月，统计局首次发布了二手房网签数据。今年1—8月份，二手房交易网签面积5.49亿平方米，同…",
+        "publishedAt": "2026-10-19 12:58:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610193899750283.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "科翔股份:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
-        "summary": "科翔股份(300903)：科翔股份:关于向2026年限制性股票激励计划激励对象授予限制性股票的公告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300903/AN202610161830620963.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "科翔股份(300903)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "华宝股份:300741华宝股份投资者关系管理信息20261016",
-        "summary": "华宝股份(300741)：华宝股份:300741华宝股份投资者关系管理信息20261016",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300741/AN202610161830615761.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华宝股份(300741)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "天元重工:向不特定合格投资者公开发行股票并在北京证券交易所上市网上路演公告",
-        "summary": "天元重工(920306)：天元重工:向不特定合格投资者公开发行股票并在北京证券交易所上市网上路演公告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920306/AN202610161830617166.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "天元重工(920306)"
-        ],
-        "importance": 1,
-        "noticeType": "首发网上路演公告"
-      },
-      {
-        "title": "中科环保:2026年10月15日投资者关系活动记录表",
-        "summary": "中科环保(301175)：中科环保:2026年10月15日投资者关系活动记录表",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301175/AN202610161830580329.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中科环保(301175)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华测检测:2026年10月15日至16日投资者关系活动记录表",
-        "summary": "华测检测(300012)：华测检测:2026年10月15日至16日投资者关系活动记录表",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300012/AN202610161830624783.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华测检测(300012)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "2026年10月16日天孚通信投资者关系活动记录表",
-        "summary": "天孚通信(300394)：2026年10月16日天孚通信投资者关系活动记录表",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610161830623411.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天孚通信(300394)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "立高食品:2026年10月16日投资者关系活动记录表",
-        "summary": "立高食品(300973)：立高食品:2026年10月16日投资者关系活动记录表",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300973/AN202610161830623155.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "立高食品(300973)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)信用评级报告",
-        "summary": "长城证券(002939)：长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)信用评级报告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002939/AN202610161830622846.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长城证券(002939)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长城证券:长城证券股份有限公司2024年面向专业投资者公开发行公司债券更名公告",
-        "summary": "长城证券(002939)：长城证券:长城证券股份有限公司2024年面向专业投资者公开发行公司债券更名公告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002939/AN202610161830622848.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长城证券(002939)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)募集说明书",
-        "summary": "长城证券(002939)：长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)募集说明书",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002939/AN202610161830622847.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长城证券(002939)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)发行公告",
-        "summary": "长城证券(002939)：长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)发行公告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002939/AN202610161830622837.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长城证券(002939)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "富特科技:关于作废公司2025年限制性股票激励计划首次授予部分已授予尚未归属的限制性股票的公告",
-        "summary": "富特科技(301607)：富特科技:关于作废公司2025年限制性股票激励计划首次授予部分已授予尚未归属的限制性股票的公告",
-        "publishedAt": "2026-10-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301607/AN202610161830622672.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富特科技(301607)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "美联储周五隔夜逆回购协议（RRP）使用规模为1亿美元",
-        "summary": "美联储周五隔夜逆回购协议（RRP）使用规模为1亿美元。",
-        "publishedAt": "2026-10-17 01:16:18",
+        "title": "李逵还是李鬼？涉嫌港股IPO操纵的孙然及嘉实国际投资到底是谁",
+        "summary": "【李逵还是李鬼？涉嫌港股IPO操纵的孙然及嘉实国际投资到底是谁】日前，香港证监会对两个涉嫌操纵IPO的集团进行资产冻结。其中第一个集团为嘉实国际投资的持牌代表孙然，连同8家离岸架构公司，总共构成9个涉案实体。香港证监会已向6家香港经纪商下发限制通知书，冻结相关账户资产高达43.79亿港元，创下香港证监会同类资产保全案件历史最高金额。",
+        "publishedAt": "2026-10-19 12:50:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610173898781711.html",
+        "url": "https://finance.eastmoney.com/a/202610193899742259.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "阿里旗下速卖通将投资AI硬件品牌",
+        "summary": "【阿里旗下速卖通将投资AI硬件品牌】记者获悉，速卖通与天猫今日联合发布“中国品牌全球增长计划”。据悉，速卖通还将对AI硬件品牌进行天使轮投资，提供Brand+及天猫经营支持，目标孵化100+AI硬件品牌。",
+        "publishedAt": "2026-10-19 12:49:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610193899749978.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "市场人士：理性看待长鑫科技10亿元至20亿元回购",
+        "summary": "【市场人士：理性看待长鑫科技10亿元至20亿元回购】近日，长鑫科技发布股份回购计划，拟动用资金10亿元至20亿元。有观点认为，从绝对数值来看，公司回购力度中规中矩。市场人士认为，衡量一项资本动作的真实诚意，核心是看资本配置效率（回购占比）。具体而言，评估回购对每股收益（EPS）及流动性的边际改善，最关键的指标是“回购资金占流通市值比例”。",
+        "publishedAt": "2026-10-19 12:46:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610193899749693.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -63741,66 +63806,6 @@
         ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "油价涨势扩大 美国原油期货突破每桶100美元 涨幅近2%",
-        "summary": "油价涨势扩大，美国原油期货突破每桶100美元，涨幅近2%。",
-        "publishedAt": "2026-10-17 00:32:39",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610173898775116.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月5日当周EIA俄克拉荷马州-库欣原油库存(万桶)",
-        "summary": "美国截至10月5日当周EIA俄克拉荷马州-库欣原油库存(万桶)；公布 186.2，预期 nan，前值 44.4。",
-        "publishedAt": "2026-10-16 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月5日当周EIA精炼油库存变动(万桶)",
-        "summary": "美国截至10月5日当周EIA精炼油库存变动(万桶)；公布 -252.7，预期 -156.0，前值 -4.2。",
-        "publishedAt": "2026-10-16 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月5日当周EIA汽油库存变动(万桶)",
-        "summary": "美国截至10月5日当周EIA汽油库存变动(万桶)；公布 351.8，预期 -80.0，前值 38.2。",
-        "publishedAt": "2026-10-16 00:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -64151,7 +64156,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -64164,15 +64169,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-17 01:26:58",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-10-19 13:06:31",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 AI算力、医药、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：军工装备、房地产；首看 军工装备 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、医药、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -64268,7 +64273,7 @@
               "今日炸板 49 只，追高前先看前排封单和回封质量。",
               "今日跌停 10 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 华为概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：美国总统特朗普谈通胀称 油价即将下跌。",
+              "新闻/公告风险：*ST准油:关于接受控股股东赠与现金资产暨关联交易的公告；*ST准油:第八届董事会第二十次(临时)会议决议公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
