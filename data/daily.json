@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-20",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-20 16:47:36",
+    "generatedAt": "2026-10-20 16:53:03",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -13,7 +13,7 @@
       "changePct": 0.12,
       "turnover": "7000亿",
       "turnoverValue": 699969753799.0,
-      "quoteTime": "2026-10-20 16:14:00",
+      "quoteTime": "2026-10-20 16:15:00",
       "source": "腾讯直连"
     },
     {
@@ -62930,10 +62930,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-20",
-    "generatedAt": "2026-10-20 16:48:47",
+    "generatedAt": "2026-10-20 16:54:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -62942,31 +62942,21 @@
       },
       {
         "name": "金融",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 2,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
@@ -63133,51 +63123,20 @@
         "noticeType": "公司章程修订"
       },
       {
-        "title": "*ST威领:关于修订《公司章程》的公告",
-        "summary": "*ST威领(002667)：*ST威领:关于修订《公司章程》的公告",
+        "title": "天目湖:江苏天目湖旅游股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "summary": "天目湖(603136)：天目湖:江苏天目湖旅游股份有限公司关于召开2026年第三季度业绩说明会的公告",
         "publishedAt": "2026-10-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202610191830691055.html",
+        "url": "https://data.eastmoney.com/notices/detail/603136/AN202610191830691441.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST威领(002667)"
+          "天目湖(603136)"
         ],
         "importance": 1,
-        "noticeType": "公司章程修订"
-      },
-      {
-        "title": "波兰监管机构要求苹果调整应用跟踪透明度政策",
-        "summary": "【波兰监管机构要求苹果调整应用跟踪透明度政策】波兰竞争与消费者保护办公室（UOKiK）要求苹果调整其应用跟踪透明度（ATT）政策及用户数据访问规则，包括中和数据授权提示的设计与内容，并删除其中“跟踪”一词。苹果须在相关决定最终生效后的两个月内落实承诺的调整。",
-        "publishedAt": "2026-10-20 16:25:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901330414.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国家药监局召开“人工智能+药品监管”工作推进会",
-        "summary": "【国家药监局召开“人工智能+药品监管”工作推进会】10月19日，国家药监局召开“人工智能+药品监管”工作推进会。国家药监局党组书记、局长黄果出席会议并讲话。",
-        "publishedAt": "2026-10-20 16:24:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901329065.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "其他"
       },
       {
         "title": "桂林旅游:拟公开挂牌转让持有桂林桂圳投资置业有限责任公司的股权及债权资产评估项目资产评估报告",
@@ -63194,6 +63153,38 @@
         ],
         "importance": 1,
         "noticeType": "其他"
+      },
+      {
+        "title": "凯格精机：实控人提议回购1500万至3000万元股份",
+        "summary": "【凯格精机：实控人提议回购1500万至3000万元股份】凯格精机(301338.SZ)公告称，公司控股股东、实际控制人、董事长邱国良提议公司以超募资金通过集中竞价方式回购部分A股股票，回购资金总额不低于1500万元且不超过3000万元，回购股份将用于股权激励或员工持股计划。",
+        "publishedAt": "2026-10-20 16:46:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610203901350026.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "农业农村部：推动人工智能赋能育种创新 加快培育一批突破性品种",
+        "summary": "【农业农村部：推动人工智能赋能育种创新 加快培育一批突破性品种】农业农村部19日在广东省广州市召开深入实施种业振兴行动推进会。会议强调，要聚焦种业“十五五”目标任务，在种质资源保护利用上再加力，加快鉴定改良和共享利用，提升资源保护整体效能。要在有组织体系化攻关上再加力，“一品一策”强优势补短板，推动人工智能赋能育种创新，加快培育一批突破性品种，打造具有国际…",
+        "publishedAt": "2026-10-20 16:45:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610203901349260.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "外汇局：9月货物贸易项下资金延续较大规模净流入",
@@ -63476,15 +63467,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-20 16:48:47",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-20 16:54:00",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 10 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：自动化设备、消费电子、机器人概念；首看 自动化设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -63515,7 +63506,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-20 16:47:36",
+        "generatedAt": "2026-10-20 16:53:03",
         "summary": "上午情绪分 88，涨停 54 家，跌停 6 家，炸板 29 家，连板 14 家，最高 4 板。",
         "sections": [
           {
@@ -63554,7 +63545,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-20 16:47:36",
+        "generatedAt": "2026-10-20 16:53:03",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
