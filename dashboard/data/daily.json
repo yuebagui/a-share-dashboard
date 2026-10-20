@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-20",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-20 03:20:56",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-20 03:20:56",
+    "lastNewsAt": "2026-10-20 13:09:02"
   },
   "indices": [
     {
@@ -62932,48 +62934,69 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-20",
-    "generatedAt": "2026-10-20 03:21:45",
+    "generatedAt": "2026-10-20 13:09:02",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 11 条；主题映射集中在 AI算力、有色稀土、汽车链。",
     "themes": [
+      {
+        "name": "AI算力",
+        "score": 9,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 8,
+        "name": "汽车链",
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 4,
+        "name": "机器人",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "军工",
-        "score": 3,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "金融",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "天地在线:关于部分募投项目增加实施主体后签订《募集资金三方监管协议》的公告",
+        "summary": "天地在线(002995)：天地在线:关于部分募投项目增加实施主体后签订《募集资金三方监管协议》的公告",
+        "publishedAt": "2026-10-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002995/AN202610201830708323.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "天地在线(002995)"
+        ],
+        "importance": 1,
+        "noticeType": "签订协议"
+      },
       {
         "title": "ST新华锦:山东新华锦国际股份有限公司关于前期会计差错更正后的财务报表及相关附注",
         "summary": "ST新华锦(600735)：ST新华锦:山东新华锦国际股份有限公司关于前期会计差错更正后的财务报表及相关附注",
@@ -63103,70 +63126,66 @@
         "noticeType": "召开股东大会通知"
       },
       {
-        "title": "*ST威领:第七届董事会第二十五次会议决议公告",
-        "summary": "*ST威领(002667)：*ST威领:第七届董事会第二十五次会议决议公告",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202610191830691063.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST威领(002667)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "*ST威领:独立董事提名人声明与承诺(梁新权)",
-        "summary": "*ST威领(002667)：*ST威领:独立董事提名人声明与承诺(梁新权)",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202610191830691067.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST威领(002667)"
-        ],
-        "importance": 1,
-        "noticeType": "独立董事提名人声明"
-      },
-      {
-        "title": "*ST威领:独立董事提名人声明与承诺(郭天铸)",
-        "summary": "*ST威领(002667)：*ST威领:独立董事提名人声明与承诺(郭天铸)",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202610191830691061.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST威领(002667)"
-        ],
-        "importance": 1,
-        "noticeType": "独立董事提名人声明"
-      },
-      {
-        "title": "高盛：对冲基金以至少十年来最快速度减持科技股",
-        "summary": "【高盛：对冲基金以至少十年来最快速度减持科技股】高盛主经纪商业务部门的数据显示，对冲基金以至少十年来最快速度减持科技股。截至10月15日的五个交易日，对冲基金削减科技股仓位的幅度创高盛2016年开始统计以来最大。与此同时，高盛全球银行与市场部门的一份报告显示，总交易活动下降速度创近三个月来最快。对冲基金在全球科技股大跌之际进行了抛售。随着AI主题交易在全球…",
-        "publishedAt": "2026-10-20 01:42:49",
+        "title": "台交所加权股价指数下跌1%",
+        "summary": "台交所加权股价指数下跌1%至46,350.2点。",
+        "publishedAt": "2026-10-20 12:49:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203900313884.html",
+        "url": "https://finance.eastmoney.com/a/202610203901158664.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易",
+        "summary": "【CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易】上周，随着投资者对AI融资风险的担忧加剧，全球科技股惨遭抛售。新云服务商CoreWeave债券收益率升至15%，触及通常被认定为“陷入财务困境”的水平，被视为本轮科技股抛售的导火索之一。然而，包括摩根大通和巴克莱在内的多家国际大行认为，投资者对CoreWeave以及科技行业融…",
+        "publishedAt": "2026-10-20 12:48:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610203901144862.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "半导体",
-          "AI算力",
-          "金融"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "永福股份:2026年10月19日投资者关系活动记录表",
+        "summary": "永福股份(300712)：永福股份:2026年10月19日投资者关系活动记录表",
+        "publishedAt": "2026-10-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300712/AN202610201830703545.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "永福股份(300712)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "三维通信:2026年10月16日投资者关系活动记录表",
+        "summary": "三维通信(002115)：三维通信:2026年10月16日投资者关系活动记录表",
+        "publishedAt": "2026-10-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002115/AN202610201830702955.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三维通信(002115)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "天目湖:江苏天目湖旅游股份有限公司关于召开2026年第三季度业绩说明会的公告",
@@ -63185,41 +63204,52 @@
         "noticeType": "其他"
       },
       {
-        "title": "德国卫星公司Reflex Aerospace称：在英伟达计划投资的支撑下扩大欧洲卫星生产",
-        "summary": "德国卫星公司Reflex Aerospace称，在英伟达计划投资的支撑下扩大欧洲卫星生产，投资将支持在巴伐利亚的产能扩张以及公司卫星平台架构的开发。",
-        "publishedAt": "2026-10-20 02:33:42",
+        "title": "新版全球可持续交通认证体系发布 我国绿色船燃认证实现零突破",
+        "summary": "【新版全球可持续交通认证体系发布 我国绿色船燃认证实现零突破】10月20日，2026北外滩国际航运论坛在上海开幕。开幕式上，交通运输部国际司、交通运输部海事局、交通运输部国际中心、中国船级社、中国能建、中远海运等联合发布绿色船用燃料国际认证体系。2026版“全球可持续交通认证体系（GSTC）”正式亮相，实现了中国绿色船用燃料认证零的突破。",
+        "publishedAt": "2026-10-20 13:03:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203900322556.html",
+        "url": "https://finance.eastmoney.com/a/202610203901168222.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "黄仁勋感慨德国科技发展落后：“欧洲人做事时可能过于纠结、考虑过多”",
+        "summary": "【黄仁勋感慨德国科技发展落后：“欧洲人做事时可能过于纠结、考虑过多”】10月19日，英伟达（Nvidia）首席执行官黄仁勋在柏林出席活动及“投资德国峰会”时表示，看到德国这样一个曾经技术先进的国家如今在技术领域远远落后，令他感到痛心。黄仁勋认为，欧洲人做事时可能过于纠结、考虑过多。他同时指出，德国拥有大量优秀人才，并直言：“行动起来，开始干吧。”",
+        "publishedAt": "2026-10-20 12:59:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610203901160291.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力",
-          "军工"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美联储周一隔夜逆回购协议（RRP）使用规模为3.3亿美元",
-        "summary": "美联储周一隔夜逆回购协议（RRP）使用规模为3.3亿美元。",
-        "publishedAt": "2026-10-20 01:16:37",
+        "title": "星巴克将实施“消费才能入座”？星巴克：消息不属实",
+        "summary": "【星巴克将实施“消费才能入座”？星巴克：消息不属实】近日，有网友称在门店拍到有“星巴克营业空间，请消费入座”的提示牌物料，并且有店员表示将从10月20日开始执行。对此，星巴克方面回应称“消息不属实”。不过，各门店似乎对该项政策理解有差别。",
+        "publishedAt": "2026-10-20 12:46:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203900312513.html",
+        "url": "https://finance.eastmoney.com/a/202610203901156116.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
         "title": "美国10月16日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月16日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 nan。",
+        "summary": "美国10月16日COMEX黄金库存-每日更新(百盎司)；公布 234096.69，预期 nan，前值 234263.23。",
         "publishedAt": "2026-10-20 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -63229,36 +63259,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月19日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月19日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 nan。",
-        "publishedAt": "2026-10-20 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月19日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月19日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 nan。",
-        "publishedAt": "2026-10-20 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -63415,7 +63415,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "修复",
     "positionRule": {
@@ -63428,15 +63428,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-20 03:21:45",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-10-20 13:09:02",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 11 条；主题映射集中在 AI算力、有色稀土、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：人形机器人、银行、军工装备；首看 人形机器人 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -63532,7 +63532,7 @@
               "今日炸板 21 只，追高前先看前排封单和回封质量。",
               "今日跌停 22 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 高股息精选，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST新华锦:山东新华锦国际股份有限公司关于前期会计差错更正后的财务报表及相关附注；ST新华锦:关于前期会计差错更正的公告。",
+              "新闻/公告风险：天地在线:关于部分募投项目增加实施主体后签订《募集资金三方监管协议》的公告；ST新华锦:山东新华锦国际股份有限公司关于前期会计差错更正后的财务报表及相关附注。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
