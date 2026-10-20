@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-10-20",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-10-20 21:28:35",
+    "tradeDate": "2026-10-21",
+    "phase": "盘中快照",
+    "generatedAt": "2026-10-21 01:52:45",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -81488,11 +81488,11 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-20",
-    "generatedAt": "2026-10-20 21:29:33",
+    "tradeDate": "2026-10-21",
+    "generatedAt": "2026-10-21 01:53:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 有色稀土、能源、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
         "name": "有色稀土",
@@ -81500,59 +81500,76 @@
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 4,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "武汉天源:中审众环会计师事务所(特殊普通合伙)关于武汉天源集团股份有限公司申请向特定对象发行股票的审核问询函的回复",
-        "summary": "武汉天源(301127)：武汉天源:中审众环会计师事务所(特殊普通合伙)关于武汉天源集团股份有限公司申请向特定对象发行股票的审核问询函的回复",
-        "publishedAt": "2026-10-20",
+        "title": "南威软件:股票交易异常波动公告",
+        "summary": "南威软件(603636)：南威软件:股票交易异常波动公告",
+        "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301127/AN202610201830724464.html",
+        "url": "https://data.eastmoney.com/notices/detail/603636/AN202610201830727705.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "武汉天源(301127)"
+          "南威软件(603636)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "6-1东方证券股份有限公司关于发行股份及支付现金购买资产暨关联交易申请的审核问询函回复(东方证券股份有限公司)",
-        "summary": "东方证券(600958)：6-1东方证券股份有限公司关于发行股份及支付现金购买资产暨关联交易申请的审核问询函回复(东方证券股份有限公司)",
-        "publishedAt": "2026-10-20",
+        "title": "中公教育:关于股东部分股份将被司法拍卖的提示性公告",
+        "summary": "中公教育(002607)：中公教育:关于股东部分股份将被司法拍卖的提示性公告",
+        "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600958/AN202610201830719859.html",
+        "url": "https://data.eastmoney.com/notices/detail/002607/AN202610201830726363.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "中公教育(002607)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告",
+        "summary": "江顺科技(001400)：江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001400/AN202610201830726357.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "江顺科技(001400)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "安阳钢铁:安阳钢铁股份有限公司与华泰联合证券有限责任公司关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "summary": "安阳钢铁(600569)：安阳钢铁:安阳钢铁股份有限公司与华泰联合证券有限责任公司关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726313.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -81560,49 +81577,65 @@
           "金融"
         ],
         "tickers": [
-          "东方证券(600958)"
+          "安阳钢铁(600569)"
         ],
         "importance": 1,
-        "noticeType": "沪主板并购重组问询与回复"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "捷安高科:关于特定股东减持股份的预披露公告",
-        "summary": "捷安高科(300845)：捷安高科:关于特定股东减持股份的预披露公告",
-        "publishedAt": "2026-10-20",
+        "title": "安阳钢铁:众华会计师事务所(特殊普通合伙)关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "summary": "安阳钢铁(600569)：安阳钢铁:众华会计师事务所(特殊普通合伙)关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300845/AN202610201830725082.html",
+        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726312.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "捷安高科(300845)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "创益通:上会会计师事务所(特殊普通合伙)关于深圳市创益通技术股份有限公司申请向特定对象发行股票的审核问询函的回复报告",
-        "summary": "创益通(300991)：创益通:上会会计师事务所(特殊普通合伙)关于深圳市创益通技术股份有限公司申请向特定对象发行股票的审核问询函的回复报告",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300991/AN202610201830724445.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "创益通(300991)"
+          "安阳钢铁(600569)"
         ],
         "importance": 1,
         "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "津膜科技:关于最近五年未被证券监管部门和交易所采取监管措施或处罚及整改情况的公告",
-        "summary": "津膜科技(300334)：津膜科技:关于最近五年未被证券监管部门和交易所采取监管措施或处罚及整改情况的公告",
-        "publishedAt": "2026-10-20",
+        "title": "安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "安阳钢铁(600569)：安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300334/AN202610201830724470.html",
+        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726307.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "安阳钢铁(600569)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "新经典:股票交易异常波动公告",
+        "summary": "新经典(603096)：新经典:股票交易异常波动公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603096/AN202610201830725895.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "新经典(603096)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "*ST网达:关于股份回购实施结果暨股份变动的公告",
+        "summary": "*ST网达(603189)：*ST网达:关于股份回购实施结果暨股份变动的公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603189/AN202610201830725854.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -81610,202 +81643,157 @@
           "金融"
         ],
         "tickers": [
-          "津膜科技(300334)"
+          "*ST网达(603189)"
         ],
         "importance": 1,
-        "noticeType": "自查报告"
+        "noticeType": "股本变动"
       },
       {
-        "title": "武汉天源:关于申请向特定对象发行股票的审核问询函回复和募集说明书等申请文件更新财务数据的提示性公告",
-        "summary": "武汉天源(301127)：武汉天源:关于申请向特定对象发行股票的审核问询函回复和募集说明书等申请文件更新财务数据的提示性公告",
-        "publishedAt": "2026-10-20",
+        "title": "首都在线:关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函的回复(修订稿)",
+        "summary": "首都在线(300846)：首都在线:关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函的回复(修订稿)",
+        "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301127/AN202610201830724438.html",
+        "url": "https://data.eastmoney.com/notices/detail/300846/AN202610201830725804.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "武汉天源(301127)"
+          "首都在线(300846)"
         ],
         "importance": 1,
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "创益通:关于2026年度向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "创益通(300991)：创益通:关于2026年度向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "publishedAt": "2026-10-20",
+        "title": "首都在线:大华会计师事务所(特殊普通合伙)对深圳证券交易所《关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函》的回复(修订稿)",
+        "summary": "首都在线(300846)：首都在线:大华会计师事务所(特殊普通合伙)对深圳证券交易所《关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函》的回复(修订稿)",
+        "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300991/AN202610201830724452.html",
+        "url": "https://data.eastmoney.com/notices/detail/300846/AN202610201830725799.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "创益通(300991)"
+          "首都在线(300846)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "锂业分会：9月碳酸锂价格加速下跌 锂辉石进口量增长 津巴布韦锂矿陆续到港",
-        "summary": "【锂业分会：9月碳酸锂价格加速下跌 锂辉石进口量增长 津巴布韦锂矿陆续到港】锂业分会发布2026年9月锂行业运行情况。2026年9月，碳酸锂价格加速下跌，锂辉石进口量增长，津巴布韦锂矿陆续到港。同时，下游电池排产超出预期，储能与动力电池同步拉动需求上涨。但市场更关注远期供应偏松的情况，价格承压下行。",
-        "publishedAt": "2026-10-20 21:17:59",
+        "title": "易普力:002096易普力投资者关系管理信息20261021",
+        "summary": "易普力(002096)：易普力:002096易普力投资者关系管理信息20261021",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002096/AN202610211830729813.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "易普力(002096)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长缆科技:关于公司董事长增持公司股份计划实施进展暨增持时间过半的公告",
+        "summary": "长缆科技(002879)：长缆科技:关于公司董事长增持公司股份计划实施进展暨增持时间过半的公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002879/AN202610201830726350.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长缆科技(002879)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "美联储周三隔夜逆回购协议（RRP）使用规模为2.27亿美元",
+        "summary": "美联储周三隔夜逆回购协议（RRP）使用规模为2.27亿美元。",
+        "publishedAt": "2026-10-21 01:16:17",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901565517.html",
+        "url": "https://finance.eastmoney.com/a/202610213901738353.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
-          "新能源",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "黑石集团、华平投资联手摩根士丹利推进Intrafi公司出售事宜",
+        "summary": "消息人士称，一项出售交易可能使IntraFi的估值超过100亿美元，黑石集团、华平投资联手摩根士丹利推进IntraFi公司出售事宜。",
+        "publishedAt": "2026-10-21 00:33:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213901729048.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月16日当周API汽油库存变动(万桶)",
+        "summary": "美国截至10月16日当周API汽油库存变动(万桶)；公布 nan，预期 -68.7，前值 109.1。",
+        "publishedAt": "2026-10-21 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月16日当周API原油库存变动(万桶)",
+        "summary": "美国截至10月16日当周API原油库存变动(万桶)；公布 nan，预期 -110.7，前值 -1112.3。",
+        "publishedAt": "2026-10-21 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月20日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月20日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 462.93。",
+        "publishedAt": "2026-10-21 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
           "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "生猪期价跌破1万元/吨 交易所提示风险",
-        "summary": "【生猪期价跌破1万元/吨 交易所提示风险】20日，生猪期货主力合约持续下跌，截至15:00收盘报9995元／吨。20日晚，大商所发布市场风险提示函称，近期生猪品种价格波动较大。请各会员单位切实加强投资者教育和风险防范工作，提醒投资者理性参与，合规交易。",
-        "publishedAt": "2026-10-20 21:00:48",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901537868.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国内商品期货夜盘开盘 主力合约多数上涨",
-        "summary": "【国内商品期货夜盘开盘 主力合约多数上涨】国内商品期货夜盘开盘，主力合约多数上涨。涨幅方面，苯乙烯、乙二醇、纯苯涨超2%，沥青、瓶片、对二甲苯、短纤、甲醇等涨超1%；跌幅方面，菜粕跌超1%，烧碱、玻璃、沪金、纯碱、棉纱等小幅下跌。",
-        "publishedAt": "2026-10-20 21:00:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901536064.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "大胜达:浙江大胜达包装股份有限公司投资者关系活动记录表",
-        "summary": "大胜达(603687)：大胜达:浙江大胜达包装股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603687/AN202610201830719138.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "大胜达(603687)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "东风科技:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "summary": "东风科技(600081)：东风科技:投资者关系活动记录表(2026年半年度业绩说明会)",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600081/AN202610201830721496.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东风科技(600081)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "潜能恒信:南海22/05合同区重大合同进展公告",
-        "summary": "潜能恒信(300191)：潜能恒信:南海22/05合同区重大合同进展公告",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300191/AN202610201830725894.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "潜能恒信(300191)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "丰元股份:2026-009投资者关系活动记录表",
-        "summary": "丰元股份(002805)：丰元股份:2026-009投资者关系活动记录表",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002805/AN202610201830724759.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "丰元股份(002805)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "兆丰股份:关于控股子公司项目预中标公示的提示性公告",
-        "summary": "兆丰股份(300695)：兆丰股份:关于控股子公司项目预中标公示的提示性公告",
-        "publishedAt": "2026-10-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300695/AN202610201830724677.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "兆丰股份(300695)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "近一个月融资净流出超千亿 杠杆资金“后撤待命”",
-        "summary": "【近一个月融资净流出超千亿 杠杆资金“后撤待命”】在业内看来，A股进入今年7月后第二轮去杠杆阶段。电子、通信等科技板块在此轮去杠杆中遭遇较大冲击，少数防御板块成“避风港”。关于杠杆资金是否充分出清，业内存在分歧，有观点认为，后续存在进一步去杠杆的可能，以及新的压力主要来自杠杆资金的负反馈；但也有观点认为，随着短期维稳政策的出台和基本面的回升，市场情绪可能企…",
-        "publishedAt": "2026-10-20 21:05:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901561037.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国股指期货走低 AI相关忧虑重返市场",
-        "summary": "【美国股指期货走低 AI相关忧虑重返市场】AI交易的反弹势头受挫。韩国一家数据中心公司上市表现惨淡，再度引发市场对AI支出热潮能否持续的担忧，美国股指期货走低。投资者目前正等待大型AI支出企业公布业绩，以寻找巨额投入还能持续多久、未来将以多快速度增长的线索。",
-        "publishedAt": "2026-10-20 20:52:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901534095.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月16日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月16日COMEX黄金库存-每日更新(百盎司)；公布 234096.69，预期 nan，前值 234263.23。",
-        "publishedAt": "2026-10-20 06:30",
+        "title": "美国10月19日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月19日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234096.69。",
+        "publishedAt": "2026-10-21 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -82026,7 +82014,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "中",
     "emotionCycle": "修复",
     "positionRule": {
@@ -82039,15 +82027,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-20 21:29:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 有色稀土、能源、新能源。",
+        "generatedAt": "2026-10-21 01:53:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：自动化设备、消费电子、机器人概念；首看 自动化设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -82078,7 +82066,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-20 21:28:35",
+        "generatedAt": "2026-10-21 01:52:45",
         "summary": "上午情绪分 88，涨停 54 家，跌停 6 家，炸板 29 家，连板 14 家，最高 4 板。",
         "sections": [
           {
@@ -82117,7 +82105,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-20 21:28:35",
+        "generatedAt": "2026-10-21 01:52:45",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -82143,7 +82131,7 @@
               "今日炸板 29 只，追高前先看前排封单和回封质量。",
               "今日跌停 6 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：武汉天源:中审众环会计师事务所(特殊普通合伙)关于武汉天源集团股份有限公司申请向特定对象发行股票的审核问询函的回复；6-1东方证券股份有限公司关于发行股份及支付现金购买资产暨关联交易申请的审核问询函回复(东方证券股份有限公司)。",
+              "新闻/公告风险：南威软件:股票交易异常波动公告；中公教育:关于股东部分股份将被司法拍卖的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
