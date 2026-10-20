@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-20",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-20 20:49:33",
+    "generatedAt": "2026-10-20 21:02:04",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -81323,7 +81323,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -81488,29 +81489,29 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-20",
-    "generatedAt": "2026-10-20 20:50:36",
+    "generatedAt": "2026-10-20 21:03:03",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、汽车链、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 7,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 5,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -81647,6 +81648,20 @@
         "noticeType": "回复问询函公告"
       },
       {
+        "title": "国内商品期货夜盘开盘 主力合约多数上涨",
+        "summary": "【国内商品期货夜盘开盘 主力合约多数上涨】国内商品期货夜盘开盘，主力合约多数上涨。涨幅方面，苯乙烯、乙二醇、纯苯涨超2%，沥青、瓶片、对二甲苯、短纤、甲醇等涨超1%；跌幅方面，菜粕跌超1%，烧碱、玻璃、沪金、纯碱、棉纱等小幅下跌。",
+        "publishedAt": "2026-10-20 21:00:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610203901536064.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "小鹏汇天陆地航母飞行器交付阿联酋 将进入沙盒试运行",
         "summary": "【小鹏汇天陆地航母飞行器交付阿联酋 将进入沙盒试运行】记者获悉，10月20日，阿联酋联邦拉斯海玛酋长国酋长率团到访小鹏汇天飞行汽车量产工厂，为首架投入阿联酋先进低空飞行监管示范区的陆地航母飞行器（X3-F）下线揭幕，现场接收该架试验用机。据悉，首批试验用机交付阿联酋后，将在阿联酋民航局监管下开展沙盒试运行。",
         "publishedAt": "2026-10-20 20:34:40",
@@ -81744,6 +81759,22 @@
         "noticeType": "重大合同"
       },
       {
+        "title": "美国股指期货走低 AI相关忧虑重返市场",
+        "summary": "【美国股指期货走低 AI相关忧虑重返市场】AI交易的反弹势头受挫。韩国一家数据中心公司上市表现惨淡，再度引发市场对AI支出热潮能否持续的担忧，美国股指期货走低。投资者目前正等待大型AI支出企业公布业绩，以寻找巨额投入还能持续多久、未来将以多快速度增长的线索。",
+        "publishedAt": "2026-10-20 20:52:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610203901534095.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "特斯拉与保加利亚企业将斥资超3.5亿欧元开发多个储能项目",
         "summary": "【特斯拉与保加利亚企业将斥资超3.5亿欧元开发多个储能项目】保加利亚政府10月20日发布声明称，保加利亚企业与特斯拉将合作开发三个储能项目，总容量超2300兆瓦时，投资总额逾3.5亿欧元。其中首个电池储能设施Tvarditsa预计将于2027年二季度投运。该项目将建设一套基于特斯拉Megapack 2XL技术的电力储能系统，容量达300兆瓦时。",
         "publishedAt": "2026-10-20 20:31:14",
@@ -81756,22 +81787,6 @@
           "新能源",
           "汽车链",
           "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "盈新发展：全资子公司拟公开挂牌增资扩股引入投资者",
-        "summary": "【盈新发展：全资子公司拟公开挂牌增资扩股引入投资者】盈新发展(000620)10月20日公告，公司全资子公司长沙铜官窑国风乐园文化旅游有限公司（简称“长沙铜官窑”）拟通过北京产权交易所以公开挂牌方式增资扩股引入投资者。公司放弃对此次增资的优先认缴出资权。如增资扩股顺利实施，交易完成后，长沙铜官窑将不再纳入公司合并报表范围。",
-        "publishedAt": "2026-10-20 20:04:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610203901496311.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "有色稀土"
         ],
         "tickers": [],
         "importance": 1,
@@ -81805,20 +81820,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月19日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月19日iShares白银持仓-每日更新(吨)；公布 15478.67，预期 nan，前值 15508.16。",
-        "publishedAt": "2026-10-20 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -82044,15 +82045,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-20 20:50:36",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 有色稀土、汽车链、能源。",
+        "generatedAt": "2026-10-20 21:03:03",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：自动化设备、消费电子、机器人概念；首看 自动化设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、汽车链、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -82083,7 +82084,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-20 20:49:33",
+        "generatedAt": "2026-10-20 21:02:04",
         "summary": "上午情绪分 88，涨停 54 家，跌停 6 家，炸板 29 家，连板 14 家，最高 4 板。",
         "sections": [
           {
@@ -82122,7 +82123,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-20 20:49:33",
+        "generatedAt": "2026-10-20 21:02:04",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
