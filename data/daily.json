@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-21",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-21 16:53:12",
+    "generatedAt": "2026-10-21 21:15:30",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -85783,7 +85783,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -85946,316 +85947,301 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-21",
-    "generatedAt": "2026-10-21 16:53:51",
+    "generatedAt": "2026-10-21 21:16:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 8 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 2,
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "汽车链",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "中公教育:关于股东部分股份将被司法拍卖的提示性公告",
-        "summary": "中公教育(002607)：中公教育:关于股东部分股份将被司法拍卖的提示性公告",
+        "title": "汉威科技:关于股票交易异常波动的公告",
+        "summary": "汉威科技(300007)：汉威科技:关于股票交易异常波动的公告",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002607/AN202610201830726363.html",
+        "url": "https://data.eastmoney.com/notices/detail/300007/AN202610211830767121.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "中公教育(002607)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告",
-        "summary": "江顺科技(001400)：江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001400/AN202610201830726357.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "江顺科技(001400)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "安阳钢铁:安阳钢铁股份有限公司与华泰联合证券有限责任公司关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
-        "summary": "安阳钢铁(600569)：安阳钢铁:安阳钢铁股份有限公司与华泰联合证券有限责任公司关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726313.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "安阳钢铁(600569)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "安阳钢铁:众华会计师事务所(特殊普通合伙)关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
-        "summary": "安阳钢铁(600569)：安阳钢铁:众华会计师事务所(特殊普通合伙)关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726312.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "安阳钢铁(600569)"
-        ],
-        "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
-      },
-      {
-        "title": "安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "安阳钢铁(600569)：安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726307.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "安阳钢铁(600569)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "新经典:股票交易异常波动公告",
-        "summary": "新经典(603096)：新经典:股票交易异常波动公告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603096/AN202610201830725895.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新经典(603096)"
+          "汉威科技(300007)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "*ST网达:关于股份回购实施结果暨股份变动的公告",
-        "summary": "*ST网达(603189)：*ST网达:关于股份回购实施结果暨股份变动的公告",
+        "title": "飞利信:关于公司控股股东杨振华先生股份解除冻结的公告",
+        "summary": "飞利信(300287)：飞利信:关于公司控股股东杨振华先生股份解除冻结的公告",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603189/AN202610201830725854.html",
+        "url": "https://data.eastmoney.com/notices/detail/300287/AN202610211830758754.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "飞利信(300287)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "永福股份:关于诉讼事项进展暨收到款项的公告",
+        "summary": "永福股份(300712)：永福股份:关于诉讼事项进展暨收到款项的公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300712/AN202610211830768062.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "永福股份(300712)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "关于对南威软件股份有限公司及有关责任人予以监管警示的决定",
+        "summary": "南威软件(603636)：关于对南威软件股份有限公司及有关责任人予以监管警示的决定",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603636/AN202610211830767325.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "南威软件(603636)"
+        ],
+        "importance": 1,
+        "noticeType": "上交所股票监管关注"
+      },
+      {
+        "title": "莫森泰克:股票交易异常波动公告",
+        "summary": "莫森泰克(920162)：莫森泰克:股票交易异常波动公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920162/AN202610211830767266.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "莫森泰克(920162)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "国内商品期货夜盘开盘 主力合约多数下跌",
+        "summary": "【国内商品期货夜盘开盘 主力合约多数下跌】国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，燃油跌超2%，塑料、LPG、低硫燃油、玻璃、烧碱跌超1%；涨幅方面，沪镍、不锈钢涨超1%，胶版纸、PVC、20号胶、苯乙烯、沪锌等小幅上涨。",
+        "publishedAt": "2026-10-21 21:00:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902874446.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "《电动汽车动力蓄电池在役检测试验方法》国标发布",
+        "summary": "【《电动汽车动力蓄电池在役检测试验方法》国标发布】记者今天（21日）了解到，市场监管总局近日发布国家标准《电动汽车动力蓄电池在役检测试验方法》，自2027年3月1日正式实施。",
+        "publishedAt": "2026-10-21 20:56:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902872123.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "新能源",
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "跌破举牌价后段永平谈泡泡玛特：还会再买一些 对错过几年就知道了",
+        "summary": "【跌破举牌价后段永平谈泡泡玛特：还会再买一些 对错过几年就知道了】泡泡玛特股价连续下跌之际，持有公司大量股份的知名投资人段永平再次表态，引发市场关注。10月21日，有网友就泡泡玛特投资相关问题询问段永平，段永平回应：我应该还会再买一些，但不会超过公司的10%。",
+        "publishedAt": "2026-10-21 20:44:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902870649.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "渤海租赁:长城证券股份有限公司关于渤海租赁股份有限公司面向合格投资者公开发行公司债券临时受托管理事务报告",
+        "summary": "渤海租赁(000415)：渤海租赁:长城证券股份有限公司关于渤海租赁股份有限公司面向合格投资者公开发行公司债券临时受托管理事务报告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000415/AN202610211830768523.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "*ST网达(603189)"
+          "渤海租赁(000415)"
         ],
         "importance": 1,
-        "noticeType": "股本变动"
+        "noticeType": "其他"
       },
       {
-        "title": "首都在线:关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函的回复(修订稿)",
-        "summary": "首都在线(300846)：首都在线:关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函的回复(修订稿)",
+        "title": "TCL科技:TCL科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(数字经济)(第三期)票面利率公告",
+        "summary": "TCL科技(000100)：TCL科技:TCL科技集团股份有限公司2026年面向专业投资者公开发行科技创新公司债券(数字经济)(第三期)票面利率公告",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300846/AN202610201830725804.html",
+        "url": "https://data.eastmoney.com/notices/detail/000100/AN202610211830768141.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "首都在线(300846)"
+          "TCL科技(000100)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "其他"
       },
       {
-        "title": "首都在线:大华会计师事务所(特殊普通合伙)对深圳证券交易所《关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函》的回复(修订稿)",
-        "summary": "首都在线(300846)：首都在线:大华会计师事务所(特殊普通合伙)对深圳证券交易所《关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函》的回复(修订稿)",
+        "title": "美盈森:2026年10月21日投资者关系活动记录表",
+        "summary": "美盈森(002303)：美盈森:2026年10月21日投资者关系活动记录表",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300846/AN202610201830725799.html",
+        "url": "https://data.eastmoney.com/notices/detail/002303/AN202610211830767188.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美盈森(002303)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "双英集团:关于使用闲置募集资金进行现金管理的公告",
+        "summary": "双英集团(920059)：双英集团:关于使用闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920059/AN202610211830767250.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "双英集团(920059)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "双英集团:国金证券股份有限公司关于广西双英集团股份有限公司使用募集资金置换预先已投入募集资金投资项目及已支付发行费用的自筹资金的核查意见",
+        "summary": "双英集团(920059)：双英集团:国金证券股份有限公司关于广西双英集团股份有限公司使用募集资金置换预先已投入募集资金投资项目及已支付发行费用的自筹资金的核查意见",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920059/AN202610211830767265.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "首都在线(300846)"
+          "双英集团(920059)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "首都在线:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "首都在线(300846)：首都在线:关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "title": "双英集团:关于使用募集资金置换预先已投入募集资金投资项目及已支付发行费用的自筹资金的公告",
+        "summary": "双英集团(920059)：双英集团:关于使用募集资金置换预先已投入募集资金投资项目及已支付发行费用的自筹资金的公告",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300846/AN202610201830725801.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "首都在线(300846)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "世名科技:苏州世名科技股份有限公司关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "世名科技(300522)：世名科技:苏州世名科技股份有限公司关于向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300522/AN202610201830725792.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "世名科技(300522)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "国家矿山安全监察局：“十五五”期间将推进全面修订矿山安全法",
-        "summary": "【国家矿山安全监察局：“十五五”期间将推进全面修订矿山安全法】国家矿山安全监察局有关负责人介绍，“十五五”期间，将推进全面修订矿山安全法，加大矿山安全行业标准（KA）立改废力度，制修订矿山安全生产急需标准，完善监管监察执法机制，严格规范涉矿行政检查执法，夯实矿山安全法治根基。",
-        "publishedAt": "2026-10-21 16:33:32",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610213902670024.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "长缆科技:关于公司董事长增持公司股份计划实施进展暨增持时间过半的公告",
-        "summary": "长缆科技(002879)：长缆科技:关于公司董事长增持公司股份计划实施进展暨增持时间过半的公告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002879/AN202610201830726350.html",
+        "url": "https://data.eastmoney.com/notices/detail/920059/AN202610211830767268.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "长缆科技(002879)"
+          "双英集团(920059)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
+        "noticeType": "募集资金使用情况报告"
       },
       {
-        "title": "华锐精密：预计前三季度归母净利润同比增长118.27%-147.37%",
-        "summary": "【华锐精密：预计前三季度归母净利润同比增长118.27%-147.37%】华锐精密10月21日公告，预计前三季度归母净利润3亿元-3.4亿元，同比增长118.27%-147.37%。该公司称，报告期内，在主要原材料碳化钨价格高位运行的背景下，公司积极应对，采取涨价措施，前三季度产品整体销售价格有所提升，带动营收规模及产品整体毛利率均有所提升。",
-        "publishedAt": "2026-10-21 16:49:46",
+        "title": "双英集团:关于部分募投项目变更实施地点的公告",
+        "summary": "双英集团(920059)：双英集团:关于部分募投项目变更实施地点的公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920059/AN202610211830767263.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "双英集团(920059)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "上海谊众：创新药YXC-001完成Ⅰ期临床试验首个剂量组首次给药",
+        "summary": "【上海谊众：创新药YXC-001完成Ⅰ期临床试验首个剂量组首次给药】上海谊众(688091.SH)公告称，公司全资子公司佑希创的自研创新药YXC-001(三功能抗体融合蛋白)已于近日完成Ⅰ期临床试验首个剂量组(0.5mg/kg)的首次给药，安全性良好。该药为治疗用生物制品1类新药，适应症为晚期实体瘤，通过整合PD-1抗体、抗VEGF抗体与低毒性IL-2，有…",
+        "publishedAt": "2026-10-21 20:45:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610213902679539.html",
+        "url": "https://finance.eastmoney.com/a/202610213902868432.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "有色稀土"
+          "医药"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "印尼减产预期推动镍价突破每吨16,000美元",
-        "summary": "【印尼减产预期推动镍价突破每吨16,000美元】伦敦金属交易所镍价一度上涨2.7%，突破每吨16,000美元，延续了自上周四触及九个月低点以来的涨势。大型镍生产商的高管正在考虑削减印尼业务的产量，其中包括生产电池关键原料的工厂。相关企业今年8月曾尝试就减产达成一致，但未能成功。",
-        "publishedAt": "2026-10-21 16:46:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610213902678034.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "淡马锡和GIC否认印尼前贸易部长的指控 与MSCI引发股市暴跌撇清关系",
-        "summary": "【淡马锡和GIC否认印尼前贸易部长的指控 与MSCI引发股市暴跌撇清关系】针对印尼前贸易部长指控新加坡两大国有投资者有份引发印尼近期股市暴跌，淡马锡和新加坡政府投资公司(GIC)予以了否认。",
-        "publishedAt": "2026-10-21 16:33:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610213902669620.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "大摩：维持中国移动“大市同步”评级 目标价80港元",
-        "summary": "【大摩：维持中国移动“大市同步”评级 目标价80港元】摩根士丹利发布研报称，维持中国移动“大市同步”评级，H股目标价维持80港元。该行指出，中国移动第三季业绩表现对该行投资憧憬影响不变，不过相对市场预期则轻微低于预期，并预期未来12个月市场对其每股盈利预测会轻微下调。",
-        "publishedAt": "2026-10-21 16:32:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610213902668856.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -86270,6 +86256,22 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月16日当周API原油库存变动(万桶)",
+        "summary": "美国截至10月16日当周API原油库存变动(万桶)；公布 -493.1，预期 -110.7，前值 -1112.3。",
+        "publishedAt": "2026-10-21 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -86425,15 +86427,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-21 16:53:51",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-21 21:16:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 8 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：养殖业、IT服务；首看 养殖业 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -86464,7 +86466,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-21 16:53:12",
+        "generatedAt": "2026-10-21 21:15:30",
         "summary": "上午情绪分 89，涨停 50 家，跌停 5 家，炸板 19 家，连板 16 家，最高 4 板。",
         "sections": [
           {
@@ -86503,7 +86505,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-21 16:53:12",
+        "generatedAt": "2026-10-21 21:15:30",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -86529,7 +86531,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：中公教育:关于股东部分股份将被司法拍卖的提示性公告；江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告。",
+              "新闻/公告风险：汉威科技:关于股票交易异常波动的公告；飞利信:关于公司控股股东杨振华先生股份解除冻结的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
