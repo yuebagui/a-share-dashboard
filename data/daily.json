@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-21",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-21 16:47:18",
+    "generatedAt": "2026-10-21 16:53:12",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -81250,14 +81250,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-21",
-    "generatedAt": "2026-10-21 16:47:59",
+    "generatedAt": "2026-10-21 16:53:51",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -81266,27 +81271,93 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 4,
+        "name": "新能源",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 4,
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "中公教育:关于股东部分股份将被司法拍卖的提示性公告",
+        "summary": "中公教育(002607)：中公教育:关于股东部分股份将被司法拍卖的提示性公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002607/AN202610201830726363.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "中公教育(002607)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告",
+        "summary": "江顺科技(001400)：江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001400/AN202610201830726357.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "江顺科技(001400)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "安阳钢铁:安阳钢铁股份有限公司与华泰联合证券有限责任公司关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "summary": "安阳钢铁(600569)：安阳钢铁:安阳钢铁股份有限公司与华泰联合证券有限责任公司关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726313.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "安阳钢铁(600569)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "安阳钢铁:众华会计师事务所(特殊普通合伙)关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "summary": "安阳钢铁(600569)：安阳钢铁:众华会计师事务所(特殊普通合伙)关于安阳钢铁股份有限公司向特定对象发行股票申请文件的审核问询函的回复报告",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726312.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "安阳钢铁(600569)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
       {
         "title": "安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
         "summary": "安阳钢铁(600569)：安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
@@ -81404,70 +81475,6 @@
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "世名科技:关于苏州世名科技股份有限公司申请向特定对象发行股票的审核问询函之回复(豁免版)",
-        "summary": "世名科技(300522)：世名科技:关于苏州世名科技股份有限公司申请向特定对象发行股票的审核问询函之回复(豁免版)",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300522/AN202610201830725789.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "世名科技(300522)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "世名科技:立信会计师事务所(特殊普通合伙)关于苏州世名科技股份有限公司申请向特定对象发行股票的审核问询函的回复",
-        "summary": "世名科技(300522)：世名科技:立信会计师事务所(特殊普通合伙)关于苏州世名科技股份有限公司申请向特定对象发行股票的审核问询函的回复",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300522/AN202610201830725788.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "世名科技(300522)"
-        ],
-        "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
-      },
-      {
-        "title": "长春一东:长春一东股票交易风险提示公告",
-        "summary": "长春一东(600148)：长春一东:长春一东股票交易风险提示公告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600148/AN202610201830725786.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "长春一东(600148)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "奥士康:奥士康科技股份有限公司全面风险管理制度(草案)(H股发行并上市后适用)",
-        "summary": "奥士康(002913)：奥士康:奥士康科技股份有限公司全面风险管理制度(草案)(H股发行并上市后适用)",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002913/AN202610201830725721.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "奥士康(002913)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
         "title": "国家矿山安全监察局：“十五五”期间将推进全面修订矿山安全法",
         "summary": "【国家矿山安全监察局：“十五五”期间将推进全面修订矿山安全法】国家矿山安全监察局有关负责人介绍，“十五五”期间，将推进全面修订矿山安全法，加大矿山安全行业标准（KA）立改废力度，制修订矿山安全生产急需标准，完善监管监察执法机制，严格规范涉矿行政检查执法，夯实矿山安全法治根基。",
         "publishedAt": "2026-10-21 16:33:32",
@@ -81482,20 +81489,52 @@
         "noticeType": ""
       },
       {
-        "title": "奥士康:奥士康科技股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
-        "summary": "奥士康(002913)：奥士康:奥士康科技股份有限公司投资者关系管理制度(草案)(H股发行并上市后适用)",
+        "title": "长缆科技:关于公司董事长增持公司股份计划实施进展暨增持时间过半的公告",
+        "summary": "长缆科技(002879)：长缆科技:关于公司董事长增持公司股份计划实施进展暨增持时间过半的公告",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002913/AN202610201830725746.html",
+        "url": "https://data.eastmoney.com/notices/detail/002879/AN202610201830726350.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "奥士康(002913)"
+          "长缆科技(002879)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "华锐精密：预计前三季度归母净利润同比增长118.27%-147.37%",
+        "summary": "【华锐精密：预计前三季度归母净利润同比增长118.27%-147.37%】华锐精密10月21日公告，预计前三季度归母净利润3亿元-3.4亿元，同比增长118.27%-147.37%。该公司称，报告期内，在主要原材料碳化钨价格高位运行的背景下，公司积极应对，采取涨价措施，前三季度产品整体销售价格有所提升，带动营收规模及产品整体毛利率均有所提升。",
+        "publishedAt": "2026-10-21 16:49:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902679539.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "印尼减产预期推动镍价突破每吨16,000美元",
+        "summary": "【印尼减产预期推动镍价突破每吨16,000美元】伦敦金属交易所镍价一度上涨2.7%，突破每吨16,000美元，延续了自上周四触及九个月低点以来的涨势。大型镍生产商的高管正在考虑削减印尼业务的产量，其中包括生产电池关键原料的工厂。相关企业今年8月曾尝试就减产达成一致，但未能成功。",
+        "publishedAt": "2026-10-21 16:46:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902678034.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "新能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "淡马锡和GIC否认印尼前贸易部长的指控 与MSCI引发股市暴跌撇清关系",
@@ -81535,38 +81574,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月16日当周API原油库存变动(万桶)",
-        "summary": "美国截至10月16日当周API原油库存变动(万桶)；公布 -493.1，预期 -110.7，前值 -1112.3。",
-        "publishedAt": "2026-10-21 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月20日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月20日iShares黄金持仓-每日更新(吨)；公布 463.81，预期 nan，前值 462.93。",
-        "publishedAt": "2026-10-21 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -81722,15 +81729,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-21 16:47:59",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-10-21 16:53:51",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 12 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：养殖业、IT服务；首看 养殖业 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -81761,7 +81768,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-21 16:47:18",
+        "generatedAt": "2026-10-21 16:53:12",
         "summary": "上午情绪分 89，涨停 50 家，跌停 5 家，炸板 19 家，连板 16 家，最高 4 板。",
         "sections": [
           {
@@ -81800,7 +81807,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-21 16:47:18",
+        "generatedAt": "2026-10-21 16:53:12",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -81826,7 +81833,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告；新经典:股票交易异常波动公告。",
+              "新闻/公告风险：中公教育:关于股东部分股份将被司法拍卖的提示性公告；江顺科技:江苏江顺精密科技集团股份有限公司关于股东部分股份解除质押及再质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
