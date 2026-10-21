@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-21",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-21 01:59:55",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-21 01:59:55",
+    "lastNewsAt": "2026-10-21 13:10:57"
   },
   "indices": [
     {
@@ -81489,19 +81491,29 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-21",
-    "generatedAt": "2026-10-21 02:00:43",
+    "generatedAt": "2026-10-21 13:10:57",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、有色稀土、金融。",
     "themes": [
       {
+        "name": "AI算力",
+        "score": 11,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
-        "score": 13,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 11,
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -81510,7 +81522,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
@@ -81599,88 +81611,98 @@
         "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "summary": "安阳钢铁(600569)：安阳钢铁:安阳钢铁股份有限公司关于向特定对象发行A股股票审核问询函回复及募集说明书等申请文件更新的提示性公告",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600569/AN202610201830726307.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "瞄准IPO筹备企业炮制负面文章 上海警方捣毁一网络舆情敲诈团伙",
+        "summary": "【瞄准IPO筹备企业炮制负面文章 上海警方捣毁一网络舆情敲诈团伙】一篇篇看似专业客观的企业深度分析、行业评估推文，实则瞄准处于IPO筹备阶段的企业，利用公开财报刻意渲染负面风险，以制造负面舆情施压为手段，通过收取合作费用掩盖敲诈目的。近日，闵行警方成功捣毁一个网络舆情敲诈犯罪团伙，抓获以杨某为首的10名嫌疑人，涉案金额逾1100万元。",
+        "publishedAt": "2026-10-21 13:00:06",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902472979.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "安阳钢铁(600569)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": ""
       },
       {
-        "title": "新经典:股票交易异常波动公告",
-        "summary": "新经典(603096)：新经典:股票交易异常波动公告",
+        "title": "尚太科技:001301尚太科技投资者关系管理信息20261021",
+        "summary": "尚太科技(001301)：尚太科技:001301尚太科技投资者关系管理信息20261021",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603096/AN202610201830725895.html",
+        "url": "https://data.eastmoney.com/notices/detail/001301/AN202610211830737834.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "新经典(603096)"
+          "尚太科技(001301)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST网达:关于股份回购实施结果暨股份变动的公告",
-        "summary": "*ST网达(603189)：*ST网达:关于股份回购实施结果暨股份变动的公告",
+        "title": "宁德时代:2026年10月20日投资者关系活动记录表",
+        "summary": "宁德时代(300750)：宁德时代:2026年10月20日投资者关系活动记录表",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603189/AN202610201830725854.html",
+        "url": "https://data.eastmoney.com/notices/detail/300750/AN202610211830737835.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "*ST网达(603189)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "首都在线:关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函的回复(修订稿)",
-        "summary": "首都在线(300846)：首都在线:关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函的回复(修订稿)",
-        "publishedAt": "2026-10-21",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300846/AN202610201830725804.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "首都在线(300846)"
+          "宁德时代(300750)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "首都在线:大华会计师事务所(特殊普通合伙)对深圳证券交易所《关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函》的回复(修订稿)",
-        "summary": "首都在线(300846)：首都在线:大华会计师事务所(特殊普通合伙)对深圳证券交易所《关于北京首都在线科技股份有限公司申请向特定对象发行股票的审核问询函》的回复(修订稿)",
+        "title": "民生健康:投资者关系活动记录表2026-006",
+        "summary": "民生健康(301507)：民生健康:投资者关系活动记录表2026-006",
         "publishedAt": "2026-10-21",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300846/AN202610201830725799.html",
+        "url": "https://data.eastmoney.com/notices/detail/301507/AN202610211830737595.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "首都在线(300846)"
+          "民生健康(301507)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "图南股份:2026年10月20日投资者关系活动记录表",
+        "summary": "图南股份(300855)：图南股份:2026年10月20日投资者关系活动记录表",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300855/AN202610211830737594.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "图南股份(300855)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "三夫户外:2026-008:2026年10月20日投资者关系活动记录表",
+        "summary": "三夫户外(002780)：三夫户外:2026-008:2026年10月20日投资者关系活动记录表",
+        "publishedAt": "2026-10-21",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002780/AN202610211830734476.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三夫户外(002780)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "易普力:002096易普力投资者关系管理信息20261021",
@@ -81715,11 +81737,56 @@
         "noticeType": "股东/实际控制人股份增持"
       },
       {
-        "title": "美联储周三隔夜逆回购协议（RRP）使用规模为2.27亿美元",
-        "summary": "美联储周三隔夜逆回购协议（RRP）使用规模为2.27亿美元。",
-        "publishedAt": "2026-10-21 01:16:17",
+        "title": "中国科学技术协会名誉主席万钢：预期2030年L3级自动驾驶渗透率将超过35%",
+        "summary": "【中国科学技术协会名誉主席万钢：预期2030年L3级自动驾驶渗透率将超过35%】10月21日，中国科学技术协会名誉主席万钢在2026世界智能网联汽车大会开幕式上表示，随着新型传感器件和系统等成本下探及AI大模型技术加速赋能，2026年上半年我国具备L2级辅助驾驶功能的乘用车新车渗透率已突破70%，预计2030年将达到95%以上。",
+        "publishedAt": "2026-10-21 13:00:48",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610213901738353.html",
+        "url": "https://finance.eastmoney.com/a/202610213902475053.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力",
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "这一行业爆单 订单排到2029年底！“下单意愿非常强烈”",
+        "summary": "【这一行业爆单 订单排到2029年底！“下单意愿非常强烈”】工信部10月20日公布的最新数据显示，今年前三季度，全国造船完工量同比增长50.7%。“今年以来，供需关系、地缘格局、政策变化等多重因素，共同驱动船舶行业发展。新造船市场表现强劲，上半年全球新船订单规模创下历史同期最高水平，新船价格保持高位运行，预计中长期造船需求持续向好。”业内人士接受采访时说。",
+        "publishedAt": "2026-10-21 12:52:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902467461.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "深圳楼面价屡破10万/㎡ 有二手房业主加价150万",
+        "summary": "【深圳楼面价屡破10万/㎡ 有二手房业主加价150万】深圳二手房市场，涨价与降价正在同时发生。同一个小区，有业主在“金九”到来之际，将报价上调了150万元；也有业主在挂牌两年后，把价签从2300万元改成2000万元。买家端的分化同样明显，有人还在观望，担心买了还会跌，也有人愿意加价100万元求购特殊户型。",
+        "publishedAt": "2026-10-21 12:50:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902461148.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "信达投资跃升浦发银行第四大股东 股权“踩点”归集为哪般？",
+        "summary": "【信达投资跃升浦发银行第四大股东 股权“踩点”归集为哪般？】浦发银行大股东格局再有变动。近日，信达投资有限公司发布重大资产重组公告称，已于10月16日完成收购母公司持有的浦发银行股票3.48亿股，持股比例升至4.99%。此番操作之后，信达投资跃升为浦发银行第四大股东。",
+        "publishedAt": "2026-10-21 12:45:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610213902471872.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -81731,79 +81798,17 @@
         "noticeType": ""
       },
       {
-        "title": "黑石集团、华平投资联手摩根士丹利推进Intrafi公司出售事宜",
-        "summary": "消息人士称，一项出售交易可能使IntraFi的估值超过100亿美元，黑石集团、华平投资联手摩根士丹利推进IntraFi公司出售事宜。",
-        "publishedAt": "2026-10-21 00:33:12",
+        "title": "成都市教育局回应“取消中考”建议：完全取消尚不具备条件",
+        "summary": "【成都市教育局回应“取消中考”建议：完全取消尚不具备条件】成都市教育局在“问政四川”上答复称，当前中考是高中阶段招生分配学位的基本制度，完全取消尚不具备条件。成都市正通过扩大优质高中指标到校比例、推进普职融通和综合高中试点、畅通职教高考升学通道，逐步弱化一次考试的影响。针对补课负担和学生熬夜问题，将持续落实“双减”政策、规范校外培训，并督促学校落实作业和作…",
+        "publishedAt": "2026-10-21 12:43:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610213901729048.html",
+        "url": "https://finance.eastmoney.com/a/202610213902472064.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月16日当周API汽油库存变动(万桶)",
-        "summary": "美国截至10月16日当周API汽油库存变动(万桶)；公布 nan，预期 -68.7，前值 109.1。",
-        "publishedAt": "2026-10-21 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至10月16日当周API原油库存变动(万桶)",
-        "summary": "美国截至10月16日当周API原油库存变动(万桶)；公布 nan，预期 -110.7，前值 -1112.3。",
-        "publishedAt": "2026-10-21 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月20日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月20日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 462.93。",
-        "publishedAt": "2026-10-21 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月19日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月19日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 234096.69。",
-        "publishedAt": "2026-10-21 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -82014,7 +82019,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "修复",
     "positionRule": {
@@ -82027,15 +82032,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-21 02:00:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 10 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-21 13:10:57",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：自动化设备、消费电子、机器人概念；首看 自动化设备 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
