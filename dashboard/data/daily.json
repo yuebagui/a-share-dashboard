@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-22",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-22 02:04:47",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-22 02:04:47",
+    "lastNewsAt": "2026-10-22 13:14:19"
   },
   "indices": [
     {
@@ -85947,38 +85949,48 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-22",
-    "generatedAt": "2026-10-22 02:05:19",
+    "generatedAt": "2026-10-22 13:14:19",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 有色稀土、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 5 条；主题映射集中在 有色稀土、AI算力、机器人。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 8,
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "金融",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
@@ -86067,85 +86079,6 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "南威软件:股票交易风险提示公告",
-        "summary": "南威软件(603636)：南威软件:股票交易风险提示公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603636/AN202610211830768137.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "南威软件(603636)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "美年健康:关于公司实际控制人的一致行动人权益变动触及1%刻度暨减持股份计划实施完成的公告",
-        "summary": "美年健康(002044)：美年健康:关于公司实际控制人的一致行动人权益变动触及1%刻度暨减持股份计划实施完成的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002044/AN202610211830768000.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "美年健康(002044)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "美国对伊朗实施新一轮制裁",
-        "summary": "【美国对伊朗实施新一轮制裁】美国财政部网站显示，美国对伊朗实施新一轮制裁。美国财政部发布声明表示，作为“经济孤立行动”的一部分，美国财政部对总部位于巴拿马和希腊的律师事务所实施制裁。声明称，该律所多年来一直支持伊朗的非法航运活动，间接帮助德黑兰获取收入，“为伊朗的军事、武器及核计划提供资金”。声明指出，美国财政部当日还制裁了总部位于新加坡和阿拉伯联合酋长国…",
-        "publishedAt": "2026-10-22 01:44:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223903049639.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "SpaceX债券下跌 市场担忧其进一步举债令信用风险指标恶化",
-        "summary": "【SpaceX债券下跌 市场担忧其进一步举债令信用风险指标恶化】SpaceX债券周三下跌，此前该公司公布的业绩超出分析师预期，但同时表示正大举投资，暗示未来可能进一步举债。这家航空航天和人工智能(AI)公司的风险溢价上升，其信用衍生品利差本周早些时候就已扩大。截至纽约时间下午12:35，SpaceX2046年到期、票息6.6%的债券利差扩大0.09个百分点…",
-        "publishedAt": "2026-10-22 01:37:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223903049443.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "军工"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国参议员指责谷歌AI对儿童构成认知风险",
-        "summary": "美国参议员指责谷歌AI对儿童构成认知风险。",
-        "publishedAt": "2026-10-22 00:36:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223903043050.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "河钢资源:2026年10月21日投资者关系活动记录表",
         "summary": "河钢资源(000923)：河钢资源:2026年10月21日投资者关系活动记录表",
         "publishedAt": "2026-10-22",
@@ -86157,6 +86090,38 @@
         "themes": [],
         "tickers": [
           "河钢资源(000923)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "杰瑞股份:002353杰瑞股份投资者关系管理信息20261022",
+        "summary": "杰瑞股份(002353)：杰瑞股份:002353杰瑞股份投资者关系管理信息20261022",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002353/AN202610221830778201.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "杰瑞股份(002353)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300765石药创新投资者关系管理信息20261021",
+        "summary": "石药创新(300765)：300765石药创新投资者关系管理信息20261021",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300765/AN202610221830778097.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "石药创新(300765)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -86226,24 +86191,8 @@
         "noticeType": "重大合同"
       },
       {
-        "title": "美联储周三隔夜逆回购协议（RRP）使用规模为2.37亿美元",
-        "summary": "美联储周三隔夜逆回购协议（RRP）使用规模为2.37亿美元。",
-        "publishedAt": "2026-10-22 01:17:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223903048417.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "新西兰第三季度CPI年率(%)",
-        "summary": "新西兰第三季度CPI年率(%)；公布 nan，预期 nan，前值 4.1。",
+        "summary": "新西兰第三季度CPI年率(%)；公布 3.7，预期 nan，前值 4.1。",
         "publishedAt": "2026-10-22 05:45",
         "source": "百度财经日历",
         "url": "",
@@ -86257,7 +86206,7 @@
       },
       {
         "title": "美国10月21日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月21日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 463.81。",
+        "summary": "美国10月21日iShares黄金持仓-每日更新(吨)；公布 463.81，预期 nan，前值 463.81。",
         "publishedAt": "2026-10-22 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -86266,6 +86215,68 @@
         "impact": "宏观关注",
         "themes": [
           "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月21日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月21日SPDR黄金持仓-每日更新(吨)；公布 1057.62，预期 nan，前值 1060.18。",
+        "publishedAt": "2026-10-22 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月20日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月20日COMEX黄金库存-每日更新(百盎司)；公布 234043.81，预期 nan，前值 234259.05。",
+        "publishedAt": "2026-10-22 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月21日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月21日iShares白银持仓-每日更新(吨)；公布 15485.69，预期 nan，前值 15505.35。",
+        "publishedAt": "2026-10-22 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国10月22日上期所每日仓单变动-原油(桶)",
+        "summary": "中国10月22日上期所每日仓单变动-原油(桶)；公布 nan，预期 nan，前值 0.0。",
+        "publishedAt": "2026-10-22 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
         ],
         "tickers": [],
         "importance": 2,
@@ -86409,7 +86420,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -86422,15 +86433,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-22 02:05:19",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 有色稀土、AI算力、能源。",
+        "generatedAt": "2026-10-22 13:14:19",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 5 条；主题映射集中在 有色稀土、AI算力、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：养殖业、IT服务；首看 养殖业 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
