@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-22 16:55:37",
+    "generatedAt": "2026-10-22 21:13:30",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -52401,7 +52401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -52570,11 +52571,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-22",
-    "generatedAt": "2026-10-22 16:55:57",
+    "generatedAt": "2026-10-22 21:14:07",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 18,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 14,
@@ -52582,85 +52588,48 @@
       },
       {
         "name": "能源",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
+        "name": "军工",
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "海洋王:关于股票交易异常波动公告",
-        "summary": "海洋王(002724)：海洋王:关于股票交易异常波动公告",
+        "title": "*ST仕净:关于控股股东、实际控制人部分股份流拍暨第二次司法拍卖的提示性公告",
+        "summary": "*ST仕净(301030)：*ST仕净:关于控股股东、实际控制人部分股份流拍暨第二次司法拍卖的提示性公告",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002724/AN202610211830768180.html",
+        "url": "https://data.eastmoney.com/notices/detail/301030/AN202610221830804060.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "海洋王(002724)"
+          "*ST仕净(301030)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "南威软件:股票交易风险提示公告",
-        "summary": "南威软件(603636)：南威软件:股票交易风险提示公告",
+        "title": "中航泰达:关于对北京证券交易所2026年半年度报告问询函回复的公告",
+        "summary": "中航泰达(920263)：中航泰达:关于对北京证券交易所2026年半年度报告问询函回复的公告",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603636/AN202610211830768137.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "南威软件(603636)"
-        ],
-        "importance": 1,
-        "noticeType": "其它风险提示公告"
-      },
-      {
-        "title": "美年健康:关于公司实际控制人的一致行动人权益变动触及1%刻度暨减持股份计划实施完成的公告",
-        "summary": "美年健康(002044)：美年健康:关于公司实际控制人的一致行动人权益变动触及1%刻度暨减持股份计划实施完成的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002044/AN202610211830768000.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "美年健康(002044)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "国机重装:国机重装关于最近五年不存在被证券监管部门和交易所采取监管措施或处罚及整改情况的公告",
-        "summary": "国机重装(601399)：国机重装:国机重装关于最近五年不存在被证券监管部门和交易所采取监管措施或处罚及整改情况的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601399/AN202610211830767769.html",
+        "url": "https://data.eastmoney.com/notices/detail/920263/AN202610221830803406.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -52668,137 +52637,34 @@
           "金融"
         ],
         "tickers": [
-          "国机重装(601399)"
+          "中航泰达(920263)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "国机重装:国机重装关于本次发行股票认购对象特定期间不减持公司股票的承诺的公告",
-        "summary": "国机重装(601399)：国机重装:国机重装关于本次发行股票认购对象特定期间不减持公司股票的承诺的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601399/AN202610211830767770.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "国机重装(601399)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "容百科技:关于韩国全资子公司签署《委托加工合同》暨关联交易的公告",
-        "summary": "容百科技(688005)：容百科技:关于韩国全资子公司签署《委托加工合同》暨关联交易的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688005/AN202610211830769351.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "容百科技(688005)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "南京公用:关于新能源集团拟投标中盐红四方(新疆)生态农业有限公司绿电直连项目暨对外投资的公告",
-        "summary": "南京公用(000421)：南京公用:关于新能源集团拟投标中盐红四方(新疆)生态农业有限公司绿电直连项目暨对外投资的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000421/AN202610211830767784.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "能源"
-        ],
-        "tickers": [
-          "南京公用(000421)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "国机重装:国机重装关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "国机重装(601399)：国机重装:国机重装关于本次向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601399/AN202610211830767779.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国机重装(601399)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "国机重装:国机重型装备集团股份有限公司未来三年(2026-2028年)股东分红回报规划",
-        "summary": "国机重装(601399)：国机重装:国机重型装备集团股份有限公司未来三年(2026-2028年)股东分红回报规划",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601399/AN202610211830767775.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国机重装(601399)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "格林生物:对外投资管理制度(2026年10月修订)",
-        "summary": "格林生物(301688)：格林生物:对外投资管理制度(2026年10月修订)",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301688/AN202610211830767761.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "格林生物(301688)"
-        ],
-        "importance": 1,
-        "noticeType": "管理办法/制度"
-      },
-      {
-        "title": "格林生物:投资者关系管理制度(2026年10月修订)",
-        "summary": "格林生物(301688)：格林生物:投资者关系管理制度(2026年10月修订)",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301688/AN202610211830767747.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "格林生物(301688)"
-        ],
-        "importance": 1,
-        "noticeType": "管理办法/制度"
-      },
-      {
-        "title": "苹果的现金流引擎使其成为投资者青睐的AI对冲标的",
-        "summary": "【苹果的现金流引擎使其成为投资者青睐的AI对冲标的】苹果公司股票在2026年上涨了27%，成为标普500指数上涨13%的最大贡献者。由于该公司基本上没有在AI基础设施方面进行投资，因此其股票已成为投资者继续投资大型科技公司并避免该集团部分股价波动的首选方式。",
-        "publishedAt": "2026-10-22 16:50:59",
+        "title": "上交所向大业股份下发监管工作函",
+        "summary": "【上交所向大业股份下发监管工作函】上交所向大业股份下发关于山东大业股份有限公司有关股价波动事项的监管工作函。该函涉及对象为上市公司，处理事由为关于山东大业股份有限公司有关股价波动事项的监管工作函。",
+        "publishedAt": "2026-10-22 21:03:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904152974.html",
+        "url": "https://finance.eastmoney.com/a/202610223904390015.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "Meta信用风险指标因人工智能支出计划升至新高",
+        "summary": "Meta信用风险指标因人工智能支出计划升至新高。",
+        "publishedAt": "2026-10-22 20:51:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610223904382018.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "AI算力"
         ],
@@ -52807,45 +52673,213 @@
         "noticeType": ""
       },
       {
-        "title": "星源材质：第三季度净利润同比增长972.41%",
-        "summary": "【星源材质：第三季度净利润同比增长972.41%】星源材质(300568.SZ)公告称，第三季度营业收入为18.40亿元，同比增长73.57%；归属于上市公司股东的净利润为1.50亿元，同比增长972.41%。前三季度营业收入为44.92亿元，同比增长51.85%；归属于上市公司股东的净利润为3.54亿元，同比增长209.28%。业绩增长主要是本报告期销售…",
-        "publishedAt": "2026-10-22 16:49:29",
+        "title": "土耳其主要BIST 100指数下跌2%",
+        "summary": "【土耳其主要BIST 100指数下跌2%】土耳其主要BIST100指数下跌2%，主要银行指数下跌1.8%。",
+        "publishedAt": "2026-10-22 20:50:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904152836.html",
+        "url": "https://finance.eastmoney.com/a/202610223904382112.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "ICE阿拉比卡咖啡期货下跌近4%",
+        "summary": "【ICE阿拉比卡咖啡期货下跌近4%】ICE阿拉比卡咖啡期货下跌近4%，至每磅3.0420美元。",
+        "publishedAt": "2026-10-22 20:46:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610223904378513.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "富国基金宣布自购旗下主动ETF2亿元",
-        "summary": "【富国基金宣布自购旗下主动ETF2亿元】富国基金最新公告称，基于对中国资本市场长期健康稳定发展的信心，富国基金将运用固有资金2亿元认购价值优选主动ETF富国。这也是截止目前第三家宣布自购或股东以自有资金投资的主动ETF管理人。",
-        "publishedAt": "2026-10-22 16:41:06",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904146555.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "世纪数码:关于使用部分闲置自有资金进行现金管理的进展公告",
+        "summary": "世纪数码(920229)：世纪数码:关于使用部分闲置自有资金进行现金管理的进展公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920229/AN202610221830804597.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "世纪数码(920229)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "投资理财"
       },
       {
-        "title": "宇树科技正式发布世界物理AI大赛",
-        "summary": "【宇树科技正式发布世界物理AI大赛】10月22日，2026世界物理AI大会暨宇树合作伙伴生态大会在杭州举行，宇树科技董事长、总经理兼首席技术官王兴兴在会上正式发布世界物理AI大赛。该赛事每年投入数千万元人民币奖金，面向全球团队与个人开放，设置任意移动、田径、格斗、灵巧操作、生产、体育赛事、多模态交互、康养八大赛道，旨在凝聚全球创新力量，推动物理AI技术边界…",
-        "publishedAt": "2026-10-22 16:39:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904146218.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "广发证券:广发证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行结果公告",
+        "summary": "广发证券(000776)：广发证券:广发证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行结果公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000776/AN202610221830804061.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
         ],
+        "tickers": [
+          "广发证券(000776)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "华汇智能:对外投资管理制度",
+        "summary": "华汇智能(920289)：华汇智能:对外投资管理制度",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920289/AN202610221830803846.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华汇智能(920289)"
+        ],
+        "importance": 1,
+        "noticeType": "管理办法/制度"
+      },
+      {
+        "title": "华汇智能:国泰海通证券股份有限公司关于广东华汇智能装备股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
+        "summary": "华汇智能(920289)：华汇智能:国泰海通证券股份有限公司关于广东华汇智能装备股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920289/AN202610221830803833.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "华汇智能(920289)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "华汇智能:关于调整募集资金投资项目拟投入募集资金金额的公告",
+        "summary": "华汇智能(920289)：华汇智能:关于调整募集资金投资项目拟投入募集资金金额的公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920289/AN202610221830803830.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华汇智能(920289)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "天元重工:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
+        "summary": "天元重工(920306)：天元重工:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920306/AN202610221830803666.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "天元重工(920306)"
+        ],
+        "importance": 1,
+        "noticeType": "首发发行结果公告"
+      },
+      {
+        "title": "九洲集团:投资者关系记录表（2026-005）",
+        "summary": "九洲集团(300040)：九洲集团:投资者关系记录表（2026-005）",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300040/AN202610221830803435.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "九洲集团(300040)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "唯科科技:关于使用部分闲置自有资金进行现金管理的进展公告",
+        "summary": "唯科科技(301196)：唯科科技:关于使用部分闲置自有资金进行现金管理的进展公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301196/AN202610221830803461.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "唯科科技(301196)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "英搏尔:关于召开2026年第三季度业绩说明会的公告",
+        "summary": "英搏尔(300681)：英搏尔:关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300681/AN202610221830803459.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英搏尔(300681)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "招商蛇口:招商局蛇口工业区控股股份有限公司2026年面向专业投资者公开发行公司债券(第二期)(品种二)在深圳证券交易所上市的公告",
+        "summary": "招商蛇口(001979)：招商蛇口:招商局蛇口工业区控股股份有限公司2026年面向专业投资者公开发行公司债券(第二期)(品种二)在深圳证券交易所上市的公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001979/AN202610221830803441.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "招商蛇口(001979)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "天孚通信：CPO/NPO的提产节奏近期未出现明显变化",
+        "summary": "【天孚通信：CPO/NPO的提产节奏近期未出现明显变化】天孚通信(300394.SZ)发布投资者关系活动记录表公告，公司为CPO技术路线配套的FAU、ELS等产品在性能、良率及交付保障等方面已具备较好基础，会根据客户需求持续提产。NPO相关配套产品目前处于样品阶段。CPO/NPO的提产节奏近期未出现明显变化。目前发布的相关进出口政策未对光器件产品进行约束，…",
+        "publishedAt": "2026-10-22 20:44:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610223904377271.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -52860,38 +52894,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月21日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月21日iShares黄金持仓-每日更新(吨)；公布 463.81，预期 nan，前值 463.81。",
-        "publishedAt": "2026-10-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月21日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月21日SPDR黄金持仓-每日更新(吨)；公布 1057.62，预期 nan，前值 1060.18。",
-        "publishedAt": "2026-10-22 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -53075,15 +53077,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-22 16:55:57",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-10-22 21:14:07",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -53114,7 +53116,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-22 16:55:37",
+        "generatedAt": "2026-10-22 21:13:30",
         "summary": "上午情绪分 0，涨停 33 家，跌停 49 家，炸板 23 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -53153,7 +53155,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-22 16:55:37",
+        "generatedAt": "2026-10-22 21:13:30",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -53179,7 +53181,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 49 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：海洋王:关于股票交易异常波动公告；南威软件:股票交易风险提示公告。",
+              "新闻/公告风险：*ST仕净:关于控股股东、实际控制人部分股份流拍暨第二次司法拍卖的提示性公告；中航泰达:关于对北京证券交易所2026年半年度报告问询函回复的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
