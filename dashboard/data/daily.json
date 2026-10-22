@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-22",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-22 21:13:30",
+    "generatedAt": "2026-10-22 21:39:46",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -52571,83 +52571,70 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-22",
-    "generatedAt": "2026-10-22 21:14:07",
+    "generatedAt": "2026-10-22 21:41:03",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、AI算力、半导体。",
     "themes": [
       {
-        "name": "金融",
-        "score": 18,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST仕净:关于控股股东、实际控制人部分股份流拍暨第二次司法拍卖的提示性公告",
-        "summary": "*ST仕净(301030)：*ST仕净:关于控股股东、实际控制人部分股份流拍暨第二次司法拍卖的提示性公告",
+        "title": "关于山东大业股份有限公司有关股价波动事项的监管工作函",
+        "summary": "大业股份(603278)：关于山东大业股份有限公司有关股价波动事项的监管工作函",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301030/AN202610221830804060.html",
+        "url": "https://data.eastmoney.com/notices/detail/603278/AN202610221830810029.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST仕净(301030)"
+          "大业股份(603278)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "上交所股票监管工作函"
       },
       {
-        "title": "中航泰达:关于对北京证券交易所2026年半年度报告问询函回复的公告",
-        "summary": "中航泰达(920263)：中航泰达:关于对北京证券交易所2026年半年度报告问询函回复的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920263/AN202610221830803406.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "中航泰达(920263)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "上交所向大业股份下发监管工作函",
-        "summary": "【上交所向大业股份下发监管工作函】上交所向大业股份下发关于山东大业股份有限公司有关股价波动事项的监管工作函。该函涉及对象为上市公司，处理事由为关于山东大业股份有限公司有关股价波动事项的监管工作函。",
-        "publishedAt": "2026-10-22 21:03:06",
+        "title": "Meta Platforms股价跌至一个多月以来最低点",
+        "summary": "【Meta Platforms股价跌至一个多月以来最低点】10月22日，Meta Platforms股价跌至一个多月以来最低点，第三季度业绩公布后最新下跌5%。",
+        "publishedAt": "2026-10-22 21:33:47",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904390015.html",
+        "url": "https://finance.eastmoney.com/a/202610223904443487.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -52657,15 +52644,16 @@
         "noticeType": ""
       },
       {
-        "title": "Meta信用风险指标因人工智能支出计划升至新高",
-        "summary": "Meta信用风险指标因人工智能支出计划升至新高。",
-        "publishedAt": "2026-10-22 20:51:30",
+        "title": "费城半导体指数开盘跌4% AI硬件个股普遍全线下挫",
+        "summary": "【费城半导体指数开盘跌4% AI硬件个股普遍全线下挫】费城半导体指数日内跌4%，现报11054点。英伟达股价下跌2.16%，台积电股价下跌2.89%，博通股价下跌3.31%，SK海力士股价下跌4.49%，美光科技股价下跌3.94%，超威半导体股价下跌5.56%，阿斯麦股价下跌3.07%，英特尔股价下跌6.03%，应用材料股价下跌5.85%，泛林集团股价下跌…",
+        "publishedAt": "2026-10-22 21:31:18",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904382018.html",
+        "url": "https://finance.eastmoney.com/a/202610223904423841.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
+          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -52673,216 +52661,197 @@
         "noticeType": ""
       },
       {
-        "title": "土耳其主要BIST 100指数下跌2%",
-        "summary": "【土耳其主要BIST 100指数下跌2%】土耳其主要BIST100指数下跌2%，主要银行指数下跌1.8%。",
-        "publishedAt": "2026-10-22 20:50:51",
+        "title": "纳指低开1.55% Meta跌超4%",
+        "summary": "【纳指低开1.55% Meta跌超4%】美股三大指数开盘下跌，道琼斯指数跌0.44%，标普500指数跌0.91%，纳斯达克综合指数跌1.55%。芯片设备制造商泛林集团股价低开逾9%。特斯拉削减支出计划后，股价下跌2.8%。Meta跌超4%，公司未来支出承诺总额达8250亿美元。IBM跌超4%，公司第三季度营收171亿美元，同比增长4.7%。",
+        "publishedAt": "2026-10-22 21:30:57",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904382112.html",
+        "url": "https://finance.eastmoney.com/a/202610223904422791.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "金融"
+          "半导体",
+          "汽车链"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "ICE阿拉比卡咖啡期货下跌近4%",
-        "summary": "【ICE阿拉比卡咖啡期货下跌近4%】ICE阿拉比卡咖啡期货下跌近4%，至每磅3.0420美元。",
-        "publishedAt": "2026-10-22 20:46:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904378513.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "世纪数码:关于使用部分闲置自有资金进行现金管理的进展公告",
-        "summary": "世纪数码(920229)：世纪数码:关于使用部分闲置自有资金进行现金管理的进展公告",
+        "title": "柏星龙:2026年股票期权与限制性股票激励计划授予激励对象名单(授予日)",
+        "summary": "柏星龙(920075)：柏星龙:2026年股票期权与限制性股票激励计划授予激励对象名单(授予日)",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920229/AN202610221830804597.html",
+        "url": "https://data.eastmoney.com/notices/detail/920075/AN202610221830805861.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "世纪数码(920229)"
+          "柏星龙(920075)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "股权激励对象名单"
       },
       {
-        "title": "广发证券:广发证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行结果公告",
-        "summary": "广发证券(000776)：广发证券:广发证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第一期)发行结果公告",
+        "title": "爱科科技:投资者调研活动记录表(2026年10月20日)",
+        "summary": "爱科科技(688092)：爱科科技:投资者调研活动记录表(2026年10月20日)",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000776/AN202610221830804061.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "广发证券(000776)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "华汇智能:对外投资管理制度",
-        "summary": "华汇智能(920289)：华汇智能:对外投资管理制度",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920289/AN202610221830803846.html",
+        "url": "https://data.eastmoney.com/notices/detail/688092/AN202610221830800949.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "华汇智能(920289)"
-        ],
-        "importance": 1,
-        "noticeType": "管理办法/制度"
-      },
-      {
-        "title": "华汇智能:国泰海通证券股份有限公司关于广东华汇智能装备股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
-        "summary": "华汇智能(920289)：华汇智能:国泰海通证券股份有限公司关于广东华汇智能装备股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920289/AN202610221830803833.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华汇智能(920289)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "华汇智能:关于调整募集资金投资项目拟投入募集资金金额的公告",
-        "summary": "华汇智能(920289)：华汇智能:关于调整募集资金投资项目拟投入募集资金金额的公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920289/AN202610221830803830.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华汇智能(920289)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "天元重工:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "summary": "天元重工(920306)：天元重工:向不特定合格投资者公开发行股票并在北京证券交易所上市发行结果公告",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920306/AN202610221830803666.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "天元重工(920306)"
-        ],
-        "importance": 1,
-        "noticeType": "首发发行结果公告"
-      },
-      {
-        "title": "九洲集团:投资者关系记录表（2026-005）",
-        "summary": "九洲集团(300040)：九洲集团:投资者关系记录表（2026-005）",
-        "publishedAt": "2026-10-22",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300040/AN202610221830803435.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "九洲集团(300040)"
+          "爱科科技(688092)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "唯科科技:关于使用部分闲置自有资金进行现金管理的进展公告",
-        "summary": "唯科科技(301196)：唯科科技:关于使用部分闲置自有资金进行现金管理的进展公告",
+        "title": "河钢资源:2026年10月21日投资者关系活动记录表",
+        "summary": "河钢资源(000923)：河钢资源:2026年10月21日投资者关系活动记录表",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301196/AN202610221830803461.html",
+        "url": "https://data.eastmoney.com/notices/detail/000923/AN202610221830772163.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "唯科科技(301196)"
+          "河钢资源(000923)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "调研活动"
       },
       {
-        "title": "英搏尔:关于召开2026年第三季度业绩说明会的公告",
-        "summary": "英搏尔(300681)：英搏尔:关于召开2026年第三季度业绩说明会的公告",
+        "title": "深交所并购重组审核委员会2026年第17次审议会议公告",
+        "summary": "国风新材(000859)：深交所并购重组审核委员会2026年第17次审议会议公告",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300681/AN202610221830803459.html",
+        "url": "https://data.eastmoney.com/notices/detail/000859/AN202610221830810241.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "英搏尔(300681)"
+          "国风新材(000859)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板并购重组委会议公告"
+      },
+      {
+        "title": "3-2法律意见书(上会稿)(安徽国风新材料股份有限公司)",
+        "summary": "国风新材(000859)：3-2法律意见书(上会稿)(安徽国风新材料股份有限公司)",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000859/AN202610221830810236.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国风新材(000859)"
+        ],
+        "importance": 1,
+        "noticeType": "深主板并购重组法律意见书"
+      },
+      {
+        "title": "3-1独立财务顾问报告(上会稿)(安徽国风新材料股份有限公司)",
+        "summary": "国风新材(000859)：3-1独立财务顾问报告(上会稿)(安徽国风新材料股份有限公司)",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000859/AN202610221830810237.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国风新材(000859)"
+        ],
+        "importance": 1,
+        "noticeType": "深主板并购重组独立财务顾问报告"
+      },
+      {
+        "title": "2-1重大资产重组报告书(上会稿)(安徽国风新材料股份有限公司)",
+        "summary": "国风新材(000859)：2-1重大资产重组报告书(上会稿)(安徽国风新材料股份有限公司)",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000859/AN202610221830810233.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国风新材(000859)"
+        ],
+        "importance": 1,
+        "noticeType": "深主板并购重组报告书上会稿"
+      },
+      {
+        "title": "回盛生物:2026年10月22日投资者关系活动记录表",
+        "summary": "回盛生物(300871)：回盛生物:2026年10月22日投资者关系活动记录表",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300871/AN202610221830810037.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "回盛生物(300871)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "越秀资本:广州越秀资本控股集团股份有限公司2026年面向专业投资者公开发行公司债券(第四期)票面利率公告",
+        "summary": "越秀资本(000987)：越秀资本:广州越秀资本控股集团股份有限公司2026年面向专业投资者公开发行公司债券(第四期)票面利率公告",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000987/AN202610221830810084.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "越秀资本(000987)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "招商蛇口:招商局蛇口工业区控股股份有限公司2026年面向专业投资者公开发行公司债券(第二期)(品种二)在深圳证券交易所上市的公告",
-        "summary": "招商蛇口(001979)：招商蛇口:招商局蛇口工业区控股股份有限公司2026年面向专业投资者公开发行公司债券(第二期)(品种二)在深圳证券交易所上市的公告",
+        "title": "天孚通信:2026年10月22日天孚通信投资者关系活动记录表",
+        "summary": "天孚通信(300394)：天孚通信:2026年10月22日天孚通信投资者关系活动记录表",
         "publishedAt": "2026-10-22",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001979/AN202610221830803441.html",
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610221830809722.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "招商蛇口(001979)"
+          "天孚通信(300394)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "调研活动"
       },
       {
-        "title": "天孚通信：CPO/NPO的提产节奏近期未出现明显变化",
-        "summary": "【天孚通信：CPO/NPO的提产节奏近期未出现明显变化】天孚通信(300394.SZ)发布投资者关系活动记录表公告，公司为CPO技术路线配套的FAU、ELS等产品在性能、良率及交付保障等方面已具备较好基础，会根据客户需求持续提产。NPO相关配套产品目前处于样品阶段。CPO/NPO的提产节奏近期未出现明显变化。目前发布的相关进出口政策未对光器件产品进行约束，…",
-        "publishedAt": "2026-10-22 20:44:12",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610223904377271.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "华测检测:2026年10月22日投资者关系活动记录表",
+        "summary": "华测检测(300012)：华测检测:2026年10月22日投资者关系活动记录表",
+        "publishedAt": "2026-10-22",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300012/AN202610221830809530.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "华测检测(300012)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
         "title": "新西兰第三季度CPI年率(%)",
@@ -52894,6 +52863,38 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月21日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月21日iShares黄金持仓-每日更新(吨)；公布 463.81，预期 nan，前值 463.81。",
+        "publishedAt": "2026-10-22 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月21日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月21日SPDR黄金持仓-每日更新(吨)；公布 1057.62，预期 nan，前值 1060.18。",
+        "publishedAt": "2026-10-22 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -53077,15 +53078,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-22 21:14:07",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-10-22 21:41:03",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、AI算力、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -53116,7 +53117,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-22 21:13:30",
+        "generatedAt": "2026-10-22 21:39:46",
         "summary": "上午情绪分 0，涨停 33 家，跌停 49 家，炸板 23 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -53155,7 +53156,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-22 21:13:30",
+        "generatedAt": "2026-10-22 21:39:46",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -53181,7 +53182,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 49 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST仕净:关于控股股东、实际控制人部分股份流拍暨第二次司法拍卖的提示性公告；中航泰达:关于对北京证券交易所2026年半年度报告问询函回复的公告。",
+              "新闻/公告风险：关于山东大业股份有限公司有关股价波动事项的监管工作函；Meta Platforms股价跌至一个多月以来最低点。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
