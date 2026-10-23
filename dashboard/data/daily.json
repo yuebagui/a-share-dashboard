@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-23",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-23 16:50:33",
+    "generatedAt": "2026-10-23 20:52:41",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -69102,7 +69102,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -69266,112 +69267,128 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-23",
-    "generatedAt": "2026-10-23 16:51:34",
+    "generatedAt": "2026-10-23 20:55:09",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 半导体、有色稀土、AI算力。",
     "themes": [
+      {
+        "name": "半导体",
+        "score": 10,
+        "isFocusBoard": true
+      },
       {
         "name": "有色稀土",
         "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "AI算力",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "美联新材:关于控股股东部分股份质押及解除质押的公告",
-        "summary": "美联新材(300586)：美联新材:关于控股股东部分股份质押及解除质押的公告",
+        "title": "蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告",
+        "summary": "蜂助手(301382)：蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300586/AN202610231830843573.html",
+        "url": "https://data.eastmoney.com/notices/detail/301382/AN202610231830843938.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "美联新材(300586)"
+          "蜂助手(301382)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "欣旺达:关于控股股东部分股份质押的公告",
-        "summary": "欣旺达(300207)：欣旺达:关于控股股东部分股份质押的公告",
+        "title": "8-1发行人及中介机构关于首轮审核问询函的回复(江苏鲁汶仪器股份有限公司)",
+        "summary": "鲁汶仪器(A26219)：8-1发行人及中介机构关于首轮审核问询函的回复(江苏鲁汶仪器股份有限公司)",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300207/AN202610231830843376.html",
+        "url": "https://data.eastmoney.com/notices/detail/A26219/AN202610231830850659.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "欣旺达(300207)"
+          "鲁汶仪器(A26219)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "科创板发行上市问询与回复"
       },
       {
-        "title": "ST雪浪:关于公司控股子公司重大诉讼的公告",
-        "summary": "ST雪浪(300385)：ST雪浪:关于公司控股子公司重大诉讼的公告",
+        "title": "旭杰科技:关于累计诉讼、仲裁的公告",
+        "summary": "旭杰科技(920149)：旭杰科技:关于累计诉讼、仲裁的公告",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300385/AN202610231830843377.html",
+        "url": "https://data.eastmoney.com/notices/detail/920149/AN202610231830850370.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST雪浪(300385)"
+          "旭杰科技(920149)"
         ],
         "importance": 1,
         "noticeType": "诉讼仲裁"
       },
       {
-        "title": "雷神科技:股东减持股份结果公告",
-        "summary": "雷神科技(920190)：雷神科技:股东减持股份结果公告",
+        "title": "信息发展:交信(浙江)信息发展股份有限公司简式权益变动报告书(交信北斗(嘉兴)股权投资有限公司)",
+        "summary": "信息发展(300469)：信息发展:交信(浙江)信息发展股份有限公司简式权益变动报告书(交信北斗(嘉兴)股权投资有限公司)",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920190/AN202610231830843350.html",
+        "url": "https://data.eastmoney.com/notices/detail/300469/AN202610231830849252.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "雷神科技(920190)"
+          "信息发展(300469)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "权益变动报告书"
       },
       {
-        "title": "电连技术:关于公司募集资金专户部分资金解除冻结暨仲裁事项进展的公告",
-        "summary": "电连技术(300679)：电连技术:关于公司募集资金专户部分资金解除冻结暨仲裁事项进展的公告",
+        "title": "骏亚科技:投资者关系活动记录表(2026年10月22日)",
+        "summary": "骏亚科技(603386)：骏亚科技:投资者关系活动记录表(2026年10月22日)",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300679/AN202610231830843268.html",
+        "url": "https://data.eastmoney.com/notices/detail/603386/AN202610231830845377.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "电连技术(300679)"
+          "骏亚科技(603386)"
         ],
         "importance": 1,
-        "noticeType": "募集资金使用进展情况"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "龙竹科技:关于向2025年股权激励计划预留授予激励对象授予权益的公告",
+        "summary": "龙竹科技(920445)：龙竹科技:关于向2025年股权激励计划预留授予激励对象授予权益的公告",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920445/AN202610231830845884.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "龙竹科技(920445)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
       },
       {
         "title": "雪峰科技:2026年10月21日投资者关系活动记录表",
@@ -69406,99 +69423,79 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "宸展光电:投资者关系活动记录表IR2026-008",
-        "summary": "宸展光电(003019)：宸展光电:投资者关系活动记录表IR2026-008",
+        "title": "深交所并购重组审核委员会2026年第18次审议会议公告",
+        "summary": "永达股份(001239)：深交所并购重组审核委员会2026年第18次审议会议公告",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003019/AN202610231830843492.html",
+        "url": "https://data.eastmoney.com/notices/detail/001239/AN202610231830849841.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "宸展光电(003019)"
+          "永达股份(001239)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "创业板并购重组委会议公告"
       },
       {
-        "title": "有研粉材:投资者关系活动记录表(2026年10月9日)",
-        "summary": "有研粉材(688456)：有研粉材:投资者关系活动记录表(2026年10月9日)",
+        "title": "2-1重大资产重组报告书(上会稿)(湘潭永达机械制造股份有限公司)",
+        "summary": "永达股份(001239)：2-1重大资产重组报告书(上会稿)(湘潭永达机械制造股份有限公司)",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688456/AN202610231830843424.html",
+        "url": "https://data.eastmoney.com/notices/detail/001239/AN202610231830849836.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "有研粉材(688456)"
+          "永达股份(001239)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "深主板并购重组报告书上会稿"
       },
       {
-        "title": "联检科技:关于回购公司股份的进展暨回购完成的公告",
-        "summary": "联检科技(301115)：联检科技:关于回购公司股份的进展暨回购完成的公告",
+        "title": "3-2法律意见书(上会稿)(湘潭永达机械制造股份有限公司)",
+        "summary": "永达股份(001239)：3-2法律意见书(上会稿)(湘潭永达机械制造股份有限公司)",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301115/AN202610231830843430.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "联检科技(301115)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "敷尔佳:2026年10月23日投资者关系活动记录表",
-        "summary": "敷尔佳(301371)：敷尔佳:2026年10月23日投资者关系活动记录表",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301371/AN202610231830843297.html",
+        "url": "https://data.eastmoney.com/notices/detail/001239/AN202610231830849837.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "敷尔佳(301371)"
+          "永达股份(001239)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "深主板并购重组法律意见书"
       },
       {
-        "title": "密尔克卫:密尔克卫智能供应链服务集团股份有限公司2026年第三季度业绩说明会纪要(2026年10月)",
-        "summary": "密尔克卫(603713)：密尔克卫:密尔克卫智能供应链服务集团股份有限公司2026年第三季度业绩说明会纪要(2026年10月)",
+        "title": "3-1独立财务顾问报告(上会稿)(湘潭永达机械制造股份有限公司)",
+        "summary": "永达股份(001239)：3-1独立财务顾问报告(上会稿)(湘潭永达机械制造股份有限公司)",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603713/AN202610231830843211.html",
+        "url": "https://data.eastmoney.com/notices/detail/001239/AN202610231830849835.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "密尔克卫(603713)"
+          "永达股份(001239)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "深主板并购重组独立财务顾问报告"
       },
       {
-        "title": "下周央行公开市场将有3380亿元逆回购到期",
-        "summary": "【下周央行公开市场将有3380亿元逆回购到期】数据显示，下周央行公开市场将有3380亿元逆回购到期，其中下周一至下周五分别到期3380亿元、0亿元、0亿元、0亿元、0亿元。此外，下周二（10月27日）还将有9000亿元1年期MLF到期。",
-        "publishedAt": "2026-10-23 16:46:01",
+        "title": "央企资产总额突破95万亿元",
+        "summary": "【央企资产总额突破95万亿元】数据显示，国资央企规模实力实现了历史性跃升。中央企业资产总额从“十三五”末68.8万亿元增长至95万亿元，“十四五”累计实现利润总额12.7万亿元，比“十三五”增长56.2%；全员劳动生产率提升至每人每年83.6万元，年均增长7.1%。",
+        "publishedAt": "2026-10-23 20:42:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233906312198.html",
+        "url": "https://finance.eastmoney.com/a/202610233906539234.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -69681,15 +69678,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-23 16:51:34",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、新能源。",
+        "generatedAt": "2026-10-23 20:55:09",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 半导体、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：人形机器人、机器人概念、芯片概念；首看 人形机器人 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69720,7 +69717,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-23 16:50:33",
+        "generatedAt": "2026-10-23 20:52:41",
         "summary": "上午情绪分 100，涨停 82 家，跌停 6 家，炸板 12 家，连板 12 家，最高 6 板。",
         "sections": [
           {
@@ -69759,7 +69756,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-23 16:50:33",
+        "generatedAt": "2026-10-23 20:52:41",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -69785,7 +69782,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 6 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：美联新材:关于控股股东部分股份质押及解除质押的公告；欣旺达:关于控股股东部分股份质押的公告。",
+              "新闻/公告风险：蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告；8-1发行人及中介机构关于首轮审核问询函的回复(江苏鲁汶仪器股份有限公司)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
