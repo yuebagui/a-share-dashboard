@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-23",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-23 21:15:39",
+    "generatedAt": "2026-10-24 01:49:21",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -69267,55 +69267,247 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-23",
-    "generatedAt": "2026-10-23 21:17:30",
+    "generatedAt": "2026-10-24 01:50:50",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: Expecting value: line 1 column 1 (char 0)"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 0 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、医药。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 6,
+        "score": 13,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 5,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "医药",
-        "score": 2,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "电影《三国第一部：争洛阳》票房突破1亿",
-        "summary": "【电影《三国第一部：争洛阳》票房突破1亿】据灯塔专业版实时数据，截至10月23日20时51分，影片《三国第一部：争洛阳》票房突破1亿。",
-        "publishedAt": "2026-10-23 21:04:36",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告",
+        "summary": "蜂助手(301382)：蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301382/AN202610231830843938.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "蜂助手(301382)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "关于浙江万盛股份有限公司资产收购相关事项的监管工作函",
+        "summary": "万盛股份(603010)：关于浙江万盛股份有限公司资产收购相关事项的监管工作函",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603010/AN202610231830850891.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "万盛股份(603010)"
+        ],
+        "importance": 1,
+        "noticeType": "上交所股票监管工作函"
+      },
+      {
+        "title": "8-1发行人及中介机构关于首轮审核问询函的回复(江苏鲁汶仪器股份有限公司)",
+        "summary": "鲁汶仪器(A26219)：8-1发行人及中介机构关于首轮审核问询函的回复(江苏鲁汶仪器股份有限公司)",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/A26219/AN202610231830850659.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "鲁汶仪器(A26219)"
+        ],
+        "importance": 1,
+        "noticeType": "科创板发行上市问询与回复"
+      },
+      {
+        "title": "旭杰科技:关于累计诉讼、仲裁的公告",
+        "summary": "旭杰科技(920149)：旭杰科技:关于累计诉讼、仲裁的公告",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920149/AN202610231830850370.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "旭杰科技(920149)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "法国10年期国债风险溢价下降7个基点",
+        "summary": "法国10年期国债风险溢价下降7个基点，为10月6日以来最大降幅。",
+        "publishedAt": "2026-10-24 00:03:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610243906800872.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "印度央行行长：只要是我们定义范围内的非银行金融公司、核心投资公司，都需要注册；如果…",
-        "summary": "印度央行行长：只要是我们定义范围内的非银行金融公司、核心投资公司，都需要注册；如果是上层机构，则需要上市。",
-        "publishedAt": "2026-10-23 21:04:22",
-        "source": "新浪财经7x24",
-        "url": "",
+        "title": "信息发展:交信(浙江)信息发展股份有限公司简式权益变动报告书(交信北斗(嘉兴)股权投资有限公司)",
+        "summary": "信息发展(300469)：信息发展:交信(浙江)信息发展股份有限公司简式权益变动报告书(交信北斗(嘉兴)股权投资有限公司)",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300469/AN202610231830849252.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "信息发展(300469)"
+        ],
+        "importance": 1,
+        "noticeType": "权益变动报告书"
+      },
+      {
+        "title": "骏亚科技:投资者关系活动记录表(2026年10月22日)",
+        "summary": "骏亚科技(603386)：骏亚科技:投资者关系活动记录表(2026年10月22日)",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603386/AN202610231830845377.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "骏亚科技(603386)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "龙竹科技:关于向2025年股权激励计划预留授予激励对象授予权益的公告",
+        "summary": "龙竹科技(920445)：龙竹科技:关于向2025年股权激励计划预留授予激励对象授予权益的公告",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920445/AN202610231830845884.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "龙竹科技(920445)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "雪峰科技:2026年10月21日投资者关系活动记录表",
+        "summary": "雪峰科技(603227)：雪峰科技:2026年10月21日投资者关系活动记录表",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603227/AN202610231830838091.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "雪峰科技(603227)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "京东方Ａ:050-2026年10月22日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:050-2026年10月22日投资者关系活动记录表",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202610231830820497.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "美好医疗:301363美好医疗投资者关系管理信息20261023",
+        "summary": "美好医疗(301363)：美好医疗:301363美好医疗投资者关系管理信息20261023",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301363/AN202610231830852770.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "美好医疗(301363)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "2026-007浙江哈尔斯真空器皿股份有限公司投资者关系活动记录表",
+        "summary": "哈尔斯(002615)：2026-007浙江哈尔斯真空器皿股份有限公司投资者关系活动记录表",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002615/AN202610231830852290.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "哈尔斯(002615)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "三诺生物:2026年10月23日投资者关系活动记录表",
+        "summary": "三诺生物(300298)：三诺生物:2026年10月23日投资者关系活动记录表",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300298/AN202610231830850854.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三诺生物(300298)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "美联储周五隔夜逆回购协议（RRP）使用规模为2亿美元",
+        "summary": "美联储周五隔夜逆回购协议（RRP）使用规模为2亿美元。",
+        "publishedAt": "2026-10-24 01:16:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610243906814497.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -69384,180 +69576,6 @@
         ],
         "tickers": [],
         "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月21日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月21日COMEX黄金库存-每日更新(百盎司)；公布 233430.64，预期 nan，前值 234043.81。",
-        "publishedAt": "2026-10-23 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "英国10月Gfk消费者信心指数",
-        "summary": "英国10月Gfk消费者信心指数；公布 -24.0，预期 -15.0，前值 -13.0。",
-        "publishedAt": "2026-10-23 07:01",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本9月全国CPI年率(%)",
-        "summary": "日本9月全国CPI年率(%)；公布 2.1，预期 nan，前值 1.9。",
-        "publishedAt": "2026-10-23 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本9月全国核心CPI年率(%)",
-        "summary": "日本9月全国核心CPI年率(%)；公布 2.1，预期 2.1，前值 1.7。",
-        "publishedAt": "2026-10-23 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "KALSHI 计划于 12 月推出追踪 CPI 和核心通胀指标的交易所交易期货合约。",
-        "summary": "KALSHI 计划于 12 月推出追踪 CPI 和核心通胀指标的交易所交易期货合约。",
-        "publishedAt": "2026-10-23 21:15:30",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "2026中国核保险共同体年会召开 成员数量增长至32家",
-        "summary": "【2026中国核保险共同体年会召开 成员数量增长至32家】10月23日，中国核保险共同体（以下简称“中国核共体”）年会在京召开。会议总结了核共体“十四五”时期建设成效，谋划“十五五”时期发展蓝图。年会通过了《中国核保险共同体“十五五”规划纲要》。本次年会上，中核保险有限公司加入中国核共体，核共体成员数量增长至32家。",
-        "publishedAt": "2026-10-23 21:14:56",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "苯乙烯连续主力合约日内涨3%，现报10383.00元。",
-        "summary": "苯乙烯连续主力合约日内涨3%，现报10383.00元。",
-        "publishedAt": "2026-10-23 21:13:32",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "以总理：从没有一任总统像特朗普这么好 美国援助终将画上句号",
-        "summary": "【以总理：从没有一任总统像特朗普这么好 美国援助终将画上句号】当被问及是否担心特朗普任期结束之后局势生变，以色列总理内塔尼亚胡反问：“难道你不担心吗？”记者追问：即便接任的是 J・D・万斯也会这样吗？内塔尼亚胡表示，“我可以肯定地告诉你：从来没有一任总统像他（特朗普）这样对我们友好，我怀疑以后也很难再有。所以我们必须未雨绸缪，而我正在为此做准备。”内塔尼亚…",
-        "publishedAt": "2026-10-23 21:12:49",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国和墨西哥宣布纽蒙特项目场地的整改方案。",
-        "summary": "美国和墨西哥宣布纽蒙特项目场地的整改方案。",
-        "publishedAt": "2026-10-23 21:09:35",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "沃尔玛定价发行30亿美元美国债券和50亿加元加拿大债券。沃尔玛于10月19日签署了…",
-        "summary": "沃尔玛定价发行30亿美元美国债券和50亿加元加拿大债券。沃尔玛于10月19日签署了债券定价协议。",
-        "publishedAt": "2026-10-23 21:09:19",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国运通首席执行官对分析师表示：不会任由AI助手在系统中失控运行。",
-        "summary": "美国运通首席执行官对分析师表示：不会任由AI助手在系统中失控运行。",
-        "publishedAt": "2026-10-23 21:09:09",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "雷迪博士实验室高管表示，已在10个国家获得仿制司美格鲁肽的批准，主要来自拉丁美洲、…",
-        "summary": "雷迪博士实验室高管表示，已在10个国家获得仿制司美格鲁肽的批准，主要来自拉丁美洲、非洲、中东国家以及加拿大、印度。",
-        "publishedAt": "2026-10-23 21:06:05",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -69662,15 +69680,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-23 21:17:30",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 0 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-10-24 01:50:50",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：人形机器人、机器人概念、芯片概念；首看 人形机器人 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69701,7 +69719,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-23 21:15:39",
+        "generatedAt": "2026-10-24 01:49:21",
         "summary": "上午情绪分 100，涨停 82 家，跌停 6 家，炸板 12 家，连板 12 家，最高 6 板。",
         "sections": [
           {
@@ -69740,7 +69758,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-23 21:15:39",
+        "generatedAt": "2026-10-24 01:49:21",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -69766,7 +69784,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 6 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
+              "新闻/公告风险：蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告；关于浙江万盛股份有限公司资产收购相关事项的监管工作函。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
