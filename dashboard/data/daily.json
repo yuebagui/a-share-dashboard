@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-23",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-23 16:45:44",
+    "generatedAt": "2026-10-23 16:50:33",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -53253,10 +53253,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-23",
-    "generatedAt": "2026-10-23 16:47:12",
+    "generatedAt": "2026-10-23 16:51:34",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、新能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、新能源。",
     "themes": [
       {
         "name": "有色稀土",
@@ -53264,27 +53264,38 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 4,
+        "name": "金融",
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 3,
+        "name": "新能源",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "能源",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "美联新材:关于控股股东部分股份质押及解除质押的公告",
+        "summary": "美联新材(300586)：美联新材:关于控股股东部分股份质押及解除质押的公告",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300586/AN202610231830843573.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "美联新材(300586)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
       {
         "title": "欣旺达:关于控股股东部分股份质押的公告",
         "summary": "欣旺达(300207)：欣旺达:关于控股股东部分股份质押的公告",
@@ -53350,20 +53361,6 @@
         "noticeType": "募集资金使用进展情况"
       },
       {
-        "title": "市场监管总局：提升认证检验检测公信力 今年已撤销或注销认证机构30家",
-        "summary": "【市场监管总局：提升认证检验检测公信力 今年已撤销或注销认证机构30家】今年以来，围绕提升认证检验检测公信力，市场监管总局加强全链条监管，出台《认证机构资质许可审查通则》，系统性提高认证人员专业能力要求，对认证机构能力持续符合性加强核查。今年以来已撤销或注销不能持续保持法定能力和条件的认证机构30家，督促44家认证机构注销资质领域185项。",
-        "publishedAt": "2026-10-23 16:32:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233906293547.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "雪峰科技:2026年10月21日投资者关系活动记录表",
         "summary": "雪峰科技(603227)：雪峰科技:2026年10月21日投资者关系活动记录表",
         "publishedAt": "2026-10-23",
@@ -53391,6 +53388,38 @@
         "themes": [],
         "tickers": [
           "京东方A(000725)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "宸展光电:投资者关系活动记录表IR2026-008",
+        "summary": "宸展光电(003019)：宸展光电:投资者关系活动记录表IR2026-008",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/003019/AN202610231830843492.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宸展光电(003019)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "有研粉材:投资者关系活动记录表(2026年10月9日)",
+        "summary": "有研粉材(688456)：有研粉材:投资者关系活动记录表(2026年10月9日)",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688456/AN202610231830843424.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "有研粉材(688456)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -53446,63 +53475,17 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "强瑞技术:关于向2026年股票期权激励计划激励对象授予部分预留股票期权的公告",
-        "summary": "强瑞技术(301128)：强瑞技术:关于向2026年股票期权激励计划激励对象授予部分预留股票期权的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301128/AN202610231830843236.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "强瑞技术(301128)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "强瑞技术:关于向2025年股票期权与限制性股票激励计划激励对象授予预留股票期权及限制性股票的公告",
-        "summary": "强瑞技术(301128)：强瑞技术:关于向2025年股票期权与限制性股票激励计划激励对象授予预留股票期权及限制性股票的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301128/AN202610231830843231.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "强瑞技术(301128)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "华润双鹤:投资者关系活动记录表(2026-003)",
-        "summary": "华润双鹤(600062)：华润双鹤:投资者关系活动记录表(2026-003)",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600062/AN202610231830842488.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华润双鹤(600062)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "衍合投资：使用自有资金1000万元申购旗下私募基金产品",
-        "summary": "【衍合投资：使用自有资金1000万元申购旗下私募基金产品】10月23日，上海衍合私募基金管理有限公司公告，公司决定自2026年10月22日起的3个工作日内，以公司自有资金人民币1000万元自购旗下产品。",
-        "publishedAt": "2026-10-23 16:27:26",
+        "title": "下周央行公开市场将有3380亿元逆回购到期",
+        "summary": "【下周央行公开市场将有3380亿元逆回购到期】数据显示，下周央行公开市场将有3380亿元逆回购到期，其中下周一至下周五分别到期3380亿元、0亿元、0亿元、0亿元、0亿元。此外，下周二（10月27日）还将有9000亿元1年期MLF到期。",
+        "publishedAt": "2026-10-23 16:46:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233906290689.html",
+        "url": "https://finance.eastmoney.com/a/202610233906312198.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -53554,6 +53537,22 @@
       {
         "title": "美国10月22日iShares黄金持仓-每日更新(吨)",
         "summary": "美国10月22日iShares黄金持仓-每日更新(吨)；公布 939.65，预期 nan，前值 463.81。",
+        "publishedAt": "2026-10-23 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月21日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月21日COMEX黄金库存-每日更新(百盎司)；公布 233430.64，预期 nan，前值 234043.81。",
         "publishedAt": "2026-10-23 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -53669,15 +53668,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-23 16:47:12",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、新能源、金融。",
+        "generatedAt": "2026-10-23 16:51:34",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 5 条；主题映射集中在 有色稀土、金融、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：人形机器人、机器人概念、芯片概念；首看 人形机器人 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、新能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -53708,7 +53707,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-23 16:45:44",
+        "generatedAt": "2026-10-23 16:50:33",
         "summary": "上午情绪分 100，涨停 82 家，跌停 6 家，炸板 12 家，连板 12 家，最高 6 板。",
         "sections": [
           {
@@ -53747,7 +53746,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-23 16:45:44",
+        "generatedAt": "2026-10-23 16:50:33",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -53773,7 +53772,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 6 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：欣旺达:关于控股股东部分股份质押的公告；ST雪浪:关于公司控股子公司重大诉讼的公告。",
+              "新闻/公告风险：美联新材:关于控股股东部分股份质押及解除质押的公告；欣旺达:关于控股股东部分股份质押的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
