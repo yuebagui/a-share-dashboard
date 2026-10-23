@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-23",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-23 01:59:45",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-23 01:59:45",
+    "lastNewsAt": "2026-10-23 13:13:40"
   },
   "indices": [
     {
@@ -52571,33 +52573,43 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-23",
-    "generatedAt": "2026-10-23 02:00:27",
+    "generatedAt": "2026-10-23 13:13:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 金融、有色稀土、机器人。",
     "themes": [
       {
-        "name": "有色稀土",
+        "name": "金融",
         "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 6,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 5,
+        "name": "机器人",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 4,
+        "name": "半导体",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
@@ -52636,176 +52648,138 @@
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "冰山冷热:股票交易异常波动公告",
-        "summary": "冰山冷热(000530)：冰山冷热:股票交易异常波动公告",
+        "title": "京东方Ａ:050-2026年10月22日投资者关系活动记录表",
+        "summary": "京东方A(000725)：京东方Ａ:050-2026年10月22日投资者关系活动记录表",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000530/AN202610221830809456.html",
+        "url": "https://data.eastmoney.com/notices/detail/000725/AN202610231830820497.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "冰山冷热(000530)"
+          "京东方A(000725)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST美谷:董事会提名与薪酬考核委员会关于第十二届董事会非独立董事候选人任职资格的审核意见",
-        "summary": "*ST美谷(000615)：*ST美谷:董事会提名与薪酬考核委员会关于第十二届董事会非独立董事候选人任职资格的审核意见",
+        "title": "国际医学:000516国际医学投资者关系管理信息20261023",
+        "summary": "国际医学(000516)：国际医学:000516国际医学投资者关系管理信息20261023",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000615/AN202610221830809416.html",
+        "url": "https://data.eastmoney.com/notices/detail/000516/AN202610231830834224.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST美谷(000615)"
+          "国际医学(000516)"
         ],
         "importance": 1,
-        "noticeType": "专项说明/独立意见"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST美谷:第十二届董事会第六次会议决议公告",
-        "summary": "*ST美谷(000615)：*ST美谷:第十二届董事会第六次会议决议公告",
+        "title": "新易盛:回购股份报告书",
+        "summary": "新易盛(300502)：新易盛:回购股份报告书",
         "publishedAt": "2026-10-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000615/AN202610221830809417.html",
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202610231830831590.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST美谷(000615)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "*ST美谷:关于公司及控股子公司拟租赁办公场所的公告",
-        "summary": "*ST美谷(000615)：*ST美谷:关于公司及控股子公司拟租赁办公场所的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000615/AN202610221830809415.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST美谷(000615)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "*ST美谷:2026年三季度报告",
-        "summary": "*ST美谷(000615)：*ST美谷:2026年三季度报告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000615/AN202610221830809418.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST美谷(000615)"
-        ],
-        "importance": 1,
-        "noticeType": "三季度报告全文"
-      },
-      {
-        "title": "*ST美谷:关于新增诉讼事项的公告",
-        "summary": "*ST美谷(000615)：*ST美谷:关于新增诉讼事项的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000615/AN202610221830809413.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST美谷(000615)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "*ST美谷:关于修订《公司章程》及相关制度的公告",
-        "summary": "*ST美谷(000615)：*ST美谷:关于修订《公司章程》及相关制度的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000615/AN202610221830809420.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST美谷(000615)"
-        ],
-        "importance": 1,
-        "noticeType": "公司章程修订"
-      },
-      {
-        "title": "Moderna股价跌幅扩大至25% 默沙东股价下跌3.1%",
-        "summary": "【Moderna股价跌幅扩大至25% 默沙东股价下跌3.1%】Moderna股价跌幅扩大至25%，默沙东股价下跌3.1%。市场传出两家公司万众瞩目的个性化黑色素瘤疫苗试验结果相关消息后，Moderna与默沙东的股价应声下跌，这一情况暗示原定于本周末正式发布的试验数据疑似提前泄露。",
-        "publishedAt": "2026-10-23 01:19:14",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233904639614.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股生物医药股Moderna持续下跌 跌幅达20%",
-        "summary": "美股生物医药股Moderna持续下跌，跌幅达20%。",
-        "publishedAt": "2026-10-23 00:51:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233904634734.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
-          "医药"
+          "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "新易盛(300502)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回购报告书"
       },
       {
-        "title": "美国国债期货收益率持续走低 五年期国债收益率跌15个基点至4.8%",
-        "summary": "美国国债期货收益率持续走低，美国五年期国债收益率跌15个基点，报4.8%；30年期国债收益率下跌10个基点至5.30%。",
-        "publishedAt": "2026-10-23 00:44:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233904634562.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股医药股Moderna恢复交易后下跌16%",
-        "summary": "美股医药股Moderna恢复交易后下跌16%。",
-        "publishedAt": "2026-10-23 00:41:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233904634638.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "新易盛:关于回购公司股份方案的公告",
+        "summary": "新易盛(300502)：新易盛:关于回购公司股份方案的公告",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300502/AN202610231830831588.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "医药"
+          "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "新易盛(300502)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "晨化股份:2026年10月21日投资者关系活动记录表2",
+        "summary": "晨化股份(300610)：晨化股份:2026年10月21日投资者关系活动记录表2",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300610/AN202610231830830004.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "晨化股份(300610)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "晨化股份:2026年10月21日投资者关系活动记录表1",
+        "summary": "晨化股份(300610)：晨化股份:2026年10月21日投资者关系活动记录表1",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300610/AN202610231830825620.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "晨化股份(300610)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "普洛药业:2026年10月22日投资者关系活动记录表",
+        "summary": "普洛药业(000739)：普洛药业:2026年10月22日投资者关系活动记录表",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000739/AN202610231830823491.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "普洛药业(000739)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国风新材:关于收到深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告",
+        "summary": "国风新材(000859)：国风新材:关于收到深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告",
+        "publishedAt": "2026-10-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000859/AN202610231830818760.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国风新材(000859)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
       },
       {
         "title": "奥士康:关于使用部分暂时闲置募集资金进行现金管理的公告",
@@ -52840,29 +52814,11 @@
         "noticeType": "权益变动报告书"
       },
       {
-        "title": "信隆健康:关于回购注销部分限制性股票减少注册资本暨通知债权人的公告",
-        "summary": "信隆健康(002105)：信隆健康:关于回购注销部分限制性股票减少注册资本暨通知债权人的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002105/AN202610221830809439.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "信隆健康(002105)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "印度将100万吨进口糖免税政策延长至12月31日",
-        "summary": "印度将100万吨进口糖免税政策延长至12月31日。",
-        "publishedAt": "2026-10-23 01:58:04",
+        "title": "三个月跌出百亿私募圈 牛散高雅萍旗下乾瞻投资规模大缩水",
+        "summary": "【三个月跌出百亿私募圈 牛散高雅萍旗下乾瞻投资规模大缩水】中基协公示信息显示，截至2026年10月22日，浙江乾瞻投资管理有限公司的最新管理规模为20-50亿元区间。乾瞻投资成立于2013年3月，2015年5月完成登记备案，根据第三方平台统计数据，公司在2026年7月首次突破100亿元规模大关。也就是说，乾瞻投资在踏入百亿私募行列三个月之后，管理规模已经“…",
+        "publishedAt": "2026-10-23 13:00:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233904643112.html",
+        "url": "https://finance.eastmoney.com/a/202610233905849750.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -52872,19 +52828,77 @@
         "noticeType": ""
       },
       {
-        "title": "布伦特原油期货突破113美元/桶 日内涨3.3%",
-        "summary": "布伦特原油期货突破113美元/桶，日内涨3.3%。",
-        "publishedAt": "2026-10-23 01:50:55",
+        "title": "中际旭创、新易盛、天孚通信齐发公告：在手订单充足",
+        "summary": "【中际旭创、新易盛、天孚通信齐发公告：在手订单充足】10月23日午间，中际旭创、新易盛、天孚通信齐发公告，披露近期生产经营情况。中际旭创称，公司目前生产经营一切正常，供应链稳定，产能利用率充足，客户订单需求强劲。下游需求保持高景气，公司在手订单饱满。产品价格体系健康，行业竞争有序。光互连技术持续迭代，行业技术壁垒有望进一步提升。",
+        "publishedAt": "2026-10-23 12:56:36",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610233904641944.html",
+        "url": "https://finance.eastmoney.com/a/202610233905849268.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "联讯仪器公告披露近期生产经营情况：生产经营、订单交付及生产扩建等均正常开展",
+        "summary": "【联讯仪器公告披露近期生产经营情况：生产经营、订单交付及生产扩建等均正常开展】联讯仪器发布关于公司近期生产经营情况的公告，目前生产经营活动、订单交付及生产扩建等工作均正常开展，内部生产经营秩序正常。目前公司生产经营有序开展，下游客户需求旺盛，在手订单储备较为充足，为公司业务稳步增长提供支撑。",
+        "publishedAt": "2026-10-23 12:53:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610233905849190.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "南京一具身智能公司被曝欠薪数月 CEO称联系不上实控人！此前宣称拿下近10亿元订单",
+        "summary": "【南京一具身智能公司被曝欠薪数月 CEO称联系不上实控人！此前宣称拿下近10亿元订单】近日，一名自称是南京无境未来动力科技有限公司的员工向记者表示，公司自今年8月起拖欠其工资，9月停缴住房公积金，10月停缴社保。据其介绍，欠薪涉及三四十名员工，累计金额近800万元。如今，公司已经停工，部分员工正在通过劳动仲裁等方式讨薪，员工也难以联系上公司实际控制人崔小飞。",
+        "publishedAt": "2026-10-23 12:47:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610233905846042.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "能源"
+          "机器人"
         ],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "源杰科技：公司产能扩充正按业务需求推进",
+        "summary": "【源杰科技：公司产能扩充正按业务需求推进】源杰科技发布关于公司近期生产经营情况的公告，公司目前生产经营活动、订单交付及产能扩建等工作均正常开展，内部生产经营秩序正常。公司产能扩充正按业务需求推进，光电通讯半导体芯片和器件研发生产基地二期项目的土建工程、部分洁净室及相关配套设施已完成建设，首批生产设备预计近期开始进厂，后续将进行设备调试，预计2026年底至2…",
+        "publishedAt": "2026-10-23 12:40:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610233905848557.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月21日美联储资产负债表(万亿美元)",
+        "summary": "美国截至10月21日美联储资产负债表(万亿美元)；公布 6.81，预期 nan，前值 6.81。",
+        "publishedAt": "2026-10-23 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -53053,7 +53067,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -53066,15 +53080,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-23 02:00:27",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-23 13:13:40",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 金融、有色稀土、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
