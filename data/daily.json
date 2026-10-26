@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-26",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-26 22:27:02",
+    "generatedAt": "2026-10-26 23:02:31",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -79121,7 +79121,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -79291,72 +79292,78 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-26",
-    "generatedAt": "2026-10-26 22:27:56",
+    "generatedAt": "2026-10-26 23:03:46",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: cannot convert float NaN to integer"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、汽车链、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 13,
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "汽车链",
-        "score": 5,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 3,
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "森峰激光:向不特定合格投资者公开发行股票并在北京证券交易所上市投资风险特别公告",
-        "summary": "森峰激光(920085)：森峰激光:向不特定合格投资者公开发行股票并在北京证券交易所上市投资风险特别公告",
+        "title": "300326ST凯利投资者关系管理信息20261026",
+        "summary": "ST凯利(300326)：300326ST凯利投资者关系管理信息20261026",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920085/AN202610261830951805.html",
+        "url": "https://data.eastmoney.com/notices/detail/300326/AN202610261830954375.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "森峰激光(920085)"
+          "ST凯利(300326)"
         ],
         "importance": 1,
-        "noticeType": "首发投资风险特别公告"
+        "noticeType": "调研活动"
       },
       {
-        "title": "阿根廷股市基准股指跌约6%",
-        "summary": "【阿根廷股市基准股指跌约6%】阿根廷股市跟随巴西股市下跌，基准股指跌约6%。",
-        "publishedAt": "2026-10-26 22:13:03",
+        "title": "捷蓝航空股价下跌18% 创历史新低",
+        "summary": "10月26日，捷蓝航空股价下跌18%，创历史新低；10月份累计下跌近50%。",
+        "publishedAt": "2026-10-26 22:38:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908594694.html",
+        "url": "https://finance.eastmoney.com/a/202610263908622145.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "微软市值重回全球第三 谷歌A股退居第四",
-        "summary": "【微软市值重回全球第三 谷歌A股退居第四】美股盘中，微软股价上涨0.07%，谷歌A股下跌0.59%，两家公司市值排名再度易位。行情显示，微软市值约3.898万亿美元，略高于谷歌A股的3.893万亿美元，差距约50亿美元。近期两家公司股价走势出现分化，微软小幅走高，谷歌A股则继续承压。",
-        "publishedAt": "2026-10-26 22:12:19",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908587813.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
+        "themes": [
+          "军工"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -79405,6 +79412,54 @@
         "themes": [],
         "tickers": [
           "科达利(002850)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "英维克:2026年10月26日投资者关系活动记录表",
+        "summary": "英维克(002837)：英维克:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002837/AN202610261830953739.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英维克(002837)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华大基因:2026年10月26日投资者关系活动记录表",
+        "summary": "华大基因(300676)：华大基因:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300676/AN202610261830953629.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华大基因(300676)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "宋城演艺:2026年10月26日投资者关系活动记录表",
+        "summary": "宋城演艺(300144)：宋城演艺:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300144/AN202610261830953236.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宋城演艺(300144)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -79496,109 +79551,77 @@
         "noticeType": "网上发行公告"
       },
       {
-        "title": "拓斯达:300607拓斯达投资者关系管理信息20261026",
-        "summary": "拓斯达(300607)：拓斯达:300607拓斯达投资者关系管理信息20261026",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300607/AN202610261830950636.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "Coinbase公司表示：部分用户无法将巴西雷亚尔兑换用于买卖加密货币",
+        "summary": "Coinbase公司表示，部分用户无法将巴西雷亚尔兑换用于买卖加密货币。",
+        "publishedAt": "2026-10-26 22:57:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908637035.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [],
-        "tickers": [
-          "拓斯达(300607)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "广州瑞立科密汽车电子股份有限公司2026年10月26日投资者关系活动记录表",
-        "summary": "瑞立科密(001285)：广州瑞立科密汽车电子股份有限公司2026年10月26日投资者关系活动记录表",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001285/AN202610261830947974.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "伊朗方面表示：核活动将在不扩散核武器条约框架内继续进行",
+        "summary": "伊朗方面表示，核活动将在不扩散核武器条约框架内继续进行。",
+        "publishedAt": "2026-10-26 22:56:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908636565.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗总统重申伊朗不寻求拥有核武器",
+        "summary": "伊朗总统重申伊朗不寻求拥有核武器。",
+        "publishedAt": "2026-10-26 22:51:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908632820.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "纳斯达克综合指数涨幅扩大至1% 科技股全线回暖",
+        "summary": "【纳斯达克综合指数涨幅扩大至1% 科技股全线回暖】美股震荡走高，道琼斯指数涨0.55%，标普500指数涨0.83%，纳斯达克综合指数涨1.01%。科技股全线回暖，英伟达股价上涨2.53%，微软股价上涨0.95%，亚马逊股价上涨0.89%，台积电股价上涨1.23%，Meta股价上涨0.56%，博通股价上涨2.02%，特斯拉股价上涨6.11%，SK海力士股价上…",
+        "publishedAt": "2026-10-26 22:48:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908628289.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
+          "AI算力",
           "汽车链"
         ],
-        "tickers": [
-          "瑞立科密(001285)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "中钨高新2026年10月24日投资者关系活动记录表",
-        "summary": "中钨高新(000657)：中钨高新2026年10月24日投资者关系活动记录表",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000657/AN202610261830946571.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "内蒙古首个跨盟市合作上网消纳新能源项目投运",
+        "summary": "【内蒙古首个跨盟市合作上网消纳新能源项目投运】据内蒙古日报消息，10月25日12时40分，随着四台主变压器正式并网运行，阿日善（阿电入乌）500千伏输变电工程在内蒙古阿拉善盟阿拉善高新区乌兰布和沙漠腹地正式投运。该工程是内蒙古自治区首个跨盟市合作上网消纳新能源项目“阿电入乌”的核心枢纽，也是深化阿乌协同发展、培育绿色新质生产力的标志性工程。",
+        "publishedAt": "2026-10-26 22:47:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908629585.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "有色稀土"
+          "新能源",
+          "能源"
         ],
-        "tickers": [
-          "中钨高新(000657)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "宝武镁业：子公司拟投资建设年产1000万吨白云岩露天开采项目",
-        "summary": "【宝武镁业：子公司拟投资建设年产1000万吨白云岩露天开采项目】宝武镁业(002182)10月26日公告，子公司五台宝镁拟实施五台县东冶镇大朴村白云岩1000万吨/年露天开采项目。项目总投资4.1亿元。",
-        "publishedAt": "2026-10-26 21:50:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908566315.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "纳斯达克中国金龙指数涨超1%",
-        "summary": "纳斯达克中国金龙指数涨超1%。",
-        "publishedAt": "2026-10-26 22:22:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908611822.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "巴西宣布招标 拟购入1500万份本币固定利率票据",
-        "summary": "巴西宣布招标，拟购入1500万份本币固定利率票据。",
-        "publishedAt": "2026-10-26 22:16:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908600348.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "报道：伊朗准备支持任何有助于地区团结的“谅解”",
-        "summary": "据报道，伊朗准备支持任何有助于地区团结的“谅解”。",
-        "publishedAt": "2026-10-26 22:13:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908595760.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -79782,15 +79805,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-26 22:27:56",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、汽车链、有色稀土。",
+        "generatedAt": "2026-10-26 23:03:46",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、银行；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、汽车链、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -79821,7 +79844,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-26 22:27:02",
+        "generatedAt": "2026-10-26 23:02:31",
         "summary": "上午情绪分 48，涨停 55 家，跌停 26 家，炸板 23 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -79860,7 +79883,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-26 22:27:02",
+        "generatedAt": "2026-10-26 23:02:31",
         "summary": "市场温度 弱，情绪周期偏分歧。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -79886,7 +79909,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 26 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：森峰激光:向不特定合格投资者公开发行股票并在北京证券交易所上市投资风险特别公告；阿根廷股市基准股指跌约6%。",
+              "新闻/公告风险：300326ST凯利投资者关系管理信息20261026；捷蓝航空股价下跌18% 创历史新低。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
