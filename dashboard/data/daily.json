@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-10-26",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-10-26 23:02:31",
+    "tradeDate": "2026-10-27",
+    "phase": "盘中快照",
+    "generatedAt": "2026-10-27 03:07:13",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -79291,219 +79291,202 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-26",
-    "generatedAt": "2026-10-26 23:03:46",
+    "tradeDate": "2026-10-27",
+    "generatedAt": "2026-10-27 03:08:05",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: cannot convert float NaN to integer"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 金融、能源、AI算力。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
+        "name": "有色稀土",
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 4,
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "300326ST凯利投资者关系管理信息20261026",
-        "summary": "ST凯利(300326)：300326ST凯利投资者关系管理信息20261026",
-        "publishedAt": "2026-10-26",
+        "title": "元道退:关于公司股票进入退市整理期交易的第八次风险提示公告",
+        "summary": "元道退(301139)：元道退:关于公司股票进入退市整理期交易的第八次风险提示公告",
+        "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300326/AN202610261830954375.html",
+        "url": "https://data.eastmoney.com/notices/detail/301139/AN202610261830946163.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST凯利(300326)"
+          "元道退(301139)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "实施退市风险警示"
       },
       {
-        "title": "捷蓝航空股价下跌18% 创历史新低",
-        "summary": "10月26日，捷蓝航空股价下跌18%，创历史新低；10月份累计下跌近50%。",
-        "publishedAt": "2026-10-26 22:38:07",
+        "title": "创维数字:股票交易异常波动公告",
+        "summary": "创维数字(000810)：创维数字:股票交易异常波动公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000810/AN202610261830946162.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "创维数字(000810)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "原油期权释放中东供应风险上升信号",
+        "summary": "【原油期权释放中东供应风险上升信号】WTI原油期权看涨偏斜已升至+7.2%，为9月10日以来最高，反映在中东局势紧张背景下，市场对上行价格保护的需求上升。胡塞武装对沙特石油基础设施及地区航运的袭击加剧了供应中断担忧。与此同时，WTI原油1至2个月价差从5.40美元/桶收窄至2.30美元/桶，显示近期现货溢价走弱。尽管近期实物市场紧张状况缓解，期权交易员仍在…",
+        "publishedAt": "2026-10-27 02:08:47",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908622145.html",
+        "url": "https://finance.eastmoney.com/a/202610273908702783.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "军工"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "尚品宅配:2026年10月26日投资者关系活动记录表",
-        "summary": "尚品宅配(300616)：尚品宅配:2026年10月26日投资者关系活动记录表",
-        "publishedAt": "2026-10-26",
+        "title": "300438鹏辉能源投资者关系管理信息20261027",
+        "summary": "鹏辉能源(300438)：300438鹏辉能源投资者关系管理信息20261027",
+        "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300616/AN202610261830941706.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "尚品宅配(300616)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "001380华纬科技业绩说明会、路演活动信息20261026",
-        "summary": "华纬科技(001380)：001380华纬科技业绩说明会、路演活动信息20261026",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001380/AN202610261830928351.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华纬科技(001380)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "科达利:投资者关系活动记录表（2026年10月23日）",
-        "summary": "科达利(002850)：科达利:投资者关系活动记录表（2026年10月23日）",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002850/AN202610261830908380.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "科达利(002850)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "英维克:2026年10月26日投资者关系活动记录表",
-        "summary": "英维克(002837)：英维克:2026年10月26日投资者关系活动记录表",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002837/AN202610261830953739.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "英维克(002837)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华大基因:2026年10月26日投资者关系活动记录表",
-        "summary": "华大基因(300676)：华大基因:2026年10月26日投资者关系活动记录表",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300676/AN202610261830953629.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华大基因(300676)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "宋城演艺:2026年10月26日投资者关系活动记录表",
-        "summary": "宋城演艺(300144)：宋城演艺:2026年10月26日投资者关系活动记录表",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300144/AN202610261830953236.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宋城演艺(300144)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000498山东路桥投资者关系管理信息20261026",
-        "summary": "山东路桥(000498)：000498山东路桥投资者关系管理信息20261026",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000498/AN202610261830953067.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "山东路桥(000498)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "森峰激光:关于向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
-        "summary": "森峰激光(920085)：森峰激光:关于向不特定合格投资者公开发行股票并在北京证券交易所上市所涉代码变更相关事宜的提示性公告",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920085/AN202610261830952115.html",
+        "url": "https://data.eastmoney.com/notices/detail/300438/AN202610271830965227.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [
-          "森峰激光(920085)"
+          "鹏辉能源(300438)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "001215千味央厨投资者活动记录表",
+        "summary": "千味央厨(001215)：001215千味央厨投资者活动记录表",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001215/AN202610271830964967.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "千味央厨(001215)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "瑞芯微:关于注销部分股票期权的公告",
+        "summary": "瑞芯微(603893)：瑞芯微:关于注销部分股票期权的公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603893/AN202610261830950112.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "瑞芯微(603893)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "浙江华远:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "summary": "浙江华远(301535)：浙江华远:关于向2026年限制性股票激励计划激励对象首次授予限制性股票的公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301535/AN202610261830947396.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "浙江华远(301535)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "浙江华远:关于调整2026年限制性股票激励计划首次授予激励对象名单的公告",
+        "summary": "浙江华远(301535)：浙江华远:关于调整2026年限制性股票激励计划首次授予激励对象名单的公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301535/AN202610261830947412.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "浙江华远(301535)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励对象名单"
+      },
+      {
+        "title": "新宙邦:关于对外投资设立合资公司暨投资建设年产15万吨高纯电子级溶剂项目的公告",
+        "summary": "新宙邦(300037)：新宙邦:关于对外投资设立合资公司暨投资建设年产15万吨高纯电子级溶剂项目的公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300037/AN202610261830946379.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新宙邦(300037)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "长川科技:杭州长川科技股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "summary": "长川科技(300604)：长川科技:杭州长川科技股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202610261830946298.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长川科技(300604)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "森峰激光:向不特定合格投资者公开发行股票并在北京证券交易所上市网上路演公告",
-        "summary": "森峰激光(920085)：森峰激光:向不特定合格投资者公开发行股票并在北京证券交易所上市网上路演公告",
-        "publishedAt": "2026-10-26",
+        "title": "长川科技:杭州长川科技股份有限公司关于回购公司股份方案的公告",
+        "summary": "长川科技(300604)：长川科技:杭州长川科技股份有限公司关于回购公司股份方案的公告",
+        "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920085/AN202610261830951867.html",
+        "url": "https://data.eastmoney.com/notices/detail/300604/AN202610261830946309.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -79511,119 +79494,115 @@
           "金融"
         ],
         "tickers": [
-          "森峰激光(920085)"
+          "长川科技(300604)"
         ],
         "importance": 1,
-        "noticeType": "首发网上路演公告"
+        "noticeType": "回购预案"
       },
       {
-        "title": "森峰激光:主承销商关于战略投资者的专项核查报告",
-        "summary": "森峰激光(920085)：森峰激光:主承销商关于战略投资者的专项核查报告",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920085/AN202610261830951872.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "森峰激光(920085)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "森峰激光:向不特定合格投资者公开发行股票并在北京证券交易所上市发行公告",
-        "summary": "森峰激光(920085)：森峰激光:向不特定合格投资者公开发行股票并在北京证券交易所上市发行公告",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920085/AN202610261830951864.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "美联储隔夜逆回购协议周一使用规模为2亿美元（交易对手1家） 上个交易日报2亿美元",
+        "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为2亿美元（交易对手1家），上个交易日报2亿美元。",
+        "publishedAt": "2026-10-27 01:17:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610273908698461.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "森峰激光(920085)"
-        ],
-        "importance": 1,
-        "noticeType": "网上发行公告"
-      },
-      {
-        "title": "Coinbase公司表示：部分用户无法将巴西雷亚尔兑换用于买卖加密货币",
-        "summary": "Coinbase公司表示，部分用户无法将巴西雷亚尔兑换用于买卖加密货币。",
-        "publishedAt": "2026-10-26 22:57:09",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908637035.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "伊朗方面表示：核活动将在不扩散核武器条约框架内继续进行",
-        "summary": "伊朗方面表示，核活动将在不扩散核武器条约框架内继续进行。",
-        "publishedAt": "2026-10-26 22:56:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908636565.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗总统重申伊朗不寻求拥有核武器",
-        "summary": "伊朗总统重申伊朗不寻求拥有核武器。",
-        "publishedAt": "2026-10-26 22:51:02",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908632820.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "纳斯达克综合指数涨幅扩大至1% 科技股全线回暖",
-        "summary": "【纳斯达克综合指数涨幅扩大至1% 科技股全线回暖】美股震荡走高，道琼斯指数涨0.55%，标普500指数涨0.83%，纳斯达克综合指数涨1.01%。科技股全线回暖，英伟达股价上涨2.53%，微软股价上涨0.95%，亚马逊股价上涨0.89%，台积电股价上涨1.23%，Meta股价上涨0.56%，博通股价上涨2.02%，特斯拉股价上涨6.11%，SK海力士股价上…",
-        "publishedAt": "2026-10-26 22:48:29",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908628289.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国10月26日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月26日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1041.65。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力",
-          "汽车链"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "内蒙古首个跨盟市合作上网消纳新能源项目投运",
-        "summary": "【内蒙古首个跨盟市合作上网消纳新能源项目投运】据内蒙古日报消息，10月25日12时40分，随着四台主变压器正式并网运行，阿日善（阿电入乌）500千伏输变电工程在内蒙古阿拉善盟阿拉善高新区乌兰布和沙漠腹地正式投运。该工程是内蒙古自治区首个跨盟市合作上网消纳新能源项目“阿电入乌”的核心枢纽，也是深化阿乌协同发展、培育绿色新质生产力的标志性工程。",
-        "publishedAt": "2026-10-26 22:47:58",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908629585.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国10月26日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月26日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 939.64。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "新能源",
-          "能源"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月26日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月26日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 45139.2。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月23日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月23日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 232829.73。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至10月25日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至10月25日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 67.7。",
+        "publishedAt": "2026-10-27 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国9月规模以上工业企业利润年率-单月(%)",
+        "summary": "中国9月规模以上工业企业利润年率-单月(%)；公布 nan，预期 nan，前值 4.2。",
+        "publishedAt": "2026-10-27 09:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -79792,7 +79771,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -79805,15 +79784,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-26 23:03:46",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-10-27 03:08:05",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、银行；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -79844,7 +79823,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-26 23:02:31",
+        "generatedAt": "2026-10-27 03:07:13",
         "summary": "上午情绪分 48，涨停 55 家，跌停 26 家，炸板 23 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -79883,7 +79862,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-26 23:02:31",
+        "generatedAt": "2026-10-27 03:07:13",
         "summary": "市场温度 弱，情绪周期偏分歧。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -79909,7 +79888,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 26 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：300326ST凯利投资者关系管理信息20261026；捷蓝航空股价下跌18% 创历史新低。",
+              "新闻/公告风险：元道退:关于公司股票进入退市整理期交易的第八次风险提示公告；创维数字:股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
