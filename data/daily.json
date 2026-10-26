@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-26",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-26 17:15:10",
+    "generatedAt": "2026-10-26 17:22:09",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -68866,217 +68866,178 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-26",
-    "generatedAt": "2026-10-26 17:15:42",
+    "generatedAt": "2026-10-26 17:22:43",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: cannot convert float NaN to integer"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 军工、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 军工、医药、金融。",
     "themes": [
       {
         "name": "军工",
-        "score": 17,
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "医药",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 3,
+        "name": "金融",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "新能源",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "西菱动力:关于业绩承诺司法判决股权完成过户的公告",
-        "summary": "西菱动力(300733)：西菱动力:关于业绩承诺司法判决股权完成过户的公告",
+        "title": "拓新药业:拓新药业集团股份有限公司与中泰证券股份有限公司关于拓新药业集团股份有限公司申请向特定对象发行股票的审核问询函之回复报告(豁免版)",
+        "summary": "拓新药业(301089)：拓新药业:拓新药业集团股份有限公司与中泰证券股份有限公司关于拓新药业集团股份有限公司申请向特定对象发行股票的审核问询函之回复报告(豁免版)",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300733/AN202610261830918765.html",
+        "url": "https://data.eastmoney.com/notices/detail/301089/AN202610261830926184.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "拓新药业(301089)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "拓新药业:信永中和会计师事务所(特殊普通合伙)关于拓新药业集团股份有限公司2026年度向特定对象发行股票的审核问询函的回复(豁免版)",
+        "summary": "拓新药业(301089)：拓新药业:信永中和会计师事务所(特殊普通合伙)关于拓新药业集团股份有限公司2026年度向特定对象发行股票的审核问询函的回复(豁免版)",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301089/AN202610261830926187.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "西菱动力(300733)"
+          "拓新药业(301089)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "中富通:关于控股股东、实际控制人进行股份解除质押的公告",
-        "summary": "中富通(300560)：中富通:关于控股股东、实际控制人进行股份解除质押的公告",
+        "title": "拓新药业:关于申请向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "拓新药业(301089)：拓新药业:关于申请向特定对象发行股票的审核问询函回复及募集说明书等申请文件更新的提示性公告",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300560/AN202610261830918763.html",
+        "url": "https://data.eastmoney.com/notices/detail/301089/AN202610261830926185.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "中富通(300560)"
+          "拓新药业(301089)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "凯旺科技:关于变更保荐机构后重新签订募集资金三方监管协议的公告",
-        "summary": "凯旺科技(301182)：凯旺科技:关于变更保荐机构后重新签订募集资金三方监管协议的公告",
+        "title": "科达利:投资者关系活动记录表（2026年10月23日）",
+        "summary": "科达利(002850)：科达利:投资者关系活动记录表（2026年10月23日）",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301182/AN202610261830918638.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "凯旺科技(301182)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐代表人（机构）变更"
-      },
-      {
-        "title": "飞沃科技:关于公司控股股东部分股份解除质押的公告",
-        "summary": "飞沃科技(301232)：飞沃科技:关于公司控股股东部分股份解除质押的公告",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301232/AN202610261830918639.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "飞沃科技(301232)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "10月第4周生猪和猪肉价格有所下跌",
-        "summary": "【10月第4周生猪和猪肉价格有所下跌】据农业农村部对500个县集贸市场和采集点监测，上周（10月第4周，10月19—25日，下同），全国活猪价格为10.71元/公斤，环比跌1.7%；猪肉集贸市场价格为20.59元/公斤，环比跌1.1%。据农业农村部对200个批发市场监测调度，上周全国猪肉批发市场均价为15.70元/公斤，环比跌0.8%，同比低12.1%。",
-        "publishedAt": "2026-10-26 17:07:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908082266.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "优博讯:关于业绩承诺补偿事项的进展公告",
-        "summary": "优博讯(300531)：优博讯:关于业绩承诺补偿事项的进展公告",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300531/AN202610261830920944.html",
+        "url": "https://data.eastmoney.com/notices/detail/002850/AN202610261830908380.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "优博讯(300531)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "吉比特:厦门吉比特网络技术股份有限公司2026年第三季度业绩说明会纪要",
-        "summary": "吉比特(603444)：吉比特:厦门吉比特网络技术股份有限公司2026年第三季度业绩说明会纪要",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603444/AN202610261830919386.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "吉比特(603444)"
+          "科达利(002850)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "好太太:广东好太太科技集团股份有限公司接待投资者调研的记录(2026年10月23日)",
-        "summary": "好太太(603848)：好太太:广东好太太科技集团股份有限公司接待投资者调研的记录(2026年10月23日)",
+        "title": "金徽股份:金徽矿业股份有限公司投资者关系活动记录表",
+        "summary": "金徽股份(603132)：金徽股份:金徽矿业股份有限公司投资者关系活动记录表",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603848/AN202610261830919385.html",
+        "url": "https://data.eastmoney.com/notices/detail/603132/AN202610261830927175.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "好太太(603848)"
+          "金徽股份(603132)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "灿能电力:关于使用闲置自有资金购买理财产品的进展公告",
-        "summary": "灿能电力(920299)：灿能电力:关于使用闲置自有资金购买理财产品的进展公告",
+        "title": "武汉天源:关于收到中标通知书的公告",
+        "summary": "武汉天源(301127)：武汉天源:关于收到中标通知书的公告",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920299/AN202610261830918993.html",
+        "url": "https://data.eastmoney.com/notices/detail/301127/AN202610261830927072.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "武汉天源(301127)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "三维通信:2026年10月23日投资者关系活动记录表",
+        "summary": "三维通信(002115)：三维通信:2026年10月23日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002115/AN202610261830926504.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三维通信(002115)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "皓元医药:投资者关系活动记录表(2026年10月19日-21日)",
+        "summary": "皓元医药(688131)：皓元医药:投资者关系活动记录表(2026年10月19日-21日)",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688131/AN202610261830926734.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "能源"
+          "医药"
         ],
         "tickers": [
-          "灿能电力(920299)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "300623捷捷微电投资者关系管理信息20261026",
-        "summary": "捷捷微电(300623)：300623捷捷微电投资者关系管理信息20261026",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300623/AN202610261830918477.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "捷捷微电(300623)"
+          "皓元医药(688131)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "瑞尔竞达:关于变更投资者关系联系地址及电话的公告",
-        "summary": "瑞尔竞达(920191)：瑞尔竞达:关于变更投资者关系联系地址及电话的公告",
+        "title": "敏芯股份:投资者关系活动记录表(2026年10月21日-10月23日)",
+        "summary": "敏芯股份(688286)：敏芯股份:投资者关系活动记录表(2026年10月21日-10月23日)",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920191/AN202610261830918333.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "瑞尔竞达(920191)"
-        ],
-        "importance": 1,
-        "noticeType": "公司其他基本信息变更"
-      },
-      {
-        "title": "敏芯股份:投资者关系活动记录表(2026年10月19日-10月20日)",
-        "summary": "敏芯股份(688286)：敏芯股份:投资者关系活动记录表(2026年10月19日-10月20日)",
-        "publishedAt": "2026-10-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688286/AN202610261830917974.html",
+        "url": "https://data.eastmoney.com/notices/detail/688286/AN202610261830926823.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -69088,60 +69049,61 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "永艺股份:投资者关系活动记录表(2026年10月23日)",
-        "summary": "永艺股份(603600)：永艺股份:投资者关系活动记录表(2026年10月23日)",
+        "title": "欧伦电气:上海市锦天城律师事务所关于浙江欧伦电气股份有限公司控股股东、实际控制人增持公司股份的法律意见书",
+        "summary": "欧伦电气(920081)：欧伦电气:上海市锦天城律师事务所关于浙江欧伦电气股份有限公司控股股东、实际控制人增持公司股份的法律意见书",
         "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603600/AN202610261830917975.html",
+        "url": "https://data.eastmoney.com/notices/detail/920081/AN202610261830926383.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "永艺股份(603600)"
+          "欧伦电气(920081)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "法律意见书"
       },
       {
-        "title": "上海：力争实现星间激光通信速率突破400Gbps、单星通信容量达到100Gbps",
-        "summary": "【上海：力争实现星间激光通信速率突破400Gbps、单星通信容量达到100Gbps】上海市经济和信息化委员会等六部门印发《上海市卫星互联网产业创新发展行动方案（2027-2030年）》。其中指出，突破卫星平台与载荷关键技术。重点攻关星间激光通信终端、星地分布式轻量化核心网、大规模相控阵、EUHT载荷等技术，力争实现星间激光通信速率突破400Gbps、单星通…",
-        "publishedAt": "2026-10-26 17:09:42",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908086539.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "欧伦电气:关于控股股东、实际控制人增持公司股份结果公告",
+        "summary": "欧伦电气(920081)：欧伦电气:关于控股股东、实际控制人增持公司股份结果公告",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920081/AN202610261830926384.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "欧伦电气(920081)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "苏文电能:关于回购公司股份比例达1%暨回购进展情况的公告",
+        "summary": "苏文电能(300982)：苏文电能:关于回购公司股份比例达1%暨回购进展情况的公告",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300982/AN202610261830925670.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "军工"
+          "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "苏文电能(300982)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回购进展情况"
       },
       {
-        "title": "上海：重点攻关卫星手机直连、天基算力及空天地一体和通感算智融合等技术",
-        "summary": "【上海：重点攻关卫星手机直连、天基算力及空天地一体和通感算智融合等技术】上海市经济和信息化委员会等六部门印发《上海市卫星互联网产业创新发展行动方案（2027-2030年）》。其中指出，突破网络架构与协同融合技术。重点攻关面向应用任务驱动的网络系统架构设计与在轨验证、卫星手机直连、天基算力及空天地一体和通感算智融合等技术。",
-        "publishedAt": "2026-10-26 17:09:42",
+        "title": "中科通达：股东上海悦驰无疆10月23日增持9.62万股 持股比例增至10%",
+        "summary": "【中科通达：股东上海悦驰无疆10月23日增持9.62万股 持股比例增至10%】中科通达(688038.SH)公告称，公司股东上海悦驰无疆于2026年10月23日通过集中竞价方式增持公司股份96,200股，增持金额166.29万元。增持后，上海悦驰无疆持股比例由9.92%增至10.00%，持有公司股份1,163.738万股。",
+        "publishedAt": "2026-10-26 17:14:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908085490.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力",
-          "军工"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "金禄电子：第三季度净利润同比增长1330% 环比增长178%",
-        "summary": "【金禄电子：第三季度净利润同比增长1330% 环比增长178%】金禄电子(301282.SZ)公告称，第三季度实现营业收入10.61亿元，同比增长101.11%；归属于上市公司股东的净利润1.30亿元，同比增长1329.92%。前三季度实现营业收入24.01亿元，同比增长64.28%；归属于上市公司股东的净利润1.86亿元，同比增长202.21%。业绩增长…",
-        "publishedAt": "2026-10-26 17:06:19",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908083596.html",
+        "url": "https://finance.eastmoney.com/a/202610263908095213.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -69151,27 +69113,69 @@
         "noticeType": ""
       },
       {
-        "title": "上海：到2030年在轨卫星总数超3000颗 核心产业规模突破800亿元",
-        "summary": "【上海：到2030年在轨卫星总数超3000颗 核心产业规模突破800亿元】上海市经济和信息化委员会等六部门印发《上海市卫星互联网产业创新发展行动方案（2027-2030年）》。其中指出，到2030年，核心技术自主可控，科研成果转化超100项；星地网络高效协同，在轨卫星总数超3000颗；产业集群优化完善，培育优质企业等主体超100家；创新应用深度融合，打造“…",
-        "publishedAt": "2026-10-26 17:05:54",
+        "title": "中谷物流：前三季度净利润同比增长36.70%",
+        "summary": "【中谷物流：前三季度净利润同比增长36.70%】中谷物流(603565.SH)公告称，第三季度营业收入为29.18亿元，同比增长13.95%；归属于上市公司股东的净利润为8.45亿元，同比增长149.41%。前三季度营业收入为83.75亿元，同比增长6.04%；归属于上市公司股东的净利润为19.28亿元，同比增长36.70%。",
+        "publishedAt": "2026-10-26 17:19:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908083761.html",
+        "url": "https://finance.eastmoney.com/a/202610263908100454.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "药明康德：第三季度净利润同比增长137% 环比增长29%",
+        "summary": "【药明康德：第三季度净利润同比增长137% 环比增长29%】药明康德(603259.SH)公告称，第三季度营业收入为166.40亿元，同比增长38.01%；归属于上市公司股东的净利润为83.18亿元，同比增长136.67%。前三季度实现营业收入455.37亿元，同比增长38.59%；归属于上市公司股东的净利润193.98亿元，同比增长60.64%。业绩增长…",
+        "publishedAt": "2026-10-26 17:19:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908097720.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美诺华：普瑞巴林原料药获欧洲CEP证书",
+        "summary": "【美诺华：普瑞巴林原料药获欧洲CEP证书】美诺华(603538.SH)公告称，公司收到欧洲药品质量管理局签发的普瑞巴林原料药欧洲CEP证书。该药品可用于生产普瑞巴林制剂，适用于神经病理性疼痛、癫痫发作辅助治疗及广泛性焦虑障碍。",
+        "publishedAt": "2026-10-26 17:18:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908100533.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
-          "军工"
+          "医药"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "大港股份：第三季度归母净利润同比下降56.07%",
-        "summary": "【大港股份：第三季度归母净利润同比下降56.07%】大港股份10月26日公告，2026年第三季度实现营业收入1.31亿元，同比增长19.04%；归母净利润1261.7万元，同比下降56.07%；基本每股收益0.0217元。",
-        "publishedAt": "2026-10-26 17:11:38",
+        "title": "建龙微纳：2026年第三季度净利润3307.47万元 同比增长37.51%",
+        "summary": "【建龙微纳：2026年第三季度净利润3307.47万元 同比增长37.51%】建龙微纳(688357)10月26日公告，2026年第三季度营业收入2.59亿元，同比增长21.94%；归属于上市公司股东的净利润3307.47万元，同比增长37.51%。2026年前三季度营业收入6.51亿元，同比增长10.37%；归属于上市公司股东的净利润7074.83万元，…",
+        "publishedAt": "2026-10-26 17:18:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610263908088777.html",
+        "url": "https://finance.eastmoney.com/a/202610263908101067.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "哈药股份：第三季度归母净利润同比增长175.67%",
+        "summary": "【哈药股份：第三季度归母净利润同比增长175.67%】哈药股份10月26日公告，2026年第三季度实现营业收入40.57亿元，同比增长4.11%；归母净利润1.9亿元，同比增长175.67%；基本每股收益0.08元。前三季度实现营业收入123.52亿元，同比增长2.75%；归母净利润6亿元，同比增长82.66%；基本每股收益0.24元。",
+        "publishedAt": "2026-10-26 17:17:38",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263908100735.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -69359,15 +69363,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-26 17:15:42",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 军工、AI算力、能源。",
+        "generatedAt": "2026-10-26 17:22:43",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 3 条；主题映射集中在 军工、医药、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：白酒、银行；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：军工、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：军工、医药、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69398,7 +69402,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-26 17:15:10",
+        "generatedAt": "2026-10-26 17:22:09",
         "summary": "上午情绪分 48，涨停 55 家，跌停 26 家，炸板 23 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -69437,7 +69441,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-26 17:15:10",
+        "generatedAt": "2026-10-26 17:22:09",
         "summary": "市场温度 弱，情绪周期偏分歧。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -69463,7 +69467,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 26 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：西菱动力:关于业绩承诺司法判决股权完成过户的公告；中富通:关于控股股东、实际控制人进行股份解除质押的公告。",
+              "新闻/公告风险：拓新药业:拓新药业集团股份有限公司与中泰证券股份有限公司关于拓新药业集团股份有限公司申请向特定对象发行股票的审核问询函之回复报告(豁免版)；拓新药业:信永中和会计师事务所(特殊普通合伙)关于拓新药业集团股份有限公司2026年度向特定对象发行股票的审核问询函的回复(豁免版)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
