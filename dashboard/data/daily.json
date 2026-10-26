@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-23",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-24 01:53:22",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-24 01:53:22",
+    "lastNewsAt": "2026-10-26 13:10:06"
   },
   "indices": [
     {
@@ -69266,15 +69268,22 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-23",
-    "generatedAt": "2026-10-24 01:54:46",
+    "tradeDate": "2026-10-26",
+    "generatedAt": "2026-10-26 13:10:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、医药。",
+    "errors": [
+      "macro-calendar: cannot convert float NaN to integer"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 半导体、AI算力、金融。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 13,
+        "name": "半导体",
+        "score": 11,
+        "isFocusBoard": true
+      },
+      {
+        "name": "AI算力",
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -69283,87 +69292,62 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 5,
+        "name": "新能源",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 4,
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告",
-        "summary": "蜂助手(301382)：蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告",
-        "publishedAt": "2026-10-23",
+        "title": "安宁股份:关于股东股份解除冻结的公告",
+        "summary": "安宁股份(002978)：安宁股份:关于股东股份解除冻结的公告",
+        "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301382/AN202610231830843938.html",
+        "url": "https://data.eastmoney.com/notices/detail/002978/AN202610261830913414.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "蜂助手(301382)"
+          "安宁股份(002978)"
         ],
         "importance": 1,
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "关于浙江万盛股份有限公司资产收购相关事项的监管工作函",
-        "summary": "万盛股份(603010)：关于浙江万盛股份有限公司资产收购相关事项的监管工作函",
-        "publishedAt": "2026-10-23",
+        "title": "海信家电:关于在海信集团财务有限公司开展存款金融业务的风险处置预案(2026年10月)",
+        "summary": "海信家电(000921)：海信家电:关于在海信集团财务有限公司开展存款金融业务的风险处置预案(2026年10月)",
+        "publishedAt": "2026-10-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603010/AN202610231830850891.html",
+        "url": "https://data.eastmoney.com/notices/detail/000921/AN202610251830891673.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "万盛股份(603010)"
+          "海信家电(000921)"
         ],
         "importance": 1,
-        "noticeType": "上交所股票监管工作函"
+        "noticeType": "其他"
       },
       {
-        "title": "8-1发行人及中介机构关于首轮审核问询函的回复(江苏鲁汶仪器股份有限公司)",
-        "summary": "鲁汶仪器(A26219)：8-1发行人及中介机构关于首轮审核问询函的回复(江苏鲁汶仪器股份有限公司)",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26219/AN202610231830850659.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "鲁汶仪器(A26219)"
-        ],
-        "importance": 1,
-        "noticeType": "科创板发行上市问询与回复"
-      },
-      {
-        "title": "旭杰科技:关于累计诉讼、仲裁的公告",
-        "summary": "旭杰科技(920149)：旭杰科技:关于累计诉讼、仲裁的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920149/AN202610231830850370.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "旭杰科技(920149)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "法国10年期国债风险溢价下降7个基点",
-        "summary": "法国10年期国债风险溢价下降7个基点，为10月6日以来最大降幅。",
-        "publishedAt": "2026-10-24 00:03:28",
+        "title": "杰瑞股份：目前公司中东项目仍有交付并验收",
+        "summary": "【杰瑞股份：目前公司中东项目仍有交付并验收】杰瑞股份(002353)近日接受特定对象调研时表示，受中东地缘冲突影响，部分项目存在国际物流运输环节受限情况，部分设备及物资的运输及交付节奏延迟，导致部分项目交付延期。公司会通过本地化生产、加强项目统筹、动态调整运输路线、全球供应链资源协同、强化核心客户关系等多种措施积极应对。目前公司中东项目仍有交付并验收，只是…",
+        "publishedAt": "2026-10-26 13:00:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610243906800872.html",
+        "url": "https://finance.eastmoney.com/a/202610263907833560.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -69373,209 +69357,242 @@
         "noticeType": ""
       },
       {
-        "title": "信息发展:交信(浙江)信息发展股份有限公司简式权益变动报告书(交信北斗(嘉兴)股权投资有限公司)",
-        "summary": "信息发展(300469)：信息发展:交信(浙江)信息发展股份有限公司简式权益变动报告书(交信北斗(嘉兴)股权投资有限公司)",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300469/AN202610231830849252.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "信息发展(300469)"
-        ],
-        "importance": 1,
-        "noticeType": "权益变动报告书"
-      },
-      {
-        "title": "骏亚科技:投资者关系活动记录表(2026年10月22日)",
-        "summary": "骏亚科技(603386)：骏亚科技:投资者关系活动记录表(2026年10月22日)",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603386/AN202610231830845377.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "骏亚科技(603386)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "龙竹科技:关于向2025年股权激励计划预留授予激励对象授予权益的公告",
-        "summary": "龙竹科技(920445)：龙竹科技:关于向2025年股权激励计划预留授予激励对象授予权益的公告",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920445/AN202610231830845884.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "龙竹科技(920445)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "雪峰科技:2026年10月21日投资者关系活动记录表",
-        "summary": "雪峰科技(603227)：雪峰科技:2026年10月21日投资者关系活动记录表",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603227/AN202610231830838091.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "雪峰科技(603227)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "京东方Ａ:050-2026年10月22日投资者关系活动记录表",
-        "summary": "京东方A(000725)：京东方Ａ:050-2026年10月22日投资者关系活动记录表",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000725/AN202610231830820497.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "京东方A(000725)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美好医疗:301363美好医疗投资者关系管理信息20261023",
-        "summary": "美好医疗(301363)：美好医疗:301363美好医疗投资者关系管理信息20261023",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301363/AN202610231830852770.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "2000亿医疗器械龙头，9连阳",
+        "summary": "【2000亿医疗器械龙头，9连阳】10月26日上午A股收盘，上证指数下跌0.18%，深证成指下跌1.05%，创业板指下跌1.65%，科创综指下跌1.6%。全市场逾2900只个股下跌，成交额为10156亿元。高股息资产、大消费、医药等板块上午表现活跃。医药股中，医疗器械龙头迈瑞医疗上涨3.15%，日线迎来9连阳，最新市值为2216.1亿元。",
+        "publishedAt": "2026-10-26 12:54:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263907823453.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "医药"
         ],
-        "tickers": [
-          "美好医疗(301363)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "2026-007浙江哈尔斯真空器皿股份有限公司投资者关系活动记录表",
-        "summary": "哈尔斯(002615)：2026-007浙江哈尔斯真空器皿股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002615/AN202610231830852290.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "哈尔斯(002615)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "三诺生物:2026年10月23日投资者关系活动记录表",
-        "summary": "三诺生物(300298)：三诺生物:2026年10月23日投资者关系活动记录表",
-        "publishedAt": "2026-10-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300298/AN202610231830850854.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "三诺生物(300298)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "美联储周五隔夜逆回购协议（RRP）使用规模为2亿美元",
-        "summary": "美联储周五隔夜逆回购协议（RRP）使用规模为2亿美元。",
-        "publishedAt": "2026-10-24 01:16:36",
+        "title": "蜂助手：算力服务器采购成本不会受市场价格波动影响",
+        "summary": "【蜂助手：算力服务器采购成本不会受市场价格波动影响】10月26日，蜂助手回应称，公司公告的服务器采购协议，采用分批次交付、分批验收及付款方式，协议中已明确约定每台服务器单价，采购成本不会受市场价格波动影响。未来，公司通过与供应商形成全方位的资源协同，确保交付链路顺畅和稳定，以及服务器采购成本的可控。公司正在有序推进算力服务器采购项目，后续进展情况若达到信息…",
+        "publishedAt": "2026-10-26 12:52:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610243906814497.html",
+        "url": "https://finance.eastmoney.com/a/202610263907826795.html",
         "category": "market",
         "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "科达利:投资者关系活动记录表（2026年10月23日）",
+        "summary": "科达利(002850)：科达利:投资者关系活动记录表（2026年10月23日）",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002850/AN202610261830908380.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "科达利(002850)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "杰瑞股份:2026年10月22日-10月23日投资者关系活动记录表",
+        "summary": "杰瑞股份(002353)：杰瑞股份:2026年10月22日-10月23日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002353/AN202610261830914415.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "杰瑞股份(002353)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "蓝思科技:2026年10月26日投资者关系活动记录表",
+        "summary": "蓝思科技(300433)：蓝思科技:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300433/AN202610261830910467.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "蓝思科技(300433)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中工国际:2026年10月23日投资者关系活动记录表",
+        "summary": "中工国际(002051)：中工国际:2026年10月23日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002051/AN202610261830904378.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中工国际(002051)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "洽洽食品:2026年10月23日投资者关系活动记录表",
+        "summary": "洽洽食品(002557)：洽洽食品:2026年10月23日投资者关系活动记录表",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002557/AN202610261830904079.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "洽洽食品(002557)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "本川智能:300964本川智能投资者关系管理信息20261026",
+        "summary": "本川智能(300964)：本川智能:300964本川智能投资者关系管理信息20261026",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300964/AN202610261830901126.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "本川智能(300964)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "天成自控:天成自控关于召开2026年第三季度业绩说明会的公告",
+        "summary": "天成自控(603085)：天成自控:天成自控关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603085/AN202610251830893747.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天成自控(603085)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "艾布鲁:关于部分募集资金投资项目延期的公告",
+        "summary": "艾布鲁(301259)：艾布鲁:关于部分募集资金投资项目延期的公告",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301259/AN202610251830892599.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "艾布鲁(301259)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "铖昌科技:浙江铖昌科技股份有限公司关于部分限制性股票回购注销完成的公告",
+        "summary": "铖昌科技(001270)：铖昌科技:浙江铖昌科技股份有限公司关于部分限制性股票回购注销完成的公告",
+        "publishedAt": "2026-10-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001270/AN202610251830892013.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
           "金融"
         ],
+        "tickers": [
+          "铖昌科技(001270)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "蓝思科技：对未来几个季度及明年经营改善保持乐观",
+        "summary": "【蓝思科技：对未来几个季度及明年经营改善保持乐观】10月26日，蓝思科技在最新披露的投资者关系活动记录表中表示，第三季度，公司实现营业收入190.35亿元，同比下降8.05%；归母净利润8.43亿元，比去年同期下降50.42%。主要因为去年同期受益于客户新品持续畅销，公司创造了历史最高的单季度收入和利润基数。而今年秋季客户调整了产品矩阵，发布节奏也有调整，…",
+        "publishedAt": "2026-10-26 13:00:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263907833169.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至10月21日美联储资产负债表(万亿美元)",
-        "summary": "美国截至10月21日美联储资产负债表(万亿美元)；公布 6.81，预期 nan，前值 6.81。",
-        "publishedAt": "2026-10-23 04:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月22日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月22日SPDR黄金持仓-每日更新(吨)；公布 1045.64，预期 nan，前值 1057.62。",
-        "publishedAt": "2026-10-23 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "4天接连投资两家芯片公司！米哈游千亿押注AI",
+        "summary": "【4天接连投资两家芯片公司！米哈游千亿押注AI】一边退出脑机接口，一边加码芯片投资。游戏巨头米哈游近期的“一退一进”，不仅引发行业关注，更折射出其投资重心的深刻转向：正将筹码从发散的前沿科技，集中到AI这一核心主线上。",
+        "publishedAt": "2026-10-26 12:58:12",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263907827173.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "半导体",
+          "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月22日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月22日iShares白银持仓-每日更新(吨)；公布 45140.4，预期 nan，前值 15485.69。",
-        "publishedAt": "2026-10-23 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月22日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月22日iShares黄金持仓-每日更新(吨)；公布 939.65，预期 nan，前值 463.81。",
-        "publishedAt": "2026-10-23 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "康师傅重庆公司新增发电业务等",
+        "summary": "【康师傅重庆公司新增发电业务等】近日，康师傅（重庆）方便食品有限公司发生工商变更，经营范围新增发电业务、输电业务、供（配）电业务，以及光伏发电设备租赁、粮食加工食品生产、食品添加剂销售等。该公司成立于2006年5月，法定代表人为谭莉，注册资本500万美元，由康师傅方便面投资（中国）有限公司全资持股。",
+        "publishedAt": "2026-10-26 12:54:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263907827280.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "新能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "日本8月领先指标月率终值报0.4% 前值0.4%",
+        "summary": "日本8月领先指标月率终值报0.4%，前值0.4%。",
+        "publishedAt": "2026-10-26 13:02:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610263907840272.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -69667,7 +69684,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -69680,15 +69697,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-24 01:54:46",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 有色稀土、金融、医药。",
+        "generatedAt": "2026-10-26 13:10:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 5 条；主题映射集中在 半导体、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：人形机器人、机器人概念、芯片概念；首看 人形机器人 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69784,7 +69801,7 @@
               "今日炸板 12 只，追高前先看前排封单和回封质量。",
               "今日跌停 6 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：蜂助手:蜂助手股份有限公司关于控股股东、实际控制人部分股份质押的公告；关于浙江万盛股份有限公司资产收购相关事项的监管工作函。",
+              "新闻/公告风险：安宁股份:关于股东股份解除冻结的公告；海信家电:关于在海信集团财务有限公司开展存款金融业务的风险处置预案(2026年10月)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
