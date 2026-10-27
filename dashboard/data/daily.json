@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-27",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-27 03:21:19",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-27 03:21:19",
+    "lastNewsAt": "2026-10-27 13:25:22"
   },
   "indices": [
     {
@@ -79292,10 +79294,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-27",
-    "generatedAt": "2026-10-27 03:22:15",
+    "generatedAt": "2026-10-27 13:25:22",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -79304,68 +79306,185 @@
       },
       {
         "name": "能源",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
         "score": 8,
         "isFocusBoard": false
       },
       {
+        "name": "AI算力",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
-        "score": 3,
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "元道退:关于公司股票进入退市整理期交易的第八次风险提示公告",
-        "summary": "元道退(301139)：元道退:关于公司股票进入退市整理期交易的第八次风险提示公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301139/AN202610261830946163.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "元道退(301139)"
-        ],
-        "importance": 1,
-        "noticeType": "实施退市风险警示"
-      },
-      {
-        "title": "创维数字:股票交易异常波动公告",
-        "summary": "创维数字(000810)：创维数字:股票交易异常波动公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000810/AN202610261830946162.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "创维数字(000810)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "原油期权释放中东供应风险上升信号",
-        "summary": "【原油期权释放中东供应风险上升信号】WTI原油期权看涨偏斜已升至+7.2%，为9月10日以来最高，反映在中东局势紧张背景下，市场对上行价格保护的需求上升。胡塞武装对沙特石油基础设施及地区航运的袭击加剧了供应中断担忧。与此同时，WTI原油1至2个月价差从5.40美元/桶收窄至2.30美元/桶，显示近期现货溢价走弱。尽管近期实物市场紧张状况缓解，期权交易员仍在…",
-        "publishedAt": "2026-10-27 02:08:47",
+        "title": "汇丰控股香港上市股票下跌5%",
+        "summary": "汇丰控股香港上市股票下跌5%。",
+        "publishedAt": "2026-10-27 13:22:18",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273908702783.html",
+        "url": "https://finance.eastmoney.com/a/202610273909522391.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "创业板指跌逾1% 科创50跌近2%",
+        "summary": "【创业板指跌逾1% 科创50跌近2%】指数走弱，创业板指下挫跌逾1%，沪指跌0.24%，深成指跌0.67%，科创50指数跌近2%。医药生物、军工、软件服务、锂电池等方向跌幅居前，沪深京三市下跌个股近4200只。",
+        "publishedAt": "2026-10-27 13:08:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610273909501887.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "能源"
+          "新能源",
+          "有色稀土",
+          "医药",
+          "军工"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "丽珠集团:2026年10月26日投资者关系活动记录表",
+        "summary": "丽珠集团(000513)：丽珠集团:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000513/AN202610271830994111.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "丽珠集团(000513)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "千红制药:2026年10月26日投资者关系活动记录表",
+        "summary": "千红制药(002550)：千红制药:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002550/AN202610271831015542.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "千红制药(002550)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "创世纪:300083创世纪投资者关系管理信息20261027",
+        "summary": "创世纪(300083)：创世纪:300083创世纪投资者关系管理信息20261027",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300083/AN202610271831010970.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "创世纪(300083)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300143盈康生命投资者关系管理信息20261026",
+        "summary": "盈康生命(300143)：300143盈康生命投资者关系管理信息20261026",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300143/AN202610271830997460.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盈康生命(300143)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "甘源食品:2026年10月26日投资者关系活动记录表",
+        "summary": "甘源食品(002991)：甘源食品:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002991/AN202610271830978428.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "甘源食品(002991)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "光威复材:2026年10月26日投资者关系活动记录表",
+        "summary": "光威复材(300699)：光威复材:2026年10月26日投资者关系活动记录表",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300699/AN202610271830976901.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "光威复材(300699)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国瓷材料:300285国瓷材料投资者关系管理信息20261026",
+        "summary": "国瓷材料(300285)：国瓷材料:300285国瓷材料投资者关系管理信息20261026",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300285/AN202610271830972457.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国瓷材料(300285)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "300438鹏辉能源投资者关系管理信息20261027",
@@ -79450,58 +79569,22 @@
         "noticeType": "股权激励对象名单"
       },
       {
-        "title": "新宙邦:关于对外投资设立合资公司暨投资建设年产15万吨高纯电子级溶剂项目的公告",
-        "summary": "新宙邦(300037)：新宙邦:关于对外投资设立合资公司暨投资建设年产15万吨高纯电子级溶剂项目的公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300037/AN202610261830946379.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "知情人士：DeepSeek大举扩充团队 梁文锋长期在北京租房",
+        "summary": "【知情人士：DeepSeek大举扩充团队 梁文锋长期在北京租房】10月27日，随着新一轮融资受到关注，DeepSeek的团队扩张也在加速。多位知情人士向凤凰网科技透露，DeepSeek近期扩张势头很猛。一位接近DeepSeek的人士表示，公司正在向投资人规划新的增长路线，其中包括大举扩充团队。这位接近DeepSeek的人士还透露，DeepSeek的办公地主…",
+        "publishedAt": "2026-10-27 13:10:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610273909505832.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
-        "tickers": [
-          "新宙邦(300037)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "长川科技:杭州长川科技股份有限公司关于召开2026年第三季度业绩说明会的公告",
-        "summary": "长川科技(300604)：长川科技:杭州长川科技股份有限公司关于召开2026年第三季度业绩说明会的公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202610261830946298.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "长川科技(300604)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长川科技:杭州长川科技股份有限公司关于回购公司股份方案的公告",
-        "summary": "长川科技(300604)：长川科技:杭州长川科技股份有限公司关于回购公司股份方案的公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300604/AN202610261830946309.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长川科技(300604)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
+        "noticeType": ""
       },
       {
         "title": "美国10月26日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月26日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1041.65。",
+        "summary": "美国10月26日SPDR黄金持仓-每日更新(吨)；公布 1040.8，预期 nan，前值 1041.65。",
         "publishedAt": "2026-10-27 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -79517,7 +79600,7 @@
       },
       {
         "title": "美国10月26日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月26日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 939.64。",
+        "summary": "美国10月26日iShares黄金持仓-每日更新(吨)；公布 462.84，预期 nan，前值 463.81。",
         "publishedAt": "2026-10-27 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -79533,7 +79616,7 @@
       },
       {
         "title": "美国10月26日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月26日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 45139.2。",
+        "summary": "美国10月26日iShares白银持仓-每日更新(吨)；公布 15485.69，预期 nan，前值 15499.73。",
         "publishedAt": "2026-10-27 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -79541,66 +79624,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月23日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月23日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 232829.73。",
-        "publishedAt": "2026-10-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚截至10月25日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至10月25日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 67.7。",
-        "publishedAt": "2026-10-27 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国9月规模以上工业企业利润年率-单月(%)",
-        "summary": "中国9月规模以上工业企业利润年率-单月(%)；公布 nan，预期 nan，前值 4.2。",
-        "publishedAt": "2026-10-27 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "中国10月27日上期所每日仓单变动-铜(吨)",
-        "summary": "中国10月27日上期所每日仓单变动-铜(吨)；公布 nan，预期 nan，前值 -2839.0。",
-        "publishedAt": "2026-10-27 15:10",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -79771,7 +79794,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -79784,8 +79807,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-27 03:22:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 3 条；主题映射集中在 有色稀土、能源、AI算力。",
+        "generatedAt": "2026-10-27 13:25:22",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
@@ -79888,7 +79911,7 @@
               "今日炸板 23 只，追高前先看前排封单和回封质量。",
               "今日跌停 26 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：元道退:关于公司股票进入退市整理期交易的第八次风险提示公告；创维数字:股票交易异常波动公告。",
+              "新闻/公告风险：汇丰控股香港上市股票下跌5%；创业板指跌逾1% 科创50跌近2%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
