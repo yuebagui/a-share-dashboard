@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-27",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-27 21:37:58",
+    "generatedAt": "2026-10-27 22:16:34",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -51060,24 +51060,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-27",
-    "generatedAt": "2026-10-27 21:39:12",
+    "generatedAt": "2026-10-27 22:17:47",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
-        "name": "金融",
-        "score": 15,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 6,
+        "name": "金融",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -51086,7 +51081,27 @@
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       }
@@ -51107,22 +51122,6 @@
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "摩根士丹利：黄金对冲角色需重新定位 仍维持金属类资产首选",
-        "summary": "【摩根士丹利：黄金对冲角色需重新定位 仍维持金属类资产首选】黄金价格从本年初的每盎司5600美元一路下跌，至近期跌破每盎司4000美元。尽管短期走势疲软，但摩根士丹利表示，会维持黄金为金属类资产首选，并设定2027年第二季目标价每盎司5000美元。",
-        "publishedAt": "2026-10-27 21:27:28",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273910448435.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       },
       {
         "title": "002293罗莱生活投资者关系管理信息20261027",
@@ -51223,6 +51222,22 @@
         "noticeType": "调研活动"
       },
       {
+        "title": "001201东瑞股份投资者关系管理信息20261027",
+        "summary": "东瑞股份(001201)：001201东瑞股份投资者关系管理信息20261027",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001201/AN202610271831044303.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "东瑞股份(001201)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
         "title": "300463迈克生物投资者关系管理信息20261027",
         "summary": "迈克生物(300463)：300463迈克生物投资者关系管理信息20261027",
         "publishedAt": "2026-10-27",
@@ -51287,43 +51302,11 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "军信股份:2026年10月27日投资者关系活动记录表",
-        "summary": "军信股份(301109)：军信股份:2026年10月27日投资者关系活动记录表",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301109/AN202610271831042625.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "军信股份(301109)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "晶合集成：董事长提议回购公司A股及H股股份",
-        "summary": "【晶合集成：董事长提议回购公司A股及H股股份】晶合集成(688249)10月27日公告，董事长蔡国智提议5亿元—8亿元回购公司A股股份，用于员工持股及/或股权激励计划；提议3亿港元—6亿港元回购公司H股股份，回购的H股将予注销及/或持作库存股。",
-        "publishedAt": "2026-10-27 21:26:00",
+        "title": "提前结募主动ETF已11只 2只周四开始建仓",
+        "summary": "【提前结募主动ETF已11只 2只周四开始建仓】首批主动ETF于10月23日启动募集，截至10月27日，沪市9只产品中的7只已募满20亿元，合计募集资金163.3亿元，近10万户参与了沪市主动ETF的认购，其中，机构投资者认购占比超20%。",
+        "publishedAt": "2026-10-27 22:03:15",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273910448610.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "AMD拟向Meta股票发行投资10亿美元",
-        "summary": "【AMD拟向Meta股票发行投资10亿美元】AMD拟向Meta股票发行投资10亿美元，AMDHelios机架级系统现已在Meta运行。",
-        "publishedAt": "2026-10-27 21:22:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273910446864.html",
+        "url": "https://finance.eastmoney.com/a/202610273910521480.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -51333,51 +51316,79 @@
         "noticeType": ""
       },
       {
-        "title": "德美化工：拟4000万元—5000万元回购公司股份",
-        "summary": "【德美化工：拟4000万元—5000万元回购公司股份】德美化工(002054)10月27日公告，拟4000万元—5000万元回购公司股份，用于股权激励或员工持股计划，回购价格不超过10元/股（含）。",
-        "publishedAt": "2026-10-27 21:21:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273910442987.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月26日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月26日SPDR黄金持仓-每日更新(吨)；公布 1040.8，预期 nan，前值 1041.65。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "7只沪市主动ETF已募满 近10万户投资者认购",
-        "summary": "【7只沪市主动ETF已募满 近10万户投资者认购】首批主动ETF10月23日启动募集，截至10月27日，沪市9只产品中的7只已募满，合计募集资金163.3亿元，其中，机构投资者认购占比超20%。证券时报记者获悉，近10万户投资者参与了沪市主动ETF的认购。",
-        "publishedAt": "2026-10-27 21:11:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273910436481.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月26日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月26日iShares黄金持仓-每日更新(吨)；公布 462.84，预期 nan，前值 463.81。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "聚飞光电：拟5000万元—8000万元回购公司股份",
-        "summary": "【聚飞光电：拟5000万元—8000万元回购公司股份】聚飞光电(300303)10月27日公告，拟5000万元—8000万元回购公司股份，用于后续实施员工持股计划或者股权激励，回购价格不超过9.69元/股。",
-        "publishedAt": "2026-10-27 21:09:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273910434013.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月26日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月26日iShares白银持仓-每日更新(吨)；公布 15485.69，预期 nan，前值 15499.73。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月23日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月23日COMEX黄金库存-每日更新(百盎司)；公布 232124.02，预期 nan，前值 232829.73。",
+        "publishedAt": "2026-10-27 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至10月25日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至10月25日当周ANZ消费者信心指数；公布 67.9，预期 nan，前值 67.7。",
+        "publishedAt": "2026-10-27 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -51594,15 +51605,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-27 21:39:12",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-10-27 22:17:47",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -51633,7 +51644,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-27 21:37:58",
+        "generatedAt": "2026-10-27 22:16:34",
         "summary": "上午情绪分 42，涨停 41 家，跌停 22 家，炸板 28 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -51672,7 +51683,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-27 21:37:58",
+        "generatedAt": "2026-10-27 22:16:34",
         "summary": "市场温度 冰，情绪周期偏分歧。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -51698,7 +51709,7 @@
               "今日炸板 28 只，追高前先看前排封单和回封质量。",
               "今日跌停 22 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：艾融软件:持股5%以上股东拟减持股份的预披露公告；摩根士丹利：黄金对冲角色需重新定位 仍维持金属类资产首选。",
+              "新闻/公告风险：艾融软件:持股5%以上股东拟减持股份的预披露公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
