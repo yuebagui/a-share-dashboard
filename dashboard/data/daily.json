@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-27",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-27 17:16:10",
+    "generatedAt": "2026-10-27 17:20:47",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -78968,14 +78968,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-27",
-    "generatedAt": "2026-10-27 17:17:03",
+    "generatedAt": "2026-10-27 17:21:48",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 有色稀土、医药、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、医药、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 19,
+        "score": 16,
         "isFocusBoard": false
       },
       {
@@ -78984,18 +78984,18 @@
         "isFocusBoard": false
       },
       {
+        "name": "金融",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
         "name": "军工",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 3,
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -79005,6 +79005,22 @@
       }
     ],
     "items": [
+      {
+        "title": "运达科技:关于控股股东部分股份解除质押的公告",
+        "summary": "运达科技(300440)：运达科技:关于控股股东部分股份解除质押的公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300440/AN202610271831026616.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "运达科技(300440)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
       {
         "title": "同和药业:关于新增募集资金专项账户并签署募集资金监管协议的公告",
         "summary": "同和药业(300636)：同和药业:关于新增募集资金专项账户并签署募集资金监管协议的公告",
@@ -79020,6 +79036,22 @@
         ],
         "importance": 1,
         "noticeType": "签订协议"
+      },
+      {
+        "title": "炬华科技:关于重大经营合同预中标的提示性公告",
+        "summary": "炬华科技(300360)：炬华科技:关于重大经营合同预中标的提示性公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300360/AN202610271831026622.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "炬华科技(300360)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
       },
       {
         "title": "长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)在深圳证券交易所上市的公告",
@@ -79172,38 +79204,20 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "天岳先进:投资者关系活动记录表(2026-010)",
-        "summary": "天岳先进(688234)：天岳先进:投资者关系活动记录表(2026-010)",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688234/AN202610271831024721.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天岳先进(688234)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "赤峰黄金:投资者关系活动记录表(2026年10月26日)",
-        "summary": "赤峰黄金(600988)：赤峰黄金:投资者关系活动记录表(2026年10月26日)",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600988/AN202610271831024716.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "世华科技：拟5000万元-1亿元回购公司股份",
+        "summary": "【世华科技：拟5000万元-1亿元回购公司股份】世华科技10月27日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于5000万元且不超过1亿元，回购价格32元/股。回购股份将用于维护公司价值及股东权益。",
+        "publishedAt": "2026-10-27 17:16:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610273909972785.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
-        "tickers": [
-          "赤峰黄金(600988)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
         "title": "中文传媒：子公司签订17亿元免费教科书采购合同",
@@ -79277,22 +79291,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月23日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月23日COMEX黄金库存-每日更新(百盎司)；公布 232124.02，预期 nan，前值 232829.73。",
-        "publishedAt": "2026-10-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -79511,15 +79509,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-27 17:17:03",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 有色稀土、医药、军工。",
+        "generatedAt": "2026-10-27 17:21:48",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、医药、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、医药、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -79550,7 +79548,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-27 17:16:10",
+        "generatedAt": "2026-10-27 17:20:47",
         "summary": "上午情绪分 42，涨停 41 家，跌停 22 家，炸板 28 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -79589,7 +79587,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-27 17:16:10",
+        "generatedAt": "2026-10-27 17:20:47",
         "summary": "市场温度 冰，情绪周期偏分歧。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -79615,7 +79613,7 @@
               "今日炸板 28 只，追高前先看前排封单和回封质量。",
               "今日跌停 22 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：同和药业:关于新增募集资金专项账户并签署募集资金监管协议的公告。",
+              "新闻/公告风险：运达科技:关于控股股东部分股份解除质押的公告；同和药业:关于新增募集资金专项账户并签署募集资金监管协议的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
