@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-27",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-27 17:20:47",
+    "generatedAt": "2026-10-27 21:37:58",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -50889,7 +50889,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -51059,97 +51060,140 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-27",
-    "generatedAt": "2026-10-27 17:21:48",
+    "generatedAt": "2026-10-27 21:39:12",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、医药、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 16,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 6,
+        "score": 15,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "有色稀土",
+        "score": 14,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 5,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "运达科技:关于控股股东部分股份解除质押的公告",
-        "summary": "运达科技(300440)：运达科技:关于控股股东部分股份解除质押的公告",
+        "title": "艾融软件:持股5%以上股东拟减持股份的预披露公告",
+        "summary": "艾融软件(920799)：艾融软件:持股5%以上股东拟减持股份的预披露公告",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300440/AN202610271831026616.html",
+        "url": "https://data.eastmoney.com/notices/detail/920799/AN202610271831039191.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "运达科技(300440)"
+          "艾融软件(920799)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "同和药业:关于新增募集资金专项账户并签署募集资金监管协议的公告",
-        "summary": "同和药业(300636)：同和药业:关于新增募集资金专项账户并签署募集资金监管协议的公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300636/AN202610271831026364.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "摩根士丹利：黄金对冲角色需重新定位 仍维持金属类资产首选",
+        "summary": "【摩根士丹利：黄金对冲角色需重新定位 仍维持金属类资产首选】黄金价格从本年初的每盎司5600美元一路下跌，至近期跌破每盎司4000美元。尽管短期走势疲软，但摩根士丹利表示，会维持黄金为金属类资产首选，并设定2027年第二季目标价每盎司5000美元。",
+        "publishedAt": "2026-10-27 21:27:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610273910448435.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "同和药业(300636)"
+        "themes": [
+          "有色稀土"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "签订协议"
+        "noticeType": ""
       },
       {
-        "title": "炬华科技:关于重大经营合同预中标的提示性公告",
-        "summary": "炬华科技(300360)：炬华科技:关于重大经营合同预中标的提示性公告",
+        "title": "002293罗莱生活投资者关系管理信息20261027",
+        "summary": "罗莱生活(002293)：002293罗莱生活投资者关系管理信息20261027",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300360/AN202610271831026622.html",
+        "url": "https://data.eastmoney.com/notices/detail/002293/AN202610271831040347.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "炬华科技(300360)"
+          "罗莱生活(002293)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": "调研活动"
       },
       {
-        "title": "长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)在深圳证券交易所上市的公告",
-        "summary": "长城证券(002939)：长城证券:长城证券股份有限公司2026年面向专业投资者公开发行公司债券(第三期)在深圳证券交易所上市的公告",
+        "title": "新疆火炬:2026年10月26日投资者关系活动记录表",
+        "summary": "新疆火炬(603080)：新疆火炬:2026年10月26日投资者关系活动记录表",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002939/AN202610271831025797.html",
+        "url": "https://data.eastmoney.com/notices/detail/603080/AN202610271831024715.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新疆火炬(603080)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "华数传媒:2026年10月27日投资者关系活动记录表",
+        "summary": "华数传媒(000156)：华数传媒:2026年10月27日投资者关系活动记录表",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000156/AN202610271831038590.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华数传媒(000156)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "联动科技:关于调整2023年限制性股票激励计划相关事项的公告",
+        "summary": "联动科技(301369)：联动科技:关于调整2023年限制性股票激励计划相关事项的公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301369/AN202610271831038936.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "联动科技(301369)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "威博液压:回购股份注销完成暨股份变动公告",
+        "summary": "威博液压(920245)：威博液压:回购股份注销完成暨股份变动公告",
+        "publishedAt": "2026-10-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920245/AN202610271831026689.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -51157,149 +51201,113 @@
           "金融"
         ],
         "tickers": [
-          "长城证券(002939)"
+          "威博液压(920245)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "股本变动"
       },
       {
-        "title": "盛弘股份:2026年10月27日投资者关系活动记录表",
-        "summary": "盛弘股份(300693)：盛弘股份:2026年10月27日投资者关系活动记录表",
+        "title": "丽珠集团:2026年10月26日投资者关系活动记录表",
+        "summary": "丽珠集团(000513)：丽珠集团:2026年10月26日投资者关系活动记录表",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300693/AN202610271831025591.html",
+        "url": "https://data.eastmoney.com/notices/detail/000513/AN202610271830994111.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "盛弘股份(300693)"
+          "丽珠集团(000513)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "同大股份:关于使用部分闲置自有资金购买理财产品的进展公告",
-        "summary": "同大股份(300321)：同大股份:关于使用部分闲置自有资金购买理财产品的进展公告",
+        "title": "300463迈克生物投资者关系管理信息20261027",
+        "summary": "迈克生物(300463)：300463迈克生物投资者关系管理信息20261027",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300321/AN202610271831025602.html",
+        "url": "https://data.eastmoney.com/notices/detail/300463/AN202610271831043014.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "同大股份(300321)"
+          "迈克生物(300463)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "调研活动"
       },
       {
-        "title": "晨曦航空:西安晨曦航空科技股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回的公告",
-        "summary": "晨曦航空(300581)：晨曦航空:西安晨曦航空科技股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回的公告",
+        "title": "300768迪普科技投资者关系管理信息20261027",
+        "summary": "迪普科技(300768)：300768迪普科技投资者关系管理信息20261027",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300581/AN202610271831025551.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "军工"
-        ],
-        "tickers": [
-          "晨曦航空(300581)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "海天瑞声:投资者关系活动记录表-(2026年10月26日)",
-        "summary": "海天瑞声(688787)：海天瑞声:投资者关系活动记录表-(2026年10月26日)",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688787/AN202610271831025206.html",
+        "url": "https://data.eastmoney.com/notices/detail/300768/AN202610271831042987.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "海天瑞声(688787)"
+          "迪普科技(300768)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "乐鑫科技:2026年10月23日、26日投资者关系活动记录表",
-        "summary": "乐鑫科技(688018)：乐鑫科技:2026年10月23日、26日投资者关系活动记录表",
+        "title": "博腾股份:2026年10月27日投资者关系活动记录表",
+        "summary": "博腾股份(300363)：博腾股份:2026年10月27日投资者关系活动记录表",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688018/AN202610271831024723.html",
+        "url": "https://data.eastmoney.com/notices/detail/300363/AN202610271831042931.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "乐鑫科技(688018)"
+          "博腾股份(300363)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "特宝生物:投资者关系活动记录表(2026年10月23日)",
-        "summary": "特宝生物(688278)：特宝生物:投资者关系活动记录表(2026年10月23日)",
+        "title": "兆新股份:002256兆新股份投资者关系管理信息20261027",
+        "summary": "兆新股份(002256)：兆新股份:002256兆新股份投资者关系管理信息20261027",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688278/AN202610271831024714.html",
+        "url": "https://data.eastmoney.com/notices/detail/002256/AN202610271831042648.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "特宝生物(688278)"
+          "兆新股份(002256)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "九州通:九州通医药集团股份有限公司投资者关系活动记录表(2026年10月26日)",
-        "summary": "九州通(600998)：九州通:九州通医药集团股份有限公司投资者关系活动记录表(2026年10月26日)",
+        "title": "军信股份:2026年10月27日投资者关系活动记录表",
+        "summary": "军信股份(301109)：军信股份:2026年10月27日投资者关系活动记录表",
         "publishedAt": "2026-10-27",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600998/AN202610271831024717.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "九州通(600998)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金钼股份:2026年10月22日投资者关系活动记录表",
-        "summary": "金钼股份(601958)：金钼股份:2026年10月22日投资者关系活动记录表",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601958/AN202610271831024720.html",
+        "url": "https://data.eastmoney.com/notices/detail/301109/AN202610271831042625.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "金钼股份(601958)"
+          "军信股份(301109)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "世华科技：拟5000万元-1亿元回购公司股份",
-        "summary": "【世华科技：拟5000万元-1亿元回购公司股份】世华科技10月27日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于5000万元且不超过1亿元，回购价格32元/股。回购股份将用于维护公司价值及股东权益。",
-        "publishedAt": "2026-10-27 17:16:44",
+        "title": "晶合集成：董事长提议回购公司A股及H股股份",
+        "summary": "【晶合集成：董事长提议回购公司A股及H股股份】晶合集成(688249)10月27日公告，董事长蔡国智提议5亿元—8亿元回购公司A股股份，用于员工持股及/或股权激励计划；提议3亿港元—6亿港元回购公司H股股份，回购的H股将予注销及/或持作库存股。",
+        "publishedAt": "2026-10-27 21:26:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273909972785.html",
+        "url": "https://finance.eastmoney.com/a/202610273910448610.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -51311,11 +51319,11 @@
         "noticeType": ""
       },
       {
-        "title": "中文传媒：子公司签订17亿元免费教科书采购合同",
-        "summary": "【中文传媒：子公司签订17亿元免费教科书采购合同】中文传媒(600373.SH)公告称，公司一级全资子公司江西新华发行集团与江西省教育厅签订《江西省2026—2027年义务教育免费教科书采购合同》，合同总金额约17亿元，为预估价，具体金额以实际订单结算为准。",
-        "publishedAt": "2026-10-27 17:09:58",
+        "title": "AMD拟向Meta股票发行投资10亿美元",
+        "summary": "【AMD拟向Meta股票发行投资10亿美元】AMD拟向Meta股票发行投资10亿美元，AMDHelios机架级系统现已在Meta运行。",
+        "publishedAt": "2026-10-27 21:22:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273909963458.html",
+        "url": "https://finance.eastmoney.com/a/202610273910446864.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -51325,65 +51333,51 @@
         "noticeType": ""
       },
       {
-        "title": "上海卫星互联网产业基金启动筹建",
-        "summary": "【上海卫星互联网产业基金启动筹建】10月27日，2026卫星互联网产业生态大会在上海召开。界面新闻在会上获悉，上海正式启动筹建卫星互联网产业基金。该基金由市区两级投资平台联合社会资本共同发起，将发挥国有资本杠杆作用，赋能技术创新，培育产业生态。",
-        "publishedAt": "2026-10-27 17:06:01",
+        "title": "德美化工：拟4000万元—5000万元回购公司股份",
+        "summary": "【德美化工：拟4000万元—5000万元回购公司股份】德美化工(002054)10月27日公告，拟4000万元—5000万元回购公司股份，用于股权激励或员工持股计划，回购价格不超过10元/股（含）。",
+        "publishedAt": "2026-10-27 21:21:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273909959069.html",
+        "url": "https://finance.eastmoney.com/a/202610273910442987.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "军工"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月26日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月26日SPDR黄金持仓-每日更新(吨)；公布 1040.8，预期 nan，前值 1041.65。",
-        "publishedAt": "2026-10-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "7只沪市主动ETF已募满 近10万户投资者认购",
+        "summary": "【7只沪市主动ETF已募满 近10万户投资者认购】首批主动ETF10月23日启动募集，截至10月27日，沪市9只产品中的7只已募满，合计募集资金163.3亿元，其中，机构投资者认购占比超20%。证券时报记者获悉，近10万户投资者参与了沪市主动ETF的认购。",
+        "publishedAt": "2026-10-27 21:11:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610273910436481.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月26日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月26日iShares黄金持仓-每日更新(吨)；公布 462.84，预期 nan，前值 463.81。",
-        "publishedAt": "2026-10-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "聚飞光电：拟5000万元—8000万元回购公司股份",
+        "summary": "【聚飞光电：拟5000万元—8000万元回购公司股份】聚飞光电(300303)10月27日公告，拟5000万元—8000万元回购公司股份，用于后续实施员工持股计划或者股权激励，回购价格不超过9.69元/股。",
+        "publishedAt": "2026-10-27 21:09:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610273910434013.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月26日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月26日iShares白银持仓-每日更新(吨)；公布 15485.69，预期 nan，前值 15499.73。",
-        "publishedAt": "2026-10-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -51600,15 +51594,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-27 17:21:48",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、医药、金融。",
+        "generatedAt": "2026-10-27 21:39:12",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、医药、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -51639,7 +51633,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-27 17:20:47",
+        "generatedAt": "2026-10-27 21:37:58",
         "summary": "上午情绪分 42，涨停 41 家，跌停 22 家，炸板 28 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -51678,7 +51672,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-27 17:20:47",
+        "generatedAt": "2026-10-27 21:37:58",
         "summary": "市场温度 冰，情绪周期偏分歧。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -51704,7 +51698,7 @@
               "今日炸板 28 只，追高前先看前排封单和回封质量。",
               "今日跌停 22 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：运达科技:关于控股股东部分股份解除质押的公告；同和药业:关于新增募集资金专项账户并签署募集资金监管协议的公告。",
+              "新闻/公告风险：艾融软件:持股5%以上股东拟减持股份的预披露公告；摩根士丹利：黄金对冲角色需重新定位 仍维持金属类资产首选。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
