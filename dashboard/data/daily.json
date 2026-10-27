@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-10-27",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-10-27 22:16:34",
+    "tradeDate": "2026-10-28",
+    "phase": "盘中快照",
+    "generatedAt": "2026-10-28 02:37:38",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -51059,140 +51059,163 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-10-27",
-    "generatedAt": "2026-10-27 22:17:47",
+    "tradeDate": "2026-10-28",
+    "generatedAt": "2026-10-28 02:38:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 12,
+        "name": "金融",
+        "score": 14,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 3,
+        "name": "有色稀土",
+        "score": 13,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 2,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "艾融软件:持股5%以上股东拟减持股份的预披露公告",
-        "summary": "艾融软件(920799)：艾融软件:持股5%以上股东拟减持股份的预披露公告",
-        "publishedAt": "2026-10-27",
+        "title": "比依股份:浙江比依电器股份有限公司关于控股股东减持事项相关承诺的公告",
+        "summary": "比依股份(603215)：比依股份:浙江比依电器股份有限公司关于控股股东减持事项相关承诺的公告",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920799/AN202610271831039191.html",
+        "url": "https://data.eastmoney.com/notices/detail/603215/AN202610271831044721.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "艾融软件(920799)"
+          "比依股份(603215)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "永安期货:永安期货股份有限公司关于持股5%以上股东提前终止减持计划暨减持股份结果公告",
+        "summary": "永安期货(600927)：永安期货:永安期货股份有限公司关于持股5%以上股东提前终止减持计划暨减持股份结果公告",
+        "publishedAt": "2026-10-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600927/AN202610271831044207.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "永安期货(600927)"
         ],
         "importance": 1,
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "002293罗莱生活投资者关系管理信息20261027",
-        "summary": "罗莱生活(002293)：002293罗莱生活投资者关系管理信息20261027",
-        "publishedAt": "2026-10-27",
+        "title": "中科星图:中科星图股份有限公司关于2026年半年度报告的信息披露监管问询函的回复公告",
+        "summary": "中科星图(688568)：中科星图:中科星图股份有限公司关于2026年半年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002293/AN202610271831040347.html",
+        "url": "https://data.eastmoney.com/notices/detail/688568/AN202610271831043787.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "中科星图(688568)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "欧盟委员会提出加强欧盟气候风险应对能力",
+        "summary": "【欧盟委员会提出加强欧盟气候风险应对能力】欧盟委员会27日发布欧盟气候韧性框架，旨在加强欧盟预判、应对和管理气候风险的能力。",
+        "publishedAt": "2026-10-28 02:28:52",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283910637366.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议",
+        "summary": "美国一家监管机构据悉正在调查预测市场运营商Polymarket是否违反了2022年禁止美国用户的协议。",
+        "publishedAt": "2026-10-28 01:19:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283910634259.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "紫光国微:2026年10月27日投资者关系活动记录表",
+        "summary": "紫光国微(002049)：紫光国微:2026年10月27日投资者关系活动记录表",
+        "publishedAt": "2026-10-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002049/AN202610281831048112.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "罗莱生活(002293)"
+          "紫光国微(002049)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "新疆火炬:2026年10月26日投资者关系活动记录表",
-        "summary": "新疆火炬(603080)：新疆火炬:2026年10月26日投资者关系活动记录表",
-        "publishedAt": "2026-10-27",
+        "title": "托伦斯:301583托伦斯投资者关系管理信息20261027",
+        "summary": "托伦斯(301583)：托伦斯:301583托伦斯投资者关系管理信息20261027",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603080/AN202610271831024715.html",
+        "url": "https://data.eastmoney.com/notices/detail/301583/AN202610281831047428.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "新疆火炬(603080)"
+          "托伦斯(301583)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "华数传媒:2026年10月27日投资者关系活动记录表",
-        "summary": "华数传媒(000156)：华数传媒:2026年10月27日投资者关系活动记录表",
-        "publishedAt": "2026-10-27",
+        "title": "广信股份:关于董事长提议回购公司股份的提示性公告",
+        "summary": "广信股份(603599)：广信股份:关于董事长提议回购公司股份的提示性公告",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000156/AN202610271831038590.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华数传媒(000156)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "联动科技:关于调整2023年限制性股票激励计划相关事项的公告",
-        "summary": "联动科技(301369)：联动科技:关于调整2023年限制性股票激励计划相关事项的公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301369/AN202610271831038936.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联动科技(301369)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "威博液压:回购股份注销完成暨股份变动公告",
-        "summary": "威博液压(920245)：威博液压:回购股份注销完成暨股份变动公告",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920245/AN202610271831026689.html",
+        "url": "https://data.eastmoney.com/notices/detail/603599/AN202610271831044966.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -51200,157 +51223,147 @@
           "金融"
         ],
         "tickers": [
-          "威博液压(920245)"
+          "广信股份(603599)"
         ],
         "importance": 1,
-        "noticeType": "股本变动"
+        "noticeType": "回购预案"
       },
       {
-        "title": "丽珠集团:2026年10月26日投资者关系活动记录表",
-        "summary": "丽珠集团(000513)：丽珠集团:2026年10月26日投资者关系活动记录表",
-        "publishedAt": "2026-10-27",
+        "title": "水星家纺:关于董事长提议回购公司股份的提示性公告",
+        "summary": "水星家纺(603365)：水星家纺:关于董事长提议回购公司股份的提示性公告",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000513/AN202610271830994111.html",
+        "url": "https://data.eastmoney.com/notices/detail/603365/AN202610271831044967.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "水星家纺(603365)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "天有为:关于实际控制人之一兼董事、总经理增持股份计划的公告",
+        "summary": "天有为(603202)：天有为:关于实际控制人之一兼董事、总经理增持股份计划的公告",
+        "publishedAt": "2026-10-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603202/AN202610271831044276.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "丽珠集团(000513)"
+          "天有为(603202)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股东/实际控制人股份增持"
       },
       {
-        "title": "001201东瑞股份投资者关系管理信息20261027",
-        "summary": "东瑞股份(001201)：001201东瑞股份投资者关系管理信息20261027",
-        "publishedAt": "2026-10-27",
+        "title": "江南新材:关于部分董事、高级管理人员增持股份计划公告",
+        "summary": "江南新材(603124)：江南新材:关于部分董事、高级管理人员增持股份计划公告",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001201/AN202610271831044303.html",
+        "url": "https://data.eastmoney.com/notices/detail/603124/AN202610271831044263.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "东瑞股份(001201)"
+          "江南新材(603124)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "高管人员持股变动"
       },
       {
-        "title": "300463迈克生物投资者关系管理信息20261027",
-        "summary": "迈克生物(300463)：300463迈克生物投资者关系管理信息20261027",
-        "publishedAt": "2026-10-27",
+        "title": "利柏特:关于股份回购进展公告",
+        "summary": "利柏特(605167)：利柏特:关于股份回购进展公告",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300463/AN202610271831043014.html",
+        "url": "https://data.eastmoney.com/notices/detail/605167/AN202610271831044213.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "利柏特(605167)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "中科星图:中科星图股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "summary": "中科星图(688568)：中科星图:中科星图股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-10-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688568/AN202610271831043790.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "迈克生物(300463)"
+          "中科星图(688568)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "300768迪普科技投资者关系管理信息20261027",
-        "summary": "迪普科技(300768)：300768迪普科技投资者关系管理信息20261027",
-        "publishedAt": "2026-10-27",
+        "title": "正虹科技:关于对外投资设立全资子公司的公告",
+        "summary": "正虹科技(000702)：正虹科技:关于对外投资设立全资子公司的公告",
+        "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300768/AN202610271831042987.html",
+        "url": "https://data.eastmoney.com/notices/detail/000702/AN202610271831043517.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "迪普科技(300768)"
+          "正虹科技(000702)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "投资设立公司"
       },
       {
-        "title": "博腾股份:2026年10月27日投资者关系活动记录表",
-        "summary": "博腾股份(300363)：博腾股份:2026年10月27日投资者关系活动记录表",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300363/AN202610271831042931.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博腾股份(300363)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "兆新股份:002256兆新股份投资者关系管理信息20261027",
-        "summary": "兆新股份(002256)：兆新股份:002256兆新股份投资者关系管理信息20261027",
-        "publishedAt": "2026-10-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002256/AN202610271831042648.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "兆新股份(002256)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "提前结募主动ETF已11只 2只周四开始建仓",
-        "summary": "【提前结募主动ETF已11只 2只周四开始建仓】首批主动ETF于10月23日启动募集，截至10月27日，沪市9只产品中的7只已募满20亿元，合计募集资金163.3亿元，近10万户参与了沪市主动ETF的认购，其中，机构投资者认购占比超20%。",
-        "publishedAt": "2026-10-27 22:03:15",
+        "title": "俄罗斯将7名英国军工企业高管列入禁止入境名单",
+        "summary": "【俄罗斯将7名英国军工企业高管列入禁止入境名单】俄罗斯外交部27日发表声明说，为回应英国当局的敌对政策，俄罗斯决定将7名英国军工企业高管列入俄禁止入境名单。声明说，这7名高管向乌克兰提供武器和军事技术，且被用于深入俄罗斯境内实施打击，目标是给俄罗斯造成破坏。声明还提及，英国称其军工企业从中获得某种“国防红利”。",
+        "publishedAt": "2026-10-28 02:07:24",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610273910521480.html",
+        "url": "https://finance.eastmoney.com/a/202610283910636926.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "军工"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月26日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月26日SPDR黄金持仓-每日更新(吨)；公布 1040.8，预期 nan，前值 1041.65。",
-        "publishedAt": "2026-10-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "美联储隔夜逆回购协议周二使用规模为2.26亿美元（交易对手2家） 上个交易日报2亿美元",
+        "summary": "美联储隔夜逆回购协议（RRP）周二使用规模为2.26亿美元（交易对手2家），上个交易日报2亿美元。",
+        "publishedAt": "2026-10-28 01:25:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283910634584.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国10月26日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月26日iShares黄金持仓-每日更新(吨)；公布 462.84，预期 nan，前值 463.81。",
-        "publishedAt": "2026-10-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月26日iShares白银持仓-每日更新(吨)",
-        "summary": "美国10月26日iShares白银持仓-每日更新(吨)；公布 15485.69，预期 nan，前值 15499.73。",
-        "publishedAt": "2026-10-27 06:30",
+        "title": "美国截至10月23日当周API汽油库存变动(万桶)",
+        "summary": "美国截至10月23日当周API汽油库存变动(万桶)；公布 nan，预期 -128.8，前值 -195.4。",
+        "publishedAt": "2026-10-28 04:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -51362,31 +51375,17 @@
         "noticeType": ""
       },
       {
-        "title": "美国10月23日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月23日COMEX黄金库存-每日更新(百盎司)；公布 232124.02，预期 nan，前值 232829.73。",
-        "publishedAt": "2026-10-27 06:30",
+        "title": "美国截至10月23日当周API原油库存变动(万桶)",
+        "summary": "美国截至10月23日当周API原油库存变动(万桶)；公布 nan，预期 52.2，前值 -493.1。",
+        "publishedAt": "2026-10-28 04:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚截至10月25日当周ANZ消费者信心指数",
-        "summary": "澳大利亚截至10月25日当周ANZ消费者信心指数；公布 67.9，预期 nan，前值 67.7。",
-        "publishedAt": "2026-10-27 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -51592,7 +51591,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "冰",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -51605,15 +51604,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-27 22:17:47",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-10-28 02:38:40",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -51644,7 +51643,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-27 22:16:34",
+        "generatedAt": "2026-10-28 02:37:38",
         "summary": "上午情绪分 42，涨停 41 家，跌停 22 家，炸板 28 家，连板 12 家，最高 5 板。",
         "sections": [
           {
@@ -51683,7 +51682,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-27 22:16:34",
+        "generatedAt": "2026-10-28 02:37:38",
         "summary": "市场温度 冰，情绪周期偏分歧。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -51709,7 +51708,7 @@
               "今日炸板 28 只，追高前先看前排封单和回封质量。",
               "今日跌停 22 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：艾融软件:持股5%以上股东拟减持股份的预披露公告。",
+              "新闻/公告风险：比依股份:浙江比依电器股份有限公司关于控股股东减持事项相关承诺的公告；永安期货:永安期货股份有限公司关于持股5%以上股东提前终止减持计划暨减持股份结果公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
