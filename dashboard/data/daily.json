@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-28",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-28 18:01:45",
+    "generatedAt": "2026-10-28 22:13:23",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -73937,7 +73937,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -74109,19 +74110,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-28",
-    "generatedAt": "2026-10-28 18:03:29",
+    "generatedAt": "2026-10-28 22:17:31",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、能源、半导体。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 10,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 7,
         "isFocusBoard": false
       },
       {
@@ -74130,38 +74131,43 @@
         "isFocusBoard": true
       },
       {
-        "name": "机器人",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 3,
+        "name": "金融",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "印度市场监管机构主席：正在考虑为证券交易推出国内人工智能模型",
-        "summary": "印度市场监管机构主席表示，正在考虑为证券交易推出国内人工智能模型。",
-        "publishedAt": "2026-10-28 17:53:11",
+        "title": "易天股份:关于日常经营重要合同的诉讼进展公告",
+        "summary": "易天股份(300812)：易天股份:关于日常经营重要合同的诉讼进展公告",
+        "publishedAt": "2026-10-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300812/AN202610281831123485.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "易天股份(300812)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "美联储10月利率决议预判 金融机构预计：美联储或在12月加息25个基点",
+        "summary": "【美联储10月利率决议预判 金融机构预计：美联储或在12月加息25个基点】分析认为，从风险回报角度来说，10月维持利率不变可能是更合适的结果。目前来看，高盛、摩根大通、摩根士丹利、巴克莱、德意志银行、瑞银及汇丰等主要金融机构均预计，美联储将在12月加息25个基点。",
+        "publishedAt": "2026-10-28 21:55:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610283912136485.html",
+        "url": "https://finance.eastmoney.com/a/202610283912652536.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "AI算力",
           "金融"
         ],
         "tickers": [],
@@ -74169,11 +74175,11 @@
         "noticeType": ""
       },
       {
-        "title": "美国被曝向俄方抛出多项经济合作提议 前提是结束俄乌冲突",
-        "summary": "【美国被曝向俄方抛出多项经济合作提议 前提是结束俄乌冲突】27日，据多方消息，围绕有关结束俄乌冲突的讨论，美国政府向俄罗斯抛出了一系列美俄开展经济合作的提议。美国国会中期选举在即，美国总统特朗普所在的共和党选情严峻，白宫寻求取得外交突破以赚取政治加分。",
-        "publishedAt": "2026-10-28 17:52:31",
+        "title": "SpaceX股价下跌3%",
+        "summary": "【SpaceX股价下跌3%】SpaceX股价下跌3%，报143.955美元/股，总市值报1.96万亿美元。",
+        "publishedAt": "2026-10-28 21:46:39",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610283912123264.html",
+        "url": "https://finance.eastmoney.com/a/202610283912640918.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -74183,17 +74189,33 @@
         "noticeType": ""
       },
       {
-        "title": "富春股份:2026年10月27日投资者关系活动记录表",
-        "summary": "富春股份(300299)：富春股份:2026年10月27日投资者关系活动记录表",
+        "title": "华信新材:300717华信新材投资者关系管理信息20261028",
+        "summary": "华信新材(300717)：华信新材:300717华信新材投资者关系管理信息20261028",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300299/AN202610281831118020.html",
+        "url": "https://data.eastmoney.com/notices/detail/300717/AN202610281831125899.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "富春股份(300299)"
+          "华信新材(300717)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "力合微:2026年10月23日至27日投资者关系活动记录表",
+        "summary": "力合微(688589)：力合微:2026年10月23日至27日投资者关系活动记录表",
+        "publishedAt": "2026-10-28",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688589/AN202610281831124088.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "力合微(688589)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -74231,179 +74253,127 @@
         "noticeType": "重大合同"
       },
       {
-        "title": "联合动力:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "summary": "联合动力(301656)：联合动力:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "title": "000893亚钾国际投资者关系管理信息20261028",
+        "summary": "亚钾国际(000893)：000893亚钾国际投资者关系管理信息20261028",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301656/AN202610281831122414.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "联合动力(301656)"
-        ],
-        "importance": 1,
-        "noticeType": "借贷"
-      },
-      {
-        "title": "恩捷股份:2026年10月28日投资者关系活动记录表",
-        "summary": "恩捷股份(002812)：恩捷股份:2026年10月28日投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002812/AN202610281831121532.html",
+        "url": "https://data.eastmoney.com/notices/detail/000893/AN202610281831132274.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "恩捷股份(002812)"
+          "亚钾国际(000893)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "西麦食品:2026年10月28日投资者关系活动记录表",
-        "summary": "西麦食品(002956)：西麦食品:2026年10月28日投资者关系活动记录表",
+        "title": "金力永磁:2026年10月28日投资者关系活动记录表",
+        "summary": "金力永磁(300748)：金力永磁:2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002956/AN202610281831121630.html",
+        "url": "https://data.eastmoney.com/notices/detail/300748/AN202610281831132140.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "西麦食品(002956)"
+          "金力永磁(300748)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "欧陆通:2026年10月28日投资者关系活动记录表",
-        "summary": "欧陆通(300870)：欧陆通:2026年10月28日投资者关系活动记录表",
+        "title": "佐力药业:2026年10月27日投资者关系活动记录表",
+        "summary": "佐力药业(300181)：佐力药业:2026年10月27日投资者关系活动记录表",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300870/AN202610281831121356.html",
+        "url": "https://data.eastmoney.com/notices/detail/300181/AN202610281831131844.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "欧陆通(300870)"
+          "佐力药业(300181)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "东方钽业:000962东方钽业投资者关系管理信息20261028",
-        "summary": "东方钽业(000962)：东方钽业:000962东方钽业投资者关系管理信息20261028",
+        "title": "协创数据:2026年10月27日、2026年10月28日投资者关系活动记录表",
+        "summary": "协创数据(300857)：协创数据:2026年10月27日、2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000962/AN202610281831121351.html",
+        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610281831130791.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "东方钽业(000962)"
+          "协创数据(300857)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "创新新材:创新新材料科技股份有限公司投资者关系活动记录表(10月28日)",
-        "summary": "创新新材(600361)：创新新材:创新新材料科技股份有限公司投资者关系活动记录表(10月28日)",
+        "title": "每日互动:2026年10月28日投资者关系活动记录表",
+        "summary": "每日互动(300766)：每日互动:2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600361/AN202610281831121415.html",
+        "url": "https://data.eastmoney.com/notices/detail/300766/AN202610281831130794.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "创新新材(600361)"
+          "每日互动(300766)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "泉阳泉:2026年第三季度业绩说明会的投资者关系活动记录表",
-        "summary": "泉阳泉(600189)：泉阳泉:2026年第三季度业绩说明会的投资者关系活动记录表",
+        "title": "2026年10月28日天孚通信投资者关系活动记录表",
+        "summary": "天孚通信(300394)：2026年10月28日天孚通信投资者关系活动记录表",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600189/AN202610281831120548.html",
+        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610281831130737.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "泉阳泉(600189)"
+          "天孚通信(300394)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "天德钰:深圳天德钰科技股份有限公司投资者关系活动记录表-2026-05",
-        "summary": "天德钰(688252)：天德钰:深圳天德钰科技股份有限公司投资者关系活动记录表-2026-05",
+        "title": "盈趣科技:2026年10月28日投资者关系活动记录表",
+        "summary": "盈趣科技(002925)：盈趣科技:2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-28",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688252/AN202610281831120326.html",
+        "url": "https://data.eastmoney.com/notices/detail/002925/AN202610281831130420.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "天德钰(688252)"
+          "盈趣科技(002925)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "国力电子:投资者关系活动记录表-2026年半年度暨第三季度业绩说明会",
-        "summary": "国力电子(688103)：国力电子:投资者关系活动记录表-2026年半年度暨第三季度业绩说明会",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688103/AN202610281831120194.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国力电子(688103)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "广合科技：拟1亿元至2亿元回购公司股份",
-        "summary": "【广合科技：拟1亿元至2亿元回购公司股份】广合科技(001389.SZ)公告称，公司拟以集中竞价方式回购A股股份，资金总额不低于1亿元且不超过2亿元，回购价格不超过237元/股，回购股份将用于股权激励或员工持股计划。",
-        "publishedAt": "2026-10-28 17:42:04",
+        "title": "加拿大央行：可能需要再次加息",
+        "summary": "【加拿大央行：可能需要再次加息】加拿大央行称，可能需要再次加息。鉴于不确定性，委员会同意谨慎行事；注意到不确定性仍然很高；经济展现出韧性，货币政策宽松空间缩小。",
+        "publishedAt": "2026-10-28 21:46:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610283912108572.html",
+        "url": "https://finance.eastmoney.com/a/202610283912639956.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "汇川技术：电机、仿生臂等产品已在部分头部客户实现批量交付",
-        "summary": "【汇川技术：电机、仿生臂等产品已在部分头部客户实现批量交付】汇川技术在投资者关系活动中表示，电机、仿生臂等产品已在部分头部客户实现批量交付，工业场景轮式人形机器人整机也在公司自有工厂开展验证。今年订单及收入规模可达千万级。",
-        "publishedAt": "2026-10-28 17:36:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610283912108949.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "机器人"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -74434,6 +74404,20 @@
         "themes": [
           "能源"
         ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月27日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月27日iShares白银持仓-每日更新(吨)；公布 15499.73，预期 nan，前值 15485.69。",
+        "publishedAt": "2026-10-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -74939,15 +74923,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-28 18:03:29",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-10-28 22:17:31",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、能源、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -74978,7 +74962,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-28 18:01:45",
+        "generatedAt": "2026-10-28 22:13:23",
         "summary": "上午情绪分 95，涨停 72 家，跌停 5 家，炸板 69 家，连板 8 家，最高 5 板。",
         "sections": [
           {
@@ -75017,7 +75001,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-28 18:01:45",
+        "generatedAt": "2026-10-28 22:13:23",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -75043,7 +75027,7 @@
               "今日炸板 69 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：印度市场监管机构主席：正在考虑为证券交易推出国内人工智能模型；美国被曝向俄方抛出多项经济合作提议 前提是结束俄乌冲突。",
+              "新闻/公告风险：易天股份:关于日常经营重要合同的诉讼进展公告；美联储10月利率决议预判 金融机构预计：美联储或在12月加息25个基点。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
