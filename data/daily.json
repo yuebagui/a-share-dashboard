@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-29",
     "phase": "盘中快照",
-    "generatedAt": "2026-10-29 02:45:14",
+    "generatedAt": "2026-10-29 02:52:52",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -74110,14 +74110,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-29",
-    "generatedAt": "2026-10-29 02:46:38",
+    "generatedAt": "2026-10-29 02:54:19",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 有色稀土、半导体、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、半导体、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
@@ -74131,18 +74131,18 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "军工",
         "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 4,
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -74260,39 +74260,6 @@
         "noticeType": "召开股东大会通知"
       },
       {
-        "title": "惠誉警告称：人工智能热潮和收益率上升威胁全球市场",
-        "summary": "【惠誉警告称：人工智能热潮和收益率上升威胁全球市场】惠誉评级警告称，进入2027年，全球信用风险正在恶化，理由包括人工智能投资的不确定性、能源价格高企以及融资环境收紧。惠誉预计，美联储政策利率将达到4.25%，并在2027年全年维持在该水平，今年预计还将加息一次。",
-        "publishedAt": "2026-10-29 02:15:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912766816.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储利率决议公布后 现货黄金价格基本持平",
-        "summary": "美联储利率决议公布后，现货黄金价格基本持平，最新下跌0.5%，报4038.44美元/盎司。",
-        "publishedAt": "2026-10-29 02:06:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912764644.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "300757罗博特科投资者关系管理信息20261029",
         "summary": "罗博特科(300757)：300757罗博特科投资者关系管理信息20261029",
         "publishedAt": "2026-10-29",
@@ -74375,11 +74342,67 @@
         "noticeType": "投资理财"
       },
       {
+        "title": "伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪",
+        "summary": "【伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪】当地时间28日，伊朗议会国家安全与外交政策委员会主席阿齐兹表示，议会关于退出《不扩散核武器条约》的计划已准备就绪。他表示，“只要全国上下对此行动有充分的意愿，法律层面上已准备完毕。”",
+        "publishedAt": "2026-10-29 02:46:38",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293912769776.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储主席沃什表示：目前对于货币政策还没有确切的结论",
+        "summary": "美联储主席沃什表示，目前对于货币政策还没有确切的结论。",
+        "publishedAt": "2026-10-29 02:43:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293912769612.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "沃什：美联储日程安排将从明年秋季开始变化 2027年将有一次会议不进行利率投票",
+        "summary": "【沃什：美联储日程安排将从明年秋季开始变化 2027年将有一次会议不进行利率投票】美联储主席沃什表示，联邦公开市场委员会的日程安排将从明年秋季开始变化。2027年有一次会议既不进行利率投票，也不发布政策声明。预计2028年有两次FOMC会议不进行利率投票。",
+        "publishedAt": "2026-10-29 02:41:30",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293912769255.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "美联储主席沃什表示：美联储认为掌握更多信息将有助于确定政策立场",
         "summary": "美联储主席沃什表示，美联储认为掌握更多信息将有助于确定政策立场。",
         "publishedAt": "2026-10-29 02:34:22",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202610293912768927.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美联储主席沃什：美国通货膨胀依然高企",
+        "summary": "美联储主席沃什表示，美国经济活动正以强劲的速度扩张。美国国内消费一直保持韧性，生产力强劲，资本投资稳健。通货膨胀依然高企。美联储将实现物价稳定。",
+        "publishedAt": "2026-10-29 02:32:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293912768866.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -74402,34 +74425,6 @@
         ],
         "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月联邦基金利率目标上限(%)",
-        "summary": "美国10月联邦基金利率目标上限(%)；公布 4.0，预期 4.0，前值 4.0。",
-        "publishedAt": "2026-10-29 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月联邦基金利率目标下限(%)",
-        "summary": "美国10月联邦基金利率目标下限(%)；公布 3.75，预期 3.75，前值 3.75。",
-        "publishedAt": "2026-10-29 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -74933,8 +74928,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-29 02:46:38",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 9 条；主题映射集中在 有色稀土、半导体、金融。",
+        "generatedAt": "2026-10-29 02:54:19",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、半导体、金融。",
         "sections": [
           {
             "title": "今日先看",
@@ -74972,7 +74967,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-29 02:45:14",
+        "generatedAt": "2026-10-29 02:52:52",
         "summary": "上午情绪分 95，涨停 72 家，跌停 5 家，炸板 69 家，连板 8 家，最高 5 板。",
         "sections": [
           {
@@ -75011,7 +75006,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-29 02:45:14",
+        "generatedAt": "2026-10-29 02:52:52",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
