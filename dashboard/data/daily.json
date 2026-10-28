@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-28",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-28 22:32:27",
+    "generatedAt": "2026-10-28 22:59:11",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -74110,14 +74110,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-28",
-    "generatedAt": "2026-10-28 22:34:53",
+    "generatedAt": "2026-10-28 23:01:12",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 能源、有色稀土、金融。",
+    "errors": [
+      "notices: ('Connection broken: IncompleteRead(16121 bytes read, 65146 more expected)', IncompleteRead(16121 bytes read, 65146 more expected))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 能源、有色稀土、金融。",
     "themes": [
       {
         "name": "能源",
-        "score": 9,
+        "score": 12,
         "isFocusBoard": false
       },
       {
@@ -74127,36 +74129,41 @@
       },
       {
         "name": "金融",
-        "score": 2,
+        "score": 6,
         "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 5,
+        "isFocusBoard": true
       }
     ],
     "items": [
       {
-        "title": "易天股份:关于日常经营重要合同的诉讼进展公告",
-        "summary": "易天股份(300812)：易天股份:关于日常经营重要合同的诉讼进展公告",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300812/AN202610281831123485.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "易天股份(300812)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "美联储10月利率决议预判 金融机构预计：美联储或在12月加息25个基点",
-        "summary": "【美联储10月利率决议预判 金融机构预计：美联储或在12月加息25个基点】分析认为，从风险回报角度来说，10月维持利率不变可能是更合适的结果。目前来看，高盛、摩根大通、摩根士丹利、巴克莱、德意志银行、瑞银及汇丰等主要金融机构均预计，美联储将在12月加息25个基点。",
-        "publishedAt": "2026-10-28 21:55:00",
+        "title": "布伦特原油突破112美元/桶",
+        "summary": "布伦特原油突破112美元/桶，日内涨2.39%。",
+        "publishedAt": "2026-10-28 22:50:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610283912652536.html",
+        "url": "https://finance.eastmoney.com/a/202610283912709847.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国银行：投资者两周内从美股撤资185亿美元",
+        "summary": "【美国银行：投资者两周内从美股撤资185亿美元】美国银行客户上周净卖出35亿美元美国股票，此前一周资金流出规模达150亿美元。美银分析师吉尔·凯里·霍尔与特雷·布朗表示，本轮抛售以散户投资者为主导。通信服务板块录得2018年开始统计以来最大单周资金流出，该板块包含Meta公司。工业板块同样遭遇大规模抛售，已经连续第13周出现资金外流。",
+        "publishedAt": "2026-10-28 22:45:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912706926.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
@@ -74165,205 +74172,17 @@
         "noticeType": ""
       },
       {
-        "title": "SpaceX股价下跌3%",
-        "summary": "【SpaceX股价下跌3%】SpaceX股价下跌3%，报143.955美元/股，总市值报1.96万亿美元。",
-        "publishedAt": "2026-10-28 21:46:39",
+        "title": "花旗：重申SK海力士“买入”评级 上调第四财季经营溢利预测",
+        "summary": "【花旗：重申SK海力士“买入”评级 上调第四财季经营溢利预测】花旗发表报告，重申对SK海力士的“买入”评级，目标价维持在300万韩元不变。花旗将第四财季的经营溢利预测从89.8万亿韩元上调至107万亿韩元，并将2026/2027全年的经营溢利预测分别上调7%和12%。基于2026财年约100万亿韩元的股东回报规模，该行预计第四财季的股东回报约为35万亿韩元…",
+        "publishedAt": "2026-10-28 22:44:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610283912640918.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "华信新材:300717华信新材投资者关系管理信息20261028",
-        "summary": "华信新材(300717)：华信新材:300717华信新材投资者关系管理信息20261028",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300717/AN202610281831125899.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华信新材(300717)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "力合微:2026年10月23日至27日投资者关系活动记录表",
-        "summary": "力合微(688589)：力合微:2026年10月23日至27日投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688589/AN202610281831124088.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "力合微(688589)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "香飘飘:投资者关系活动记录表",
-        "summary": "香飘飘(603711)：香飘飘:投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603711/AN202610281831106533.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "香飘飘(603711)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "友讯达:关于收到中标通知书的公告",
-        "summary": "友讯达(300514)：友讯达:关于收到中标通知书的公告",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300514/AN202610281831116341.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "友讯达(300514)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "000893亚钾国际投资者关系管理信息20261028",
-        "summary": "亚钾国际(000893)：000893亚钾国际投资者关系管理信息20261028",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000893/AN202610281831132274.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "亚钾国际(000893)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金力永磁:2026年10月28日投资者关系活动记录表",
-        "summary": "金力永磁(300748)：金力永磁:2026年10月28日投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300748/AN202610281831132140.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金力永磁(300748)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "佐力药业:2026年10月27日投资者关系活动记录表",
-        "summary": "佐力药业(300181)：佐力药业:2026年10月27日投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300181/AN202610281831131844.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "佐力药业(300181)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "协创数据:2026年10月27日、2026年10月28日投资者关系活动记录表",
-        "summary": "协创数据(300857)：协创数据:2026年10月27日、2026年10月28日投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300857/AN202610281831130791.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "协创数据(300857)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "每日互动:2026年10月28日投资者关系活动记录表",
-        "summary": "每日互动(300766)：每日互动:2026年10月28日投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300766/AN202610281831130794.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "每日互动(300766)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "2026年10月28日天孚通信投资者关系活动记录表",
-        "summary": "天孚通信(300394)：2026年10月28日天孚通信投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300394/AN202610281831130737.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天孚通信(300394)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "盈趣科技:2026年10月28日投资者关系活动记录表",
-        "summary": "盈趣科技(002925)：盈趣科技:2026年10月28日投资者关系活动记录表",
-        "publishedAt": "2026-10-28",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002925/AN202610281831130420.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盈趣科技(002925)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "加拿大央行：可能需要再次加息",
-        "summary": "【加拿大央行：可能需要再次加息】加拿大央行称，可能需要再次加息。鉴于不确定性，委员会同意谨慎行事；注意到不确定性仍然很高；经济展现出韧性，货币政策宽松空间缩小。",
-        "publishedAt": "2026-10-28 21:46:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610283912639956.html",
+        "url": "https://finance.eastmoney.com/a/202610283912706396.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -74410,6 +74229,184 @@
         "themes": [],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月27日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月27日SPDR黄金持仓-每日更新(吨)；公布 1041.65，预期 nan，前值 1040.8。",
+        "publishedAt": "2026-10-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月26日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国10月26日COMEX黄金库存-每日更新(百盎司)；公布 231966.36，预期 nan，前值 232124.02。",
+        "publishedAt": "2026-10-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月27日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月27日iShares黄金持仓-每日更新(吨)；公布 462.26，预期 nan，前值 462.84。",
+        "publishedAt": "2026-10-28 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚第三季度CPI季率(%)",
+        "summary": "澳大利亚第三季度CPI季率(%)；公布 1.3，预期 1.2，前值 0.6。",
+        "publishedAt": "2026-10-28 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚9月统计局CPI年率-季调后(%)",
+        "summary": "澳大利亚9月统计局CPI年率-季调后(%)；公布 4.3，预期 4.2，前值 4.0。",
+        "publishedAt": "2026-10-28 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "豪威集团：预计第四季度营收同比增长9.71%至17.71% 光通信高速模拟电芯片等新品量产导入",
+        "summary": "【豪威集团：预计第四季度营收同比增长9.71%至17.71% 光通信高速模拟电芯片等新品量产导入】豪威集团(603501.SH)公告称，公司预计2026年第四季度实现营业收入77.59亿元至83.24亿元，较上年同期变动9.71%至17.71%，较上季度变动-4.50%至2.47%；毛利率约为29.44%至30.74%。",
+        "publishedAt": "2026-10-28 22:54:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912712140.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "滔搏中期净利润6.6亿元 拟派发中期股息每股0.11元",
+        "summary": "【滔搏中期净利润6.6亿元，拟派发中期股息每股0.11元】10月28日，滔搏发布2026/27财年中期业绩公告。截至2026年8月31日止六个月，滔搏实现营业收入109.1亿元，净利润6.6亿元。公司存货金额同比下降15.7%；经营业务所产生的现金净额18.4亿元。公司将派发截至2026年8月31日止六个月的中期股息每股0.11元。",
+        "publishedAt": "2026-10-28 22:54:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912712331.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "EIA：美国上周原油产量升至历史新高",
+        "summary": "美国能源信息署（EIA）表示，美国原油产量在最近一周升至纪录高位。",
+        "publishedAt": "2026-10-28 22:52:44",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912711782.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "燃油期货主力合约涨5.01% 报5571元/吨",
+        "summary": "燃油期货主力合约涨5.01%，报5571元/吨。",
+        "publishedAt": "2026-10-28 22:47:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912707387.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "42股特大单净流入超2亿元",
+        "summary": "【42股特大单净流入超2亿元】数据宝统计，两市全天特大单净流入249.75亿元，其中42股特大单净流入超2亿元，中际旭创特大单净流入28.22亿元，特大单净流入资金居首。兆易创新特大单净流入资金14.53亿元，位列第二；净流入资金居前的还有新易盛、天孚通信、金安国纪等。特大单净流出股中，宁德时代特大单净流出资金8.87亿元，净流出资金最多；源杰科技、西安奕…",
+        "publishedAt": "2026-10-28 22:47:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912707236.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国军方估计：伊朗战争成本已升至470亿美元",
+        "summary": "美国军方估计，伊朗战争成本已升至470亿美元。",
+        "publishedAt": "2026-10-28 22:46:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912706662.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "斯特兰蒂斯美股大涨超14% 第三季度净营收为376亿欧元 同比增长1%",
+        "summary": "斯特兰蒂斯（Stellantis）美股大涨超14%，第三季度净营收为376亿欧元，同比增长1%；净亏损大幅收窄90%至4.53亿欧元。",
+        "publishedAt": "2026-10-28 22:42:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610283912704275.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -74913,8 +74910,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-28 22:34:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 能源、有色稀土、金融。",
+        "generatedAt": "2026-10-28 23:01:12",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 能源、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
@@ -74952,7 +74949,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-28 22:32:27",
+        "generatedAt": "2026-10-28 22:59:11",
         "summary": "上午情绪分 95，涨停 72 家，跌停 5 家，炸板 69 家，连板 8 家，最高 5 板。",
         "sections": [
           {
@@ -74991,7 +74988,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-28 22:32:27",
+        "generatedAt": "2026-10-28 22:59:11",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -75017,7 +75014,7 @@
               "今日炸板 69 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：易天股份:关于日常经营重要合同的诉讼进展公告；美联储10月利率决议预判 金融机构预计：美联储或在12月加息25个基点。",
+              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
