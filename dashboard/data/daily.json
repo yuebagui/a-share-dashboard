@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-29",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-29 18:25:11",
+    "generatedAt": "2026-10-29 22:42:05",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -55202,7 +55202,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -55373,174 +55374,139 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-29",
-    "generatedAt": "2026-10-29 18:27:04",
+    "generatedAt": "2026-10-29 22:43:56",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 12,
+        "score": 15,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 7,
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
+        "name": "新能源",
         "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "卓兆点胶:关于签署募集资金专户三方监管协议的公告",
-        "summary": "卓兆点胶(920026)：卓兆点胶:关于签署募集资金专户三方监管协议的公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920026/AN202610291831178298.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "拉加德：目前未看到第二轮效应的实质性风险",
+        "summary": "【拉加德：目前未看到第二轮效应的实质性风险】拉加德称，目前未看到第二轮效应的实质性风险，并表示，委员会讨论了加息这个选项是否适宜；自9月份以来，长期融资的成本已经上涨。",
+        "publishedAt": "2026-10-29 22:04:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293914932995.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "卓兆点胶(920026)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "签订协议"
+        "noticeType": ""
       },
       {
-        "title": "九州通:九州通医药集团股份有限公司投资者关系活动记录表(2026年10月29日)",
-        "summary": "九州通(600998)：九州通:九州通医药集团股份有限公司投资者关系活动记录表(2026年10月29日)",
+        "title": "拉加德：增长面临下行风险",
+        "summary": "【拉加德：增长面临下行风险】拉加德表示，增长面临下行风险，未来几个季度通胀率将远高于目标水平。",
+        "publishedAt": "2026-10-29 21:58:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293914904685.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "标普500通信服务板块指数创14个月新低",
+        "summary": "【标普500通信服务板块指数创14个月新低】标普500通信服务板块指数创14个月新低，最新下跌6.9%。",
+        "publishedAt": "2026-10-29 21:52:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293914901652.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "家联科技:2026年10月28日投资者关系活动记录表",
+        "summary": "家联科技(301193)：家联科技:2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600998/AN202610291831178200.html",
+        "url": "https://data.eastmoney.com/notices/detail/301193/AN202610291831181548.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "医药"
-        ],
+        "themes": [],
         "tickers": [
-          "九州通(600998)"
+          "家联科技(301193)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "聚和材料:投资者关系活动记录表(2026年三季度业绩说明会)2026-005",
-        "summary": "聚和材料(688503)：聚和材料:投资者关系活动记录表(2026年三季度业绩说明会)2026-005",
+        "title": "陕鼓动力:西安陕鼓动力股份有限公司投资者关系活动记录表2026年7-9月",
+        "summary": "陕鼓动力(601369)：陕鼓动力:西安陕鼓动力股份有限公司投资者关系活动记录表2026年7-9月",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688503/AN202610291831178199.html",
+        "url": "https://data.eastmoney.com/notices/detail/601369/AN202610291831173133.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "聚和材料(688503)"
+          "陕鼓动力(601369)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "以岭药业:2026年10月29日投资者关系活动记录表",
-        "summary": "以岭药业(002603)：以岭药业:2026年10月29日投资者关系活动记录表",
+        "title": "信维通信:2026年10月28日投资者关系活动记录表",
+        "summary": "信维通信(300136)：信维通信:2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002603/AN202610291831178201.html",
+        "url": "https://data.eastmoney.com/notices/detail/300136/AN202610291831172138.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "以岭药业(002603)"
+          "信维通信(300136)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "众鑫股份:投资者关系活动记录表2026.10.29",
-        "summary": "众鑫股份(603091)：众鑫股份:投资者关系活动记录表2026.10.29",
+        "title": "鼎泰高科:关于回购事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "summary": "鼎泰高科(301377)：鼎泰高科:关于回购事项前十名股东和前十名无限售条件股东持股情况的公告",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603091/AN202610291831178147.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "众鑫股份(603091)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "灿瑞科技:投资者关系活动会议纪要-2026年第三季度业绩说明会20261029",
-        "summary": "灿瑞科技(688061)：灿瑞科技:投资者关系活动会议纪要-2026年第三季度业绩说明会20261029",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688061/AN202610291831178149.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "灿瑞科技(688061)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "卓兆点胶:使用闲置募集资金进行现金管理的公告",
-        "summary": "卓兆点胶(920026)：卓兆点胶:使用闲置募集资金进行现金管理的公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920026/AN202610291831178294.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "卓兆点胶(920026)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "海菲曼:关于新增部分募投项目实施地点及调整内部投资结构的公告",
-        "summary": "海菲曼(920183)：海菲曼:关于新增部分募投项目实施地点及调整内部投资结构的公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920183/AN202610291831178085.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海菲曼(920183)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "海菲曼:申港证券股份有限公司关于昆山海菲曼科技集团股份有限公司新增部分募投项目实施地点及调整内部投资结构的核查意见",
-        "summary": "海菲曼(920183)：海菲曼:申港证券股份有限公司关于昆山海菲曼科技集团股份有限公司新增部分募投项目实施地点及调整内部投资结构的核查意见",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920183/AN202610291831178087.html",
+        "url": "https://data.eastmoney.com/notices/detail/301377/AN202610291831171956.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -55548,70 +55514,172 @@
           "金融"
         ],
         "tickers": [
-          "海菲曼(920183)"
+          "鼎泰高科(301377)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "其他"
       },
       {
-        "title": "圣元环保:300867圣元环保投资者关系管理信息20261029",
-        "summary": "圣元环保(300867)：圣元环保:300867圣元环保投资者关系管理信息20261029",
+        "title": "汉朔科技:投资者关系活动记录表",
+        "summary": "汉朔科技(301275)：汉朔科技:投资者关系活动记录表",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300867/AN202610291831177901.html",
+        "url": "https://data.eastmoney.com/notices/detail/301275/AN202610291831148058.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "圣元环保(300867)"
+          "汉朔科技(301275)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "南特科技:关于部分募投项目延期公告",
-        "summary": "南特科技(920124)：南特科技:关于部分募投项目延期公告",
+        "title": "中红医疗:2026年10月29日投资者关系活动记录表",
+        "summary": "中红医疗(300981)：中红医疗:2026年10月29日投资者关系活动记录表",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920124/AN202610291831177941.html",
+        "url": "https://data.eastmoney.com/notices/detail/300981/AN202610291831187821.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "南特科技(920124)"
+        "themes": [
+          "医药"
         ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "301098金埔园林投资者关系管理信息20261029",
-        "summary": "金埔园林(301098)：301098金埔园林投资者关系管理信息20261029",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301098/AN202610291831177862.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
         "tickers": [
-          "金埔园林(301098)"
+          "中红医疗(300981)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "新易盛：Q3净利润同比增长61% 环比下降19%",
-        "summary": "【新易盛：Q3净利润同比增长61% 环比下降19%】新易盛(300502.SZ)公告称，第三季度营收为109.40亿元，同比增长80.30%；净利润为38.43亿元，同比增长61.15%。前三季度营收为318.50亿元，同比增长92.97%；净利润为113.72亿元，同比增长79.74%。业绩增长主要系报告期内公司受益于人工智能算力投资的发展，销售收入较上…",
-        "publishedAt": "2026-10-29 18:16:39",
+        "title": "万达信息:300168万达信息投资者关系管理信息20261029",
+        "summary": "万达信息(300168)：万达信息:300168万达信息投资者关系管理信息20261029",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300168/AN202610291831187024.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "万达信息(300168)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "慧为智能:未来三年(2026-2028年)股东分红回报规划",
+        "summary": "慧为智能(920876)：慧为智能:未来三年(2026-2028年)股东分红回报规划",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920876/AN202610291831186516.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "慧为智能(920876)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "益生股份:2026年10月29日投资者关系活动记录表",
+        "summary": "益生股份(002458)：益生股份:2026年10月29日投资者关系活动记录表",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002458/AN202610291831186243.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "益生股份(002458)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "301059金三江投资者关系管理信息20261029",
+        "summary": "金三江(301059)：301059金三江投资者关系管理信息20261029",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301059/AN202610291831185985.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金三江(301059)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "亿能电力:关于使用闲置自有资金进行现金管理的公告",
+        "summary": "亿能电力(920046)：亿能电力:关于使用闲置自有资金进行现金管理的公告",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920046/AN202610291831185663.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "亿能电力(920046)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "金风科技:2026年10月29日2026年三季度业绩路演活动",
+        "summary": "金风科技(002202)：金风科技:2026年10月29日2026年三季度业绩路演活动",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002202/AN202610291831185476.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金风科技(002202)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "嘉元科技：RTF1铜箔产品已小批量出货",
+        "summary": "【嘉元科技：RTF1铜箔产品已小批量出货】嘉元科技总工程师王俊锋今日在2026年三季报业绩说明会上称，公司RTF铜箔、载体铜箔等高性能产品完成技术突破、具备量产能力；RTF1铜箔产品已小批量出货，暂不对公司经营业绩构成重大影响。",
+        "publishedAt": "2026-10-29 22:04:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293914424093.html",
+        "url": "https://finance.eastmoney.com/a/202610293914921519.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "顺络电子：拟不低于12亿元投建顺络电子斗门工厂项目",
+        "summary": "【顺络电子：拟不低于12亿元投建顺络电子斗门工厂项目】顺络电子(002138)10月29日公告，拟通过全资子公司珠海顺络电子有限公司在广东省珠海市斗门区富山工业园投资建设“顺络电子斗门工厂项目”，该项目总投资不低于12亿元，拟在珠海市富山工业园购地123亩，建设电子元器件、固体燃料电池、精密陶瓷生产工厂。",
+        "publishedAt": "2026-10-29 22:03:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293914932436.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "新能源"
         ],
         "tickers": [],
         "importance": 1,
@@ -55627,68 +55695,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月联邦基金利率目标下限(%)",
-        "summary": "美国10月联邦基金利率目标下限(%)；公布 3.75，预期 3.75，前值 3.75。",
-        "publishedAt": "2026-10-29 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月28日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月28日SPDR黄金持仓-每日更新(吨)；公布 1043.36，预期 nan，前值 1041.65。",
-        "publishedAt": "2026-10-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月27日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国10月27日COMEX黄金库存-每日更新(百盎司)；公布 232068.44，预期 nan，前值 231966.36。",
-        "publishedAt": "2026-10-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月28日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月28日iShares黄金持仓-每日更新(吨)；公布 462.26，预期 nan，前值 462.26。",
-        "publishedAt": "2026-10-29 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -55886,15 +55892,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-29 18:27:04",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 有色稀土、金融、医药。",
+        "generatedAt": "2026-10-29 22:43:56",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -55925,7 +55931,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-29 18:25:11",
+        "generatedAt": "2026-10-29 22:42:05",
         "summary": "上午情绪分 0，涨停 39 家，跌停 41 家，炸板 25 家，连板 10 家，最高 4 板。",
         "sections": [
           {
@@ -55964,7 +55970,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-29 18:25:11",
+        "generatedAt": "2026-10-29 22:42:05",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -55990,7 +55996,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "今日跌停 41 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：卓兆点胶:关于签署募集资金专户三方监管协议的公告。",
+              "新闻/公告风险：拉加德：目前未看到第二轮效应的实质性风险；拉加德：增长面临下行风险。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
