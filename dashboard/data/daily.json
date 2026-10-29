@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-29",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-29 02:52:52",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-29 02:52:52",
+    "lastNewsAt": "2026-10-29 14:17:16"
   },
   "indices": [
     {
@@ -74110,321 +74112,333 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-29",
-    "generatedAt": "2026-10-29 02:54:19",
+    "generatedAt": "2026-10-29 14:17:16",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、半导体、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 半导体、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
         "name": "半导体",
-        "score": 6,
+        "score": 15,
         "isFocusBoard": true
       },
       {
-        "name": "金融",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 4,
+        "name": "有色稀土",
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST易购:关于2026年前三季度计提减值准备的公告",
-        "summary": "ST易购(002024)：ST易购:关于2026年前三季度计提减值准备的公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002024/AN202610281831129945.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "海南自贸港：对外籍人员实行更加便利的工作许可和停居留政策",
+        "summary": "【海南自贸港：对外籍人员实行更加便利的工作许可和停居留政策】近日，商务部等四部门印发《关于进一步提高海南自由贸易港贸易自由化便利化水平的通知》。《通知》从推动货物贸易优化升级、促进服务贸易自由便利、创新贸易新业态新模式三方面提出了16项具体举措。具体举措包括：允许在海南自由贸易港海关特殊监管区域进行保税再制造生产的产品出区进入国内自由贸易试验区。",
+        "publishedAt": "2026-10-29 14:12:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293913827581.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "ST易购(002024)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": ""
       },
       {
-        "title": "ST易购:第九届董事会第四次会议决议公告",
-        "summary": "ST易购(002024)：ST易购:第九届董事会第四次会议决议公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002024/AN202610281831129946.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "现货黄金下跌1% 现货白银跌超2%",
+        "summary": "现货黄金跌幅扩大至1%，现报4023.82美元/盎司。现货白银跌超2%，现报52.76美元/盎司。",
+        "publishedAt": "2026-10-29 13:58:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293913792690.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST易购(002024)"
+        "themes": [
+          "有色稀土"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "董事会决议公告"
+        "noticeType": ""
       },
       {
-        "title": "ST易购:2026年三季度报告",
-        "summary": "ST易购(002024)：ST易购:2026年三季度报告",
+        "title": "汉朔科技:投资者关系活动记录表",
+        "summary": "汉朔科技(301275)：汉朔科技:投资者关系活动记录表",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002024/AN202610281831129935.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST易购(002024)"
-        ],
-        "importance": 1,
-        "noticeType": "三季度报告全文"
-      },
-      {
-        "title": "ST汇洲:2026年三季度报告",
-        "summary": "ST汇洲(002122)：ST汇洲:2026年三季度报告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002122/AN202610281831129924.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST汇洲(002122)"
-        ],
-        "importance": 1,
-        "noticeType": "三季度报告全文"
-      },
-      {
-        "title": "ST汇洲:关于向参股公司提供财务资助的进展公告",
-        "summary": "ST汇洲(002122)：ST汇洲:关于向参股公司提供财务资助的进展公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002122/AN202610281831129926.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST汇洲(002122)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "ST汇洲:关于拟续聘会计师事务所的公告",
-        "summary": "ST汇洲(002122)：ST汇洲:关于拟续聘会计师事务所的公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002122/AN202610281831129925.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST汇洲(002122)"
-        ],
-        "importance": 1,
-        "noticeType": "审计机构变更"
-      },
-      {
-        "title": "ST汇洲:关于召开2026年第三次临时股东会的通知",
-        "summary": "ST汇洲(002122)：ST汇洲:关于召开2026年第三次临时股东会的通知",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002122/AN202610281831129923.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST汇洲(002122)"
-        ],
-        "importance": 1,
-        "noticeType": "召开股东大会通知"
-      },
-      {
-        "title": "300757罗博特科投资者关系管理信息20261029",
-        "summary": "罗博特科(300757)：300757罗博特科投资者关系管理信息20261029",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300757/AN202610291831134177.html",
+        "url": "https://data.eastmoney.com/notices/detail/301275/AN202610291831148058.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "罗博特科(300757)"
+          "汉朔科技(301275)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "福建金森:对外投资管理制度",
-        "summary": "福建金森(002679)：福建金森:对外投资管理制度",
+        "title": "康斯特:北京康斯特仪表科技股份有限公司2026年10月28日投资者关系活动记录表",
+        "summary": "康斯特(300445)：康斯特:北京康斯特仪表科技股份有限公司2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002679/AN202610281831130150.html",
+        "url": "https://data.eastmoney.com/notices/detail/300445/AN202610291831162682.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "福建金森(002679)"
+          "康斯特(300445)"
         ],
         "importance": 1,
-        "noticeType": "管理办法/制度"
+        "noticeType": "调研活动"
       },
       {
-        "title": "南威软件:关于召开2026年第三季度业绩说明会的公告",
-        "summary": "南威软件(603636)：南威软件:关于召开2026年第三季度业绩说明会的公告",
+        "title": "迦南智能:关于重大经营合同中标的公告",
+        "summary": "迦南智能(300880)：迦南智能:关于重大经营合同中标的公告",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603636/AN202610281831130095.html",
+        "url": "https://data.eastmoney.com/notices/detail/300880/AN202610291831156627.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "南威软件(603636)"
+          "迦南智能(300880)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "重大合同"
       },
       {
-        "title": "利扬芯片:关于召开2026年第三季度业绩说明会的公告",
-        "summary": "利扬芯片(688135)：利扬芯片:关于召开2026年第三季度业绩说明会的公告",
+        "title": "新和成:2026年10月28日投资者关系活动记录表",
+        "summary": "新和成(002001)：新和成:2026年10月28日投资者关系活动记录表",
         "publishedAt": "2026-10-29",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688135/AN202610281831129939.html",
+        "url": "https://data.eastmoney.com/notices/detail/002001/AN202610291831150780.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新和成(002001)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "万辰集团:福建万辰食品集团股份有限公司投资者关系活动记录表",
+        "summary": "万辰集团(300972)：万辰集团:福建万辰食品集团股份有限公司投资者关系活动记录表",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300972/AN202610291831149321.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "万辰集团(300972)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300820英杰电气投资者关系管理信息20261029",
+        "summary": "英杰电气(300820)：300820英杰电气投资者关系管理信息20261029",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300820/AN202610291831149080.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英杰电气(300820)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "岱勒新材:2026年10月28日投资者关系活动记录表",
+        "summary": "岱勒新材(300700)：岱勒新材:2026年10月28日投资者关系活动记录表",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300700/AN202610291831148057.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "岱勒新材(300700)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300952恒辉安防投资者关系管理信息20261029",
+        "summary": "恒辉安防(300952)：300952恒辉安防投资者关系管理信息20261029",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300952/AN202610291831148056.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒辉安防(300952)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002625光启技术投资者关系管理信息20261029",
+        "summary": "光启技术(002625)：002625光启技术投资者关系管理信息20261029",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002625/AN202610291831147969.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "光启技术(002625)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中汽股份:301215中汽股份投资者关系管理信息20261029",
+        "summary": "中汽股份(301215)：中汽股份:301215中汽股份投资者关系管理信息20261029",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301215/AN202610291831146236.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中汽股份(301215)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中工国际:2026年10月28日投资者关系活动记录表",
+        "summary": "中工国际(002051)：中工国际:2026年10月28日投资者关系活动记录表",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002051/AN202610291831146237.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中工国际(002051)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "涛涛车业:301345涛涛车业投资者关系管理信息20261029",
+        "summary": "涛涛车业(301345)：涛涛车业:301345涛涛车业投资者关系管理信息20261029",
+        "publishedAt": "2026-10-29",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301345/AN202610291831145498.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "涛涛车业(301345)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "宇树科技、索辰科技等战略合作 将共建具身智能产业基础设施",
+        "summary": "【宇树科技、索辰科技等战略合作 将共建具身智能产业基础设施】近日，钱塘—宇树新质生产力创新实验基地项目签约。钱塘新区管委会、宇树科技、索辰科技、中国计量大学、图岳控股五方携手，共建国内领先、全栈自主可控的具身智能产业基础设施。其中，钱塘提供政策、空间和产业场景，并由区属国企科创集团及其下属子公司负责具体落地；宇树带来机器人本体及技术支持；索辰科技提供国产仿…",
+        "publishedAt": "2026-10-29 13:58:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610293913790096.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体"
+          "机器人"
         ],
-        "tickers": [
-          "利扬芯片(688135)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "先锋精科:先锋精科关于增加使用可转换公司债券部分暂时闲置募集资金进行现金管理的公告",
-        "summary": "先锋精科(688605)：先锋精科:先锋精科关于增加使用可转换公司债券部分暂时闲置募集资金进行现金管理的公告",
-        "publishedAt": "2026-10-29",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688605/AN202610281831129915.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "先锋精科(688605)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪",
-        "summary": "【伊朗议会官员：退出《不扩散核武器条约》计划已准备就绪】当地时间28日，伊朗议会国家安全与外交政策委员会主席阿齐兹表示，议会关于退出《不扩散核武器条约》的计划已准备就绪。他表示，“只要全国上下对此行动有充分的意愿，法律层面上已准备完毕。”",
-        "publishedAt": "2026-10-29 02:46:38",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912769776.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美联储主席沃什表示：目前对于货币政策还没有确切的结论",
-        "summary": "美联储主席沃什表示，目前对于货币政策还没有确切的结论。",
-        "publishedAt": "2026-10-29 02:43:34",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912769612.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月联邦基金利率目标上限(%)",
+        "summary": "美国10月联邦基金利率目标上限(%)；公布 4.0，预期 4.0，前值 4.0。",
+        "publishedAt": "2026-10-29 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "沃什：美联储日程安排将从明年秋季开始变化 2027年将有一次会议不进行利率投票",
-        "summary": "【沃什：美联储日程安排将从明年秋季开始变化 2027年将有一次会议不进行利率投票】美联储主席沃什表示，联邦公开市场委员会的日程安排将从明年秋季开始变化。2027年有一次会议既不进行利率投票，也不发布政策声明。预计2028年有两次FOMC会议不进行利率投票。",
-        "publishedAt": "2026-10-29 02:41:30",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912769255.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月联邦基金利率目标下限(%)",
+        "summary": "美国10月联邦基金利率目标下限(%)；公布 3.75，预期 3.75，前值 3.75。",
+        "publishedAt": "2026-10-29 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美联储主席沃什表示：美联储认为掌握更多信息将有助于确定政策立场",
-        "summary": "美联储主席沃什表示，美联储认为掌握更多信息将有助于确定政策立场。",
-        "publishedAt": "2026-10-29 02:34:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912768927.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储主席沃什：美国通货膨胀依然高企",
-        "summary": "美联储主席沃什表示，美国经济活动正以强劲的速度扩张。美国国内消费一直保持韧性，生产力强劲，资本投资稳健。通货膨胀依然高企。美联储将实现物价稳定。",
-        "publishedAt": "2026-10-29 02:32:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912768866.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国联邦公开市场委员会10月28日会议声明全文",
-        "summary": "【美国联邦公开市场委员会10月28日会议声明全文】美国联邦公开市场委员会10月28日会议声明全文如下：委员会决定将联邦基金利率目标区间维持在3.75%-4%，以支持美联储的双重使命。委员会继续其维持银行体系充裕准备金的政策。",
-        "publishedAt": "2026-10-29 02:22:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610293912767458.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国10月28日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月28日SPDR黄金持仓-每日更新(吨)；公布 1043.36，预期 nan，前值 1041.65。",
+        "publishedAt": "2026-10-29 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -74915,7 +74929,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -74928,15 +74942,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-29 02:54:19",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 7 条；主题映射集中在 有色稀土、半导体、金融。",
+        "generatedAt": "2026-10-29 14:17:16",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 半导体、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：芯片概念、共封装光学(CPO)、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -75032,7 +75046,7 @@
               "今日炸板 69 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST易购:关于2026年前三季度计提减值准备的公告；ST易购:第九届董事会第四次会议决议公告。",
+              "新闻/公告风险：海南自贸港：对外籍人员实行更加便利的工作许可和停居留政策；现货黄金下跌1% 现货白银跌超2%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
