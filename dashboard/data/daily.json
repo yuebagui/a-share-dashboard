@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-30",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-30 22:57:37",
+    "generatedAt": "2026-10-31 02:31:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -43506,104 +43506,282 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-30",
-    "generatedAt": "2026-10-30 23:00:26",
+    "generatedAt": "2026-10-31 02:33:00",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: ('Connection broken: IncompleteRead(32505 bytes read, 51392 more expected)', IncompleteRead(32505 bytes read, 51392 more expected))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、半导体、金融。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、金融、半导体。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 3,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "金融",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
+        "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "在美上市中概股多数走高 市值前20大中概股多数上涨",
-        "summary": "【在美上市中概股多数走高 市值前20大中概股多数上涨】在美股整体下跌之际，纳斯达克中国金龙指数表现坚挺，目前小幅上涨0.3%。在美上市中概股多数上涨，市值排名前20的中概股中，携程涨3.22%，BOSS直聘涨2.86%，华住涨2.64%，满帮涨2.66%，贝壳涨2.01%，百胜中国涨1.62%，网易涨1.45%。跌幅方面，富途控股跌2.45%，蔚来跌2.1…",
-        "publishedAt": "2026-10-30 22:49:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917247519.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "2国投证券股份有限公司关于深圳证券交易所《关于中山联合光电科技股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见",
+        "summary": "联合光电(300691)：2国投证券股份有限公司关于深圳证券交易所《关于中山联合光电科技股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300691/AN202610301831221148.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股持续走低 纳斯达克100指数跌幅扩大至3%",
-        "summary": "【美股持续走低 纳斯达克100指数跌幅扩大至3%】美股持续走低，纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.5%。",
-        "publishedAt": "2026-10-30 22:23:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917221687.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中邮基金拟3000万元自购旗下权益类公募基金",
-        "summary": "【中邮基金拟3000万元自购旗下权益类公募基金】10月30日，中邮创业基金管理股份有限公司公告称，基于对中国资本市场长期健康稳定发展的信心，公司将于近期运用固有资金3000万元人民币投资旗下权益类公募基金。",
-        "publishedAt": "2026-10-30 22:15:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917217191.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "复旦微电：部分产品如工业级非挥发性存储器等价格有所上升",
-        "summary": "【复旦微电：部分产品如工业级非挥发性存储器等价格有所上升】有投资者问复旦微电，请问公司的芯片有涨价吗？有没有计划提价？复旦微电在互动平台表示，公司产品品类较多，受当前集成电路行业景气度波动上升影响，公司部分产品，如工业级非挥发性存储器等价格有所上升，营收增长较快，盈利能力提升。",
-        "publishedAt": "2026-10-30 22:14:20",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917216250.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [
-          "半导体"
+          "金融"
+        ],
+        "tickers": [
+          "联合光电(300691)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组问询与回复"
+      },
+      {
+        "title": "AI交易显露疲态 欧洲股市10月跑赢美股",
+        "summary": "【AI交易显露疲态 欧洲股市10月跑赢美股】欧洲股市在10月最后一个交易日小幅下跌，不过随着人工智能交易显露疲态、推动资金轮动，欧洲股市近期表现优于美国股市。斯托克欧洲600指数收跌0.4%，本月涨幅收窄至约2%。科技股和矿业股表现落后，医疗保健以及食品饮料股领涨。周五全球股市遭遇抛售之际，欧洲股市再次相对抗跌。亚马逊和英特尔业绩令人失望，再度引发市场对巨…",
+        "publishedAt": "2026-10-31 01:23:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610313917301562.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "医药",
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "广汽集团：不存在因“速成车”问题被要求实施召回的情形",
-        "summary": "【广汽集团：不存在因“速成车”问题被要求实施召回的情形】有投资者问广汽集团，请问公司是否存在“速成车”相关车型需实施召回？广汽集团在互动平台表示，截至目前，公司不存在因“速成车”问题被要求实施召回的情形。",
-        "publishedAt": "2026-10-30 22:05:57",
+        "title": "盛弘股份:关于回购公司股份方案的公告暨回购股份报告书",
+        "summary": "盛弘股份(300693)：盛弘股份:关于回购公司股份方案的公告暨回购股份报告书",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300693/AN202610301831245401.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "盛弘股份(300693)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "漱玉平民:301017漱玉平民投资者关系管理信息20261030",
+        "summary": "漱玉平民(301017)：漱玉平民:301017漱玉平民投资者关系管理信息20261030",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301017/AN202610301831238059.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "漱玉平民(301017)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "和元生物:投资者关系活动记录表(2026年10月9日-29日)",
+        "summary": "和元生物(688238)：和元生物:投资者关系活动记录表(2026年10月9日-29日)",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688238/AN202610301831237916.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "和元生物(688238)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "正强股份:2026年10月30日投资者关系活动记录表",
+        "summary": "正强股份(301119)：正强股份:2026年10月30日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301119/AN202610301831236740.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "正强股份(301119)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "宝信软件:投资者关系活动记录表-2026-005",
+        "summary": "宝信软件(600845)：宝信软件:投资者关系活动记录表-2026-005",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600845/AN202610301831236154.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宝信软件(600845)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "森马服饰:2026年10月30日投资者关系活动记录表",
+        "summary": "森马服饰(002563)：森马服饰:2026年10月30日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002563/AN202610301831224386.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "森马服饰(002563)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "3-2法律意见书(申报稿)(中山联合光电科技股份有限公司)",
+        "summary": "联合光电(300691)：3-2法律意见书(申报稿)(中山联合光电科技股份有限公司)",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300691/AN202610301831221145.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "联合光电(300691)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组法律意见书申报稿"
+      },
+      {
+        "title": "五粮液:关于控股股东及其一致行动人增持股份触及1%整数倍的公告",
+        "summary": "五粮液(000858)：五粮液:关于控股股东及其一致行动人增持股份触及1%整数倍的公告",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000858/AN202610291831186176.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "五粮液(000858)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "麦格米特:2026年10月30日投资者关系活动记录表",
+        "summary": "麦格米特(002851)：麦格米特:2026年10月30日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002851/AN202610301831253484.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "麦格米特(002851)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "北新建材:2026年10月30日投资者关系活动记录表",
+        "summary": "北新建材(000786)：北新建材:2026年10月30日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000786/AN202610301831252893.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "北新建材(000786)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "贝泰妮:2026年10月投资者关系活动记录表",
+        "summary": "贝泰妮(300957)：贝泰妮:2026年10月投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300957/AN202610301831252775.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "贝泰妮(300957)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "乔什·库什纳与鲍勃·艾格据悉正在向投资者出售洛杉矶湖人队的少数股权",
+        "summary": "乔什·库什纳与鲍勃·艾格据悉正在向投资者出售洛杉矶湖人队的少数股权。",
+        "publishedAt": "2026-10-31 01:00:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917184355.html",
+        "url": "https://finance.eastmoney.com/a/202610313917300945.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "黑石告知投资者：Anthropic在IPO后可能无法获得投资级评级",
+        "summary": "黑石告知投资者，Anthropic在IPO后可能无法获得投资级评级。",
+        "publishedAt": "2026-10-31 00:49:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610313917300717.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -43654,154 +43832,6 @@
         "themes": [],
         "tickers": [],
         "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月29日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国10月29日iShares黄金持仓-每日更新(吨)；公布 462.26，预期 nan，前值 462.26。",
-        "publishedAt": "2026-10-30 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国10月29日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国10月29日SPDR黄金持仓-每日更新(吨)；公布 1041.08，预期 nan，前值 1043.36。",
-        "publishedAt": "2026-10-30 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本9月失业率(%)",
-        "summary": "日本9月失业率(%)；公布 2.4，预期 2.5，前值 2.5。",
-        "publishedAt": "2026-10-30 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本10月东京CPI年率(%)",
-        "summary": "日本10月东京CPI年率(%)；公布 2.8，预期 2.7，前值 2.7。",
-        "publishedAt": "2026-10-30 07:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "日本10月30日央行政策基准利率(%)",
-        "summary": "日本10月30日央行政策基准利率(%)；公布 1.25，预期 1.25，前值 1.25。",
-        "publishedAt": "2026-10-30 11:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "币安联席CEO称：提现有望40小时内恢复 完整储备证明周一发布",
-        "summary": "币安联席CEO称，提现有望40小时内恢复，完整储备证明周一发布。",
-        "publishedAt": "2026-10-30 22:51:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917248833.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "土耳其基准股指BIST100指数跌3% 土耳其主要银行指数跌2%",
-        "summary": "土耳其基准股指BIST100指数跌3%，土耳其主要银行指数跌2%。",
-        "publishedAt": "2026-10-30 22:39:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917237834.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "数百名阿列什基居民将被接返乌克兰",
-        "summary": "【数百名阿列什基居民将被接返乌克兰】据乌克兰方面10月30日消息，乌总理科列茨基当天说，527名阿列什基居民将从赫尔松州俄罗斯控制区被接返乌克兰。科列茨基当天在向乌克兰最高拉达（议会）作例行工作汇报时说，被接返的居民将绕行入境白俄罗斯，然后从乌切尔尼戈夫州和基辅州边境口岸入境乌克兰，随后将被安置在多个州，安置准备工作已就绪，“目前有527人”。",
-        "publishedAt": "2026-10-30 22:35:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917236992.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "现货黄金日内跌超3% 跌破3900美元/盎司",
-        "summary": "现货黄金日内跌超3%，跌破3900美元/盎司，创去年10月以来新低。",
-        "publishedAt": "2026-10-30 22:25:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917224356.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位",
-        "summary": "【英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位】英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位，势将创下2022年10月以来最大单日波幅。",
-        "publishedAt": "2026-10-30 22:21:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917219348.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -44039,15 +44069,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-30 23:00:26",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、半导体、金融。",
+        "generatedAt": "2026-10-31 02:33:00",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 2 条；主题映射集中在 有色稀土、金融、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：白酒、银行、电池；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -44078,7 +44108,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-30 22:57:37",
+        "generatedAt": "2026-10-31 02:31:28",
         "summary": "上午情绪分 0，涨停 47 家，跌停 82 家，炸板 31 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -44117,7 +44147,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-30 22:57:37",
+        "generatedAt": "2026-10-31 02:31:28",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -44143,7 +44173,7 @@
               "今日炸板 31 只，追高前先看前排封单和回封质量。",
               "今日跌停 82 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：在美上市中概股多数走高 市值前20大中概股多数上涨；美股持续走低 纳斯达克100指数跌幅扩大至3%。",
+              "新闻/公告风险：2国投证券股份有限公司关于深圳证券交易所《关于中山联合光电科技股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见；AI交易显露疲态 欧洲股市10月跑赢美股。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
