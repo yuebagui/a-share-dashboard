@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-10-30",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-30 22:24:38",
+    "generatedAt": "2026-10-30 22:57:37",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -43332,7 +43332,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -43505,12 +43506,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-30",
-    "generatedAt": "2026-10-30 22:26:32",
+    "generatedAt": "2026-10-30 23:00:26",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
-      "notices: ('Connection broken: IncompleteRead(32505 bytes read, 49663 more expected)', IncompleteRead(32505 bytes read, 49663 more expected))"
+      "notices: ('Connection broken: IncompleteRead(32505 bytes read, 51392 more expected)', IncompleteRead(32505 bytes read, 51392 more expected))"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 2 条；主题映射集中在 有色稀土、半导体、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、半导体、金融。",
     "themes": [
       {
         "name": "有色稀土",
@@ -43520,6 +43521,11 @@
       {
         "name": "半导体",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -43535,11 +43541,11 @@
     ],
     "items": [
       {
-        "title": "美股持续走低 纳斯达克100指数跌幅扩大至3%",
-        "summary": "【美股持续走低 纳斯达克100指数跌幅扩大至3%】美股持续走低，纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.5%。",
-        "publishedAt": "2026-10-30 22:23:49",
+        "title": "在美上市中概股多数走高 市值前20大中概股多数上涨",
+        "summary": "【在美上市中概股多数走高 市值前20大中概股多数上涨】在美股整体下跌之际，纳斯达克中国金龙指数表现坚挺，目前小幅上涨0.3%。在美上市中概股多数上涨，市值排名前20的中概股中，携程涨3.22%，BOSS直聘涨2.86%，华住涨2.64%，满帮涨2.66%，贝壳涨2.01%，百胜中国涨1.62%，网易涨1.45%。跌幅方面，富途控股跌2.45%，蔚来跌2.1…",
+        "publishedAt": "2026-10-30 22:49:55",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917221687.html",
+        "url": "https://finance.eastmoney.com/a/202610303917247519.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -43549,17 +43555,15 @@
         "noticeType": ""
       },
       {
-        "title": "金价降了水贝卖爆了 水贝黄金门店销量翻番",
-        "summary": "【金价降了水贝卖爆了 水贝黄金门店销量翻番】下午3点，记者在水贝黄金市场看到，虽然是工作日，各大黄金柜台前依然人头攒动。金价下跌，激发了消费热情，不少店铺黄金饰品的销售额都出现了明显增长。水贝某珠宝零售门店负责人告诉记者，客户买大金镯子，都是往克重高了买。销售额跟上个月比，几近翻番。",
-        "publishedAt": "2026-10-30 21:58:57",
+        "title": "美股持续走低 纳斯达克100指数跌幅扩大至3%",
+        "summary": "【美股持续走低 纳斯达克100指数跌幅扩大至3%】美股持续走低，纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.5%。",
+        "publishedAt": "2026-10-30 22:23:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917176327.html",
+        "url": "https://finance.eastmoney.com/a/202610303917221687.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -43600,20 +43604,6 @@
         "publishedAt": "2026-10-30 22:05:57",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202610303917184355.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "维维股份：拟投资建设植物基生物智造工厂项目",
-        "summary": "【维维股份：拟投资建设植物基生物智造工厂项目】维维股份(600300)10月30日公告，全资子公司徐州维维食品生物科技有限公司拟投资建设植物基生物智造工厂，项目分两期建设，本次为一期建设，投资约3.21亿元，二期项目尚处于筹划阶段。项目建设生产代餐粉、五黑/五红粉、蛋白粉系列冲调食品。",
-        "publishedAt": "2026-10-30 21:58:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917180964.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -43741,53 +43731,71 @@
         "noticeType": ""
       },
       {
+        "title": "币安联席CEO称：提现有望40小时内恢复 完整储备证明周一发布",
+        "summary": "币安联席CEO称，提现有望40小时内恢复，完整储备证明周一发布。",
+        "publishedAt": "2026-10-30 22:51:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917248833.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "土耳其基准股指BIST100指数跌3% 土耳其主要银行指数跌2%",
+        "summary": "土耳其基准股指BIST100指数跌3%，土耳其主要银行指数跌2%。",
+        "publishedAt": "2026-10-30 22:39:51",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917237834.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "数百名阿列什基居民将被接返乌克兰",
+        "summary": "【数百名阿列什基居民将被接返乌克兰】据乌克兰方面10月30日消息，乌总理科列茨基当天说，527名阿列什基居民将从赫尔松州俄罗斯控制区被接返乌克兰。科列茨基当天在向乌克兰最高拉达（议会）作例行工作汇报时说，被接返的居民将绕行入境白俄罗斯，然后从乌切尔尼戈夫州和基辅州边境口岸入境乌克兰，随后将被安置在多个州，安置准备工作已就绪，“目前有527人”。",
+        "publishedAt": "2026-10-30 22:35:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917236992.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "现货黄金日内跌超3% 跌破3900美元/盎司",
+        "summary": "现货黄金日内跌超3%，跌破3900美元/盎司，创去年10月以来新低。",
+        "publishedAt": "2026-10-30 22:25:59",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917224356.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位",
         "summary": "【英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位】英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位，势将创下2022年10月以来最大单日波幅。",
         "publishedAt": "2026-10-30 22:21:43",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202610303917219348.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "“Token供应商”硅基流动在港股发行上市申请已获中国证监会备案接收",
-        "summary": "【“Token供应商”硅基流动在港股发行上市申请已获中国证监会备案接收】记者获悉，“Token供应商”硅基流动在港股发行上市申请已获中国证监会备案接收。",
-        "publishedAt": "2026-10-30 22:18:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917218235.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "商务部：中国首次在中国—瑞士双边自贸协定中纳入保护源代码的专项条款",
-        "summary": "【商务部：中国首次在中国—瑞士双边自贸协定中纳入保护源代码的专项条款】商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书。在数字贸易领域，协定增设数字贸易专章，双方承诺互不征收电子传输关税，加强个人信息保护，全面实现数字化通关，降低交易成本。",
-        "publishedAt": "2026-10-30 22:09:27",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917209041.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "上海10月份拍牌明天举行 警示价92900元",
-        "summary": "【上海10月份拍牌明天举行 警示价92900元】10月份上海个人车牌拍卖将于明天（10:30-11:30）举行，本月个人客车额度合计拍卖总数4403个。警示价为92900元。",
-        "publishedAt": "2026-10-30 22:08:25",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303917209912.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -44031,15 +44039,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-30 22:26:32",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 2 条；主题映射集中在 有色稀土、半导体、新能源。",
+        "generatedAt": "2026-10-30 23:00:26",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 2 条；主题映射集中在 有色稀土、半导体、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：白酒、银行、电池；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、半导体、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -44070,7 +44078,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-30 22:24:38",
+        "generatedAt": "2026-10-30 22:57:37",
         "summary": "上午情绪分 0，涨停 47 家，跌停 82 家，炸板 31 家，连板 9 家，最高 5 板。",
         "sections": [
           {
@@ -44109,7 +44117,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-30 22:24:38",
+        "generatedAt": "2026-10-30 22:57:37",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -44135,7 +44143,7 @@
               "今日炸板 31 只，追高前先看前排封单和回封质量。",
               "今日跌停 82 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：美股持续走低 纳斯达克100指数跌幅扩大至3%；金价降了水贝卖爆了 水贝黄金门店销量翻番。",
+              "新闻/公告风险：在美上市中概股多数走高 市值前20大中概股多数上涨；美股持续走低 纳斯达克100指数跌幅扩大至3%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
