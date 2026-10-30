@@ -2,11 +2,9 @@
   "meta": {
     "tradeDate": "2026-10-30",
     "phase": "盘后复盘",
-    "generatedAt": "2026-10-30 18:33:29",
+    "generatedAt": "2026-10-30 22:24:38",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [
-      "broken-boards: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    ]
+    "errors": []
   },
   "indices": [
     {
@@ -58,7 +56,7 @@
     "score": 0,
     "tag": "偏弱",
     "title": "亏钱效应占优，先防守再进攻",
-    "brief": "涨停 47 家，跌停 82 家，炸板 0 家，连板 9 家，最高 5 板。",
+    "brief": "涨停 47 家，跌停 82 家，炸板 31 家，连板 9 家，最高 5 板。",
     "factors": [
       {
         "label": "涨停家数",
@@ -77,15 +75,15 @@
       },
       {
         "label": "炸板率",
-        "value": "0%",
-        "valueClass": "flat"
+        "value": "40%",
+        "valueClass": "down"
       }
     ]
   },
   "temperature": {
     "limitUp": 47,
     "limitDown": 82,
-    "failRate": 0,
+    "failRate": 40,
     "maxLadder": 5
   },
   "discipline": [
@@ -1308,6 +1306,7 @@
     }
   ],
   "risks": [
+    "今日炸板 31 只，追高前先看前排封单和回封质量。",
     "今日跌停 82 只，负反馈未完全消失，后排题材容错率下降。",
     "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
     "板块资金是短线情绪线索，不替代公告、财报和订单验证。"
@@ -2063,7 +2062,7 @@
     },
     {
       "title": "情绪条件",
-      "rule": "最高连板 5 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+      "rule": "最高连板 5 板，炸板率 40%。只在情绪、资金、个股承接共振时加仓。"
     }
   ],
   "candidatePools": {
@@ -55815,7 +55814,7 @@
     "emotionScore": 0,
     "totalPosition": "0%-25%",
     "singlePosition": "10%-15%",
-    "stance": "不开新仓优先，等待情绪修复。",
+    "stance": "空仓或极轻仓观察，先等亏钱效应收敛。",
     "focusThemes": [
       "白酒",
       "银行",
@@ -55847,7 +55846,8 @@
       "候选股没有触发买点，不临盘幻想买入。",
       "一致高开且板块后排乱涨，不追非核心。",
       "买入前说不清止损位，不开仓。",
-      "跌停数量仍高，若负反馈继续扩散，停止开新仓。"
+      "跌停数量仍高，若负反馈继续扩散，停止开新仓。",
+      "炸板率偏高，接力票必须先看回封质量。"
     ],
     "items": [
       {
@@ -55980,16 +55980,13 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-30",
-    "generatedAt": "2026-10-30 18:36:22",
+    "generatedAt": "2026-10-30 22:26:32",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 1 条；主题映射集中在 金融、有色稀土、半导体。",
+    "errors": [
+      "notices: ('Connection broken: IncompleteRead(32505 bytes read, 49663 more expected)', IncompleteRead(32505 bytes read, 49663 more expected))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 2 条；主题映射集中在 有色稀土、半导体、新能源。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 18,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 11,
@@ -56001,268 +55998,97 @@
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "2国投证券股份有限公司关于深圳证券交易所《关于中山联合光电科技股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见",
-        "summary": "联合光电(300691)：2国投证券股份有限公司关于深圳证券交易所《关于中山联合光电科技股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300691/AN202610301831221148.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "美股持续走低 纳斯达克100指数跌幅扩大至3%",
+        "summary": "【美股持续走低 纳斯达克100指数跌幅扩大至3%】美股持续走低，纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.5%。",
+        "publishedAt": "2026-10-30 22:23:49",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917221687.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "金价降了水贝卖爆了 水贝黄金门店销量翻番",
+        "summary": "【金价降了水贝卖爆了 水贝黄金门店销量翻番】下午3点，记者在水贝黄金市场看到，虽然是工作日，各大黄金柜台前依然人头攒动。金价下跌，激发了消费热情，不少店铺黄金饰品的销售额都出现了明显增长。水贝某珠宝零售门店负责人告诉记者，客户买大金镯子，都是往克重高了买。销售额跟上个月比，几近翻番。",
+        "publishedAt": "2026-10-30 21:58:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917176327.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "联合光电(300691)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组问询与回复"
-      },
-      {
-        "title": "盛弘股份:关于回购公司股份方案的公告暨回购股份报告书",
-        "summary": "盛弘股份(300693)：盛弘股份:关于回购公司股份方案的公告暨回购股份报告书",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300693/AN202610301831245401.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "盛弘股份(300693)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "漱玉平民:301017漱玉平民投资者关系管理信息20261030",
-        "summary": "漱玉平民(301017)：漱玉平民:301017漱玉平民投资者关系管理信息20261030",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301017/AN202610301831238059.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "漱玉平民(301017)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "和元生物:投资者关系活动记录表(2026年10月9日-29日)",
-        "summary": "和元生物(688238)：和元生物:投资者关系活动记录表(2026年10月9日-29日)",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688238/AN202610301831237916.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "和元生物(688238)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "正强股份:2026年10月30日投资者关系活动记录表",
-        "summary": "正强股份(301119)：正强股份:2026年10月30日投资者关系活动记录表",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301119/AN202610301831236740.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "正强股份(301119)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "骆驼股份:投资者调研沟通活动纪要(2026年9-10月)(1)",
-        "summary": "骆驼股份(601311)：骆驼股份:投资者调研沟通活动纪要(2026年9-10月)(1)",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601311/AN202610301831244105.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "骆驼股份(601311)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "宝信软件:投资者关系活动记录表-2026-005",
-        "summary": "宝信软件(600845)：宝信软件:投资者关系活动记录表-2026-005",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600845/AN202610301831236154.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宝信软件(600845)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "汇中股份:300371汇中股份投资者关系管理信息20261030",
-        "summary": "汇中股份(300371)：汇中股份:300371汇中股份投资者关系管理信息20261030",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300371/AN202610301831240024.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汇中股份(300371)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "森马服饰:2026年10月30日投资者关系活动记录表",
-        "summary": "森马服饰(002563)：森马服饰:2026年10月30日投资者关系活动记录表",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002563/AN202610301831224386.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "森马服饰(002563)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "3-2法律意见书(申报稿)(中山联合光电科技股份有限公司)",
-        "summary": "联合光电(300691)：3-2法律意见书(申报稿)(中山联合光电科技股份有限公司)",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300691/AN202610301831221145.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联合光电(300691)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组法律意见书申报稿"
-      },
-      {
-        "title": "五粮液:关于控股股东及其一致行动人增持股份触及1%整数倍的公告",
-        "summary": "五粮液(000858)：五粮液:关于控股股东及其一致行动人增持股份触及1%整数倍的公告",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000858/AN202610291831186176.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "五粮液(000858)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "深科达:投资者关系活动记录表(2026年10月30日)",
-        "summary": "深科达(688328)：深科达:投资者关系活动记录表(2026年10月30日)",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688328/AN202610301831245327.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "深科达(688328)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "长鑫科技：前三季度净利润1320.4亿元 拟10亿元至20亿元回购股份",
-        "summary": "【长鑫科技：2026年前三季度净利润1320.4亿元 同比扭亏为盈】长鑫科技(688825.SH)公告称，前三季度实现营业收入2690.24亿元，同比增长738.51%；归属于上市公司股东的净利润1320.4亿元，同比扭亏为盈。第三季度实现营业收入1187.14亿元，同比增长613.18%；归属于上市公司股东的净利润544.35亿元，同比扭亏为盈。业绩变动…",
-        "publishedAt": "2026-10-30 18:21:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303916698041.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "长鑫科技：拟10亿元至20亿元回购股份 其中50%股份数量用于注销并减少注册资本",
-        "summary": "【长鑫科技：拟10亿元至20亿元回购股份 其中50%股份数量用于注销并减少注册资本】长鑫科技(688825.SH)公告称，公司拟以自有或自筹资金通过集中竞价交易方式回购股份，回购金额不低于10亿元且不超过20亿元，回购价格不超过72.69元/股。回购股份拟用于股权激励/员工持股计划及注销并减少注册资本，其中用于股权激励/员工持股计划的股份数量约为实际回购总…",
-        "publishedAt": "2026-10-30 18:19:55",
+        "title": "中邮基金拟3000万元自购旗下权益类公募基金",
+        "summary": "【中邮基金拟3000万元自购旗下权益类公募基金】10月30日，中邮创业基金管理股份有限公司公告称，基于对中国资本市场长期健康稳定发展的信心，公司将于近期运用固有资金3000万元人民币投资旗下权益类公募基金。",
+        "publishedAt": "2026-10-30 22:15:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303916699218.html",
+        "url": "https://finance.eastmoney.com/a/202610303917217191.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "复旦微电：部分产品如工业级非挥发性存储器等价格有所上升",
+        "summary": "【复旦微电：部分产品如工业级非挥发性存储器等价格有所上升】有投资者问复旦微电，请问公司的芯片有涨价吗？有没有计划提价？复旦微电在互动平台表示，公司产品品类较多，受当前集成电路行业景气度波动上升影响，公司部分产品，如工业级非挥发性存储器等价格有所上升，营收增长较快，盈利能力提升。",
+        "publishedAt": "2026-10-30 22:14:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917216250.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "半导体"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "佰维存储：拟2亿元至2.5亿元回购股份 用于减少注册资本",
-        "summary": "【佰维存储：拟2亿元至2.5亿元回购股份 用于减少注册资本】佰维存储(688525.SH)公告称，公司拟以自有资金及或自筹资金(含回购专项贷款资金)通过集中竞价交易方式回购股份，回购金额不低于2亿元且不超过2.5亿元，回购价格不超过269.47元/股，回购股份将用于减少注册资本。",
-        "publishedAt": "2026-10-30 18:17:00",
+        "title": "广汽集团：不存在因“速成车”问题被要求实施召回的情形",
+        "summary": "【广汽集团：不存在因“速成车”问题被要求实施召回的情形】有投资者问广汽集团，请问公司是否存在“速成车”相关车型需实施召回？广汽集团在互动平台表示，截至目前，公司不存在因“速成车”问题被要求实施召回的情形。",
+        "publishedAt": "2026-10-30 22:05:57",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303916696558.html",
+        "url": "https://finance.eastmoney.com/a/202610303917184355.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "半导体",
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "中科飞测：第2000台集成电路质量控制设备正式出机",
-        "summary": "【中科飞测：第2000台集成电路质量控制设备正式出机】中科飞测(688361.SH)公告称，公司第2000台集成电路质量控制设备正式出机并发往国内某知名集成电路制造商。目前，公司十三大系列集成电路量检测设备已批量进入国内先进制程大产线，多项核心技术指标达到国际领先水平。本次设备出机是按照已签署订单交付设备，已对价格等内容做出了明确约定。",
-        "publishedAt": "2026-10-30 18:14:16",
+        "title": "维维股份：拟投资建设植物基生物智造工厂项目",
+        "summary": "【维维股份：拟投资建设植物基生物智造工厂项目】维维股份(600300)10月30日公告，全资子公司徐州维维食品生物科技有限公司拟投资建设植物基生物智造工厂，项目分两期建设，本次为一期建设，投资约3.21亿元，二期项目尚处于筹划阶段。项目建设生产代餐粉、五黑/五红粉、蛋白粉系列冲调食品。",
+        "publishedAt": "2026-10-30 21:58:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303916692543.html",
+        "url": "https://finance.eastmoney.com/a/202610303917180964.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -56300,10 +56126,372 @@
         "tickers": [],
         "importance": 2,
         "noticeType": ""
+      },
+      {
+        "title": "美国10月29日iShares白银持仓-每日更新(吨)",
+        "summary": "美国10月29日iShares白银持仓-每日更新(吨)；公布 15541.85，预期 nan，前值 15541.85。",
+        "publishedAt": "2026-10-30 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月29日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国10月29日iShares黄金持仓-每日更新(吨)；公布 462.26，预期 nan，前值 462.26。",
+        "publishedAt": "2026-10-30 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国10月29日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国10月29日SPDR黄金持仓-每日更新(吨)；公布 1041.08，预期 nan，前值 1043.36。",
+        "publishedAt": "2026-10-30 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本9月失业率(%)",
+        "summary": "日本9月失业率(%)；公布 2.4，预期 2.5，前值 2.5。",
+        "publishedAt": "2026-10-30 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本10月东京CPI年率(%)",
+        "summary": "日本10月东京CPI年率(%)；公布 2.8，预期 2.7，前值 2.7。",
+        "publishedAt": "2026-10-30 07:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "日本10月30日央行政策基准利率(%)",
+        "summary": "日本10月30日央行政策基准利率(%)；公布 1.25，预期 1.25，前值 1.25。",
+        "publishedAt": "2026-10-30 11:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位",
+        "summary": "【英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位】英特尔五年期信贷违约掉期扩大至123.5个基点的纪录高位，势将创下2022年10月以来最大单日波幅。",
+        "publishedAt": "2026-10-30 22:21:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917219348.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "“Token供应商”硅基流动在港股发行上市申请已获中国证监会备案接收",
+        "summary": "【“Token供应商”硅基流动在港股发行上市申请已获中国证监会备案接收】记者获悉，“Token供应商”硅基流动在港股发行上市申请已获中国证监会备案接收。",
+        "publishedAt": "2026-10-30 22:18:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917218235.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "商务部：中国首次在中国—瑞士双边自贸协定中纳入保护源代码的专项条款",
+        "summary": "【商务部：中国首次在中国—瑞士双边自贸协定中纳入保护源代码的专项条款】商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书。在数字贸易领域，协定增设数字贸易专章，双方承诺互不征收电子传输关税，加强个人信息保护，全面实现数字化通关，降低交易成本。",
+        "publishedAt": "2026-10-30 22:09:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917209041.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上海10月份拍牌明天举行 警示价92900元",
+        "summary": "【上海10月份拍牌明天举行 警示价92900元】10月份上海个人车牌拍卖将于明天（10:30-11:30）举行，本月个人客车额度合计拍卖总数4403个。警示价为92900元。",
+        "publishedAt": "2026-10-30 22:08:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303917209912.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       }
     ]
   },
-  "brokenBoards": [],
+  "brokenBoards": [
+    {
+      "code": "605598",
+      "name": "上海港湾",
+      "changePct": 4.98,
+      "industry": "专业工程",
+      "failCount": 2
+    },
+    {
+      "code": "600202",
+      "name": "哈空调",
+      "changePct": 3.69,
+      "industry": "通用设备",
+      "failCount": 1
+    },
+    {
+      "code": "002031",
+      "name": "巨轮智能",
+      "changePct": 2.96,
+      "industry": "专用设备",
+      "failCount": 1
+    },
+    {
+      "code": "002009",
+      "name": "天奇股份",
+      "changePct": 3.8,
+      "industry": "专用设备",
+      "failCount": 2
+    },
+    {
+      "code": "300695",
+      "name": "兆丰股份",
+      "changePct": 5.5,
+      "industry": "汽车零部",
+      "failCount": 1
+    },
+    {
+      "code": "603039",
+      "name": "泛微网络",
+      "changePct": 1.4,
+      "industry": "软件开发",
+      "failCount": 2
+    },
+    {
+      "code": "300980",
+      "name": "祥源新材",
+      "changePct": 7.73,
+      "industry": "塑料",
+      "failCount": 1
+    },
+    {
+      "code": "002747",
+      "name": "埃斯顿",
+      "changePct": 2.96,
+      "industry": "自动化设",
+      "failCount": 1
+    },
+    {
+      "code": "603089",
+      "name": "正裕工业",
+      "changePct": 4.41,
+      "industry": "汽车零部",
+      "failCount": 4
+    },
+    {
+      "code": "002949",
+      "name": "华阳国际",
+      "changePct": 3.73,
+      "industry": "工程咨询",
+      "failCount": 8
+    },
+    {
+      "code": "002149",
+      "name": "西部材料",
+      "changePct": 3.9,
+      "industry": "小金属",
+      "failCount": 5
+    },
+    {
+      "code": "603330",
+      "name": "天洋新材",
+      "changePct": 5.89,
+      "industry": "塑料",
+      "failCount": 2
+    },
+    {
+      "code": "001318",
+      "name": "阳光乳业",
+      "changePct": 6.18,
+      "industry": "饮料乳品",
+      "failCount": 2
+    },
+    {
+      "code": "603002",
+      "name": "宏昌电子",
+      "changePct": 7.33,
+      "industry": "电子化学",
+      "failCount": 6
+    },
+    {
+      "code": "300739",
+      "name": "明阳电路",
+      "changePct": 11.5,
+      "industry": "元件",
+      "failCount": 2
+    },
+    {
+      "code": "688073",
+      "name": "毕得医药",
+      "changePct": 19.01,
+      "industry": "医疗服务",
+      "failCount": 5
+    },
+    {
+      "code": "605118",
+      "name": "力鼎光电",
+      "changePct": 6.04,
+      "industry": "计算机设",
+      "failCount": 4
+    },
+    {
+      "code": "002164",
+      "name": "宁波东力",
+      "changePct": 5.78,
+      "industry": "通用设备",
+      "failCount": 2
+    },
+    {
+      "code": "300829",
+      "name": "金丹科技",
+      "changePct": 13.84,
+      "industry": "化学制品",
+      "failCount": 1
+    },
+    {
+      "code": "000823",
+      "name": "超声电子",
+      "changePct": 4.05,
+      "industry": "元件",
+      "failCount": 1
+    },
+    {
+      "code": "600664",
+      "name": "哈药股份",
+      "changePct": 4.91,
+      "industry": "化学制药",
+      "failCount": 1
+    },
+    {
+      "code": "603278",
+      "name": "大业股份",
+      "changePct": 9.17,
+      "industry": "通用设备",
+      "failCount": 3
+    },
+    {
+      "code": "600272",
+      "name": "开开实业",
+      "changePct": 2.74,
+      "industry": "医药商业",
+      "failCount": 1
+    },
+    {
+      "code": "002324",
+      "name": "普利特",
+      "changePct": 3.34,
+      "industry": "塑料",
+      "failCount": 2
+    },
+    {
+      "code": "603112",
+      "name": "华翔股份",
+      "changePct": 5.14,
+      "industry": "家电零部",
+      "failCount": 1
+    },
+    {
+      "code": "002173",
+      "name": "创新医疗",
+      "changePct": 3.49,
+      "industry": "医疗服务",
+      "failCount": 1
+    },
+    {
+      "code": "001210",
+      "name": "金房能源",
+      "changePct": 4.27,
+      "industry": "电力",
+      "failCount": 4
+    },
+    {
+      "code": "300149",
+      "name": "睿智医药",
+      "changePct": 11.26,
+      "industry": "医疗服务",
+      "failCount": 1
+    },
+    {
+      "code": "301015",
+      "name": "百洋医药",
+      "changePct": 14.84,
+      "industry": "医药商业",
+      "failCount": 2
+    },
+    {
+      "code": "600688",
+      "name": "上海石化",
+      "changePct": 8.93,
+      "industry": "炼化及贸",
+      "failCount": 3
+    },
+    {
+      "code": "605255",
+      "name": "天普股份",
+      "changePct": 1.25,
+      "industry": "汽车零部",
+      "failCount": 1
+    }
+  ],
   "reports": {
     "active": "post-market",
     "marketLevel": "冰",
@@ -56318,15 +56506,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-30 18:36:22",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 1 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-10-30 22:26:32",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 2 条；主题映射集中在 有色稀土、半导体、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：白酒、银行、电池；首看 白酒 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -56349,7 +56537,7 @@
           },
           {
             "title": "情绪条件",
-            "rule": "最高连板 5 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+            "rule": "最高连板 5 板，炸板率 40%。只在情绪、资金、个股承接共振时加仓。"
           }
         ]
       },
@@ -56357,13 +56545,13 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-10-30 18:33:29",
-        "summary": "上午情绪分 0，涨停 47 家，跌停 82 家，炸板 0 家，连板 9 家，最高 5 板。",
+        "generatedAt": "2026-10-30 22:24:38",
+        "summary": "上午情绪分 0，涨停 47 家，跌停 82 家，炸板 31 家，连板 9 家，最高 5 板。",
         "sections": [
           {
             "title": "上午盘面",
             "items": [
-              "涨停 47 家，跌停 82 家，炸板率 0%，最高连板 5 板。",
+              "涨停 47 家，跌停 82 家，炸板率 40%，最高连板 5 板。",
               "主线候选：白酒、银行、电池；首看 白酒 的前排承接和中军量能。",
               "弱势方向：文化传媒、软件开发、AIGC概念，相关后排不做反包幻想。"
             ]
@@ -56388,7 +56576,7 @@
           },
           {
             "title": "情绪条件",
-            "rule": "最高连板 5 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+            "rule": "最高连板 5 板，炸板率 40%。只在情绪、资金、个股承接共振时加仓。"
           }
         ]
       },
@@ -56396,15 +56584,15 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-10-30 18:33:29",
+        "generatedAt": "2026-10-30 22:24:38",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
             "title": "市场温度",
             "items": [
-              "情绪分 0，涨停 47，跌停 82，炸板 0。",
+              "情绪分 0，涨停 47，跌停 82，炸板 31。",
               "连板高度 5 板，当前仓位纪律：总仓位 0%-25%，单票 10%-15%。",
-              "今日负反馈：跌停 82 只，炸板 0 只。"
+              "今日负反馈：跌停 82 只，炸板 31 只。"
             ]
           },
           {
@@ -56419,10 +56607,10 @@
           {
             "title": "风险与纪律",
             "items": [
+              "今日炸板 31 只，追高前先看前排封单和回封质量。",
               "今日跌停 82 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：2国投证券股份有限公司关于深圳证券交易所《关于中山联合光电科技股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见。",
+              "新闻/公告风险：美股持续走低 纳斯达克100指数跌幅扩大至3%；金价降了水贝卖爆了 水贝黄金门店销量翻番。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
@@ -56438,7 +56626,7 @@
           },
           {
             "title": "情绪条件",
-            "rule": "最高连板 5 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+            "rule": "最高连板 5 板，炸板率 40%。只在情绪、资金、个股承接共振时加仓。"
           }
         ]
       }
