@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-10-30",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-10-30 02:58:38",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-10-30 02:58:38",
+    "lastNewsAt": "2026-10-30 14:17:38"
   },
   "indices": [
     {
@@ -55374,162 +55376,84 @@
   },
   "newsBrief": {
     "tradeDate": "2026-10-30",
-    "generatedAt": "2026-10-30 02:59:54",
+    "generatedAt": "2026-10-30 14:17:38",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、能源、有色稀土。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、半导体、机器人。",
     "themes": [
       {
-        "name": "金融",
-        "score": 6,
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "半导体",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
+        "name": "机器人",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "军工",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "ST中路:关于公司股票被实施其他风险警示及可能被实施退市风险警示相关事项的进展暨风险提示公告",
-        "summary": "ST中路(600818)：ST中路:关于公司股票被实施其他风险警示及可能被实施退市风险警示相关事项的进展暨风险提示公告",
+        "title": "*ST金灵:2026年三季度报告",
+        "summary": "*ST金灵(300091)：*ST金灵:2026年三季度报告",
         "publishedAt": "2026-10-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600818/AN202610291831185746.html",
+        "url": "https://data.eastmoney.com/notices/detail/300091/AN202610291831180156.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST中路(600818)"
+          "*ST金灵(300091)"
         ],
         "importance": 1,
-        "noticeType": "其它风险提示公告"
+        "noticeType": "三季度报告全文"
       },
       {
-        "title": "花旗集团策略师将未来三个月欧元兑美元预测从1.135下调至1.105",
-        "summary": "花旗集团策略师将未来三个月欧元兑美元预测从1.135下调至1.105，原因是担忧欧洲市场尾部风险、有利于美国的利差可能走阔，以及可能使能源价格维持高位的地缘政治担忧持续存在。",
-        "publishedAt": "2026-10-30 01:14:22",
+        "title": "一次性使用磁定位标测双能量消融导管等4个创新医疗器械获批上市",
+        "summary": "【一次性使用磁定位标测双能量消融导管等4个创新医疗器械获批上市】国家药品监管局批准了美敦力公司Medtronic,Inc.“一次性使用磁定位标测双能量消融导管”“心脏双能量消融系统”“三维心脏电生理标测系统”“一次性使用体表参考电极”创新产品注册申请。",
+        "publishedAt": "2026-10-30 13:47:42",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303915074789.html",
+        "url": "https://finance.eastmoney.com/a/202610303916218144.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "能源"
+          "医药"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
-      },
-      {
-        "title": "安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划(草案)",
-        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划(草案)",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688620/AN202610291831186320.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安凯微(688620)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划"
-      },
-      {
-        "title": "安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划(草案)摘要公告",
-        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划(草案)摘要公告",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688620/AN202610291831186317.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安凯微(688620)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励计划摘要"
-      },
-      {
-        "title": "安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划激励对象名单",
-        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划激励对象名单",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688620/AN202610291831186319.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安凯微(688620)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "顺丰控股:关于注销2022年A股股票期权激励计划部分股票期权的公告",
-        "summary": "顺丰控股(002352)：顺丰控股:关于注销2022年A股股票期权激励计划部分股票期权的公告",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002352/AN202610291831186263.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "顺丰控股(002352)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "顺丰控股:关于2022年A股股票期权激励计划预留授予股票期权第四个行权期行权条件成就的公告",
-        "summary": "顺丰控股(002352)：顺丰控股:关于2022年A股股票期权激励计划预留授予股票期权第四个行权期行权条件成就的公告",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002352/AN202610291831186260.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "顺丰控股(002352)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "顺丰控股:关于调整公司2022年A股股票期权激励计划行权价格的公告",
-        "summary": "顺丰控股(002352)：顺丰控股:关于调整公司2022年A股股票期权激励计划行权价格的公告",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002352/AN202610291831186255.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "顺丰控股(002352)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励行权价（数量）调整"
       },
       {
         "title": "五粮液:关于控股股东及其一致行动人增持股份触及1%整数倍的公告",
@@ -55548,126 +55472,204 @@
         "noticeType": "股东/实际控制人股份增持"
       },
       {
-        "title": "吉视传媒:吉视传媒关于面向专业投资者非公开发行公司债券预案的公告",
-        "summary": "吉视传媒(601929)：吉视传媒:吉视传媒关于面向专业投资者非公开发行公司债券预案的公告",
+        "title": "000600建投能源投资者关系管理信息20261029",
+        "summary": "建投能源(000600)：000600建投能源投资者关系管理信息20261029",
         "publishedAt": "2026-10-30",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601929/AN202610291831186086.html",
+        "url": "https://data.eastmoney.com/notices/detail/000600/AN202610301831218614.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "吉视传媒(601929)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "中力股份:关于向控股子公司增资暨与关联人共同投资构成关联交易的公告",
-        "summary": "中力股份(603194)：中力股份:关于向控股子公司增资暨与关联人共同投资构成关联交易的公告",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603194/AN202610291831185942.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中力股份(603194)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "中力股份:国泰海通证券股份有限公司关于浙江中力机械股份有限公司向控股子公司增资暨与关联人共同投资构成关联交易的核查意见",
-        "summary": "中力股份(603194)：中力股份:国泰海通证券股份有限公司关于浙江中力机械股份有限公司向控股子公司增资暨与关联人共同投资构成关联交易的核查意见",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603194/AN202610291831185941.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "中力股份(603194)"
-        ],
-        "importance": 1,
-        "noticeType": "保荐/核查意见"
-      },
-      {
-        "title": "中力股份:关于召开2026年第三季度业绩说明会的公告",
-        "summary": "中力股份(603194)：中力股份:关于召开2026年第三季度业绩说明会的公告",
-        "publishedAt": "2026-10-30",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603194/AN202610291831185934.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中力股份(603194)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "上市银行业绩企稳回升 四大行总市值首破10万亿元大关",
-        "summary": "【上市银行业绩企稳回升 四大行总市值首破10万亿元大关】10月29日，银行板块逆势走强，42家A股上市银行中有40家收涨，工商银行、建设银行等多只银行股盘中创出历史新高。其中，备受市场关注的是，工农中建四大国有行A+H股总市值首次突破10万亿元大关，银行板块总市值也升至17.4万亿元。",
-        "publishedAt": "2026-10-30 02:18:32",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303915084412.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "三季报即将收官 46股业绩获“超预期”评价",
-        "summary": "【三季报即将收官 46股业绩获“超预期”评价】三季报业绩披露即将收官，券商研报对业绩给出“超预期”评价的股票有46只。上述46只个股今年以来平均上涨16.1%，大幅跑赢大盘。此外，33只业绩超预期个股滚动市盈率低于30倍，34只个股2026年前三季度净利润同比增长超20%。",
-        "publishedAt": "2026-10-30 02:45:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303915084251.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "上期所原油期货2612合约夜盘收1.96% 报721.50元人民币/桶",
-        "summary": "上期所原油期货2612合约夜盘收1.96%，报721.50元人民币/桶。沪金夜盘收跌1.02%，沪银收跌4.10%。",
-        "publishedAt": "2026-10-30 02:31:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303915087877.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [
           "能源"
         ],
+        "tickers": [
+          "建投能源(000600)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "顺络电子:2026年10月29日投资者关系活动记录表",
+        "summary": "顺络电子(002138)：顺络电子:2026年10月29日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002138/AN202610301831215620.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "顺络电子(002138)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "领益智造:2026年10月29日投资者关系活动记录表",
+        "summary": "领益智造(002600)：领益智造:2026年10月29日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002600/AN202610301831214931.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "领益智造(002600)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "001696宗申动力投资者关系管理信息20261030",
+        "summary": "宗申动力(001696)：001696宗申动力投资者关系管理信息20261030",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001696/AN202610301831212960.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宗申动力(001696)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "航发控制:关于召开2026年第三季度业绩说明会的公告",
+        "summary": "航发控制(000738)：航发控制:关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000738/AN202610301831212577.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "航发控制(000738)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "帝科股份:2026年10月29日投资者关系活动记录表",
+        "summary": "帝科股份(300842)：帝科股份:2026年10月29日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300842/AN202610301831202728.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "帝科股份(300842)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "300952恒辉安防投资者关系管理信息20261030",
+        "summary": "恒辉安防(300952)：300952恒辉安防投资者关系管理信息20261030",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300952/AN202610301831202166.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "恒辉安防(300952)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "天融信:2026年10月29日投资者关系活动记录表",
+        "summary": "天融信(002212)：天融信:2026年10月29日投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002212/AN202610301831201108.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "天融信(002212)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "胜宏科技:300476胜宏科技投资者关系管理信息20261030",
+        "summary": "胜宏科技(300476)：胜宏科技:300476胜宏科技投资者关系管理信息20261030",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300476/AN202610301831201107.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "胜宏科技(300476)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中航光电:2026年10月29日中航光电投资者关系活动记录表",
+        "summary": "中航光电(002179)：中航光电:2026年10月29日中航光电投资者关系活动记录表",
+        "publishedAt": "2026-10-30",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002179/AN202610301831199391.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中航光电(002179)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "国务院决定刘金波不再担任中投公司执行董事职务",
+        "summary": "【国务院决定刘金波不再担任中投公司执行董事职务】据中国投资有限责任公司官网10月30日消息，国务院决定，刘金波不再担任中投公司执行董事职务。另据江西日报消息，10月24日，江西省委组织部召开机关干部大会，宣布中央和江西省委关于省委组织部主要负责同志调整的决定。中央批准：刘金波同志任江西省委委员、常委。江西省委决定：刘金波同志任省委组织部部长、省委党校校长。",
+        "publishedAt": "2026-10-30 14:09:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303916242866.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "胡塞武装称沙特主导联军24小时内对也门发动百余次空袭",
-        "summary": "【胡塞武装称沙特主导联军24小时内对也门发动百余次空袭】当地时间10月29日，也门胡塞武装发布声明表示，过去24小时内，沙特主导的多国联军对也门萨达省、哈杰省、贝达省、焦夫省、塔伊兹省和拉赫季省发动116次空袭和导弹袭击，造成大量人员伤亡，其中包括妇女和儿童。",
-        "publishedAt": "2026-10-30 02:26:28",
+        "title": "日本央行提速抛售ETF 日股反应平淡",
+        "summary": "【日本央行提速抛售ETF 日股反应平淡】面对日本央行出人意料地加速抛售其巨额ETF持仓的举动，日本股市反应平淡，这表明投资者相信市场有能力消化这些额外的供给。日本央行周五表示，将从明年1月起将ETF的抛售速度提高近两倍，至每年约8600亿日元（约合55亿美元）。受全球科技股抛售潮冲击，日经225指数早盘一度承压，午后跌幅略有收窄。",
+        "publishedAt": "2026-10-30 14:08:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303915086037.html",
+        "url": "https://finance.eastmoney.com/a/202610303916243184.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "三位民营火箭创始人首登百富榜",
+        "summary": "【三位民营火箭创始人首登百富榜】民营火箭历经十年技术认证和突破后，终于有创始人的身价冲破百亿。10月27日发布的《2026胡润百富榜》显示，蓝箭航天创始人张昌武、天兵科技创始人康永来、中科宇航创始人杨毅强三位商业火箭公司掌门人首次跻身榜单，身价分别为110亿元、90亿元和70亿元，分别排在第696位、第860位和第107位。三人合计财富270亿元。",
+        "publishedAt": "2026-10-30 14:07:24",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202610303916237283.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
           "军工"
         ],
@@ -55676,17 +55678,31 @@
         "noticeType": ""
       },
       {
-        "title": "以色列议会选举初步计票全部完成 议会席位基本确定",
-        "summary": "【以色列议会选举初步计票全部完成 议会席位基本确定】当地时间29日晚间，以色列中央选举委员会完成本届议会选举全部初步计票工作，并公布了初步计票结果。根据选举法律流程，中央选举委员会在完成法定的选票交叉核验及法律申诉程序后，将于11月4日依法公布最终的正式选举结果。",
-        "publishedAt": "2026-10-30 02:20:29",
+        "title": "日本央行认定物价涨幅已达到2%目标 维持政策利率不变",
+        "summary": "【日本央行认定物价涨幅已达到2%目标 维持政策利率不变】日本央行30日结束为期两天的货币政策会议，决定维持政策利率在1.25%左右不变，并公布经济与物价形势展望报告。报告认为，日本基础物价涨幅已达到与2%物价稳定目标大致相符的水平。这是日本央行2013年设定2%物价目标以来首次作出这一判断。",
+        "publishedAt": "2026-10-30 13:51:08",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202610303915085463.html",
+        "url": "https://finance.eastmoney.com/a/202610303916218389.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月28日美联储资产负债表(万亿美元)",
+        "summary": "美国截至10月28日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.81。",
+        "publishedAt": "2026-10-30 04:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -55869,7 +55885,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -55882,15 +55898,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-10-30 02:59:54",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-10-30 14:17:38",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 有色稀土、半导体、机器人。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、机器人；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -55986,7 +56002,7 @@
               "今日炸板 25 只，追高前先看前排封单和回封质量。",
               "今日跌停 41 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST中路:关于公司股票被实施其他风险警示及可能被实施退市风险警示相关事项的进展暨风险提示公告；花旗集团策略师将未来三个月欧元兑美元预测从1.135下调至1.105。",
+              "新闻/公告风险：*ST金灵:2026年三季度报告；一次性使用磁定位标测双能量消融导管等4个创新医疗器械获批上市。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
