@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-04",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-04 04:02:11",
+    "generatedAt": "2026-11-04 04:08:07",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -69088,12 +69088,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-04",
-    "generatedAt": "2026-11-04 04:02:55",
+    "generatedAt": "2026-11-04 04:08:51",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: HTTP Error 403: "
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、军工、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、AI算力、军工。",
     "themes": [
       {
         "name": "金融",
@@ -69101,12 +69101,12 @@
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 4,
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "军工",
         "score": 4,
         "isFocusBoard": false
       },
@@ -69373,6 +69373,22 @@
         "noticeType": ""
       },
       {
+        "title": "Anthropic宣布推出FlashProve 该工具允许开发者验证某一响应是否由特定AI模型生成",
+        "summary": "Anthropic宣布推出FlashProve，该工具允许开发者验证某一响应是否由特定AI模型生成。",
+        "publishedAt": "2026-11-04 04:01:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611043920673741.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
         "title": "据Skydance的一份备忘录 在派拉蒙与华纳兄弟探索公司合并后 将有八名高管离职",
         "summary": "据Skydance的一份备忘录，在派拉蒙与华纳兄弟探索公司合并后，将有八名高管离职。",
         "publishedAt": "2026-11-04 03:47:37",
@@ -69398,20 +69414,6 @@
         "themes": [
           "军工"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美中期选举正式投票开启 民生难题左右民意选择",
-        "summary": "【美中期选举正式投票开启 民生难题左右民意选择】美东时间11月3日，美国中期选举迎来正式投票日。全美大部分投票站通常于当地时间清晨开放并于当晚关闭。随后，各州将对包含邮寄选票、海外选票和临时选票在内的所有选票进行最终核对与认证。初步结果通常会在当地时间3日晚陆续公布。不过，由于一些摇摆州的计票工作量较大，最终结果可能需要几天甚至几周才能公布。",
-        "publishedAt": "2026-11-04 03:27:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611043920672922.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -69672,15 +69674,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-04 04:02:55",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、军工、AI算力。",
+        "generatedAt": "2026-11-04 04:08:51",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、AI算力、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：同花顺漂亮100、保险、白酒；首看 同花顺漂亮100 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、军工、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69711,7 +69713,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-04 04:02:11",
+        "generatedAt": "2026-11-04 04:08:07",
         "summary": "上午情绪分 60，涨停 48 家，跌停 17 家，炸板 34 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -69750,7 +69752,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-04 04:02:11",
+        "generatedAt": "2026-11-04 04:08:07",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
