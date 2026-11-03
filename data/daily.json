@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-03",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-03 19:20:47",
+    "generatedAt": "2026-11-03 23:29:26",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -69013,7 +69013,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -69185,65 +69186,39 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-03",
-    "generatedAt": "2026-11-03 19:22:01",
+    "generatedAt": "2026-11-03 23:31:01",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 3,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 2,
+        "name": "金融",
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "中富通:关于控股股东、实际控制人进行部分股份质押的公告",
-        "summary": "中富通(300560)：中富通:关于控股股东、实际控制人进行部分股份质押的公告",
-        "publishedAt": "2026-11-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300560/AN202611031831374807.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "中富通(300560)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "德邦科技：实控人及一致行动人提前终止减持计划",
-        "summary": "【德邦科技：实控人及一致行动人提前终止减持计划】11月3日，德邦科技(688035)公告，公司控股股东、实控人及一致行动人王建斌、陈昕、林国成此前披露减持计划，拟合计减持不超426.72万股，占公司总股本比例不超3.00%。截至本公告披露日，三人均未实施减持。",
-        "publishedAt": "2026-11-03 19:14:00",
+        "title": "美债价格下跌 最新数据显示美国职位空缺超过预期",
+        "summary": "美债价格下跌，最新数据显示，美国职位空缺超过预期。",
+        "publishedAt": "2026-11-03 23:05:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611033920401624.html",
+        "url": "https://finance.eastmoney.com/a/202611033920624521.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -69253,11 +69228,11 @@
         "noticeType": ""
       },
       {
-        "title": "最强厄尔尼诺影响下今冬总体偏暖 但寒潮频次略偏多",
-        "summary": "【最强厄尔尼诺影响下今冬总体偏暖 但寒潮频次略偏多】国家气候中心副主任高荣表示，预计2026/2027年冬季，全国气温总体偏高，但寒潮频次略偏多，气温冷暖起伏大，北方强降温降雪、南方阶段性低温雨雪冰冻风险突出。除内蒙古东北部、东北地区西部气温偏低外，全国其余大部地区气温接近常年同期到偏高，并呈现前冬冷、后冬暖的特点，12月和1月阶段性强降温和强升温事件频繁。",
-        "publishedAt": "2026-11-03 19:06:42",
+        "title": "国内部分商品期货夜盘收盘 主力合约多数下跌",
+        "summary": "【国内部分商品期货夜盘收盘 主力合约多数下跌】截至23:00，国内部分商品期货夜盘收盘，主力合约多数下跌。跌幅方面，低硫燃油跌超5%，燃油跌超4%，棕榈油、LPG、纯苯、沥青跌超2%，对二甲苯、苯乙烯、甲醇、PVC、豆二等跌超1%；涨幅方面，烧碱涨近3%，玻璃、纯碱涨超1%，铁矿石、纸浆、白糖、热卷、棉花等小幅上涨。",
+        "publishedAt": "2026-11-03 23:00:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611033920399069.html",
+        "url": "https://finance.eastmoney.com/a/202611033920619188.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -69267,91 +69242,41 @@
         "noticeType": ""
       },
       {
-        "title": "星图测控:关于对外投资设立参股公司进展暨完成工商登记并取得营业执照的公告",
-        "summary": "星图测控(920116)：星图测控:关于对外投资设立参股公司进展暨完成工商登记并取得营业执照的公告",
+        "title": "ADM股价一度下跌6% 为4月以来最大跌幅",
+        "summary": "11月3日，ADM股价一度下跌6%，为4月以来最大跌幅。",
+        "publishedAt": "2026-11-03 22:57:42",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611033920621031.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "回天新材:关于募集资金投资项目建设进展的公告",
+        "summary": "回天新材(300041)：回天新材:关于募集资金投资项目建设进展的公告",
         "publishedAt": "2026-11-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920116/AN202611031831375345.html",
+        "url": "https://data.eastmoney.com/notices/detail/300041/AN202611031831379513.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "星图测控(920116)"
+          "回天新材(300041)"
         ],
         "importance": 1,
-        "noticeType": "投资设立公司"
+        "noticeType": "募集资金使用进展情况"
       },
       {
-        "title": "000680山推股份投资者关系管理信息20261103",
-        "summary": "山推股份(000680)：000680山推股份投资者关系管理信息20261103",
+        "title": "趣睡科技:成都趣睡科技股份有限公司关于回购公司股份的进展公告",
+        "summary": "趣睡科技(301336)：趣睡科技:成都趣睡科技股份有限公司关于回购公司股份的进展公告",
         "publishedAt": "2026-11-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000680/AN202611031831375156.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "山推股份(000680)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "京东方Ａ:052-2026年11月3日投资者关系活动记录表",
-        "summary": "京东方A(000725)：京东方Ａ:052-2026年11月3日投资者关系活动记录表",
-        "publishedAt": "2026-11-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000725/AN202611031831375010.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "京东方A(000725)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华通线缆:投资者关系活动记录表2026-004",
-        "summary": "华通线缆(605196)：华通线缆:投资者关系活动记录表2026-004",
-        "publishedAt": "2026-11-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605196/AN202611031831374956.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华通线缆(605196)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "雪榕生物:上海雪榕生物科技股份有限公司关于实际控制人及控股股东增持股份计划的公告",
-        "summary": "雪榕生物(300511)：雪榕生物:上海雪榕生物科技股份有限公司关于实际控制人及控股股东增持股份计划的公告",
-        "publishedAt": "2026-11-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300511/AN202611031831374978.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "雪榕生物(300511)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "凯旺科技:河南凯旺电子科技股份有限公司回购股份报告书",
-        "summary": "凯旺科技(301182)：凯旺科技:河南凯旺电子科技股份有限公司回购股份报告书",
-        "publishedAt": "2026-11-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301182/AN202611031831374904.html",
+        "url": "https://data.eastmoney.com/notices/detail/301336/AN202611031831376151.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -69359,153 +69284,215 @@
           "金融"
         ],
         "tickers": [
-          "凯旺科技(301182)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "凯旺科技:河南凯旺电子科技股份有限公司关于回购公司股份的进展公告",
-        "summary": "凯旺科技(301182)：凯旺科技:河南凯旺电子科技股份有限公司关于回购公司股份的进展公告",
-        "publishedAt": "2026-11-03",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301182/AN202611031831374808.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "凯旺科技(301182)"
+          "趣睡科技(301336)"
         ],
         "importance": 1,
         "noticeType": "回购进展情况"
       },
       {
-        "title": "粤高速Ａ:000429粤高速Ａ投资者关系管理信息20261103",
-        "summary": "粤高速A(000429)：粤高速Ａ:000429粤高速Ａ投资者关系管理信息20261103",
+        "title": "华鹏飞:关于使用闲置自有资金进行现金管理的进展公告",
+        "summary": "华鹏飞(300350)：华鹏飞:关于使用闲置自有资金进行现金管理的进展公告",
         "publishedAt": "2026-11-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000429/AN202611031831374687.html",
+        "url": "https://data.eastmoney.com/notices/detail/300350/AN202611031831373831.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "粤高速A(000429)"
+          "华鹏飞(300350)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "投资理财"
       },
       {
-        "title": "美诺华:宁波美诺华药业股份有限公司投资者关系活动记录表(20261102)",
-        "summary": "美诺华(603538)：美诺华:宁波美诺华药业股份有限公司投资者关系活动记录表(20261102)",
+        "title": "000936华西股份投资者关系管理信息20261103",
+        "summary": "华西股份(000936)：000936华西股份投资者关系管理信息20261103",
         "publishedAt": "2026-11-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603538/AN202611031831374466.html",
+        "url": "https://data.eastmoney.com/notices/detail/000936/AN202611031831372884.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "美诺华(603538)"
+          "华西股份(000936)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "均瑶健康:投资者关系活动记录表2026-008",
-        "summary": "均瑶健康(605388)：均瑶健康:投资者关系活动记录表2026-008",
+        "title": "河钢资源:2026年11月2日投资者关系活动记录表",
+        "summary": "河钢资源(000923)：河钢资源:2026年11月2日投资者关系活动记录表",
         "publishedAt": "2026-11-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605388/AN202611031831374468.html",
+        "url": "https://data.eastmoney.com/notices/detail/000923/AN202611031831339747.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "均瑶健康(605388)"
+          "河钢资源(000923)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "北自科技:2026年第三季度业绩说明会投资者关系活动记录表",
-        "summary": "北自科技(603082)：北自科技:2026年第三季度业绩说明会投资者关系活动记录表",
+        "title": "300661圣邦股份投资者关系管理信息20261102",
+        "summary": "圣邦股份(300661)：300661圣邦股份投资者关系管理信息20261102",
         "publishedAt": "2026-11-03",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603082/AN202611031831374467.html",
+        "url": "https://data.eastmoney.com/notices/detail/300661/AN202611031831381918.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "北自科技(603082)"
+          "圣邦股份(300661)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "Cloudflare盘前股价上涨3.5%",
-        "summary": "【Cloudflare盘前股价上涨3.5%】Cloudflare盘前股价上涨3.5%，此前摩根大通将其评级从中性上调至增持。",
-        "publishedAt": "2026-11-03 19:13:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611033920401416.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "申万宏源:000166申万宏源投资者关系管理信息20261103",
+        "summary": "申万宏源(000166)：申万宏源:000166申万宏源投资者关系管理信息20261103",
+        "publishedAt": "2026-11-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000166/AN202611031831381919.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "申万宏源(000166)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "行云科技股份有限公司投资者关系活动记录表",
+        "summary": "行云科技(300209)：行云科技股份有限公司投资者关系活动记录表",
+        "publishedAt": "2026-11-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300209/AN202611031831381652.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "行云科技(300209)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "潍柴重机股份有限公司2026年11月3日投资者关系活动记录表",
+        "summary": "潍柴重机(000880)：潍柴重机股份有限公司2026年11月3日投资者关系活动记录表",
+        "publishedAt": "2026-11-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000880/AN202611031831381401.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "潍柴重机(000880)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "英唐智控:2026年11月3日投资者关系活动记录表",
+        "summary": "英唐智控(300131)：英唐智控:2026年11月3日投资者关系活动记录表",
+        "publishedAt": "2026-11-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300131/AN202611031831380808.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英唐智控(300131)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "铭普光磁:2026年11月3日投资者关系活动记录表",
+        "summary": "铭普光磁(002902)：铭普光磁:2026年11月3日投资者关系活动记录表",
+        "publishedAt": "2026-11-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002902/AN202611031831380643.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "铭普光磁(002902)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "飞亚达:2026年11月3日投资者关系活动记录表",
+        "summary": "飞亚达(000026)：飞亚达:2026年11月3日投资者关系活动记录表",
+        "publishedAt": "2026-11-03",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000026/AN202611031831380161.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "飞亚达(000026)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "美国11月2日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月2日iShares白银持仓-每日更新(吨)；公布 15759.44，预期 nan，前值 15645.73。",
+        "publishedAt": "2026-11-03 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "永鼎股份：董事长提议回购3000万至5000万元股份",
-        "summary": "【永鼎股份：董事长提议回购3000万至5000万元股份】永鼎股份(600105.SH)公告称，董事长莫思铭提议公司使用自有或自筹资金通过集中竞价方式回购公司A股股份，回购资金总额不低于3000万元且不超过5000万元，回购股份拟用于员工股权激励/员工持股计划或减少注册资本，回购期限为董事会审议通过之日起12个月内。",
-        "publishedAt": "2026-11-03 19:10:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611033920400953.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国11月2日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月2日SPDR黄金持仓-每日更新(吨)；公布 1040.51，预期 nan，前值 1041.65。",
+        "publishedAt": "2026-11-03 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "摩根资产管理（中国）：市场或已计入较多悲观预期 投资价值开始显现",
-        "summary": "【摩根资产管理（中国）：市场或已计入较多悲观预期 投资价值开始显现】摩根资产管理（中国）举办“2026年四季度环球市场纵览暨主动ETF研讨会”，摩根资产管理资深环球市场策略师朱超平在会上指出，当前中国经济延续结构性分化，出口保持韧性，消费温和修复，房地产投资仍偏弱。9月以来的市场调整或已计入较多悲观预期，随着市场估值回落，部分板块的投资价值开始显现。随着政…",
-        "publishedAt": "2026-11-03 19:02:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611033920395950.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国11月2日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月2日iShares黄金持仓-每日更新(吨)；公布 461.62，预期 nan，前值 462.02。",
+        "publishedAt": "2026-11-03 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "均胜电子：拟1.5亿元至3亿元回购股份用于注销",
-        "summary": "【均胜电子：拟1.5亿元至3亿元回购股份用于注销】均胜电子(600699.SH)公告称，公司拟以自有资金及自筹资金通过集中竞价交易方式回购公司A股股份，回购金额不低于1.5亿元且不超过3亿元，回购价格不超过30元/股。本次回购的股份将全部予以注销并减少公司注册资本，回购期限为自公司股东会审议通过之日起12个月内。",
-        "publishedAt": "2026-11-03 18:58:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611033920392529.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -69764,15 +69751,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-03 19:22:01",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-11-03 23:31:01",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：同花顺漂亮100、保险、白酒；首看 同花顺漂亮100 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69803,7 +69790,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-03 19:20:47",
+        "generatedAt": "2026-11-03 23:29:26",
         "summary": "上午情绪分 60，涨停 48 家，跌停 17 家，炸板 34 家，连板 15 家，最高 4 板。",
         "sections": [
           {
@@ -69842,7 +69829,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-03 19:20:47",
+        "generatedAt": "2026-11-03 23:29:26",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -69868,7 +69855,7 @@
               "今日炸板 34 只，追高前先看前排封单和回封质量。",
               "今日跌停 17 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：中富通:关于控股股东、实际控制人进行部分股份质押的公告；德邦科技：实控人及一致行动人提前终止减持计划。",
+              "新闻/公告风险：美债价格下跌 最新数据显示美国职位空缺超过预期；国内部分商品期货夜盘收盘 主力合约多数下跌。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
