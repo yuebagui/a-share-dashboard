@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-04",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-04 04:08:07",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-04 04:08:07",
+    "lastNewsAt": "2026-11-04 14:53:56"
   },
   "indices": [
     {
@@ -69088,35 +69090,43 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-04",
-    "generatedAt": "2026-11-04 04:08:51",
+    "generatedAt": "2026-11-04 14:53:56",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: HTTP Error 403: "
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、AI算力、军工。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 AI算力、金融、有色稀土。",
     "themes": [
       {
-        "name": "金融",
-        "score": 11,
+        "name": "AI算力",
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "金融",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 2,
+        "name": "汽车链",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       },
@@ -69127,6 +69137,22 @@
       }
     ],
     "items": [
+      {
+        "title": "易事特:关于收到普通代表人诉讼民事调解书的公告",
+        "summary": "易事特(300376)：易事特:关于收到普通代表人诉讼民事调解书的公告",
+        "publishedAt": "2026-11-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300376/AN202611041831389574.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "易事特(300376)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
       {
         "title": "国晟科技:关于重要控股子公司业务临时停产的风险提示公告",
         "summary": "国晟科技(603778)：国晟科技:关于重要控股子公司业务临时停产的风险提示公告",
@@ -69144,278 +69170,255 @@
         "noticeType": "其它风险提示公告"
       },
       {
-        "title": "新疆交建:关于累计诉讼、仲裁情况的公告",
-        "summary": "新疆交建(002941)：新疆交建:关于累计诉讼、仲裁情况的公告",
-        "publishedAt": "2026-11-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002941/AN202611031831380541.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新疆交建(002941)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "奥精医疗:关于股票交易异常波动公告",
-        "summary": "奥精医疗(688613)：奥精医疗:关于股票交易异常波动公告",
-        "publishedAt": "2026-11-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688613/AN202611031831380208.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "1.9%！最新保险预定利率研究值环比下降4BP 中期难现“炒停售”",
+        "summary": "【1.9%！最新保险预定利率研究值环比下降4BP 中期难现“炒停售”】今日，保险业协会公布当前普通型人身保险产品预定利率研究值为1.9%，较上季度1.94%下降4个基点。业内专家表示，本次研究值距离在售普通型人身保险产品预定利率最高值2.0%差距为10bps，尚未触发此前监管约定的“连续2个季度高/低25bps及以上”阈值条件。",
+        "publishedAt": "2026-11-04 14:47:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611043921706798.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "医药"
+          "金融"
         ],
-        "tickers": [
-          "奥精医疗(688613)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": ""
       },
       {
-        "title": "奥飞娱乐:股票交易异常波动公告",
-        "summary": "奥飞娱乐(002292)：奥飞娱乐:股票交易异常波动公告",
+        "title": "新和成:2026年11月3日投资者关系活动记录表",
+        "summary": "新和成(002001)：新和成:2026年11月3日投资者关系活动记录表",
         "publishedAt": "2026-11-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002292/AN202611031831379866.html",
+        "url": "https://data.eastmoney.com/notices/detail/002001/AN202611041831397567.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "奥飞娱乐(002292)"
+          "新和成(002001)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST闻泰:关于子公司经营管理情况的进展公告",
-        "summary": "*ST闻泰(600745)：*ST闻泰:关于子公司经营管理情况的进展公告",
+        "title": "002582好想你投资者关系管理信息20261104",
+        "summary": "好想你(002582)：002582好想你投资者关系管理信息20261104",
         "publishedAt": "2026-11-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600745/AN202611031831379784.html",
+        "url": "https://data.eastmoney.com/notices/detail/002582/AN202611041831398009.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST闻泰(600745)"
+          "好想你(002582)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST闻泰:股票交易异常波动公告",
-        "summary": "*ST闻泰(600745)：*ST闻泰:股票交易异常波动公告",
+        "title": "温氏股份:2026年11月2日投资者关系活动记录表",
+        "summary": "温氏股份(300498)：温氏股份:2026年11月2日投资者关系活动记录表",
         "publishedAt": "2026-11-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600745/AN202611031831379785.html",
+        "url": "https://data.eastmoney.com/notices/detail/300498/AN202611041831398008.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST闻泰(600745)"
+          "温氏股份(300498)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "龙蟠科技:江苏龙蟠科技集团股份有限公司关于日常经营重大合同相关事项的监管工作函的回复公告",
-        "summary": "龙蟠科技(603906)：龙蟠科技:江苏龙蟠科技集团股份有限公司关于日常经营重大合同相关事项的监管工作函的回复公告",
+        "title": "002345潮宏基投资者关系管理信息20261104",
+        "summary": "潮宏基(002345)：002345潮宏基投资者关系管理信息20261104",
         "publishedAt": "2026-11-04",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603906/AN202611031831379048.html",
+        "url": "https://data.eastmoney.com/notices/detail/002345/AN202611041831397531.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "龙蟠科技(603906)"
+          "潮宏基(002345)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "001391国货航投资者关系管理信息20261104",
+        "summary": "国货航(001391)：001391国货航投资者关系管理信息20261104",
+        "publishedAt": "2026-11-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001391/AN202611041831397115.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国货航(001391)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "001257盛龙股份投资者关系管理信息20261104",
+        "summary": "盛龙股份(001257)：001257盛龙股份投资者关系管理信息20261104",
+        "publishedAt": "2026-11-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001257/AN202611041831393584.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盛龙股份(001257)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "洛轴股份:2026年11月3日投资者关系活动记录表",
+        "summary": "洛轴股份(301699)：洛轴股份:2026年11月3日投资者关系活动记录表",
+        "publishedAt": "2026-11-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301699/AN202611041831391234.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "洛轴股份(301699)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长鑫科技:关于收到公司董事长提议增加回购股份金额的提示性公告",
+        "summary": "长鑫科技(688825)：长鑫科技:关于收到公司董事长提议增加回购股份金额的提示性公告",
+        "publishedAt": "2026-11-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688825/AN202611041831390148.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "长鑫科技(688825)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "迦南智能:2026年11月3日投资者关系活动",
+        "summary": "迦南智能(300880)：迦南智能:2026年11月3日投资者关系活动",
+        "publishedAt": "2026-11-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300880/AN202611041831389566.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "迦南智能(300880)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长高电气:关于全资子公司在国家电网中标的公告",
+        "summary": "长高电气(002452)：长高电气:关于全资子公司在国家电网中标的公告",
+        "publishedAt": "2026-11-04",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002452/AN202611041831389573.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长高电气(002452)"
         ],
         "importance": 1,
         "noticeType": "重大合同"
       },
       {
-        "title": "阿拉伯航空运输组织：今年成员航司预计约亏损43亿美元",
-        "summary": "【阿拉伯航空运输组织：今年成员航司预计约亏损43亿美元】当地时间11月3日，阿拉伯航空运输组织第59届年度大会在卡塔尔首都多哈举行工作会议。会上发布的最新行业报告显示，受地区冲突、能源成本上涨及航班运营受阻等因素影响，预计2026年该组织成员航空公司合计净亏损约43亿美元。",
-        "publishedAt": "2026-11-04 03:36:49",
+        "title": "绿地控股集团等被执行8.1亿",
+        "summary": "【绿地控股集团等被执行8.1亿】天眼查显示，11月2日，绿地控股集团有限公司等新增1则被执行人信息，执行标的8.1亿余元人民币，执行法院为江苏省南京市中级人民法院。该公司成立于1992年7月，法定代表人为张玉良，注册资本约226.5亿人民币，经营范围为实业投资，绿化，仓储，房地产，出租汽车，日用百货，纺织品，物业管理，化工产品，建材，五金交电，建筑施工，由…",
+        "publishedAt": "2026-11-04 14:51:48",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611043920673451.html",
+        "url": "https://finance.eastmoney.com/a/202611043921897739.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
-          "军工",
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "新疆石河子娃哈哈启力乳业有限公司更名",
+        "summary": "【新疆石河子娃哈哈启力乳业有限公司更名】天眼查App显示，近日，新疆石河子娃哈哈启力乳业有限公司发生工商变更，企业名称变更为石河子市恒枫乳业有限公司，祝丽丹卸任法定代表人，由严学峰接任。该公司成立于2008年6月，注册资本4000万人民币，经营范围为乳制品生产、食品销售、食品进出口，由浙江启力投资有限公司、新疆天山军垦牧业有限责任公司共同持股。",
+        "publishedAt": "2026-11-04 14:42:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611043921890222.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月30日当周API汽油库存变动(万桶)",
+        "summary": "美国截至10月30日当周API汽油库存变动(万桶)；公布 142.7，预期 nan，前值 239.0。",
+        "publishedAt": "2026-11-04 05:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至10月30日当周API原油库存变动(万桶)",
+        "summary": "美国截至10月30日当周API原油库存变动(万桶)；公布 -526.7，预期 nan，前值 -203.1。",
+        "publishedAt": "2026-11-04 05:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
           "能源"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "TCL中环:关于股份回购进展情况的公告",
-        "summary": "TCL中环(002129)：TCL中环:关于股份回购进展情况的公告",
-        "publishedAt": "2026-11-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002129/AN202611031831380650.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "TCL中环(002129)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "奥飞娱乐:关于回购股份的进展公告",
-        "summary": "奥飞娱乐(002292)：奥飞娱乐:关于回购股份的进展公告",
-        "publishedAt": "2026-11-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002292/AN202611031831379874.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "奥飞娱乐(002292)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "力勤资源:关于控股股东增持H股股份暨增持股份计划公告",
-        "summary": "力勤资源(001246)：力勤资源:关于控股股东增持H股股份暨增持股份计划公告",
-        "publishedAt": "2026-11-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001246/AN202611031831379734.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "力勤资源(001246)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "四川九洲:四川九州光电子技术有限公司拟引入战略投资者所涉及的四川九州光电子技术有限公司股东全部权益价值(鹏信资评报字[2026]第HZM0024号)",
-        "summary": "四川九洲(000801)：四川九洲:四川九州光电子技术有限公司拟引入战略投资者所涉及的四川九州光电子技术有限公司股东全部权益价值(鹏信资评报字[2026]第HZM0024号)",
-        "publishedAt": "2026-11-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000801/AN202611031831379518.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "四川九洲(000801)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "海达股份:关于与专业投资机构共同投资的公告",
-        "summary": "海达股份(300320)：海达股份:关于与专业投资机构共同投资的公告",
-        "publishedAt": "2026-11-04",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300320/AN202611031831379512.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海达股份(300320)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "投资者对Meta美元债券发行提交的订单最高达580亿美元 此次发行规模预计至少为150亿美元",
-        "summary": "投资者对Meta美元债券发行提交的订单最高达580亿美元，此次发行规模预计至少为150亿美元。",
-        "publishedAt": "2026-11-04 02:43:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611043920670725.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "新西兰第三季度失业率(%)",
+        "summary": "新西兰第三季度失业率(%)；公布 5.7，预期 5.5，前值 5.6。",
+        "publishedAt": "2026-11-04 05:45",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美联储隔夜逆回购协议周二使用规模为4.27亿美元（交易对手3家） 上个交易日报50.87亿美元",
-        "summary": "美联储隔夜逆回购协议（RRP）周二使用规模为4.27亿美元（交易对手3家），上个交易日报50.87亿美元。",
-        "publishedAt": "2026-11-04 02:22:24",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611043920668252.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "Anthropic宣布推出FlashProve 该工具允许开发者验证某一响应是否由特定AI模型生成",
-        "summary": "Anthropic宣布推出FlashProve，该工具允许开发者验证某一响应是否由特定AI模型生成。",
-        "publishedAt": "2026-11-04 04:01:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611043920673741.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "据Skydance的一份备忘录 在派拉蒙与华纳兄弟探索公司合并后 将有八名高管离职",
-        "summary": "据Skydance的一份备忘录，在派拉蒙与华纳兄弟探索公司合并后，将有八名高管离职。",
-        "publishedAt": "2026-11-04 03:47:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611043920673545.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "巴基斯坦成功试射首枚国产空对空导弹",
-        "summary": "【巴基斯坦成功试射首枚国产空对空导弹】巴基斯坦三军新闻局3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹，标志着该国航空航天与国防能力发展迈出重要一步。",
-        "publishedAt": "2026-11-04 03:28:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611043920673088.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "军工"
-        ],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -69661,7 +69664,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -69674,15 +69677,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-04 04:08:51",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 8 条；主题映射集中在 金融、AI算力、军工。",
+        "generatedAt": "2026-11-04 14:53:56",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 AI算力、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：同花顺漂亮100、保险、白酒；首看 同花顺漂亮100 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -69778,7 +69781,7 @@
               "今日炸板 34 只，追高前先看前排封单和回封质量。",
               "今日跌停 17 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：国晟科技:关于重要控股子公司业务临时停产的风险提示公告；新疆交建:关于累计诉讼、仲裁情况的公告。",
+              "新闻/公告风险：易事特:关于收到普通代表人诉讼民事调解书的公告；国晟科技:关于重要控股子公司业务临时停产的风险提示公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
