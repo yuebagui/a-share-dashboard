@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-05",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-05 04:26:48",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-05 04:26:48",
+    "lastNewsAt": "2026-11-05 15:12:33"
   },
   "indices": [
     {
@@ -91950,38 +91952,144 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-05",
-    "generatedAt": "2026-11-05 04:27:39",
+    "generatedAt": "2026-11-05 15:12:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、有色稀土、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、半导体、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 21,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 14,
+        "score": 18,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 12,
+        "score": 5,
         "isFocusBoard": true
       },
       {
         "name": "AI算力",
-        "score": 2,
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "2会计师事务所第二轮审核问询函回复意见(豁免版)(广西天山电子股份有限公司)",
+        "summary": "天山电子(301379)：2会计师事务所第二轮审核问询函回复意见(豁免版)(广西天山电子股份有限公司)",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301379/AN202611051831447815.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "天山电子(301379)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板再融资问询与回复"
+      },
+      {
+        "title": "1申请人及保荐机构第二轮审核问询函回复意见(豁免版)(广西天山电子股份有限公司)",
+        "summary": "天山电子(301379)：1申请人及保荐机构第二轮审核问询函回复意见(豁免版)(广西天山电子股份有限公司)",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301379/AN202611051831447814.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "天山电子(301379)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板再融资问询与回复"
+      },
+      {
+        "title": "3律师事务所补充法律意见(四)(广西天山电子股份有限公司)",
+        "summary": "天山电子(301379)：3律师事务所补充法律意见(四)(广西天山电子股份有限公司)",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301379/AN202611051831447813.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "天山电子(301379)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板再融资问询与回复"
+      },
+      {
+        "title": "天山电子:关于广西天山电子股份有限公司申请向不特定对象发行可转换公司债券的第二轮审核问询函之回复",
+        "summary": "天山电子(301379)：天山电子:关于广西天山电子股份有限公司申请向不特定对象发行可转换公司债券的第二轮审核问询函之回复",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301379/AN202611051831433952.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "天山电子(301379)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "天山电子:关于向不特定对象发行可转换公司债券的第二轮审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "summary": "天山电子(301379)：天山电子:关于向不特定对象发行可转换公司债券的第二轮审核问询函回复及募集说明书等申请文件更新的提示性公告",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301379/AN202611051831433953.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "天山电子(301379)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "天山电子:天健会计师事务所(特殊普通合伙)关于广西天山电子股份有限公司申请向不特定对象发行可转换公司债券的第二轮审核问询函中有关财务事项的说明",
+        "summary": "天山电子(301379)：天山电子:天健会计师事务所(特殊普通合伙)关于广西天山电子股份有限公司申请向不特定对象发行可转换公司债券的第二轮审核问询函中有关财务事项的说明",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301379/AN202611051831433951.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "天山电子(301379)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
       {
         "title": "天山股份:关于收到行政监管措施决定书的公告",
         "summary": "天山股份(000877)：天山股份:关于收到行政监管措施决定书的公告",
@@ -91999,243 +92107,116 @@
         "noticeType": "其他"
       },
       {
-        "title": "*ST威领:关于股东所持部分股份拟被司法拍卖的提示性公告",
-        "summary": "*ST威领(002667)：*ST威领:关于股东所持部分股份拟被司法拍卖的提示性公告",
+        "title": "雪人集团:002639雪人集团投资者关系管理信息20261103",
+        "summary": "雪人集团(002639)：雪人集团:002639雪人集团投资者关系管理信息20261103",
         "publishedAt": "2026-11-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002667/AN202611041831419982.html",
+        "url": "https://data.eastmoney.com/notices/detail/002639/AN202611051831436174.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST威领(002667)"
+          "雪人集团(002639)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "调研活动"
       },
       {
-        "title": "*ST英飞:董事会关于本次交易信息公布前公司股票价格波动情况的说明",
-        "summary": "*ST英飞(002528)：*ST英飞:董事会关于本次交易信息公布前公司股票价格波动情况的说明",
+        "title": "海伦哲:300201海伦哲投资者关系管理信息20261105",
+        "summary": "海伦哲(300201)：海伦哲:300201海伦哲投资者关系管理信息20261105",
         "publishedAt": "2026-11-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611041831419226.html",
+        "url": "https://data.eastmoney.com/notices/detail/300201/AN202611051831444394.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST英飞(002528)"
+          "海伦哲(300201)"
         ],
         "importance": 1,
-        "noticeType": "专项说明/独立意见"
+        "noticeType": "调研活动"
       },
       {
-        "title": "欧洲央行管委卡扎克斯表示 如果通胀风险扩散 利率需要上升 利率可能会逐步上调",
-        "summary": "欧洲央行管委卡扎克斯表示，如果通胀风险扩散，利率需要上升。利率可能会逐步上调。",
-        "publishedAt": "2026-11-05 02:49:06",
+        "title": "新联电子:关于重大经营合同中标的公告",
+        "summary": "新联电子(002546)：新联电子:关于重大经营合同中标的公告",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002546/AN202611051831442775.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "新联电子(002546)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "中粮科技:关于投资建设年产3万吨丙交酯项目的进展公告",
+        "summary": "中粮科技(000930)：中粮科技:关于投资建设年产3万吨丙交酯项目的进展公告",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000930/AN202611051831442776.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中粮科技(000930)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "000795英洛华投资者关系管理信息20261105",
+        "summary": "英洛华(000795)：000795英洛华投资者关系管理信息20261105",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000795/AN202611051831442550.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英洛华(000795)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "青海省国有资产投资管理有限公司原董事长程国勋被查",
+        "summary": "【青海省国有资产投资管理有限公司原董事长程国勋被查】据青海省纪委监委消息：青海省国有资产投资管理有限公司原党委书记、董事长程国勋涉嫌严重违纪违法，目前正接受青海省纪委监委纪律审查和监察调查。",
+        "publishedAt": "2026-11-05 15:03:17",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053922367852.html",
+        "url": "https://finance.eastmoney.com/a/202611053923468147.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "特朗普中期选举失利后首次露面",
-        "summary": "【特朗普中期选举失利后首次露面】美国总统特朗普在中期选举失利后首次露面。他在白宫对媒体表示，选举失利在很大程度上确实是由与伊朗的冲突所致，但如果重来一次，他仍会作同样的决定。特朗普称，绝不能让伊朗拥有核武器。",
-        "publishedAt": "2026-11-05 02:30:46",
+        "title": "德国9月份工厂订单环比上升4.4% 预估为4.5%",
+        "summary": "德国9月份工厂订单环比上升4.4%，预估为4.5%。",
+        "publishedAt": "2026-11-05 15:02:52",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053922367617.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "欧派家居:欧派家居关于以集中竞价交易方式回购股份的回购报告书",
-        "summary": "欧派家居(603833)：欧派家居:欧派家居关于以集中竞价交易方式回购股份的回购报告书",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603833/AN202611041831420898.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "欧派家居(603833)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "欧派家居:欧派家居关于回购股份减少注册资本通知债权人的公告",
-        "summary": "欧派家居(603833)：欧派家居:欧派家居关于回购股份减少注册资本通知债权人的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603833/AN202611041831420897.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "欧派家居(603833)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "西藏城投:西藏城市发展投资股份有限公司关于收到“西藏城投丝路1号资产支持专项计划”符合上海证券交易所挂牌转让条件无异议函的公告",
-        "summary": "西藏城投(600773)：西藏城投:西藏城市发展投资股份有限公司关于收到“西藏城投丝路1号资产支持专项计划”符合上海证券交易所挂牌转让条件无异议函的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600773/AN202611041831420607.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "西藏城投(600773)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "晶丰明源:上海晶丰明源半导体股份有限公司关于以集中竞价交易方式回购公司股份的实施结果暨股份变动的公告",
-        "summary": "晶丰明源(688368)：晶丰明源:上海晶丰明源半导体股份有限公司关于以集中竞价交易方式回购公司股份的实施结果暨股份变动的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688368/AN202611041831420239.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "金融"
-        ],
-        "tickers": [
-          "晶丰明源(688368)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "晶丰明源:上海晶丰明源半导体股份有限公司关于参加2026年上海辖区上市公司三季报集体业绩说明会的公告",
-        "summary": "晶丰明源(688368)：晶丰明源:上海晶丰明源半导体股份有限公司关于参加2026年上海辖区上市公司三季报集体业绩说明会的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688368/AN202611041831420240.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [
-          "晶丰明源(688368)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "统一股份:统一低碳科技(新疆)股份有限公司关于召开2026年第三季度业绩说明会的公告",
-        "summary": "统一股份(600506)：统一股份:统一低碳科技(新疆)股份有限公司关于召开2026年第三季度业绩说明会的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600506/AN202611041831419589.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "统一股份(600506)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "凯莱英:关于回购公司股份方案的公告",
-        "summary": "凯莱英(002821)：凯莱英:关于回购公司股份方案的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002821/AN202611041831419504.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "凯莱英(002821)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "三环集团:关于2026年第四期回购公司股份方案的公告暨回购股份报告书",
-        "summary": "三环集团(300408)：三环集团:关于2026年第四期回购公司股份方案的公告暨回购股份报告书",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300408/AN202611041831419503.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "三环集团(300408)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "孚日股份:孚日集团股份有限公司关于持股5%以上股东增持股份触及1%整数倍的公告(1)",
-        "summary": "孚日股份(002083)：孚日股份:孚日集团股份有限公司关于持股5%以上股东增持股份触及1%整数倍的公告(1)",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002083/AN202611041831419501.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "孚日股份(002083)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "美联储隔夜逆回购协议（RRP）周三使用规模为2.25亿美元（交易对手1家） 上个交易日报4.27亿美元",
-        "summary": "美联储隔夜逆回购协议（RRP）周三使用规模为2.25亿美元（交易对手1家），上个交易日报4.27亿美元。",
-        "publishedAt": "2026-11-05 02:16:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053922367320.html",
+        "url": "https://finance.eastmoney.com/a/202611053923467324.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
         "title": "美国11月3日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国11月3日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 231413.18。",
+        "summary": "美国11月3日COMEX黄金库存-每日更新(百盎司)；公布 231246.7，预期 nan，前值 231413.18。",
         "publishedAt": "2026-11-05 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -92251,7 +92232,7 @@
       },
       {
         "title": "美国11月4日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月4日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1037.66。",
+        "summary": "美国11月4日SPDR黄金持仓-每日更新(吨)；公布 1040.51，预期 nan，前值 1037.66。",
         "publishedAt": "2026-11-05 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -92267,7 +92248,7 @@
       },
       {
         "title": "美国11月4日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月4日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15751.9。",
+        "summary": "美国11月4日iShares白银持仓-每日更新(吨)；公布 15751.9，预期 nan，前值 15751.9。",
         "publishedAt": "2026-11-05 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -92275,6 +92256,22 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月4日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月4日iShares黄金持仓-每日更新(吨)；公布 461.22，预期 nan，前值 461.22。",
+        "publishedAt": "2026-11-05 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -92515,7 +92512,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -92528,15 +92525,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-05 04:27:39",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、有色稀土、半导体。",
+        "generatedAt": "2026-11-05 15:12:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 有色稀土、半导体、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：芯片概念、存储芯片、半导体；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -92632,7 +92629,7 @@
               "今日炸板 33 只，追高前先看前排封单和回封质量。",
               "今日跌停 10 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天山股份:关于收到行政监管措施决定书的公告；*ST威领:关于股东所持部分股份拟被司法拍卖的提示性公告。",
+              "新闻/公告风险：2会计师事务所第二轮审核问询函回复意见(豁免版)(广西天山电子股份有限公司)；1申请人及保荐机构第二轮审核问询函回复意见(豁免版)(广西天山电子股份有限公司)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
