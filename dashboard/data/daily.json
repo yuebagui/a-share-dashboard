@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-05",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-05 19:20:57",
+    "generatedAt": "2026-11-05 23:49:38",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -111473,7 +111473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -111638,62 +111639,60 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-05",
-    "generatedAt": "2026-11-05 19:22:01",
+    "generatedAt": "2026-11-05 23:50:32",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、有色稀土、新能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 有色稀土、AI算力、半导体。",
     "themes": [
       {
-        "name": "金融",
-        "score": 20,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 6,
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 4,
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "半导体",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST启环:中德证券有限责任公司关于启迪环境科技发展股份有限公司涉及诉讼(仲裁)案件进展的临时受托管理事务报告",
-        "summary": "*ST启环(000826)：*ST启环:中德证券有限责任公司关于启迪环境科技发展股份有限公司涉及诉讼(仲裁)案件进展的临时受托管理事务报告",
+        "title": "深交所:泰坦股份_监管函",
+        "summary": "泰坦股份(003036)：深交所:泰坦股份_监管函",
         "publishedAt": "2026-11-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000826/AN202611051831460152.html",
+        "url": "https://data.eastmoney.com/notices/detail/003036/AN202611051831464508.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "*ST启环(000826)"
+          "泰坦股份(003036)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "深交所股票监管函"
       },
       {
-        "title": "农业农村部、中国气象局联合发布农田渍涝风险预警",
-        "summary": "【农业农村部、中国气象局联合发布农田渍涝风险预警】农业农村部和中国气象局2026年11月5日联合发布农田渍涝风险预警：预计11月6日至7日，安徽南部、湖北南部、湖南中北部、江西中北部、贵州东部等地有中到大雨，局地暴雨或大暴雨，降水落区与前期重叠，农田渍涝风险较高，其中湖北东南部、江西西北部等地农田渍涝风险高。",
-        "publishedAt": "2026-11-05 19:14:41",
+        "title": "美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高",
+        "summary": "【美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高】美国股市波动率显著上升，标普500波动率指数（VIX）报24.44点，大涨7.83点，涨幅达47.14%，盘中最高触及24.44点，创4月7日以来新高。与此同时，美股三大指数集体下跌，道指跌1.50%，标普500指数跌2.65%，纳指综合指数跌4.25%。",
+        "publishedAt": "2026-11-05 23:29:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923662178.html",
+        "url": "https://finance.eastmoney.com/a/202611053923895269.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -111701,6 +111700,66 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "英伟达股价下挫7% 总市值跌至4.5万亿美元",
+        "summary": "【英伟达股价下挫7% 总市值跌至4.5万亿美元】英伟达股价下跌6.7%，报186.730美元/股，总市值报4.50万亿美元。",
+        "publishedAt": "2026-11-05 23:13:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611053923885857.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "礼来股价逆势上涨2.4% 续刷记录新高",
+        "summary": "【礼来股价逆势上涨2.4% 续刷记录新高】11月5日消息，美股下跌之际，礼来股价上涨2.4%，续刷记录新高，报1451.990美元/股，总市值报1.37万亿美元。",
+        "publishedAt": "2026-11-05 23:13:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611053923884621.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "纳斯达克综合指数从10月6日的收盘高点下跌超过10%",
+        "summary": "【行情】纳斯达克综合指数从10月6日的收盘高点下跌超过10%。",
+        "publishedAt": "2026-11-05 23:07:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611053923882196.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "深交所并购重组审核委员会2026年第19次审议会议公告",
+        "summary": "友阿股份(002277)：深交所并购重组审核委员会2026年第19次审议会议公告",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611051831463269.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "友阿股份(002277)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板并购重组委会议公告"
       },
       {
         "title": "开创电气:301448开创电气投资者关系管理信息20261105",
@@ -111767,174 +111826,100 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "新开普:关于收到控股股东、实际控制人、董事长兼总经理提议回购公司股份的提示性公告",
-        "summary": "新开普(300248)：新开普:关于收到控股股东、实际控制人、董事长兼总经理提议回购公司股份的提示性公告",
+        "title": "石基信息:2026年11月5日投资者关系活动记录表",
+        "summary": "石基信息(002153)：石基信息:2026年11月5日投资者关系活动记录表",
         "publishedAt": "2026-11-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300248/AN202611051831460494.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "新开普(300248)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "金刚光伏:关于签署日常经营重大合同的公告",
-        "summary": "金刚光伏(300093)：金刚光伏:关于签署日常经营重大合同的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300093/AN202611051831459774.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "新能源"
-        ],
-        "tickers": [
-          "金刚光伏(300093)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "金刚光伏:上海市通力律师事务所关于甘肃金刚光伏股份有限公司签署重大合同的法律意见书",
-        "summary": "金刚光伏(300093)：金刚光伏:上海市通力律师事务所关于甘肃金刚光伏股份有限公司签署重大合同的法律意见书",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300093/AN202611051831459777.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "新能源"
-        ],
-        "tickers": [
-          "金刚光伏(300093)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "天晟新材:关于回购注销限制性股票暨通知债权人的公告",
-        "summary": "天晟新材(300169)：天晟新材:关于回购注销限制性股票暨通知债权人的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300169/AN202611051831459752.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "天晟新材(300169)"
-        ],
-        "importance": 1,
-        "noticeType": "通知债权人公告"
-      },
-      {
-        "title": "天晟新材:关于参加2026常州上市公司投资者集体接待日活动的公告",
-        "summary": "天晟新材(300169)：天晟新材:关于参加2026常州上市公司投资者集体接待日活动的公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300169/AN202611051831459750.html",
+        "url": "https://data.eastmoney.com/notices/detail/002153/AN202611051831464711.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "天晟新材(300169)"
+          "石基信息(002153)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "扬帆新材:关于回购公司股份比例达到1%的公告",
-        "summary": "扬帆新材(300637)：扬帆新材:关于回购公司股份比例达到1%的公告",
+        "title": "301669高特电子投资者关系管理信息20261105",
+        "summary": "高特电子(301669)：301669高特电子投资者关系管理信息20261105",
         "publishedAt": "2026-11-05",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300637/AN202611051831459691.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "扬帆新材(300637)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "百瑞吉:关于参加2026常州上市公司投资者集体接待日活动的预告公告",
-        "summary": "百瑞吉(920201)：百瑞吉:关于参加2026常州上市公司投资者集体接待日活动的预告公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920201/AN202611051831459653.html",
+        "url": "https://data.eastmoney.com/notices/detail/301669/AN202611051831464397.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "百瑞吉(920201)"
+          "高特电子(301669)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "慧翰股份：拟5000万元-1亿元回购公司股份 回购价不超100元/股",
-        "summary": "【慧翰股份：拟5000万元-1亿元回购公司股份 回购价不超100元/股】慧翰股份11月5日公告，拟以集中竞价交易方式回购公司股份，回购总金额不低于5000万元且不超过1亿元。回购价格不超过100元/股。回购股份将用于出售。",
-        "publishedAt": "2026-11-05 19:14:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923661165.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "南山控股:2026年11月5日投资者关系活动记录表",
+        "summary": "南山控股(002314)：南山控股:2026年11月5日投资者关系活动记录表",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002314/AN202611051831464230.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
+        "themes": [],
+        "tickers": [
+          "南山控股(002314)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "新开普：控股股东提议回购3000万元-6000万元公司股份",
-        "summary": "【新开普：控股股东提议回购3000万元-6000万元公司股份】新开普11月5日公告，公司控股股东、实际控制人、董事长兼总经理杨维国提议公司回购已发行的部分人民币普通股（A股）股票，用于维护公司价值和股东权益所必需，回购资金总额不低于3000万元（含）且不超过6000万元（含）。",
-        "publishedAt": "2026-11-05 19:14:57",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923661016.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "益生股份:2026年11月5日投资者关系活动记录表",
+        "summary": "益生股份(002458)：益生股份:2026年11月5日投资者关系活动记录表",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002458/AN202611051831463387.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
+        "themes": [],
+        "tickers": [
+          "益生股份(002458)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
-        "title": "富春股份：拟1000万元—2000万元回购公司股份",
-        "summary": "【富春股份：拟1000万元—2000万元回购公司股份】富春股份(300299)11月5日公告，公司拟以1000万元—2000万元回购股份，将全部予以注销并相应减少公司注册资本，回购价格不超过8.87元/股。",
-        "publishedAt": "2026-11-05 19:01:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923652211.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "3-1独立财务顾问报告(上会稿)(湖南友谊阿波罗商业股份有限公司)",
+        "summary": "友阿股份(002277)：3-1独立财务顾问报告(上会稿)(湖南友谊阿波罗商业股份有限公司)",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611051831463270.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
+        "themes": [],
+        "tickers": [
+          "友阿股份(002277)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "深主板并购重组独立财务顾问报告"
+      },
+      {
+        "title": "2-1重大资产重组报告书(上会稿)(湖南友谊阿波罗商业股份有限公司)",
+        "summary": "友阿股份(002277)：2-1重大资产重组报告书(上会稿)(湖南友谊阿波罗商业股份有限公司)",
+        "publishedAt": "2026-11-05",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611051831463273.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "友阿股份(002277)"
+        ],
+        "importance": 1,
+        "noticeType": "深主板并购重组报告书上会稿"
       },
       {
         "title": "美国11月3日COMEX黄金库存-每日更新(百盎司)",
@@ -112322,15 +112307,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-05 19:22:01",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、有色稀土、新能源。",
+        "generatedAt": "2026-11-05 23:50:32",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 有色稀土、AI算力、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：AI智能体、人工智能、AIGC概念；首看 AI智能体 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、新能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -112361,7 +112346,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-05 19:20:57",
+        "generatedAt": "2026-11-05 23:49:38",
         "summary": "上午情绪分 100，涨停 84 家，跌停 0 家，炸板 48 家，连板 21 家，最高 4 板。",
         "sections": [
           {
@@ -112400,7 +112385,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-05 19:20:57",
+        "generatedAt": "2026-11-05 23:49:38",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -112426,7 +112411,7 @@
               "今日炸板 48 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 共封装光学(CPO)，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：*ST启环:中德证券有限责任公司关于启迪环境科技发展股份有限公司涉及诉讼(仲裁)案件进展的临时受托管理事务报告；农业农村部、中国气象局联合发布农田渍涝风险预警。",
+              "新闻/公告风险：深交所:泰坦股份_监管函；美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
