@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-05",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-05 23:49:38",
+    "tradeDate": "2026-11-06",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-06 00:20:24",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -111213,7 +111213,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -111377,61 +111378,173 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-05",
-    "generatedAt": "2026-11-05 23:50:32",
+    "tradeDate": "2026-11-06",
+    "generatedAt": "2026-11-06 00:21:35",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 有色稀土、AI算力、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
+        "name": "金融",
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
-        "score": 14,
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 2,
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "深交所:泰坦股份_监管函",
-        "summary": "泰坦股份(003036)：深交所:泰坦股份_监管函",
-        "publishedAt": "2026-11-05",
+        "title": "*ST禾信:广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书摘要",
+        "summary": "*ST禾信(688622)：*ST禾信:广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书摘要",
+        "publishedAt": "2026-11-06",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/003036/AN202611051831464508.html",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202611051831463400.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "泰坦股份(003036)"
+          "*ST禾信(688622)"
         ],
         "importance": 1,
-        "noticeType": "深交所股票监管函"
+        "noticeType": "其他增发事项公告"
       },
       {
-        "title": "美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高",
-        "summary": "【美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高】美国股市波动率显著上升，标普500波动率指数（VIX）报24.44点，大涨7.83点，涨幅达47.14%，盘中最高触及24.44点，创4月7日以来新高。与此同时，美股三大指数集体下跌，道指跌1.50%，标普500指数跌2.65%，纳指综合指数跌4.25%。",
-        "publishedAt": "2026-11-05 23:29:41",
+        "title": "*ST禾信:国泰海通证券股份有限公司关于广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之独立财务顾问报告",
+        "summary": "*ST禾信(688622)：*ST禾信:国泰海通证券股份有限公司关于广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之独立财务顾问报告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202611051831463401.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST禾信(688622)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST禾信:广州禾信仪器股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易报告书修订说明的公告",
+        "summary": "*ST禾信(688622)：*ST禾信:广州禾信仪器股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易报告书修订说明的公告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202611051831463397.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST禾信(688622)"
+        ],
+        "importance": 1,
+        "noticeType": "其他增发事项公告"
+      },
+      {
+        "title": "*ST禾信:广州禾信仪器股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得中国证券监督管理委员会同意注册批复的公告",
+        "summary": "*ST禾信(688622)：*ST禾信:广州禾信仪器股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得中国证券监督管理委员会同意注册批复的公告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202611051831463398.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST禾信(688622)"
+        ],
+        "importance": 1,
+        "noticeType": "增发获准公告"
+      },
+      {
+        "title": "*ST禾信:广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书",
+        "summary": "*ST禾信(688622)：*ST禾信:广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202611051831463399.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST禾信(688622)"
+        ],
+        "importance": 1,
+        "noticeType": "其他增发事项公告"
+      },
+      {
+        "title": "*ST禾信:关于向银行申请综合授信并接受关联方担保的进展公告",
+        "summary": "*ST禾信(688622)：*ST禾信:关于向银行申请综合授信并接受关联方担保的进展公告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688622/AN202611051831463402.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST禾信(688622)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "金隅集团:北京金隅集团股份有限公司海外监管公告",
+        "summary": "金隅集团(601992)：金隅集团:北京金隅集团股份有限公司海外监管公告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601992/AN202611051831463130.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "金隅集团(601992)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "夜光明：四季度业绩存在不确定性",
+        "summary": "【夜光明：四季度业绩存在不确定性】夜光明发布投资者关系活动记录表，公司2026年前三季度业绩同比大幅增长，主要得益于产品结构持续优化，高毛利反光制品收入占比提升并带动整体毛利率上行，同时产能利用率提升、精益生产和费用管控使成本端得到有效优化，叠加海外客户预收款增加、订单储备相对充足，第三季度利润释放尤为明显。关于第四季度业绩增长的可持续性，公司认为高毛利产…",
+        "publishedAt": "2026-11-06 00:05:02",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923895269.html",
+        "url": "https://finance.eastmoney.com/a/202611063923908844.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -111441,14 +111554,130 @@
         "noticeType": ""
       },
       {
-        "title": "英伟达股价下挫7% 总市值跌至4.5万亿美元",
-        "summary": "【英伟达股价下挫7% 总市值跌至4.5万亿美元】英伟达股价下跌6.7%，报186.730美元/股，总市值报4.50万亿美元。",
-        "publishedAt": "2026-11-05 23:13:29",
+        "title": "万达轴承：公司与国内叉车龙头保持长期稳定的合作",
+        "summary": "【万达轴承：公司与国内叉车龙头保持长期稳定的合作】万达轴承发布投资者关系活动记录表，公司长期深耕叉车轴承赛道，依托完整产业链优势配套国内叉车主机厂；伴随头部叉车企业向智能物流、物流机器人方向布局，以及国内工业车辆出海节奏加快，公司同步迭代新能源叉车、智能叉车、AGV/AMR配套轴承产品与技术，把握下游智能化转型带来的业务机会。公司与国内叉车龙头保持长期稳定…",
+        "publishedAt": "2026-11-06 00:04:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923885857.html",
+        "url": "https://finance.eastmoney.com/a/202611063923908948.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
+        "themes": [
+          "机器人",
+          "新能源",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股恐慌指数VIX飙升逾62% 突破27点关口",
+        "summary": "【美股恐慌指数VIX飙升逾62% 突破27点关口】美国股市波动率急剧攀升，标普500波动率指数（VIX）报27.03点，大涨10.42点，涨幅达62.73%，盘中最高触及27.03点，距离52周高点35.30点进一步收窄。与此同时，美股三大指数集体下跌，道指跌2.38%，标普500指数跌3.57%，纳指综合指数跌5.35%。",
+        "publishedAt": "2026-11-05 23:53:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611053923906464.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "晶合集成:晶合集成关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
+        "summary": "晶合集成(688249)：晶合集成:晶合集成关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688249/AN202611051831463701.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "晶合集成(688249)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "晶合集成:晶合集成关于与关联人共同投资的公告",
+        "summary": "晶合集成(688249)：晶合集成:晶合集成关于与关联人共同投资的公告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688249/AN202611051831463695.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "晶合集成(688249)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "晶合集成:晶合集成关于以集中竞价交易方式回购A股股份方案的公告暨回购报告书",
+        "summary": "晶合集成(688249)：晶合集成:晶合集成关于以集中竞价交易方式回购A股股份方案的公告暨回购报告书",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688249/AN202611051831463699.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "晶合集成(688249)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "晶合集成:中国国际金融股份有限公司关于合肥晶合集成电路股份有限公司与关联人共同投资的核查意见",
+        "summary": "晶合集成(688249)：晶合集成:中国国际金融股份有限公司关于合肥晶合集成电路股份有限公司与关联人共同投资的核查意见",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688249/AN202611051831463703.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "晶合集成(688249)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "晶合集成:晶合集成关于2023年限制性股票激励计划首次授予部分第二个归属期归属条件成就的公告",
+        "summary": "晶合集成(688249)：晶合集成:晶合集成关于2023年限制性股票激励计划首次授予部分第二个归属期归属条件成就的公告",
+        "publishedAt": "2026-11-06",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688249/AN202611051831463704.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "晶合集成(688249)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "威贸电子：目前在数据中心领域的产品包括数据中心散热系统线束和风机罩壳组件等",
+        "summary": "【威贸电子：目前在数据中心领域的产品包括数据中心散热系统线束和风机罩壳组件等】威贸电子发布投资者关系活动记录表，公司目前在数据中心领域的产品包括数据中心散热系统线束和风机罩壳组件等，主要客户是全球数据中心风机领域的头部公司，终端应用于国内外头部数据中心客户。今年公司数据中心散热系统线束项目快速爬坡并持续增量，其2026年上半年创造的营收已超2025年全年水…",
+        "publishedAt": "2026-11-06 00:04:59",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063923908694.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
           "AI算力"
         ],
@@ -111457,237 +111686,29 @@
         "noticeType": ""
       },
       {
-        "title": "礼来股价逆势上涨2.4% 续刷记录新高",
-        "summary": "【礼来股价逆势上涨2.4% 续刷记录新高】11月5日消息，美股下跌之际，礼来股价上涨2.4%，续刷记录新高，报1451.990美元/股，总市值报1.37万亿美元。",
-        "publishedAt": "2026-11-05 23:13:20",
+        "title": "一致魔芋：目前产品出口60多个国家",
+        "summary": "【一致魔芋：目前产品出口60多个国家】一致魔芋发布投资者关系活动记录表，目前产品出口60多个国家，主要产品是魔芋胶，海外市场东南亚占比最高，主要出口应用于甜食类食品；俄罗斯区域重点供货制作肉制品；欧洲市场则侧重于营养保健。公司新设立海外销售中心，公司倾斜了更多资源，通过展会、客户研发共创，深挖存量客户增量需求，前三季度海外市场整体保持增长。",
+        "publishedAt": "2026-11-06 00:04:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923884621.html",
+        "url": "https://finance.eastmoney.com/a/202611063923909179.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "纳斯达克综合指数从10月6日的收盘高点下跌超过10%",
-        "summary": "【行情】纳斯达克综合指数从10月6日的收盘高点下跌超过10%。",
-        "publishedAt": "2026-11-05 23:07:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923882196.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "深交所并购重组审核委员会2026年第19次审议会议公告",
-        "summary": "友阿股份(002277)：深交所并购重组审核委员会2026年第19次审议会议公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611051831463269.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "友阿股份(002277)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板并购重组委会议公告"
-      },
-      {
-        "title": "开创电气:301448开创电气投资者关系管理信息20261105",
-        "summary": "开创电气(301448)：开创电气:301448开创电气投资者关系管理信息20261105",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301448/AN202611051831457646.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "开创电气(301448)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "大叶股份:关于控股股东增持公司股份计划实施期限过半的进展公告",
-        "summary": "大叶股份(300879)：大叶股份:关于控股股东增持公司股份计划实施期限过半的进展公告",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300879/AN202611051831456527.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "大叶股份(300879)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "华洋赛车:北京金诚同达(上海)律师事务所关于浙江华洋赛车股份有限公司2024年股权激励计划限制性股票第二个解除限售期解除限售条件成就事项的法律意见书",
-        "summary": "华洋赛车(920058)：华洋赛车:北京金诚同达(上海)律师事务所关于浙江华洋赛车股份有限公司2024年股权激励计划限制性股票第二个解除限售期解除限售条件成就事项的法律意见书",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920058/AN202611051831451169.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华洋赛车(920058)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "雪人集团:002639雪人集团投资者关系管理信息20261103",
-        "summary": "雪人集团(002639)：雪人集团:002639雪人集团投资者关系管理信息20261103",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002639/AN202611051831436174.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "雪人集团(002639)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "石基信息:2026年11月5日投资者关系活动记录表",
-        "summary": "石基信息(002153)：石基信息:2026年11月5日投资者关系活动记录表",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002153/AN202611051831464711.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "石基信息(002153)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301669高特电子投资者关系管理信息20261105",
-        "summary": "高特电子(301669)：301669高特电子投资者关系管理信息20261105",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301669/AN202611051831464397.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "高特电子(301669)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "南山控股:2026年11月5日投资者关系活动记录表",
-        "summary": "南山控股(002314)：南山控股:2026年11月5日投资者关系活动记录表",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002314/AN202611051831464230.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "南山控股(002314)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "益生股份:2026年11月5日投资者关系活动记录表",
-        "summary": "益生股份(002458)：益生股份:2026年11月5日投资者关系活动记录表",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002458/AN202611051831463387.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "益生股份(002458)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "3-1独立财务顾问报告(上会稿)(湖南友谊阿波罗商业股份有限公司)",
-        "summary": "友阿股份(002277)：3-1独立财务顾问报告(上会稿)(湖南友谊阿波罗商业股份有限公司)",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611051831463270.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "友阿股份(002277)"
-        ],
-        "importance": 1,
-        "noticeType": "深主板并购重组独立财务顾问报告"
-      },
-      {
-        "title": "2-1重大资产重组报告书(上会稿)(湖南友谊阿波罗商业股份有限公司)",
-        "summary": "友阿股份(002277)：2-1重大资产重组报告书(上会稿)(湖南友谊阿波罗商业股份有限公司)",
-        "publishedAt": "2026-11-05",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611051831463273.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "友阿股份(002277)"
-        ],
-        "importance": 1,
-        "noticeType": "深主板并购重组报告书上会稿"
-      },
-      {
-        "title": "美国11月3日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国11月3日COMEX黄金库存-每日更新(百盎司)；公布 231246.7，预期 nan，前值 231413.18。",
-        "publishedAt": "2026-11-05 06:30",
+        "title": "美国截至11月4日美联储资产负债表(万亿美元)",
+        "summary": "美国截至11月4日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.8。",
+        "publishedAt": "2026-11-06 05:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月4日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月4日SPDR黄金持仓-每日更新(吨)；公布 1040.51，预期 nan，前值 1037.66。",
-        "publishedAt": "2026-11-05 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -112033,7 +112054,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "中",
     "emotionCycle": "修复",
     "positionRule": {
@@ -112046,15 +112067,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-05 23:50:32",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 有色稀土、AI算力、半导体。",
+        "generatedAt": "2026-11-06 00:21:35",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：AI智能体、人工智能、AIGC概念；首看 AI智能体 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -112085,7 +112106,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-05 23:49:38",
+        "generatedAt": "2026-11-06 00:20:24",
         "summary": "上午情绪分 100，涨停 84 家，跌停 0 家，炸板 48 家，连板 21 家，最高 4 板。",
         "sections": [
           {
@@ -112124,7 +112145,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-05 23:49:38",
+        "generatedAt": "2026-11-06 00:20:24",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -112150,7 +112171,7 @@
               "今日炸板 48 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 共封装光学(CPO)，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：深交所:泰坦股份_监管函；美股恐慌指数VIX飙升逾47% 突破24关口创4月7日以来新高。",
+              "新闻/公告风险：*ST禾信:广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易报告书摘要；*ST禾信:国泰海通证券股份有限公司关于广州禾信仪器股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之独立财务顾问报告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
