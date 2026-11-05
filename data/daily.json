@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-06",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-06 00:20:24",
+    "generatedAt": "2026-11-06 04:32:53",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -111473,7 +111473,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "中",
@@ -111638,14 +111639,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-06",
-    "generatedAt": "2026-11-06 00:21:35",
+    "generatedAt": "2026-11-06 04:33:38",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 7 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 12,
+        "score": 15,
         "isFocusBoard": false
       },
       {
@@ -111655,7 +111656,7 @@
       },
       {
         "name": "AI算力",
-        "score": 7,
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -111664,17 +111665,7 @@
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       }
@@ -111799,52 +111790,6 @@
         "noticeType": "其他"
       },
       {
-        "title": "夜光明：四季度业绩存在不确定性",
-        "summary": "【夜光明：四季度业绩存在不确定性】夜光明发布投资者关系活动记录表，公司2026年前三季度业绩同比大幅增长，主要得益于产品结构持续优化，高毛利反光制品收入占比提升并带动整体毛利率上行，同时产能利用率提升、精益生产和费用管控使成本端得到有效优化，叠加海外客户预收款增加、订单储备相对充足，第三季度利润释放尤为明显。关于第四季度业绩增长的可持续性，公司认为高毛利产…",
-        "publishedAt": "2026-11-06 00:05:02",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611063923908844.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "万达轴承：公司与国内叉车龙头保持长期稳定的合作",
-        "summary": "【万达轴承：公司与国内叉车龙头保持长期稳定的合作】万达轴承发布投资者关系活动记录表，公司长期深耕叉车轴承赛道，依托完整产业链优势配套国内叉车主机厂；伴随头部叉车企业向智能物流、物流机器人方向布局，以及国内工业车辆出海节奏加快，公司同步迭代新能源叉车、智能叉车、AGV/AMR配套轴承产品与技术，把握下游智能化转型带来的业务机会。公司与国内叉车龙头保持长期稳定…",
-        "publishedAt": "2026-11-06 00:04:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611063923908948.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "机器人",
-          "新能源",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美股恐慌指数VIX飙升逾62% 突破27点关口",
-        "summary": "【美股恐慌指数VIX飙升逾62% 突破27点关口】美国股市波动率急剧攀升，标普500波动率指数（VIX）报27.03点，大涨10.42点，涨幅达62.73%，盘中最高触及27.03点，距离52周高点35.30点进一步收窄。与此同时，美股三大指数集体下跌，道指跌2.38%，标普500指数跌3.57%，纳指综合指数跌5.35%。",
-        "publishedAt": "2026-11-05 23:53:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611053923906464.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "晶合集成:晶合集成关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
         "summary": "晶合集成(688249)：晶合集成:晶合集成关于作废2023年限制性股票激励计划部分已授予尚未归属的限制性股票的公告",
         "publishedAt": "2026-11-06",
@@ -111929,31 +111874,17 @@
         "noticeType": "股权激励进展公告"
       },
       {
-        "title": "威贸电子：目前在数据中心领域的产品包括数据中心散热系统线束和风机罩壳组件等",
-        "summary": "【威贸电子：目前在数据中心领域的产品包括数据中心散热系统线束和风机罩壳组件等】威贸电子发布投资者关系活动记录表，公司目前在数据中心领域的产品包括数据中心散热系统线束和风机罩壳组件等，主要客户是全球数据中心风机领域的头部公司，终端应用于国内外头部数据中心客户。今年公司数据中心散热系统线束项目快速爬坡并持续增量，其2026年上半年创造的营收已超2025年全年水…",
-        "publishedAt": "2026-11-06 00:04:59",
+        "title": "美联储隔夜逆回购协议（RRP）周四使用规模为1.25亿美元（交易对手1家）",
+        "summary": "美联储隔夜逆回购协议（RRP）周四使用规模为1.25亿美元（交易对手1家），上个交易日报2.25亿美元。",
+        "publishedAt": "2026-11-06 02:20:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611063923908694.html",
+        "url": "https://finance.eastmoney.com/a/202611063923930131.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "一致魔芋：目前产品出口60多个国家",
-        "summary": "【一致魔芋：目前产品出口60多个国家】一致魔芋发布投资者关系活动记录表，目前产品出口60多个国家，主要产品是魔芋胶，海外市场东南亚占比最高，主要出口应用于甜食类食品；俄罗斯区域重点供货制作肉制品；欧洲市场则侧重于营养保健。公司新设立海外销售中心，公司倾斜了更多资源，通过展会、客户研发共创，深挖存量客户增量需求，前三季度海外市场整体保持增长。",
-        "publishedAt": "2026-11-06 00:04:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611063923909179.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -111962,6 +111893,68 @@
         "title": "美国截至11月4日美联储资产负债表(万亿美元)",
         "summary": "美国截至11月4日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.8。",
         "publishedAt": "2026-11-06 05:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月5日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月5日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 461.22。",
+        "publishedAt": "2026-11-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月5日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月5日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1040.51。",
+        "publishedAt": "2026-11-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月4日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国11月4日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 231246.7。",
+        "publishedAt": "2026-11-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月5日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月5日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15751.9。",
+        "publishedAt": "2026-11-06 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -112326,8 +112319,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-06 00:21:35",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-11-06 04:33:38",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 7 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
@@ -112365,7 +112358,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-06 00:20:24",
+        "generatedAt": "2026-11-06 04:32:53",
         "summary": "上午情绪分 100，涨停 84 家，跌停 0 家，炸板 48 家，连板 21 家，最高 4 板。",
         "sections": [
           {
@@ -112404,7 +112397,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-06 00:20:24",
+        "generatedAt": "2026-11-06 04:32:53",
         "summary": "市场温度 中，情绪周期偏修复。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
