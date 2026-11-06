@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-06",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-07 03:55:00",
+    "generatedAt": "2026-11-07 03:58:00",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -98806,19 +98806,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-06",
-    "generatedAt": "2026-11-07 03:55:36",
+    "generatedAt": "2026-11-07 03:58:43",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 能源、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 能源、有色稀土、医药。",
     "themes": [
       {
         "name": "能源",
         "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -98828,6 +98823,11 @@
       },
       {
         "name": "医药",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 6,
         "isFocusBoard": false
       },
@@ -99117,19 +99117,17 @@
         "noticeType": ""
       },
       {
-        "title": "美联储隔夜逆回购协议（RRP）周五使用规模为1.5亿美元 上个交易日报1.25亿美元",
-        "summary": "美联储隔夜逆回购协议（RRP）周五使用规模为1.5亿美元，上个交易日报1.25亿美元。",
-        "publishedAt": "2026-11-07 02:16:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611073925246955.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "title": "美国截至11月4日美联储资产负债表(万亿美元)",
+        "summary": "美国截至11月4日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.8。",
+        "publishedAt": "2026-11-06 05:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -99248,15 +99246,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-07 03:55:36",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 能源、金融、有色稀土。",
+        "generatedAt": "2026-11-07 03:58:43",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 能源、有色稀土、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：银行、电力；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99287,7 +99285,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-07 03:55:00",
+        "generatedAt": "2026-11-07 03:58:00",
         "summary": "上午情绪分 52，涨停 32 家，跌停 15 家，炸板 14 家，连板 11 家，最高 5 板。",
         "sections": [
           {
@@ -99326,7 +99324,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-07 03:55:00",
+        "generatedAt": "2026-11-07 03:58:00",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
