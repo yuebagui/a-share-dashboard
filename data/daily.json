@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-06",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-06 23:13:50",
+    "generatedAt": "2026-11-06 23:49:14",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -98635,7 +98635,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -98805,19 +98806,26 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-06",
-    "generatedAt": "2026-11-06 23:14:47",
+    "generatedAt": "2026-11-06 23:50:54",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 半导体、有色稀土、能源。",
+    "errors": [
+      "notices: Expecting value: line 1 column 1 (char 0)"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 有色稀土、半导体、汽车链。",
     "themes": [
-      {
-        "name": "半导体",
-        "score": 10,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 6,
         "isFocusBoard": false
       },
       {
@@ -98826,58 +98834,27 @@
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
         "name": "AI算力",
         "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "七丰精工:股东减持股份结果公告",
-        "summary": "七丰精工(920169)：七丰精工:股东减持股份结果公告",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920169/AN202611061831500361.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "圣路易斯联储行长：高通胀是由供应冲击和人工智能引发的",
+        "summary": "【圣路易斯联储行长：高通胀是由供应冲击和人工智能引发的】圣路易斯联储行长阿尔伯托·穆萨莱姆表示，官员需要警惕人工智能(AI)基础设施建设在短期内加剧通胀的风险。穆萨莱姆周五在圣路易斯的一场活动上表示：“就目前的高通胀而言，我认为既有与中东相关的负面供给冲击因素，也有与AI建设相关的需求因素。”穆萨莱姆表示，他对AI持“乐观”态度，预计AI将提高生产率，但决…",
+        "publishedAt": "2026-11-06 23:46:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063925225467.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "七丰精工(920169)"
+        "themes": [
+          "AI算力"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "深交所:正海磁材_监管函",
-        "summary": "正海磁材(300224)：深交所:正海磁材_监管函",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300224/AN202611061831504834.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "正海磁材(300224)"
-        ],
-        "importance": 1,
-        "noticeType": "深交所股票监管函"
+        "noticeType": ""
       },
       {
         "title": "国内商品期市夜盘收盘涨跌参半 非金属建材涨幅居前",
@@ -98896,185 +98873,18 @@
         "noticeType": ""
       },
       {
-        "title": "纳指经历昨日暴跌后高开1.3% 芯片、光通信板块反弹明显",
-        "summary": "【纳指经历昨日暴跌后高开1.3% 芯片、光通信板块反弹明显】在经历上一交易日“史诗级”暴跌后，美股三大股指开盘涨跌不一，道琼斯指数跌1.01%，标普500指数涨0.29%，纳斯达克综合指数涨1.3%。热门股票中，苹果股价下跌1.52%，英伟达股价上涨5.28%，微软股价下跌1.96%，谷歌-A股价上涨0.8%，亚马逊股价下跌0.16%，台积电股价上涨7.6…",
-        "publishedAt": "2026-11-06 22:31:45",
+        "title": "美国麻疹病例时隔35年首次突破5000例",
+        "summary": "美国麻疹病例时隔35年首次突破5000例。",
+        "publishedAt": "2026-11-06 23:15:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611063925164120.html",
+        "url": "https://finance.eastmoney.com/a/202611063925215970.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
-      },
-      {
-        "title": "301449天溯计量投资者关系管理信息20261106",
-        "summary": "天溯计量(301449)：301449天溯计量投资者关系管理信息20261106",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301449/AN202611061831502023.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天溯计量(301449)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "爱伦医疗:投资者关系活动记录表",
-        "summary": "爱伦医疗(920050)：爱伦医疗:投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920050/AN202611061831501071.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "爱伦医疗(920050)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中原高速:河南中原高速公路股份有限公司投资者关系活动记录表",
-        "summary": "中原高速(600020)：中原高速:河南中原高速公路股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600020/AN202611061831500188.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中原高速(600020)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "崇达技术:2026年11月6日投资者关系活动记录表",
-        "summary": "崇达技术(002815)：崇达技术:2026年11月6日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002815/AN202611061831499317.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "崇达技术(002815)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "拓日新能:2026年11月5日投资者关系活动记录表",
-        "summary": "拓日新能(002218)：拓日新能:2026年11月5日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002218/AN202611061831496911.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "拓日新能(002218)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "云图控股:002539云图控股投资者关系管理信息20261106",
-        "summary": "云图控股(002539)：云图控股:002539云图控股投资者关系管理信息20261106",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002539/AN202611061831477596.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "云图控股(002539)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000636风华高科投资者关系管理信息20261106",
-        "summary": "风华高科(000636)：000636风华高科投资者关系管理信息20261106",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000636/AN202611061831505697.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "风华高科(000636)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "长江证券:长江证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第二期)票面利率公告",
-        "summary": "长江证券(000783)：长江证券:长江证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第二期)票面利率公告",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000783/AN202611061831504361.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长江证券(000783)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "卓翼科技:2026年11月6日投资者关系活动记录表",
-        "summary": "卓翼科技(002369)：卓翼科技:2026年11月6日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002369/AN202611061831504027.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "卓翼科技(002369)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "依米康:2026年11月6日投资者关系活动记录表",
-        "summary": "依米康(300249)：依米康:2026年11月6日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300249/AN202611061831503977.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "依米康(300249)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
       },
       {
         "title": "白宫经济顾问哈塞特表示：政策正在奏效 通胀正在下降",
@@ -99134,6 +98944,172 @@
         ],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月4日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国11月4日COMEX黄金库存-每日更新(百盎司)；公布 229971.29，预期 nan，前值 231246.7。",
+        "publishedAt": "2026-11-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月5日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月5日iShares白银持仓-每日更新(吨)；公布 15751.9，预期 nan，前值 15751.9。",
+        "publishedAt": "2026-11-06 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "德国9月工作日调整后工业产出年率(%)",
+        "summary": "德国9月工作日调整后工业产出年率(%)；公布 0.4，预期 nan，前值 2.3。",
+        "publishedAt": "2026-11-06 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "德国9月季调后工业产出月率(%)",
+        "summary": "德国9月季调后工业产出月率(%)；公布 0.7，预期 0.0，前值 2.0。",
+        "publishedAt": "2026-11-06 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国11月6日上期所每日仓单变动-原油(桶)",
+        "summary": "中国11月6日上期所每日仓单变动-原油(桶)；公布 0.0，预期 nan，前值 0.0。",
+        "publishedAt": "2026-11-06 15:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "费城半导体指数涨幅回落至3.3% 盘中一度上涨6.6%",
+        "summary": "费城半导体指数涨幅回落至3.3%，盘中一度上涨6.6%。",
+        "publishedAt": "2026-11-06 23:31:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063925218176.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "特斯拉涨幅扩大至5%",
+        "summary": "特斯拉股价持续走高，涨幅扩大至5%。",
+        "publishedAt": "2026-11-06 23:24:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063925215593.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股存储板块冲高回落 西部数据率先转跌",
+        "summary": "【美股存储板块冲高回落 西部数据率先转跌】美股存储板块冲高回落，西部数据率先转跌，此前一度涨5%；其他存储股也明显回落。",
+        "publishedAt": "2026-11-06 23:13:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063925209538.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月密歇根大学消费者信心指数初值报51 预期48",
+        "summary": "美国11月密歇根大学消费者信心指数初值报51，预期48，前值48。",
+        "publishedAt": "2026-11-06 23:01:22",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063925204077.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "密歇根大学一年期通胀预期降至4.3% 前值为4.7%",
+        "summary": "密歇根大学一年期通胀预期降至4.3%，前值为4.7%。",
+        "publishedAt": "2026-11-06 23:00:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063925202298.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "SpaceX盘初涨幅扩大至于7%",
+        "summary": "SpaceX盘初涨幅扩大至于7%，特斯拉涨超3%。",
+        "publishedAt": "2026-11-06 22:56:58",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611063925202470.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -99252,15 +99228,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-06 23:14:47",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 半导体、有色稀土、能源。",
+        "generatedAt": "2026-11-06 23:50:54",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 2 条；主题映射集中在 有色稀土、半导体、汽车链。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：银行、电力；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：半导体、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、半导体、汽车链；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99291,7 +99267,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-06 23:13:50",
+        "generatedAt": "2026-11-06 23:49:14",
         "summary": "上午情绪分 52，涨停 32 家，跌停 15 家，炸板 14 家，连板 11 家，最高 5 板。",
         "sections": [
           {
@@ -99330,7 +99306,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-06 23:13:50",
+        "generatedAt": "2026-11-06 23:49:14",
         "summary": "市场温度 弱，情绪周期偏修复。修复力度一般，仓位不宜激进",
         "sections": [
           {
@@ -99356,7 +99332,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 15 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：七丰精工:股东减持股份结果公告；深交所:正海磁材_监管函。",
+              "新闻/公告风险：圣路易斯联储行长：高通胀是由供应冲击和人工智能引发的；国内商品期市夜盘收盘涨跌参半 非金属建材涨幅居前。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
