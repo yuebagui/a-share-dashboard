@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-10",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-10 02:36:03",
+    "generatedAt": "2026-11-10 06:56:30",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -116416,7 +116416,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -116588,36 +116589,26 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-10",
-    "generatedAt": "2026-11-10 02:36:43",
+    "generatedAt": "2026-11-10 06:57:04",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: cannot convert float NaN to integer"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 能源、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 金融、AI算力、能源。",
     "themes": [
       {
-        "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 6,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
         "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -116751,27 +116742,27 @@
         "noticeType": "高管人员任职变动"
       },
       {
-        "title": "芝加哥联储行长警告经济过热风险 称必须应对通胀问题",
-        "summary": "【芝加哥联储行长警告经济过热风险 称必须应对通胀问题】芝加哥联储行长奥斯坦·古尔斯比表示，政策制定者需要应对人工智能建设可能导致的经济过热，以及不断扩大的通胀压力。“我们必须正视使命中成本和通胀方面未能达标的问题，”古尔斯比周一在芝加哥的一场活动上表示。",
-        "publishedAt": "2026-11-10 01:36:46",
+        "title": "稳市政策“组合拳”发力 机构强化逆周期布局",
+        "summary": "【稳市政策“组合拳”发力 机构强化逆周期布局】11月以来，稳市场的政策“组合拳”持续发力，互换便利操作、股票回购增持再贷款、两融逆周期调节、引导主动ETF加快建仓等举措协同推进。与此同时，A股市场主要宽基指数估值回落至历史偏低区间，股息率相对无风险利率的性价比突出，筹码压力有所缓解。",
+        "publishedAt": "2026-11-10 06:39:33",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926617782.html",
+        "url": "https://finance.eastmoney.com/a/202611103926625740.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "AI算力"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "法国就网络攻击事件召见伊朗大使 警告将实施制裁",
-        "summary": "【法国就网络攻击事件召见伊朗大使 警告将实施制裁】当地时间11月9日，法国外长巴罗表示，伊朗伊斯兰革命卫队是此前针对法国超市冷藏系统网络攻击的幕后实施者。法国已召见伊朗驻法国大使，伊朗将因此面临后果，包括欧盟层面的制裁。",
-        "publishedAt": "2026-11-10 00:59:02",
+        "title": "特朗普表示 与卡塔尔首相讨论了伊朗问题 看到结束这场冲突正出现积极势头",
+        "summary": "特朗普表示，与卡塔尔首相讨论了伊朗问题。看到结束这场冲突正出现积极势头。如果中东局势发生变化，美国仍“随时准备行动”。",
+        "publishedAt": "2026-11-10 05:34:39",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926615527.html",
+        "url": "https://finance.eastmoney.com/a/202611103926644532.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -116849,11 +116840,28 @@
         "noticeType": "回购预案"
       },
       {
-        "title": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元 上个交易日报1.5亿美元",
-        "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元，上个交易日报1.5亿美元。",
-        "publishedAt": "2026-11-10 02:16:16",
+        "title": "AI电力缺口难填！国产燃机迎出海窗口 7股业绩倍增可期(名单)",
+        "summary": "【AI电力缺口难填！国产燃机迎出海窗口 7股业绩倍增可期(名单)】11月9日，AI电力需求推动数据中心抢购二手与翻新涡轮机，美国新机交付要等六年。机构认为，全球燃机订单已超产能四成，国产链正迎来出海窗口。",
+        "publishedAt": "2026-11-10 06:43:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926620723.html",
+        "url": "https://finance.eastmoney.com/a/202611103926663866.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "多方发力稳投资 年末冲刺进行时",
+        "summary": "【多方发力稳投资 年末冲刺进行时】进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。上海证券报记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投资。专家在接受记者采访时表示，四季度投资有望边际回升。",
+        "publishedAt": "2026-11-10 06:38:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103926625964.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -116865,45 +116873,31 @@
         "noticeType": ""
       },
       {
-        "title": "里士满联储行长暗示加息方向明确 但步伐需要谨慎",
-        "summary": "【里士满联储行长暗示加息方向明确 但步伐需要谨慎】里士满联储行长汤姆·巴尔金暗示，强劲的需求和居高不下的通胀意味着利率仍需进一步上调，不过他警告，任何加息都需要以谨慎的步伐进行。巴尔金在一场概述其经济看法的演讲中称企业利润表现亮眼，在失业率处于或低于4.5%的时间创纪录之际，消费者仍在继续支出。不过，他对消费的强劲表现能够持续多久提出警告，指出企业和家庭仍…",
-        "publishedAt": "2026-11-10 01:38:18",
+        "title": "北交所上市公司增持回购持续升温 产业资本密集出手传递信心",
+        "summary": "【北交所上市公司增持回购持续升温 产业资本密集出手传递信心】10月以来，北交所上市公司增持回购动作密集：披露增持动向的上市公司达7家，拟增持金额合计约1.31亿元；新增披露回购股份方案3家，合计拟回购金额区间为4860万元至9400万元。",
+        "publishedAt": "2026-11-10 06:28:36",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926617697.html",
+        "url": "https://finance.eastmoney.com/a/202611103926625475.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "ADNOC Drilling获得科威特石油公司授予的合同",
-        "summary": "ADNOC Drilling获得科威特石油公司授予的合同，最高总价值约3.136亿美元。",
-        "publishedAt": "2026-11-10 02:34:16",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926621216.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "上期所原油期货2612合约夜盘收跌3.62% 沪金夜盘收涨0.6% 沪银收涨0.61%",
-        "summary": "上期所原油期货2612合约夜盘收跌3.62%，报614.40元人民币/桶。沪金夜盘收涨0.6%，沪银收涨0.61%。",
-        "publishedAt": "2026-11-10 02:32:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926621040.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
         "themes": [
-          "能源"
+          "金融"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "坦桑尼亚发生客车与卡车相撞事故 至少21人死亡",
+        "summary": "【坦桑尼亚发生客车与卡车相撞事故 至少21人死亡】当地时间11月9日，坦桑尼亚警方表示，当天在该国伊林加省，一辆客车与一辆卡车相撞，造成至少21人死亡、5人受伤。",
+        "publishedAt": "2026-11-10 06:49:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103926665085.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -117234,15 +117228,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-10 02:36:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 能源、金融、AI算力。",
+        "generatedAt": "2026-11-10 06:57:04",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 10 条；主题映射集中在 金融、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：煤炭开采加工、元件、通信设备；首看 煤炭开采加工 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -117273,7 +117267,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-10 02:36:03",
+        "generatedAt": "2026-11-10 06:56:30",
         "summary": "上午情绪分 87，涨停 54 家，跌停 1 家，炸板 44 家，连板 9 家，最高 6 板。",
         "sections": [
           {
@@ -117312,7 +117306,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-10 02:36:03",
+        "generatedAt": "2026-11-10 06:56:30",
         "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
