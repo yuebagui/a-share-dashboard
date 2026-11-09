@@ -1,12 +1,10 @@
 {
   "meta": {
-    "tradeDate": "2026-11-09",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-09 20:24:09",
+    "tradeDate": "2026-11-10",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-10 02:36:03",
     "source": "akshare: eastmoney/ths public data",
-    "errors": [
-      "broken-boards: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    ]
+    "errors": []
   },
   "indices": [
     {
@@ -55,10 +53,10 @@
     "note": "沪市+深市；创业板、科创板已包含在对应市场，不重复累计。"
   },
   "emotion": {
-    "score": 98,
+    "score": 87,
     "tag": "强势",
     "title": "赚钱效应强，围绕主线前排做确认",
-    "brief": "涨停 54 家，跌停 1 家，炸板 0 家，连板 9 家，最高 6 板。",
+    "brief": "涨停 54 家，跌停 1 家，炸板 44 家，连板 9 家，最高 6 板。",
     "factors": [
       {
         "label": "涨停家数",
@@ -77,15 +75,15 @@
       },
       {
         "label": "炸板率",
-        "value": "0%",
-        "valueClass": "flat"
+        "value": "45%",
+        "valueClass": "down"
       }
     ]
   },
   "temperature": {
     "limitUp": 54,
     "limitDown": 1,
-    "failRate": 0,
+    "failRate": 45,
     "maxLadder": 6
   },
   "discipline": [
@@ -1804,6 +1802,7 @@
     }
   ],
   "risks": [
+    "今日炸板 44 只，追高前先看前排封单和回封质量。",
     "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
     "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
     "板块资金是短线情绪线索，不替代公告、财报和订单验证。"
@@ -1830,7 +1829,7 @@
     },
     {
       "title": "情绪条件",
-      "rule": "最高连板 6 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+      "rule": "最高连板 6 板，炸板率 45%。只在情绪、资金、个股承接共振时加仓。"
     }
   ],
   "candidatePools": {
@@ -1838,7 +1837,7 @@
     "generatedAt": "2026-11-10 01:49:26",
     "scoreThreshold": 60,
     "universe": "沪深主板+创业板，排除ST/退市/数据不足",
-    "marketLevel": "强",
+    "marketLevel": "弱",
     "summary": [
       {
         "title": "沪深主板",
@@ -116228,14 +116227,15 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
-    "marketLevel": "强",
-    "emotionScore": 98,
-    "totalPosition": "75%-100%",
-    "singlePosition": "不超过50%",
-    "stance": "可主动围绕主线前排做确认，但后排只看不追。",
+    "marketLevel": "弱",
+    "emotionScore": 87,
+    "totalPosition": "25%-50%",
+    "singlePosition": "不超过25%",
+    "stance": "防守为主，只允许核心低吸或缩量回踩确认，降低交易频率。",
     "focusThemes": [
       "煤炭开采加工",
       "元件",
@@ -116251,7 +116251,7 @@
     "rules": [
       {
         "title": "开仓总则",
-        "rule": "只在候选股触发分歧低吸、放量突破或缩量回踩确认时开仓。"
+        "rule": "只允许10%-20%试错仓，且必须靠近支撑和止损位。"
       },
       {
         "title": "加仓条件",
@@ -116263,9 +116263,11 @@
       }
     ],
     "bans": [
+      "市场温度偏低，非主线核心一律不做。",
       "候选股没有触发买点，不临盘幻想买入。",
       "一致高开且板块后排乱涨，不追非核心。",
-      "买入前说不清止损位，不开仓。"
+      "买入前说不清止损位，不开仓。",
+      "炸板率偏高，接力票必须先看回封质量。"
     ],
     "items": [
       {
@@ -116276,7 +116278,7 @@
         "theme": "沪深主板",
         "score": 93,
         "technicalScore": 93,
-        "action": "等龙头分歧承接",
+        "action": "低吸观察，不追高",
         "timeWindow": "早盘分歧承接和午后回封质量",
         "entry": "趋势回踩MA20附近",
         "stop": "技术止损距离约 2.0%，同时执行单票5%硬止损。",
@@ -116285,7 +116287,8 @@
         "vetoes": [],
         "conditions": [
           "板块前排不能明显掉队。",
-          "个股必须出现承接、突破或回踩确认。"
+          "个股必须出现承接、突破或回踩确认。",
+          "若指数继续放量下跌，则取消计划。"
         ]
       },
       {
@@ -116296,7 +116299,7 @@
         "theme": "沪深主板",
         "score": 91,
         "technicalScore": 91,
-        "action": "等龙头分歧承接",
+        "action": "低吸观察，不追高",
         "timeWindow": "早盘分歧承接和午后回封质量",
         "entry": "趋势回踩MA20附近",
         "stop": "技术止损距离约 2.36%，同时执行单票5%硬止损。",
@@ -116305,7 +116308,8 @@
         "vetoes": [],
         "conditions": [
           "板块前排不能明显掉队。",
-          "个股必须出现承接、突破或回踩确认。"
+          "个股必须出现承接、突破或回踩确认。",
+          "若指数继续放量下跌，则取消计划。"
         ]
       },
       {
@@ -116316,7 +116320,7 @@
         "theme": "创业板",
         "score": 91,
         "technicalScore": 91,
-        "action": "等龙头分歧承接",
+        "action": "低吸观察，不追高",
         "timeWindow": "早盘分歧承接和午后回封质量",
         "entry": "20cm分歧后靠近支撑并修复",
         "stop": "技术止损距离约 1.77%，同时执行单票5%硬止损。",
@@ -116325,7 +116329,8 @@
         "vetoes": [],
         "conditions": [
           "板块前排不能明显掉队。",
-          "个股必须出现承接、突破或回踩确认。"
+          "个股必须出现承接、突破或回踩确认。",
+          "若指数继续放量下跌，则取消计划。"
         ]
       },
       {
@@ -116336,7 +116341,7 @@
         "theme": "沪深主板",
         "score": 89,
         "technicalScore": 89,
-        "action": "等龙头分歧承接",
+        "action": "低吸观察，不追高",
         "timeWindow": "早盘分歧承接和午后回封质量",
         "entry": "趋势回踩MA20附近",
         "stop": "技术止损距离约 3.46%，同时执行单票5%硬止损。",
@@ -116345,7 +116350,8 @@
         "vetoes": [],
         "conditions": [
           "板块前排不能明显掉队。",
-          "个股必须出现承接、突破或回踩确认。"
+          "个股必须出现承接、突破或回踩确认。",
+          "若指数继续放量下跌，则取消计划。"
         ]
       },
       {
@@ -116356,7 +116362,7 @@
         "theme": "创业板",
         "score": 86,
         "technicalScore": 86,
-        "action": "等龙头分歧承接",
+        "action": "低吸观察，不追高",
         "timeWindow": "早盘分歧承接和午后回封质量",
         "entry": "20cm分歧后靠近支撑并修复",
         "stop": "技术止损距离约 1.85%，同时执行单票5%硬止损。",
@@ -116365,7 +116371,8 @@
         "vetoes": [],
         "conditions": [
           "板块前排不能明显掉队。",
-          "个股必须出现承接、突破或回踩确认。"
+          "个股必须出现承接、突破或回踩确认。",
+          "若指数继续放量下跌，则取消计划。"
         ]
       },
       {
@@ -116376,7 +116383,7 @@
         "theme": "创业板",
         "score": 85,
         "technicalScore": 85,
-        "action": "等龙头分歧承接",
+        "action": "低吸观察，不追高",
         "timeWindow": "早盘分歧承接和午后回封质量",
         "entry": "20cm反包修复迹象",
         "stop": "技术止损距离约 4.77%，同时执行单票5%硬止损。",
@@ -116385,146 +116392,262 @@
         "vetoes": [],
         "conditions": [
           "板块前排不能明显掉队。",
-          "个股必须出现承接、突破或回踩确认。"
+          "个股必须出现承接、突破或回踩确认。",
+          "若指数继续放量下跌，则取消计划。"
         ]
       }
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-09",
-    "generatedAt": "2026-11-09 20:24:45",
+    "tradeDate": "2026-11-10",
+    "generatedAt": "2026-11-10 02:36:43",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 金融、AI算力、医药。",
+    "errors": [
+      "macro-calendar: cannot convert float NaN to integer"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 能源、金融、AI算力。",
     "themes": [
       {
+        "name": "能源",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
         "name": "金融",
-        "score": 24,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 3,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 3,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST田野:第六届董事会第六次会议决议公告",
-        "summary": "*ST田野(920023)：*ST田野:第六届董事会第六次会议决议公告",
-        "publishedAt": "2026-11-09",
+        "title": "*ST未名:关于向控股子公司提供财务资助额度的公告",
+        "summary": "*ST未名(002581)：*ST未名:关于向控股子公司提供财务资助额度的公告",
+        "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920023/AN202611091831557731.html",
+        "url": "https://data.eastmoney.com/notices/detail/002581/AN202611091831560673.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST田野(920023)"
+          "*ST未名(002581)"
         ],
         "importance": 1,
-        "noticeType": "董事会决议公告"
+        "noticeType": "获得补贴（资助）"
       },
       {
-        "title": "*ST田野:为子公司提供担保的公告",
-        "summary": "*ST田野(920023)：*ST田野:为子公司提供担保的公告",
-        "publishedAt": "2026-11-09",
+        "title": "东方新能:关于公司股票交易异常波动的公告",
+        "summary": "东方新能(002310)：东方新能:关于公司股票交易异常波动的公告",
+        "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920023/AN202611091831557730.html",
+        "url": "https://data.eastmoney.com/notices/detail/002310/AN202611091831560667.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "*ST田野(920023)"
+          "东方新能(002310)"
         ],
         "importance": 1,
-        "noticeType": "提供/对外担保公告"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "中青宝:关于累计诉讼、仲裁情况的公告",
-        "summary": "中青宝(300052)：中青宝:关于累计诉讼、仲裁情况的公告",
-        "publishedAt": "2026-11-09",
+        "title": "*ST雅博:关于公司高级管理人员辞职、职务变更及聘任高级管理人员的公告",
+        "summary": "*ST雅博(002323)：*ST雅博:关于公司高级管理人员辞职、职务变更及聘任高级管理人员的公告",
+        "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300052/AN202611091831557565.html",
+        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560104.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "中青宝(300052)"
+          "*ST雅博(002323)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "高管人员任职变动"
       },
       {
-        "title": "上纬新材：消费级具身智能机器人相关订单能否实现快速增长、增长能否持续 均存在不确定性",
-        "summary": "【上纬新材：消费级具身智能机器人相关订单能否实现快速增长、增长能否持续 均存在不确定性】上纬新材(688585.SH)发布风险提示公告，消费级具身智能机器人产业尚处于发展早期，产品家庭场景应用仍处于初期阶段，终端市场需求是否具备可持续性尚待验证。公司相关订单能否实现快速增长、增长能否持续，均存在不确定性，未来可能存在市场需求不及预期的风险。",
-        "publishedAt": "2026-11-09 19:51:34",
+        "title": "*ST雅博:章程修订对照表",
+        "summary": "*ST雅博(002323)：*ST雅博:章程修订对照表",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560105.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST雅博(002323)"
+        ],
+        "importance": 1,
+        "noticeType": "公司章程修订"
+      },
+      {
+        "title": "*ST雅博:关于公司董事辞职暨补选非独立董事的公告",
+        "summary": "*ST雅博(002323)：*ST雅博:关于公司董事辞职暨补选非独立董事的公告",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560101.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST雅博(002323)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "*ST雅博:关于获得控股股东及关联方债务豁免暨关联交易的公告",
+        "summary": "*ST雅博(002323)：*ST雅博:关于获得控股股东及关联方债务豁免暨关联交易的公告",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560102.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST雅博(002323)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
+      },
+      {
+        "title": "*ST雅博:第七届董事会独立董事2026年第三次专门会议决议",
+        "summary": "*ST雅博(002323)：*ST雅博:第七届董事会独立董事2026年第三次专门会议决议",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560100.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST雅博(002323)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "*ST雅博:第七届董事会第九次会议决议公告",
+        "summary": "*ST雅博(002323)：*ST雅博:第七届董事会第九次会议决议公告",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560103.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST雅博(002323)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "芝加哥联储行长警告经济过热风险 称必须应对通胀问题",
+        "summary": "【芝加哥联储行长警告经济过热风险 称必须应对通胀问题】芝加哥联储行长奥斯坦·古尔斯比表示，政策制定者需要应对人工智能建设可能导致的经济过热，以及不断扩大的通胀压力。“我们必须正视使命中成本和通胀方面未能达标的问题，”古尔斯比周一在芝加哥的一场活动上表示。",
+        "publishedAt": "2026-11-10 01:36:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611093926434343.html",
+        "url": "https://finance.eastmoney.com/a/202611103926617782.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "机器人"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "品渥食品:关于参与山东泰山啤酒股份有限公司破产重整投资的公告",
-        "summary": "品渥食品(300892)：品渥食品:关于参与山东泰山啤酒股份有限公司破产重整投资的公告",
-        "publishedAt": "2026-11-09",
+        "title": "法国就网络攻击事件召见伊朗大使 警告将实施制裁",
+        "summary": "【法国就网络攻击事件召见伊朗大使 警告将实施制裁】当地时间11月9日，法国外长巴罗表示，伊朗伊斯兰革命卫队是此前针对法国超市冷藏系统网络攻击的幕后实施者。法国已召见伊朗驻法国大使，伊朗将因此面临后果，包括欧盟层面的制裁。",
+        "publishedAt": "2026-11-10 00:59:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103926615527.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "东方新能:关于签署算力板卡采购合同的公告",
+        "summary": "东方新能(002310)：东方新能:关于签署算力板卡采购合同的公告",
+        "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300892/AN202611091831558033.html",
+        "url": "https://data.eastmoney.com/notices/detail/002310/AN202611091831560666.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [
+          "东方新能(002310)"
+        ],
+        "importance": 1,
+        "noticeType": "重大合同"
+      },
+      {
+        "title": "中国科传:中国科技出版传媒股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回并继续进行现金管理的公告",
+        "summary": "中国科传(601858)：中国科传:中国科技出版传媒股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回并继续进行现金管理的公告",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601858/AN202611091831560258.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "品渥食品(300892)"
+          "中国科传(601858)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "中国科传:中国科技出版传媒股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "summary": "中国科传(601858)：中国科传:中国科技出版传媒股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601858/AN202611091831560259.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中国科传(601858)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "菲利华:关于回购公司股份方案的公告",
-        "summary": "菲利华(300395)：菲利华:关于回购公司股份方案的公告",
-        "publishedAt": "2026-11-09",
+        "title": "均普智能:宁波均普智能制造股份有限公司关于以集中竞价交易方式回购股份方案的公告",
+        "summary": "均普智能(688306)：均普智能:宁波均普智能制造股份有限公司关于以集中竞价交易方式回购股份方案的公告",
+        "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300395/AN202611091831557962.html",
+        "url": "https://data.eastmoney.com/notices/detail/688306/AN202611091831560099.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -116532,180 +116655,17 @@
           "金融"
         ],
         "tickers": [
-          "菲利华(300395)"
+          "均普智能(688306)"
         ],
         "importance": 1,
         "noticeType": "回购预案"
       },
       {
-        "title": "艾可蓝:关于与专业投资机构共同投资的公告",
-        "summary": "艾可蓝(300816)：艾可蓝:关于与专业投资机构共同投资的公告",
-        "publishedAt": "2026-11-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300816/AN202611091831557870.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "艾可蓝(300816)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "天通股份:2026年11月2日投资者关系活动记录表",
-        "summary": "天通股份(600330)：天通股份:2026年11月2日投资者关系活动记录表",
-        "publishedAt": "2026-11-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600330/AN202611091831557733.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天通股份(600330)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "强瑞技术:回购股份报告书",
-        "summary": "强瑞技术(301128)：强瑞技术:回购股份报告书",
-        "publishedAt": "2026-11-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301128/AN202611091831557766.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "强瑞技术(301128)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "强瑞技术:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "summary": "强瑞技术(301128)：强瑞技术:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "publishedAt": "2026-11-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301128/AN202611091831557760.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "强瑞技术(301128)"
-        ],
-        "importance": 1,
-        "noticeType": "借贷"
-      },
-      {
-        "title": "000603盛达资源投资者关系管理信息20261109",
-        "summary": "盛达资源(000603)：000603盛达资源投资者关系管理信息20261109",
-        "publishedAt": "2026-11-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000603/AN202611091831557721.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盛达资源(000603)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中科环保:关于对外投资的进展公告",
-        "summary": "中科环保(301175)：中科环保:关于对外投资的进展公告",
-        "publishedAt": "2026-11-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301175/AN202611091831557562.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中科环保(301175)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "探路者:关于回购注销部分限制性股票减少注册资本暨通知债权人的公告",
-        "summary": "探路者(300005)：探路者:关于回购注销部分限制性股票减少注册资本暨通知债权人的公告",
-        "publishedAt": "2026-11-09",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300005/AN202611091831557564.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "探路者(300005)"
-        ],
-        "importance": 1,
-        "noticeType": "公司注册资本变更"
-      },
-      {
-        "title": "摩根大通依旧看好美股",
-        "summary": "【摩根大通依旧看好美股】摩根大通依旧看好美股，认为投资者悲观情绪或已接近顶峰。",
-        "publishedAt": "2026-11-09 20:17:24",
+        "title": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元 上个交易日报1.5亿美元",
+        "summary": "美联储隔夜逆回购协议（RRP）周一使用规模为2.52亿美元，上个交易日报1.5亿美元。",
+        "publishedAt": "2026-11-10 02:16:16",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611093926462648.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "白云山：控股子公司广州医药拟公开挂牌增资扩股募资不超60亿元",
-        "summary": "【白云山：控股子公司广州医药拟公开挂牌增资扩股募资不超60亿元】白云山(600332)11月9日公告，控股子公司广州医药股份有限公司拟通过广州产权交易所公开挂牌引入战略投资者并实施股票定向发行，计划征集不超过15家投资者，发行价格为不低于3.46元/股，定向发行股票不超过17.34亿股，募资规模不超过60亿元，将用于广州医药补充流动资金及偿还银行贷款、借款…",
-        "publishedAt": "2026-11-09 20:04:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611093926456620.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "医药",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "菲律宾外交部罕见声明批“个别官员涉华言论”：勿自行主导外交政策",
-        "summary": "【菲律宾外交部罕见声明批“个别官员涉华言论”：勿自行主导外交政策】11月8日，菲律宾外交部罕见公开批评政府官员近期有关涉华言论，强调菲律宾需要对外发出统一声音。",
-        "publishedAt": "2026-11-09 19:59:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611093926435051.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "近两周沪市主板发布利好公告超400家次",
-        "summary": "【近两周沪市主板发布利好公告超400家次】近两周以来（披露日为10月24日至11月7日），沪市主板合计发布利好公告超400家次，其中上证180公司近80家次，上证50公司15家次。从数据看，头部公司在回购增持力度、分红金额、业绩增速等方面表现突出。",
-        "publishedAt": "2026-11-09 19:50:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611093926431378.html",
+        "url": "https://finance.eastmoney.com/a/202611103926620723.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -116717,29 +116677,368 @@
         "noticeType": ""
       },
       {
-        "title": "中国10月PPI年率(%)",
-        "summary": "中国10月PPI年率(%)；公布 5.7，预期 5.3，前值 5.0。",
-        "publishedAt": "2026-11-09 09:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "里士满联储行长暗示加息方向明确 但步伐需要谨慎",
+        "summary": "【里士满联储行长暗示加息方向明确 但步伐需要谨慎】里士满联储行长汤姆·巴尔金暗示，强劲的需求和居高不下的通胀意味着利率仍需进一步上调，不过他警告，任何加息都需要以谨慎的步伐进行。巴尔金在一场概述其经济看法的演讲中称企业利润表现亮眼，在失业率处于或低于4.5%的时间创纪录之际，消费者仍在继续支出。不过，他对消费的强劲表现能够持续多久提出警告，指出企业和家庭仍…",
+        "publishedAt": "2026-11-10 01:38:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103926617697.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "ADNOC Drilling获得科威特石油公司授予的合同",
+        "summary": "ADNOC Drilling获得科威特石油公司授予的合同，最高总价值约3.136亿美元。",
+        "publishedAt": "2026-11-10 02:34:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103926621216.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "上期所原油期货2612合约夜盘收跌3.62% 沪金夜盘收涨0.6% 沪银收涨0.61%",
+        "summary": "上期所原油期货2612合约夜盘收跌3.62%，报614.40元人民币/桶。沪金夜盘收涨0.6%，沪银收涨0.61%。",
+        "publishedAt": "2026-11-10 02:32:08",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103926621040.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
   },
-  "brokenBoards": [],
+  "brokenBoards": [
+    {
+      "code": "600229",
+      "name": "城市传媒",
+      "changePct": -2.34,
+      "industry": "出版",
+      "failCount": 1
+    },
+    {
+      "code": "600156",
+      "name": "华升股份",
+      "changePct": 4.1,
+      "industry": "纺织制造",
+      "failCount": 2
+    },
+    {
+      "code": "603887",
+      "name": "城地香江",
+      "changePct": -2.56,
+      "industry": "IT服务Ⅱ",
+      "failCount": 1
+    },
+    {
+      "code": "002865",
+      "name": "钧达股份",
+      "changePct": -0.31,
+      "industry": "光伏设备",
+      "failCount": 3
+    },
+    {
+      "code": "002943",
+      "name": "宇晶股份",
+      "changePct": -2.88,
+      "industry": "通用设备",
+      "failCount": 1
+    },
+    {
+      "code": "603797",
+      "name": "联泰环保",
+      "changePct": 2.96,
+      "industry": "环境治理",
+      "failCount": 1
+    },
+    {
+      "code": "605488",
+      "name": "福莱新材",
+      "changePct": 6.5,
+      "industry": "塑料",
+      "failCount": 1
+    },
+    {
+      "code": "001308",
+      "name": "康冠科技",
+      "changePct": 5.01,
+      "industry": "光学光电",
+      "failCount": 1
+    },
+    {
+      "code": "000595",
+      "name": "新能股份",
+      "changePct": 2.42,
+      "industry": "电力",
+      "failCount": 2
+    },
+    {
+      "code": "603601",
+      "name": "再升科技",
+      "changePct": 3.67,
+      "industry": "专业工程",
+      "failCount": 1
+    },
+    {
+      "code": "002403",
+      "name": "爱仕达",
+      "changePct": 5.38,
+      "industry": "小家电",
+      "failCount": 1
+    },
+    {
+      "code": "300136",
+      "name": "信维通信",
+      "changePct": 12.77,
+      "industry": "消费电子",
+      "failCount": 1
+    },
+    {
+      "code": "002949",
+      "name": "华阳国际",
+      "changePct": 5.81,
+      "industry": "工程咨询",
+      "failCount": 1
+    },
+    {
+      "code": "600118",
+      "name": "中国卫星",
+      "changePct": 4.55,
+      "industry": "航天装备",
+      "failCount": 2
+    },
+    {
+      "code": "002905",
+      "name": "金逸影视",
+      "changePct": -0.24,
+      "industry": "影视院线",
+      "failCount": 1
+    },
+    {
+      "code": "002164",
+      "name": "宁波东力",
+      "changePct": 5.46,
+      "industry": "通用设备",
+      "failCount": 1
+    },
+    {
+      "code": "601595",
+      "name": "上海电影",
+      "changePct": 8.22,
+      "industry": "影视院线",
+      "failCount": 4
+    },
+    {
+      "code": "603040",
+      "name": "新坐标",
+      "changePct": 8.48,
+      "industry": "汽车零部",
+      "failCount": 1
+    },
+    {
+      "code": "600498",
+      "name": "烽火通信",
+      "changePct": 6.78,
+      "industry": "通信设备",
+      "failCount": 2
+    },
+    {
+      "code": "603626",
+      "name": "科森科技",
+      "changePct": 7.65,
+      "industry": "消费电子",
+      "failCount": 2
+    },
+    {
+      "code": "603777",
+      "name": "来伊份",
+      "changePct": 3.13,
+      "industry": "休闲食品",
+      "failCount": 1
+    },
+    {
+      "code": "300624",
+      "name": "万兴科技",
+      "changePct": 7.1,
+      "industry": "软件开发",
+      "failCount": 1
+    },
+    {
+      "code": "002712",
+      "name": "思美传媒",
+      "changePct": -1.51,
+      "industry": "广告营销",
+      "failCount": 1
+    },
+    {
+      "code": "603131",
+      "name": "上海沪工",
+      "changePct": 4.71,
+      "industry": "通用设备",
+      "failCount": 4
+    },
+    {
+      "code": "002388",
+      "name": "新亚制程",
+      "changePct": 2.25,
+      "industry": "其他电子",
+      "failCount": 2
+    },
+    {
+      "code": "600345",
+      "name": "长江通信",
+      "changePct": 7.21,
+      "industry": "通信设备",
+      "failCount": 1
+    },
+    {
+      "code": "002086",
+      "name": "东方海洋",
+      "changePct": 10.08,
+      "industry": "农产品加",
+      "failCount": 6
+    },
+    {
+      "code": "600293",
+      "name": "三峡新材",
+      "changePct": 4.08,
+      "industry": "玻璃玻纤",
+      "failCount": 1
+    },
+    {
+      "code": "001270",
+      "name": "铖昌科技",
+      "changePct": 4.15,
+      "industry": "军工电子",
+      "failCount": 1
+    },
+    {
+      "code": "301306",
+      "name": "西测测试",
+      "changePct": 11.78,
+      "industry": "军工电子",
+      "failCount": 1
+    },
+    {
+      "code": "600641",
+      "name": "先导基电",
+      "changePct": 4.2,
+      "industry": "半导体",
+      "failCount": 1
+    },
+    {
+      "code": "600793",
+      "name": "宜宾纸业",
+      "changePct": 1.16,
+      "industry": "造纸",
+      "failCount": 1
+    },
+    {
+      "code": "600540",
+      "name": "新赛股份",
+      "changePct": 8.3,
+      "industry": "种植业",
+      "failCount": 2
+    },
+    {
+      "code": "001219",
+      "name": "青岛食品",
+      "changePct": 6.98,
+      "industry": "休闲食品",
+      "failCount": 2
+    },
+    {
+      "code": "002815",
+      "name": "崇达技术",
+      "changePct": 6.4,
+      "industry": "元件",
+      "failCount": 1
+    },
+    {
+      "code": "603228",
+      "name": "景旺电子",
+      "changePct": 7.12,
+      "industry": "元件",
+      "failCount": 1
+    },
+    {
+      "code": "003023",
+      "name": "彩虹集团",
+      "changePct": 9.27,
+      "industry": "小家电",
+      "failCount": 7
+    },
+    {
+      "code": "300825",
+      "name": "阿尔特",
+      "changePct": 15.43,
+      "industry": "汽车服务",
+      "failCount": 1
+    },
+    {
+      "code": "603687",
+      "name": "大胜达",
+      "changePct": 4.23,
+      "industry": "包装印刷",
+      "failCount": 1
+    },
+    {
+      "code": "600207",
+      "name": "安彩高科",
+      "changePct": 5.33,
+      "industry": "光伏设备",
+      "failCount": 3
+    },
+    {
+      "code": "603901",
+      "name": "永创智能",
+      "changePct": 8.15,
+      "industry": "专用设备",
+      "failCount": 1
+    },
+    {
+      "code": "301321",
+      "name": "翰博高新",
+      "changePct": 14.79,
+      "industry": "光学光电",
+      "failCount": 1
+    },
+    {
+      "code": "301068",
+      "name": "大地海洋",
+      "changePct": 10.79,
+      "industry": "环境治理",
+      "failCount": 1
+    },
+    {
+      "code": "002779",
+      "name": "中坚科技",
+      "changePct": 9.34,
+      "industry": "专用设备",
+      "failCount": 1
+    }
+  ],
   "reports": {
-    "active": "post-market",
-    "marketLevel": "强",
+    "active": "noon",
+    "marketLevel": "弱",
     "emotionCycle": "高潮",
     "positionRule": {
-      "total": "75%-100%",
-      "single": "不超过50%"
+      "total": "25%-50%",
+      "single": "不超过25%"
     },
     "disclaimer": "免责声明：本页面内容仅为个人/团队交易复盘、数据整理与策略研究记录，不构成任何投资建议、收益承诺或买卖依据。市场有风险，交易需独立判断并自行承担风险。",
     "items": [
@@ -116747,15 +117046,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-09 20:24:45",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 4 条；主题映射集中在 金融、AI算力、医药。",
+        "generatedAt": "2026-11-10 02:36:43",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 能源、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
-              "市场温度参考为强，总仓位按75%-100%控制。",
+              "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：煤炭开采加工、元件、通信设备；首看 煤炭开采加工 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -116778,7 +117077,7 @@
           },
           {
             "title": "情绪条件",
-            "rule": "最高连板 6 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+            "rule": "最高连板 6 板，炸板率 45%。只在情绪、资金、个股承接共振时加仓。"
           }
         ]
       },
@@ -116786,13 +117085,13 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-09 20:24:09",
-        "summary": "上午情绪分 98，涨停 54 家，跌停 1 家，炸板 0 家，连板 9 家，最高 6 板。",
+        "generatedAt": "2026-11-10 02:36:03",
+        "summary": "上午情绪分 87，涨停 54 家，跌停 1 家，炸板 44 家，连板 9 家，最高 6 板。",
         "sections": [
           {
             "title": "上午盘面",
             "items": [
-              "涨停 54 家，跌停 1 家，炸板率 0%，最高连板 6 板。",
+              "涨停 54 家，跌停 1 家，炸板率 45%，最高连板 6 板。",
               "主线候选：煤炭开采加工、元件、通信设备；首看 煤炭开采加工 的前排承接和中军量能。",
               "弱势方向：光伏设备、电池、软件开发，相关后排不做反包幻想。"
             ]
@@ -116800,8 +117099,8 @@
           {
             "title": "午后执行",
             "items": [
-              "午后可围绕主线核心做确认，优先等分歧承接。",
-              "单票仓位上限参考 不超过50%，不在一致加速时追后排。",
+              "午后只看核心低吸和趋势回踩，降低交易频率。",
+              "单票仓位上限参考 不超过25%，不在一致加速时追后排。",
               "若炸板和跌停继续扩大，停止开新仓，只观察核心承接。"
             ]
           }
@@ -116817,7 +117116,7 @@
           },
           {
             "title": "情绪条件",
-            "rule": "最高连板 6 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+            "rule": "最高连板 6 板，炸板率 45%。只在情绪、资金、个股承接共振时加仓。"
           }
         ]
       },
@@ -116825,15 +117124,15 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-09 20:24:09",
-        "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
+        "generatedAt": "2026-11-10 02:36:03",
+        "summary": "市场温度 弱，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
             "title": "市场温度",
             "items": [
-              "情绪分 98，涨停 54，跌停 1，炸板 0。",
-              "连板高度 6 板，当前仓位纪律：总仓位 75%-100%，单票 不超过50%。",
-              "今日负反馈：跌停 1 只，炸板 0 只。"
+              "情绪分 87，涨停 54，跌停 1，炸板 44。",
+              "连板高度 6 板，当前仓位纪律：总仓位 25%-50%，单票 不超过25%。",
+              "今日负反馈：跌停 1 只，炸板 44 只。"
             ]
           },
           {
@@ -116842,16 +117141,16 @@
               "主线候选：煤炭开采加工、元件、通信设备；首看 煤炭开采加工 的前排承接和中军量能。",
               "连板前排：闽发铝业6板、东方新能2板、日出东方2板、东方嘉盛2板、龙江交通2板。只看换手承接和板块带动，不追一致后排。",
               "明日候选观察：沪深主板 >60：达仁堂、深高速；创业板 >60：中密控股、溯联股份。",
-              "明日执行首看：达仁堂(首看)、深高速(首看)、中密控股(首看)、山西焦煤(首看)；总仓位上限 75%-100%。"
+              "明日执行首看：达仁堂(首看)、深高速(首看)、中密控股(首看)、山西焦煤(首看)；总仓位上限 25%-50%。"
             ]
           },
           {
             "title": "风险与纪律",
             "items": [
+              "今日炸板 44 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：*ST田野:第六届董事会第六次会议决议公告；*ST田野:为子公司提供担保的公告。",
+              "新闻/公告风险：*ST未名:关于向控股子公司提供财务资助额度的公告；东方新能:关于公司股票交易异常波动的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
@@ -116867,7 +117166,7 @@
           },
           {
             "title": "情绪条件",
-            "rule": "最高连板 6 板，炸板率 0%。只在情绪、资金、个股承接共振时加仓。"
+            "rule": "最高连板 6 板，炸板率 45%。只在情绪、资金、个股承接共振时加仓。"
           }
         ]
       }
