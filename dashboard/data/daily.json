@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-06",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-07 03:58:00",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-07 03:58:00",
+    "lastNewsAt": "2026-11-09 15:01:41"
   },
   "indices": [
     {
@@ -98805,20 +98807,20 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-06",
-    "generatedAt": "2026-11-07 03:58:43",
+    "tradeDate": "2026-11-09",
+    "generatedAt": "2026-11-09 15:01:41",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 能源、有色稀土、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 AI算力、能源、医药。",
     "themes": [
       {
-        "name": "能源",
+        "name": "AI算力",
         "score": 10,
         "isFocusBoard": false
       },
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "能源",
+        "score": 8,
         "isFocusBoard": false
       },
       {
@@ -98832,183 +98834,225 @@
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
-        "score": 3,
+        "name": "有色稀土",
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "半导体",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "七丰精工:股东减持股份结果公告",
-        "summary": "七丰精工(920169)：七丰精工:股东减持股份结果公告",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920169/AN202611061831500361.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "七丰精工(920169)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "深交所:正海磁材_监管函",
-        "summary": "正海磁材(300224)：深交所:正海磁材_监管函",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300224/AN202611061831504834.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "正海磁材(300224)"
-        ],
-        "importance": 1,
-        "noticeType": "深交所股票监管函"
-      },
-      {
-        "title": "美国宣布新一轮与伊朗相关的制裁措施",
-        "summary": "当地时间11月6日，美国财政部网站显示，美国宣布新一轮与伊朗相关的制裁措施。",
-        "publishedAt": "2026-11-07 03:45:07",
+        "title": "上海：全面加强药物研究机构监管 建立健全研究机构分级分类监管机制",
+        "summary": "【上海：全面加强药物研究机构监管 建立健全研究机构分级分类监管机制】上海市食品药品安全委员会印发《上海市保障药品安全促进医药产业高质量发展“十五五”规划》。其中提到，全面加强药物研究机构监管。推进相关研究机构严格落实药物非临床研究质量管理规范（GLP）和药物临床试验质量管理规范（GCP），加强对数据真实性、完整性、规范性的检查，严厉打击数据造假等违法违规行…",
+        "publishedAt": "2026-11-09 14:55:47",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611073925253550.html",
+        "url": "https://finance.eastmoney.com/a/202611093926212949.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "301449天溯计量投资者关系管理信息20261106",
-        "summary": "天溯计量(301449)：301449天溯计量投资者关系管理信息20261106",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301449/AN202611061831502023.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天溯计量(301449)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "爱伦医疗:投资者关系活动记录表",
-        "summary": "爱伦医疗(920050)：爱伦医疗:投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920050/AN202611061831501071.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
         "themes": [
           "医药"
         ],
-        "tickers": [
-          "爱伦医疗(920050)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": ""
       },
       {
-        "title": "中原高速:河南中原高速公路股份有限公司投资者关系活动记录表",
-        "summary": "中原高速(600020)：中原高速:河南中原高速公路股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
+        "title": "上海：到2030年药品监管实现“夯基拓能、提质增效、整体跃升”",
+        "summary": "【上海：到2030年药品监管实现“夯基拓能、提质增效、整体跃升”】上海市食品药品安全委员会印发《上海市保障药品安全促进医药产业高质量发展“十五五”规划》。其中提到，到2030年，上海药品监管实现“夯基拓能、提质增效、整体跃升”。责任链条更加完善，党政同责、部门联动、企业主责、社会共治的责任体系全面构建。风险防控更加有力，全过程动态安全监管机制持续夯实，系统…",
+        "publishedAt": "2026-11-09 14:54:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611093926212585.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "300159新研股份投资者关系管理信息20261109",
+        "summary": "新研股份(300159)：300159新研股份投资者关系管理信息20261109",
+        "publishedAt": "2026-11-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600020/AN202611061831500188.html",
+        "url": "https://data.eastmoney.com/notices/detail/300159/AN202611091831544449.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中原高速(600020)"
+          "新研股份(300159)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "崇达技术:2026年11月6日投资者关系活动记录表",
-        "summary": "崇达技术(002815)：崇达技术:2026年11月6日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
+        "title": "东华科技:002140东华科技投资者关系管理信息20261109",
+        "summary": "东华科技(002140)：东华科技:002140东华科技投资者关系管理信息20261109",
+        "publishedAt": "2026-11-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002815/AN202611061831499317.html",
+        "url": "https://data.eastmoney.com/notices/detail/002140/AN202611091831544414.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "崇达技术(002815)"
+          "东华科技(002140)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "拓日新能:2026年11月5日投资者关系活动记录表",
-        "summary": "拓日新能(002218)：拓日新能:2026年11月5日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
+        "title": "002524光正眼科投资者关系管理信息20261109",
+        "summary": "光正眼科(002524)：002524光正眼科投资者关系管理信息20261109",
+        "publishedAt": "2026-11-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002218/AN202611061831496911.html",
+        "url": "https://data.eastmoney.com/notices/detail/002524/AN202611091831544203.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "拓日新能(002218)"
+          "光正眼科(002524)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "云图控股:002539云图控股投资者关系管理信息20261106",
-        "summary": "云图控股(002539)：云图控股:002539云图控股投资者关系管理信息20261106",
-        "publishedAt": "2026-11-06",
+        "title": "旷达科技:002516旷达科技投资者关系管理信息20261109",
+        "summary": "旷达科技(002516)：旷达科技:002516旷达科技投资者关系管理信息20261109",
+        "publishedAt": "2026-11-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002539/AN202611061831477596.html",
+        "url": "https://data.eastmoney.com/notices/detail/002516/AN202611091831542307.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "云图控股(002539)"
+          "旷达科技(002516)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "000636风华高科投资者关系管理信息20261106",
-        "summary": "风华高科(000636)：000636风华高科投资者关系管理信息20261106",
-        "publishedAt": "2026-11-06",
+        "title": "本钢板材:2026年11月6日投资者关系活动记录表",
+        "summary": "本钢板材(000761)：本钢板材:2026年11月6日投资者关系活动记录表",
+        "publishedAt": "2026-11-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000636/AN202611061831505697.html",
+        "url": "https://data.eastmoney.com/notices/detail/000761/AN202611091831541989.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "风华高科(000636)"
+          "本钢板材(000761)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "长江证券:长江证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第二期)票面利率公告",
-        "summary": "长江证券(000783)：长江证券:长江证券股份有限公司2026年面向专业投资者公开发行科技创新公司债券(第二期)票面利率公告",
-        "publishedAt": "2026-11-06",
+        "title": "300818耐普矿机投资者关系管理信息20261109",
+        "summary": "耐普矿机(300818)：300818耐普矿机投资者关系管理信息20261109",
+        "publishedAt": "2026-11-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000783/AN202611061831504361.html",
+        "url": "https://data.eastmoney.com/notices/detail/300818/AN202611091831541925.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "耐普矿机(300818)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "凌霄泵业:2026年11月6日投资者关系活动记录表",
+        "summary": "凌霄泵业(002884)：凌霄泵业:2026年11月6日投资者关系活动记录表",
+        "publishedAt": "2026-11-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002884/AN202611091831540522.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "凌霄泵业(002884)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "日发精机:2026年11月4日至6日投资者关系活动记录表",
+        "summary": "日发精机(002520)：日发精机:2026年11月4日至6日投资者关系活动记录表",
+        "publishedAt": "2026-11-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002520/AN202611091831540461.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "日发精机(002520)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "德尔股份投资者关系管理信息20261107",
+        "summary": "德尔股份(300473)：德尔股份投资者关系管理信息20261107",
+        "publishedAt": "2026-11-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300473/AN202611091831540521.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "德尔股份(300473)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "301510固高科技投资者关系管理信息20261109",
+        "summary": "固高科技(301510)：301510固高科技投资者关系管理信息20261109",
+        "publishedAt": "2026-11-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301510/AN202611091831540201.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "固高科技(301510)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "世运电路:世运电路关于2026年第二期以集中竞价交易方式回购股份方案的公告",
+        "summary": "世运电路(603920)：世运电路:世运电路关于2026年第二期以集中竞价交易方式回购股份方案的公告",
+        "publishedAt": "2026-11-09",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603920/AN202611081831533050.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -99016,118 +99060,88 @@
           "金融"
         ],
         "tickers": [
-          "长江证券(000783)"
+          "世运电路(603920)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "回购预案"
       },
       {
-        "title": "卓翼科技:2026年11月6日投资者关系活动记录表",
-        "summary": "卓翼科技(002369)：卓翼科技:2026年11月6日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
+        "title": "风范股份:北京博星证券投资顾问有限公司关于常熟风范电力设备股份有限公司收购报告书之财务顾问报告",
+        "summary": "风范股份(601700)：风范股份:北京博星证券投资顾问有限公司关于常熟风范电力设备股份有限公司收购报告书之财务顾问报告",
+        "publishedAt": "2026-11-09",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002369/AN202611061831504027.html",
+        "url": "https://data.eastmoney.com/notices/detail/601700/AN202611081831532976.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "卓翼科技(002369)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "依米康:2026年11月6日投资者关系活动记录表",
-        "summary": "依米康(300249)：依米康:2026年11月6日投资者关系活动记录表",
-        "publishedAt": "2026-11-06",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300249/AN202611061831503977.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "依米康(300249)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "Alphabet旗下的无人机部门将投资1.25亿美元 在得克萨斯州建设一座新工厂",
-        "summary": "Alphabet旗下的无人机部门将投资1.25亿美元，在得克萨斯州建设一座新工厂。",
-        "publishedAt": "2026-11-07 03:50:07",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611073925253787.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "乌方提出乌美俄会谈优先议题 不指望会谈取得突破",
-        "summary": "【乌方提出乌美俄会谈优先议题 不指望会谈取得突破】乌克兰外长瑟比加6日说，安全保障、黑海局势降级、能源停火、遣返乌克兰儿童和交换战俘将是乌方在即将举行的乌美俄三方会谈中优先讨论的议题。与此同时，乌克兰总统办公室主任布达诺夫对媒体表示，不指望此次会谈取得突破。",
-        "publishedAt": "2026-11-07 03:05:44",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611073925251192.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
+          "金融",
           "能源"
         ],
-        "tickers": [],
+        "tickers": [
+          "风范股份(601700)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "卡拉斯：任何俄乌和平协议的落实都需要欧盟参与",
-        "summary": "【卡拉斯：任何俄乌和平协议的落实都需要欧盟参与】欧盟外交与安全政策高级代表卡拉斯6日表示，目前无法确定乌克兰与俄罗斯何时以及如何达成和平协议，但任何相关协议的落实都需要欧盟的参与。",
-        "publishedAt": "2026-11-07 02:48:26",
+        "title": "韩国科学技术副部长：关注美国AI数据中心投资转向韩国的可能性",
+        "summary": "韩国科学技术副部长称，关注美国AI数据中心投资转向韩国的可能性。",
+        "publishedAt": "2026-11-09 14:55:24",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611073925250190.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "外资三季度持股盈利盘点：银行大赚医药不俗",
-        "summary": "【外资三季度持股盈利盘点：银行大赚医药不俗】三季度以来A股持续调整，但QFII（合格境外机构投资者）却能逆市盈利，展现出较强的选股能力和市场敏感度。Wind数据统计显示，截至三季度末，QFII共持有1309只A股，三季度上涨的个股有752只，占比57.4%，平均涨幅为5.66%，跑赢上证指数11.82个百分点，跑赢创业板指33.46个百分点，其中涨幅超50…",
-        "publishedAt": "2026-11-07 02:29:26",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611073925245557.html",
+        "url": "https://finance.eastmoney.com/a/202611093926212244.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "医药",
-          "金融"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国截至11月4日美联储资产负债表(万亿美元)",
-        "summary": "美国截至11月4日美联储资产负债表(万亿美元)；公布 6.8，预期 nan，前值 6.8。",
-        "publishedAt": "2026-11-06 05:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "拓普集团等入股魔法原子",
+        "summary": "【拓普集团等入股魔法原子】企查查APP显示，近日，魔法原子关联公司魔法工场（无锡）科技有限公司发生工商变更，注册资本增加至136.12万元，新增浙江追创领杭创业投资合伙企业（有限合伙）、拓普集团、杰创智能等为股东；同时，公司主要人员亦发生变更，其中，吴长征退出，顾诗韬接任董事长、执行公司事务的董事、经理，并担任公司新任法定代表人。",
+        "publishedAt": "2026-11-09 14:52:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611093926210170.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "花旗策略师将除英国外的欧洲股票评级上调至“增持”",
+        "summary": "花旗策略师将除英国外的欧洲股票评级上调至“增持”。",
+        "publishedAt": "2026-11-09 14:51:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611093926211047.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "韩国产业部长：不认为美国中期选举会导致人工智能投资放缓",
+        "summary": "韩国产业部长表示，不认为美国中期选举会导致人工智能投资放缓。",
+        "publishedAt": "2026-11-09 14:46:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611093926205570.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -99233,7 +99247,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "修复",
     "positionRule": {
@@ -99246,15 +99260,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-07 03:58:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 能源、有色稀土、医药。",
+        "generatedAt": "2026-11-09 15:01:41",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 16 条，风险 2 条；主题映射集中在 AI算力、能源、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：银行、电力；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、有色稀土、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、能源、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -99350,7 +99364,7 @@
               "今日炸板 14 只，追高前先看前排封单和回封质量。",
               "今日跌停 15 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：七丰精工:股东减持股份结果公告；深交所:正海磁材_监管函。",
+              "新闻/公告风险：上海：全面加强药物研究机构监管 建立健全研究机构分级分类监管机制；上海：到2030年药品监管实现“夯基拓能、提质增效、整体跃升”。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
