@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-10",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-10 06:59:56",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-10 06:59:56",
+    "lastNewsAt": "2026-11-10 15:38:44"
   },
   "indices": [
     {
@@ -116589,208 +116591,77 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-10",
-    "generatedAt": "2026-11-10 07:00:33",
+    "generatedAt": "2026-11-10 15:38:44",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: cannot convert float NaN to integer"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 12 条；主题映射集中在 金融、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 机器人、军工、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
+        "name": "机器人",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "军工",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "*ST未名:关于向控股子公司提供财务资助额度的公告",
-        "summary": "*ST未名(002581)：*ST未名:关于向控股子公司提供财务资助额度的公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002581/AN202611091831560673.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST未名(002581)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "东方新能:关于公司股票交易异常波动的公告",
-        "summary": "东方新能(002310)：东方新能:关于公司股票交易异常波动的公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002310/AN202611091831560667.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "东方新能(002310)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "*ST雅博:关于公司高级管理人员辞职、职务变更及聘任高级管理人员的公告",
-        "summary": "*ST雅博(002323)：*ST雅博:关于公司高级管理人员辞职、职务变更及聘任高级管理人员的公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560104.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST雅博(002323)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "*ST雅博:章程修订对照表",
-        "summary": "*ST雅博(002323)：*ST雅博:章程修订对照表",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560105.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST雅博(002323)"
-        ],
-        "importance": 1,
-        "noticeType": "公司章程修订"
-      },
-      {
-        "title": "*ST雅博:关于公司董事辞职暨补选非独立董事的公告",
-        "summary": "*ST雅博(002323)：*ST雅博:关于公司董事辞职暨补选非独立董事的公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560101.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST雅博(002323)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "*ST雅博:关于获得控股股东及关联方债务豁免暨关联交易的公告",
-        "summary": "*ST雅博(002323)：*ST雅博:关于获得控股股东及关联方债务豁免暨关联交易的公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560102.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST雅博(002323)"
-        ],
-        "importance": 1,
-        "noticeType": "关联交易"
-      },
-      {
-        "title": "*ST雅博:第七届董事会独立董事2026年第三次专门会议决议",
-        "summary": "*ST雅博(002323)：*ST雅博:第七届董事会独立董事2026年第三次专门会议决议",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560100.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST雅博(002323)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "*ST雅博:第七届董事会第九次会议决议公告",
-        "summary": "*ST雅博(002323)：*ST雅博:第七届董事会第九次会议决议公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002323/AN202611091831560103.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST雅博(002323)"
-        ],
-        "importance": 1,
-        "noticeType": "高管人员任职变动"
-      },
-      {
-        "title": "特朗普称似乎没必要再对伊朗采取军事行动",
-        "summary": "【特朗普称似乎没必要再对伊朗采取军事行动】当地时间11月9日下午，美国总统特朗普向记者表示，美国目前似乎没有必要对伊朗采取军事行动。他说，“在现阶段……采取军事行动似乎并非十分必要。但我们已严阵以待，一旦情况有任何变化，随时可以行动。”特朗普表示，目前正看到局势朝着结束这场冲突的方向发展。",
-        "publishedAt": "2026-11-10 06:57:13",
+        "title": "划定四大方面 卫星导航定位基准站网强制性国标出台",
+        "summary": "【划定四大方面 卫星导航定位基准站网强制性国标出台】据悉，市场监管总局批准发布强制性国家标准《卫星导航定位基准站网安全要求》。该标准由自然资源部提出并归口，从设施、数据、服务全链条明确安全技术要求，为依法规范基准站网建设运行管理、保障国家时空基准和测绘地理信息安全提供技术支撑。",
+        "publishedAt": "2026-11-10 15:33:12",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926665717.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "乌总统办主任：乌方比任何一方都更愿意尽快结束冲突",
-        "summary": "【乌总统办主任：乌方比任何一方都更愿意尽快结束冲突】乌克兰总统办公室主任布达诺夫9日晚在社交媒体发文称，乌方比任何一方都更愿意尽快结束冲突。他表示，期待俄美乌三方会谈能够取得“实际成果”。布达诺夫称，期待与俄方代表开展建设性对话。",
-        "publishedAt": "2026-11-10 06:56:36",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926665637.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "稳市政策“组合拳”发力 机构强化逆周期布局",
-        "summary": "【稳市政策“组合拳”发力 机构强化逆周期布局】11月以来，稳市场的政策“组合拳”持续发力，互换便利操作、股票回购增持再贷款、两融逆周期调节、引导主动ETF加快建仓等举措协同推进。与此同时，A股市场主要宽基指数估值回落至历史偏低区间，股息率相对无风险利率的性价比突出，筹码压力有所缓解。",
-        "publishedAt": "2026-11-10 06:39:33",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926625740.html",
+        "url": "https://finance.eastmoney.com/a/202611103927288748.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
         "themes": [
-          "金融"
+          "军工"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "特朗普表示 与卡塔尔首相讨论了伊朗问题 看到结束这场冲突正出现积极势头",
-        "summary": "特朗普表示，与卡塔尔首相讨论了伊朗问题。看到结束这场冲突正出现积极势头。如果中东局势发生变化，美国仍“随时准备行动”。",
-        "publishedAt": "2026-11-10 05:34:39",
+        "title": "国债期货收盘集体下跌",
+        "summary": "【国债期货收盘集体下跌】11月10日，国债期货收盘集体下跌，30年期主力合约跌0.22%，10年期主力合约跌0.08%，5年期主力合约跌0.05%，2年期主力合约跌0.01%。",
+        "publishedAt": "2026-11-10 15:19:42",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926644532.html",
+        "url": "https://finance.eastmoney.com/a/202611103927285945.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -116800,102 +116671,259 @@
         "noticeType": ""
       },
       {
-        "title": "东方新能:关于签署算力板卡采购合同的公告",
-        "summary": "东方新能(002310)：东方新能:关于签署算力板卡采购合同的公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002310/AN202611091831560666.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "title": "高盛CEO：AI基建融资需求依旧旺盛 市场整体环境仍然有利Anthropic上市",
+        "summary": "【高盛CEO：AI基建融资需求依旧旺盛 市场整体环境仍然有利Anthropic上市】高盛首席执行官大卫·所罗门周一接受采访时表示，尽管近期市场震荡、投资者开始重新评估大规模算力扩产背后潜藏的风险，但人工智能基础设施领域的融资需求依然旺盛。所罗门称，近几周高盛在AI相关资本市场交易中“动作频频”，他预计这一态势还会延续。",
+        "publishedAt": "2026-11-10 15:11:43",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103927279738.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "AI算力"
         ],
-        "tickers": [
-          "东方新能(002310)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": ""
       },
       {
-        "title": "中国科传:中国科技出版传媒股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回并继续进行现金管理的公告",
-        "summary": "中国科传(601858)：中国科传:中国科技出版传媒股份有限公司关于使用部分闲置募集资金进行现金管理到期赎回并继续进行现金管理的公告",
+        "title": "博威合金:-博威合金:2026年第三季度业绩说明会投资者关系活动记录表",
+        "summary": "博威合金(601137)：博威合金:-博威合金:2026年第三季度业绩说明会投资者关系活动记录表",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601858/AN202611091831560258.html",
+        "url": "https://data.eastmoney.com/notices/detail/601137/AN202611101831583002.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中国科传(601858)"
+          "博威合金(601137)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "调研活动"
       },
       {
-        "title": "中国科传:中国科技出版传媒股份有限公司关于召开2026年第三季度业绩说明会的公告",
-        "summary": "中国科传(601858)：中国科传:中国科技出版传媒股份有限公司关于召开2026年第三季度业绩说明会的公告",
+        "title": "中油工程:2026年11月9日投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "summary": "中油工程(600339)：中油工程:2026年11月9日投资者关系活动记录表(2026年第三季度业绩说明会)",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601858/AN202611091831560259.html",
+        "url": "https://data.eastmoney.com/notices/detail/600339/AN202611101831583000.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中国科传(601858)"
+          "中油工程(600339)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "调研活动"
       },
       {
-        "title": "均普智能:宁波均普智能制造股份有限公司关于以集中竞价交易方式回购股份方案的公告",
-        "summary": "均普智能(688306)：均普智能:宁波均普智能制造股份有限公司关于以集中竞价交易方式回购股份方案的公告",
+        "title": "节能风电:IR-2026-003投资者关系活动记录表",
+        "summary": "节能风电(601016)：节能风电:IR-2026-003投资者关系活动记录表",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688306/AN202611091831560099.html",
+        "url": "https://data.eastmoney.com/notices/detail/601016/AN202611101831583005.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "新能源"
         ],
         "tickers": [
-          "均普智能(688306)"
+          "节能风电(601016)"
         ],
         "importance": 1,
-        "noticeType": "回购预案"
+        "noticeType": "调研活动"
       },
       {
-        "title": "AI电力缺口难填！国产燃机迎出海窗口 7股业绩倍增可期(名单)",
-        "summary": "【AI电力缺口难填！国产燃机迎出海窗口 7股业绩倍增可期(名单)】11月9日，AI电力需求推动数据中心抢购二手与翻新涡轮机，美国新机交付要等六年。机构认为，全球燃机订单已超产能四成，国产链正迎来出海窗口。",
-        "publishedAt": "2026-11-10 06:43:54",
+        "title": "明阳智能:投资者关系活动记录表(编号:2026-007)",
+        "summary": "明阳智能(601615)：明阳智能:投资者关系活动记录表(编号:2026-007)",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601615/AN202611101831582994.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "明阳智能(601615)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "淮北矿业:2026年第三季度业绩说明会投资者关系活动记录表",
+        "summary": "淮北矿业(600985)：淮北矿业:2026年第三季度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600985/AN202611101831583003.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "淮北矿业(600985)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "大胜达:浙江大胜达包装股份有限公司2026年第三季度业绩说明会活动记录表",
+        "summary": "大胜达(603687)：大胜达:浙江大胜达包装股份有限公司2026年第三季度业绩说明会活动记录表",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603687/AN202611101831582999.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大胜达(603687)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "亿嘉和:2026年11月份投资者活动记录表_2026年第三季度业绩说明会",
+        "summary": "亿嘉和(603666)：亿嘉和:2026年11月份投资者活动记录表_2026年第三季度业绩说明会",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603666/AN202611101831583015.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "亿嘉和(603666)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "敏芯股份:投资者关系活动记录表(2026年11月3日-11月4日)",
+        "summary": "敏芯股份(688286)：敏芯股份:投资者关系活动记录表(2026年11月3日-11月4日)",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688286/AN202611101831583010.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "敏芯股份(688286)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "健尔康:健尔康医疗科技股份有限公司投资者关系活动记录表",
+        "summary": "健尔康(603205)：健尔康:健尔康医疗科技股份有限公司投资者关系活动记录表",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603205/AN202611101831583006.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "健尔康(603205)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "希荻微:希荻微电子集团股份有限公司投资者关系活动记录表20261102",
+        "summary": "希荻微(688173)：希荻微:希荻微电子集团股份有限公司投资者关系活动记录表20261102",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688173/AN202611101831583009.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "希荻微(688173)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "金发科技:投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "summary": "金发科技(600143)：金发科技:投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600143/AN202611101831583014.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金发科技(600143)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "福田汽车:北汽福田汽车股份有限公司2026年11月5日投资者关系活动记录表",
+        "summary": "福田汽车(600166)：福田汽车:北汽福田汽车股份有限公司2026年11月5日投资者关系活动记录表",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600166/AN202611101831583008.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [
+          "福田汽车(600166)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "摩根士丹利：SpaceX正度过新云高峰迈向机器人与太空基建 维持“增持”评级及目标价300美元",
+        "summary": "【摩根士丹利：SpaceX正度过新云高峰迈向机器人与太空基建 维持“增持”评级及目标价300美元】摩根士丹利发布研报称，SpaceX正度过新云(neocloud)高峰，以每瓦特、每美元、每秒的智能密度优势区分赢家。展望2027年，该行预期公司将深刻转向机器人、网状网络及太空基建。",
+        "publishedAt": "2026-11-10 15:29:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926663866.html",
+        "url": "https://finance.eastmoney.com/a/202611103927287045.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力",
-          "能源"
+          "机器人"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "多方发力稳投资 年末冲刺进行时",
-        "summary": "【多方发力稳投资 年末冲刺进行时】进入四季度，从中央到地方、从财政资金到社会资本，多路力量正在向“稳投资”这一目标集中发力。上海证券报记者注意到，近一个月以来，福建、湖北、青海、吉林、山西、云南、安徽等地召开投资和重大项目建设推进会，聚焦重大项目与“六张网”建设等，加码稳投资。专家在接受记者采访时表示，四季度投资有望边际回升。",
-        "publishedAt": "2026-11-10 06:38:00",
+        "title": "数据库管理软件厂商Databricks未来三年将在荷兰投资5亿美元",
+        "summary": "数据库管理软件厂商Databricks未来三年将在荷兰投资5亿美元。",
+        "publishedAt": "2026-11-10 15:25:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103926625964.html",
+        "url": "https://finance.eastmoney.com/a/202611103927286790.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "第九届进博会闭幕 五项核心数据创历史新高",
+        "summary": "【第九届进博会闭幕 五项核心数据创历史新高】本届进博会五项核心数据创历史新高。参展企业数量达4142家；整体展览展示面积首次突破44万平方米，其中企业展面积达37万平方米；参展的世界500强和行业龙头企业数量超过300家；全球首发、亚洲首秀、中国首展的代表性展品数量达485项。按一年计意向成交额854.5亿美元，较上届增长2.3%。",
+        "publishedAt": "2026-11-10 15:13:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103927280822.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -117213,7 +117241,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -117226,15 +117254,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-10 07:00:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 12 条；主题映射集中在 金融、AI算力、能源。",
+        "generatedAt": "2026-11-10 15:38:44",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 机器人、军工、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "主线候选：煤炭开采加工、元件、通信设备；首看 煤炭开采加工 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：机器人、军工、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -117330,7 +117358,7 @@
               "今日炸板 44 只，追高前先看前排封单和回封质量。",
               "今日跌停 1 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：*ST未名:关于向控股子公司提供财务资助额度的公告；东方新能:关于公司股票交易异常波动的公告。",
+              "新闻/公告风险：划定四大方面 卫星导航定位基准站网强制性国标出台；国债期货收盘集体下跌。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
