@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-10",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-10 23:48:35",
+    "tradeDate": "2026-11-11",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-11 00:19:15",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -135203,7 +135203,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -135366,41 +135367,189 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-10",
-    "generatedAt": "2026-11-10 23:49:43",
+    "tradeDate": "2026-11-11",
+    "generatedAt": "2026-11-11 00:20:09",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: cannot convert float NaN to integer"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 低空经济、能源、半导体。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
-        "name": "低空经济",
-        "score": 4,
+        "name": "金融",
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 2,
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "军工",
-        "score": 2,
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "长江通信:立信会计师事务所(特殊普通合伙)关于武汉长江通信产业集团股份有限公司2026年半年度报告问询函的回复",
+        "summary": "长江通信(600345)：长江通信:立信会计师事务所(特殊普通合伙)关于武汉长江通信产业集团股份有限公司2026年半年度报告问询函的回复",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600345/AN202611101831599881.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "长江通信(600345)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "长江通信:致同会计师事务所(特殊普通合伙)关于武汉长江通信产业集团股份有限公司2026年半年度报告问询函的回复",
+        "summary": "长江通信(600345)：长江通信:致同会计师事务所(特殊普通合伙)关于武汉长江通信产业集团股份有限公司2026年半年度报告问询函的回复",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600345/AN202611101831599879.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "长江通信(600345)"
+        ],
+        "importance": 1,
+        "noticeType": "会计师事务所问询函回复公告"
+      },
+      {
+        "title": "长江通信:长江通信关于上海证券交易所对公司2026年半年度报告的信息披露监管问询函的回复公告",
+        "summary": "长江通信(600345)：长江通信:长江通信关于上海证券交易所对公司2026年半年度报告的信息披露监管问询函的回复公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600345/AN202611101831599880.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "长江通信(600345)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "永悦科技:永悦科技关于控股股东收到《执行裁定书》《执行告知书》的公告",
+        "summary": "永悦科技(603879)：永悦科技:永悦科技关于控股股东收到《执行裁定书》《执行告知书》的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603879/AN202611101831598524.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "永悦科技(603879)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "倍轻松:关于公司银行账户部分资金被冻结的公告",
+        "summary": "倍轻松(688793)：倍轻松:关于公司银行账户部分资金被冻结的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688793/AN202611101831596713.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "倍轻松(688793)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "长园集团:关于涉及诉讼事项进展的公告",
+        "summary": "长园集团(600525)：长园集团:关于涉及诉讼事项进展的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600525/AN202611101831596530.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "长园集团(600525)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "华业香料:关于最近五年被证券监管部门和证券交易所采取监管措施或处罚及整改情况的公告",
+        "summary": "华业香料(300886)：华业香料:关于最近五年被证券监管部门和证券交易所采取监管措施或处罚及整改情况的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300886/AN202611101831596448.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "华业香料(300886)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "华信永道：亚米级卫星遥感数据在国土、住建等领域均具备应用空间",
+        "summary": "【华信永道：亚米级卫星遥感数据在国土、住建等领域均具备应用空间】华信永道发布投资者关系活动记录表，公司与长光卫星技术股份有限公司共同设立合资公司吉林省永道长光星图智能科技有限公司，合资公司现阶段聚焦于金融机构的畜牧贷、种植贷科技监管服务，后续将根据业务进展逐步拓展其他卫星遥感应用领域。",
+        "publishedAt": "2026-11-11 00:03:04",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113927699843.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "军工",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
       {
         "title": "法国外长称美伊局势升级风险“并未完全排除”",
         "summary": "【法国外长称美伊局势升级风险“并未完全排除”】法国外长巴罗10日说，美国和伊朗之间局势升级的风险“并未完全排除”。巴罗当天在法国首都巴黎参加七国集团外长会后接受媒体采访时作出上述表态。他表示，法方支持各方为缓和局势所作努力，特别是支持地区国家推动霍尔木兹海峡恢复通航，并通过政治途径解决问题，避免再次发生军事冲突。",
@@ -135418,217 +135567,95 @@
         "noticeType": ""
       },
       {
-        "title": "洲际交易所纽约可可期货下跌7% 至每公吨4764美元",
-        "summary": "洲际交易所（ICE）纽约可可期货下跌7%，至每公吨4764美元。",
-        "publishedAt": "2026-11-10 23:10:26",
+        "title": "东吴证券:东吴证券股份有限公司关于上海证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产暨关联交易事项会议安排的公告",
+        "summary": "东吴证券(601555)：东吴证券:东吴证券股份有限公司关于上海证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产暨关联交易事项会议安排的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601555/AN202611101831597987.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "东吴证券(601555)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
+      },
+      {
+        "title": "久日新材:天津久日新材料股份有限公司关于联合投资人共同对外投资暨收购IgnitionNewMidcoB.V.100%股权的公告",
+        "summary": "久日新材(688199)：久日新材:天津久日新材料股份有限公司关于联合投资人共同对外投资暨收购IgnitionNewMidcoB.V.100%股权的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688199/AN202611101831596976.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "久日新材(688199)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "长园集团:关于召开2026年第三季度业绩说明会的公告",
+        "summary": "长园集团(600525)：长园集团:关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600525/AN202611101831596529.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长园集团(600525)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "华业香料:关于以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "华业香料(300886)：华业香料:关于以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300886/AN202611101831596416.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华业香料(300886)"
+        ],
+        "importance": 1,
+        "noticeType": "获得补贴（资助）"
+      },
+      {
+        "title": "华业香料:未来三年(2026-2028年)股东分红回报规划",
+        "summary": "华业香料(300886)：华业香料:未来三年(2026-2028年)股东分红回报规划",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300886/AN202611101831596411.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "华业香料(300886)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "波音10月获得订单165架 交付737飞机33架、787飞机11架",
+        "summary": "波音10月获得订单165架，交付737飞机33架、787飞机11架。",
+        "publishedAt": "2026-11-11 00:02:39",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927678651.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "汉嘉数智:董事会关于本次交易不构成《上市公司重大资产重组管理办法》第十三条规定的重组上市情形的说明",
-        "summary": "汉嘉数智(300746)：汉嘉数智:董事会关于本次交易不构成《上市公司重大资产重组管理办法》第十三条规定的重组上市情形的说明",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300746/AN202611101831596413.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汉嘉数智(300746)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "中触媒:中触媒新材料股份有限公司投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "summary": "中触媒(688267)：中触媒:中触媒新材料股份有限公司投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688267/AN202611101831583922.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中触媒(688267)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "博威合金:-博威合金:2026年第三季度业绩说明会投资者关系活动记录表",
-        "summary": "博威合金(601137)：博威合金:-博威合金:2026年第三季度业绩说明会投资者关系活动记录表",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601137/AN202611101831583002.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博威合金(601137)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中油工程:2026年11月9日投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "summary": "中油工程(600339)：中油工程:2026年11月9日投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600339/AN202611101831583000.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中油工程(600339)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "博杰股份:2026年11月10日投资者关系活动记录表",
-        "summary": "博杰股份(002975)：博杰股份:2026年11月10日投资者关系活动记录表",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002975/AN202611101831600340.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "博杰股份(002975)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "立华股份:2026年11月10日投资者关系活动记录表",
-        "summary": "立华股份(300761)：立华股份:2026年11月10日投资者关系活动记录表",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300761/AN202611101831599565.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "立华股份(300761)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "盛龙股份:001257盛龙股份投资者关系管理信息20261110",
-        "summary": "盛龙股份(001257)：盛龙股份:001257盛龙股份投资者关系管理信息20261110",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001257/AN202611101831599564.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "盛龙股份(001257)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "格林美:2026年11月10日投资者关系活动记录表",
-        "summary": "格林美(002340)：格林美:2026年11月10日投资者关系活动记录表",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002340/AN202611101831599042.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "格林美(002340)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "300660江苏雷利投资者关系管理信息20261110",
-        "summary": "江苏雷利(300660)：300660江苏雷利投资者关系管理信息20261110",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300660/AN202611101831599043.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "江苏雷利(300660)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "300692中赋科技投资者关系管理信息20261110",
-        "summary": "中赋科技(300692)：300692中赋科技投资者关系管理信息20261110",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300692/AN202611101831597271.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中赋科技(300692)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "海能达:2026年11月10日投资者关系活动记录表",
-        "summary": "海能达(002583)：海能达:2026年11月10日投资者关系活动记录表",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002583/AN202611101831596785.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海能达(002583)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000893亚钾国际投资者关系管理信息20261110",
-        "summary": "亚钾国际(000893)：000893亚钾国际投资者关系管理信息20261110",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000893/AN202611101831596778.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "亚钾国际(000893)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "GE Vernova将投资3450万美元扩建什里夫波特工厂以满足不断增长的电网基础设施需求",
-        "summary": "GEVernova将投资3450万美元扩建什里夫波特工厂以满足不断增长的电网基础设施需求。",
-        "publishedAt": "2026-11-10 23:31:10",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927690154.html",
+        "url": "https://finance.eastmoney.com/a/202611113927699433.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -135638,28 +135665,32 @@
         "noticeType": ""
       },
       {
-        "title": "财政部在加拿大成功发行40亿元人民币绿色主权债券",
-        "summary": "【财政部在加拿大成功发行40亿元人民币绿色主权债券】据财政部消息，11月9日，中华人民共和国财政部代表中央政府在加拿大成功发行了40亿元人民币绿色主权债券。其中，3年期20亿元，发行利率为1.4%；5年期20亿元，发行利率为1.5%。本次人民币绿色主权债券受到市场热烈欢迎，国际投资者认购踊跃，总认购金额540.4亿元，是发行金额的13.5倍。本次发行是财政…",
-        "publishedAt": "2026-11-10 23:27:35",
+        "title": "同力股份：前三季度按照收入口径统计新能源产品出货量约2300台",
+        "summary": "【同力股份：前三季度按照收入口径统计新能源产品出货量约2300台】同力股份发布投资者关系活动记录表，目前，海外矿产资源主要集中在非洲、东南亚、中亚、蒙古、中南美。公司在这些区域有1-2个经销商。公司前三季度按照收入口径统计新能源产品出货量约2300台，其中装配线控底盘用于无人驾驶的约1300多台，占新能源产品的57%以上。",
+        "publishedAt": "2026-11-11 00:02:05",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927686668.html",
+        "url": "https://finance.eastmoney.com/a/202611113927699545.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "新能源",
+          "汽车链",
+          "能源"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "联邦快递升级中美航线网络 每周新增四个波音777货机航班",
-        "summary": "【联邦快递升级中美航线网络 每周新增四个波音777货机航班】第九届进博会期间，联邦快递宣布进一步增强中美货运网络布局，每周新增四个连接中国上海、广州与美国的航班，采用波音777货机执飞，助力半导体、人工智能基础设施及高端电商等行业发展，支持企业备战运输旺季。",
-        "publishedAt": "2026-11-10 23:44:25",
+        "title": "杰理科技：JL280N/JL380N/JL681N端侧AI芯片已经实现客户批量立项导入",
+        "summary": "【杰理科技：JL280N/JL380N/JL681N端侧AI芯片已经实现客户批量立项导入】杰理科技发布投资者关系活动记录表，公司JL280N/JL380N/JL681N端侧AI芯片已经实现客户批量立项导入，芯片集成自研NPU单元，采用双核CPU+DSP异构架构，算力和功耗实现较好平衡，支持AI降噪、人声分离、本地语音识别等能力，同时端云协同可灵活适配国内外…",
+        "publishedAt": "2026-11-11 00:00:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927688829.html",
+        "url": "https://finance.eastmoney.com/a/202611113927698584.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [
           "半导体",
           "AI算力"
@@ -135669,14 +135700,14 @@
         "noticeType": ""
       },
       {
-        "title": "英国海事贸易行动办公室表示：已收到关于11月10日在阿曼利马附近发生一起事件的报告",
-        "summary": "英国海事贸易行动办公室（UKMTO）表示，已收到关于11月10日在阿曼利马附近发生一起事件的报告。",
-        "publishedAt": "2026-11-10 23:42:56",
+        "title": "博杰股份：鼎泰芯源磷化铟衬底在手订单约20万片",
+        "summary": "【博杰股份：鼎泰芯源磷化铟衬底在手订单约20万片】博杰股份(002975.SZ)发布投资者关系活动记录表公告，鼎泰芯源4英寸磷化铟衬底自2023年起已实现小批量供货，近年来产品工艺成熟度与交付稳定性得到持续验证，目前已具备6英寸磷化铟衬底的量产水平，8英寸单晶生长技术已进入研发阶段。鼎泰芯源目前磷化铟衬底在手订单合计约20万片，和目前规划产能基本匹配。",
+        "publishedAt": "2026-11-10 23:56:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927692248.html",
+        "url": "https://finance.eastmoney.com/a/202611103927696883.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
@@ -135820,7 +135851,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -135833,15 +135864,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-10 23:49:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 低空经济、能源、半导体。",
+        "generatedAt": "2026-11-11 00:20:09",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：虚拟现实、智能穿戴、机器人概念；首看 虚拟现实 的前排承接和中军量能。",
-              "新闻/公告映射主题：低空经济、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -135872,7 +135903,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-10 23:48:35",
+        "generatedAt": "2026-11-11 00:19:15",
         "summary": "上午情绪分 100，涨停 93 家，跌停 0 家，炸板 19 家，连板 20 家，最高 7 板。",
         "sections": [
           {
@@ -135911,7 +135942,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-10 23:48:35",
+        "generatedAt": "2026-11-11 00:19:15",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -135937,7 +135968,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：法国外长称美伊局势升级风险“并未完全排除”；洲际交易所纽约可可期货下跌7% 至每公吨4764美元。",
+              "新闻/公告风险：长江通信:立信会计师事务所(特殊普通合伙)关于武汉长江通信产业集团股份有限公司2026年半年度报告问询函的回复；长江通信:致同会计师事务所(特殊普通合伙)关于武汉长江通信产业集团股份有限公司2026年半年度报告问询函的回复。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
