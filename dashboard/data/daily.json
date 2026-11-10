@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-11",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-11 00:19:15",
+    "generatedAt": "2026-11-11 04:23:32",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -138105,7 +138105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -138269,44 +138270,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-11",
-    "generatedAt": "2026-11-11 00:20:09",
+    "generatedAt": "2026-11-11 04:24:07",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 14,
+        "name": "能源",
+        "score": 17,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "金融",
         "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
-        "score": 3,
+        "score": 8,
         "isFocusBoard": false
       },
       {
@@ -138435,37 +138416,20 @@
         "noticeType": "其他"
       },
       {
-        "title": "华信永道：亚米级卫星遥感数据在国土、住建等领域均具备应用空间",
-        "summary": "【华信永道：亚米级卫星遥感数据在国土、住建等领域均具备应用空间】华信永道发布投资者关系活动记录表，公司与长光卫星技术股份有限公司共同设立合资公司吉林省永道长光星图智能科技有限公司，合资公司现阶段聚焦于金融机构的畜牧贷、种植贷科技监管服务，后续将根据业务进展逐步拓展其他卫星遥感应用领域。",
-        "publishedAt": "2026-11-11 00:03:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113927699843.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "军工",
-          "金融"
+        "title": "301510固高科技投资者关系管理信息20261110",
+        "summary": "固高科技(301510)：301510固高科技投资者关系管理信息20261110",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301510/AN202611111831601562.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "固高科技(301510)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "法国外长称美伊局势升级风险“并未完全排除”",
-        "summary": "【法国外长称美伊局势升级风险“并未完全排除”】法国外长巴罗10日说，美国和伊朗之间局势升级的风险“并未完全排除”。巴罗当天在法国首都巴黎参加七国集团外长会后接受媒体采访时作出上述表态。他表示，法方支持各方为缓和局势所作努力，特别是支持地区国家推动霍尔木兹海峡恢复通航，并通过政治途径解决问题，避免再次发生军事冲突。",
-        "publishedAt": "2026-11-10 23:40:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927691697.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "低空经济"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
       },
       {
         "title": "东吴证券:东吴证券股份有限公司关于上海证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产暨关联交易事项会议安排的公告",
@@ -138534,49 +138498,16 @@
         "noticeType": "获得补贴（资助）"
       },
       {
-        "title": "华业香料:未来三年(2026-2028年)股东分红回报规划",
-        "summary": "华业香料(300886)：华业香料:未来三年(2026-2028年)股东分红回报规划",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300886/AN202611101831596411.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华业香料(300886)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "波音10月获得订单165架 交付737飞机33架、787飞机11架",
-        "summary": "波音10月获得订单165架，交付737飞机33架、787飞机11架。",
-        "publishedAt": "2026-11-11 00:02:39",
+        "title": "西门子能源计划在2030年底之前回购最高90亿欧元的股票",
+        "summary": "西门子能源计划在2030年底之前回购最高90亿欧元的股票。",
+        "publishedAt": "2026-11-11 03:21:21",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113927699433.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "同力股份：前三季度按照收入口径统计新能源产品出货量约2300台",
-        "summary": "【同力股份：前三季度按照收入口径统计新能源产品出货量约2300台】同力股份发布投资者关系活动记录表，目前，海外矿产资源主要集中在非洲、东南亚、中亚、蒙古、中南美。公司在这些区域有1-2个经销商。公司前三季度按照收入口径统计新能源产品出货量约2300台，其中装配线控底盘用于无人驾驶的约1300多台，占新能源产品的57%以上。",
-        "publishedAt": "2026-11-11 00:02:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113927699545.html",
+        "url": "https://finance.eastmoney.com/a/202611113927723041.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "新能源",
-          "汽车链",
+          "金融",
           "能源"
         ],
         "tickers": [],
@@ -138584,34 +138515,79 @@
         "noticeType": ""
       },
       {
-        "title": "杰理科技：JL280N/JL380N/JL681N端侧AI芯片已经实现客户批量立项导入",
-        "summary": "【杰理科技：JL280N/JL380N/JL681N端侧AI芯片已经实现客户批量立项导入】杰理科技发布投资者关系活动记录表，公司JL280N/JL380N/JL681N端侧AI芯片已经实现客户批量立项导入，芯片集成自研NPU单元，采用双核CPU+DSP异构架构，算力和功耗实现较好平衡，支持AI降噪、人声分离、本地语音识别等能力，同时端云协同可灵活适配国内外…",
-        "publishedAt": "2026-11-11 00:00:11",
+        "title": "Kalshi拟12月8日推出追踪美国CPI及核心通胀的期货",
+        "summary": "【Kalshi拟12月8日推出追踪美国CPI及核心通胀的期货】Kalshi传播主管ElisabethDiana表示，该公司计划于12月8日推出追踪美国消费者价格指数(CPI)和剔除食品及能源的核心通胀指标的新期货合约。这些合约将类似于传统期货，设有到期日，面向机构投资者，而非该公司今年早些时候开始提供的所谓永续合约。",
+        "publishedAt": "2026-11-11 02:40:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113927698584.html",
+        "url": "https://finance.eastmoney.com/a/202611113927721724.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体",
-          "AI算力"
+          "能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "博杰股份：鼎泰芯源磷化铟衬底在手订单约20万片",
-        "summary": "【博杰股份：鼎泰芯源磷化铟衬底在手订单约20万片】博杰股份(002975.SZ)发布投资者关系活动记录表公告，鼎泰芯源4英寸磷化铟衬底自2023年起已实现小批量供货，近年来产品工艺成熟度与交付稳定性得到持续验证，目前已具备6英寸磷化铟衬底的量产水平，8英寸单晶生长技术已进入研发阶段。鼎泰芯源目前磷化铟衬底在手订单合计约20万片，和目前规划产能基本匹配。",
-        "publishedAt": "2026-11-10 23:56:01",
+        "title": "美国国债遭遇猛烈抛售潮 通胀数据和美联储鹰派言论动摇利率押注",
+        "summary": "【美国国债遭遇猛烈抛售潮 通胀数据和美联储鹰派言论动摇利率押注】因通胀高于预期，加之美联储官员警告可能加大升息力度，美国债市遭遇2025年4月以来最严重抛售潮之一。周二，对美联储政策变动比长期债券更敏感的2年期美国国债收益率一度飙升21个基点至4.77%，势将创下特朗普对等关税措施引发全球市场剧震以来最大单日升幅。",
+        "publishedAt": "2026-11-11 02:23:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927696883.html",
+        "url": "https://finance.eastmoney.com/a/202611113927721296.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [],
         "tickers": [],
         "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)",
+        "summary": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 nan，预期 nan，前值 96.32。",
+        "publishedAt": "2026-11-11 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月EIA月报预估-当年WTI原油价格(美元/桶)",
+        "summary": "美国11月EIA月报预估-当年WTI原油价格(美元/桶)；公布 nan，预期 nan，前值 88.21。",
+        "publishedAt": "2026-11-11 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月10日10年期国债竞拍-总金额(亿美元)",
+        "summary": "美国11月10日10年期国债竞拍-总金额(亿美元)；公布 nan，预期 nan，前值 390.0。",
+        "publishedAt": "2026-11-11 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -138765,15 +138741,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-11 00:20:09",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 9 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-11-11 04:24:07",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：虚拟现实、智能穿戴、机器人概念；首看 虚拟现实 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -138804,7 +138780,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-11 00:19:15",
+        "generatedAt": "2026-11-11 04:23:32",
         "summary": "上午情绪分 100，涨停 93 家，跌停 0 家，炸板 19 家，连板 20 家，最高 7 板。",
         "sections": [
           {
@@ -138843,7 +138819,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-11 00:19:15",
+        "generatedAt": "2026-11-11 04:23:32",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
