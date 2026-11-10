@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-10",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-10 19:48:54",
+    "generatedAt": "2026-11-10 23:48:35",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -138105,7 +138105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -138269,82 +138270,85 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-10",
-    "generatedAt": "2026-11-10 19:49:46",
+    "generatedAt": "2026-11-10 23:49:43",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: cannot convert float NaN to integer"
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 AI算力、金融、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 低空经济、能源、半导体。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 9,
+        "name": "低空经济",
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 5,
+        "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "军工",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "百邦科技:关于向特定对象发行股票的审核问询函回复等相关文件更新的提示性公告",
-        "summary": "百邦科技(300736)：百邦科技:关于向特定对象发行股票的审核问询函回复等相关文件更新的提示性公告",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300736/AN202611101831594780.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "法国外长称美伊局势升级风险“并未完全排除”",
+        "summary": "【法国外长称美伊局势升级风险“并未完全排除”】法国外长巴罗10日说，美国和伊朗之间局势升级的风险“并未完全排除”。巴罗当天在法国首都巴黎参加七国集团外长会后接受媒体采访时作出上述表态。他表示，法方支持各方为缓和局势所作努力，特别是支持地区国家推动霍尔木兹海峡恢复通航，并通过政治途径解决问题，避免再次发生军事冲突。",
+        "publishedAt": "2026-11-10 23:40:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103927691697.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "百邦科技(300736)"
+        "themes": [
+          "低空经济"
         ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": ""
       },
       {
-        "title": "百邦科技:发行人及保荐机构关于北京百华悦邦科技股份有限公司申请向特定对象发行股票的审核问询函之回复报告(修订稿)",
-        "summary": "百邦科技(300736)：百邦科技:发行人及保荐机构关于北京百华悦邦科技股份有限公司申请向特定对象发行股票的审核问询函之回复报告(修订稿)",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300736/AN202611101831594776.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "洲际交易所纽约可可期货下跌7% 至每公吨4764美元",
+        "summary": "洲际交易所（ICE）纽约可可期货下跌7%，至每公吨4764美元。",
+        "publishedAt": "2026-11-10 23:10:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103927678651.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "百邦科技(300736)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "保荐代表人（机构）变更"
+        "noticeType": ""
       },
       {
-        "title": "百邦科技:安永华明会计师事务所(特殊普通合伙)关于北京百华悦邦科技股份有限公司申请向特定对象发行股票的审核问询函回复的专项说明(修订稿)",
-        "summary": "百邦科技(300736)：百邦科技:安永华明会计师事务所(特殊普通合伙)关于北京百华悦邦科技股份有限公司申请向特定对象发行股票的审核问询函回复的专项说明(修订稿)",
+        "title": "汉嘉数智:董事会关于本次交易不构成《上市公司重大资产重组管理办法》第十三条规定的重组上市情形的说明",
+        "summary": "汉嘉数智(300746)：汉嘉数智:董事会关于本次交易不构成《上市公司重大资产重组管理办法》第十三条规定的重组上市情形的说明",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300736/AN202611101831594779.html",
+        "url": "https://data.eastmoney.com/notices/detail/300746/AN202611101831596413.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "百邦科技(300736)"
+          "汉嘉数智(300746)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "专项说明/独立意见"
       },
       {
         "title": "中触媒:中触媒新材料股份有限公司投资者关系活动记录表(2026年第三季度业绩说明会)",
@@ -138395,111 +138399,172 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "博盈特焊:2026年11月10日投资者关系活动记录表",
-        "summary": "博盈特焊(301468)：博盈特焊:2026年11月10日投资者关系活动记录表",
+        "title": "博杰股份:2026年11月10日投资者关系活动记录表",
+        "summary": "博杰股份(002975)：博杰股份:2026年11月10日投资者关系活动记录表",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301468/AN202611101831595745.html",
+        "url": "https://data.eastmoney.com/notices/detail/002975/AN202611101831600340.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "博盈特焊(301468)"
+          "博杰股份(002975)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "新强联:关于控股股东增持股份触及1%整数倍的提示性公告",
-        "summary": "新强联(300850)：新强联:关于控股股东增持股份触及1%整数倍的提示性公告",
+        "title": "立华股份:2026年11月10日投资者关系活动记录表",
+        "summary": "立华股份(300761)：立华股份:2026年11月10日投资者关系活动记录表",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300850/AN202611101831595474.html",
+        "url": "https://data.eastmoney.com/notices/detail/300761/AN202611101831599565.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "新强联(300850)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "云南锗业:2026年11月10日投资者关系活动记录表",
-        "summary": "云南锗业(002428)：云南锗业:2026年11月10日投资者关系活动记录表",
-        "publishedAt": "2026-11-10",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002428/AN202611101831595158.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "云南锗业(002428)"
+          "立华股份(300761)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "宝地矿业:新疆宝地矿业股份有限公司投资者关系活动记录表2026-008",
-        "summary": "宝地矿业(601121)：宝地矿业:新疆宝地矿业股份有限公司投资者关系活动记录表2026-008",
+        "title": "盛龙股份:001257盛龙股份投资者关系管理信息20261110",
+        "summary": "盛龙股份(001257)：盛龙股份:001257盛龙股份投资者关系管理信息20261110",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601121/AN202611101831593440.html",
+        "url": "https://data.eastmoney.com/notices/detail/001257/AN202611101831599564.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "宝地矿业(601121)"
+          "盛龙股份(001257)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "晋西车轴:2026-008晋西车轴投资者关系活动记录表-2026.11.10",
-        "summary": "晋西车轴(600495)：晋西车轴:2026-008晋西车轴投资者关系活动记录表-2026.11.10",
+        "title": "格林美:2026年11月10日投资者关系活动记录表",
+        "summary": "格林美(002340)：格林美:2026年11月10日投资者关系活动记录表",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600495/AN202611101831593171.html",
+        "url": "https://data.eastmoney.com/notices/detail/002340/AN202611101831599042.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "晋西车轴(600495)"
+          "格林美(002340)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "杰理科技:投资者关系活动记录表",
-        "summary": "杰理科技(920138)：杰理科技:投资者关系活动记录表",
+        "title": "300660江苏雷利投资者关系管理信息20261110",
+        "summary": "江苏雷利(300660)：300660江苏雷利投资者关系管理信息20261110",
         "publishedAt": "2026-11-10",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920138/AN202611101831594817.html",
+        "url": "https://data.eastmoney.com/notices/detail/300660/AN202611101831599043.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "杰理科技(920138)"
+          "江苏雷利(300660)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "SEC文件：谷歌、英伟达等七家公司承诺向Anthropic投资260亿美元",
-        "summary": "【SEC文件：谷歌、英伟达等七家公司承诺向Anthropic投资260亿美元】Anthropic文件显示，谷歌、英伟达、AMD、博通、美光、微软及台积电合作伙伴公司已同意通过同步私募方式，合计认购260亿美元的Anthropic无投票权普通股，认购价格与IPO发行价相同。",
-        "publishedAt": "2026-11-10 19:44:00",
+        "title": "300692中赋科技投资者关系管理信息20261110",
+        "summary": "中赋科技(300692)：300692中赋科技投资者关系管理信息20261110",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300692/AN202611101831597271.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中赋科技(300692)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "海能达:2026年11月10日投资者关系活动记录表",
+        "summary": "海能达(002583)：海能达:2026年11月10日投资者关系活动记录表",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002583/AN202611101831596785.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海能达(002583)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000893亚钾国际投资者关系管理信息20261110",
+        "summary": "亚钾国际(000893)：000893亚钾国际投资者关系管理信息20261110",
+        "publishedAt": "2026-11-10",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000893/AN202611101831596778.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "亚钾国际(000893)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "GE Vernova将投资3450万美元扩建什里夫波特工厂以满足不断增长的电网基础设施需求",
+        "summary": "GEVernova将投资3450万美元扩建什里夫波特工厂以满足不断增长的电网基础设施需求。",
+        "publishedAt": "2026-11-10 23:31:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927479659.html",
+        "url": "https://finance.eastmoney.com/a/202611103927690154.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "财政部在加拿大成功发行40亿元人民币绿色主权债券",
+        "summary": "【财政部在加拿大成功发行40亿元人民币绿色主权债券】据财政部消息，11月9日，中华人民共和国财政部代表中央政府在加拿大成功发行了40亿元人民币绿色主权债券。其中，3年期20亿元，发行利率为1.4%；5年期20亿元，发行利率为1.5%。本次人民币绿色主权债券受到市场热烈欢迎，国际投资者认购踊跃，总认购金额540.4亿元，是发行金额的13.5倍。本次发行是财政…",
+        "publishedAt": "2026-11-10 23:27:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103927686668.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "联邦快递升级中美航线网络 每周新增四个波音777货机航班",
+        "summary": "【联邦快递升级中美航线网络 每周新增四个波音777货机航班】第九届进博会期间，联邦快递宣布进一步增强中美货运网络布局，每周新增四个连接中国上海、广州与美国的航班，采用波音777货机执飞，助力半导体、人工智能基础设施及高端电商等行业发展，支持企业备战运输旺季。",
+        "publishedAt": "2026-11-10 23:44:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611103927688829.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
         "themes": [
+          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -138507,73 +138572,11 @@
         "noticeType": ""
       },
       {
-        "title": "智谱：拟斥资不超40亿港元回购H股",
-        "summary": "【智谱：拟斥资不超40亿港元回购H股】11月10日，智谱公告称，公司拟根据2026年6月22日年度股东会授予的购回H股一般授权，实施股份购回计划，预期购回总金额上限为40亿港元，购回H股总数不超过本公告日期公司已发行股份总数的1%。",
-        "publishedAt": "2026-11-10 19:26:10",
+        "title": "英国海事贸易行动办公室表示：已收到关于11月10日在阿曼利马附近发生一起事件的报告",
+        "summary": "英国海事贸易行动办公室（UKMTO）表示，已收到关于11月10日在阿曼利马附近发生一起事件的报告。",
+        "publishedAt": "2026-11-10 23:42:56",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927467293.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "Anthropic未来算力及基础设施承诺支出达9009亿美元",
-        "summary": "【Anthropic未来算力及基础设施承诺支出达9009亿美元】Anthropic公司IPO文件显示，截至2026年9月30日及此后，公司签订的采购承诺及租赁协议总支出约9009亿美元，其中4516亿美元预计在2030年底前发生，其余大部分预计在2031年至2045年发生。未来12个月到期的相关承诺约707亿美元。",
-        "publishedAt": "2026-11-10 19:44:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927479816.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "SEC文件：Anthropic拟发行8.25亿股股票 IPO定价区间为70至78美元",
-        "summary": "【SEC文件：Anthropic拟发行8.25亿股股票 IPO定价区间为70至78美元】Anthropic向SEC提交的最新文件显示，公司计划首次公开发行8.25亿股A类普通股，发行价格区间为每股70至78美元，并申请在纳斯达克上市，股票代码为ANT。其中，公司发行8.0135亿股，现有股东出售2365万股。",
-        "publishedAt": "2026-11-10 19:43:32",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927479784.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "伊朗伊斯兰革命卫队公布其新建“导弹城”画面",
-        "summary": "【伊朗伊斯兰革命卫队公布其新建“导弹城”画面】当地时间10日，伊朗伊斯兰革命卫队发布视频，公布了其新建的“导弹城”设施。",
-        "publishedAt": "2026-11-10 19:42:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927477752.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "军工"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "Anthropic：计划在纳斯达克IPO",
-        "summary": "【Anthropic：计划在纳斯达克IPO】Anthropic表示，计划在纳斯达克IPO，目标市值约1万亿美元。",
-        "publishedAt": "2026-11-10 19:41:27",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611103927478056.html",
+        "url": "https://finance.eastmoney.com/a/202611103927692248.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -138733,15 +138736,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-10 19:49:46",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 AI算力、金融、军工。",
+        "generatedAt": "2026-11-10 23:49:43",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 低空经济、能源、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：虚拟现实、智能穿戴、机器人概念；首看 虚拟现实 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：低空经济、能源、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -138772,7 +138775,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-10 19:48:54",
+        "generatedAt": "2026-11-10 23:48:35",
         "summary": "上午情绪分 100，涨停 93 家，跌停 0 家，炸板 19 家，连板 20 家，最高 7 板。",
         "sections": [
           {
@@ -138811,7 +138814,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-10 19:48:54",
+        "generatedAt": "2026-11-10 23:48:35",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -138837,7 +138840,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 国企改革，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：百邦科技:关于向特定对象发行股票的审核问询函回复等相关文件更新的提示性公告；百邦科技:发行人及保荐机构关于北京百华悦邦科技股份有限公司申请向特定对象发行股票的审核问询函之回复报告(修订稿)。",
+              "新闻/公告风险：法国外长称美伊局势升级风险“并未完全排除”；洲际交易所纽约可可期货下跌7% 至每公吨4764美元。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
