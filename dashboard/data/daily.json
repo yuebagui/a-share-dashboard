@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-11",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-11 04:23:32",
+    "generatedAt": "2026-11-11 04:28:53",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -138270,14 +138270,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-11",
-    "generatedAt": "2026-11-11 04:24:07",
+    "generatedAt": "2026-11-11 04:29:28",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
     "themes": [
       {
         "name": "能源",
-        "score": 17,
+        "score": 15,
         "isFocusBoard": false
       },
       {
@@ -138293,6 +138293,11 @@
       {
         "name": "有色稀土",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -138531,20 +138536,6 @@
         "noticeType": ""
       },
       {
-        "title": "美国国债遭遇猛烈抛售潮 通胀数据和美联储鹰派言论动摇利率押注",
-        "summary": "【美国国债遭遇猛烈抛售潮 通胀数据和美联储鹰派言论动摇利率押注】因通胀高于预期，加之美联储官员警告可能加大升息力度，美国债市遭遇2025年4月以来最严重抛售潮之一。周二，对美联储政策变动比长期债券更敏感的2年期美国国债收益率一度飙升21个基点至4.77%，势将创下特朗普对等关税措施引发全球市场剧震以来最大单日升幅。",
-        "publishedAt": "2026-11-11 02:23:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113927721296.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)",
         "summary": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 nan，预期 nan，前值 96.32。",
         "publishedAt": "2026-11-11 01:00",
@@ -138579,6 +138570,20 @@
       {
         "title": "美国11月10日10年期国债竞拍-总金额(亿美元)",
         "summary": "美国11月10日10年期国债竞拍-总金额(亿美元)；公布 nan，预期 nan，前值 390.0。",
+        "publishedAt": "2026-11-11 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月10日10年期国债竞拍-中标利率(%)",
+        "summary": "美国11月10日10年期国债竞拍-中标利率(%)；公布 nan，预期 nan，前值 5.3。",
         "publishedAt": "2026-11-11 02:00",
         "source": "百度财经日历",
         "url": "",
@@ -138741,8 +138746,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-11 04:24:07",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
+        "generatedAt": "2026-11-11 04:29:28",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
@@ -138780,7 +138785,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-11 04:23:32",
+        "generatedAt": "2026-11-11 04:28:53",
         "summary": "上午情绪分 100，涨停 93 家，跌停 0 家，炸板 19 家，连板 20 家，最高 7 板。",
         "sections": [
           {
@@ -138819,7 +138824,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-11 04:23:32",
+        "generatedAt": "2026-11-11 04:28:53",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
