@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-11",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-11 04:28:53",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-11 04:28:53",
+    "lastNewsAt": "2026-11-11 14:57:57"
   },
   "indices": [
     {
@@ -138270,24 +138272,34 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-11",
-    "generatedAt": "2026-11-11 04:29:28",
+    "generatedAt": "2026-11-11 14:57:57",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 能源、半导体、金融。",
     "themes": [
       {
         "name": "能源",
-        "score": 15,
+        "score": 13,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 10,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 12,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 8,
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -138297,6 +138309,11 @@
       },
       {
         "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
@@ -138369,56 +138386,100 @@
         "noticeType": "诉讼仲裁"
       },
       {
-        "title": "倍轻松:关于公司银行账户部分资金被冻结的公告",
-        "summary": "倍轻松(688793)：倍轻松:关于公司银行账户部分资金被冻结的公告",
+        "title": "千红制药:千红制药：2026年11月10日投资者关系活动记录表（2026年常州上市公司投资者集体接待日）",
+        "summary": "千红制药(002550)：千红制药:千红制药：2026年11月10日投资者关系活动记录表（2026年常州上市公司投资者集体接待日）",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688793/AN202611101831596713.html",
+        "url": "https://data.eastmoney.com/notices/detail/002550/AN202611111831610896.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "倍轻松(688793)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长园集团:关于涉及诉讼事项进展的公告",
-        "summary": "长园集团(600525)：长园集团:关于涉及诉讼事项进展的公告",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600525/AN202611101831596530.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "长园集团(600525)"
+          "千红制药(002550)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "调研活动"
       },
       {
-        "title": "华业香料:关于最近五年被证券监管部门和证券交易所采取监管措施或处罚及整改情况的公告",
-        "summary": "华业香料(300886)：华业香料:关于最近五年被证券监管部门和证券交易所采取监管措施或处罚及整改情况的公告",
+        "title": "000795英洛华投资者关系管理信息20261111",
+        "summary": "英洛华(000795)：000795英洛华投资者关系管理信息20261111",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300886/AN202611101831596448.html",
+        "url": "https://data.eastmoney.com/notices/detail/000795/AN202611111831610655.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "华业香料(300886)"
+          "英洛华(000795)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "昂利康:002940昂利康投资者关系管理信息20261111",
+        "summary": "昂利康(002940)：昂利康:002940昂利康投资者关系管理信息20261111",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002940/AN202611111831610090.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "昂利康(002940)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "周大生:2026年11月10日投资者关系活动记录表",
+        "summary": "周大生(002867)：周大生:2026年11月10日投资者关系活动记录表",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002867/AN202611111831610091.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "周大生(002867)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "洛轴股份:2026年11月10日投资者关系活动记录表",
+        "summary": "洛轴股份(301699)：洛轴股份:2026年11月10日投资者关系活动记录表",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301699/AN202611111831607736.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "洛轴股份(301699)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000881中广核技投资者关系管理信息20261111",
+        "summary": "中广核技(000881)：000881中广核技投资者关系管理信息20261111",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000881/AN202611111831607533.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中广核技(000881)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "301510固高科技投资者关系管理信息20261110",
@@ -138455,144 +138516,94 @@
         "noticeType": "关联交易"
       },
       {
-        "title": "久日新材:天津久日新材料股份有限公司关于联合投资人共同对外投资暨收购IgnitionNewMidcoB.V.100%股权的公告",
-        "summary": "久日新材(688199)：久日新材:天津久日新材料股份有限公司关于联合投资人共同对外投资暨收购IgnitionNewMidcoB.V.100%股权的公告",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688199/AN202611101831596976.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "久日新材(688199)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "长园集团:关于召开2026年第三季度业绩说明会的公告",
-        "summary": "长园集团(600525)：长园集团:关于召开2026年第三季度业绩说明会的公告",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600525/AN202611101831596529.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "长园集团(600525)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "华业香料:关于以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "华业香料(300886)：华业香料:关于以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300886/AN202611101831596416.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华业香料(300886)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "西门子能源计划在2030年底之前回购最高90亿欧元的股票",
-        "summary": "西门子能源计划在2030年底之前回购最高90亿欧元的股票。",
-        "publishedAt": "2026-11-11 03:21:21",
+        "title": "曹德旺谈创立福耀科技大学初衷：科技与实业应互相成就",
+        "summary": "【曹德旺谈创立福耀科技大学初衷：科技与实业应互相成就】11月11日，在“科学之光·实业之基”科学论坛暨未来科学大奖十周年特展上，福耀集团创始人、终身荣誉董事长曹德旺表示：“2014年，我在美国代顿投资建厂，亲眼见到代顿大学如何与通用电气、艾默森等企业深度合作,将知识创新与产业创新融汇，把实验室与产业一线打通。那一刻，我真切地感受到，教育不能脱离实际，大学必…",
+        "publishedAt": "2026-11-11 14:53:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113927723041.html",
+        "url": "https://finance.eastmoney.com/a/202611113928345943.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "润邦股份：子公司润邦海洋获南美船东AHTS新订单",
+        "summary": "【润邦股份：子公司润邦海洋获南美船东AHTS新订单】据润邦股份消息，近日，子公司润邦海洋在国际海工市场开拓上再迎突破，成功与南美船东签订一艘三用工作船（AHTS）建造合同。",
+        "publishedAt": "2026-11-11 14:52:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928350692.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "机器人独角兽Path Robotics完成3亿美元融资",
+        "summary": "【机器人独角兽Path Robotics完成3亿美元融资】美国机器人公司PathRobotics日前宣布完成3亿美元（约合人民币20亿元）E轮融资，投后估值达到24.5亿美元（约合人民币164亿元）。本轮融资由Georgian领投。原有投资方Addition、DriveCapital、IronArcVentures、TigerGlobal、YamahaMo…",
+        "publishedAt": "2026-11-11 14:45:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928343932.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融",
-          "能源"
+          "机器人"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "Kalshi拟12月8日推出追踪美国CPI及核心通胀的期货",
-        "summary": "【Kalshi拟12月8日推出追踪美国CPI及核心通胀的期货】Kalshi传播主管ElisabethDiana表示，该公司计划于12月8日推出追踪美国消费者价格指数(CPI)和剔除食品及能源的核心通胀指标的新期货合约。这些合约将类似于传统期货，设有到期日，面向机构投资者，而非该公司今年早些时候开始提供的所谓永续合约。",
-        "publishedAt": "2026-11-11 02:40:46",
+        "title": "算力产业链回暖，半导体板块强势，科创100ETF鹏华涨超2%",
+        "summary": "【算力产业链回暖，半导体板块强势，科创100ETF鹏华涨超2%】消息面上，海外算力产业链市场情绪有所回暖，前期对算力板块的悲观定价出现强势修复窗口，瑞银首席经济学家ArendKapteyn预计，2027年经济增长提速将主要靠AI基建投资拉动。他预计超大规模云厂商明年资本开支将达1.75万亿美元。国内方面，三大运营商算力投资同比增超80%，中国移动2027年…",
+        "publishedAt": "2026-11-11 14:45:15",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113927721724.html",
+        "url": "https://finance.eastmoney.com/a/202611113928345547.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "能源"
+          "半导体",
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)",
-        "summary": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 nan，预期 nan，前值 96.32。",
-        "publishedAt": "2026-11-11 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "台积电10月营收创纪录，芯片ETF东财上涨2.83%",
+        "summary": "【台积电10月营收创纪录，芯片ETF东财上涨2.83%】截至今日14:40，芯片ETF东财（159599）上涨2.83%，成交额突破1.32亿元，交投活跃。跟踪指数成分股中，寒武纪、佰维存储、君正股份、德明利、芯原股份、兆易创新等跟涨超5%。",
+        "publishedAt": "2026-11-11 14:44:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928342297.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "能源"
+          "半导体"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月EIA月报预估-当年WTI原油价格(美元/桶)",
-        "summary": "美国11月EIA月报预估-当年WTI原油价格(美元/桶)；公布 nan，预期 nan，前值 88.21。",
-        "publishedAt": "2026-11-11 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月10日10年期国债竞拍-总金额(亿美元)",
-        "summary": "美国11月10日10年期国债竞拍-总金额(亿美元)；公布 nan，预期 nan，前值 390.0。",
-        "publishedAt": "2026-11-11 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "沪深两市成交额突破1.5万亿 较上一日此时放量超1500亿",
+        "summary": "沪深两市成交额突破1.5万亿，较上一日此时放量超1500亿。",
+        "publishedAt": "2026-11-11 14:40:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928340217.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月10日10年期国债竞拍-中标利率(%)",
-        "summary": "美国11月10日10年期国债竞拍-中标利率(%)；公布 nan，预期 nan，前值 5.3。",
-        "publishedAt": "2026-11-11 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -138733,7 +138744,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -138746,15 +138757,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-11 04:29:28",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 7 条，风险 7 条；主题映射集中在 能源、金融、AI算力。",
+        "generatedAt": "2026-11-11 14:57:57",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 4 条；主题映射集中在 能源、半导体、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：虚拟现实、智能穿戴、机器人概念；首看 虚拟现实 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、半导体、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
