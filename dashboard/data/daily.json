@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-11",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-11 23:59:29",
+    "tradeDate": "2026-11-12",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-12 04:05:53",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -145620,7 +145620,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -145783,25 +145784,40 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-11",
-    "generatedAt": "2026-11-12 00:00:42",
+    "tradeDate": "2026-11-12",
+    "generatedAt": "2026-11-12 04:06:34",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 18 条，风险 0 条；主题映射集中在 能源、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 金融、有色稀土、军工。",
     "themes": [
       {
-        "name": "能源",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 5,
+        "score": 16,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
         "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -145810,98 +145826,215 @@
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "海融科技:关于使用闲置自有资金进行现金管理到期赎回的公告",
-        "summary": "海融科技(300915)：海融科技:关于使用闲置自有资金进行现金管理到期赎回的公告",
-        "publishedAt": "2026-11-11",
+        "title": "华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话措施决定的公告",
+        "summary": "华林证券(002945)：华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话措施决定的公告",
+        "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300915/AN202611111831625691.html",
+        "url": "https://data.eastmoney.com/notices/detail/002945/AN202611111831635438.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "海融科技(300915)"
+          "华林证券(002945)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "其他"
       },
       {
-        "title": "和顺石油:2026-005湖南和顺石油股份有限公司投资者关系活动记录表",
-        "summary": "和顺石油(603353)：和顺石油:2026-005湖南和顺石油股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
+        "title": "国盛证券:关于公司及相关当事人收到《行政处罚决定书》及《行政监管措施决定书》的公告",
+        "summary": "国盛证券(002670)：国盛证券:关于公司及相关当事人收到《行政处罚决定书》及《行政监管措施决定书》的公告",
+        "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603353/AN202611111831619865.html",
+        "url": "https://data.eastmoney.com/notices/detail/002670/AN202611111831635439.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "国盛证券(002670)"
+        ],
+        "importance": 1,
+        "noticeType": "处罚"
+      },
+      {
+        "title": "湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚决定书和行政监管措施决定书的公告",
+        "summary": "湘财股份(600095)：湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚决定书和行政监管措施决定书的公告",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600095/AN202611111831635382.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "湘财股份(600095)"
+        ],
+        "importance": 1,
+        "noticeType": "处罚"
+      },
+      {
+        "title": "飞亚达:股票交易异常波动公告",
+        "summary": "飞亚达(000026)：飞亚达:股票交易异常波动公告",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000026/AN202611111831634896.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "飞亚达(000026)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "冰山冷热:股票交易异常波动公告",
+        "summary": "冰山冷热(000530)：冰山冷热:股票交易异常波动公告",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000530/AN202611111831634422.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "冰山冷热(000530)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "拓山重工:拓山重工关于公司股价异动的公告",
+        "summary": "拓山重工(001226)：拓山重工:拓山重工关于公司股价异动的公告",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001226/AN202611111831634424.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "拓山重工(001226)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "*ST西发:关于涉及普通破产债权确认纠纷诉讼的公告",
+        "summary": "*ST西发(000752)：*ST西发:关于涉及普通破产债权确认纠纷诉讼的公告",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000752/AN202611111831633945.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST西发(000752)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "*ST西发:西藏发展股份有限公司重整计划",
+        "summary": "*ST西发(000752)：*ST西发:西藏发展股份有限公司重整计划",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000752/AN202611111831633947.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST西发(000752)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "央行发布2026年第三季度中国货币政策执行报告提出：加力实施支持资本市场两项货币政策工具",
+        "summary": "【央行发布2026年第三季度中国货币政策执行报告提出：加力实施支持资本市场两项货币政策工具】中国人民银行11月11日发布的2026年第三季度中国货币政策执行报告（下称“报告”）明确，发挥存量政策与增量政策的集成效应，加大逆周期调节力度，努力完成全年经济社会发展目标任务。报告提出，加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护股票…",
+        "publishedAt": "2026-11-12 02:59:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611123928811684.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "Sixth Street首席执行官对AI热潮保持谨慎 警告称投机行为盛行",
+        "summary": "【Sixth Street首席执行官对AI热潮保持谨慎 警告称投机行为盛行】Sixth Street Partners首席执行官Alan Waxman表示，他看到人工智能热潮中动荡的迹象日益增多，因此该公司基本保持观望。人工智能领域的资本支出规模空前，并且“由于人工智能不断发展，没有人真正了解其单位经济效益”，Waxman在周三表示。“至少在信用领域，我们…",
+        "publishedAt": "2026-11-12 02:47:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611123928811483.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美中央司令部：美军严格执行对伊朗海上封锁",
+        "summary": "【美中央司令部：美军严格执行对伊朗海上封锁】当地时间11月11日，美国中央司令部表示，美军持续昼夜不停地开展行动，以确保霍尔木兹海峡对商业航运保持开放。同时，美军严格执行针对伊朗的严密海上封锁，并与美国政府各相关部门协作，防止伊朗伊斯兰革命卫队利用陆路及里海通道，转移先进武器系统、军民两用技术、受制裁物资，或进行“非法资金往来”。",
+        "publishedAt": "2026-11-12 02:45:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611123928811346.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "惠城环保:2026年11月11日投资者关系活动记录表",
+        "summary": "惠城环保(300779)：惠城环保:2026年11月11日投资者关系活动记录表",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300779/AN202611121831638461.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "和顺石油(603353)"
+          "惠城环保(300779)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "柳工:11月10日柳工全球客户节投资者交流活动",
-        "summary": "柳工(000528)：柳工:11月10日柳工全球客户节投资者交流活动",
-        "publishedAt": "2026-11-11",
+        "title": "松发股份:关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
+        "summary": "松发股份(603268)：松发股份:关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
+        "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000528/AN202611111831636086.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "柳工(000528)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "天邑股份:2026年11月11日天邑股份投资者关系活动记录表",
-        "summary": "天邑股份(300504)：天邑股份:2026年11月11日天邑股份投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300504/AN202611111831636184.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天邑股份(300504)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "爱尔眼科:2026年11月10日投资者关系活动记录表",
-        "summary": "爱尔眼科(300015)：爱尔眼科:2026年11月10日投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300015/AN202611111831635442.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "爱尔眼科(300015)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "青岛银行:2026年11月11日投资者关系活动记录表",
-        "summary": "青岛银行(002948)：青岛银行:2026年11月11日投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002948/AN202611111831635279.html",
+        "url": "https://data.eastmoney.com/notices/detail/603268/AN202611111831635005.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -145909,191 +146042,91 @@
           "金融"
         ],
         "tickers": [
-          "青岛银行(002948)"
+          "松发股份(603268)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "回购进展情况"
       },
       {
-        "title": "002312川发龙蟒投资者关系管理信息20261111",
-        "summary": "川发龙蟒(002312)：002312川发龙蟒投资者关系管理信息20261111",
-        "publishedAt": "2026-11-11",
+        "title": "卫星化学:关于投资建设丙烯及下游高端新材料项目的公告",
+        "summary": "卫星化学(002648)：卫星化学:关于投资建设丙烯及下游高端新材料项目的公告",
+        "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002312/AN202611111831635100.html",
+        "url": "https://data.eastmoney.com/notices/detail/002648/AN202611111831634652.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "军工"
+        ],
         "tickers": [
-          "川发龙蟒(002312)"
+          "卫星化学(002648)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "对外项目投资"
       },
       {
-        "title": "301166优宁维投资者关系管理信息20261111",
-        "summary": "优宁维(301166)：301166优宁维投资者关系管理信息20261111",
-        "publishedAt": "2026-11-11",
+        "title": "学大教育:关于2023年限制性股票激励计划部分限制性股票回购注销完成的公告",
+        "summary": "学大教育(000526)：学大教育:关于2023年限制性股票激励计划部分限制性股票回购注销完成的公告",
+        "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301166/AN202611111831634429.html",
+        "url": "https://data.eastmoney.com/notices/detail/000526/AN202611111831633951.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [
-          "优宁维(301166)"
+          "学大教育(000526)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股本变动"
       },
       {
-        "title": "002953日丰股份投资者关系管理信息20261111",
-        "summary": "日丰股份(002953)：002953日丰股份投资者关系管理信息20261111",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002953/AN202611111831634106.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "日丰股份(002953)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000514渝开发投资者关系管理信息20261111",
-        "summary": "渝开发(000514)：000514渝开发投资者关系管理信息20261111",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000514/AN202611111831633501.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "渝开发(000514)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "300503昊志机电投资者关系管理信息20261111",
-        "summary": "昊志机电(300503)：300503昊志机电投资者关系管理信息20261111",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300503/AN202611111831633855.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "昊志机电(300503)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "众业达:2026年11月11日投资者关系活动记录表",
-        "summary": "众业达(002441)：众业达:2026年11月11日投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002441/AN202611111831633738.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "众业达(002441)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "埃尼首席执行官会见英国能源大臣 承诺在英国投资约110亿英镑",
-        "summary": "埃尼首席执行官会见英国能源大臣，承诺在英国投资约110亿英镑。",
-        "publishedAt": "2026-11-11 23:49:13",
+        "title": "11月券商已调研328家上市公司 电子、机械设备、医药生物板块人气高",
+        "summary": "【11月券商已调研328家上市公司 电子、机械设备、医药生物板块人气高】券商研究所迎来调研忙碌期。数据显示，11月以来，券商累计调研328家上市公司，调研标的集中于电子、机械设备、医药生物等行业。同期，券商调整18家上市公司评级，数量已接近10月全月水平。投资策略方面，多家券商在近期策略会上，仍看好科技长期叙事，认为前期回调幅度较大的双创板块存在估值修复机…",
+        "publishedAt": "2026-11-12 02:44:26",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928787521.html",
+        "url": "https://finance.eastmoney.com/a/202611123928808457.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "能源"
+          "医药"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "鼎智科技：公司已建立微米级全流程检测体系",
-        "summary": "【鼎智科技：公司已建立微米级全流程检测体系】鼎智科技发布投资者关系活动记录表，高精度精密丝杠方面，公司生产及加工设备包括国产、进口设备，进一步形成从设备到工艺的自主配套能力。精度检测环节，公司已建立微米级全流程检测体系，量产产品精度与良品率持续稳定提升，可满足下游高端客户对一致性和可靠性的要求。",
-        "publishedAt": "2026-11-11 23:43:20",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928784734.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国11月11日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月11日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 nan。",
+        "publishedAt": "2026-11-12 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "迅安科技：已推出面向手持激光焊接、激光切割、激光清洗及自动化激光焊接等多种应用场景的激光防护面罩",
-        "summary": "【迅安科技：已推出面向手持激光焊接、激光切割、激光清洗及自动化激光焊接等多种应用场景的激光防护面罩】迅安科技发布投资者关系活动记录表，作为专业的个人防护装备（PPE）制造商，公司持续深耕智能化、数字化防护技术，不断拓展产品应用领域。",
-        "publishedAt": "2026-11-11 23:43:16",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928785147.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
+        "title": "美国11月11日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月11日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 nan。",
+        "publishedAt": "2026-11-12 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "三协电机：“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段",
-        "summary": "【三协电机：“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段】三协电机发布投资者关系活动记录表，公司已明确将“电机+减速机+编码器”一体化模组作为核心战略方向，三协电机“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段，尚未实现大规模商业化量产，相关业务收入占比仍处于极低水平。",
-        "publishedAt": "2026-11-11 23:43:13",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928785464.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "百瑞吉：功能性护肤品业务收入占比持续提升",
-        "summary": "【百瑞吉：功能性护肤品业务收入占比持续提升】百瑞吉发布投资者关系活动记录表，公司同时布局含透明质酸衍生物的功能性护肤品业务，收入占比持续提升。当前，功能性护肤品的电商业务处于发展期，需要投入较多推广费用以建立销售渠道、提升品牌知名度。",
-        "publishedAt": "2026-11-11 23:43:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928784913.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "锐翔智能：在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单",
-        "summary": "【锐翔智能：在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单】锐翔智能发布投资者关系活动记录表，公司已将光模块相关自动化设备定位为公司核心的业务战略方向之一。截至目前，公司在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单。",
-        "publishedAt": "2026-11-11 23:42:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928784642.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -146234,7 +146267,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -146247,15 +146280,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-12 00:00:42",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 18 条，风险 0 条；主题映射集中在 能源、金融、有色稀土。",
+        "generatedAt": "2026-11-12 04:06:34",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 金融、有色稀土、军工。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、芯片概念、通信设备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、军工；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -146286,7 +146319,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-11 23:59:29",
+        "generatedAt": "2026-11-12 04:05:53",
         "summary": "上午情绪分 100，涨停 85 家，跌停 0 家，炸板 19 家，连板 19 家，最高 4 板。",
         "sections": [
           {
@@ -146325,7 +146358,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-11 23:59:29",
+        "generatedAt": "2026-11-12 04:05:53",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -146351,7 +146384,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
+              "新闻/公告风险：华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话措施决定的公告；国盛证券:关于公司及相关当事人收到《行政处罚决定书》及《行政监管措施决定书》的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
