@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-11 19:19:56",
+    "generatedAt": "2026-11-11 19:27:23",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -137776,14 +137776,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-11",
-    "generatedAt": "2026-11-11 19:21:19",
+    "generatedAt": "2026-11-11 19:28:25",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、能源、医药。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 19,
+        "score": 14,
         "isFocusBoard": false
       },
       {
@@ -137792,13 +137792,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 7,
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 6,
+        "name": "医药",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -137814,161 +137814,91 @@
     ],
     "items": [
       {
-        "title": "ST亚光:关于公司及下属公司新增债务逾期及累计诉讼、仲裁情况的公告",
-        "summary": "ST亚光(300123)：ST亚光:关于公司及下属公司新增债务逾期及累计诉讼、仲裁情况的公告",
+        "title": "创益通:上会会计师事务所(特殊普通合伙)关于深圳市创益通技术股份有限公司申请向特定对象发行股票的审核问询函的回复报告(修订版)",
+        "summary": "创益通(300991)：创益通:上会会计师事务所(特殊普通合伙)关于深圳市创益通技术股份有限公司申请向特定对象发行股票的审核问询函的回复报告(修订版)",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300123/AN202611111831633242.html",
+        "url": "https://data.eastmoney.com/notices/detail/300991/AN202611111831631871.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST亚光(300123)"
+          "创益通(300991)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "天益医疗:关于最近五年未被证券监管部门和证券交易所采取监管措施或处罚情况的公告",
-        "summary": "天益医疗(301097)：天益医疗:关于最近五年未被证券监管部门和证券交易所采取监管措施或处罚情况的公告",
+        "title": "创益通:关于2026年度向特定对象发行股票的审核问询函回复等文件修订的提示性公告",
+        "summary": "创益通(300991)：创益通:关于2026年度向特定对象发行股票的审核问询函回复等文件修订的提示性公告",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301097/AN202611111831632761.html",
+        "url": "https://data.eastmoney.com/notices/detail/300991/AN202611111831631876.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
-        "themes": [
-          "医药",
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "天益医疗(301097)"
+          "创益通(300991)"
         ],
         "importance": 1,
-        "noticeType": "自查报告"
+        "noticeType": "回复问询函公告"
       },
       {
-        "title": "海融科技:关于使用闲置自有资金进行现金管理到期赎回的公告",
-        "summary": "海融科技(300915)：海融科技:关于使用闲置自有资金进行现金管理到期赎回的公告",
+        "title": "金运激光:关于控股股东部分股份被冻结的公告",
+        "summary": "金运激光(300220)：金运激光:关于控股股东部分股份被冻结的公告",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300915/AN202611111831625691.html",
+        "url": "https://data.eastmoney.com/notices/detail/300220/AN202611111831631827.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "金运激光(300220)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "力诺药包:简式权益变动报告书(力诺投资)",
+        "summary": "力诺药包(301188)：力诺药包:简式权益变动报告书(力诺投资)",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301188/AN202611111831631872.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "海融科技(300915)"
+          "力诺药包(301188)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "权益变动报告书"
       },
       {
-        "title": "和顺石油:2026-005湖南和顺石油股份有限公司投资者关系活动记录表",
-        "summary": "和顺石油(603353)：和顺石油:2026-005湖南和顺石油股份有限公司投资者关系活动记录表",
+        "title": "迅安科技:投资者关系活动记录表",
+        "summary": "迅安科技(920950)：迅安科技:投资者关系活动记录表",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603353/AN202611111831619865.html",
+        "url": "https://data.eastmoney.com/notices/detail/920950/AN202611111831631861.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "和顺石油(603353)"
+          "迅安科技(920950)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "百瑞吉:投资者关系活动记录表",
-        "summary": "百瑞吉(920201)：百瑞吉:投资者关系活动记录表",
+        "title": "联合动力:关于首次回购公司股份的公告",
+        "summary": "联合动力(301656)：联合动力:关于首次回购公司股份的公告",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920201/AN202611111831633285.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "百瑞吉(920201)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "锐翔智能:投资者关系活动记录表",
-        "summary": "锐翔智能(920178)：锐翔智能:投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920178/AN202611111831632968.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "锐翔智能(920178)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "张家港行:2026年11月10日投资者关系活动记录表",
-        "summary": "张家港行(002839)：张家港行:2026年11月10日投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002839/AN202611111831632768.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "张家港行(002839)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "南凌科技:2026年11月11日投资者关系活动记录表",
-        "summary": "南凌科技(300921)：南凌科技:2026年11月11日投资者关系活动记录表",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300921/AN202611111831632822.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "南凌科技(300921)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "天益医疗:未来三年(2026-2028年)股东分红回报规划",
-        "summary": "天益医疗(301097)：天益医疗:未来三年(2026-2028年)股东分红回报规划",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301097/AN202611111831632751.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药",
-          "金融"
-        ],
-        "tickers": [
-          "天益医疗(301097)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "天键股份:关于回购注销部分第一类限制性股票减资暨通知债权人的公告",
-        "summary": "天键股份(301383)：天键股份:关于回购注销部分第一类限制性股票减资暨通知债权人的公告",
-        "publishedAt": "2026-11-11",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301383/AN202611111831632746.html",
+        "url": "https://data.eastmoney.com/notices/detail/301656/AN202611111831631837.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -137976,44 +137906,111 @@
           "金融"
         ],
         "tickers": [
-          "天键股份(301383)"
+          "联合动力(301656)"
+        ],
+        "importance": 1,
+        "noticeType": "回购实施公告"
+      },
+      {
+        "title": "联检科技:关于注销部分已回购股份减少注册资本暨通知债权人的公告",
+        "summary": "联检科技(301115)：联检科技:关于注销部分已回购股份减少注册资本暨通知债权人的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301115/AN202611111831631830.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "联检科技(301115)"
         ],
         "importance": 1,
         "noticeType": "公司注册资本变更"
       },
       {
-        "title": "三利谱投资者关系管理信息20261111",
-        "summary": "三利谱(002876)：三利谱投资者关系管理信息20261111",
+        "title": "科莱瑞迪:关于使用闲置自有资金进行现金管理的进展公告",
+        "summary": "科莱瑞迪(920072)：科莱瑞迪:关于使用闲置自有资金进行现金管理的进展公告",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002876/AN202611111831632483.html",
+        "url": "https://data.eastmoney.com/notices/detail/920072/AN202611111831631822.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "三利谱(002876)"
+          "科莱瑞迪(920072)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "300662科锐国际投资者关系管理信息20261111",
+        "summary": "科锐国际(300662)：300662科锐国际投资者关系管理信息20261111",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300662/AN202611111831631692.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "科锐国际(300662)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "坤博精工:关于提前终止回购公司股份方案暨回购股份结果公告",
-        "summary": "坤博精工(920570)：坤博精工:关于提前终止回购公司股份方案暨回购股份结果公告",
+        "title": "肯特催化:投资者关系活动记录表20261111",
+        "summary": "肯特催化(603120)：肯特催化:投资者关系活动记录表20261111",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920570/AN202611111831632506.html",
+        "url": "https://data.eastmoney.com/notices/detail/603120/AN202611111831631691.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "肯特催化(603120)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "可孚医疗:关于回购A股股份注销完成暨股份变动的公告",
+        "summary": "可孚医疗(301087)：可孚医疗:关于回购A股股份注销完成暨股份变动的公告",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301087/AN202611111831631696.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
+          "医药",
           "金融"
         ],
         "tickers": [
-          "坤博精工(920570)"
+          "可孚医疗(301087)"
         ],
         "importance": 1,
-        "noticeType": "回购预案"
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "佳电股份投资者关系活动记录表20261111",
+        "summary": "佳电股份(000922)：佳电股份投资者关系活动记录表20261111",
+        "publishedAt": "2026-11-11",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000922/AN202611111831631508.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "佳电股份(000922)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "汇通控股：拟2000万元-4000万元回购公司股份",
@@ -138032,8 +138029,8 @@
         "noticeType": ""
       },
       {
-        "title": "3天2板奥士康：未与英伟达、谷歌开展订单合作",
-        "summary": "【3天2板奥士康：未与英伟达、谷歌开展订单合作】奥士康(002913.SZ)发布股票交易异常波动公告，近期，市场对英伟达、谷歌等AI相关产业链业务合作情况关注度较高。经公司自查，截至目前，公司未与英伟达、谷歌开展订单合作。公司2025年度及2026年上半年AI服务器相关收入占公司营业收入的比例不足1%。",
+        "title": "3天2板奥士康：2025年度及2026年上半年AI服务器相关收入占公司营业收入的比例不足1%",
+        "summary": "【3天2板奥士康：2025年度及2026年上半年AI服务器相关收入占公司营业收入的比例不足1%】奥士康(002913.SZ)发布股票交易异常波动公告，近期，市场对英伟达、谷歌等AI相关产业链业务合作情况关注度较高。经公司自查，截至目前，公司未与英伟达、谷歌开展订单合作。公司2025年度及2026年上半年AI服务器相关收入占公司营业收入的比例不足1%。",
         "publishedAt": "2026-11-11 19:02:35",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202611113928540717.html",
@@ -138058,22 +138055,6 @@
         "impact": "催化",
         "themes": [
           "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "行云科技：拟2亿元至3亿元回购公司股份",
-        "summary": "【行云科技：拟2亿元至3亿元回购公司股份】行云科技(300209.SZ)公告称，公司董事会审议通过回购股份方案，拟使用自有资金及/或自筹资金以集中竞价方式回购公司A股股份，用于维护公司价值及股东权益。回购价格不超过44.35元/股，回购资金总额不低于2亿元且不超过3亿元。回购期限为董事会审议通过之日起三个月内。",
-        "publishedAt": "2026-11-11 18:49:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928535038.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
         ],
         "tickers": [],
         "importance": 1,
@@ -138107,6 +138088,20 @@
         "themes": [
           "能源"
         ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月10日10年期国债竞拍-总金额(亿美元)",
+        "summary": "美国11月10日10年期国债竞拍-总金额(亿美元)；公布 420.0，预期 nan，前值 390.0。",
+        "publishedAt": "2026-11-11 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -138262,15 +138257,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-11 19:21:19",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 金融、能源、医药。",
+        "generatedAt": "2026-11-11 19:28:25",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、芯片概念、通信设备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、医药；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -138301,7 +138296,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-11 19:19:56",
+        "generatedAt": "2026-11-11 19:27:23",
         "summary": "上午情绪分 100，涨停 85 家，跌停 0 家，炸板 19 家，连板 19 家，最高 4 板。",
         "sections": [
           {
@@ -138340,7 +138335,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-11 19:19:56",
+        "generatedAt": "2026-11-11 19:27:23",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -138366,7 +138361,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：ST亚光:关于公司及下属公司新增债务逾期及累计诉讼、仲裁情况的公告；天益医疗:关于最近五年未被证券监管部门和证券交易所采取监管措施或处罚情况的公告。",
+              "新闻/公告风险：创益通:上会会计师事务所(特殊普通合伙)关于深圳市创益通技术股份有限公司申请向特定对象发行股票的审核问询函的回复报告(修订版)；创益通:关于2026年度向特定对象发行股票的审核问询函回复等文件修订的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
