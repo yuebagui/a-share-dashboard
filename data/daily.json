@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-11",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-11 23:38:45",
+    "generatedAt": "2026-11-11 23:59:29",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -152192,52 +152192,38 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-11",
-    "generatedAt": "2026-11-11 23:40:23",
+    "generatedAt": "2026-11-12 00:00:42",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 能源、AI算力、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 18 条，风险 0 条；主题映射集中在 能源、金融、有色稀土。",
     "themes": [
       {
         "name": "能源",
-        "score": 13,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 10,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 4,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 3,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
         "score": 3,
         "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
-      {
-        "title": "国内部分商品期货夜盘收盘 主力合约多数上涨",
-        "summary": "【国内部分商品期货夜盘收盘 主力合约多数上涨】截至23:00，国内部分商品期货夜盘收盘，主力合约多数上涨。涨幅方面，丁二烯胶、低硫燃油、燃油、棕榈油、20号胶涨超2%，丙烯、聚丙烯涨近2%，橡胶、甲醇、沥青、乙二醇、菜油等涨超1%；跌幅方面，焦煤、铁矿石跌超1%，纸浆、烧碱、玻璃、焦炭、淀粉等小幅下跌。",
-        "publishedAt": "2026-11-11 23:00:05",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611113928763281.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
       {
         "title": "海融科技:关于使用闲置自有资金进行现金管理到期赎回的公告",
         "summary": "海融科技(300915)：海融科技:关于使用闲置自有资金进行现金管理到期赎回的公告",
@@ -152271,8 +152257,8 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "柳    工:11月10日柳工全球客户节投资者交流活动",
-        "summary": "柳工(000528)：柳    工:11月10日柳工全球客户节投资者交流活动",
+        "title": "柳工:11月10日柳工全球客户节投资者交流活动",
+        "summary": "柳工(000528)：柳工:11月10日柳工全球客户节投资者交流活动",
         "publishedAt": "2026-11-11",
         "source": "东方财富公告",
         "url": "https://data.eastmoney.com/notices/detail/000528/AN202611111831636086.html",
@@ -152433,77 +152419,89 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)",
-        "summary": "美国11月EIA月报预估-当年布伦特原油价格(美元/桶)；公布 97.44，预期 nan，前值 96.32。",
-        "publishedAt": "2026-11-11 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "埃尼首席执行官会见英国能源大臣 承诺在英国投资约110亿英镑",
+        "summary": "埃尼首席执行官会见英国能源大臣，承诺在英国投资约110亿英镑。",
+        "publishedAt": "2026-11-11 23:49:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928787521.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
           "能源"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月EIA月报预估-当年WTI原油价格(美元/桶)",
-        "summary": "美国11月EIA月报预估-当年WTI原油价格(美元/桶)；公布 88.29，预期 nan，前值 88.21。",
-        "publishedAt": "2026-11-11 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月10日10年期国债竞拍-总金额(亿美元)",
-        "summary": "美国11月10日10年期国债竞拍-总金额(亿美元)；公布 420.0，预期 nan，前值 390.0。",
-        "publishedAt": "2026-11-11 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "鼎智科技：公司已建立微米级全流程检测体系",
+        "summary": "【鼎智科技：公司已建立微米级全流程检测体系】鼎智科技发布投资者关系活动记录表，高精度精密丝杠方面，公司生产及加工设备包括国产、进口设备，进一步形成从设备到工艺的自主配套能力。精度检测环节，公司已建立微米级全流程检测体系，量产产品精度与良品率持续稳定提升，可满足下游高端客户对一致性和可靠性的要求。",
+        "publishedAt": "2026-11-11 23:43:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928784734.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月10日10年期国债竞拍-中标利率(%)",
-        "summary": "美国11月10日10年期国债竞拍-中标利率(%)；公布 5.02，预期 nan，前值 5.3。",
-        "publishedAt": "2026-11-11 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "迅安科技：已推出面向手持激光焊接、激光切割、激光清洗及自动化激光焊接等多种应用场景的激光防护面罩",
+        "summary": "【迅安科技：已推出面向手持激光焊接、激光切割、激光清洗及自动化激光焊接等多种应用场景的激光防护面罩】迅安科技发布投资者关系活动记录表，作为专业的个人防护装备（PPE）制造商，公司持续深耕智能化、数字化防护技术，不断拓展产品应用领域。",
+        "publishedAt": "2026-11-11 23:43:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928785147.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月10日10年期国债竞拍-高收益率(%)",
-        "summary": "美国11月10日10年期国债竞拍-高收益率(%)；公布 5.02，预期 nan，前值 5.3。",
-        "publishedAt": "2026-11-11 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "三协电机：“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段",
+        "summary": "【三协电机：“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段】三协电机发布投资者关系活动记录表，公司已明确将“电机+减速机+编码器”一体化模组作为核心战略方向，三协电机“电机+减速机+编码器”的一体化模组正处于核心技术集成验证、小批量试产的关键推进阶段，尚未实现大规模商业化量产，相关业务收入占比仍处于极低水平。",
+        "publishedAt": "2026-11-11 23:43:13",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928785464.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "百瑞吉：功能性护肤品业务收入占比持续提升",
+        "summary": "【百瑞吉：功能性护肤品业务收入占比持续提升】百瑞吉发布投资者关系活动记录表，公司同时布局含透明质酸衍生物的功能性护肤品业务，收入占比持续提升。当前，功能性护肤品的电商业务处于发展期，需要投入较多推广费用以建立销售渠道、提升品牌知名度。",
+        "publishedAt": "2026-11-11 23:43:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928784913.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "锐翔智能：在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单",
+        "summary": "【锐翔智能：在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单】锐翔智能发布投资者关系活动记录表，公司已将光模块相关自动化设备定位为公司核心的业务战略方向之一。截至目前，公司在光模块产线的自动化物流以及光模块组装自动化产线方面均已收获相应订单。",
+        "publishedAt": "2026-11-11 23:42:59",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611113928784642.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -152657,15 +152655,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-11 23:40:23",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 1 条；主题映射集中在 能源、AI算力、半导体。",
+        "generatedAt": "2026-11-12 00:00:42",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 18 条，风险 0 条；主题映射集中在 能源、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、芯片概念、通信设备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -152696,7 +152694,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-11 23:38:45",
+        "generatedAt": "2026-11-11 23:59:29",
         "summary": "上午情绪分 100，涨停 85 家，跌停 0 家，炸板 19 家，连板 19 家，最高 4 板。",
         "sections": [
           {
@@ -152735,7 +152733,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-11 23:38:45",
+        "generatedAt": "2026-11-11 23:59:29",
         "summary": "市场温度 强，情绪周期偏发酵。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -152761,7 +152759,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：国内部分商品期货夜盘收盘 主力合约多数上涨。",
+              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
