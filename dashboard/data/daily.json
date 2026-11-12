@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-12",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-12 04:12:43",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-12 04:12:43",
+    "lastNewsAt": "2026-11-12 15:33:58"
   },
   "indices": [
     {
@@ -145785,24 +145787,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-12",
-    "generatedAt": "2026-11-12 04:13:29",
+    "generatedAt": "2026-11-12 15:33:58",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 金融、有色稀土、军工。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 有色稀土、医药、半导体。",
     "themes": [
       {
-        "name": "金融",
-        "score": 16,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 5,
+        "name": "医药",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -145811,200 +145813,55 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 3,
+        "name": "金融",
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
+        "name": "新能源",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话措施决定的公告",
-        "summary": "华林证券(002945)：华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话措施决定的公告",
+        "title": "安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复",
+        "summary": "安宁股份(002978)：安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复",
         "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002945/AN202611111831635438.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "华林证券(002945)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "国盛证券:关于公司及相关当事人收到《行政处罚决定书》及《行政监管措施决定书》的公告",
-        "summary": "国盛证券(002670)：国盛证券:关于公司及相关当事人收到《行政处罚决定书》及《行政监管措施决定书》的公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002670/AN202611111831635439.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国盛证券(002670)"
-        ],
-        "importance": 1,
-        "noticeType": "处罚"
-      },
-      {
-        "title": "湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚决定书和行政监管措施决定书的公告",
-        "summary": "湘财股份(600095)：湘财股份:湘财股份关于子公司收到中国证券监督管理委员会湖南监管局行政处罚决定书和行政监管措施决定书的公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600095/AN202611111831635382.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "湘财股份(600095)"
-        ],
-        "importance": 1,
-        "noticeType": "处罚"
-      },
-      {
-        "title": "飞亚达:股票交易异常波动公告",
-        "summary": "飞亚达(000026)：飞亚达:股票交易异常波动公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000026/AN202611111831634896.html",
+        "url": "https://data.eastmoney.com/notices/detail/002978/AN202611121831648973.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "飞亚达(000026)"
+          "安宁股份(002978)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "冰山冷热:股票交易异常波动公告",
-        "summary": "冰山冷热(000530)：冰山冷热:股票交易异常波动公告",
+        "title": "发行人及中介机构关于第二轮审核问询函的回复意见(苏州科润新材料股份有限公司)",
+        "summary": "科润新材(A26195)：发行人及中介机构关于第二轮审核问询函的回复意见(苏州科润新材料股份有限公司)",
         "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000530/AN202611111831634422.html",
+        "url": "https://data.eastmoney.com/notices/detail/A26195/AN202611121831652370.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "冰山冷热(000530)"
+          "科润新材(A26195)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "创业板IPO问询与回复"
       },
       {
-        "title": "拓山重工:拓山重工关于公司股价异动的公告",
-        "summary": "拓山重工(001226)：拓山重工:拓山重工关于公司股价异动的公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001226/AN202611111831634424.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "拓山重工(001226)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "*ST西发:关于涉及普通破产债权确认纠纷诉讼的公告",
-        "summary": "*ST西发(000752)：*ST西发:关于涉及普通破产债权确认纠纷诉讼的公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000752/AN202611111831633945.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST西发(000752)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "*ST西发:西藏发展股份有限公司重整计划",
-        "summary": "*ST西发(000752)：*ST西发:西藏发展股份有限公司重整计划",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000752/AN202611111831633947.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST西发(000752)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "央行发布2026年第三季度中国货币政策执行报告提出：加力实施支持资本市场两项货币政策工具",
-        "summary": "【央行发布2026年第三季度中国货币政策执行报告提出：加力实施支持资本市场两项货币政策工具】中国人民银行11月11日发布的2026年第三季度中国货币政策执行报告（下称“报告”）明确，发挥存量政策与增量政策的集成效应，加大逆周期调节力度，努力完成全年经济社会发展目标任务。报告提出，加力实施支持资本市场的两项货币政策工具，用好债市非银大额赎回互换便利，维护股票…",
-        "publishedAt": "2026-11-12 02:59:26",
+        "title": "德经济专家委员会警告德国财政风险",
+        "summary": "【德经济专家委员会警告德国财政风险】德国经济专家委员会11月11日发布年度经济报告，将2026年德国经济增长预期从此前预测的0.5%上调至1.3%，但警告说，德国公共财政面临日益严峻压力，政府亟需采取财政整顿措施。",
+        "publishedAt": "2026-11-12 15:21:07",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123928811684.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "Sixth Street首席执行官对AI热潮保持谨慎 警告称投机行为盛行",
-        "summary": "【Sixth Street首席执行官对AI热潮保持谨慎 警告称投机行为盛行】Sixth Street Partners首席执行官Alan Waxman表示，他看到人工智能热潮中动荡的迹象日益增多，因此该公司基本保持观望。人工智能领域的资本支出规模空前，并且“由于人工智能不断发展，没有人真正了解其单位经济效益”，Waxman在周三表示。“至少在信用领域，我们…",
-        "publishedAt": "2026-11-12 02:47:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123928811483.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美中央司令部：美军严格执行对伊朗海上封锁",
-        "summary": "【美中央司令部：美军严格执行对伊朗海上封锁】当地时间11月11日，美国中央司令部表示，美军持续昼夜不停地开展行动，以确保霍尔木兹海峡对商业航运保持开放。同时，美军严格执行针对伊朗的严密海上封锁，并与美国政府各相关部门协作，防止伊朗伊斯兰革命卫队利用陆路及里海通道，转移先进武器系统、军民两用技术、受制裁物资，或进行“非法资金往来”。",
-        "publishedAt": "2026-11-12 02:45:27",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123928811346.html",
+        "url": "https://finance.eastmoney.com/a/202611123929449692.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -146014,81 +145871,173 @@
         "noticeType": ""
       },
       {
-        "title": "惠城环保:2026年11月11日投资者关系活动记录表",
-        "summary": "惠城环保(300779)：惠城环保:2026年11月11日投资者关系活动记录表",
+        "title": "能辉科技2026年11月11日投资者关系活动记录表",
+        "summary": "能辉科技(301046)：能辉科技2026年11月11日投资者关系活动记录表",
         "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300779/AN202611121831638461.html",
+        "url": "https://data.eastmoney.com/notices/detail/301046/AN202611121831641747.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "惠城环保(300779)"
+          "能辉科技(301046)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "松发股份:关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
-        "summary": "松发股份(603268)：松发股份:关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
+        "title": "虹软科技:投资者关系活动记录表2026-009",
+        "summary": "虹软科技(688088)：虹软科技:投资者关系活动记录表2026-009",
         "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603268/AN202611111831635005.html",
+        "url": "https://data.eastmoney.com/notices/detail/688088/AN202611121831653607.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "虹软科技(688088)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "百花医药:新疆百花村医药集团股份有限公司2026年第三季度业绩说明会投资者关系活动记录表",
+        "summary": "百花医药(600721)：百花医药:新疆百花村医药集团股份有限公司2026年第三季度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600721/AN202611121831653604.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "医药"
         ],
         "tickers": [
-          "松发股份(603268)"
+          "百花医药(600721)"
         ],
         "importance": 1,
-        "noticeType": "回购进展情况"
+        "noticeType": "调研活动"
       },
       {
-        "title": "卫星化学:关于投资建设丙烯及下游高端新材料项目的公告",
-        "summary": "卫星化学(002648)：卫星化学:关于投资建设丙烯及下游高端新材料项目的公告",
+        "title": "中钢洛耐:投资者关系活动记录表-2026年11月11日",
+        "summary": "中钢洛耐(688119)：中钢洛耐:投资者关系活动记录表-2026年11月11日",
         "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002648/AN202611111831634652.html",
+        "url": "https://data.eastmoney.com/notices/detail/688119/AN202611121831653605.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "军工"
-        ],
+        "themes": [],
         "tickers": [
-          "卫星化学(002648)"
+          "中钢洛耐(688119)"
         ],
         "importance": 1,
-        "noticeType": "对外项目投资"
+        "noticeType": "调研活动"
       },
       {
-        "title": "学大教育:关于2023年限制性股票激励计划部分限制性股票回购注销完成的公告",
-        "summary": "学大教育(000526)：学大教育:关于2023年限制性股票激励计划部分限制性股票回购注销完成的公告",
+        "title": "创新新材:创新新材料科技股份有限公司投资者关系活动记录表(2026年11月11日)",
+        "summary": "创新新材(600361)：创新新材:创新新材料科技股份有限公司投资者关系活动记录表(2026年11月11日)",
         "publishedAt": "2026-11-12",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000526/AN202611111831633951.html",
+        "url": "https://data.eastmoney.com/notices/detail/600361/AN202611121831653601.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [
-          "学大教育(000526)"
+          "创新新材(600361)"
         ],
         "importance": 1,
-        "noticeType": "股本变动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "11月券商已调研328家上市公司 电子、机械设备、医药生物板块人气高",
-        "summary": "【11月券商已调研328家上市公司 电子、机械设备、医药生物板块人气高】券商研究所迎来调研忙碌期。数据显示，11月以来，券商累计调研328家上市公司，调研标的集中于电子、机械设备、医药生物等行业。同期，券商调整18家上市公司评级，数量已接近10月全月水平。投资策略方面，多家券商在近期策略会上，仍看好科技长期叙事，认为前期回调幅度较大的双创板块存在估值修复机…",
-        "publishedAt": "2026-11-12 02:44:26",
+        "title": "安井食品:投资者调研记录表-2026年10月",
+        "summary": "安井食品(603345)：安井食品:投资者调研记录表-2026年10月",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603345/AN202611121831653606.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安井食品(603345)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "统一股份:统一低碳科技(新疆)股份有限公司2026年第三季度投资者关系活动记录表",
+        "summary": "统一股份(600506)：统一股份:统一低碳科技(新疆)股份有限公司2026年第三季度投资者关系活动记录表",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600506/AN202611121831653608.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "统一股份(600506)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "冠豪高新:广东冠豪高新技术股份有限公司2026年11月投资者关系活动记录表(2026-005)",
+        "summary": "冠豪高新(600433)：冠豪高新:广东冠豪高新技术股份有限公司2026年11月投资者关系活动记录表(2026-005)",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600433/AN202611121831653609.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "冠豪高新(600433)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鹿山新材:广州鹿山新材料股份有限公司投资者关系活动记录表2026-004",
+        "summary": "鹿山新材(603051)：鹿山新材:广州鹿山新材料股份有限公司投资者关系活动记录表2026-004",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603051/AN202611121831653603.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鹿山新材(603051)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "联化科技:2026年11月12日投资者关系活动记录表",
+        "summary": "联化科技(002250)：联化科技:2026年11月12日投资者关系活动记录表",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002250/AN202611121831652984.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "联化科技(002250)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "商务部：中欧医疗器械专场贸易对接会达成100余项合作意向",
+        "summary": "【商务部：中欧医疗器械专场贸易对接会达成100余项合作意向】11月12日，商务部新闻发言人何亚东在例行新闻发布会上表示，日前举办的中欧医疗器械专场贸易对接会是中欧贸易投资磋商机制第二次例会一项重要的成果共识。商务部会同财政部、国家卫健委等部门组织了160多家国内的医疗机构和企业参与市场化采购，欧方组织了40多家医疗器械企业参会，达成合作意向超过100项。",
+        "publishedAt": "2026-11-12 15:17:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123928808457.html",
+        "url": "https://finance.eastmoney.com/a/202611123929448691.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -146101,7 +146050,7 @@
       },
       {
         "title": "美国11月11日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月11日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 nan。",
+        "summary": "美国11月11日iShares白银持仓-每日更新(吨)；公布 15684.52，预期 nan，前值 15695.75。",
         "publishedAt": "2026-11-12 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -146115,7 +146064,39 @@
       },
       {
         "title": "美国11月11日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月11日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 nan。",
+        "summary": "美国11月11日SPDR黄金持仓-每日更新(吨)；公布 1041.08，预期 nan，前值 1042.22。",
+        "publishedAt": "2026-11-12 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月11日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月11日iShares黄金持仓-每日更新(吨)；公布 460.81，预期 nan，前值 460.81。",
+        "publishedAt": "2026-11-12 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月10日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国11月10日COMEX黄金库存-每日更新(百盎司)；公布 229304.48，预期 nan，前值 229958.75。",
         "publishedAt": "2026-11-12 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -146267,7 +146248,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "强",
     "emotionCycle": "发酵",
     "positionRule": {
@@ -146280,15 +146261,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-12 04:13:29",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 11 条；主题映射集中在 金融、有色稀土、军工。",
+        "generatedAt": "2026-11-12 15:33:58",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 3 条；主题映射集中在 有色稀土、医药、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：共封装光学(CPO)、芯片概念、通信设备；首看 共封装光学(CPO) 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、军工；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、医药、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -146384,7 +146365,7 @@
               "今日炸板 19 只，追高前先看前排封单和回封质量。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
               "板块资金是短线情绪线索，不替代公告、财报和订单验证。",
-              "新闻/公告风险：华林证券:关于公司高级管理人员因非本公司事项收到江西证监局监管谈话措施决定的公告；国盛证券:关于公司及相关当事人收到《行政处罚决定书》及《行政监管措施决定书》的公告。",
+              "新闻/公告风险：安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复；发行人及中介机构关于第二轮审核问询函的回复意见(苏州科润新材料股份有限公司)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
