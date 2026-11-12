@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-13",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-13 00:18:50",
+    "generatedAt": "2026-11-13 00:42:48",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -149528,7 +149528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -149696,19 +149697,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-13",
-    "generatedAt": "2026-11-13 00:19:14",
+    "generatedAt": "2026-11-13 00:43:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 金融、AI算力、能源。",
     "themes": [
       {
         "name": "金融",
         "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 11,
         "isFocusBoard": false
       },
       {
@@ -149717,12 +149713,17 @@
         "isFocusBoard": false
       },
       {
+        "name": "能源",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
         "name": "有色稀土",
         "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -149793,22 +149794,6 @@
         ],
         "importance": 1,
         "noticeType": "其他"
-      },
-      {
-        "title": "国内商品期市夜盘收盘多数上涨 化工品涨幅居前",
-        "summary": "【国内商品期市夜盘收盘多数上涨 化工品涨幅居前】国内商品期市夜盘收盘多数上涨，化工品涨幅居前，DCE乙二醇涨3.32%；非金属建材全部上涨，CZCE玻璃涨2.93%；能源品全部上涨，SHFE燃油涨1.11%；农副产品跌幅居前，CZCE白糖跌0.87%；油脂油料多数下跌，DCE豆粕跌0.76%；黑色系多数下跌，DCE铁矿石跌0.52%。",
-        "publishedAt": "2026-11-12 23:01:01",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123929999890.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
       },
       {
         "title": "侨源股份:2026年11月11日-2026年11月12日投资者关系活动记录表",
@@ -149948,7 +149933,7 @@
       },
       {
         "title": "SpaceX计划投资最高240亿美元建设新的超级计算基础设施",
-        "summary": "【SpaceX计划投资最高240亿美元建设新的超级计算基础设施】SpaceX计划投资最高240亿美元建设新的超级计算基础设施，同时推进位于亚利桑那州科奇斯县的第二园区，以及得克萨斯州星基地的新超算设施。",
+        "summary": "【SpaceX计划投资最高240亿美元建设新的超级计算基础设施】SpaceX计划投资最高240亿美元建设新的超级计算基础设施，同时推进在亚利桑那州建设约500亿美元的超级计算园区。",
         "publishedAt": "2026-11-13 00:07:39",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202611133930022776.html",
@@ -150018,6 +150003,20 @@
         "themes": [
           "能源"
         ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至11月6日当周EIA汽油库存变动(万桶)",
+        "summary": "美国截至11月6日当周EIA汽油库存变动(万桶)；公布 nan，预期 -8.4，前值 -22.2。",
+        "publishedAt": "2026-11-13 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -150285,15 +150284,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-13 00:19:14",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-11-13 00:43:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 4 条；主题映射集中在 金融、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -150324,7 +150323,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-13 00:18:50",
+        "generatedAt": "2026-11-13 00:42:48",
         "summary": "上午情绪分 70，涨停 37 家，跌停 5 家，炸板 35 家，连板 11 家，最高 5 板。",
         "sections": [
           {
@@ -150363,7 +150362,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-13 00:18:50",
+        "generatedAt": "2026-11-13 00:42:48",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
