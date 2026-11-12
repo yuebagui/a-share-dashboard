@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-12",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-12 19:51:34",
+    "tradeDate": "2026-11-13",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-13 00:18:50",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -149528,7 +149528,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -149695,287 +149696,275 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-12",
-    "generatedAt": "2026-11-12 19:52:45",
+    "tradeDate": "2026-11-13",
+    "generatedAt": "2026-11-13 00:19:14",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "金融",
+        "score": 14,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
         "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复",
-        "summary": "安宁股份(002978)：安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复",
-        "publishedAt": "2026-11-12",
+        "title": "英力特:股票交易异动公告",
+        "summary": "英力特(000635)：英力特:股票交易异动公告",
+        "publishedAt": "2026-11-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002978/AN202611121831648973.html",
+        "url": "https://data.eastmoney.com/notices/detail/000635/AN202611121831668202.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "安宁股份(002978)"
+          "英力特(000635)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "航班管家：今年前十月旺季票价仍承压 商务线已全面超量恢复",
-        "summary": "【航班管家：今年前十月旺季票价仍承压 商务线已全面超量恢复】11月12日，根据航班管家DAST数据显示，今年1至10月国内经济舱平均票价达683元（裸票价），同比基本持平、较2019年下降10.3%。从日趋势上观察，2026年票价呈现前高后低走势，春运高点后持续回落，暑运“以价换量”特征明显，7至8月票价同比下跌8.3%，旺季票价仍承压。",
-        "publishedAt": "2026-11-12 19:47:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123929787244.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "亚玛顿:股票交易异常波动公告",
+        "summary": "亚玛顿(002623)：亚玛顿:股票交易异常波动公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002623/AN202611121831665844.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "亚玛顿(002623)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "李强主持国务院专题学习：强化社保基金安全监管和保值增值",
-        "summary": "【李强主持国务院第二十二次专题学习】李强强调，增强社保基金长期可持续性，完善并落实职工养老保险全国统筹制度，推进基本医疗保险省级统筹，强化社保基金安全监管和保值增值。",
-        "publishedAt": "2026-11-12 19:43:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123929783682.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "辽宁成大:辽宁成大股份有限公司关于股东股份解质押的公告",
+        "summary": "辽宁成大(600739)：辽宁成大:辽宁成大股份有限公司关于股东股份解质押的公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600739/AN202611121831665278.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "辽宁成大(600739)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "维业股份:关于公司部分银行账户资金被冻结的公告",
+        "summary": "维业股份(300621)：维业股份:关于公司部分银行账户资金被冻结的公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300621/AN202611121831665152.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "医药",
           "金融"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "豪迈科技:2026年11月11日-11月12日投资者关系活动记录表",
-        "summary": "豪迈科技(002595)：豪迈科技:2026年11月11日-11月12日投资者关系活动记录表",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002595/AN202611121831654075.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
         "tickers": [
-          "豪迈科技(002595)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "能辉科技2026年11月11日投资者关系活动记录表",
-        "summary": "能辉科技(301046)：能辉科技2026年11月11日投资者关系活动记录表",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301046/AN202611121831641747.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "能辉科技(301046)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "南方泵业:南方泵业股份有限公司2026年面向专业投资者公开发行低碳转型挂钩科技创新公司债券(第一期)票面利率公告",
-        "summary": "南方泵业(300145)：南方泵业:南方泵业股份有限公司2026年面向专业投资者公开发行低碳转型挂钩科技创新公司债券(第一期)票面利率公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300145/AN202611121831664817.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "南方泵业(300145)"
+          "维业股份(300621)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "华新科技投资者关系活动-20261112",
-        "summary": "华新科技(301265)：华新科技投资者关系活动-20261112",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301265/AN202611121831664607.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华新科技(301265)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "第一创业:2026年11月12日投资者关系活动记录表",
-        "summary": "第一创业(002797)：第一创业:2026年11月12日投资者关系活动记录表",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002797/AN202611121831664661.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "第一创业(002797)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "002437誉衡药业投资者关系管理信息20261112",
-        "summary": "誉衡药业(002437)：002437誉衡药业投资者关系管理信息20261112",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002437/AN202611121831664339.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "誉衡药业(002437)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "软通动力:关于使用部分闲置募集资金进行现金管理的公告",
-        "summary": "软通动力(301236)：软通动力:关于使用部分闲置募集资金进行现金管理的公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301236/AN202611121831664266.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "软通动力(301236)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "华虹宏力:投资者关系活动记录表2026Q3",
-        "summary": "华虹宏力(688347)：华虹宏力:投资者关系活动记录表2026Q3",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688347/AN202611121831661922.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华虹宏力(688347)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000514渝开发投资者关系管理信息20261112",
-        "summary": "渝开发(000514)：000514渝开发投资者关系管理信息20261112",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000514/AN202611121831662580.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "渝开发(000514)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000514渝开发投资者关系管理信息20261112",
-        "summary": "渝开发(000514)：000514渝开发投资者关系管理信息20261112",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000514/AN202611121831662048.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "渝开发(000514)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "骏成科技:关于筹划重大资产重组暨关联交易的进展公告",
-        "summary": "骏成科技(301106)：骏成科技:关于筹划重大资产重组暨关联交易的进展公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301106/AN202611121831664009.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "骏成科技(301106)"
-        ],
-        "importance": 1,
-        "noticeType": "重组进展公告"
-      },
-      {
-        "title": "存储涨价潮仍将延续 产品需求现分化",
-        "summary": "【存储涨价潮仍将延续 产品需求现分化】存储超级涨价周期持续超一年之际，日前，行业研究机构、存储上市公司高管等纷纷表态，预计存储芯片涨价潮仍将延续，短期难以缓解，但不同下游市场产品需求现分化，预计将持续抑制消费电子市场需求。",
-        "publishedAt": "2026-11-12 19:41:44",
+        "title": "国内商品期市夜盘收盘多数上涨 化工品涨幅居前",
+        "summary": "【国内商品期市夜盘收盘多数上涨 化工品涨幅居前】国内商品期市夜盘收盘多数上涨，化工品涨幅居前，DCE乙二醇涨3.32%；非金属建材全部上涨，CZCE玻璃涨2.93%；能源品全部上涨，SHFE燃油涨1.11%；农副产品跌幅居前，CZCE白糖跌0.87%；油脂油料多数下跌，DCE豆粕跌0.76%；黑色系多数下跌，DCE铁矿石跌0.52%。",
+        "publishedAt": "2026-11-12 23:01:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123929780953.html",
+        "url": "https://finance.eastmoney.com/a/202611123929999890.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "侨源股份:2026年11月11日-2026年11月12日投资者关系活动记录表",
+        "summary": "侨源股份(301286)：侨源股份:2026年11月11日-2026年11月12日投资者关系活动记录表",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301286/AN202611131831669757.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "侨源股份(301286)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "海南矿业:海南矿业股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项经上海证券交易所并购重组审核委员会审议结果的公告",
+        "summary": "海南矿业(601969)：海南矿业:海南矿业股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项经上海证券交易所并购重组审核委员会审议结果的公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601969/AN202611121831666781.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "海南矿业(601969)"
+        ],
+        "importance": 1,
+        "noticeType": "其他增发事项公告"
+      },
+      {
+        "title": "友阿股份:2026-054关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得深圳证券交易所并购重组审核委员会审核通过的公告",
+        "summary": "友阿股份(002277)：友阿股份:2026-054关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得深圳证券交易所并购重组审核委员会审核通过的公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611121831666630.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "友阿股份(002277)"
+        ],
+        "importance": 1,
+        "noticeType": "增发获准公告"
+      },
+      {
+        "title": "贝因美:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "summary": "贝因美(002570)：贝因美:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002570/AN202611121831665513.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "贝因美(002570)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "辽宁成大:辽宁成大股份有限公司关于董事长提议回购公司股份的公告",
+        "summary": "辽宁成大(600739)：辽宁成大:辽宁成大股份有限公司关于董事长提议回购公司股份的公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600739/AN202611121831665279.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "辽宁成大(600739)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "弘讯科技:与私募基金合作投资公告",
+        "summary": "弘讯科技(603015)：弘讯科技:与私募基金合作投资公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603015/AN202611121831665277.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "弘讯科技(603015)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "华特达因:关于控股股东增持公司股份触及1%整数倍暨增持计划进展的公告",
+        "summary": "华特达因(000915)：华特达因:关于控股股东增持公司股份触及1%整数倍暨增持计划进展的公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000915/AN202611121831665037.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华特达因(000915)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "美迪凯:杭州美迪凯光电科技股份有限公司关于2024年股票期权与限制性股票激励计划首次授予股票期权第二个行权期自主行权实施公告",
+        "summary": "美迪凯(688079)：美迪凯:杭州美迪凯光电科技股份有限公司关于2024年股票期权与限制性股票激励计划首次授予股票期权第二个行权期自主行权实施公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688079/AN202611121831665028.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "美迪凯(688079)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "SpaceX计划投资最高240亿美元建设新的超级计算基础设施",
+        "summary": "【SpaceX计划投资最高240亿美元建设新的超级计算基础设施】SpaceX计划投资最高240亿美元建设新的超级计算基础设施，同时推进位于亚利桑那州科奇斯县的第二园区，以及得克萨斯州星基地的新超算设施。",
+        "publishedAt": "2026-11-13 00:07:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611133930022776.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月11日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月11日iShares白银持仓-每日更新(吨)；公布 15684.52，预期 nan，前值 15695.75。",
-        "publishedAt": "2026-11-12 06:30",
+        "title": "美国截至11月6日当周EIA精炼油库存变动(万桶)",
+        "summary": "美国截至11月6日当周EIA精炼油库存变动(万桶)；公布 nan，预期 -96.8，前值 -356.5。",
+        "publishedAt": "2026-11-13 01:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -149987,32 +149976,48 @@
         "noticeType": ""
       },
       {
-        "title": "美国11月11日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月11日SPDR黄金持仓-每日更新(吨)；公布 1041.08，预期 nan，前值 1042.22。",
-        "publishedAt": "2026-11-12 06:30",
+        "title": "美国截至11月6日当周EIA每周原油进口变动(万桶)",
+        "summary": "美国截至11月6日当周EIA每周原油进口变动(万桶)；公布 nan，预期 nan，前值 117.9。",
+        "publishedAt": "2026-11-13 01:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [
-          "有色稀土"
+          "能源"
         ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "美国11月11日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国11月11日iShares黄金持仓-每日更新(吨)；公布 460.81，预期 nan，前值 460.81。",
-        "publishedAt": "2026-11-12 06:30",
+        "title": "美国截至11月6日当周EIA原油库存变动(万桶)",
+        "summary": "美国截至11月6日当周EIA原油库存变动(万桶)；公布 nan，预期 -110.9，前值 -86.5。",
+        "publishedAt": "2026-11-13 01:00",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [
-          "有色稀土"
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至11月6日当周EIA俄克拉荷马州-库欣原油库存(万桶)",
+        "summary": "美国截至11月6日当周EIA俄克拉荷马州-库欣原油库存(万桶)；公布 nan，预期 nan，前值 28.0。",
+        "publishedAt": "2026-11-13 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
         ],
         "tickers": [],
         "importance": 2,
@@ -150268,7 +150273,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -150281,15 +150286,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-12 19:52:45",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-11-13 00:19:14",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -150320,7 +150325,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-12 19:51:34",
+        "generatedAt": "2026-11-13 00:18:50",
         "summary": "上午情绪分 70，涨停 37 家，跌停 5 家，炸板 35 家，连板 11 家，最高 5 板。",
         "sections": [
           {
@@ -150359,7 +150364,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-12 19:51:34",
+        "generatedAt": "2026-11-13 00:18:50",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -150385,7 +150390,7 @@
               "今日炸板 35 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 机器人概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复；航班管家：今年前十月旺季票价仍承压 商务线已全面超量恢复。",
+              "新闻/公告风险：英力特:股票交易异动公告；亚玛顿:股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
