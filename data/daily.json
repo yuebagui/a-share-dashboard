@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-12",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-12 19:39:36",
+    "generatedAt": "2026-11-12 19:51:34",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -144754,14 +144754,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-12",
-    "generatedAt": "2026-11-12 19:40:06",
+    "generatedAt": "2026-11-12 19:52:45",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 12,
+        "score": 9,
         "isFocusBoard": false
       },
       {
@@ -144771,31 +144771,21 @@
       },
       {
         "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 3,
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "医药",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 2,
+        "name": "半导体",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
@@ -144818,20 +144808,35 @@
         "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "星徽股份:关于诉讼事项公司收到一审民事判决书的公告",
-        "summary": "星徽股份(300464)：星徽股份:关于诉讼事项公司收到一审民事判决书的公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300464/AN202611121831663896.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "航班管家：今年前十月旺季票价仍承压 商务线已全面超量恢复",
+        "summary": "【航班管家：今年前十月旺季票价仍承压 商务线已全面超量恢复】11月12日，根据航班管家DAST数据显示，今年1至10月国内经济舱平均票价达683元（裸票价），同比基本持平、较2019年下降10.3%。从日趋势上观察，2026年票价呈现前高后低走势，春运高点后持续回落，暑运“以价换量”特征明显，7至8月票价同比下跌8.3%，旺季票价仍承压。",
+        "publishedAt": "2026-11-12 19:47:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611123929787244.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "风险",
         "themes": [],
-        "tickers": [
-          "星徽股份(300464)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": ""
+      },
+      {
+        "title": "李强主持国务院专题学习：强化社保基金安全监管和保值增值",
+        "summary": "【李强主持国务院第二十二次专题学习】李强强调，增强社保基金长期可持续性，完善并落实职工养老保险全国统筹制度，推进基本医疗保险省级统筹，强化社保基金安全监管和保值增值。",
+        "publishedAt": "2026-11-12 19:43:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611123929783682.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "医药",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "豪迈科技:2026年11月11日-11月12日投资者关系活动记录表",
@@ -144861,6 +144866,54 @@
         "themes": [],
         "tickers": [
           "能辉科技(301046)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "南方泵业:南方泵业股份有限公司2026年面向专业投资者公开发行低碳转型挂钩科技创新公司债券(第一期)票面利率公告",
+        "summary": "南方泵业(300145)：南方泵业:南方泵业股份有限公司2026年面向专业投资者公开发行低碳转型挂钩科技创新公司债券(第一期)票面利率公告",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300145/AN202611121831664817.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "南方泵业(300145)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "华新科技投资者关系活动-20261112",
+        "summary": "华新科技(301265)：华新科技投资者关系活动-20261112",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301265/AN202611121831664607.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华新科技(301265)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "第一创业:2026年11月12日投资者关系活动记录表",
+        "summary": "第一创业(002797)：第一创业:2026年11月12日投资者关系活动记录表",
+        "publishedAt": "2026-11-12",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002797/AN202611121831664661.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "第一创业(002797)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
@@ -144962,65 +145015,16 @@
         "noticeType": "重组进展公告"
       },
       {
-        "title": "骏成科技:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集江苏骏成电子科技股份有限公司表决权的法律意见书",
-        "summary": "骏成科技(301106)：骏成科技:北京市中伦(上海)律师事务所关于中证中小投资者服务中心有限责任公司公开征集江苏骏成电子科技股份有限公司表决权的法律意见书",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301106/AN202611121831664003.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "骏成科技(301106)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "国科天成:国科天成科技股份有限公司关于调整募投项目募集资金投入金额的公告",
-        "summary": "国科天成(301571)：国科天成:国科天成科技股份有限公司关于调整募投项目募集资金投入金额的公告",
-        "publishedAt": "2026-11-12",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301571/AN202611121831663762.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "国科天成(301571)"
-        ],
-        "importance": 1,
-        "noticeType": "变更募集资金投资项目"
-      },
-      {
-        "title": "天赐材料：拟5000万元至1亿元回购股份用于注销",
-        "summary": "【天赐材料：拟5000万元至1亿元回购股份用于注销】天赐材料(002709.SZ)公告称，公司拟以自有资金和自筹资金(含商业银行回购专项贷款等)回购公司股份，回购资金总额不低于5000万元且不超过1亿元，回购价格不超过45元/股。回购股份将用于注销并减少注册资本，回购期限为自股东会审议通过之日起不超过12个月。",
-        "publishedAt": "2026-11-12 19:12:01",
+        "title": "存储涨价潮仍将延续 产品需求现分化",
+        "summary": "【存储涨价潮仍将延续 产品需求现分化】存储超级涨价周期持续超一年之际，日前，行业研究机构、存储上市公司高管等纷纷表态，预计存储芯片涨价潮仍将延续，短期难以缓解，但不同下游市场产品需求现分化，预计将持续抑制消费电子市场需求。",
+        "publishedAt": "2026-11-12 19:41:44",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123929765487.html",
+        "url": "https://finance.eastmoney.com/a/202611123929780953.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "天赐材料：子公司拟投资不超50亿元建设年产50万吨电解液及配套材料项目",
-        "summary": "【天赐材料：子公司拟投资不超50亿元建设年产50万吨电解液及配套材料项目】天赐材料(002709.SZ)公告称，公司子公司池州天赐高新材料有限公司或其子公司拟使用自筹资金投资建设“年产50万吨电解液及配套材料项目”，项目建设周期24个月，总投资不超过50亿元。项目主要产品包括锂离子电池电解液40万吨、钠离子电池电解液10万吨、液体六氟磷酸锂30万吨等。",
-        "publishedAt": "2026-11-12 19:06:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611123929762139.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "新能源",
-          "有色稀土"
+          "半导体"
         ],
         "tickers": [],
         "importance": 1,
@@ -145059,22 +145063,6 @@
       {
         "title": "美国11月11日iShares黄金持仓-每日更新(吨)",
         "summary": "美国11月11日iShares黄金持仓-每日更新(吨)；公布 460.81，预期 nan，前值 460.81。",
-        "publishedAt": "2026-11-12 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月10日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国11月10日COMEX黄金库存-每日更新(百盎司)；公布 229304.48，预期 nan，前值 229958.75。",
         "publishedAt": "2026-11-12 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -145351,8 +145339,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-12 19:40:06",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-11-12 19:52:45",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 3 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
@@ -145390,7 +145378,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-12 19:39:36",
+        "generatedAt": "2026-11-12 19:51:34",
         "summary": "上午情绪分 70，涨停 37 家，跌停 5 家，炸板 35 家，连板 11 家，最高 5 板。",
         "sections": [
           {
@@ -145429,7 +145417,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-12 19:39:36",
+        "generatedAt": "2026-11-12 19:51:34",
         "summary": "市场温度 弱，情绪周期偏分歧。题材活跃，等分歧后的承接",
         "sections": [
           {
@@ -145455,7 +145443,7 @@
               "今日炸板 35 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 机器人概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复；星徽股份:关于诉讼事项公司收到一审民事判决书的公告。",
+              "新闻/公告风险：安宁股份:信永中和会计师事务所(特殊普通合伙)关于四川安宁铁钛股份有限公司申请向不特定对象发行可转换公司债券的审核问询函相关问题的回复；航班管家：今年前十月旺季票价仍承压 商务线已全面超量恢复。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
