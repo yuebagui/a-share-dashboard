@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-13",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-13 04:50:36",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-13 04:50:36",
+    "lastNewsAt": "2026-11-13 15:04:45"
   },
   "indices": [
     {
@@ -149697,129 +149699,223 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-13",
-    "generatedAt": "2026-11-13 04:50:53",
+    "generatedAt": "2026-11-13 15:04:45",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 能源、有色稀土、新能源。",
     "themes": [
       {
-        "name": "金融",
-        "score": 16,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 9,
+        "score": 17,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 8,
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
+        "name": "半导体",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "英力特:股票交易异动公告",
-        "summary": "英力特(000635)：英力特:股票交易异动公告",
+        "title": "*ST和科:北京市通商律师事务所上海分所关于深圳市和科达精密清洗设备股份有限公司2026年第一次临时股东会的法律意见书",
+        "summary": "*ST和科(002816)：*ST和科:北京市通商律师事务所上海分所关于深圳市和科达精密清洗设备股份有限公司2026年第一次临时股东会的法律意见书",
         "publishedAt": "2026-11-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000635/AN202611121831668202.html",
+        "url": "https://data.eastmoney.com/notices/detail/002816/AN202611131831684787.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "英力特(000635)"
+          "*ST和科(002816)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "法律意见书"
       },
       {
-        "title": "亚玛顿:股票交易异常波动公告",
-        "summary": "亚玛顿(002623)：亚玛顿:股票交易异常波动公告",
+        "title": "领益智造:2026年11月12日投资者关系活动记录表",
+        "summary": "领益智造(002600)：领益智造:2026年11月12日投资者关系活动记录表",
         "publishedAt": "2026-11-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002623/AN202611121831665844.html",
+        "url": "https://data.eastmoney.com/notices/detail/002600/AN202611131831684697.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "亚玛顿(002623)"
+          "领益智造(002600)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "调研活动"
       },
       {
-        "title": "辽宁成大:辽宁成大股份有限公司关于股东股份解质押的公告",
-        "summary": "辽宁成大(600739)：辽宁成大:辽宁成大股份有限公司关于股东股份解质押的公告",
+        "title": "关于同意光库科技重大资产重组注册的批复",
+        "summary": "光库科技(300620)：关于同意光库科技重大资产重组注册的批复",
         "publishedAt": "2026-11-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600739/AN202611121831665278.html",
+        "url": "https://data.eastmoney.com/notices/detail/300620/AN202611131831688881.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "辽宁成大(600739)"
+          "光库科技(300620)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "创业板并购重组审核注册结果通知"
       },
       {
-        "title": "维业股份:关于公司部分银行账户资金被冻结的公告",
-        "summary": "维业股份(300621)：维业股份:关于公司部分银行账户资金被冻结的公告",
+        "title": "关于同意创业黑马重大资产重组注册的批复",
+        "summary": "创业黑马(300688)：关于同意创业黑马重大资产重组注册的批复",
         "publishedAt": "2026-11-13",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300621/AN202611121831665152.html",
+        "url": "https://data.eastmoney.com/notices/detail/300688/AN202611131831688880.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "维业股份(300621)"
+          "创业黑马(300688)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "创业板并购重组审核注册结果通知"
       },
       {
-        "title": "金价再度跌破3900美元",
-        "summary": "【金价再度跌破3900美元】由于美国通胀持续，市场预期美联储或将进一步收紧货币政策，推动美元走强，美国国债收益率走高，黄金、白银期价12日大幅下跌。纽约商品交易所12月黄金期价当日再次跌破每盎司3900美元，早盘跌幅一度超过3.5%。12月白银期价跌破每盎司50美元，跌幅超过4%。",
-        "publishedAt": "2026-11-13 04:40:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611133930058144.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "有色稀土"
+        "title": "肇民科技:2026年11月11日-11月12日投资者关系活动记录表",
+        "summary": "肇民科技(301000)：肇民科技:2026年11月11日-11月12日投资者关系活动记录表",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301000/AN202611131831685330.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "肇民科技(301000)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000811冰轮环境投资者关系管理信息20261113",
+        "summary": "冰轮环境(000811)：000811冰轮环境投资者关系管理信息20261113",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000811/AN202611131831685267.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "冰轮环境(000811)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "宏明电子:投资者关系活动记录表（2026-005）",
+        "summary": "宏明电子(301682)：宏明电子:投资者关系活动记录表（2026-005）",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301682/AN202611131831684997.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "宏明电子(301682)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "中科环保:2026年11月12日投资者关系活动记录表",
+        "summary": "中科环保(301175)：中科环保:2026年11月12日投资者关系活动记录表",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301175/AN202611131831680568.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "中科环保(301175)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000591太阳能投资者关系管理信息20261113",
+        "summary": "太阳能(000591)：000591太阳能投资者关系管理信息20261113",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000591/AN202611131831680467.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "太阳能(000591)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "000726鲁泰A投资者关系管理信息20261113",
+        "summary": "鲁泰A(000726)：000726鲁泰A投资者关系管理信息20261113",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000726/AN202611131831679160.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鲁泰A(000726)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "太力科技:投资者关系活动记录表2026029",
+        "summary": "太力科技(301595)：太力科技:投资者关系活动记录表2026029",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301595/AN202611131831677146.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "太力科技(301595)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "侨源股份:2026年11月11日-2026年11月12日投资者关系活动记录表",
@@ -149838,151 +149934,34 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "海南矿业:海南矿业股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项经上海证券交易所并购重组审核委员会审议结果的公告",
-        "summary": "海南矿业(601969)：海南矿业:海南矿业股份有限公司关于发行股份及支付现金购买资产并募集配套资金暨关联交易事项经上海证券交易所并购重组审核委员会审议结果的公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601969/AN202611121831666781.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "海南矿业(601969)"
-        ],
-        "importance": 1,
-        "noticeType": "其他增发事项公告"
-      },
-      {
-        "title": "友阿股份:2026-054关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得深圳证券交易所并购重组审核委员会审核通过的公告",
-        "summary": "友阿股份(002277)：友阿股份:2026-054关于公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项获得深圳证券交易所并购重组审核委员会审核通过的公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002277/AN202611121831666630.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "友阿股份(002277)"
-        ],
-        "importance": 1,
-        "noticeType": "增发获准公告"
-      },
-      {
-        "title": "贝因美:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "summary": "贝因美(002570)：贝因美:关于取得金融机构股票回购专项贷款承诺函的公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002570/AN202611121831665513.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "贝因美(002570)"
-        ],
-        "importance": 1,
-        "noticeType": "借贷"
-      },
-      {
-        "title": "辽宁成大:辽宁成大股份有限公司关于董事长提议回购公司股份的公告",
-        "summary": "辽宁成大(600739)：辽宁成大:辽宁成大股份有限公司关于董事长提议回购公司股份的公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600739/AN202611121831665279.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "辽宁成大(600739)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "弘讯科技:与私募基金合作投资公告",
-        "summary": "弘讯科技(603015)：弘讯科技:与私募基金合作投资公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603015/AN202611121831665277.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "弘讯科技(603015)"
-        ],
-        "importance": 1,
-        "noticeType": "投资设立公司"
-      },
-      {
-        "title": "华特达因:关于控股股东增持公司股份触及1%整数倍暨增持计划进展的公告",
-        "summary": "华特达因(000915)：华特达因:关于控股股东增持公司股份触及1%整数倍暨增持计划进展的公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000915/AN202611121831665037.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华特达因(000915)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
-      },
-      {
-        "title": "美迪凯:杭州美迪凯光电科技股份有限公司关于2024年股票期权与限制性股票激励计划首次授予股票期权第二个行权期自主行权实施公告",
-        "summary": "美迪凯(688079)：美迪凯:杭州美迪凯光电科技股份有限公司关于2024年股票期权与限制性股票激励计划首次授予股票期权第二个行权期自主行权实施公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688079/AN202611121831665028.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "美迪凯(688079)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "克利夫兰联储行长称通胀正朝错误方向发展 利率需更具限制性",
-        "summary": "【克利夫兰联储行长称通胀正朝错误方向发展 利率需更具限制性】克利夫兰联储行长贝丝·哈马克重申，她认为在人工智能投资所带来的需求压力下，需要提高利率以抗击通胀。“我的预期是我们需要将政策转向限制性立场，以帮助通胀回落至2%的目标，这一点至关重要，”哈马克周四在俄亥俄州哥伦布的活动上表示。",
-        "publishedAt": "2026-11-13 03:46:01",
+        "title": "余承东亮相问界新车发布会",
+        "summary": "【余承东亮相问界新车发布会】11月13日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东亮相问界新M8上市发布会。这是华为与赛力斯确立新合作模式之后，他首次在问界发布会上登场。",
+        "publishedAt": "2026-11-13 14:59:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611133930051355.html",
+        "url": "https://finance.eastmoney.com/a/202611133930659677.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "旧金山联储行长戴利称可能需要进一步加息以抑制通胀",
-        "summary": "【旧金山联储行长戴利称可能需要进一步加息以抑制通胀】旧金山联储行长玛丽·戴利表示，可能需要进一步加息以降低通胀，并称越来越多的企业正在考虑涨价。“我倾向于认为需要进一步收紧政策，因为可以看到通胀持续面临压力，而且这种压力并不仅仅存在于受关税或油价影响最直接的行业，”戴利周四在加利福尼亚州斯坦福经济政策研究所表示。",
-        "publishedAt": "2026-11-13 03:37:34",
+        "title": "韩国未来资产证券上海首席代表查凌睿：韩国资金流入中国资产速度加快",
+        "summary": "【韩国未来资产证券上海首席代表查凌睿：韩国资金流入中国资产速度加快】在今日举行的上海证券交易所国际投资者大会上，韩国未来资产证券上海首席代表查凌睿接受媒体群访时表示，前三季度，韩国投资者净买入金额前15名的港股资金合计约为2.28亿美元；上半年，韩国投资者净买入A股约6.78亿美元，同比增长130.55%，韩国投资者正将中国作为海外配置的重要市场，重点聚焦…",
+        "publishedAt": "2026-11-13 14:51:30",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611133930050872.html",
+        "url": "https://finance.eastmoney.com/a/202611133930657349.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "半导体",
+          "AI算力",
+          "新能源",
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -150020,6 +149999,22 @@
       {
         "title": "美国截至11月6日当周EIA原油库存变动(万桶)",
         "summary": "美国截至11月6日当周EIA原油库存变动(万桶)；公布 465.7，预期 -110.9，前值 -86.5。",
+        "publishedAt": "2026-11-13 01:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至11月6日当周EIA俄克拉荷马州-库欣原油库存(万桶)",
+        "summary": "美国截至11月6日当周EIA俄克拉荷马州-库欣原油库存(万桶)；公布 10.6，预期 nan，前值 28.0。",
         "publishedAt": "2026-11-13 01:00",
         "source": "百度财经日历",
         "url": "",
@@ -150283,7 +150278,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -150296,15 +150291,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-13 04:50:53",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-11-13 15:04:45",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 1 条；主题映射集中在 能源、有色稀土、新能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：能源、有色稀土、新能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -150400,7 +150395,7 @@
               "今日炸板 35 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 机器人概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：英力特:股票交易异动公告；亚玛顿:股票交易异常波动公告。",
+              "新闻/公告风险：*ST和科:北京市通商律师事务所上海分所关于深圳市和科达精密清洗设备股份有限公司2026年第一次临时股东会的法律意见书。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
