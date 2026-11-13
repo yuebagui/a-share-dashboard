@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-13",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-13 19:34:38",
+    "generatedAt": "2026-11-13 23:32:56",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -150011,14 +150011,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-13",
-    "generatedAt": "2026-11-13 19:35:44",
+    "generatedAt": "2026-11-13 23:33:42",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、半导体、能源。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
+        "name": "AI算力",
+        "score": 18,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 10,
         "isFocusBoard": false
       },
       {
@@ -150032,38 +150037,23 @@
         "isFocusBoard": false
       },
       {
+        "name": "金融",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
         "name": "医药",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
-        "score": 2,
+        "score": 3,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "天普股份：股票交易严重异常波动 11月16日起停牌核查",
-        "summary": "【天普股份：股票交易严重异常波动 11月16日起停牌核查】天普股份公告，因公司股票价格自2026年11月10日-11月13日连续4个交易日涨停，自11月9日起股价累计上涨54.73%。公司股价于11月11日触及股票交易异常波动情形。2026年11月12日和2026年11月13日公司股价连续两个交易日继续以涨停价收盘，已累积巨大交易风险，为维护投资者利益，公…",
-        "publishedAt": "2026-11-13 19:05:12",
+        "title": "纳斯达克综合指数向下跌破25000点 最新报24918.71点",
+        "summary": "纳斯达克综合指数向下跌破25000点，最新报24918.71点，日内下跌1.76%。",
+        "publishedAt": "2026-11-13 23:25:27",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611133930805813.html",
+        "url": "https://finance.eastmoney.com/a/202611133931044913.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -150071,6 +150061,107 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "英伟达股价跌幅扩大至3.3%",
+        "summary": "英伟达股价跌幅扩大至3.3%，报160.760美元/股，总市值报3.87万亿美元。博通股价下跌5.58%，SK海力士股价下跌4.99%，超威半导体股价下跌9.05%，美光科技股价下跌4.47%。费城半导体指数跌5%，报9980.42点。",
+        "publishedAt": "2026-11-13 23:12:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611133931040925.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "OpenAI推出ChatGPT Wallet 支持智能体代理支付",
+        "summary": "【OpenAI推出ChatGPT Wallet 支持智能体代理支付】OpenAI推出ChatGPT Wallet，允许用户保存银行卡，并授权旗下智能体代表用户完成购物、酒店预订等交易。用户在支付前需审核并批准每笔交易，系统通过生成支付令牌替代真实银行卡信息，以降低支付信息泄露风险。目前该功能面向美国Pro用户开放，支持符合条件的美国发行信用卡，用户需年满1…",
+        "publishedAt": "2026-11-13 23:08:34",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611133931037285.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股半导体板块集体走低 费城半导体指数跌4.3%",
+        "summary": "【美股半导体板块集体走低 费城半导体指数跌4.3%】美股半导体板块盘中普遍下跌，费城半导体指数跌4.29%。成分股方面，AMD跌8.35%，闪迪跌7.28%，Coherent跌7.00%，迈威尔科技跌6.25%，Lumentum跌6.05%，应用材料跌5.09%，博通跌5.19%，英伟达跌2.46%，台积电跌1.92%，美光科技跌4.18%。三倍做多半导体…",
+        "publishedAt": "2026-11-13 23:05:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611133931034640.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "费城半导体指数跌幅扩大至2%，AMD跌超5%",
+        "summary": "【费城半导体指数跌幅扩大至2%，AMD跌超5%】11月13日消息，费城半导体指数跌幅扩大至2%，报10289.95点。博通股价下跌4.22%，SK海力士股价下跌3.08%，超威半导体股价下跌5.39%。",
+        "publishedAt": "2026-11-13 22:46:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611133931024367.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美股三大股指小幅高开 英伟达反弹1.6%",
+        "summary": "【美股三大股指小幅高开 英伟达反弹1.6%】美股三大股指小幅高开，道琼斯指数涨0.35%，标普500指数涨0.32%，纳斯达克综合指数涨0.15%。热门股票中，苹果股价上涨1.1%，英伟达股价上涨1.61%，微软股价下跌0.82%，谷歌-A股价上涨1.25%，亚马逊股价上涨0.58%，台积电股价上涨0.13%，SpaceX股价下跌0.14%，博通股价下跌2…",
+        "publishedAt": "2026-11-13 22:31:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611133931007134.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "东北证券:东北证券股份有限公司2023年面向专业投资者公开发行公司债券(第一期)2026年兑付暨摘牌公告",
+        "summary": "东北证券(000686)：东北证券:东北证券股份有限公司2023年面向专业投资者公开发行公司债券(第一期)2026年兑付暨摘牌公告",
+        "publishedAt": "2026-11-13",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000686/AN202611131831691559.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "东北证券(000686)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
       },
       {
         "title": "运达股份:300772运达股份投资者关系管理信息20261113",
@@ -150251,102 +150342,6 @@
         ],
         "importance": 1,
         "noticeType": "调研活动"
-      },
-      {
-        "title": "领益智造:2026年11月12日投资者关系活动记录表",
-        "summary": "领益智造(002600)：领益智造:2026年11月12日投资者关系活动记录表",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002600/AN202611131831684697.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "领益智造(002600)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "德明利：拟4亿元投资新型存储芯片企业宏祺芯",
-        "summary": "【德明利：拟4亿元投资新型存储芯片企业宏祺芯】德明利(001309.SZ)公告称，公司拟与关联方共同投资深圳市宏祺芯科技有限责任公司，公司投资额为4亿元，投后持股7.06%。同时，公司以本次股权投资为纽带，与宏祺芯在新型存储器领域开展长期战略合作，并签订《战略合作协议》。宏祺芯为全球新型存储芯片企业，本次投资及战略合作将加强产业链互补优势，推动新型存储器规…",
-        "publishedAt": "2026-11-13 19:31:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611133930828480.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "长江证券杨洋：国产科技迎来产业兑现与制度支持共振",
-        "summary": "【长江证券杨洋：国产科技迎来产业兑现与制度支持共振】长江证券电子行业首席分析师杨洋表示，外部政策不确定性上升，正推动全球科技产业链重新评估供应安全与资本开支节奏，对国内而言，则进一步凸显自主算力、半导体制造和基础软硬件的重要价值。",
-        "publishedAt": "2026-11-13 19:19:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611133930819834.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "星湖科技：控股股东拟增持7500万元至1.5亿元股份",
-        "summary": "【星湖科技：控股股东拟增持7500万元至1.5亿元股份】星湖科技(600866.SH)公告称，公司控股股东广新集团计划自公告披露之日起12个月内，通过集中竞价方式增持公司股份，增持金额不低于7500万元、不超过1.5亿元，增持比例不超过总股本2%，资金来源为自有资金及金融机构增持专项贷款。",
-        "publishedAt": "2026-11-13 19:05:32",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611133930807040.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至11月6日当周EIA精炼油库存变动(万桶)",
-        "summary": "美国截至11月6日当周EIA精炼油库存变动(万桶)；公布 407.1，预期 -96.8，前值 -356.5。",
-        "publishedAt": "2026-11-13 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至11月6日当周EIA每周原油进口变动(万桶)",
-        "summary": "美国截至11月6日当周EIA每周原油进口变动(万桶)；公布 54.4，预期 nan，前值 117.9。",
-        "publishedAt": "2026-11-13 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
       }
     ]
   },
@@ -150513,15 +150508,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-13 19:35:44",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 1 条；主题映射集中在 金融、能源、有色稀土。",
+        "generatedAt": "2026-11-13 23:33:42",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、半导体、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、半导体、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -150552,7 +150547,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-13 19:34:38",
+        "generatedAt": "2026-11-13 23:32:56",
         "summary": "上午情绪分 6，涨停 37 家，跌停 33 家，炸板 21 家，连板 7 家，最高 4 板。",
         "sections": [
           {
@@ -150591,7 +150586,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-13 19:34:38",
+        "generatedAt": "2026-11-13 23:32:56",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -150617,7 +150612,7 @@
               "今日炸板 21 只，追高前先看前排封单和回封质量。",
               "今日跌停 33 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天普股份：股票交易严重异常波动 11月16日起停牌核查。",
+              "新闻/公告风险：纳斯达克综合指数向下跌破25000点 最新报24918.71点；英伟达股价跌幅扩大至3.3%。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
