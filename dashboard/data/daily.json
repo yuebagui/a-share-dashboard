@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-13",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-14 04:30:10",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-14 04:30:10",
+    "lastNewsAt": "2026-11-16 15:07:22"
   },
   "indices": [
     {
@@ -124468,279 +124470,139 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-13",
-    "generatedAt": "2026-11-14 04:30:41",
+    "tradeDate": "2026-11-16",
+    "generatedAt": "2026-11-16 15:07:22",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 能源、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 7 条；主题映射集中在 金融、AI算力、半导体。",
     "themes": [
       {
-        "name": "能源",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 9,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 7,
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 3,
+        "score": 4,
         "isFocusBoard": false
       },
       {
         "name": "军工",
         "score": 2,
         "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "英国海事机构：美伊冲突相关海上安全事件增至163起",
-        "summary": "【英国海事机构：美伊冲突相关海上安全事件增至163起】当地时间11月13日，英国海上贸易行动办公室（UKMTO）发布最新一期海上安全周报称，今年以来，其监测区域内与伊朗和美国冲突相关的海上安全事件累计达163起，较11月6日公布的数据增加8起。",
-        "publishedAt": "2026-11-14 03:56:59",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611143931077235.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%",
-        "summary": "【英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%】英仕曼集团的Matthew Rowe表示，他越来越担心美国经济陷入滞胀，并认为这一风险可能推动10年期美国国债收益率在明年初升至5.5%。管理着2,710亿美元资产的英仕曼集团的高级投资组合经理兼解决方案部门董事总经理Rowe表示，随着美联储将利率推高至足以引发温和衰退的水平，各期…",
-        "publishedAt": "2026-11-14 03:46:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611143931076927.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "东北证券:东北证券股份有限公司2023年面向专业投资者公开发行公司债券(第一期)2026年兑付暨摘牌公告",
-        "summary": "东北证券(000686)：东北证券:东北证券股份有限公司2023年面向专业投资者公开发行公司债券(第一期)2026年兑付暨摘牌公告",
-        "publishedAt": "2026-11-13",
+        "title": "ST棕榈:第七届董事会第十三次会议决议公告",
+        "summary": "ST棕榈(002431)：ST棕榈:第七届董事会第十三次会议决议公告",
+        "publishedAt": "2026-11-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000686/AN202611131831691559.html",
+        "url": "https://data.eastmoney.com/notices/detail/002431/AN202611161831737676.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "impact": "风险",
+        "themes": [],
         "tickers": [
-          "东北证券(000686)"
+          "ST棕榈(002431)"
+        ],
+        "importance": 1,
+        "noticeType": "高管人员任职变动"
+      },
+      {
+        "title": "ST棕榈:关于公司启动庭外重组事项的公告",
+        "summary": "ST棕榈(002431)：ST棕榈:关于公司启动庭外重组事项的公告",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002431/AN202611161831737673.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST棕榈(002431)"
         ],
         "importance": 1,
         "noticeType": "其他"
       },
       {
-        "title": "运达股份:300772运达股份投资者关系管理信息20261113",
-        "summary": "运达股份(300772)：运达股份:300772运达股份投资者关系管理信息20261113",
-        "publishedAt": "2026-11-13",
+        "title": "侨银股份:关于“侨银转债”可能存在不能按期足额兑付本息的第二次重大风险提示性公告",
+        "summary": "侨银股份(002973)：侨银股份:关于“侨银转债”可能存在不能按期足额兑付本息的第二次重大风险提示性公告",
+        "publishedAt": "2026-11-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300772/AN202611131831697187.html",
+        "url": "https://data.eastmoney.com/notices/detail/002973/AN202611151831732760.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "运达股份(300772)"
+          "侨银股份(002973)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "宣泰医药:投资者关系活动记录表(2026年上海辖区上市公司三季报集体业绩说明会)",
-        "summary": "宣泰医药(688247)：宣泰医药:投资者关系活动记录表(2026年上海辖区上市公司三季报集体业绩说明会)",
-        "publishedAt": "2026-11-13",
+        "title": "*ST闻泰:关于子公司经营管理情况的进展公告",
+        "summary": "*ST闻泰(600745)：*ST闻泰:关于子公司经营管理情况的进展公告",
+        "publishedAt": "2026-11-16",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688247/AN202611131831694923.html",
+        "url": "https://data.eastmoney.com/notices/detail/600745/AN202611151831731514.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [
-          "宣泰医药(688247)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "300569天能重工投资者关系管理信息20261113",
-        "summary": "天能重工(300569)：300569天能重工投资者关系管理信息20261113",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300569/AN202611131831693663.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [],
         "tickers": [
-          "天能重工(300569)"
+          "*ST闻泰(600745)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "芯海科技:20261114【2026-006】芯海科技投资者关系活动记录表(2026年11月11-13日)",
-        "summary": "芯海科技(688595)：芯海科技:20261114【2026-006】芯海科技投资者关系活动记录表(2026年11月11-13日)",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688595/AN202611131831693191.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "芯海科技(688595)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "邵阳液压:关于签署中标项目合同的公告",
-        "summary": "邵阳液压(301079)：邵阳液压:关于签署中标项目合同的公告",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301079/AN202611131831693161.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "邵阳液压(301079)"
-        ],
-        "importance": 1,
-        "noticeType": "重大合同"
-      },
-      {
-        "title": "泰凌微:投资者关系活动记录表2026年11月12日业绩说明会",
-        "summary": "泰凌微(688591)：泰凌微:投资者关系活动记录表2026年11月12日业绩说明会",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688591/AN202611131831691811.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "泰凌微(688591)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "裕太微:裕太微电子股份有限公司投资者关系活动记录表_(2026年11月3日-11月12日)",
-        "summary": "裕太微(688515)：裕太微:裕太微电子股份有限公司投资者关系活动记录表_(2026年11月3日-11月12日)",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688515/AN202611131831691810.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "裕太微(688515)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "广发证券:2026年11月13日投资者关系活动记录表",
-        "summary": "广发证券(000776)：广发证券:2026年11月13日投资者关系活动记录表",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000776/AN202611131831691194.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "广发证券(000776)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中视传媒:中视传媒股份有限公司2026年上海辖区上市公司三季报集体业绩说明会活动记录",
-        "summary": "中视传媒(600088)：中视传媒:中视传媒股份有限公司2026年上海辖区上市公司三季报集体业绩说明会活动记录",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600088/AN202611131831691335.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中视传媒(600088)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "步科股份:投资者关系活动记录表(2026年11月9-12日)",
-        "summary": "步科股份(688160)：步科股份:投资者关系活动记录表(2026年11月9-12日)",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688160/AN202611131831689958.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "步科股份(688160)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "冠豪高新:广东冠豪高新技术股份有限公司2026年11月投资者关系活动记录表(2026-006)",
-        "summary": "冠豪高新(600433)：冠豪高新:广东冠豪高新技术股份有限公司2026年11月投资者关系活动记录表(2026-006)",
-        "publishedAt": "2026-11-13",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600433/AN202611131831689964.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "冠豪高新(600433)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "英伟达第三季获嘉实基金增持 稳居头号重仓股之位",
-        "summary": "【英伟达第三季获嘉实基金增持 稳居头号重仓股之位】嘉实基金的13F申报文件显示，该机构第三季增持英伟达，令该股在其资产中的占比升至7.1%。中概股方面，嘉实基金增持阿里巴巴，清仓贝壳和万国数据。",
-        "publishedAt": "2026-11-14 04:25:50",
+        "title": "国内商品期货收盘 主力合约多数下跌",
+        "summary": "国内商品期货收盘，主力合约多数下跌。跌幅方面，沪银跌超6%，红枣跌超4%，豆一、碳酸锂、铁矿石、铂跌超3%，玻璃、沪锡、沪镍跌近2%，钯、纯碱、菜粕、鸡蛋、纸浆等跌超1%；涨幅方面，低硫燃油涨近3%，纯苯、丁二烯胶、原油、苯乙烯涨超2%，乙二醇、燃油、烧碱涨超1%。",
+        "publishedAt": "2026-11-16 15:00:10",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611143931079056.html",
+        "url": "https://finance.eastmoney.com/a/202611163931755522.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
+        "themes": [
+          "有色稀土",
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "黄仁勋卸任英伟达 CEO 次日 日本市场 RTX 50 系显卡大幅降价",
+        "summary": "【黄仁勋卸任英伟达 CEO 次日 日本市场 RTX 50 系显卡大幅降价】尽管管理层变动与显卡价格波动看似没有直接关系，但就在黄仁勋离职后的第二天，英伟达旗舰显卡 GeForce RTX 5090 和 RTX 5080 在日本市场突然大幅降价，引发关注。多家日本媒体报道称，RTX 5090 的降价幅度最高达到 22%，RTX 5080 也下跌近 17%。",
+        "publishedAt": "2026-11-16 14:59:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611163931755713.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
           "AI算力"
         ],
@@ -124749,11 +124611,155 @@
         "noticeType": ""
       },
       {
-        "title": "美联储公布了11月至12月的短期国债购买计划",
-        "summary": "美联储公布了11月至12月的短期国债购买计划，将准备金管理购买的暂停期延长至12月中旬；同时，美联储将购买140亿美元的短期国债，用于抵押贷款支持证券（MBS）的再投资。",
-        "publishedAt": "2026-11-14 04:05:42",
+        "title": "黄金跌至2025年10月以来最低 因美国加息预期升温",
+        "summary": "【黄金跌至2025年10月以来最低 因美国加息预期升温】美国通胀居高不下，强化了市场对加息将延续至明年的预期，黄金大跌至2025年10月以来最低水平。与此同时，科技股下挫促使投资者卖出黄金，以弥补亏损。金价一度下跌1.3%，至每盎司3830美元附近；白银跌逾3%，创去年11月以来新低。消费者价格连续第三个月高于预期后，交易员加大了对美联储明年进一步收紧货币…",
+        "publishedAt": "2026-11-16 14:53:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611143931077919.html",
+        "url": "https://finance.eastmoney.com/a/202611163931753975.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "山东联科科技股份有限公司2026年11月14日投资者关系活动记录表",
+        "summary": "联科科技(001207)：山东联科科技股份有限公司2026年11月14日投资者关系活动记录表",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001207/AN202611161831743638.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "联科科技(001207)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "学大教育:2026年11月9日-11月13日投资者关系活动记录表",
+        "summary": "学大教育(000526)：学大教育:2026年11月9日-11月13日投资者关系活动记录表",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000526/AN202611161831740934.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "学大教育(000526)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002334英威腾投资者关系管理信息20261116",
+        "summary": "英威腾(002334)：002334英威腾投资者关系管理信息20261116",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002334/AN202611161831740795.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英威腾(002334)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002864盘龙药业投资者关系管理信息20261113",
+        "summary": "盘龙药业(002864)：002864盘龙药业投资者关系管理信息20261113",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002864/AN202611161831740630.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盘龙药业(002864)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002046国机精工投资者关系管理信息20261113",
+        "summary": "国机精工(002046)：002046国机精工投资者关系管理信息20261113",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002046/AN202611161831740036.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国机精工(002046)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002214大立科技投资者关系管理信息20261113",
+        "summary": "大立科技(002214)：002214大立科技投资者关系管理信息20261113",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002214/AN202611161831738504.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "大立科技(002214)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "爱迪特:301580爱迪特投资者关系管理信息20261112",
+        "summary": "爱迪特(301580)：爱迪特:301580爱迪特投资者关系管理信息20261112",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301580/AN202611161831738016.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "爱迪特(301580)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "TCL中环2026年11月15日投资者关系活动记录表",
+        "summary": "TCL中环(002129)：TCL中环2026年11月15日投资者关系活动记录表",
+        "publishedAt": "2026-11-16",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002129/AN202611161831737458.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "TCL中环(002129)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "杭叉集团董秘江韵：未来三到五年无人叉车渗透率有望从2%提升至10%",
+        "summary": "【杭叉集团董秘江韵：未来三到五年无人叉车渗透率有望从2%提升至10%】“我们是一家成立70年的公司，今年是二次创业的起点。”近日，在2026年上海证券交易所国际投资者大会上，杭叉集团董事会秘书江韵在《向新·向全球：中国装备制造的新征程》的圆桌论坛上，分享了一家改制的国营工厂全面国际化的转型思考。",
+        "publishedAt": "2026-11-16 14:57:35",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611163931755610.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -124765,31 +124771,31 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至11月6日当周EIA精炼油库存变动(万桶)",
-        "summary": "美国截至11月6日当周EIA精炼油库存变动(万桶)；公布 407.1，预期 -96.8，前值 -356.5。",
-        "publishedAt": "2026-11-13 01:00",
+        "title": "日本央行审议委员高田创：应在每次加息后评估银行的放贷立场及企业融资状况",
+        "summary": "【日本央行审议委员高田创：应在每次加息后评估银行的放贷立场及企业融资状况】日本央行审议委员高田创表示，日本央行仍在提高政策利率的过程中，因为它寻求政策正常化，以应对全球货币和财政政策的转变；日本央行应在每次加息后评估银行的放贷立场及企业融资状况。",
+        "publishedAt": "2026-11-16 14:52:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611163931753738.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "日本第三季度季调后实际GDP季率初值(%)",
+        "summary": "日本第三季度季调后实际GDP季率初值(%)；公布 0.0，预期 0.1，前值 0.4。",
+        "publishedAt": "2026-11-16 07:50",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至11月6日当周EIA每周原油进口变动(万桶)",
-        "summary": "美国截至11月6日当周EIA每周原油进口变动(万桶)；公布 54.4，预期 nan，前值 117.9。",
-        "publishedAt": "2026-11-13 01:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -124946,7 +124952,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -124959,15 +124965,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-14 04:30:41",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 2 条；主题映射集中在 能源、金融、AI算力。",
+        "generatedAt": "2026-11-16 15:07:22",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 7 条；主题映射集中在 金融、AI算力、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -125063,7 +125069,7 @@
               "今日炸板 21 只，追高前先看前排封单和回封质量。",
               "今日跌停 33 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：英国海事机构：美伊冲突相关海上安全事件增至163起；英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%。",
+              "新闻/公告风险：ST棕榈:第七届董事会第十三次会议决议公告；ST棕榈:关于公司启动庭外重组事项的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
