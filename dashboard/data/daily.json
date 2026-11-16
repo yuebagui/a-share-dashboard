@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-16",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-16 20:03:18",
+    "tradeDate": "2026-11-17",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-17 01:28:53",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -118914,7 +118914,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -119083,72 +119084,111 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-16",
-    "generatedAt": "2026-11-16 20:03:40",
+    "tradeDate": "2026-11-17",
+    "generatedAt": "2026-11-17 01:29:29",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 AI算力、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 5 条；主题映射集中在 AI算力、有色稀土、金融。",
     "themes": [
       {
         "name": "AI算力",
-        "score": 19,
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 15,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 7,
+        "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 6,
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "杭州高新:关于持股5%以上股东所持部分股份被司法执行的提示性公告",
-        "summary": "杭州高新(300478)：杭州高新:关于持股5%以上股东所持部分股份被司法执行的提示性公告",
-        "publishedAt": "2026-11-16",
+        "title": "优利德:关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示、填补措施及相关主体承诺的公告",
+        "summary": "优利德(688628)：优利德:关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示、填补措施及相关主体承诺的公告",
+        "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300478/AN202611161831759656.html",
+        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760024.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "杭州高新(300478)"
+          "优利德(688628)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "其他"
       },
       {
-        "title": "ST银江:关于子公司名下部分房产将被司法拍卖的提示性公告",
-        "summary": "ST银江(300020)：ST银江:关于子公司名下部分房产将被司法拍卖的提示性公告",
-        "publishedAt": "2026-11-16",
+        "title": "优利德:关于最近五年未被证券监管部门和证券交易所采取处罚或监管措施的公告",
+        "summary": "优利德(688628)：优利德:关于最近五年未被证券监管部门和证券交易所采取处罚或监管措施的公告",
+        "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300020/AN202611161831759451.html",
+        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760025.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "优利德(688628)"
+        ],
+        "importance": 1,
+        "noticeType": "自查报告"
+      },
+      {
+        "title": "皮阿诺:股票交易异常波动公告",
+        "summary": "皮阿诺(002853)：皮阿诺:股票交易异常波动公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002853/AN202611161831759871.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "ST银江(300020)"
+          "皮阿诺(002853)"
         ],
         "importance": 1,
-        "noticeType": "诉讼仲裁"
+        "noticeType": "股票交易异常波动"
       },
       {
-        "title": "金科股份：股票收盘价低于1元 存在可能因股价低于面值被终止上市的风险",
-        "summary": "【金科股份：股票收盘价低于1元 存在可能因股价低于面值被终止上市的风险】金科股份(000656.SZ)公告称，公司股票于2026年11月16日收盘价为0.97元/股，低于1元。根据相关规定，公司股票存在可能因股价低于面值被终止上市的风险。",
-        "publishedAt": "2026-11-16 19:47:14",
+        "title": "美股三大指数下跌 纳指跌1.6% 芯片股集体下挫",
+        "summary": "【美股三大指数下跌 纳指跌1.6% 芯片股集体下挫】美东时间周一，美股三大指数集体下跌，截至发稿，道指跌0.75%，纳指跌1.63%，标普500指数跌1.20%。",
+        "publishedAt": "2026-11-17 00:53:06",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611163931989234.html",
+        "url": "https://finance.eastmoney.com/a/202611163932124582.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "伊朗称多艘油轮在霍尔木兹海峡触雷",
+        "summary": "【伊朗称多艘油轮在霍尔木兹海峡触雷】伊朗伊斯兰革命卫队和伊朗海军11月16日称，多艘油轮在霍尔木兹海峡触雷。伊朗方面强调，“关闭导航系统且未经伊朗授权擅自进入限制区域或不安全海域，会使违规船只面临严重风险。”",
+        "publishedAt": "2026-11-16 23:30:56",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611163932179638.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -119158,155 +119198,11 @@
         "noticeType": ""
       },
       {
-        "title": "魅视科技:001229魅视科技投资者关系管理信息20261116",
-        "summary": "魅视科技(001229)：魅视科技:001229魅视科技投资者关系管理信息20261116",
-        "publishedAt": "2026-11-16",
+        "title": "顺钠股份:关于回购公司股份方案的公告",
+        "summary": "顺钠股份(000533)：顺钠股份:关于回购公司股份方案的公告",
+        "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001229/AN202611161831757015.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "魅视科技(001229)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "金徽股份:金徽矿业股份有限公司投资者关系活动记录表",
-        "summary": "金徽股份(603132)：金徽股份:金徽矿业股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603132/AN202611161831756367.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "金徽股份(603132)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "众生药业:2026年11月16日投资者关系活动记录表",
-        "summary": "众生药业(002317)：众生药业:2026年11月16日投资者关系活动记录表",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002317/AN202611161831755224.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "众生药业(002317)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "汇通集团:汇通建设集团股份有限公司投资者关系活动记录表(2026-003)",
-        "summary": "汇通集团(603176)：汇通集团:汇通建设集团股份有限公司投资者关系活动记录表(2026-003)",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603176/AN202611161831754549.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汇通集团(603176)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "华信新材:300717华信新材投资者关系管理信息20261116",
-        "summary": "华信新材(300717)：华信新材:300717华信新材投资者关系管理信息20261116",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300717/AN202611161831759642.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华信新材(300717)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "科翔股份:关于与九江经济技术开发区管理委员会签订项目投资协议的进展公告",
-        "summary": "科翔股份(300903)：科翔股份:关于与九江经济技术开发区管理委员会签订项目投资协议的进展公告",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300903/AN202611161831759452.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "科翔股份(300903)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "唐人神:2026年11月13日投资者关系活动记录表",
-        "summary": "唐人神(002567)：唐人神:2026年11月13日投资者关系活动记录表",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002567/AN202611161831759311.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "唐人神(002567)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "胜宏科技:关于向2026年A股限制性股票激励计划激励对象首次授予限制性股票的公告",
-        "summary": "胜宏科技(300476)：胜宏科技:关于向2026年A股限制性股票激励计划激励对象首次授予限制性股票的公告",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300476/AN202611161831759245.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "胜宏科技(300476)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "胜宏科技:关于调整2026年A股限制性股票激励计划首次授予激励对象名单及授予数量的公告",
-        "summary": "胜宏科技(300476)：胜宏科技:关于调整2026年A股限制性股票激励计划首次授予激励对象名单及授予数量的公告",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300476/AN202611161831759247.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "胜宏科技(300476)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励对象名单"
-      },
-      {
-        "title": "胜宏科技:关于回购公司股份方案的公告",
-        "summary": "胜宏科技(300476)：胜宏科技:关于回购公司股份方案的公告",
-        "publishedAt": "2026-11-16",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300476/AN202611161831759246.html",
+        "url": "https://data.eastmoney.com/notices/detail/000533/AN202611161831760060.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -119314,93 +119210,193 @@
           "金融"
         ],
         "tickers": [
-          "胜宏科技(300476)"
+          "顺钠股份(000533)"
         ],
         "importance": 1,
         "noticeType": "回购预案"
       },
       {
-        "title": "黑石房地产投资信托基金将以50亿美元的交易收购亚马逊数据中心",
-        "summary": "黑石房地产投资信托基金将以50亿美元的交易收购亚马逊数据中心。",
-        "publishedAt": "2026-11-16 19:52:35",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611163931995043.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "亚泰集团:吉林亚泰(集团)股份有限公司关于与重整投资人签署《重整投资协议》暨预重整进展的公告",
+        "summary": "亚泰集团(600881)：亚泰集团:吉林亚泰(集团)股份有限公司关于与重整投资人签署《重整投资协议》暨预重整进展的公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600881/AN202611161831760045.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
-        "themes": [
-          "AI算力"
+        "themes": [],
+        "tickers": [
+          "亚泰集团(600881)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "签订协议"
       },
       {
-        "title": "SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成 五年硅片出货面积下调17%",
-        "summary": "【SemiAnalysis大幅下修AI算力预测：2028年资本开支预测下调近三成 五年硅片出货面积下调17%】AI基础设施投资热潮出现新的降温信号。半导体研究机构SemiAnalysis在最新模型更新中，大幅下调了未来数年AI加速器出货、资本开支、HBM需求和电力需求预测。其中，2028年至2030年的调整幅度尤为明显：2028年全球AI加速器资本开支预测…",
-        "publishedAt": "2026-11-16 19:49:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611163931989561.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "优利德:未来三年(2026年-2028年)股东分红回报规划",
+        "summary": "优利德(688628)：优利德:未来三年(2026年-2028年)股东分红回报规划",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760026.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "半导体",
-          "AI算力",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "科翔股份：拟30亿元投建AI算力服务器PCB项目并签署投资合同",
-        "summary": "【科翔股份：拟30亿元投建AI算力服务器PCB项目并签署投资合同】11月16日，科翔股份公告，公司此前审议通过对外投资建设江西科翔电子科技有限公司AI算力服务器项目的议案，项目计划总投资30亿元。2026年11月16日，公司与九江经济技术开发区管理委员会签署《项目投资合同》，投资建设AI算力服务器PCB项目，新建高阶HDI与高多层电路板智能制造产线，设计年…",
-        "publishedAt": "2026-11-16 19:46:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611163931989177.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "柴油发电机全球爆单 柴油发电机订单排到明年年底",
-        "summary": "【柴油发电机全球爆单 柴油发电机订单排到明年年底】近年来，国内数据中心、智算中心加快建设，强力拉动大功率柴油发电机组需求。行业预测2026年国内数据中心柴油发电机组需求将突破6000台，市场规模超百亿元。与此同时，柴油发电机的出口也出现大幅增长。海关总署数据显示，2026年1至9月，输出功率大于2MVA（兆伏安）的压燃式内燃机发电机组出口量达4547台，已…",
-        "publishedAt": "2026-11-16 19:43:15",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611163931987554.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "天风证券吴开达：政策与AI需求双轮驱动 国内半导体产业正迈向全产业链体系建设",
-        "summary": "【天风证券吴开达：政策与AI需求双轮驱动 国内半导体产业正迈向全产业链体系建设】天风证券策略首席分析师吴开达表示，在政策与AI需求共同驱动下，国内半导体产业正由局部国产替代迈向全产业链制造体系建设，国产GPU及半导体设备成为重点方向。“需求牵引—国产供给—应用反馈—技术迭代”的产业循环有望进一步强化，相关企业既受益于市场扩容，也受益于国产份额提升。",
-        "publishedAt": "2026-11-16 19:37:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611163931988373.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力",
           "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "优利德(688628)"
+        ],
         "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "优利德:关于本次以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "summary": "优利德(688628)：优利德:关于本次以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760034.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "优利德(688628)"
+        ],
+        "importance": 1,
+        "noticeType": "获得补贴（资助）"
+      },
+      {
+        "title": "汇金科技:关于使用部分闲置自有资金进行现金管理的公告",
+        "summary": "汇金科技(300561)：汇金科技:关于使用部分闲置自有资金进行现金管理的公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300561/AN202611161831759821.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "汇金科技(300561)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
+      },
+      {
+        "title": "美国11月16日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月16日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1044.41。",
+        "publishedAt": "2026-11-17 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月16日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月16日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15684.52。",
+        "publishedAt": "2026-11-17 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月16日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月16日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.81。",
+        "publishedAt": "2026-11-17 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月13日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国11月13日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 229043.42。",
+        "publishedAt": "2026-11-17 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚截至11月15日当周ANZ消费者信心指数",
+        "summary": "澳大利亚截至11月15日当周ANZ消费者信心指数；公布 nan，预期 nan，前值 63.1。",
+        "publishedAt": "2026-11-17 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "新西兰第四季度未来两年通胀率预期(%)",
+        "summary": "新西兰第四季度未来两年通胀率预期(%)；公布 nan，预期 nan，前值 2.34。",
+        "publishedAt": "2026-11-17 10:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "新西兰第四季度未来一年通胀率预期(%)",
+        "summary": "新西兰第四季度未来一年通胀率预期(%)；公布 nan，预期 nan，前值 2.6。",
+        "publishedAt": "2026-11-17 10:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "中国10月全社会用电量年率-每月(%)",
+        "summary": "中国10月全社会用电量年率-每月(%)；公布 nan，预期 nan，前值 1.2。",
+        "publishedAt": "2026-11-17 14:10",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -119520,7 +119516,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -119533,15 +119529,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-16 20:03:40",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 AI算力、金融、能源。",
+        "generatedAt": "2026-11-17 01:29:29",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 5 条；主题映射集中在 AI算力、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -119572,7 +119568,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-16 20:03:18",
+        "generatedAt": "2026-11-17 01:28:53",
         "summary": "上午情绪分 0，涨停 32 家，跌停 60 家，炸板 16 家，连板 11 家，最高 4 板。",
         "sections": [
           {
@@ -119611,7 +119607,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-16 20:03:18",
+        "generatedAt": "2026-11-17 01:28:53",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -119637,7 +119633,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 60 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：杭州高新:关于持股5%以上股东所持部分股份被司法执行的提示性公告；ST银江:关于子公司名下部分房产将被司法拍卖的提示性公告。",
+              "新闻/公告风险：优利德:关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示、填补措施及相关主体承诺的公告；优利德:关于最近五年未被证券监管部门和证券交易所采取处罚或监管措施的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
