@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-18",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-18 01:05:53",
+    "generatedAt": "2026-11-18 01:30:25",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -108088,7 +108088,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -108260,19 +108261,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-18",
-    "generatedAt": "2026-11-18 01:07:07",
+    "generatedAt": "2026-11-18 01:31:34",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、AI算力、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 8,
+        "score": 11,
         "isFocusBoard": false
       },
       {
@@ -108281,8 +108277,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "医药",
-        "score": 3,
+        "name": "AI算力",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -108292,11 +108288,6 @@
       },
       {
         "name": "金融",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
@@ -108335,11 +108326,11 @@
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "克利夫兰联储行长提议制定美国国债市场干预原则",
-        "summary": "【克利夫兰联储行长提议制定美国国债市场干预原则】克利夫兰联储行长哈马克提议制定美国国债市场干预原则。哈马克表示，美联储应为干预美国国债市场设定高门槛，只有在市场失灵存在“波及实体经济”的风险时才应出手，而当流动性和波动率的变化反映基本面时则不应干预。美联储应更清楚地说明，资产购买究竟是为了改善市场流动性，还是为了支持经济。她表示，美联储可以为这类购买设立一…",
-        "publishedAt": "2026-11-18 00:27:00",
+        "title": "美元指数下跌0.17%",
+        "summary": "【行情】美元指数下跌0.17%，报103.4点；美元兑日元下跌0.1%，报159.27点。",
+        "publishedAt": "2026-11-18 01:21:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611183933291292.html",
+        "url": "https://finance.eastmoney.com/a/202611183933301898.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -108349,17 +108340,29 @@
         "noticeType": ""
       },
       {
-        "title": "英伟达股价继续收窄跌幅",
-        "summary": "【行情】英伟达股价继续收窄跌幅，最新下跌不到1%，此前一度跌近4%。",
-        "publishedAt": "2026-11-18 00:11:47",
+        "title": "耐克股价高开低走 最新下跌2.5%",
+        "summary": "【行情】耐克股价高开低走，最新下跌2.5%，盘初一度涨近6%。",
+        "publishedAt": "2026-11-18 01:06:52",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611183933289039.html",
+        "url": "https://finance.eastmoney.com/a/202611183933299934.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "克利夫兰联储行长提议制定美国国债市场干预原则",
+        "summary": "【克利夫兰联储行长提议制定美国国债市场干预原则】克利夫兰联储行长哈马克提议制定美国国债市场干预原则。哈马克表示，美联储应为干预美国国债市场设定高门槛，只有在市场失灵存在“波及实体经济”的风险时才应出手，而当流动性和波动率的变化反映基本面时则不应干预。美联储应更清楚地说明，资产购买究竟是为了改善市场流动性，还是为了支持经济。她表示，美联储可以为这类购买设立一…",
+        "publishedAt": "2026-11-18 00:27:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611183933291292.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -108525,36 +108528,6 @@
         "noticeType": "股东/实际控制人股份增持"
       },
       {
-        "title": "美国10年期国债收益率今年以来维持在5%以上的天数逼近2007年的纪录",
-        "summary": "【美国10年期国债收益率今年以来维持在5%以上的天数逼近2007年的纪录】随着投资者押注美联储将在通胀持续高企之际进一步加息，美国10年期国债收益率位于5%以上的时间正在接近近20年以来的最长。美国借贷成本的这一基准，今年势将第27个交易日收于5%以上距离2007年录得的29个交易日仅一步之遥。交易员目前已完全计入美联储在12月9日会议上加息25个基点的可…",
-        "publishedAt": "2026-11-18 00:10:47",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611183933287957.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "爱伦医疗：目前公司在手订单情况较前期未出现重大变化",
-        "summary": "【爱伦医疗：目前公司在手订单情况较前期未出现重大变化】爱伦医疗发布投资者关系活动记录表，在订单储备方面，公司目前的产品主要是手术衣、护理垫等医用耗材，属于消耗品，生产周期相对较短，下游客户订单频率较高；所以客户一般会保留2-3个月左右的库存，对应到生产端，会提前3个月左右下订单，目前公司在手订单情况较前期未出现重大变化。在明年新增产能方面，一是募投项目凯普…",
-        "publishedAt": "2026-11-17 23:57:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173933282267.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "医药"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "美国截至11月13日当周API原油库存变动(万桶)",
         "summary": "美国截至11月13日当周API原油库存变动(万桶)；公布 nan，预期 -50.0，前值 896.8。",
         "publishedAt": "2026-11-18 05:30",
@@ -108580,6 +108553,22 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月16日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国11月16日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 230287.64。",
+        "publishedAt": "2026-11-18 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -108742,15 +108731,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-18 01:07:07",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、AI算力、能源。",
+        "generatedAt": "2026-11-18 01:31:34",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 5 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：同花顺漂亮100、光学光电子；首看 同花顺漂亮100 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -108781,7 +108770,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-18 01:05:53",
+        "generatedAt": "2026-11-18 01:30:25",
         "summary": "上午情绪分 0，涨停 37 家，跌停 67 家，炸板 20 家，连板 6 家，最高 3 板。",
         "sections": [
           {
@@ -108820,7 +108809,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-18 01:05:53",
+        "generatedAt": "2026-11-18 01:30:25",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
