@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-17",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-17 20:16:43",
+    "generatedAt": "2026-11-17 20:28:34",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -119369,10 +119369,10 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-17",
-    "generatedAt": "2026-11-17 20:18:49",
+    "generatedAt": "2026-11-17 20:30:45",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
         "name": "有色稀土",
@@ -119380,18 +119380,18 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 5,
-        "isFocusBoard": false
-      },
-      {
         "name": "AI算力",
         "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -119405,6 +119405,11 @@
         "isFocusBoard": false
       },
       {
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "半导体",
         "score": 2,
         "isFocusBoard": false
@@ -119412,36 +119417,52 @@
     ],
     "items": [
       {
-        "title": "百瑞吉:股东拟减持股份的预披露公告",
-        "summary": "百瑞吉(920201)：百瑞吉:股东拟减持股份的预披露公告",
+        "title": "美力科技:天健会计师事务所(特殊普通合伙)关于浙江美力科技股份有限公司申请向特定对象发行股票的审核问询函中有关财务事项的说明",
+        "summary": "美力科技(300611)：美力科技:天健会计师事务所(特殊普通合伙)关于浙江美力科技股份有限公司申请向特定对象发行股票的审核问询函中有关财务事项的说明",
         "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920201/AN202611171831791372.html",
+        "url": "https://data.eastmoney.com/notices/detail/300611/AN202611171831788516.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "百瑞吉(920201)"
+          "美力科技(300611)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "其他"
       },
       {
-        "title": "艾融软件:持股5%以上股东拟减持股份的预披露公告(再次披露)",
-        "summary": "艾融软件(920799)：艾融软件:持股5%以上股东拟减持股份的预披露公告(再次披露)",
+        "title": "惠城环保:股票交易异常波动的公告",
+        "summary": "惠城环保(300779)：惠城环保:股票交易异常波动的公告",
         "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920799/AN202611171831791371.html",
+        "url": "https://data.eastmoney.com/notices/detail/300779/AN202611171831795351.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "艾融软件(920799)"
+          "惠城环保(300779)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "北鼎股份:股票交易异常波动公告",
+        "summary": "北鼎股份(300824)：北鼎股份:股票交易异常波动公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300824/AN202611171831795067.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "北鼎股份(300824)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
       },
       {
         "title": "纳斯达克100指数期货上涨0.6%",
@@ -119458,171 +119479,43 @@
         "noticeType": ""
       },
       {
-        "title": "荣盛发展：股票收盘价首次低于1元 存在可能被终止上市风险",
-        "summary": "【荣盛发展：股票收盘价首次低于1元 存在可能被终止上市风险】荣盛发展(002146.SZ)公告称，公司股票于2026年11月17日收盘价为0.90元/股，首次低于人民币1元。根据深交所相关规定，若公司股票连续二十个交易日收盘价均低于1元，深交所将终止其股票上市交易。",
-        "publishedAt": "2026-11-17 19:44:21",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173933046130.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "翔楼新材:关于2023年限制性股票激励计划第三个归属期归属条件成就的公告",
-        "summary": "翔楼新材(301160)：翔楼新材:关于2023年限制性股票激励计划第三个归属期归属条件成就的公告",
+        "title": "华新科技投资者关系活动20261116",
+        "summary": "华新科技(301265)：华新科技投资者关系活动20261116",
         "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301160/AN202611171831791438.html",
+        "url": "https://data.eastmoney.com/notices/detail/301265/AN202611171831783337.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "翔楼新材(301160)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "雪祺电气:2026年11月17日投资者关系活动记录表",
-        "summary": "雪祺电气(001387)：雪祺电气:2026年11月17日投资者关系活动记录表",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001387/AN202611171831791278.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "雪祺电气(001387)"
+          "华新科技(301265)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "经纬辉开:300120经纬辉开投资者关系管理信息20261117",
-        "summary": "经纬辉开(300120)：经纬辉开:300120经纬辉开投资者关系管理信息20261117",
+        "title": "派能科技:投资者关系活动记录表-2026年11月12日",
+        "summary": "派能科技(688063)：派能科技:投资者关系活动记录表-2026年11月12日",
         "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300120/AN202611171831791149.html",
+        "url": "https://data.eastmoney.com/notices/detail/688063/AN202611171831783468.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "经纬辉开(300120)"
+          "派能科技(688063)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "华通线缆:投资者关系活动记录表2026-005",
-        "summary": "华通线缆(605196)：华通线缆:投资者关系活动记录表2026-005",
+        "title": "英特集团:董事会薪酬与考核委员会关于2021年限制性股票激励计划预留授予部分第三个解除限售期解除限售条件成就及回购注销部分激励对象已获授但尚未解除限售的限制性股票并调整回购价格的核查意见",
+        "summary": "英特集团(000411)：英特集团:董事会薪酬与考核委员会关于2021年限制性股票激励计划预留授予部分第三个解除限售期解除限售条件成就及回购注销部分激励对象已获授但尚未解除限售的限制性股票并调整回购价格的核查意见",
         "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605196/AN202611171831791183.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "华通线缆(605196)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中力股份:浙江中力机械股份有限公司投资者关系活动记录表-2026-007",
-        "summary": "中力股份(603194)：中力股份:浙江中力机械股份有限公司投资者关系活动记录表-2026-007",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603194/AN202611171831791155.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中力股份(603194)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "时创能源:2026-003时创能源2026年11月17日投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "summary": "时创能源(688429)：时创能源:2026-003时创能源2026年11月17日投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688429/AN202611171831791127.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [
-          "时创能源(688429)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "凌钢股份:_2026年11月17日投资者关系活动记录表",
-        "summary": "凌钢股份(600231)：凌钢股份:_2026年11月17日投资者关系活动记录表",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600231/AN202611171831791081.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "凌钢股份(600231)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "风范股份:2026年11月17日投资者关系活动记录表",
-        "summary": "风范股份(601700)：风范股份:2026年11月17日投资者关系活动记录表",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601700/AN202611171831791086.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "风范股份(601700)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "幸福蓝海:关于使用自有闲置资金购买理财产品到期赎回的公告",
-        "summary": "幸福蓝海(300528)：幸福蓝海:关于使用自有闲置资金购买理财产品到期赎回的公告",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300528/AN202611171831791134.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "幸福蓝海(300528)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "矩子科技:关于注销部分回购股份减少注册资本暨通知债权人的公告",
-        "summary": "矩子科技(300802)：矩子科技:关于注销部分回购股份减少注册资本暨通知债权人的公告",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300802/AN202611171831791061.html",
+        "url": "https://data.eastmoney.com/notices/detail/000411/AN202611161831750891.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -119630,10 +119523,108 @@
           "金融"
         ],
         "tickers": [
-          "矩子科技(300802)"
+          "英特集团(000411)"
         ],
         "importance": 1,
-        "noticeType": "公司注册资本变更"
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "格尔软件:格尔软件股份有限公司2026年11月投资者关系活动记录表",
+        "summary": "格尔软件(603232)：格尔软件:格尔软件股份有限公司2026年11月投资者关系活动记录表",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603232/AN202611171831795345.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "格尔软件(603232)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "龙旗科技:上海龙旗科技股份有限公司投资者关系活动记录表(编号:2026-011)",
+        "summary": "龙旗科技(603341)：龙旗科技:上海龙旗科技股份有限公司投资者关系活动记录表(编号:2026-011)",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603341/AN202611171831795347.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "龙旗科技(603341)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "航天电子:2026年半年度业绩说明会投资者关系活动记录表1109",
+        "summary": "航天电子(600879)：航天电子:2026年半年度业绩说明会投资者关系活动记录表1109",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600879/AN202611171831795344.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "军工"
+        ],
+        "tickers": [
+          "航天电子(600879)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "芯原股份:2026年11月17日投资者关系活动记录表",
+        "summary": "芯原股份(688521)：芯原股份:2026年11月17日投资者关系活动记录表",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688521/AN202611171831795343.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "芯原股份(688521)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "环旭电子:2026年第三季度业绩说明会PPT",
+        "summary": "环旭电子(601231)：环旭电子:2026年第三季度业绩说明会PPT",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/601231/AN202611171831795346.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "环旭电子(601231)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "奥美森:关于使用部分闲置自有资金进行现金管理的公告",
+        "summary": "奥美森(920080)：奥美森:关于使用部分闲置自有资金进行现金管理的公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920080/AN202611171831794786.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "奥美森(920080)"
+        ],
+        "importance": 1,
+        "noticeType": "投资理财"
       },
       {
         "title": "*ST美丽：第一大股东及一致行动人拟增持5000万至8000万元股份",
@@ -119689,6 +119680,22 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月16日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月16日iShares黄金持仓-每日更新(吨)；公布 460.81，预期 nan，前值 460.81。",
+        "publishedAt": "2026-11-17 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -119851,15 +119858,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-17 20:18:49",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 4 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-11-17 20:30:45",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：同花顺漂亮100、光学光电子；首看 同花顺漂亮100 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -119890,7 +119897,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-17 20:16:43",
+        "generatedAt": "2026-11-17 20:28:34",
         "summary": "上午情绪分 0，涨停 37 家，跌停 67 家，炸板 20 家，连板 6 家，最高 3 板。",
         "sections": [
           {
@@ -119929,7 +119936,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-17 20:16:43",
+        "generatedAt": "2026-11-17 20:28:34",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -119955,7 +119962,7 @@
               "今日炸板 20 只，追高前先看前排封单和回封质量。",
               "今日跌停 67 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 抖音概念(字节概念)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：百瑞吉:股东拟减持股份的预披露公告；艾融软件:持股5%以上股东拟减持股份的预披露公告(再次披露)。",
+              "新闻/公告风险：美力科技:天健会计师事务所(特殊普通合伙)关于浙江美力科技股份有限公司申请向特定对象发行股票的审核问询函中有关财务事项的说明；惠城环保:股票交易异常波动的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
