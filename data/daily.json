@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-17",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-17 06:54:21",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-17 06:54:21",
+    "lastNewsAt": "2026-11-17 16:21:40"
   },
   "indices": [
     {
@@ -119087,19 +119089,14 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-17",
-    "generatedAt": "2026-11-17 06:54:47",
+    "generatedAt": "2026-11-17 16:21:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 8 条；主题映射集中在 金融、AI算力、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、有色稀土、半导体。",
     "themes": [
       {
         "name": "金融",
-        "score": 18,
-        "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 9,
+        "score": 13,
         "isFocusBoard": false
       },
       {
@@ -119109,241 +119106,77 @@
       },
       {
         "name": "半导体",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       },
       {
         "name": "机器人",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "优利德:关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示、填补措施及相关主体承诺的公告",
-        "summary": "优利德(688628)：优利德:关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示、填补措施及相关主体承诺的公告",
+        "title": "海顺新材:关于控股股东、实际控制人涉及诉讼的进展公告",
+        "summary": "海顺新材(300501)：海顺新材:关于控股股东、实际控制人涉及诉讼的进展公告",
         "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760024.html",
+        "url": "https://data.eastmoney.com/notices/detail/300501/AN202611171831784256.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "优利德(688628)"
+          "海顺新材(300501)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "优利德:关于最近五年未被证券监管部门和证券交易所采取处罚或监管措施的公告",
-        "summary": "优利德(688628)：优利德:关于最近五年未被证券监管部门和证券交易所采取处罚或监管措施的公告",
+        "title": "古鳌科技:关于重大诉讼事项的进展公告",
+        "summary": "古鳌科技(300551)：古鳌科技:关于重大诉讼事项的进展公告",
         "publishedAt": "2026-11-17",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760025.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "优利德(688628)"
-        ],
-        "importance": 1,
-        "noticeType": "自查报告"
-      },
-      {
-        "title": "皮阿诺:股票交易异常波动公告",
-        "summary": "皮阿诺(002853)：皮阿诺:股票交易异常波动公告",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002853/AN202611161831759871.html",
+        "url": "https://data.eastmoney.com/notices/detail/300551/AN202611171831784271.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "皮阿诺(002853)"
+          "古鳌科技(300551)"
         ],
         "importance": 1,
-        "noticeType": "股票交易异常波动"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "债市调整波及银行理财 赎回压力有所显现",
-        "summary": "【债市调整波及银行理财 赎回压力有所显现】10月末以来，债市调整逐步传导至银行理财产品净值，部分中低风险产品连续数日回吐收益，市场赎回压力随之显现。普益标准数据显示，截至11月16日，全市场理财产品存续规模为34.90万亿元，较10月末减少约100亿元。其中，固定收益类产品规模减少约600亿元，现金管理型产品规模增加约600亿元。",
-        "publishedAt": "2026-11-17 06:26:39",
+        "title": "“AI股神”画地为牢！旗下基金态势感知在暴跌前再次买入AI股票",
+        "summary": "【“AI股神”画地为牢！旗下基金态势感知在暴跌前再次买入AI股票】被一度誉为“AI股神”的对冲基金管理者利奥波德·阿申布伦纳，在第三季度末重返人工智能投资，并再次面临基金净值大跌的风险。自10月以来，态势感知押注的这些股票均遭遇重挫，其中SharonAI跌幅最大，在10月下跌58%，本月至今又下跌了11%。IREN在10月下跌了41%，而Nebius下跌了…",
+        "publishedAt": "2026-11-17 16:11:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173932213633.html",
+        "url": "https://finance.eastmoney.com/a/202611173932875113.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "破解费用归集分摊乱象 财险经营核算回归真实",
-        "summary": "【破解费用归集分摊乱象 财险经营核算回归真实】长期以来，部分财险公司存在费用归集粗放、共同费用冗杂、分摊方法主观性强等问题，销售费用下沉不实，险种和产品的经营结果失真。针对这一乱象，金融监管总局近日发布《关于加强财产保险公司费用分摊管理工作的通知》，中国精算师协会同步发布《财产保险公司费用分摊指引》（下称“指引”），统一了费用归集、分类与分摊的规则。指引将…",
-        "publishedAt": "2026-11-17 06:16:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173932211865.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英特尔股价盘后下跌近2%",
-        "summary": "英特尔股价盘后下跌近2%。",
-        "publishedAt": "2026-11-17 06:00:13",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173932228575.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "印尼马鲁古省附近海域发生7.1级地震 暂无海啸风险",
-        "summary": "【印尼马鲁古省附近海域发生7.1级地震 暂无海啸风险】据印尼气象、气候和地球物理局发布的报告，当地时间11月17日4时11分，印尼马鲁古省东南130公里海域发生7.1级地震，震源深度115公里。本次地震暂无海啸风险。",
-        "publishedAt": "2026-11-17 05:34:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173932226117.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "13F报告显示：伯克希尔三季度减持美国银行、德维特、威瑞信等",
-        "summary": "【13F报告显示：伯克希尔三季度减持美国银行、德维特、威瑞信等】13F报告显示：伯克希尔三季度减持美国银行、德维特、威瑞信、第一资本信贷、克罗格。增持莱纳、莱纳B类股、达美航空、梅西百货、BSP。重仓苹果、美国运通、可口可乐、谷歌A、美国银行。",
-        "publishedAt": "2026-11-17 05:22:41",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173932222743.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "军工",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "顺钠股份:关于回购公司股份方案的公告",
-        "summary": "顺钠股份(000533)：顺钠股份:关于回购公司股份方案的公告",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000533/AN202611161831760060.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "顺钠股份(000533)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "亚泰集团:吉林亚泰(集团)股份有限公司关于与重整投资人签署《重整投资协议》暨预重整进展的公告",
-        "summary": "亚泰集团(600881)：亚泰集团:吉林亚泰(集团)股份有限公司关于与重整投资人签署《重整投资协议》暨预重整进展的公告",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600881/AN202611161831760045.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "亚泰集团(600881)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "优利德:未来三年(2026年-2028年)股东分红回报规划",
-        "summary": "优利德(688628)：优利德:未来三年(2026年-2028年)股东分红回报规划",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760026.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "优利德(688628)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "优利德:关于本次以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "summary": "优利德(688628)：优利德:关于本次以简易程序向特定对象发行股票不存在直接或通过利益相关方向参与认购的投资者提供财务资助或补偿的公告",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688628/AN202611161831760034.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "优利德(688628)"
-        ],
-        "importance": 1,
-        "noticeType": "获得补贴（资助）"
-      },
-      {
-        "title": "汇金科技:关于使用部分闲置自有资金进行现金管理的公告",
-        "summary": "汇金科技(300561)：汇金科技:关于使用部分闲置自有资金进行现金管理的公告",
-        "publishedAt": "2026-11-17",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300561/AN202611161831759821.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汇金科技(300561)"
-        ],
-        "importance": 1,
-        "noticeType": "投资理财"
-      },
-      {
-        "title": "13F报告显示 桥水基金第三季度增持美光、闪迪，重仓英伟达、博通和标普500指数ETF",
-        "summary": "13F报告显示，桥水基金第三季度增持美光、闪迪，重仓英伟达、博通和标普500指数ETF。",
-        "publishedAt": "2026-11-17 05:27:56",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611173932224316.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
         "themes": [
           "AI算力"
         ],
@@ -119352,54 +119185,240 @@
         "noticeType": ""
       },
       {
-        "title": "美国11月16日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月16日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1044.41。",
-        "publishedAt": "2026-11-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "德意志银行下跌6.2%",
+        "summary": "【德意志银行下跌6.2%】德意志银行下跌6.2%，此前有报道称该行曾处理爱泼斯坦相关巨额款项。",
+        "publishedAt": "2026-11-17 16:06:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611173932871970.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月16日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月16日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15684.52。",
-        "publishedAt": "2026-11-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "欧洲主要股指开盘集体下跌",
+        "summary": "【欧洲主要股指开盘集体下跌】欧洲主要股指开盘集体下跌，欧洲斯托克50指数跌0.71%，英国富时100指数跌0.77%，法国CAC40指数跌0.46%，德国DAX指数跌0.87%。",
+        "publishedAt": "2026-11-17 16:03:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611173932869760.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月16日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国11月16日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.81。",
-        "publishedAt": "2026-11-17 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "三星收缩8英寸代工业务 韩芯片设计企业面临断供风险",
+        "summary": "【三星收缩8英寸代工业务 韩芯片设计企业面临断供风险】据报道，主要受市场规模及盈利能力等因素影响，三星电子代工事业部计划缩减8英寸晶圆代工业务，并逐步停止相关产线运转。（ZDNet）",
+        "publishedAt": "2026-11-17 15:59:39",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611173932865348.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
-          "有色稀土"
+          "半导体"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国11月13日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国11月13日COMEX黄金库存-每日更新(百盎司)；公布 230287.64，预期 nan，前值 229043.42。",
+        "title": "华新科技投资者关系活动20261116",
+        "summary": "华新科技(301265)：华新科技投资者关系活动20261116",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301265/AN202611171831783337.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华新科技(301265)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "派能科技:投资者关系活动记录表-2026年11月12日",
+        "summary": "派能科技(688063)：派能科技:投资者关系活动记录表-2026年11月12日",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688063/AN202611171831783468.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "派能科技(688063)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "英特集团:董事会薪酬与考核委员会关于2021年限制性股票激励计划预留授予部分第三个解除限售期解除限售条件成就及回购注销部分激励对象已获授但尚未解除限售的限制性股票并调整回购价格的核查意见",
+        "summary": "英特集团(000411)：英特集团:董事会薪酬与考核委员会关于2021年限制性股票激励计划预留授予部分第三个解除限售期解除限售条件成就及回购注销部分激励对象已获授但尚未解除限售的限制性股票并调整回购价格的核查意见",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000411/AN202611161831750891.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "英特集团(000411)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "三棵树:三棵树涂料股份有限公司投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "summary": "三棵树(603737)：三棵树:三棵树涂料股份有限公司投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603737/AN202611171831784857.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三棵树(603737)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "福田汽车:北汽福田汽车股份有限公司2026年11月11-13日投资者关系活动记录表",
+        "summary": "福田汽车(600166)：福田汽车:北汽福田汽车股份有限公司2026年11月11-13日投资者关系活动记录表",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600166/AN202611171831784856.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [
+          "福田汽车(600166)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "迈赫股份:关于回购公司股份实施完成暨股份变动的公告",
+        "summary": "迈赫股份(301199)：迈赫股份:关于回购公司股份实施完成暨股份变动的公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301199/AN202611171831784863.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "迈赫股份(301199)"
+        ],
+        "importance": 1,
+        "noticeType": "股本变动"
+      },
+      {
+        "title": "坤泰股份:坤泰股份投资者关系活动记录表",
+        "summary": "坤泰股份(001260)：坤泰股份:坤泰股份投资者关系活动记录表",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001260/AN202611171831784686.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "坤泰股份(001260)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "西昌电力:2026年第三季度业绩说明会投资者关系活动记录表",
+        "summary": "西昌电力(600505)：西昌电力:2026年第三季度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600505/AN202611171831784453.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "西昌电力(600505)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "盛屯矿业:盛屯矿业集团股份有限公司2026年11月13日投资者关系活动记录表",
+        "summary": "盛屯矿业(600711)：盛屯矿业:盛屯矿业集团股份有限公司2026年11月13日投资者关系活动记录表",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600711/AN202611171831784447.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "盛屯矿业(600711)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "回天新材:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "summary": "回天新材(300041)：回天新材:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "publishedAt": "2026-11-17",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300041/AN202611171831784351.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "回天新材(300041)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "小米旗下基金入股科阳半导体",
+        "summary": "【小米旗下基金入股科阳半导体】企查查APP显示，近日，苏州科阳半导体有限公司发生工商变更，新增北京小米智造股权投资基金合伙企业（有限合伙）等为股东。企查查信息显示，该公司成立于2010年，经营范围包含：半导体集成电路产品的设计、研发、制造及封装测试服务，生产、销售发光二极管等。",
+        "publishedAt": "2026-11-17 16:09:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611173932873379.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月16日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月16日SPDR黄金持仓-每日更新(吨)；公布 1046.12，预期 nan，前值 1044.41。",
         "publishedAt": "2026-11-17 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -119530,7 +119549,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -119543,15 +119562,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-17 06:54:47",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 8 条；主题映射集中在 金融、AI算力、有色稀土。",
+        "generatedAt": "2026-11-17 16:21:40",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 金融、有色稀土、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、AI算力、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -119647,7 +119666,7 @@
               "今日炸板 16 只，追高前先看前排封单和回封质量。",
               "今日跌停 60 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：优利德:关于2026年度以简易程序向特定对象发行股票摊薄即期回报的风险提示、填补措施及相关主体承诺的公告；优利德:关于最近五年未被证券监管部门和证券交易所采取处罚或监管措施的公告。",
+              "新闻/公告风险：海顺新材:关于控股股东、实际控制人涉及诉讼的进展公告；古鳌科技:关于重大诉讼事项的进展公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
