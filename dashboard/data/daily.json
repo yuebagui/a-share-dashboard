@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-19",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-19 00:44:13",
+    "generatedAt": "2026-11-19 01:06:49",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -93403,7 +93403,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -93576,19 +93577,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-19",
-    "generatedAt": "2026-11-19 00:45:09",
+    "generatedAt": "2026-11-19 01:07:53",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 14 条；主题映射集中在 有色稀土、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 13,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "金融",
         "score": 7,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -93598,11 +93604,6 @@
       },
       {
         "name": "医药",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "军工",
         "score": 2,
         "isFocusBoard": false
       }
@@ -93815,20 +93816,6 @@
         "noticeType": ""
       },
       {
-        "title": "联合健康股价创近7周以来最低 最新下跌6.1%",
-        "summary": "联合健康（UNH）股价创近7周以来最低，最新下跌6.1%。",
-        "publishedAt": "2026-11-18 23:55:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611183934351470.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
         "title": "重庆路桥:重庆路桥关于第一大股东增持股份计划公告",
         "summary": "重庆路桥(600106)：重庆路桥:重庆路桥关于第一大股东增持股份计划公告",
         "publishedAt": "2026-11-19",
@@ -93891,6 +93878,20 @@
         ],
         "importance": 1,
         "noticeType": "投资理财"
+      },
+      {
+        "title": "摩根大通正与投资者洽谈筹集约20亿美元高收益债券",
+        "summary": "摩根大通正与投资者洽谈筹集约20亿美元高收益债券。",
+        "publishedAt": "2026-11-19 00:54:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193934369573.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       }
     ]
   },
@@ -94078,15 +94079,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-19 00:45:09",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 14 条；主题映射集中在 有色稀土、金融、AI算力。",
+        "generatedAt": "2026-11-19 01:07:53",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 5 条，风险 13 条；主题映射集中在 有色稀土、金融、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：算力租赁、元件、东数西算(算力)；首看 算力租赁 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -94117,7 +94118,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-19 00:44:13",
+        "generatedAt": "2026-11-19 01:06:49",
         "summary": "上午情绪分 3，涨停 41 家，跌停 40 家，炸板 24 家，连板 8 家，最高 4 板。",
         "sections": [
           {
@@ -94156,7 +94157,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-19 00:44:13",
+        "generatedAt": "2026-11-19 01:06:49",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
