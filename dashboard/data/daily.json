@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-18",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-18 20:15:02",
+    "tradeDate": "2026-11-19",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-19 00:37:39",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -93401,7 +93401,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -93573,66 +93574,45 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-18",
-    "generatedAt": "2026-11-18 20:16:55",
+    "tradeDate": "2026-11-19",
+    "generatedAt": "2026-11-19 00:38:32",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 金融、有色稀土、能源。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 14 条；主题映射集中在 有色稀土、金融、AI算力。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 9,
+        "score": 13,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 5,
+        "name": "金融",
+        "score": 7,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 5,
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 3,
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 3,
+        "name": "军工",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "发行人及中介机构关于审核中心意见落实函的回复(苏州法特迪科技股份有限公司)",
-        "summary": "法特迪(A26227)：发行人及中介机构关于审核中心意见落实函的回复(苏州法特迪科技股份有限公司)",
-        "publishedAt": "2026-11-18",
+        "title": "华菱线缆:申万宏源证券承销保荐有限责任公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见(修订稿)",
+        "summary": "华菱线缆(001208)：华菱线缆:申万宏源证券承销保荐有限责任公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见(修订稿)",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/A26227/AN202611181831819579.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "法特迪(A26227)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板IPO问询与回复"
-      },
-      {
-        "title": "嘉戎技术:中联资产评估集团有限公司关于深圳证券交易所《关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》(审核函〔2026〕030009号)资产评估相关问题答复之核查意见(修订稿)",
-        "summary": "嘉戎技术(301148)：嘉戎技术:中联资产评估集团有限公司关于深圳证券交易所《关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》(审核函〔2026〕030009号)资产评估相关问题答复之核查意见(修订稿)",
-        "publishedAt": "2026-11-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301148/AN202611181831834524.html",
+        "url": "https://data.eastmoney.com/notices/detail/001208/AN202611181831835176.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -93640,17 +93620,33 @@
           "金融"
         ],
         "tickers": [
-          "嘉戎技术(301148)"
+          "华菱线缆(001208)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "其他"
       },
       {
-        "title": "嘉戎技术:厦门嘉戎技术股份有限公司关于深圳证券交易所《关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之回复(修订稿)",
-        "summary": "嘉戎技术(301148)：嘉戎技术:厦门嘉戎技术股份有限公司关于深圳证券交易所《关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》之回复(修订稿)",
-        "publishedAt": "2026-11-18",
+        "title": "华菱线缆:大信会计师事务所关于湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金申请的审核问询函的回复(修订稿)",
+        "summary": "华菱线缆(001208)：华菱线缆:大信会计师事务所关于湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金申请的审核问询函的回复(修订稿)",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301148/AN202611181831834527.html",
+        "url": "https://data.eastmoney.com/notices/detail/001208/AN202611181831835174.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "华菱线缆(001208)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "华菱线缆:湖南华菱线缆股份有限公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复(修订稿)",
+        "summary": "华菱线缆(001208)：华菱线缆:湖南华菱线缆股份有限公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复(修订稿)",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/001208/AN202611181831835172.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -93658,249 +93654,242 @@
           "金融"
         ],
         "tickers": [
-          "嘉戎技术(301148)"
+          "华菱线缆(001208)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "其他"
       },
       {
-        "title": "嘉戎技术:容诚会计师事务所关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函专项说明(容诚专字[2026]361Z0695号)",
-        "summary": "嘉戎技术(301148)：嘉戎技术:容诚会计师事务所关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函专项说明(容诚专字[2026]361Z0695号)",
-        "publishedAt": "2026-11-18",
+        "title": "深水海纳:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
+        "summary": "深水海纳(300961)：深水海纳:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301148/AN202611181831834535.html",
+        "url": "https://data.eastmoney.com/notices/detail/300961/AN202611181831835086.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "嘉戎技术(301148)"
+          "深水海纳(300961)"
         ],
         "importance": 1,
-        "noticeType": "专项说明/独立意见"
+        "noticeType": "诉讼仲裁"
       },
       {
-        "title": "嘉戎技术:中国国际金融股份有限公司关于深圳证券交易所关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函回复之核查意见(修订稿)",
-        "summary": "嘉戎技术(301148)：嘉戎技术:中国国际金融股份有限公司关于深圳证券交易所关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函回复之核查意见(修订稿)",
-        "publishedAt": "2026-11-18",
+        "title": "永杉锂业:大华会计师事务所(特殊普通合伙)关于锦州永杉锂业股份有限公司向特定对象发行股票的审核中心意见落实函回复",
+        "summary": "永杉锂业(603399)：永杉锂业:大华会计师事务所(特殊普通合伙)关于锦州永杉锂业股份有限公司向特定对象发行股票的审核中心意见落实函回复",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301148/AN202611181831834519.html",
+        "url": "https://data.eastmoney.com/notices/detail/603399/AN202611181831834695.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [
-          "嘉戎技术(301148)"
+          "永杉锂业(603399)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "会计师事务所问询函回复公告"
       },
       {
-        "title": "嘉戎技术:厦门嘉戎技术股份有限公司关于发行股份购买资产并募集配套资金的审核问询函回复更新的提示性公告",
-        "summary": "嘉戎技术(301148)：嘉戎技术:厦门嘉戎技术股份有限公司关于发行股份购买资产并募集配套资金的审核问询函回复更新的提示性公告",
-        "publishedAt": "2026-11-18",
+        "title": "ST天圣:关于申请撤销其他风险警示的公告",
+        "summary": "ST天圣(002872)：ST天圣:关于申请撤销其他风险警示的公告",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301148/AN202611181831834520.html",
+        "url": "https://data.eastmoney.com/notices/detail/002872/AN202611181831834533.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "嘉戎技术(301148)"
+          "ST天圣(002872)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "申请撤销风险警示及特别处理"
       },
       {
-        "title": "小商品城:投资者关系活动记录表(20261117)",
-        "summary": "小商品城(600415)：小商品城:投资者关系活动记录表(20261117)",
-        "publishedAt": "2026-11-18",
+        "title": "ST天圣:第六届董事会第十九次会议决议公告",
+        "summary": "ST天圣(002872)：ST天圣:第六届董事会第十九次会议决议公告",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600415/AN202611181831832530.html",
+        "url": "https://data.eastmoney.com/notices/detail/002872/AN202611181831834523.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST天圣(002872)"
+        ],
+        "importance": 1,
+        "noticeType": "董事会决议公告"
+      },
+      {
+        "title": "南山控股:关于累计诉讼、仲裁情况的公告",
+        "summary": "南山控股(002314)：南山控股:关于累计诉讼、仲裁情况的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002314/AN202611181831834349.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "南山控股(002314)"
+        ],
+        "importance": 1,
+        "noticeType": "诉讼仲裁"
+      },
+      {
+        "title": "欧洲三大股指收盘集体下挫 德国DAX指数跌超1%",
+        "summary": "【欧洲三大股指收盘集体下挫 德国DAX指数跌超1%】英国富时100指数收盘初步下跌1.27%，德国DAX指数下跌1.11%，法国CAC40指数下跌0.8%。",
+        "publishedAt": "2026-11-19 00:32:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193934365711.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "英镑/美元下跌0.6%至1.3136 为近一年来的最低水平",
+        "summary": "英镑/美元下跌0.6%，至1.3136，为近一年来的最低水平。",
+        "publishedAt": "2026-11-19 00:24:02",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193934362830.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "LME三个月期锌下跌5.1% 至3,486.50美元/吨 为2026年7月以来最低",
+        "summary": "LME三个月期锌下跌5.1%，至3,486.50美元/吨，为2026年7月以来最低。",
+        "publishedAt": "2026-11-19 00:15:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193934361790.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "ICE阿拉比卡咖啡期货下跌3% 至每磅2.7285美元",
+        "summary": "ICE阿拉比卡咖啡期货下跌3%，至每磅2.7285美元。",
+        "publishedAt": "2026-11-19 00:05:57",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193934360179.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "诺思兰德：公司将持续开展塞多明基注射液上市后研究",
+        "summary": "【诺思兰德：公司将持续开展塞多明基注射液上市后研究】诺思兰德发布投资者关系活动记录表，公司将持续开展塞多明基注射液上市后研究，包括Ⅳ期临床试验、长期安全性随访研究，满足药品监管及药品再注册相关要求，同时开展IIT研究、扩展适应症临床研究、药品用法及剂量优化研究、手术或其他已上市药品联用效果研究、血栓闭塞性脉管炎病因及发病机理研究、血管新生影像学研究、真实世…",
+        "publishedAt": "2026-11-18 23:56:17",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611183934352270.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "联合健康股价创近7周以来最低 最新下跌6.1%",
+        "summary": "联合健康（UNH）股价创近7周以来最低，最新下跌6.1%。",
+        "publishedAt": "2026-11-18 23:55:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611183934351470.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "重庆路桥:重庆路桥关于第一大股东增持股份计划公告",
+        "summary": "重庆路桥(600106)：重庆路桥:重庆路桥关于第一大股东增持股份计划公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600106/AN202611181831835535.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "小商品城(600415)"
+          "重庆路桥(600106)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "南山控股:关于参加2026年度深圳辖区上市公司投资者网上集体接待日的公告",
+        "summary": "南山控股(002314)：南山控股:关于参加2026年度深圳辖区上市公司投资者网上集体接待日的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002314/AN202611181831834350.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "南山控股(002314)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "中际旭创:关于收到董事长提议回购公司股份的公告",
-        "summary": "中际旭创(300308)：中际旭创:关于收到董事长提议回购公司股份的公告",
-        "publishedAt": "2026-11-18",
+        "title": "必贝特:关于召开2026年第三季度业绩说明会的公告",
+        "summary": "必贝特(688759)：必贝特:关于召开2026年第三季度业绩说明会的公告",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300308/AN202611181831832230.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "中际旭创(300308)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "建邦科技:上海市通力律师事务所关于青岛建邦汽车科技股份有限公司2026年股权激励计划股票期权数量及行权价格、预留限制性股票授予数量及授予价格调整之法律意见书",
-        "summary": "建邦科技(920242)：建邦科技:上海市通力律师事务所关于青岛建邦汽车科技股份有限公司2026年股权激励计划股票期权数量及行权价格、预留限制性股票授予数量及授予价格调整之法律意见书",
-        "publishedAt": "2026-11-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920242/AN202611181831831564.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "汽车链"
-        ],
-        "tickers": [
-          "建邦科技(920242)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "凯尔达:投资者关系活动记录表2026-005",
-        "summary": "凯尔达(688255)：凯尔达:投资者关系活动记录表2026-005",
-        "publishedAt": "2026-11-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688255/AN202611181831830157.html",
+        "url": "https://data.eastmoney.com/notices/detail/688759/AN202611181831834309.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "凯尔达(688255)"
+          "必贝特(688759)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "其他"
       },
       {
-        "title": "泰和新材:2026年11月18日下午投资者关系活动记录表",
-        "summary": "泰和新材(002254)：泰和新材:2026年11月18日下午投资者关系活动记录表",
-        "publishedAt": "2026-11-18",
+        "title": "必贝特:关于使用部分暂时闲置募集资金进行现金管理的公告",
+        "summary": "必贝特(688759)：必贝特:关于使用部分暂时闲置募集资金进行现金管理的公告",
+        "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002254/AN202611181831834505.html",
+        "url": "https://data.eastmoney.com/notices/detail/688759/AN202611181831834308.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "泰和新材(002254)"
+          "必贝特(688759)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "益生股份:2026年11月18日投资者关系活动记录表",
-        "summary": "益生股份(002458)：益生股份:2026年11月18日投资者关系活动记录表",
-        "publishedAt": "2026-11-18",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002458/AN202611181831834504.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "益生股份(002458)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "兴蓉环境：公司运营和在建项目规模合计约500万吨/日",
-        "summary": "【兴蓉环境：公司运营和在建项目规模合计约500万吨/日】11月18日，兴蓉环境（000598.SZ）在投资者关系活动中表示，公司运营和在建项目规模合计约500万吨/日，其中在建项目规模为20余万吨/日，主要包括成都市第五再生水厂二期、成都高新西区水质净化中心项目等。",
-        "publishedAt": "2026-11-18 20:12:44",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "一栗NUTCO加速全国化布局：年底门店数量预计突破130家，明年再增50%",
-        "summary": "【一栗NUTCO加速全国化布局：年底门店数量预计突破130家，明年再增50%】新鲜零食品牌一栗NUTCO披露数据，截至2026年10月底已在全国开设近120家直营门店，覆盖北京、广州、深圳、成都、西安、武汉、苏州等近20个城市，预计年底门店数量将达130余家。未来一栗NUTCO的门店数量计划将以每年不低于50%的速度增长。其中，上海已纳入明年开店的规划版图…",
-        "publishedAt": "2026-11-18 20:12:01",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "苹果成AI动荡中的避险选择 估值跻身市场最高之列",
-        "summary": "【苹果成AI动荡中的避险选择 估值跻身市场最高之列】过去几周，大型科技股经历剧烈动荡，美国中期选举以及黄仁勋突然被英伟达罢免继续冲击市场。但有一只股票在动荡中始终保持坚挺：苹果。投资者纷纷抛售与人工智能相关的股票，从芯片制造商、超大规模云服务商到新兴云服务商无一幸免，苹果股价却继续稳步走高。今年以来，该股已上涨29%，是科技“七巨头”中表现最好的股票，遥遥…",
-        "publishedAt": "2026-11-18 20:06:22",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "豆包工作：豆包工作上线三个月DAU突破800万，企业客户ARR突破20亿元。",
-        "summary": "豆包工作：豆包工作上线三个月DAU突破800万，企业客户ARR突破20亿元。",
-        "publishedAt": "2026-11-18 20:05:25",
-        "source": "新浪财经7x24",
-        "url": "",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至11月13日当周API原油库存变动(万桶)",
-        "summary": "美国截至11月13日当周API原油库存变动(万桶)；公布 527.8，预期 -50.0，前值 896.8。",
-        "publishedAt": "2026-11-18 05:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至11月13日当周API汽油库存变动(万桶)",
-        "summary": "美国截至11月13日当周API汽油库存变动(万桶)；公布 512.2，预期 160.0，前值 0.4。",
-        "publishedAt": "2026-11-18 05:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
+        "noticeType": "投资理财"
       }
     ]
   },
@@ -94075,7 +94064,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -94088,15 +94077,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-18 20:16:55",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 6 条；主题映射集中在 金融、有色稀土、能源。",
+        "generatedAt": "2026-11-19 00:38:32",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 14 条；主题映射集中在 有色稀土、金融、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：算力租赁、元件、东数西算(算力)；首看 算力租赁 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -94127,7 +94116,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-18 20:15:02",
+        "generatedAt": "2026-11-19 00:37:39",
         "summary": "上午情绪分 3，涨停 41 家，跌停 40 家，炸板 24 家，连板 8 家，最高 4 板。",
         "sections": [
           {
@@ -94166,7 +94155,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-18 20:15:02",
+        "generatedAt": "2026-11-19 00:37:39",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -94192,7 +94181,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 40 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 数据中心(AIDC)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：发行人及中介机构关于审核中心意见落实函的回复(苏州法特迪科技股份有限公司)；嘉戎技术:中联资产评估集团有限公司关于深圳证券交易所《关于厦门嘉戎技术股份有限公司发行股份购买资产并募集配套资金申请的审核问询函》(审核函〔2026〕030009号)资产评估相关问题答复之核查意见(修订稿)。",
+              "新闻/公告风险：华菱线缆:申万宏源证券承销保荐有限责任公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见(修订稿)；华菱线缆:大信会计师事务所关于湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金申请的审核问询函的回复(修订稿)。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
