@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-19",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-19 19:59:22",
+    "generatedAt": "2026-11-19 20:09:50",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -603,18 +603,18 @@
         "note": "涨跌幅 -2.04%，领涨 燕东微 +11.37%"
       },
       {
-        "name": "阿里巴巴概念",
-        "netInflow": -777400.0,
-        "changePct": -3.77,
-        "type": "概念",
-        "note": "涨跌幅 -3.77%，领涨 真视通 +10.02%"
-      },
-      {
         "name": "腾讯概念",
         "netInflow": -777400.0,
         "changePct": -3.96,
         "type": "概念",
         "note": "涨跌幅 -3.96%，领涨 广电电气 +10.00%"
+      },
+      {
+        "name": "阿里巴巴概念",
+        "netInflow": -777400.0,
+        "changePct": -3.77,
+        "type": "概念",
+        "note": "涨跌幅 -3.77%，领涨 真视通 +10.02%"
       },
       {
         "name": "AI应用",
@@ -93420,35 +93420,240 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-19",
-    "generatedAt": "2026-11-19 20:00:33",
+    "generatedAt": "2026-11-19 20:11:27",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "notices: (\"Connection broken: BrokenPipeError(32, 'Broken pipe')\", BrokenPipeError(32, 'Broken pipe'))"
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、有色稀土、医药。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 14,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 12,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 11,
+        "name": "医药",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 6,
         "isFocusBoard": false
       },
       {
         "name": "能源",
         "score": 4,
         "isFocusBoard": false
-      },
-      {
-        "name": "AI算力",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
+      {
+        "title": "ST长方:2026年第一次临时股东会决议公告",
+        "summary": "ST长方(300301)：ST长方:2026年第一次临时股东会决议公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300301/AN202611191831866974.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST长方(300301)"
+        ],
+        "importance": 1,
+        "noticeType": "股东大会决议公告"
+      },
+      {
+        "title": "ST长方:关于长方集团2026年第一次临时股东会的法律意见书",
+        "summary": "ST长方(300301)：ST长方:关于长方集团2026年第一次临时股东会的法律意见书",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300301/AN202611191831866970.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST长方(300301)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "安靠智电:关于投资设立境外孙公司的公告",
+        "summary": "安靠智电(300617)：安靠智电:关于投资设立境外孙公司的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300617/AN202611191831865854.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安靠智电(300617)"
+        ],
+        "importance": 1,
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "林平发展:投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "summary": "林平发展(603284)：林平发展:投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603284/AN202611191831857449.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "林平发展(603284)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "三德科技:投资者关系活动记录表20261119",
+        "summary": "三德科技(300515)：三德科技:投资者关系活动记录表20261119",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300515/AN202611191831867574.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "三德科技(300515)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "行云科技:行云科技投资者关系活动记录表",
+        "summary": "行云科技(300209)：行云科技:行云科技投资者关系活动记录表",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300209/AN202611191831867209.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "行云科技(300209)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "欧康医药:独立董事专门会议关于2024年股权激励计划首次授予限制性股票第二个解除限售期及预留授予限制性股票第一个解除限售期解除限售条件成就事项的核查意见",
+        "summary": "欧康医药(920230)：欧康医药:独立董事专门会议关于2024年股权激励计划首次授予限制性股票第二个解除限售期及预留授予限制性股票第一个解除限售期解除限售条件成就事项的核查意见",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920230/AN202611191831867271.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "欧康医药(920230)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "欧康医药:关于2024年股权激励计划首次授予限制性股票第二个解除限售期及预留授予限制性股票第一个解除限售期解除限售条件成就的公告",
+        "summary": "欧康医药(920230)：欧康医药:关于2024年股权激励计划首次授予限制性股票第二个解除限售期及预留授予限制性股票第一个解除限售期解除限售条件成就的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920230/AN202611191831867267.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "欧康医药(920230)"
+        ],
+        "importance": 1,
+        "noticeType": "限售股份上市流通"
+      },
+      {
+        "title": "欧康医药:北京德恒(重庆)律师事务所关于成都欧康医药股份有限公司2024年股权激励计划首次授予限制性股票第二个解除限售期及预留授予限制性股票第一个解除限售期解除限售条件成就的法律意见",
+        "summary": "欧康医药(920230)：欧康医药:北京德恒(重庆)律师事务所关于成都欧康医药股份有限公司2024年股权激励计划首次授予限制性股票第二个解除限售期及预留授予限制性股票第一个解除限售期解除限售条件成就的法律意见",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920230/AN202611191831867270.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "医药"
+        ],
+        "tickers": [
+          "欧康医药(920230)"
+        ],
+        "importance": 1,
+        "noticeType": "法律意见书"
+      },
+      {
+        "title": "广立微:关于以集中竞价方式回购公司股份的回购报告书",
+        "summary": "广立微(301095)：广立微:关于以集中竞价方式回购公司股份的回购报告书",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301095/AN202611191831867152.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "广立微(301095)"
+        ],
+        "importance": 1,
+        "noticeType": "回购报告书"
+      },
+      {
+        "title": "广立微:关于以集中竞价方式回购公司股份方案的公告",
+        "summary": "广立微(301095)：广立微:关于以集中竞价方式回购公司股份方案的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301095/AN202611191831867158.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "广立微(301095)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "托伦斯:投资者关系活动记录表",
+        "summary": "托伦斯(301583)：托伦斯:投资者关系活动记录表",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301583/AN202611191831866988.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "托伦斯(301583)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
       {
         "title": "中顺洁柔：拟变更回购股份用途为注销并减少注册资本",
         "summary": "【中顺洁柔：拟变更回购股份用途为注销并减少注册资本】中顺洁柔(002511.SZ)公告称，公司董事会审议通过议案，同意将2025年回购方案剩余未使用的414.88万股回购股份及尚未实施完毕的2026年回购方案用途，由“用于员工持股计划或股权激励计划”变更为“用于注销并相应减少注册资本”。",
@@ -93476,22 +93681,6 @@
         "impact": "催化",
         "themes": [
           "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "Coherent批准最高20亿美元的股票回购计划",
-        "summary": "Coherent批准最高20亿美元的股票回购计划。",
-        "publishedAt": "2026-11-19 19:32:06",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935174179.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
         ],
         "tickers": [],
         "importance": 1,
@@ -93557,167 +93746,6 @@
         ],
         "tickers": [],
         "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月18日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月18日iShares白银持仓-每日更新(吨)；公布 15554.0，预期 nan，前值 15596.1。",
-        "publishedAt": "2026-11-19 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月18日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国11月18日iShares黄金持仓-每日更新(吨)；公布 460.64，预期 nan，前值 460.64。",
-        "publishedAt": "2026-11-19 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚10月就业人口变动(万人)",
-        "summary": "澳大利亚10月就业人口变动(万人)；公布 -4.35，预期 2.5，前值 -3.93。",
-        "publishedAt": "2026-11-19 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "澳大利亚10月季调后失业率(%)",
-        "summary": "澳大利亚10月季调后失业率(%)；公布 4.9，预期 4.7，前值 4.7。",
-        "publishedAt": "2026-11-19 08:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "SK海力士、美光科技、西部数据、希捷科技美股盘前均涨超6%",
-        "summary": "SK海力士、美光科技、西部数据、希捷科技美股盘前均涨超6%。",
-        "publishedAt": "2026-11-19 19:54:09",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935195261.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "习近平主持中俄美元首会晤",
-        "summary": "【习近平主持中俄美元首会晤】11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。三国元首围绕“维护世界和平，促进大国关系战略稳定”主题进行深入讨论。",
-        "publishedAt": "2026-11-19 19:53:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935193753.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "蒙特利尔银行上调杜克能源目标价",
-        "summary": "【蒙特利尔银行上调杜克能源目标价】蒙特利尔银行将杜克能源目标价从128美元上调至138美元。",
-        "publishedAt": "2026-11-19 19:51:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935194068.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "拼多多盘前涨超9%",
-        "summary": "拼多多盘前短线暴涨，现涨超9%。",
-        "publishedAt": "2026-11-19 19:42:13",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935184459.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "摩根大通预计2028年美联储将降息两次",
-        "summary": "【摩根大通预计2028年美联储将降息两次】摩根大通预计2028年美联储将降息两次，每次25个基点。",
-        "publishedAt": "2026-11-19 19:40:42",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935184782.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "行云科技：近一周内采购了中高端服务器并合规采购交付部分海外高端算力服务器",
-        "summary": "【行云科技：近一周内采购了中高端服务器并合规采购交付部分海外高端算力服务器】行云科技11月19日在机构调研时表示，公司借助全球跨境供应链渠道优势，构建了服务器多元供应链体系，算力业务发展迅速。公司始终坚持合规经营底线，算力资源均通过合规商业渠道持续采购，当前阶段公司算力供应链保障稳定，算力相关业务有序推进。近一周内，公司采购了例如华为昇腾系列等中高端服务器…",
-        "publishedAt": "2026-11-19 19:39:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935186248.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "拼多多三季度营收1083亿元",
-        "summary": "【拼多多三季度营收1083亿元】11月19日，拼多多发布第三季度财报，单季营收1083亿元，同比保持平稳。",
-        "publishedAt": "2026-11-19 19:39:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611193935179334.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -93906,15 +93934,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-19 20:00:33",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-11-19 20:11:27",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 2 条；主题映射集中在 金融、有色稀土、医药。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：国家大基金持股、存储芯片、半导体；首看 国家大基金持股 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、医药；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -93945,7 +93973,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-19 19:59:22",
+        "generatedAt": "2026-11-19 20:09:50",
         "summary": "上午情绪分 0，涨停 23 家，跌停 68 家，炸板 24 家，连板 5 家，最高 3 板。",
         "sections": [
           {
@@ -93984,7 +94012,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-19 19:59:22",
+        "generatedAt": "2026-11-19 20:09:50",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -94010,7 +94038,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 68 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻风险暂未集中，但公告、监管和外围扰动仍需盘前复核。",
+              "新闻/公告风险：ST长方:2026年第一次临时股东会决议公告；ST长方:关于长方集团2026年第一次临时股东会的法律意见书。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
