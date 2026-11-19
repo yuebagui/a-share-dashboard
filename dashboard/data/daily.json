@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-19",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-19 05:26:56",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-19 05:26:56",
+    "lastNewsAt": "2026-11-19 15:46:58"
   },
   "indices": [
     {
@@ -93575,11 +93577,16 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-19",
-    "generatedAt": "2026-11-19 05:27:43",
+    "generatedAt": "2026-11-19 15:46:58",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 8 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 26,
+        "isFocusBoard": false
+      },
       {
         "name": "有色稀土",
         "score": 11,
@@ -93587,232 +93594,309 @@
       },
       {
         "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
         "score": 7,
         "isFocusBoard": false
       },
       {
+        "name": "医药",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
         "name": "半导体",
-        "score": 2,
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "华菱线缆:申万宏源证券承销保荐有限责任公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见(修订稿)",
-        "summary": "华菱线缆(001208)：华菱线缆:申万宏源证券承销保荐有限责任公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见(修订稿)",
+        "title": "京蓝科技:关于控股股东部分股份解除质押及再质押的公告",
+        "summary": "京蓝科技(000711)：京蓝科技:关于控股股东部分股份解除质押及再质押的公告",
         "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001208/AN202611181831835176.html",
+        "url": "https://data.eastmoney.com/notices/detail/000711/AN202611181831833531.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "京蓝科技(000711)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "泰嘉股份:股票交易异常波动公告",
+        "summary": "泰嘉股份(002843)：泰嘉股份:股票交易异常波动公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002843/AN202611181831833551.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "泰嘉股份(002843)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "阳光股份:关于回购公司股份方案的公告",
+        "summary": "阳光股份(000608)：阳光股份:关于回购公司股份方案的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000608/AN202611181831834277.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "华菱线缆(001208)"
+          "阳光股份(000608)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "回购预案"
       },
       {
-        "title": "华菱线缆:大信会计师事务所关于湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金申请的审核问询函的回复(修订稿)",
-        "summary": "华菱线缆(001208)：华菱线缆:大信会计师事务所关于湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金申请的审核问询函的回复(修订稿)",
+        "title": "澜起科技:澜起科技关于2026年第二次回购A股股份方案回购实施结果的公告",
+        "summary": "澜起科技(688008)：澜起科技:澜起科技关于2026年第二次回购A股股份方案回购实施结果的公告",
         "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001208/AN202611181831835174.html",
+        "url": "https://data.eastmoney.com/notices/detail/688008/AN202611181831833886.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "华菱线缆(001208)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "华菱线缆:湖南华菱线缆股份有限公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复(修订稿)",
-        "summary": "华菱线缆(001208)：华菱线缆:湖南华菱线缆股份有限公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复(修订稿)",
-        "publishedAt": "2026-11-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001208/AN202611181831835172.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
           "金融"
         ],
         "tickers": [
-          "华菱线缆(001208)"
+          "澜起科技(688008)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "回购进展情况"
       },
       {
-        "title": "深水海纳:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
-        "summary": "深水海纳(300961)：深水海纳:关于控股股东、实际控制人部分股份将被司法拍卖的提示性公告",
+        "title": "三生国健:关于以集中竞价交易方式回购股份的预案",
+        "summary": "三生国健(688336)：三生国健:关于以集中竞价交易方式回购股份的预案",
         "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300961/AN202611181831835086.html",
+        "url": "https://data.eastmoney.com/notices/detail/688336/AN202611181831833790.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "深水海纳(300961)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "永杉锂业:大华会计师事务所(特殊普通合伙)关于锦州永杉锂业股份有限公司向特定对象发行股票的审核中心意见落实函回复",
-        "summary": "永杉锂业(603399)：永杉锂业:大华会计师事务所(特殊普通合伙)关于锦州永杉锂业股份有限公司向特定对象发行股票的审核中心意见落实函回复",
-        "publishedAt": "2026-11-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603399/AN202611181831834695.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "金融"
         ],
         "tickers": [
-          "永杉锂业(603399)"
+          "三生国健(688336)"
         ],
         "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
+        "noticeType": "回购预案"
       },
       {
-        "title": "ST天圣:关于申请撤销其他风险警示的公告",
-        "summary": "ST天圣(002872)：ST天圣:关于申请撤销其他风险警示的公告",
+        "title": "泰嘉股份:关于湖南泰嘉新材料科技股份有限公司变更募集资金投资项目实施方式暨向子公司增资的核查意见",
+        "summary": "泰嘉股份(002843)：泰嘉股份:关于湖南泰嘉新材料科技股份有限公司变更募集资金投资项目实施方式暨向子公司增资的核查意见",
         "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002872/AN202611181831834533.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST天圣(002872)"
-        ],
-        "importance": 1,
-        "noticeType": "申请撤销风险警示及特别处理"
-      },
-      {
-        "title": "ST天圣:第六届董事会第十九次会议决议公告",
-        "summary": "ST天圣(002872)：ST天圣:第六届董事会第十九次会议决议公告",
-        "publishedAt": "2026-11-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002872/AN202611181831834523.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST天圣(002872)"
-        ],
-        "importance": 1,
-        "noticeType": "董事会决议公告"
-      },
-      {
-        "title": "南山控股:关于累计诉讼、仲裁情况的公告",
-        "summary": "南山控股(002314)：南山控股:关于累计诉讼、仲裁情况的公告",
-        "publishedAt": "2026-11-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002314/AN202611181831834349.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "南山控股(002314)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "重庆路桥:重庆路桥关于第一大股东增持股份计划公告",
-        "summary": "重庆路桥(600106)：重庆路桥:重庆路桥关于第一大股东增持股份计划公告",
-        "publishedAt": "2026-11-19",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600106/AN202611181831835535.html",
+        "url": "https://data.eastmoney.com/notices/detail/002843/AN202611181831833561.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "重庆路桥(600106)"
+          "泰嘉股份(002843)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "南山控股:关于参加2026年度深圳辖区上市公司投资者网上集体接待日的公告",
-        "summary": "南山控股(002314)：南山控股:关于参加2026年度深圳辖区上市公司投资者网上集体接待日的公告",
+        "title": "泰嘉股份:回购股份报告书",
+        "summary": "泰嘉股份(002843)：泰嘉股份:回购股份报告书",
         "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002314/AN202611181831834350.html",
+        "url": "https://data.eastmoney.com/notices/detail/002843/AN202611181831833525.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "泰嘉股份(002843)"
+        ],
+        "importance": 1,
+        "noticeType": "回购报告书"
+      },
+      {
+        "title": "宝鼎科技:关于设立宝鼎科技股份有限公司招远分公司的公告",
+        "summary": "宝鼎科技(002552)：宝鼎科技:关于设立宝鼎科技股份有限公司招远分公司的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002552/AN202611181831833535.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "南山控股(002314)"
+          "宝鼎科技(002552)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "投资设立公司"
       },
       {
-        "title": "必贝特:关于召开2026年第三季度业绩说明会的公告",
-        "summary": "必贝特(688759)：必贝特:关于召开2026年第三季度业绩说明会的公告",
+        "title": "泰嘉股份:关于取得金融机构回购股份专项贷款承诺函的公告",
+        "summary": "泰嘉股份(002843)：泰嘉股份:关于取得金融机构回购股份专项贷款承诺函的公告",
         "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688759/AN202611181831834309.html",
+        "url": "https://data.eastmoney.com/notices/detail/002843/AN202611181831833529.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "泰嘉股份(002843)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "泰嘉股份:关于回购公司股份方案的公告",
+        "summary": "泰嘉股份(002843)：泰嘉股份:关于回购公司股份方案的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002843/AN202611181831833533.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "泰嘉股份(002843)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "泰嘉股份:关于变更募集资金投资项目实施方式暨向子公司增资的公告",
+        "summary": "泰嘉股份(002843)：泰嘉股份:关于变更募集资金投资项目实施方式暨向子公司增资的公告",
+        "publishedAt": "2026-11-19",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002843/AN202611181831833536.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "必贝特(688759)"
+          "泰嘉股份(002843)"
         ],
         "importance": 1,
-        "noticeType": "其他"
+        "noticeType": "增资扩股"
       },
       {
-        "title": "必贝特:关于使用部分暂时闲置募集资金进行现金管理的公告",
-        "summary": "必贝特(688759)：必贝特:关于使用部分暂时闲置募集资金进行现金管理的公告",
+        "title": "兴发集团:湖北兴发化工集团股份有限公司关于对外投资设立控股子公司的公告",
+        "summary": "兴发集团(600141)：兴发集团:湖北兴发化工集团股份有限公司关于对外投资设立控股子公司的公告",
         "publishedAt": "2026-11-19",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688759/AN202611181831834308.html",
+        "url": "https://data.eastmoney.com/notices/detail/600141/AN202611181831833357.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "必贝特(688759)"
+          "兴发集团(600141)"
         ],
         "importance": 1,
-        "noticeType": "投资理财"
+        "noticeType": "投资设立公司"
+      },
+      {
+        "title": "是否接到台积电不给公司供应12nm以下流片的通知？翱捷科技回应",
+        "summary": "【是否接到台积电不给公司供应12nm以下流片的通知？翱捷科技回应】11月19日，针对投资者关于“你们是否有接到台积电的通知，不给你们供应12nm以下流片了？”的提问，翱捷科技在互动平台回应称，该言论并不属实。",
+        "publishedAt": "2026-11-19 15:42:27",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193935022152.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "特朗普：请中国继续保持强大",
+        "summary": "【特朗普：请中国继续保持强大】11月19日，在同习近平主席会见时，美国总统特朗普表示，从贸易投资到世界和平，中美都是领航的，中美都很强大，请中国继续保持强大。",
+        "publishedAt": "2026-11-19 15:39:25",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193935019234.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "先锋精科：半导体装备资本开支未出现下行迹象 公司在手订单处于高增长状态",
+        "summary": "【先锋精科：半导体装备资本开支未出现下行迹象 公司在手订单处于高增长状态】先锋精科(688605)在2026年第三季度业绩说明会上介绍，半导体装备的资本开支并没有出现下行迹象，公司在手订单处于高增长状态；随着产能利用率的提高，公司毛利率将逐步修复改善。",
+        "publishedAt": "2026-11-19 15:33:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193935018129.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中际旭创港股盘中涨超5% 董事长提议最高40亿元回购股份",
+        "summary": "【中际旭创港股盘中涨超5% 董事长提议最高40亿元回购股份】11月19日，中际旭创（03308.HK）盘中涨超5%，截至15时30分，涨5.66%，报541.000港元/股，成交额181306.66万港元。",
+        "publishedAt": "2026-11-19 15:32:36",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193935015321.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "LG Uplus拟投资7890亿韩元建设坡州AI数据中心三期项目",
+        "summary": "【LG Uplus拟投资7890亿韩元建设坡州AI数据中心三期项目】韩国LG Uplus 11月19日宣布，董事会已批准投资7890亿韩元建设坡州人工智能数据中心（AIDC）三期项目，以满足客户需求增长。",
+        "publishedAt": "2026-11-19 15:31:37",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611193935015041.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "美国9月外资净买入长期证券(亿美元)",
-        "summary": "美国9月外资净买入长期证券(亿美元)；公布 nan，预期 nan，前值 2792.0。",
+        "summary": "美国9月外资净买入长期证券(亿美元)；公布 1553.0，预期 nan，前值 2792.0。",
         "publishedAt": "2026-11-19 05:00",
         "source": "百度财经日历",
         "url": "",
@@ -93821,82 +93905,6 @@
         "impact": "宏观关注",
         "themes": [
           "金融"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "新西兰10月贸易帐(亿纽元)",
-        "summary": "新西兰10月贸易帐(亿纽元)；公布 nan，预期 nan，前值 -19.71。",
-        "publishedAt": "2026-11-19 05:45",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月18日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月18日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1048.68。",
-        "publishedAt": "2026-11-19 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月17日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国11月17日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 229960.67。",
-        "publishedAt": "2026-11-19 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月18日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月18日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15596.1。",
-        "publishedAt": "2026-11-19 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月18日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国11月18日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.64。",
-        "publishedAt": "2026-11-19 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
         ],
         "tickers": [],
         "importance": 2,
@@ -94075,7 +94083,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -94088,15 +94096,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-19 05:27:43",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 8 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-11-19 15:46:58",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 2 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：算力租赁、元件、东数西算(算力)；首看 算力租赁 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -94192,7 +94200,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 40 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 数据中心(AIDC)，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：华菱线缆:申万宏源证券承销保荐有限责任公司关于深圳证券交易所《关于湖南华菱线缆股份有限公司发行可转换公司债券购买资产并募集配套资金申请的审核问询函》的回复之专项核查意见(修订稿)；华菱线缆:大信会计师事务所关于湖南华菱线缆股份有限公司关于发行可转换公司债券购买资产并募集配套资金申请的审核问询函的回复(修订稿)。",
+              "新闻/公告风险：京蓝科技:关于控股股东部分股份解除质押及再质押的公告；泰嘉股份:股票交易异常波动公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
