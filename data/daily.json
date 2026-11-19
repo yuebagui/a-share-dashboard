@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-20",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-20 01:13:59",
+    "generatedAt": "2026-11-20 05:18:28",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -603,18 +603,18 @@
         "note": "涨跌幅 -2.04%，领涨 燕东微 +11.37%"
       },
       {
-        "name": "阿里巴巴概念",
-        "netInflow": -777400.0,
-        "changePct": -3.77,
-        "type": "概念",
-        "note": "涨跌幅 -3.77%，领涨 真视通 +10.02%"
-      },
-      {
         "name": "腾讯概念",
         "netInflow": -777400.0,
         "changePct": -3.96,
         "type": "概念",
         "note": "涨跌幅 -3.96%，领涨 广电电气 +10.00%"
+      },
+      {
+        "name": "阿里巴巴概念",
+        "netInflow": -777400.0,
+        "changePct": -3.77,
+        "type": "概念",
+        "note": "涨跌幅 -3.77%，领涨 真视通 +10.02%"
       },
       {
         "name": "AI应用",
@@ -73141,7 +73141,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -73314,15 +73315,15 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-20",
-    "generatedAt": "2026-11-20 01:14:54",
+    "generatedAt": "2026-11-20 05:19:14",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 8 条；主题映射集中在 半导体、有色稀土、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 9,
-        "isFocusBoard": false
+        "name": "半导体",
+        "score": 11,
+        "isFocusBoard": true
       },
       {
         "name": "有色稀土",
@@ -73330,8 +73331,23 @@
         "isFocusBoard": false
       },
       {
+        "name": "金融",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
         "name": "AI算力",
         "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "汽车链",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -73449,41 +73465,11 @@
         "noticeType": "股份质押、冻结"
       },
       {
-        "title": "投资Anthropic的上市公司股价在其上市首秀后回吐早盘涨幅",
-        "summary": "【投资Anthropic的上市公司股价在其上市首秀后回吐早盘涨幅】投资Anthropic的上市公司股价在其上市首秀后回吐早盘涨幅，亚马逊下跌1.4%，谷歌上涨0.3%，英伟达下跌1.6%，AMD下跌8.5%，博通下跌1.2%。",
-        "publishedAt": "2026-11-20 01:10:22",
+        "title": "比特币跌至四个月来新低",
+        "summary": "比特币跌至四个月来新低，最新下跌0.6%，至61,876.23美元。",
+        "publishedAt": "2026-11-20 04:39:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203935432652.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "标普500指数下跌近1% 触及盘中低点",
-        "summary": "标普500指数下跌近1%，触及盘中低点。",
-        "publishedAt": "2026-11-20 00:55:43",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203935425627.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "欧洲三大股指集体收跌 德国DAX指数跌近1%",
-        "summary": "【欧洲三大股指集体收跌 德国DAX指数跌近1%】英国富时100指数收跌0.87%，德国DAX指数下跌0.92%，法国CAC40指数下跌0.76%。",
-        "publishedAt": "2026-11-20 00:37:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203935423842.html",
+        "url": "https://finance.eastmoney.com/a/202611203935451985.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -73577,16 +73563,16 @@
         "noticeType": "重大合同"
       },
       {
-        "title": "沙特首都最高建筑遭袭受损",
-        "summary": "【沙特首都最高建筑遭袭受损】沙特阿拉伯民防总局19日发表声明说，沙特首都利雅得最高建筑当天遭到也门胡塞武装袭击，但未造成人员伤亡。声明所附图片显示，遭袭建筑为位于利雅得阿卜杜拉国王金融区的公共投资基金大厦，是利雅得目前最高的建筑。声明说，袭击造成该建筑多个楼层和周边建筑受损。这起针对民用设施的袭击公然违反国际人道法。",
-        "publishedAt": "2026-11-20 00:20:03",
+        "title": "基金净值透露调仓方向 机构探寻下阶段确定性",
+        "summary": "【基金净值透露调仓方向 机构探寻下阶段确定性】11月以来，海外市场波动及事件性因素扰动，A股科技板块震荡未止，机构投资者近期的调仓动作也随之浮出水面。数据显示：截至11月19日收盘，光模块、PCB两大市场热点板块本月以来跌幅均在10%上下，但区间振幅均超过25%；与此同时，以中芯国际、华虹宏力、寒武纪为代表的国产半导体产业链个股纷纷上涨，长江半导体设备指数…",
+        "publishedAt": "2026-11-20 04:30:25",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203935422193.html",
+        "url": "https://finance.eastmoney.com/a/202611203935443451.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "金融"
+          "半导体"
         ],
         "tickers": [],
         "importance": 1,
@@ -73594,7 +73580,7 @@
       },
       {
         "title": "美国11月19日10年期TIPS竞拍-总金额(亿美元)",
-        "summary": "美国11月19日10年期TIPS竞拍-总金额(亿美元)；公布 nan，预期 nan，前值 190.0。",
+        "summary": "美国11月19日10年期TIPS竞拍-总金额(亿美元)；公布 190.0，预期 nan，前值 190.0。",
         "publishedAt": "2026-11-20 02:00",
         "source": "百度财经日历",
         "url": "",
@@ -73608,7 +73594,7 @@
       },
       {
         "title": "美国11月19日10年期TIPS竞拍-高收益率(%)",
-        "summary": "美国11月19日10年期TIPS竞拍-高收益率(%)；公布 nan，预期 nan，前值 2.65。",
+        "summary": "美国11月19日10年期TIPS竞拍-高收益率(%)；公布 2.9，预期 nan，前值 2.65。",
         "publishedAt": "2026-11-20 02:00",
         "source": "百度财经日历",
         "url": "",
@@ -73616,6 +73602,36 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至11月18日美联储资产负债表(万亿美元)",
+        "summary": "美国截至11月18日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.81。",
+        "publishedAt": "2026-11-20 05:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月19日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月19日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.64。",
+        "publishedAt": "2026-11-20 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -73806,15 +73822,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-20 01:14:54",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 10 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-11-20 05:19:14",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 8 条；主题映射集中在 半导体、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：国家大基金持股、存储芯片、半导体；首看 国家大基金持股 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：半导体、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -73845,7 +73861,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-20 01:13:59",
+        "generatedAt": "2026-11-20 05:18:28",
         "summary": "上午情绪分 0，涨停 23 家，跌停 68 家，炸板 24 家，连板 5 家，最高 3 板。",
         "sections": [
           {
@@ -73884,7 +73900,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-20 01:13:59",
+        "generatedAt": "2026-11-20 05:18:28",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
