@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-20",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-20 20:12:58",
+    "generatedAt": "2026-11-21 00:23:43",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -1148,7 +1148,7 @@
       "tags": [
         "汽车零部"
       ],
-      "reason": "连续跌停 1，封单 219.4万，开板 6 次"
+      "reason": "连续跌停 1，封单 219.4万，开板 5 次"
     },
     {
       "code": "603666",
@@ -1328,7 +1328,7 @@
       "tags": [
         "一般零售"
       ],
-      "reason": "连续跌停 1，封单 683.1万，开板 11 次"
+      "reason": "连续跌停 1，封单 683.1万，开板 12 次"
     },
     {
       "code": "002246",
@@ -44372,7 +44372,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -44544,16 +44545,11 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-20",
-    "generatedAt": "2026-11-20 20:14:15",
+    "generatedAt": "2026-11-21 00:25:08",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、有色稀土、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 有色稀土、AI算力、半导体。",
     "themes": [
-      {
-        "name": "金融",
-        "score": 22,
-        "isFocusBoard": false
-      },
       {
         "name": "有色稀土",
         "score": 9,
@@ -44561,22 +44557,42 @@
       },
       {
         "name": "AI算力",
+        "score": 6,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
+        "name": "能源",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "军工",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "新莱福:中信证券股份有限公司关于《广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告》之专项核查意见",
-        "summary": "新莱福(301323)：新莱福:中信证券股份有限公司关于《广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告》之专项核查意见",
+        "title": "利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告",
+        "summary": "利尔达(920249)：利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907223.html",
+        "url": "https://data.eastmoney.com/notices/detail/920249/AN202611201831909507.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -44584,81 +44600,59 @@
           "金融"
         ],
         "tickers": [
-          "新莱福(301323)"
+          "利尔达(920249)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "处罚"
       },
       {
-        "title": "新莱福:广东联信资产评估土地房地产估价有限公司关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之资产评估相关问题的回复",
-        "summary": "新莱福(301323)：新莱福:广东联信资产评估土地房地产估价有限公司关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之资产评估相关问题的回复",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907233.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新莱福(301323)"
-        ],
-        "importance": 1,
-        "noticeType": "问询函其他公告"
-      },
-      {
-        "title": "新莱福:天健会计师事务所关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函中有关财务事项的说明",
-        "summary": "新莱福(301323)：新莱福:天健会计师事务所关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函中有关财务事项的说明",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907244.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新莱福(301323)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "新莱福:广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告",
-        "summary": "新莱福(301323)：新莱福:广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907230.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "新莱福(301323)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "ST天圣：撤销其他风险警示 11月24日起证券简称变更为“天圣制药”",
-        "summary": "【ST天圣：撤销其他风险警示 11月24日起证券简称变更为“天圣制药”】ST天圣(002872.SZ)公告称，公司撤销其他风险警示的申请已获深交所审核同意。公司股票将于11月23日停牌一天，11月24日复牌并撤销其他风险警示，证券简称由“ST天圣”变更为“天圣制药”，股票代码不变，日涨跌幅限制仍为10%。",
-        "publishedAt": "2026-11-20 19:59:01",
+        "title": "道琼斯指数转跌",
+        "summary": "【道琼斯指数转跌】道琼斯指数向下跌破49000点，最新报48999.67点，日内下跌0.2%。",
+        "publishedAt": "2026-11-21 00:07:58",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936287145.html",
+        "url": "https://finance.eastmoney.com/a/202611213936540515.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "欢瑞世纪：被实施其他风险警示 11月24日起股票简称变更为ST欢瑞",
-        "summary": "【欢瑞世纪：被实施其他风险警示 11月24日起股票简称变更为ST欢瑞】欢瑞世纪(000892.SZ)公告称，公司收到证监会重庆监管局下发的《行政处罚事先告知书》，因2022年年度报告存在虚假记载，公司股票将被实施其他风险警示。公司股票于11月23日停牌一天，11月24日起复牌并实施其他风险警示，股票简称变更为\"ST欢瑞\"，日涨跌幅限制不变。",
-        "publishedAt": "2026-11-20 19:52:48",
+        "title": "纳斯达克100指数跌幅扩大至3% 标普500指数下跌1.5%",
+        "summary": "纳斯达克100指数跌幅扩大至3%，标普500指数下跌1.5%。",
+        "publishedAt": "2026-11-21 00:03:21",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936283291.html",
+        "url": "https://finance.eastmoney.com/a/202611213936538280.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "比特币自7月以来首次跌破6万美元 日内下跌5%",
+        "summary": "比特币自7月以来首次跌破6万美元，日内下跌5%。",
+        "publishedAt": "2026-11-20 23:43:50",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611203936529855.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国国债10年期收益率当日下跌10个基点至4.95%",
+        "summary": "美国国债10年期收益率当日下跌10个基点，至4.95%。",
+        "publishedAt": "2026-11-20 23:41:20",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611203936528389.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -44748,113 +44742,127 @@
         "noticeType": "调研活动"
       },
       {
-        "title": "国瓷材料:关于公司投资建设项目的公告",
-        "summary": "国瓷材料(300285)：国瓷材料:关于公司投资建设项目的公告",
+        "title": "301588美新科技投资者关系管理信息20261120",
+        "summary": "美新科技(301588)：301588美新科技投资者关系管理信息20261120",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300285/AN202611201831907234.html",
+        "url": "https://data.eastmoney.com/notices/detail/301588/AN202611201831909952.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "国瓷材料(300285)"
-        ],
-        "importance": 1,
-        "noticeType": "对外项目投资"
-      },
-      {
-        "title": "300054鼎龙股份投资者关系管理信息20261120",
-        "summary": "鼎龙股份(300054)：300054鼎龙股份投资者关系管理信息20261120",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300054/AN202611201831906812.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "鼎龙股份(300054)"
+          "美新科技(301588)"
         ],
         "importance": 1,
         "noticeType": "调研活动"
       },
       {
-        "title": "赛维时代:关于全资子公司受让股权投资基金份额暨与专业投资机构共同投资的公告",
-        "summary": "赛维时代(301381)：赛维时代:关于全资子公司受让股权投资基金份额暨与专业投资机构共同投资的公告",
+        "title": "002320海峡股份投资者关系管理信息20261120",
+        "summary": "海峡股份(002320)：002320海峡股份投资者关系管理信息20261120",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301381/AN202611201831906687.html",
+        "url": "https://data.eastmoney.com/notices/detail/002320/AN202611201831909870.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "赛维时代(301381)"
+          "海峡股份(002320)"
         ],
         "importance": 1,
-        "noticeType": "股权转让"
+        "noticeType": "调研活动"
       },
       {
-        "title": "摩尔线程：实控人提议回购5亿至10亿元股份",
-        "summary": "【摩尔线程：实控人提议回购5亿至10亿元股份】摩尔线程(688795.SH)公告称，公司收到实际控制人、董事长、总经理张建中提议回购公司股份的函，拟使用自有资金和/或自筹资金，通过集中竞价交易方式回购部分A股股份，回购资金总额不低于5亿元且不超过10亿元，回购股份拟用于员工持股计划或股权激励。",
-        "publishedAt": "2026-11-20 20:10:37",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936292111.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国瓷材料：拟投资6亿元建设高端MLCC用电子陶瓷材料产业化项目",
-        "summary": "【国瓷材料：拟投资6亿元建设高端MLCC用电子陶瓷材料产业化项目】国瓷材料(300285.SZ)公告称，公司拟在东营经济技术开发区投资建设年产5000吨高端MLCC用电子陶瓷材料产业化项目，投资总额约6亿元，资金来源为自有及自筹资金。项目建成后将形成年产5000吨高端MLCC用电子陶瓷材料的生产能力，有利于缓解高端MLCC粉体产能瓶颈，提升订单交付保障能力…",
-        "publishedAt": "2026-11-20 20:08:55",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936290796.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "晶方科技:晶方科技关于2026年第三季度业绩说明会召开情况的公告",
+        "summary": "晶方科技(603005)：晶方科技:晶方科技关于2026年第三季度业绩说明会召开情况的公告",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603005/AN202611201831909477.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "晶方科技(603005)"
+        ],
         "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "301386未来电器投资者关系管理信息20261120",
+        "summary": "未来电器(301386)：301386未来电器投资者关系管理信息20261120",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301386/AN202611201831908432.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "未来电器(301386)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "深交所并购重组审核委员会2026年第20次审议会议公告",
+        "summary": "联合光电(300691)：深交所并购重组审核委员会2026年第20次审议会议公告",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300691/AN202611201831908191.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "联合光电(300691)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板并购重组委会议公告"
+      },
+      {
+        "title": "3-2法律意见书(上会稿)(中山联合光电科技股份有限公司)",
+        "summary": "联合光电(300691)：3-2法律意见书(上会稿)(中山联合光电科技股份有限公司)",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300691/AN202611201831908196.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "联合光电(300691)"
+        ],
+        "importance": 1,
+        "noticeType": "创业板重大资产重组法律意见书上会稿"
+      },
+      {
+        "title": "美国11月19日10年期TIPS竞拍-总金额(亿美元)",
+        "summary": "美国11月19日10年期TIPS竞拍-总金额(亿美元)；公布 190.0，预期 nan，前值 190.0。",
+        "publishedAt": "2026-11-20 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "阳光电源：累计回购530.11万股耗资5亿元 成交价70.42元/股-114.99元/股",
-        "summary": "【阳光电源：累计回购530.11万股耗资5亿元 成交价70.42元/股-114.99元/股】阳光电源(300274.SZ)公告称，截至2026年11月20日，公司通过集中竞价方式累计回购股份530.11万股，占总股本0.2557%，成交最高价114.99元/股，最低价70.42元/股，支付资金总额5亿元。本次回购符合公司回购方案及相关法规要求。",
-        "publishedAt": "2026-11-20 20:07:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936290965.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
+        "title": "美国11月19日10年期TIPS竞拍-高收益率(%)",
+        "summary": "美国11月19日10年期TIPS竞拍-高收益率(%)；公布 2.9，预期 nan，前值 2.65。",
+        "publishedAt": "2026-11-20 02:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "红塔证券：已回购超3400万元公司股份",
-        "summary": "【红塔证券：已回购超3400万元公司股份】红塔证券(601236)11月20日公告，2026年11月2日至11月20日，公司以集中竞价交易方式回购股份数量为151.33万股，支付总额为999.63万元（不含交易费用）。截至2026年11月20日，公司已累计回购股份498.79万股，占总股本的比例为0.106%，支付总额为3404.37万元。",
-        "publishedAt": "2026-11-20 20:07:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936291636.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -44924,15 +44932,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-20 20:14:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、有色稀土、AI算力。",
+        "generatedAt": "2026-11-21 00:25:08",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 5 条；主题映射集中在 有色稀土、AI算力、半导体。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、同花顺中特估100、高股息精选；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -44963,7 +44971,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-20 20:12:58",
+        "generatedAt": "2026-11-21 00:23:43",
         "summary": "上午情绪分 0，涨停 28 家，跌停 58 家，炸板 7 家，连板 3 家，最高 4 板。",
         "sections": [
           {
@@ -45002,7 +45010,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-20 20:12:58",
+        "generatedAt": "2026-11-21 00:23:43",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -45028,7 +45036,7 @@
               "今日炸板 7 只，追高前先看前排封单和回封质量。",
               "今日跌停 58 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：新莱福:中信证券股份有限公司关于《广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告》之专项核查意见；新莱福:广东联信资产评估土地房地产估价有限公司关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之资产评估相关问题的回复。",
+              "新闻/公告风险：利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告；道琼斯指数转跌。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
