@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-20",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-20 05:37:38",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-20 05:37:38",
+    "lastNewsAt": "2026-11-20 15:40:18"
   },
   "indices": [
     {
@@ -73315,34 +73317,34 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-20",
-    "generatedAt": "2026-11-20 05:38:23",
+    "generatedAt": "2026-11-20 15:40:18",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 8 条；主题映射集中在 有色稀土、半导体、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 金融、有色稀土、能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 11,
-        "isFocusBoard": true
-      },
-      {
-        "name": "AI算力",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 8,
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 4,
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 5,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -73353,123 +73355,11 @@
     ],
     "items": [
       {
-        "title": "ST恒信:关于2026年第四次临时股东会相关提案情况补充说明的公告",
-        "summary": "ST恒信(300081)：ST恒信:关于2026年第四次临时股东会相关提案情况补充说明的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300081/AN202611191831869033.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST恒信(300081)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "ST恒信:湖南途顺律师事务所关于对恒信东方文化股份有限公司相关股东临时提案补充说明的法律意见书",
-        "summary": "ST恒信(300081)：ST恒信:湖南途顺律师事务所关于对恒信东方文化股份有限公司相关股东临时提案补充说明的法律意见书",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300081/AN202611191831869032.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST恒信(300081)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "ST恒信:相关公告的更正公告",
-        "summary": "ST恒信(300081)：ST恒信:相关公告的更正公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300081/AN202611191831869034.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST恒信(300081)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "*ST香雪:关于法院裁定受理公司重整及指定管理人暨公司股票被叠加实施退市风险警示的公告",
-        "summary": "*ST香雪(300147)：*ST香雪:关于法院裁定受理公司重整及指定管理人暨公司股票被叠加实施退市风险警示的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300147/AN202611191831868620.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST香雪(300147)"
-        ],
-        "importance": 1,
-        "noticeType": "实施退市风险警示"
-      },
-      {
-        "title": "*ST香雪:关于公司重整债权申报通知及召开债权人会议的公告",
-        "summary": "*ST香雪(300147)：*ST香雪:关于公司重整债权申报通知及召开债权人会议的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300147/AN202611191831868621.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST香雪(300147)"
-        ],
-        "importance": 1,
-        "noticeType": "资产重组债权人会议"
-      },
-      {
-        "title": "*ST香雪:关于法院许可公司在重整期间继续营业的公告",
-        "summary": "*ST香雪(300147)：*ST香雪:关于法院许可公司在重整期间继续营业的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300147/AN202611191831868619.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "*ST香雪(300147)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "长春一东:长春一东关于控股股东股份被冻结的公告",
-        "summary": "长春一东(600148)：长春一东:长春一东关于控股股东股份被冻结的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600148/AN202611191831868505.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "长春一东(600148)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "比特币跌至四个月来新低",
-        "summary": "比特币跌至四个月来新低，最新下跌0.6%，至61,876.23美元。",
-        "publishedAt": "2026-11-20 04:39:51",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203935451985.html",
+        "title": "中国汽研：控股股东累计增持998.94万元股份",
+        "summary": "【中国汽研：控股股东累计增持998.94万元股份】中国汽研公告称，公司控股股东中国中检计划自2026年9月30日起6个月内，以集中竞价方式增持公司A股股份，拟增持金额为6000万元至12000万元。截至2026年11月20日，中国中检累计增持公司股份72.06万股，占公司总股本的0.07%，累计成交金额998.94万元（不含交易费用）。本次增持计划尚未实施…",
+        "publishedAt": "2026-11-20 15:38:38",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -73479,100 +73369,258 @@
         "noticeType": ""
       },
       {
-        "title": "紫金矿业:紫金矿业集团股份有限公司关于以集中竞价方式回购A股股份方案的公告暨回购报告书",
-        "summary": "紫金矿业(601899)：紫金矿业:紫金矿业集团股份有限公司关于以集中竞价方式回购A股股份方案的公告暨回购报告书",
+        "title": "巴克莱策略师：市场因AI担忧引发的股票抛售已超跌",
+        "summary": "【巴克莱策略师：市场因AI担忧引发的股票抛售已超跌】巴克莱策略师认为，股市走弱幅度已经超出基本面。市场一方面担忧人工智能投资放缓，一方面预期美联储政策将大幅转向鹰派，两股预期交织拖累股市。由Emmanuel Cau牵头的团队在报告中写道，当前股市更大的难题是市场不再预期美联储会出手托底，这和2018年12月行情类似：当时股市大跌约20%，之后美联储转向鸽派…",
+        "publishedAt": "2026-11-20 15:36:57",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "科威尔：聘任桑均均为公司财务负责人",
+        "summary": "【科威尔：聘任桑均均为公司财务负责人】科威尔公告称，公司于2026年11月20日召开第三届董事会第十次会议，审议通过变更财务负责人议案。为落实相关监管规则要求，葛彭胜不再担任财务负责人，仍继续担任公司董事会秘书；经总经理提名及相关委员会审核，同意聘任桑均均为公司财务负责人，任期自本次董事会审议通过之日起至第三届董事会届满之日止。",
+        "publishedAt": "2026-11-20 15:36:06",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "蓝科高新:投资者关系活动记录表20261118",
+        "summary": "蓝科高新(601798)：蓝科高新:投资者关系活动记录表20261118",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601899/AN202611191831868962.html",
+        "url": "https://data.eastmoney.com/notices/detail/601798/AN202611201831894550.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "蓝科高新(601798)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "红四方:投资者关系活动记录表",
+        "summary": "红四方(603395)：红四方:投资者关系活动记录表",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603395/AN202611201831894537.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "红四方(603395)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "东威科技:昆山东威科技股份有限公司投资者关系活动记录表(2026.11.18)",
+        "summary": "东威科技(688700)：东威科技:昆山东威科技股份有限公司投资者关系活动记录表(2026.11.18)",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688700/AN202611201831895061.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "东威科技(688700)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "建龙微纳:投资者关系活动记录表(2026-007)",
+        "summary": "建龙微纳(688357)：建龙微纳:投资者关系活动记录表(2026-007)",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688357/AN202611201831894551.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "建龙微纳(688357)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "成都先导:投资者关系活动记录表(2026年11月18日、2026年11月20日)",
+        "summary": "成都先导(688222)：成都先导:投资者关系活动记录表(2026年11月18日、2026年11月20日)",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688222/AN202611201831894548.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "成都先导(688222)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "金海通:投资者关系活动记录表(编号:2026-007)",
+        "summary": "金海通(603061)：金海通:投资者关系活动记录表(编号:2026-007)",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603061/AN202611201831894549.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "金海通(603061)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "咸亨国际:投资者关系活动记录表(2026年11月19日)",
+        "summary": "咸亨国际(605056)：咸亨国际:投资者关系活动记录表(2026年11月19日)",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/605056/AN202611201831894533.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "咸亨国际(605056)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "上海电力:2026年第三季度业绩说明会投资者关系活动记录表",
+        "summary": "上海电力(600021)：上海电力:2026年第三季度业绩说明会投资者关系活动记录表",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600021/AN202611201831894542.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [
-          "金融"
+          "能源"
         ],
         "tickers": [
-          "紫金矿业(601899)"
+          "上海电力(600021)"
         ],
         "importance": 1,
-        "noticeType": "回购预案"
+        "noticeType": "调研活动"
       },
       {
-        "title": "重庆路桥:重庆路桥关于第二大股东增持股份计划公告",
-        "summary": "重庆路桥(600106)：重庆路桥:重庆路桥关于第二大股东增持股份计划公告",
+        "title": "恒运昌:深圳市恒运昌真空技术股份有限公司投资者关系活动记录表(2026-023)",
+        "summary": "恒运昌(688785)：恒运昌:深圳市恒运昌真空技术股份有限公司投资者关系活动记录表(2026-023)",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600106/AN202611191831868813.html",
+        "url": "https://data.eastmoney.com/notices/detail/688785/AN202611201831894534.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "重庆路桥(600106)"
+          "恒运昌(688785)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
+        "noticeType": "调研活动"
       },
       {
-        "title": "新锐股份:新锐股份关于以集中竞价交易方式回购公司股份的回购报告书(修订稿)",
-        "summary": "新锐股份(688257)：新锐股份:新锐股份关于以集中竞价交易方式回购公司股份的回购报告书(修订稿)",
+        "title": "电魂网络:2026年第三季度业绩说明会会议纪要",
+        "summary": "电魂网络(603258)：电魂网络:2026年第三季度业绩说明会会议纪要",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688257/AN202611191831868601.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "新锐股份(688257)"
-        ],
-        "importance": 1,
-        "noticeType": "回购报告书"
-      },
-      {
-        "title": "东阳光:东阳光关于控股股东及其一致行动人增持计划进展暨增持计划调整的公告",
-        "summary": "东阳光(600673)：东阳光:东阳光关于控股股东及其一致行动人增持计划进展暨增持计划调整的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600673/AN202611191831868459.html",
+        "url": "https://data.eastmoney.com/notices/detail/603258/AN202611201831894545.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "东阳光(600673)"
+          "电魂网络(603258)"
         ],
         "importance": 1,
-        "noticeType": "股东/实际控制人股份增持"
+        "noticeType": "调研活动"
       },
       {
-        "title": "东阳光:东阳光关于控股子公司拟签署IDC服务合同暨关联交易的公告",
-        "summary": "东阳光(600673)：东阳光:东阳光关于控股子公司拟签署IDC服务合同暨关联交易的公告",
+        "title": "红四方:投资者关系活动记录表(2026年第三季度业绩说明会)",
+        "summary": "红四方(603395)：红四方:投资者关系活动记录表(2026年第三季度业绩说明会)",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600673/AN202611191831868461.html",
+        "url": "https://data.eastmoney.com/notices/detail/603395/AN202611201831894535.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "东阳光(600673)"
+          "红四方(603395)"
         ],
         "importance": 1,
-        "noticeType": "重大合同"
+        "noticeType": "调研活动"
       },
       {
-        "title": "基金净值透露调仓方向 机构探寻下阶段确定性",
-        "summary": "【基金净值透露调仓方向 机构探寻下阶段确定性】11月以来，海外市场波动及事件性因素扰动，A股科技板块震荡未止，机构投资者近期的调仓动作也随之浮出水面。数据显示：截至11月19日收盘，光模块、PCB两大市场热点板块本月以来跌幅均在10%上下，但区间振幅均超过25%；与此同时，以中芯国际、华虹宏力、寒武纪为代表的国产半导体产业链个股纷纷上涨，长江半导体设备指数…",
-        "publishedAt": "2026-11-20 04:30:25",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203935443451.html",
+        "title": "仕佳光子:投资者关系活动记录表2026-011",
+        "summary": "仕佳光子(688313)：仕佳光子:投资者关系活动记录表2026-011",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688313/AN202611201831894540.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "仕佳光子(688313)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "麒盛科技：实控人唐国海补充质押500万股股份",
+        "summary": "【麒盛科技：实控人唐国海补充质押500万股股份】麒盛科技公告称，公司实际控制人唐国海因股价波动较大，补充质押公司股份500万股，质权人为浙商证券，质押起始日为2026年11月20日，到期日为2027年6月17日。本次质押后，唐国海累计质押股份1400万股，占其直接持股的23.99%，占公司总股本的3.97%。唐国海及其一致行动人智海投资、唐颖合计持股1.4…",
+        "publishedAt": "2026-11-20 15:38:43",
+        "source": "新浪财经7x24",
+        "url": "",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体"
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中信证券首席策略师包承超：A股非AI龙头样本的滚动市盈率处于历史较低分位",
+        "summary": "【中信证券首席策略师包承超：A股非AI龙头样本的滚动市盈率处于历史较低分位】11月20日，相较日韩市场走势，A股整体表现韧性突出。中信证券首席策略师包承超表示，在这轮外部冲击中，A股主要宽基指数较美股、韩股代表性指数更为抗跌。“估值上，A股消费、制造、医药等非AI龙头样本的滚动市盈率处于历史较低分位。按2027年预期盈利测算，家电、商用车、医疗器械等出海相…",
+        "publishedAt": "2026-11-20 15:37:53",
+        "source": "新浪财经7x24",
+        "url": "",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "AI算力",
+          "医药",
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
@@ -73588,50 +73636,6 @@
         "credibility": "财经日历",
         "impact": "宏观关注",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月19日10年期TIPS竞拍-高收益率(%)",
-        "summary": "美国11月19日10年期TIPS竞拍-高收益率(%)；公布 2.9，预期 nan，前值 2.65。",
-        "publishedAt": "2026-11-20 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至11月18日美联储资产负债表(万亿美元)",
-        "summary": "美国截至11月18日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.81。",
-        "publishedAt": "2026-11-20 05:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月19日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国11月19日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.64。",
-        "publishedAt": "2026-11-20 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -73809,7 +73813,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -73822,15 +73826,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-20 05:38:23",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 8 条；主题映射集中在 有色稀土、半导体、AI算力。",
+        "generatedAt": "2026-11-20 15:40:18",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 金融、有色稀土、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：国家大基金持股、存储芯片、半导体；首看 国家大基金持股 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、半导体、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -73926,7 +73930,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 68 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 人工智能，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：ST恒信:关于2026年第四次临时股东会相关提案情况补充说明的公告；ST恒信:湖南途顺律师事务所关于对恒信东方文化股份有限公司相关股东临时提案补充说明的法律意见书。",
+              "新闻/公告风险：中国汽研：控股股东累计增持998.94万元股份；巴克莱策略师：市场因AI担忧引发的股票抛售已超跌。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
