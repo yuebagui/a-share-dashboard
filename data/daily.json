@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-20",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-20 20:00:20",
+    "generatedAt": "2026-11-20 20:12:58",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -73330,52 +73330,39 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-20",
-    "generatedAt": "2026-11-20 20:01:28",
+    "generatedAt": "2026-11-20 20:14:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、医药、能源。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
         "name": "金融",
-        "score": 8,
+        "score": 22,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "机器人",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "易天股份:关于股票交易异常波动的公告",
-        "summary": "易天股份(300812)：易天股份:关于股票交易异常波动的公告",
+        "title": "新莱福:中信证券股份有限公司关于《广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告》之专项核查意见",
+        "summary": "新莱福(301323)：新莱福:中信证券股份有限公司关于《广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告》之专项核查意见",
         "publishedAt": "2026-11-20",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300812/AN202611201831906382.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "易天股份(300812)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告",
-        "summary": "利尔达(920249)：利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920249/AN202611201831905962.html",
+        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907223.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -73383,10 +73370,74 @@
           "金融"
         ],
         "tickers": [
-          "利尔达(920249)"
+          "新莱福(301323)"
         ],
         "importance": 1,
-        "noticeType": "处罚"
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "新莱福:广东联信资产评估土地房地产估价有限公司关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之资产评估相关问题的回复",
+        "summary": "新莱福(301323)：新莱福:广东联信资产评估土地房地产估价有限公司关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之资产评估相关问题的回复",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907233.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "新莱福(301323)"
+        ],
+        "importance": 1,
+        "noticeType": "问询函其他公告"
+      },
+      {
+        "title": "新莱福:天健会计师事务所关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函中有关财务事项的说明",
+        "summary": "新莱福(301323)：新莱福:天健会计师事务所关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函中有关财务事项的说明",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907244.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "新莱福(301323)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "新莱福:广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告",
+        "summary": "新莱福(301323)：新莱福:广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611201831907230.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "新莱福(301323)"
+        ],
+        "importance": 1,
+        "noticeType": "回复问询函公告"
+      },
+      {
+        "title": "ST天圣：撤销其他风险警示 11月24日起证券简称变更为“天圣制药”",
+        "summary": "【ST天圣：撤销其他风险警示 11月24日起证券简称变更为“天圣制药”】ST天圣(002872.SZ)公告称，公司撤销其他风险警示的申请已获深交所审核同意。公司股票将于11月23日停牌一天，11月24日复牌并撤销其他风险警示，证券简称由“ST天圣”变更为“天圣制药”，股票代码不变，日涨跌幅限制仍为10%。",
+        "publishedAt": "2026-11-20 19:59:01",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611203936287145.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
       },
       {
         "title": "欢瑞世纪：被实施其他风险警示 11月24日起股票简称变更为ST欢瑞",
@@ -73394,36 +73445,6 @@
         "publishedAt": "2026-11-20 19:52:48",
         "source": "东方财富7x24",
         "url": "https://finance.eastmoney.com/a/202611203936283291.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "深交所：本周共对80起证券异常交易行为采取自律监管措施",
-        "summary": "【深交所：本周共对80起证券异常交易行为采取自律监管措施】深交所消息，2026年11月16日至11月20日，深交所共对80起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形。",
-        "publishedAt": "2026-11-20 19:51:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936283415.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "法国上调禽流感风险级别至最高级",
-        "summary": "【法国上调禽流感风险级别至最高级】法国农业、农食和粮食主权部19日宣布，自20日起将法国本土范围内高致病性禽流感动物疫情风险级别由“中级”上调为最高的“高级”，以应对近期欧洲野生鸟类禽流感疫情。",
-        "publishedAt": "2026-11-20 19:42:16",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936274346.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -73513,6 +73534,22 @@
         "noticeType": "调研活动"
       },
       {
+        "title": "国瓷材料:关于公司投资建设项目的公告",
+        "summary": "国瓷材料(300285)：国瓷材料:关于公司投资建设项目的公告",
+        "publishedAt": "2026-11-20",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300285/AN202611201831907234.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "国瓷材料(300285)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
         "title": "300054鼎龙股份投资者关系管理信息20261120",
         "summary": "鼎龙股份(300054)：300054鼎龙股份投资者关系管理信息20261120",
         "publishedAt": "2026-11-20",
@@ -73545,59 +73582,27 @@
         "noticeType": "股权转让"
       },
       {
-        "title": "易天股份:关于筹划对外投资暨签署《股权转让框架协议》的公告",
-        "summary": "易天股份(300812)：易天股份:关于筹划对外投资暨签署《股权转让框架协议》的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300812/AN202611201831906383.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "易天股份(300812)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "芯瑞达:2026年11月19日投资者关系活动记录表",
-        "summary": "芯瑞达(002983)：芯瑞达:2026年11月19日投资者关系活动记录表",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002983/AN202611201831906097.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "芯瑞达(002983)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "科捷智能:投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "summary": "科捷智能(688455)：科捷智能:投资者关系活动记录表(2026年第三季度业绩说明会)",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688455/AN202611201831902008.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "科捷智能(688455)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "余承东：享界V8上市2小时大定达2216台",
-        "summary": "【余承东：享界V8上市2小时大定达2216台】11月20日晚，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东发文透露，享界V8上市2小时，大定达2216台。",
-        "publishedAt": "2026-11-20 19:51:20",
+        "title": "摩尔线程：实控人提议回购5亿至10亿元股份",
+        "summary": "【摩尔线程：实控人提议回购5亿至10亿元股份】摩尔线程(688795.SH)公告称，公司收到实际控制人、董事长、总经理张建中提议回购公司股份的函，拟使用自有资金和/或自筹资金，通过集中竞价交易方式回购部分A股股份，回购资金总额不低于5亿元且不超过10亿元，回购股份拟用于员工持股计划或股权激励。",
+        "publishedAt": "2026-11-20 20:10:37",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936282744.html",
+        "url": "https://finance.eastmoney.com/a/202611203936292111.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "国瓷材料：拟投资6亿元建设高端MLCC用电子陶瓷材料产业化项目",
+        "summary": "【国瓷材料：拟投资6亿元建设高端MLCC用电子陶瓷材料产业化项目】国瓷材料(300285.SZ)公告称，公司拟在东营经济技术开发区投资建设年产5000吨高端MLCC用电子陶瓷材料产业化项目，投资总额约6亿元，资金来源为自有及自筹资金。项目建成后将形成年产5000吨高端MLCC用电子陶瓷材料的生产能力，有利于缓解高端MLCC粉体产能瓶颈，提升订单交付保障能力…",
+        "publishedAt": "2026-11-20 20:08:55",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611203936290796.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -73607,29 +73612,33 @@
         "noticeType": ""
       },
       {
-        "title": "文远知行美股盘前拉升涨近8%",
-        "summary": "【文远知行美股盘前拉升涨近8%】文远知行美股盘前拉升涨近8%。据财联社，公司第三季度收入同比增长88%，Robotaxi收入首次突破亿元。",
-        "publishedAt": "2026-11-20 19:45:07",
+        "title": "阳光电源：累计回购530.11万股耗资5亿元 成交价70.42元/股-114.99元/股",
+        "summary": "【阳光电源：累计回购530.11万股耗资5亿元 成交价70.42元/股-114.99元/股】阳光电源(300274.SZ)公告称，截至2026年11月20日，公司通过集中竞价方式累计回购股份530.11万股，占总股本0.2557%，成交最高价114.99元/股，最低价70.42元/股，支付资金总额5亿元。本次回购符合公司回购方案及相关法规要求。",
+        "publishedAt": "2026-11-20 20:07:08",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936276063.html",
+        "url": "https://finance.eastmoney.com/a/202611203936290965.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "文远知行第三季度收入同比增长88% Robotaxi收入首次突破亿元",
-        "summary": "【文远知行第三季度收入同比增长88% Robotaxi收入首次突破亿元】文远知行（0800.HK）公布2026年第三季度未经审计业绩，期内实现收入3.215亿元人民币，同比增长88%，环比增长38.8%；毛利1.381亿元，同比增长约145%，毛利率升至43%，同比提升10.1个百分点。其中，海外业务收入1.469亿元，同比增长171.5%，占总收入的45…",
-        "publishedAt": "2026-11-20 19:43:12",
+        "title": "红塔证券：已回购超3400万元公司股份",
+        "summary": "【红塔证券：已回购超3400万元公司股份】红塔证券(601236)11月20日公告，2026年11月2日至11月20日，公司以集中竞价交易方式回购股份数量为151.33万股，支付总额为999.63万元（不含交易费用）。截至2026年11月20日，公司已累计回购股份498.79万股，占总股本的比例为0.106%，支付总额为3404.37万元。",
+        "publishedAt": "2026-11-20 20:07:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611203936275890.html",
+        "url": "https://finance.eastmoney.com/a/202611203936291636.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -73701,15 +73710,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-20 20:01:28",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、医药、能源。",
+        "generatedAt": "2026-11-20 20:14:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、同花顺中特估100、高股息精选；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、医药、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -73740,7 +73749,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-20 20:00:20",
+        "generatedAt": "2026-11-20 20:12:58",
         "summary": "上午情绪分 0，涨停 28 家，跌停 58 家，炸板 7 家，连板 3 家，最高 4 板。",
         "sections": [
           {
@@ -73779,7 +73788,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-20 20:00:20",
+        "generatedAt": "2026-11-20 20:12:58",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
@@ -73805,7 +73814,7 @@
               "今日炸板 7 只，追高前先看前排封单和回封质量。",
               "今日跌停 58 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：易天股份:关于股票交易异常波动的公告；利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告。",
+              "新闻/公告风险：新莱福:中信证券股份有限公司关于《广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之回复报告》之专项核查意见；新莱福:广东联信资产评估土地房地产估价有限公司关于广州新莱福新材料股份有限公司发行股份及支付现金购买资产并募集配套资金申请的审核问询函之资产评估相关问题的回复。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
