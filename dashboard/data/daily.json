@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-23",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-23 21:40:12",
+    "tradeDate": "2026-11-24",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-24 03:23:24",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -40896,7 +40896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -41059,68 +41060,66 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-23",
-    "generatedAt": "2026-11-23 21:41:06",
+    "tradeDate": "2026-11-24",
+    "generatedAt": "2026-11-24 03:24:07",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [
-      "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
-    ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
+    "errors": [],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 12 条；主题映射集中在 AI算力、有色稀土、金融。",
     "themes": [
       {
-        "name": "金融",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "能源",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
         "name": "AI算力",
+        "score": 18,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 13,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 10,
+        "isFocusBoard": false
+      },
+      {
+        "name": "低空经济",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 2,
+        "name": "能源",
+        "score": 3,
         "isFocusBoard": false
       },
       {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "机器人",
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "天阳科技:关于公司控股股东、实际控制人部分股份质押的公告",
-        "summary": "天阳科技(300872)：天阳科技:关于公司控股股东、实际控制人部分股份质押的公告",
-        "publishedAt": "2026-11-23",
+        "title": "*ST英飞:董事会关于本次交易采取的保密措施及保密制度的说明",
+        "summary": "*ST英飞(002528)：*ST英飞:董事会关于本次交易采取的保密措施及保密制度的说明",
+        "publishedAt": "2026-11-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300872/AN202611231831961485.html",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964969.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "天阳科技(300872)"
+          "*ST英飞(002528)"
         ],
         "importance": 1,
-        "noticeType": "股份质押、冻结"
+        "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "5坤元资产评估有限公司关于深圳证券交易所《浙江春晖智能控制股份有限公司发行股份及支付现金购买资产申请的审核问询函》有关资产评估问题回复之核查意见",
-        "summary": "春晖智控(300943)：5坤元资产评估有限公司关于深圳证券交易所《浙江春晖智能控制股份有限公司发行股份及支付现金购买资产申请的审核问询函》有关资产评估问题回复之核查意见",
-        "publishedAt": "2026-11-23",
+        "title": "*ST英飞:万联证券股份有限公司关于深圳英飞拓科技股份有限公司本次重大资产重组前业绩异常或存在拟置出资产情形的相关事项之专项核查意见",
+        "summary": "*ST英飞(002528)：*ST英飞:万联证券股份有限公司关于深圳英飞拓科技股份有限公司本次重大资产重组前业绩异常或存在拟置出资产情形的相关事项之专项核查意见",
+        "publishedAt": "2026-11-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300943/AN202611231831957740.html",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964977.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -41128,50 +41127,186 @@
           "金融"
         ],
         "tickers": [
-          "春晖智控(300943)"
+          "*ST英飞(002528)"
         ],
         "importance": 1,
-        "noticeType": "创业板重大资产重组问询与回复"
+        "noticeType": "保荐/核查意见"
       },
       {
-        "title": "斯菱智驱:董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
-        "summary": "斯菱智驱(301550)：斯菱智驱:董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
-        "publishedAt": "2026-11-23",
+        "title": "*ST英飞:董事会关于本次交易履行法定程序完备性、合规性及提交法律文件有效性的说明",
+        "summary": "*ST英飞(002528)：*ST英飞:董事会关于本次交易履行法定程序完备性、合规性及提交法律文件有效性的说明",
+        "publishedAt": "2026-11-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301550/AN202611231831964873.html",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964953.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "斯菱智驱(301550)"
+          "*ST英飞(002528)"
         ],
         "importance": 1,
         "noticeType": "专项说明/独立意见"
       },
       {
-        "title": "汇丰仍看多风险资产 认为盈利、估值和悲观情绪为反弹创造条件",
-        "summary": "【汇丰仍看多风险资产 认为盈利、估值和悲观情绪为反弹创造条件】汇丰策略师在近期股市抛售后仍然看多风险资产，认为强劲的企业盈利、更便宜的估值以及投资者情绪日益悲观，为未来数周至数月的反弹创造了条件。",
-        "publishedAt": "2026-11-23 21:16:50",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937543935.html",
-        "category": "market",
-        "credibility": "公开快讯",
+        "title": "*ST英飞:重大资产出售报告书(草案)与预案差异对比说明",
+        "summary": "*ST英飞(002528)：*ST英飞:重大资产出售报告书(草案)与预案差异对比说明",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964979.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "其他"
       },
       {
-        "title": "小摩：设备端的裂缝是真实的 AI与传统基建端需求依然超过供给",
-        "summary": "【小摩：设备端的裂缝是真实的 AI与传统基建端需求依然超过供给】摩根大通北美硬件分析师Joseph Cardoso团队发布财报前瞻，为即将拉开帷幕的错峰财报季定调：板块一个月内平均下跌近20%，服务器整机厂商跌得最狠。抛售的推手是三层叠加的AI基建焦虑——数据中心融资担忧、美国中期选举带来的建设审查、英伟达换帅风波——再加上传统硬件的成本转售价格顺风正在消…",
-        "publishedAt": "2026-11-23 21:13:13",
+        "title": "*ST英飞:万联证券股份有限公司担任深圳英飞拓科技股份有限公司重大资产出售项目之独立财务顾问的承诺函",
+        "summary": "*ST英飞(002528)：*ST英飞:万联证券股份有限公司担任深圳英飞拓科技股份有限公司重大资产出售项目之独立财务顾问的承诺函",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964995.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "*ST英飞:北京市通商律师事务所关于深圳英飞拓科技股份有限公司重大资产重组前业绩异常或存在拟置出资产情形的专项核查意见",
+        "summary": "*ST英飞(002528)：*ST英飞:北京市通商律师事务所关于深圳英飞拓科技股份有限公司重大资产重组前业绩异常或存在拟置出资产情形的专项核查意见",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964956.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST英飞:董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+        "summary": "*ST英飞(002528)：*ST英飞:董事会关于本次交易符合《上市公司监管指引第9号——上市公司筹划和实施重大资产重组的监管要求》第四条规定的说明",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964973.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "*ST英飞:董事会关于本次交易不存在有偿聘请其他第三方机构或个人的说明",
+        "summary": "*ST英飞(002528)：*ST英飞:董事会关于本次交易不存在有偿聘请其他第三方机构或个人的说明",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964951.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "专项说明/独立意见"
+      },
+      {
+        "title": "*ST英飞:万联证券股份有限公司关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定的不得参与上市公司重大资产重组情形的核查意见",
+        "summary": "*ST英飞(002528)：*ST英飞:万联证券股份有限公司关于本次交易相关主体不存在《上市公司监管指引第7号——上市公司重大资产重组相关股票异常交易监管》第十二条及《深圳证券交易所上市公司自律监管指引第8号——重大资产重组》第三十条规定的不得参与上市公司重大资产重组情形的核查意见",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964963.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST英飞:董事会关于本次交易不构成关联交易的说明",
+        "summary": "*ST英飞(002528)：*ST英飞:董事会关于本次交易不构成关联交易的说明",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964992.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
+      },
+      {
+        "title": "*ST英飞:万联证券股份有限公司关于本次交易信息发布前上市公司股票价格波动情况之核查意见",
+        "summary": "*ST英飞(002528)：*ST英飞:万联证券股份有限公司关于本次交易信息发布前上市公司股票价格波动情况之核查意见",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964955.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "*ST英飞:国众联资产评估土地房地产估价有限公司关于深圳英飞拓科技股份有限公司本次重大资产重组前业绩异常或存在拟置出资产情形的相关事项之专项核查意见",
+        "summary": "*ST英飞(002528)：*ST英飞:国众联资产评估土地房地产估价有限公司关于深圳英飞拓科技股份有限公司本次重大资产重组前业绩异常或存在拟置出资产情形的相关事项之专项核查意见",
+        "publishedAt": "2026-11-24",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964994.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "*ST英飞(002528)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "高密度算力散热需求大 液冷领域快步扩容",
+        "summary": "【高密度算力散热需求大 液冷领域快步扩容】随着人工智能产业的快速发展，高密度算力中心的散热需求，让液冷成为全球算力基础设施建设中的重要一环。液冷产业链上市公司的布局和进展受到投资者高度关注。近日，多家A股液冷上市公司在与投资者交流时披露了产能建设、产品交付、在手订单等方面的进展。",
+        "publishedAt": "2026-11-24 01:23:49",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937541228.html",
+        "url": "https://finance.eastmoney.com/a/202611243937734557.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [
           "AI算力"
         ],
@@ -41180,210 +41315,81 @@
         "noticeType": ""
       },
       {
-        "title": "芭薇股份:投资者关系活动记录表",
-        "summary": "芭薇股份(920123)：芭薇股份:投资者关系活动记录表",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920123/AN202611231831957154.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "芭薇股份(920123)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "汇宇制药:四川汇宇制药股份有限公司2026年11月23日投资者关系活动记录表",
-        "summary": "汇宇制药(688553)：汇宇制药:四川汇宇制药股份有限公司2026年11月23日投资者关系活动记录表",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688553/AN202611231831961255.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "汇宇制药(688553)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "领先股份:2026年第三季度业绩说明会投资者关系活动记录表",
-        "summary": "领先股份(603991)：领先股份:2026年第三季度业绩说明会投资者关系活动记录表",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603991/AN202611231831956573.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "领先股份(603991)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "中远海发:投资者关系活动记录表--2026年第三季度业绩说明会",
-        "summary": "中远海发(601866)：中远海发:投资者关系活动记录表--2026年第三季度业绩说明会",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601866/AN202611231831955818.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中远海发(601866)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "台华新材:20261120投资者关系活动记录表",
-        "summary": "台华新材(603055)：台华新材:20261120投资者关系活动记录表",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603055/AN202611231831951242.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "台华新材(603055)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "3-1独立财务顾问报告(上会稿)(广州新莱福新材料股份有限公司)",
-        "summary": "新莱福(301323)：3-1独立财务顾问报告(上会稿)(广州新莱福新材料股份有限公司)",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611231831965055.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新莱福(301323)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组独立财务顾问报告上会稿"
-      },
-      {
-        "title": "深交所并购重组审核委员会2026年第21次审议会议公告",
-        "summary": "新莱福(301323)：深交所并购重组审核委员会2026年第21次审议会议公告",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611231831965059.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新莱福(301323)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板并购重组委会议公告"
-      },
-      {
-        "title": "3-2法律意见书(上会稿)(广州新莱福新材料股份有限公司)",
-        "summary": "新莱福(301323)：3-2法律意见书(上会稿)(广州新莱福新材料股份有限公司)",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611231831965056.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新莱福(301323)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组法律意见书上会稿"
-      },
-      {
-        "title": "2-1重大资产重组报告书(上会稿)(广州新莱福新材料股份有限公司)",
-        "summary": "新莱福(301323)：2-1重大资产重组报告书(上会稿)(广州新莱福新材料股份有限公司)",
-        "publishedAt": "2026-11-23",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301323/AN202611231831965054.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "新莱福(301323)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组报告书上会稿"
-      },
-      {
-        "title": "中国汽车流通协会：10月全国二手车市场交易量150.74万辆 同比下降14.25%",
-        "summary": "【中国汽车流通协会：10月全国二手车市场交易量150.74万辆 同比下降14.25%】11月23日，中国汽车流通协会数据显示，2026年10月，全国二手车市场交易量150.74万辆，环比下降4.16%，同比下降14.25%，交易金额为937.97亿元。2026年1-10月，二手车累计交易量1587.12万辆，同比下降3.76%，与同期相比减少61.95万辆…",
-        "publishedAt": "2026-11-23 21:38:03",
+        "title": "安联首席投资官：黄仁勋回归难解AI泡沫",
+        "summary": "【安联首席投资官：黄仁勋回归难解AI泡沫】安联集团首席投资官卢睿德（LudovicSubran）对第一财经记者表示，黄仁勋回归不足以让市场此前的担忧“一笔勾销”。他认为，AI更多停留在期望和议论层面，市场将转而关注实际成效；上周五的暴跌说明调整可能自我强化。“在我看来，现在的市场比之前想的还要泡沫化。”",
+        "publishedAt": "2026-11-24 01:14:41",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937567626.html",
+        "url": "https://finance.eastmoney.com/a/202611243937737024.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "中性",
+        "impact": "催化",
         "themes": [
-          "汽车链"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "美国财政部顾问：上周金融环境收紧",
-        "summary": "美国财政部顾问泽尔沃斯表示，上周金融环境收紧。",
-        "publishedAt": "2026-11-23 21:35:03",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937567579.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国11月23日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月23日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.11。",
+        "publishedAt": "2026-11-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "金融"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "印度将通过关税配额向美国出口原糖的期限延长一年",
-        "summary": "印度将通过关税配额（TRQ）向美国出口原糖的期限延长一年。",
-        "publishedAt": "2026-11-23 21:33:53",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937567329.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
+        "title": "美国11月20日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国11月20日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 228585.8。",
+        "publishedAt": "2026-11-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月23日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月23日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1034.43。",
+        "publishedAt": "2026-11-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月23日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月23日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15631.19。",
+        "publishedAt": "2026-11-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "德龙汇能：仍聚焦天然气主业 无半导体业务",
-        "summary": "【德龙汇能：仍聚焦天然气主业 无半导体业务】德龙汇能11月23日公告，目前经营情况及内外部经营环境未发生重大变化，近五年燃气供应及其相关收入占总收入比例均超过90%，仍聚焦天然气主业，无半导体业务。",
-        "publishedAt": "2026-11-23 21:30:04",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937546971.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "半导体",
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -41559,7 +41565,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "强",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -41572,15 +41578,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-23 21:41:06",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
+        "generatedAt": "2026-11-24 03:24:07",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 12 条；主题映射集中在 AI算力、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、机器人概念、共封装光学(CPO)；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -41611,7 +41617,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-23 21:40:12",
+        "generatedAt": "2026-11-24 03:23:24",
         "summary": "上午情绪分 100，涨停 146 家，跌停 3 家，炸板 24 家，连板 16 家，最高 5 板。",
         "sections": [
           {
@@ -41650,7 +41656,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-23 21:40:12",
+        "generatedAt": "2026-11-24 03:23:24",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -41676,7 +41682,7 @@
               "今日炸板 24 只，追高前先看前排封单和回封质量。",
               "今日跌停 3 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：天阳科技:关于公司控股股东、实际控制人部分股份质押的公告；5坤元资产评估有限公司关于深圳证券交易所《浙江春晖智能控制股份有限公司发行股份及支付现金购买资产申请的审核问询函》有关资产评估问题回复之核查意见。",
+              "新闻/公告风险：*ST英飞:董事会关于本次交易采取的保密措施及保密制度的说明；*ST英飞:万联证券股份有限公司关于深圳英飞拓科技股份有限公司本次重大资产重组前业绩异常或存在拟置出资产情形的相关事项之专项核查意见。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
