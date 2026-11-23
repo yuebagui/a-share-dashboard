@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-20",
-    "phase": "盘后复盘",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-21 05:07:52",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-21 05:07:52",
+    "lastNewsAt": "2026-11-23 16:01:29"
   },
   "indices": [
     {
@@ -44544,50 +44546,66 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-20",
-    "generatedAt": "2026-11-21 05:08:44",
+    "tradeDate": "2026-11-23",
+    "generatedAt": "2026-11-23 16:01:29",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 有色稀土、AI算力、半导体。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、AI算力、能源。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "金融",
+        "score": 29,
         "isFocusBoard": false
       },
       {
         "name": "AI算力",
-        "score": 6,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "机器人",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告",
-        "summary": "利尔达(920249)：利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告",
-        "publishedAt": "2026-11-20",
+        "title": "金科股份:关于收到行政监管措施决定书的公告",
+        "summary": "金科股份(000656)：金科股份:关于收到行政监管措施决定书的公告",
+        "publishedAt": "2026-11-23",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/920249/AN202611201831909507.html",
+        "url": "https://data.eastmoney.com/notices/detail/000656/AN202611221831933358.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "金科股份(000656)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "启迪设计:关于收到中国证券监督管理委员会江苏监管局《行政处罚事先告知书》的公告",
+        "summary": "启迪设计(300500)：启迪设计:关于收到中国证券监督管理委员会江苏监管局《行政处罚事先告知书》的公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300500/AN202611221831933363.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
@@ -44595,274 +44613,265 @@
           "金融"
         ],
         "tickers": [
-          "利尔达(920249)"
+          "启迪设计(300500)"
         ],
         "importance": 1,
         "noticeType": "处罚"
       },
       {
-        "title": "英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间",
-        "summary": "【英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间】美三大股指大幅收跌，道琼斯指数跌1.93%，标普500指数跌3.69%，纳斯达克综合指数跌5.28%。道指、标普500指数均较此前高点回撤10%，进入回调区间。“AI交易”遭遇大幅抛售，费城半导体指数重挫近11%。其中英伟达跌14%，为连续第7天下跌，本周累跌超20%。AMD跌超13%，美光科技…",
-        "publishedAt": "2026-11-21 05:00:21",
+        "title": "金科股份:关于股票交易异常波动的公告",
+        "summary": "金科股份(000656)：金科股份:关于股票交易异常波动的公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000656/AN202611221831933331.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "金科股份(000656)"
+        ],
+        "importance": 1,
+        "noticeType": "股票交易异常波动"
+      },
+      {
+        "title": "灵康药业:关于控股股东部分股份办理质押的公告",
+        "summary": "灵康药业(603669)：灵康药业:关于控股股东部分股份办理质押的公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603669/AN202611221831933280.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "灵康药业(603669)"
+        ],
+        "importance": 1,
+        "noticeType": "股份质押、冻结"
+      },
+      {
+        "title": "ST洲际:洲际油气股份有限公司关于收到中国证监会《立案告知书》的公告",
+        "summary": "ST洲际(600759)：ST洲际:洲际油气股份有限公司关于收到中国证监会《立案告知书》的公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600759/AN202611221831933286.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "ST洲际(600759)"
+        ],
+        "importance": 1,
+        "noticeType": "违法违规"
+      },
+      {
+        "title": "欧洲加速摆脱美国云服务依赖：政府采购转向本土供应商 数字主权成新考量",
+        "summary": "【欧洲加速摆脱美国云服务依赖：政府采购转向本土供应商 数字主权成新考量】据路透社报道，欧洲正在加快推动关键数字服务实现自主可控。业内高管表示，越来越多欧洲政府部门和受监管行业在采购云服务时，开始将数字主权纳入重要考量。这一趋势正在逐渐反映到政府采购标准和合同授予结果中。",
+        "publishedAt": "2026-11-23 15:39:53",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611213936574780.html",
+        "url": "https://finance.eastmoney.com/a/202611233937258242.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "恩捷股份:关于回购公司股份的进展公告",
+        "summary": "恩捷股份(002812)：恩捷股份:关于回购公司股份的进展公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002812/AN202611221831933327.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "半导体",
-          "AI算力"
+          "金融"
         ],
-        "tickers": [],
+        "tickers": [
+          "恩捷股份(002812)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "回购进展情况"
       },
       {
-        "title": "纳斯达克100指数尾盘跌幅扩大至6% 较10月高点下跌20%",
-        "summary": "纳斯达克100指数尾盘跌幅扩大至6%，较10月高点下跌20%。",
-        "publishedAt": "2026-11-21 04:58:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611213936574230.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "奥来德:关于全资子公司预中标公示的提示性公告",
+        "summary": "奥来德(688378)：奥来德:关于全资子公司预中标公示的提示性公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688378/AN202611221831933264.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [],
-        "tickers": [],
+        "tickers": [
+          "奥来德(688378)"
+        ],
         "importance": 1,
-        "noticeType": ""
+        "noticeType": "重大合同"
       },
       {
-        "title": "比特币跌至两年多低点 风险资产抛售加剧下行压力",
-        "summary": "【比特币跌至两年多低点 风险资产抛售加剧下行压力】比特币一度暴跌6.1%，至57,716美元，为2024年9月以来最低。比特币自2025年10月升至超过126,000美元的峰值以来，已下跌超过一半。“整体市场的信心急剧下降，投资者正在去风险，”GSR复杂资产管理的董事总经理Andy Baehr表示。“比特币也随之受到拖累，在去杠杆环境下通常表现疲弱。”比特…",
-        "publishedAt": "2026-11-21 04:14:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611213936569235.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "多伦多股票指数当日一度下跌2.1% 较8月26日盘中纪录高点下跌10.1%",
-        "summary": "多伦多股票指数当日一度下跌2.1%，较8月26日盘中纪录高点下跌10.1%。",
-        "publishedAt": "2026-11-21 03:41:23",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611213936565755.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国股市跌幅扩大",
-        "summary": "【美国股市跌幅扩大】美国股市跌幅扩大，标普500指数下跌3.00%，英伟达股价跌幅扩大至11%。",
-        "publishedAt": "2026-11-21 03:31:17",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611213936565275.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
+        "title": "思特威:中信建投证券股份有限公司关于思特威(上海)电子科技股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
+        "summary": "思特威(688213)：思特威:中信建投证券股份有限公司关于思特威(上海)电子科技股份有限公司调整募集资金投资项目拟投入募集资金金额的核查意见",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688213/AN202611221831933271.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
+        ],
+        "tickers": [
+          "思特威(688213)"
+        ],
+        "importance": 1,
+        "noticeType": "保荐/核查意见"
+      },
+      {
+        "title": "思特威:关于调整募集资金投资项目拟投入募集资金金额的公告",
+        "summary": "思特威(688213)：思特威:关于调整募集资金投资项目拟投入募集资金金额的公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688213/AN202611221831933268.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "思特威(688213)"
+        ],
+        "importance": 1,
+        "noticeType": "变更募集资金投资项目"
+      },
+      {
+        "title": "逸飞激光:逸飞激光关于控股股东、实际控制人、董事长兼总经理提议公司第三期回购股份的公告",
+        "summary": "逸飞激光(688646)：逸飞激光:逸飞激光关于控股股东、实际控制人、董事长兼总经理提议公司第三期回购股份的公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688646/AN202611221831933253.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "逸飞激光(688646)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "思特威:对外投资公告",
+        "summary": "思特威(688213)：思特威:对外投资公告",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688213/AN202611221831933269.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "思特威(688213)"
+        ],
+        "importance": 1,
+        "noticeType": "对外项目投资"
+      },
+      {
+        "title": "华润双鹤:华润双鹤《投资管理制度》(经2026年11月19日第十届董事会第二十五次会议修订通过)",
+        "summary": "华润双鹤(600062)：华润双鹤:华润双鹤《投资管理制度》(经2026年11月19日第十届董事会第二十五次会议修订通过)",
+        "publishedAt": "2026-11-23",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/600062/AN202611221831933283.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "华润双鹤(600062)"
+        ],
+        "importance": 1,
+        "noticeType": "管理办法/制度"
+      },
+      {
+        "title": "浦东创投集团、农银投资等成立集成电路产业私募基金",
+        "summary": "【浦东创投集团、农银投资等成立集成电路产业私募基金】企查查APP显示，近日，上海浦创金桥企航集成电路产业私募基金合伙企业（有限合伙）成立，出资额约12亿元，经营范围包含：以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该合伙企业由上海浦东引领区投资中心（有限合伙）、农银金融资产投资有限公司等共同持股。",
+        "publishedAt": "2026-11-23 15:55:18",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937268712.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "天津港:天津港股份有限公司投资者关系活动记录表",
-        "summary": "天津港(600717)：天津港:天津港股份有限公司投资者关系活动记录表",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600717/AN202611201831896139.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "江苏证监局对常州力中投资管理有限公司采取责令改正措施",
+        "summary": "【江苏证监局对常州力中投资管理有限公司采取责令改正措施】江苏证监局发布对常州力中投资管理有限公司采取责令改正措施的决定。",
+        "publishedAt": "2026-11-23 15:45:09",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937262513.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天津港(600717)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "东亚药业:投资者关系活动记录表-2026年第三季度业绩说明会",
-        "summary": "东亚药业(605177)：东亚药业:投资者关系活动记录表-2026年第三季度业绩说明会",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/605177/AN202611201831895886.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "东亚药业(605177)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "蓝科高新:投资者关系活动记录表20261118",
-        "summary": "蓝科高新(601798)：蓝科高新:投资者关系活动记录表20261118",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601798/AN202611201831894550.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "蓝科高新(601798)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "红四方:投资者关系活动记录表",
-        "summary": "红四方(603395)：红四方:投资者关系活动记录表",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603395/AN202611201831894537.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "红四方(603395)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "000825太钢不锈投资者关系管理信息20261120",
-        "summary": "太钢不锈(000825)：000825太钢不锈投资者关系管理信息20261120",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000825/AN202611201831894463.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "太钢不锈(000825)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301588美新科技投资者关系管理信息20261120",
-        "summary": "美新科技(301588)：301588美新科技投资者关系管理信息20261120",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301588/AN202611201831909952.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "美新科技(301588)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "002320海峡股份投资者关系管理信息20261120",
-        "summary": "海峡股份(002320)：002320海峡股份投资者关系管理信息20261120",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002320/AN202611201831909870.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海峡股份(002320)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "晶方科技:晶方科技关于2026年第三季度业绩说明会召开情况的公告",
-        "summary": "晶方科技(603005)：晶方科技:晶方科技关于2026年第三季度业绩说明会召开情况的公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603005/AN202611201831909477.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "晶方科技(603005)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "301386未来电器投资者关系管理信息20261120",
-        "summary": "未来电器(301386)：301386未来电器投资者关系管理信息20261120",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301386/AN202611201831908432.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "未来电器(301386)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "深交所并购重组审核委员会2026年第20次审议会议公告",
-        "summary": "联合光电(300691)：深交所并购重组审核委员会2026年第20次审议会议公告",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300691/AN202611201831908191.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联合光电(300691)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板并购重组委会议公告"
-      },
-      {
-        "title": "3-2法律意见书(上会稿)(中山联合光电科技股份有限公司)",
-        "summary": "联合光电(300691)：3-2法律意见书(上会稿)(中山联合光电科技股份有限公司)",
-        "publishedAt": "2026-11-20",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300691/AN202611201831908196.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "联合光电(300691)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组法律意见书上会稿"
-      },
-      {
-        "title": "美国11月19日10年期TIPS竞拍-总金额(亿美元)",
-        "summary": "美国11月19日10年期TIPS竞拍-总金额(亿美元)；公布 190.0，预期 nan，前值 190.0。",
-        "publishedAt": "2026-11-20 02:00",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
         "themes": [],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "华为哈勃入股陶智万象科技公司",
+        "summary": "【华为哈勃入股陶智万象科技公司】天眼查App显示，近日，深圳陶智万象科技有限公司发生工商变更，新增华为旗下深圳哈勃科技投资合伙企业（有限合伙）为股东，同时，注册资本由100万元人民币增至约103.33万元人民币。",
+        "publishedAt": "2026-11-23 15:42:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937262759.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "奥特维：实控人提议回购1亿元至1.2亿元股份",
+        "summary": "【奥特维：实控人提议回购1亿元至1.2亿元股份】奥特维(688516.SH)公告称，公司实控人、董事长葛志勇与实控人、董事李文提议公司以自有资金及自筹资金通过集中竞价交易方式回购股份，回购资金总额不低于1亿元且不超过1.2亿元，回购股份将用于维护公司价值及股东权益、员工持股计划或股权激励。",
+        "publishedAt": "2026-11-23 15:41:26",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937260638.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "人社部：基本养老保险基金可委托国务院授权的机构实行市场化投资运营",
+        "summary": "【人社部：基本养老保险基金可委托国务院授权的机构实行市场化投资运营】意见稿提出，在确保待遇正常支付前提下，存入社会保障基金财政专户的社会保险基金应当按照规定购买国债、转存定期存款，合理搭配通知存款、协定存款等，促进基金保值增值。基本养老保险基金按照国务院规定，可以委托国务院授权的机构实行市场化投资运营，在保证安全的前提下实现保值增值。",
+        "publishedAt": "2026-11-23 15:38:45",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937259351.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -44919,7 +44928,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -44932,15 +44941,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-21 05:08:44",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 6 条；主题映射集中在 有色稀土、AI算力、半导体。",
+        "generatedAt": "2026-11-23 16:01:29",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 金融、AI算力、能源。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、同花顺中特估100、高股息精选；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、AI算力、半导体；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、AI算力、能源；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -45036,7 +45045,7 @@
               "今日炸板 7 只，追高前先看前排封单和回封质量。",
               "今日跌停 58 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 芯片概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：利尔达:关于公司及相关当事人收到中国证券监督管理委员会浙江监管局行政处罚事先告知书的公告；英伟达暴跌14% “AI交易”抛售加剧使得美股进入回调区间。",
+              "新闻/公告风险：金科股份:关于收到行政监管措施决定书的公告；启迪设计:关于收到中国证券监督管理委员会江苏监管局《行政处罚事先告知书》的公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
