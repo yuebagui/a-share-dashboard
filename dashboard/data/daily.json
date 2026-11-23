@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-24",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-24 03:23:24",
+    "generatedAt": "2026-11-24 04:00:29",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -40896,7 +40896,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -41060,19 +41061,19 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-24",
-    "generatedAt": "2026-11-24 03:24:07",
+    "generatedAt": "2026-11-24 04:01:15",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 12 条；主题映射集中在 AI算力、有色稀土、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 14 条；主题映射集中在 AI算力、有色稀土、金融。",
     "themes": [
       {
         "name": "AI算力",
-        "score": 18,
+        "score": 11,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 13,
+        "score": 11,
         "isFocusBoard": false
       },
       {
@@ -41081,18 +41082,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
-        "score": 4,
+        "name": "半导体",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "医药",
-        "score": 2,
+        "score": 5,
         "isFocusBoard": false
       }
     ],
@@ -41298,15 +41294,16 @@
         "noticeType": "保荐/核查意见"
       },
       {
-        "title": "高密度算力散热需求大 液冷领域快步扩容",
-        "summary": "【高密度算力散热需求大 液冷领域快步扩容】随着人工智能产业的快速发展，高密度算力中心的散热需求，让液冷成为全球算力基础设施建设中的重要一环。液冷产业链上市公司的布局和进展受到投资者高度关注。近日，多家A股液冷上市公司在与投资者交流时披露了产能建设、产品交付、在手订单等方面的进展。",
-        "publishedAt": "2026-11-24 01:23:49",
+        "title": "英伟达强势反弹凸显投资者两难 减持巨头虽能抗跌却可能错失反弹",
+        "summary": "【英伟达强势反弹凸显投资者两难 减持巨头虽能抗跌却可能错失反弹】周一股市的大幅反弹暴露出在由少数科技巨头主导的市场中投资者面临的最新陷阱：市场暴跌时，卖出这些股票固然可以起到保护作用，却也可能因此错失随后的反弹。黄仁勋重新出任首席执行官后，英伟达股价飙升逾30%。截至纽约时间下午12:30，该股贡献了罗素1000成长型指数超过五分之二的涨幅，以及纳斯达克1…",
+        "publishedAt": "2026-11-24 02:50:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243937734557.html",
+        "url": "https://finance.eastmoney.com/a/202611243937745824.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
+          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -41314,17 +41311,48 @@
         "noticeType": ""
       },
       {
-        "title": "安联首席投资官：黄仁勋回归难解AI泡沫",
-        "summary": "【安联首席投资官：黄仁勋回归难解AI泡沫】安联集团首席投资官卢睿德（LudovicSubran）对第一财经记者表示，黄仁勋回归不足以让市场此前的担忧“一笔勾销”。他认为，AI更多停留在期望和议论层面，市场将转而关注实际成效；上周五的暴跌说明调整可能自我强化。“在我看来，现在的市场比之前想的还要泡沫化。”",
-        "publishedAt": "2026-11-24 01:14:41",
+        "title": "摩根士丹利预计2027年证券化信贷市场将迎来尾部风险",
+        "summary": "摩根士丹利预计2027年证券化信贷市场将迎来尾部风险。",
+        "publishedAt": "2026-11-24 02:38:11",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243937737024.html",
+        "url": "https://finance.eastmoney.com/a/202611243937745512.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "三星2027至2029年存储产能据悉大部分已被锁定 部分客户寻求将长约延至2031年",
+        "summary": "【三星2027至2029年存储产能据悉大部分已被锁定 部分客户寻求将长约延至2031年】AI浪潮下，存储芯片的订单已排到数年之后。有知情人士近日透露，三星电子2027年至2029年的存储产能已近售罄，部分客户正推动将长约延至2031年。媒体指出，主要存储厂商目前仅能满足客户约六到七成的需求。",
+        "publishedAt": "2026-11-24 03:46:19",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611243937745926.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
+          "半导体",
           "AI算力"
         ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "乐高计划在葡萄牙投资约10亿欧元建设其在欧洲的第四座工厂 预计于2030年投产",
+        "summary": "乐高计划在葡萄牙投资约10亿欧元建设其在欧洲的第四座工厂，预计于2030年投产。",
+        "publishedAt": "2026-11-24 02:34:28",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611243937745691.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -41357,36 +41385,6 @@
         "themes": [
           "有色稀土"
         ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月23日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月23日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1034.43。",
-        "publishedAt": "2026-11-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月23日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月23日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15631.19。",
-        "publishedAt": "2026-11-24 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -41577,8 +41575,8 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-24 03:24:07",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 12 条；主题映射集中在 AI算力、有色稀土、金融。",
+        "generatedAt": "2026-11-24 04:01:15",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 14 条；主题映射集中在 AI算力、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
@@ -41616,7 +41614,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-24 03:23:24",
+        "generatedAt": "2026-11-24 04:00:29",
         "summary": "上午情绪分 100，涨停 146 家，跌停 3 家，炸板 24 家，连板 16 家，最高 5 板。",
         "sections": [
           {
@@ -41655,7 +41653,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-24 03:23:24",
+        "generatedAt": "2026-11-24 04:00:29",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
