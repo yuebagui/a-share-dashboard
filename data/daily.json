@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-23",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-23 21:28:27",
+    "generatedAt": "2026-11-23 21:40:12",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -45986,26 +45986,36 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-23",
-    "generatedAt": "2026-11-23 21:29:30",
+    "generatedAt": "2026-11-23 21:41:06",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [
       "macro-calendar: Failed to obtain Baidu cookies: Network request failed: Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
     ],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 能源、金融、AI算力。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
     "themes": [
+      {
+        "name": "金融",
+        "score": 6,
+        "isFocusBoard": false
+      },
       {
         "name": "能源",
         "score": 6,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
+        "name": "AI算力",
         "score": 4,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 4,
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 2,
         "isFocusBoard": false
       },
       {
@@ -46091,20 +46101,6 @@
         "themes": [
           "AI算力"
         ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "国内商品期货夜盘开盘 主力合约多数下跌",
-        "summary": "【国内商品期货夜盘开盘 主力合约多数下跌】国内商品期货夜盘开盘，主力合约多数下跌。跌幅方面，丁二烯胶跌超2%，丙烯跌近2%，PTA、玻璃、乙二醇、聚丙烯、瓶片等跌超1%；涨幅方面，沪金、20号胶涨超1%，沪银、LPG、白糖、豆粕、热卷等小幅上涨。",
-        "publishedAt": "2026-11-23 21:00:06",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937534559.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -46254,11 +46250,43 @@
         "noticeType": "创业板重大资产重组报告书上会稿"
       },
       {
-        "title": "荣耀CEO称或推独立子品牌",
-        "summary": "【荣耀CEO称或推独立子品牌】手机厂商的品牌版图还在扩张。华为时隔六年推出新子品牌星芒后，荣耀也开始释放进一步细分品牌的可能性。11月23日，在荣耀700系列发布会后的媒体群访中，荣耀CEO李健谈及行业品牌布局变化时对记者表示，荣耀旗下多个产品系列已经形成相对清晰的定位，三个轻旗舰系列中的任何一个，未来都可以独立成为子品牌。",
-        "publishedAt": "2026-11-23 21:26:38",
+        "title": "中国汽车流通协会：10月全国二手车市场交易量150.74万辆 同比下降14.25%",
+        "summary": "【中国汽车流通协会：10月全国二手车市场交易量150.74万辆 同比下降14.25%】11月23日，中国汽车流通协会数据显示，2026年10月，全国二手车市场交易量150.74万辆，环比下降4.16%，同比下降14.25%，交易金额为937.97亿元。2026年1-10月，二手车累计交易量1587.12万辆，同比下降3.76%，与同期相比减少61.95万辆…",
+        "publishedAt": "2026-11-23 21:38:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937545980.html",
+        "url": "https://finance.eastmoney.com/a/202611233937567626.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "汽车链"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国财政部顾问：上周金融环境收紧",
+        "summary": "美国财政部顾问泽尔沃斯表示，上周金融环境收紧。",
+        "publishedAt": "2026-11-23 21:35:03",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937567579.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "印度将通过关税配额向美国出口原糖的期限延长一年",
+        "summary": "印度将通过关税配额（TRQ）向美国出口原糖的期限延长一年。",
+        "publishedAt": "2026-11-23 21:33:53",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937567329.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
@@ -46268,32 +46296,16 @@
         "noticeType": ""
       },
       {
-        "title": "布伦特原油日内跌2%",
-        "summary": "布伦特原油日内跌2%，现报90.61美元/桶。",
-        "publishedAt": "2026-11-23 21:21:31",
+        "title": "德龙汇能：仍聚焦天然气主业 无半导体业务",
+        "summary": "【德龙汇能：仍聚焦天然气主业 无半导体业务】德龙汇能11月23日公告，目前经营情况及内外部经营环境未发生重大变化，近五年燃气供应及其相关收入占总收入比例均超过90%，仍聚焦天然气主业，无半导体业务。",
+        "publishedAt": "2026-11-23 21:30:04",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937542542.html",
+        "url": "https://finance.eastmoney.com/a/202611233937546971.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "中性",
         "themes": [
-          "能源"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "英国《金融时报》：中国为全球应对气候变化作出重要贡献",
-        "summary": "【英国《金融时报》：中国为全球应对气候变化作出重要贡献】当地时间11月20日，英国《金融时报》发表题为《是时候向中国表达感激了》的评论文章，认为中国在清洁能源发展和绿色技术出口等方面取得显著成效，为全球应对气候变化作出重要贡献。文章指出，在应对气候变化方面，没有哪个国家比中国做得更多。",
-        "publishedAt": "2026-11-23 21:20:52",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611233937542314.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "中性",
-        "themes": [
-          "金融",
+          "半导体",
           "能源"
         ],
         "tickers": [],
@@ -46486,15 +46498,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-23 21:29:30",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 6 条；主题映射集中在 能源、金融、AI算力。",
+        "generatedAt": "2026-11-23 21:41:06",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 9 条，风险 5 条；主题映射集中在 金融、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、机器人概念、共封装光学(CPO)；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：能源、金融、AI算力；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -46525,7 +46537,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-23 21:28:27",
+        "generatedAt": "2026-11-23 21:40:12",
         "summary": "上午情绪分 100，涨停 146 家，跌停 3 家，炸板 24 家，连板 16 家，最高 5 板。",
         "sections": [
           {
@@ -46564,7 +46576,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-23 21:28:27",
+        "generatedAt": "2026-11-23 21:40:12",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
