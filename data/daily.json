@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-25",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-25 03:06:51",
+    "generatedAt": "2026-11-25 06:58:15",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -41418,7 +41418,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "弱",
@@ -41586,29 +41587,34 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-25",
-    "generatedAt": "2026-11-25 03:07:12",
+    "generatedAt": "2026-11-25 06:58:32",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、有色稀土、金融。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 9,
+        "name": "AI算力",
+        "score": 14,
         "isFocusBoard": false
       },
       {
-        "name": "AI算力",
-        "score": 8,
+        "name": "有色稀土",
+        "score": 14,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 8,
+        "score": 14,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
+        "score": 9,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 5,
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -41669,11 +41675,44 @@
         "noticeType": "股东/实际控制人股份减持"
       },
       {
-        "title": "标普500指数和纳斯达克指数继续收窄跌幅",
-        "summary": "标普500指数和纳斯达克指数继续收窄跌幅，最新分别下跌0.3%和1.3%。道琼斯指数上涨0.8%。",
-        "publishedAt": "2026-11-25 01:36:32",
+        "title": "法国将建立稀土及关键金属战略储备 约20种原材料纳入计划",
+        "summary": "【法国将建立稀土及关键金属战略储备 约20种原材料纳入计划】法国正计划建立稀土及关键金属战略储备，仿效石油储备机制，以增强工业供应链的安全性，应对关键原材料供应中断带来的风险。该计划将由法国国家储蓄与投资银行负责管理，并配套建立联合采购和价格保障机制，力争在2027年正式启动。",
+        "publishedAt": "2026-11-25 05:43:52",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611253938855185.html",
+        "url": "https://finance.eastmoney.com/a/202611243938827583.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "有色稀土",
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "长鑫科技 最新流通股东榜大变样",
+        "summary": "【长鑫科技 最新流通股东榜大变样】11月24日晚间，长鑫科技（688825）因回购股份事项披露了前十名无限售条件股东持股情况。截至11月19日的这份股东名册，清晰地呈现出外资机构在三季度之后的集中减持情况：6家QFII从前十大流通股东名单中消失，1家QFII减持逾50%，合计减持金额超过80亿元。",
+        "publishedAt": "2026-11-25 05:38:46",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611243938812322.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "惠普股价盘后转跌 最新下跌4%",
+        "summary": "惠普股价盘后转跌，最新下跌4%，此前一度上涨15%。",
+        "publishedAt": "2026-11-25 05:38:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253938877517.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -41831,11 +41870,29 @@
         "noticeType": "法律意见书"
       },
       {
-        "title": "消息人士称 黑石、华平投资和阿波罗正洽谈为GTCR以500亿美元收购Global Payments的交易提供支持",
-        "summary": "消息人士称，黑石、华平投资和阿波罗正洽谈为GTCR以500亿美元收购GlobalPayments的交易提供支持。",
-        "publishedAt": "2026-11-25 01:31:48",
+        "title": "半导体 基本面未变订单足 沿光互连外溢上游",
+        "summary": "【半导体 基本面未变订单足 沿光互连外溢上游】记者近日梳理发现，第四季度以来，国内半导体上市公司订单或大额合同的披露密度明显提升。如果将时间轴拉长，有更多公司在三季报中就披露了订单情况。值得关注的是，这一轮订单不是只落在AI芯片本身，而是沿着光互连一路向上传导至磷化铟衬底、薄膜铌酸锂，再落到晶圆厂和封装厂的扩产清单上，也让这些赛道有望成为这轮景气里“长坡厚…",
+        "publishedAt": "2026-11-25 06:29:18",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611253938854537.html",
+        "url": "https://finance.eastmoney.com/a/202611253938856862.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体",
+          "AI算力",
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "订单排到2029年！又一国产“神器” 爆单了",
+        "summary": "【订单排到2029年！又一国产“神器” 爆单了】随着气温走低，国内“滑雪”搜索量暴涨，冷资源持续释放热效应。国产冰雪装备性能在线、性价比高，提升滑雪者满意度，雪场设施全产业链提速发展。数据显示，2025年我国冰雪产业规模达到10053亿元，冰雪装备规模接近850亿元，预计2026年冰雪装备规模突破千亿元。",
+        "publishedAt": "2026-11-25 06:16:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253938886119.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -41845,63 +41902,19 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至11月20日当周API汽油库存变动(万桶)",
-        "summary": "美国截至11月20日当周API汽油库存变动(万桶)；公布 nan，预期 183.3，前值 512.2。",
-        "publishedAt": "2026-11-25 05:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国截至11月20日当周API原油库存变动(万桶)",
-        "summary": "美国截至11月20日当周API原油库存变动(万桶)；公布 nan，预期 90.0，前值 527.8。",
-        "publishedAt": "2026-11-25 05:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "AI服务器制造商慧与科技（HPE）收跌16.31%",
+        "summary": "AI服务器制造商慧与科技（HPE）收跌16.31%，创该公司2015年美国IPO以来最大单日跌幅，投资者担心其利润率。",
+        "publishedAt": "2026-11-25 05:31:49",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253938875542.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
         "themes": [
-          "能源"
+          "AI算力"
         ],
         "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月24日SPDR黄金持仓-每日更新(吨)",
-        "summary": "美国11月24日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1031.3。",
-        "publishedAt": "2026-11-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [
-          "有色稀土"
-        ],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月24日iShares白银持仓-每日更新(吨)",
-        "summary": "美国11月24日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15712.58。",
-        "publishedAt": "2026-11-25 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
-        "themes": [],
-        "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -41968,7 +41981,7 @@
       "name": "东晶电子",
       "changePct": 9.62,
       "industry": "元件",
-      "failCount": 2
+      "failCount": 3
     },
     {
       "code": "002963",
@@ -42398,15 +42411,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-25 03:07:12",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
+        "generatedAt": "2026-11-25 06:58:32",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、有色稀土、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -42437,7 +42450,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-25 03:06:51",
+        "generatedAt": "2026-11-25 06:58:15",
         "summary": "上午情绪分 100，涨停 55 家，跌停 2 家，炸板 68 家，连板 30 家，最高 4 板。",
         "sections": [
           {
@@ -42476,7 +42489,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-25 03:06:51",
+        "generatedAt": "2026-11-25 06:58:15",
         "summary": "市场温度 弱，情绪周期偏分歧。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
