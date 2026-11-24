@@ -1,8 +1,8 @@
 {
   "meta": {
-    "tradeDate": "2026-11-24",
-    "phase": "盘后复盘",
-    "generatedAt": "2026-11-24 22:23:33",
+    "tradeDate": "2026-11-25",
+    "phase": "盘中快照",
+    "generatedAt": "2026-11-25 02:59:53",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -36086,71 +36086,95 @@
     ]
   },
   "newsBrief": {
-    "tradeDate": "2026-11-24",
-    "generatedAt": "2026-11-24 22:25:11",
+    "tradeDate": "2026-11-25",
+    "generatedAt": "2026-11-25 03:00:10",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
     "themes": [
       {
         "name": "有色稀土",
-        "score": 11,
+        "score": 9,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
+        "name": "AI算力",
         "score": 8,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 6,
+        "score": 8,
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 4,
+        "name": "能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
-        "name": "新能源",
-        "score": 3,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "低空经济",
+        "name": "医药",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "艾芬达:关于股票交易异常波动的公告",
-        "summary": "艾芬达(301575)：艾芬达:关于股票交易异常波动的公告",
-        "publishedAt": "2026-11-24",
+        "title": "杭州解百:杭州解百集团股份有限公司股票交易异常波动公告",
+        "summary": "杭州解百(600814)：杭州解百:杭州解百集团股份有限公司股票交易异常波动公告",
+        "publishedAt": "2026-11-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301575/AN202611241831997010.html",
+        "url": "https://data.eastmoney.com/notices/detail/600814/AN202611241832002329.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "风险",
         "themes": [],
         "tickers": [
-          "艾芬达(301575)"
+          "杭州解百(600814)"
         ],
         "importance": 1,
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "以太坊价格跌破1700美元",
-        "summary": "11月24日，以太坊价格跌破1700美元，日内下跌超4%。",
-        "publishedAt": "2026-11-24 22:08:05",
+        "title": "神雾节能:关于公司股票被实施其他风险警示暨停复牌的提示性公告",
+        "summary": "神雾节能(000820)：神雾节能:关于公司股票被实施其他风险警示暨停复牌的提示性公告",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000820/AN202611241832001817.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [
+          "神雾节能(000820)"
+        ],
+        "importance": 1,
+        "noticeType": "停牌公告"
+      },
+      {
+        "title": "雅化集团:关于出售已回购股份期限届满暨未出售的结果公告",
+        "summary": "雅化集团(002497)：雅化集团:关于出售已回购股份期限届满暨未出售的结果公告",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002497/AN202611241832001756.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "风险",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "雅化集团(002497)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份减持"
+      },
+      {
+        "title": "标普500指数和纳斯达克指数继续收窄跌幅",
+        "summary": "标普500指数和纳斯达克指数继续收窄跌幅，最新分别下跌0.3%和1.3%。道琼斯指数上涨0.8%。",
+        "publishedAt": "2026-11-25 01:36:32",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243938763310.html",
+        "url": "https://finance.eastmoney.com/a/202611253938855185.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -36160,57 +36184,27 @@
         "noticeType": ""
       },
       {
-        "title": "LME三个月锡下跌5%",
-        "summary": "LME三个月锡下跌5%，至每吨40,500美元。",
-        "publishedAt": "2026-11-24 21:59:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243938743196.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "中顺洁柔:002511中顺洁柔投资者关系管理信息20261124",
-        "summary": "中顺洁柔(002511)：中顺洁柔:002511中顺洁柔投资者关系管理信息20261124",
-        "publishedAt": "2026-11-24",
+        "title": "安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划",
+        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划",
+        "publishedAt": "2026-11-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002511/AN202611241832002453.html",
+        "url": "https://data.eastmoney.com/notices/detail/688620/AN202611241832002290.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "中顺洁柔(002511)"
+          "安凯微(688620)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励计划"
       },
       {
-        "title": "天虹股份:2026年11月24日投资者关系活动记录表",
-        "summary": "天虹股份(002419)：天虹股份:2026年11月24日投资者关系活动记录表",
-        "publishedAt": "2026-11-24",
+        "title": "安凯微:广州安凯微电子股份有限公司关于补充回购股份资金来源并收到《贷款承诺函》的公告",
+        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司关于补充回购股份资金来源并收到《贷款承诺函》的公告",
+        "publishedAt": "2026-11-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002419/AN202611241831998130.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "天虹股份(002419)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "星辉娱乐:关于首次回购公司股份的公告",
-        "summary": "星辉娱乐(300043)：星辉娱乐:关于首次回购公司股份的公告",
-        "publishedAt": "2026-11-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300043/AN202611241831995495.html",
+        "url": "https://data.eastmoney.com/notices/detail/688620/AN202611241832002300.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -36218,33 +36212,97 @@
           "金融"
         ],
         "tickers": [
-          "星辉娱乐(300043)"
+          "安凯微(688620)"
         ],
         "importance": 1,
-        "noticeType": "回购实施公告"
+        "noticeType": "借贷"
       },
       {
-        "title": "同益股份:关于参加2026年度深圳辖区上市公司投资者网上集体接待日活动的公告",
-        "summary": "同益股份(300538)：同益股份:关于参加2026年度深圳辖区上市公司投资者网上集体接待日活动的公告",
-        "publishedAt": "2026-11-24",
+        "title": "安凯微:广州安凯微电子股份有限公司关于调整公司2026年限制性股票激励计划激励对象名单的公告",
+        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司关于调整公司2026年限制性股票激励计划激励对象名单的公告",
+        "publishedAt": "2026-11-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300538/AN202611241831995134.html",
+        "url": "https://data.eastmoney.com/notices/detail/688620/AN202611241832002296.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "同益股份(300538)"
+          "安凯微(688620)"
         ],
         "importance": 1,
-        "noticeType": "调研活动"
+        "noticeType": "股权激励对象名单"
       },
       {
-        "title": "广立微:关于首次回购公司股份的公告",
-        "summary": "广立微(301095)：广立微:关于首次回购公司股份的公告",
-        "publishedAt": "2026-11-24",
+        "title": "安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划激励对象名单(授予日)",
+        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划激励对象名单(授予日)",
+        "publishedAt": "2026-11-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301095/AN202611241831989324.html",
+        "url": "https://data.eastmoney.com/notices/detail/688620/AN202611241832002297.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安凯微(688620)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励对象名单"
+      },
+      {
+        "title": "安凯微:广州安凯微电子股份有限公司关于向激励对象授予限制性股票的公告",
+        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司关于向激励对象授予限制性股票的公告",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688620/AN202611241832002298.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "安凯微(688620)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "海兰信:关于2024年限制性股票激励计划第二个归属期归属条件成就的公告",
+        "summary": "海兰信(300065)：海兰信:关于2024年限制性股票激励计划第二个归属期归属条件成就的公告",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300065/AN202611241832001806.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海兰信(300065)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "海兰信:关于作废2024年限制性股票激励计划部分已授予但尚未归属的限制性股票的公告",
+        "summary": "海兰信(300065)：海兰信:关于作废2024年限制性股票激励计划部分已授予但尚未归属的限制性股票的公告",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300065/AN202611241832001803.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "海兰信(300065)"
+        ],
+        "importance": 1,
+        "noticeType": "股权激励进展公告"
+      },
+      {
+        "title": "海兰信:证券投资、期货及衍生品交易管理制度",
+        "summary": "海兰信(300065)：海兰信:证券投资、期货及衍生品交易管理制度",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300065/AN202611241832001818.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
@@ -36252,113 +36310,33 @@
           "金融"
         ],
         "tickers": [
-          "广立微(301095)"
+          "海兰信(300065)"
         ],
         "importance": 1,
-        "noticeType": "回购实施公告"
+        "noticeType": "管理办法/制度"
       },
       {
-        "title": "深交所并购重组审核委员会2026年第22次审议会议公告",
-        "summary": "邵阳液压(301079)：深交所并购重组审核委员会2026年第22次审议会议公告",
-        "publishedAt": "2026-11-24",
+        "title": "猎奇智能:国浩律师(上海)事务所关于参与战略配售投资者核查事项的法律意见书",
+        "summary": "猎奇智能(301661)：猎奇智能:国浩律师(上海)事务所关于参与战略配售投资者核查事项的法律意见书",
+        "publishedAt": "2026-11-25",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301079/AN202611241832002461.html",
+        "url": "https://data.eastmoney.com/notices/detail/301661/AN202611241832000992.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
         "impact": "催化",
         "themes": [],
         "tickers": [
-          "邵阳液压(301079)"
+          "猎奇智能(301661)"
         ],
         "importance": 1,
-        "noticeType": "创业板并购重组委会议公告"
+        "noticeType": "法律意见书"
       },
       {
-        "title": "3-1独立财务顾问报告(上会稿)(邵阳维克液压股份有限公司)",
-        "summary": "邵阳液压(301079)：3-1独立财务顾问报告(上会稿)(邵阳维克液压股份有限公司)",
-        "publishedAt": "2026-11-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301079/AN202611241832002480.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "邵阳液压(301079)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组独立财务顾问报告上会稿"
-      },
-      {
-        "title": "2-1重大资产重组报告书(上会稿)(邵阳维克液压股份有限公司)",
-        "summary": "邵阳液压(301079)：2-1重大资产重组报告书(上会稿)(邵阳维克液压股份有限公司)",
-        "publishedAt": "2026-11-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301079/AN202611241832002479.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "邵阳液压(301079)"
-        ],
-        "importance": 1,
-        "noticeType": "创业板重大资产重组报告书上会稿"
-      },
-      {
-        "title": "中油资本:000617中油资本投资者关系管理信息20261124",
-        "summary": "中油资本(000617)：中油资本:000617中油资本投资者关系管理信息20261124",
-        "publishedAt": "2026-11-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000617/AN202611241832002371.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "中油资本(000617)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "富安娜:2026年11月24日投资者关系活动记录表",
-        "summary": "富安娜(002327)：富安娜:2026年11月24日投资者关系活动记录表",
-        "publishedAt": "2026-11-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002327/AN202611241832002370.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "富安娜(002327)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "歌华有线:2026-003歌华有线投资者关系活动记录表",
-        "summary": "歌华有线(600037)：歌华有线:2026-003歌华有线投资者关系活动记录表",
-        "publishedAt": "2026-11-24",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600037/AN202611241831988412.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "歌华有线(600037)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "特朗普政府拟重启关税攻势 最快周二宣布相关决定",
-        "summary": "【特朗普政府拟重启关税攻势 最快周二宣布相关决定】据一位知情人士透露，美国正准备最早于周二宣布提高对欧盟以及十多个其他经济体商品的关税。特朗普政府正寻求以新的关税措施取代此前被美国最高法院裁定无效的关税。目前，关税税率、涉及的商品范围以及生效日期均尚不明确。《华尔街日报》此前报道称，相关公告最快可能于本周发布。美国总统特朗普经常改变贸易政策方向，因此具体宣…",
-        "publishedAt": "2026-11-24 22:13:47",
+        "title": "消息人士称 黑石、华平投资和阿波罗正洽谈为GTCR以500亿美元收购Global Payments的交易提供支持",
+        "summary": "消息人士称，黑石、华平投资和阿波罗正洽谈为GTCR以500亿美元收购GlobalPayments的交易提供支持。",
+        "publishedAt": "2026-11-25 01:31:48",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243938766112.html",
+        "url": "https://finance.eastmoney.com/a/202611253938854537.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
@@ -36368,40 +36346,39 @@
         "noticeType": ""
       },
       {
-        "title": "海南省省长刘小明会见明阳集团客人",
-        "summary": "【海南省省长刘小明会见明阳集团客人】据海南日报消息，11月24日，海南省省长刘小明在海口会见明阳集团董事长张传卫一行。双方围绕发挥海南自由贸易港政策优势和明阳集团海上风电装备领域领军优势，优化明阳东方国际进出口产业母港项目布局、加大风氢一体化技术创新和漂浮式海上风电场景创新、加快三亚深海能源科创中心投运，共同推动海南清洁能源岛建设和先进制造业发展等方面进行…",
-        "publishedAt": "2026-11-24 21:46:00",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243938736520.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国截至11月20日当周API汽油库存变动(万桶)",
+        "summary": "美国截至11月20日当周API汽油库存变动(万桶)；公布 nan，预期 183.3，前值 512.2。",
+        "publishedAt": "2026-11-25 05:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国截至11月20日当周API原油库存变动(万桶)",
+        "summary": "美国截至11月20日当周API原油库存变动(万桶)；公布 nan，预期 90.0，前值 527.8。",
+        "publishedAt": "2026-11-25 05:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "新能源",
           "能源"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
         "noticeType": ""
       },
       {
-        "title": "祖名股份：控股股东及高管拟协议转让不超17%股份",
-        "summary": "【祖名股份：控股股东及高管拟协议转让不超17%股份】11月24日，祖名股份(003030.SZ)公告称，公司控股股东、实际控制人蔡祖明、王茶英及其一致行动人杭州纤品投资有限公司，公司董事、高级管理人员李国平及高级管理人员赵大勇，计划自公告披露之日起3个交易日后的3个月内，通过协议转让方式合计转让公司股份不高于2121.54万股，占公司总股本的17%。",
-        "publishedAt": "2026-11-24 21:38:08",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243938721494.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "美国11月23日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国11月23日iShares黄金持仓-每日更新(吨)；公布 459.76，预期 nan，前值 460.11。",
-        "publishedAt": "2026-11-24 06:30",
+        "title": "美国11月24日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月24日SPDR黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 1031.3。",
+        "publishedAt": "2026-11-25 06:30",
         "source": "百度财经日历",
         "url": "",
         "category": "macro",
@@ -36410,6 +36387,20 @@
         "themes": [
           "有色稀土"
         ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月24日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月24日iShares白银持仓-每日更新(吨)；公布 nan，预期 nan，前值 15712.58。",
+        "publishedAt": "2026-11-25 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
         "tickers": [],
         "importance": 2,
         "noticeType": ""
@@ -36450,7 +36441,7 @@
       "name": "景旺电子",
       "changePct": 3.11,
       "industry": "元件",
-      "failCount": 4
+      "failCount": 3
     },
     {
       "code": "002655",
@@ -36895,7 +36886,7 @@
     }
   ],
   "reports": {
-    "active": "post-market",
+    "active": "noon",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -36908,15 +36899,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-24 22:25:11",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 14 条，风险 3 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-11-25 03:00:10",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 10 条，风险 4 条；主题映射集中在 有色稀土、AI算力、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、AI算力、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -36947,7 +36938,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-24 22:23:33",
+        "generatedAt": "2026-11-25 02:59:53",
         "summary": "上午情绪分 100，涨停 55 家，跌停 2 家，炸板 68 家，连板 30 家，最高 4 板。",
         "sections": [
           {
@@ -36986,7 +36977,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-24 22:23:33",
+        "generatedAt": "2026-11-25 02:59:53",
         "summary": "市场温度 弱，情绪周期偏分歧。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
@@ -37012,7 +37003,7 @@
               "今日炸板 68 只，追高前先看前排封单和回封质量。",
               "今日跌停 2 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：艾芬达:关于股票交易异常波动的公告；以太坊价格跌破1700美元。",
+              "新闻/公告风险：杭州解百:杭州解百集团股份有限公司股票交易异常波动公告；神雾节能:关于公司股票被实施其他风险警示暨停复牌的提示性公告。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
