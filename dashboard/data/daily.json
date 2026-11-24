@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-24",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-24 04:00:29",
+    "generatedAt": "2026-11-24 08:41:06",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -37603,7 +37603,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "强",
@@ -37767,34 +37768,49 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-24",
-    "generatedAt": "2026-11-24 04:01:15",
+    "generatedAt": "2026-11-24 08:41:51",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 14 条；主题映射集中在 AI算力、有色稀土、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 AI算力、金融、有色稀土。",
     "themes": [
       {
         "name": "AI算力",
-        "score": 11,
-        "isFocusBoard": false
-      },
-      {
-        "name": "有色稀土",
-        "score": 11,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "金融",
-        "score": 10,
+        "score": 12,
+        "isFocusBoard": false
+      },
+      {
+        "name": "有色稀土",
+        "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "新能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 5,
+        "score": 4,
+        "isFocusBoard": false
+      },
+      {
+        "name": "医药",
+        "score": 3,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 5,
+        "score": 3,
+        "isFocusBoard": false
+      },
+      {
+        "name": "机器人",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -37984,88 +38000,71 @@
         "noticeType": "保荐/核查意见"
       },
       {
-        "title": "*ST英飞:国众联资产评估土地房地产估价有限公司关于深圳英飞拓科技股份有限公司本次重大资产重组前业绩异常或存在拟置出资产情形的相关事项之专项核查意见",
-        "summary": "*ST英飞(002528)：*ST英飞:国众联资产评估土地房地产估价有限公司关于深圳英飞拓科技股份有限公司本次重大资产重组前业绩异常或存在拟置出资产情形的相关事项之专项核查意见",
+        "title": "北京商报侃股：分散持仓要避免布局同一赛道",
+        "summary": "【北京商报侃股：分散持仓要避免布局同一赛道】分散持仓是投资者常用的风险控制手段，目的是通过买入多只个股降低单一持股风险。但部分投资者持仓股票高度集中在同一个赛道，看似买了很多只，实际上底层资产的涨跌逻辑高度趋同，很难起到分散风险的效果。",
+        "publishedAt": "2026-11-24 08:35:05",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611233937629828.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "泰和新材:2026年11月23日投资者关系活动记录表",
+        "summary": "泰和新材(002254)：泰和新材:2026年11月23日投资者关系活动记录表",
         "publishedAt": "2026-11-24",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002528/AN202611231831964994.html",
+        "url": "https://data.eastmoney.com/notices/detail/002254/AN202611241831973106.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
+        "impact": "催化",
         "themes": [],
         "tickers": [
-          "*ST英飞(002528)"
+          "泰和新材(002254)"
         ],
         "importance": 1,
-        "noticeType": "保荐/核查意见"
+        "noticeType": "调研活动"
       },
       {
-        "title": "英伟达强势反弹凸显投资者两难 减持巨头虽能抗跌却可能错失反弹",
-        "summary": "【英伟达强势反弹凸显投资者两难 减持巨头虽能抗跌却可能错失反弹】周一股市的大幅反弹暴露出在由少数科技巨头主导的市场中投资者面临的最新陷阱：市场暴跌时，卖出这些股票固然可以起到保护作用，却也可能因此错失随后的反弹。黄仁勋重新出任首席执行官后，英伟达股价飙升逾30%。截至纽约时间下午12:30，该股贡献了罗素1000成长型指数超过五分之二的涨幅，以及纳斯达克1…",
-        "publishedAt": "2026-11-24 02:50:32",
+        "title": "光伏产能过剩 马斯克看好的“太空光伏”成新出口？",
+        "summary": "【光伏产能过剩 马斯克看好的“太空光伏”成新出口？】在近日召开的第九届光伏与储能产业大会上，太空光伏成为热门话题。多位行业人士表示，太空场景对低成本、长寿命、高可靠性电源需求明确，为部分地面产能提供了可能的出口。但地面产品不能直接用于太空，有效在轨验证和降本仍是商业化前提，同时还存在在轨验证、抗辐照封装、太阳翼集成等挑战。太空光伏能否成为地面过剩产能的真实…",
+        "publishedAt": "2026-11-24 08:38:03",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243937745824.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "摩根士丹利预计2027年证券化信贷市场将迎来尾部风险",
-        "summary": "摩根士丹利预计2027年证券化信贷市场将迎来尾部风险。",
-        "publishedAt": "2026-11-24 02:38:11",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243937745512.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "三星2027至2029年存储产能据悉大部分已被锁定 部分客户寻求将长约延至2031年",
-        "summary": "【三星2027至2029年存储产能据悉大部分已被锁定 部分客户寻求将长约延至2031年】AI浪潮下，存储芯片的订单已排到数年之后。有知情人士近日透露，三星电子2027年至2029年的存储产能已近售罄，部分客户正推动将长约延至2031年。媒体指出，主要存储厂商目前仅能满足客户约六到七成的需求。",
-        "publishedAt": "2026-11-24 03:46:19",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243937745926.html",
+        "url": "https://finance.eastmoney.com/a/202611233937658516.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体",
-          "AI算力"
+          "新能源"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "乐高计划在葡萄牙投资约10亿欧元建设其在欧洲的第四座工厂 预计于2030年投产",
-        "summary": "乐高计划在葡萄牙投资约10亿欧元建设其在欧洲的第四座工厂，预计于2030年投产。",
-        "publishedAt": "2026-11-24 02:34:28",
+        "title": "我国腔内影像领域实现世界首创性突破 AI+医疗器械彰显竞争力",
+        "summary": "【我国腔内影像领域实现世界首创性突破 AI+医疗器械彰显竞争力】一套可同步完成冠脉腔内结构成像与血流功能评估的“三合一腔内影像系统”11月22日在哈尔滨医科大学附属第二医院正式发布，这是全球首款集成三类核心评估能力的原创技术成果，标志着我国在腔内影像及功能学指导精准冠状动脉介入治疗领域实现世界首创性突破。",
+        "publishedAt": "2026-11-24 08:25:34",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243937745691.html",
+        "url": "https://finance.eastmoney.com/a/202611243937929651.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
-        "themes": [],
+        "themes": [
+          "AI算力",
+          "医药"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
         "title": "美国11月23日iShares黄金持仓-每日更新(吨)",
-        "summary": "美国11月23日iShares黄金持仓-每日更新(吨)；公布 nan，预期 nan，前值 460.11。",
+        "summary": "美国11月23日iShares黄金持仓-每日更新(吨)；公布 459.76，预期 nan，前值 460.11。",
         "publishedAt": "2026-11-24 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -38081,7 +38080,23 @@
       },
       {
         "title": "美国11月20日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国11月20日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 228585.8。",
+        "summary": "美国11月20日COMEX黄金库存-每日更新(百盎司)；公布 227494.98，预期 nan，前值 228585.8。",
+        "publishedAt": "2026-11-24 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月23日SPDR黄金持仓-每日更新(吨)",
+        "summary": "美国11月23日SPDR黄金持仓-每日更新(吨)；公布 1031.3，预期 nan，前值 1034.43。",
         "publishedAt": "2026-11-24 06:30",
         "source": "百度财经日历",
         "url": "",
@@ -38281,15 +38296,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-24 04:01:15",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 2 条，风险 14 条；主题映射集中在 AI算力、有色稀土、金融。",
+        "generatedAt": "2026-11-24 08:41:51",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 3 条，风险 12 条；主题映射集中在 AI算力、金融、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为强，总仓位按75%-100%控制。",
               "主线候选：芯片概念、机器人概念、共封装光学(CPO)；首看 芯片概念 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -38320,7 +38335,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-24 04:00:29",
+        "generatedAt": "2026-11-24 08:41:06",
         "summary": "上午情绪分 100，涨停 146 家，跌停 3 家，炸板 24 家，连板 16 家，最高 5 板。",
         "sections": [
           {
@@ -38359,7 +38374,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-24 04:00:29",
+        "generatedAt": "2026-11-24 08:41:06",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
