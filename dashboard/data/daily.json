@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-25",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-25 07:01:51",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-25 07:01:51",
+    "lastNewsAt": "2026-11-25 16:59:56"
   },
   "indices": [
     {
@@ -41587,29 +41589,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-25",
-    "generatedAt": "2026-11-25 07:02:09",
+    "generatedAt": "2026-11-25 16:59:56",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、有色稀土、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 16,
+        "name": "金融",
+        "score": 20,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
         "score": 9,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -41618,12 +41615,17 @@
         "isFocusBoard": false
       },
       {
+        "name": "医药",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
         "name": "军工",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "医药",
+        "name": "汽车链",
         "score": 2,
         "isFocusBoard": false
       }
@@ -41646,78 +41648,11 @@
         "noticeType": "股票交易异常波动"
       },
       {
-        "title": "神雾节能:关于公司股票被实施其他风险警示暨停复牌的提示性公告",
-        "summary": "神雾节能(000820)：神雾节能:关于公司股票被实施其他风险警示暨停复牌的提示性公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000820/AN202611241832001817.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "神雾节能(000820)"
-        ],
-        "importance": 1,
-        "noticeType": "停牌公告"
-      },
-      {
-        "title": "雅化集团:关于出售已回购股份期限届满暨未出售的结果公告",
-        "summary": "雅化集团(002497)：雅化集团:关于出售已回购股份期限届满暨未出售的结果公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002497/AN202611241832001756.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "雅化集团(002497)"
-        ],
-        "importance": 1,
-        "noticeType": "股东/实际控制人股份减持"
-      },
-      {
-        "title": "法国将建立稀土及关键金属战略储备 约20种原材料纳入计划",
-        "summary": "【法国将建立稀土及关键金属战略储备 约20种原材料纳入计划】法国正计划建立稀土及关键金属战略储备，仿效石油储备机制，以增强工业供应链的安全性，应对关键原材料供应中断带来的风险。该计划将由法国国家储蓄与投资银行负责管理，并配套建立联合采购和价格保障机制，力争在2027年正式启动。",
-        "publishedAt": "2026-11-25 05:43:52",
+        "title": "雀巢澳版婴配粉被检出“呕吐毒素” 海关总署提示“立即停止使用涉事产品”",
+        "summary": "【雀巢澳版婴配粉被检出“呕吐毒素” 海关总署提示“立即停止使用涉事产品”】11月25日，北京商报记者从中华人民共和国海关总署进出口食品安全局获悉，近日海关总署在开展跨境电商零售进口食品安全风险监测时，从跨境电商平台企业杭州天猫进出口有限公司售卖的标称为瑞士生产的雀巢澳版“Alfamino”氨基酸全水解婴幼儿配方奶粉1+段样品中检出蜡样芽胞杆菌呕吐毒素，批次…",
+        "publishedAt": "2026-11-25 16:53:46",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243938827583.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "有色稀土",
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "长鑫科技 最新流通股东榜大变样",
-        "summary": "【长鑫科技 最新流通股东榜大变样】11月24日晚间，长鑫科技（688825）因回购股份事项披露了前十名无限售条件股东持股情况。截至11月19日的这份股东名册，清晰地呈现出外资机构在三季度之后的集中减持情况：6家QFII从前十大流通股东名单中消失，1家QFII减持逾50%，合计减持金额超过80亿元。",
-        "publishedAt": "2026-11-25 05:38:46",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611243938812322.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "惠普股价盘后转跌 最新下跌4%",
-        "summary": "惠普股价盘后转跌，最新下跌4%，此前一度上涨15%。",
-        "publishedAt": "2026-11-25 05:38:40",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611253938877517.html",
+        "url": "https://finance.eastmoney.com/a/202611253939565011.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
@@ -41725,6 +41660,136 @@
         "tickers": [],
         "importance": 1,
         "noticeType": ""
+      },
+      {
+        "title": "英国家庭电费明年料激增26%",
+        "summary": "【英国家庭电费明年料激增26%】英国能源监管机构天然气和电力市场办公室（Ofgem）宣布，受中东战事推高天然气批发价格的影响，数以百万计英国家庭的能源账单从明年1月起将大涨超过四分之一。",
+        "publishedAt": "2026-11-25 16:52:49",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939567195.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "深天马Ａ:2026年11月24日投资者关系活动记录表",
+        "summary": "深天马A(000050)：深天马Ａ:2026年11月24日投资者关系活动记录表",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000050/AN202611251832018328.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "深天马A(000050)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "002063远光软件投资者关系管理信息20261125",
+        "summary": "远光软件(002063)：002063远光软件投资者关系管理信息20261125",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002063/AN202611251832014241.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "远光软件(002063)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "英搏尔:2026年11月24日投资者关系活动记录表",
+        "summary": "英搏尔(300681)：英搏尔:2026年11月24日投资者关系活动记录表",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300681/AN202611251832013326.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "英搏尔(300681)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "长虹华意:2026年11月24日投资者关系活动记录表（2026-08）",
+        "summary": "长虹华意(000404)：长虹华意:2026年11月24日投资者关系活动记录表（2026-08）",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000404/AN202611251832011432.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "长虹华意(000404)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "鲁阳节能:关于间接控股股东破产重组完成交割暨公司变更为无实际控制人的提示性公告",
+        "summary": "鲁阳节能(002088)：鲁阳节能:关于间接控股股东破产重组完成交割暨公司变更为无实际控制人的提示性公告",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/002088/AN202611251832009622.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "鲁阳节能(002088)"
+        ],
+        "importance": 1,
+        "noticeType": "公司关联方基本资料变更"
+      },
+      {
+        "title": "邵阳液压:关于收到深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告",
+        "summary": "邵阳液压(301079)：邵阳液压:关于收到深圳证券交易所并购重组审核委员会审核公司发行股份及支付现金购买资产并募集配套资金暨关联交易事项会议安排的公告",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301079/AN202611251832009577.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "邵阳液压(301079)"
+        ],
+        "importance": 1,
+        "noticeType": "关联交易"
+      },
+      {
+        "title": "苏试试验:300416苏试试验投资者关系管理信息20261124",
+        "summary": "苏试试验(300416)：苏试试验:300416苏试试验投资者关系管理信息20261124",
+        "publishedAt": "2026-11-25",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300416/AN202611251832009336.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "苏试试验(300416)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
         "title": "安凯微:广州安凯微电子股份有限公司2026年限制性股票激励计划",
@@ -41793,130 +41858,64 @@
         "noticeType": "股权激励对象名单"
       },
       {
-        "title": "安凯微:广州安凯微电子股份有限公司关于向激励对象授予限制性股票的公告",
-        "summary": "安凯微(688620)：安凯微:广州安凯微电子股份有限公司关于向激励对象授予限制性股票的公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688620/AN202611241832002298.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安凯微(688620)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "海兰信:关于2024年限制性股票激励计划第二个归属期归属条件成就的公告",
-        "summary": "海兰信(300065)：海兰信:关于2024年限制性股票激励计划第二个归属期归属条件成就的公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300065/AN202611241832001806.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海兰信(300065)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "海兰信:关于作废2024年限制性股票激励计划部分已授予但尚未归属的限制性股票的公告",
-        "summary": "海兰信(300065)：海兰信:关于作废2024年限制性股票激励计划部分已授予但尚未归属的限制性股票的公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300065/AN202611241832001803.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "海兰信(300065)"
-        ],
-        "importance": 1,
-        "noticeType": "股权激励进展公告"
-      },
-      {
-        "title": "海兰信:证券投资、期货及衍生品交易管理制度",
-        "summary": "海兰信(300065)：海兰信:证券投资、期货及衍生品交易管理制度",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300065/AN202611241832001818.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
+        "title": "2连板百傲化学：首次回购股份99.5万股",
+        "summary": "【2连板百傲化学：首次回购股份99.5万股】百傲化学(603360.SH)公告称，2026年11月25日通过集中竞价方式首次回购股份99.5万股，占总股本0.14%，回购金额1007.41万元，价格区间9.84元/股至10.47元/股。此前公司披露回购方案，拟以2亿元至3亿元回购股份，用于维护公司价值及股东权益。",
+        "publishedAt": "2026-11-25 16:55:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939571266.html",
+        "category": "market",
+        "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "金融"
         ],
-        "tickers": [
-          "海兰信(300065)"
-        ],
+        "tickers": [],
         "importance": 1,
-        "noticeType": "管理办法/制度"
+        "noticeType": ""
       },
       {
-        "title": "猎奇智能:国浩律师(上海)事务所关于参与战略配售投资者核查事项的法律意见书",
-        "summary": "猎奇智能(301661)：猎奇智能:国浩律师(上海)事务所关于参与战略配售投资者核查事项的法律意见书",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301661/AN202611241832000992.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "猎奇智能(301661)"
-        ],
-        "importance": 1,
-        "noticeType": "法律意见书"
-      },
-      {
-        "title": "半导体 基本面未变订单足 沿光互连外溢上游",
-        "summary": "【半导体 基本面未变订单足 沿光互连外溢上游】记者近日梳理发现，第四季度以来，国内半导体上市公司订单或大额合同的披露密度明显提升。如果将时间轴拉长，有更多公司在三季报中就披露了订单情况。值得关注的是，这一轮订单不是只落在AI芯片本身，而是沿着光互连一路向上传导至磷化铟衬底、薄膜铌酸锂，再落到晶圆厂和封装厂的扩产清单上，也让这些赛道有望成为这轮景气里“长坡厚…",
-        "publishedAt": "2026-11-25 06:29:18",
+        "title": "西安奕材：拟以1亿元-2亿元回购公司股份",
+        "summary": "【西安奕材：拟以1亿元-2亿元回购公司股份】西安奕材公告，公司董事会审议通过以集中竞价方式回购公司股份方案，回购资金总额不低于1亿元、不高于2亿元，回购价格不高于24.09元/股，回购股份拟用于员工持股计划或股权激励，回购期限为董事会审议通过之日起12个月内。公司已取得中信银行专项贷款承诺函，贷款金额最高不超过1.8亿元。",
+        "publishedAt": "2026-11-25 16:53:50",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611253938856862.html",
+        "url": "https://finance.eastmoney.com/a/202611253939567324.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "半导体",
-          "AI算力",
-          "有色稀土"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "订单排到2029年！又一国产“神器” 爆单了",
-        "summary": "【订单排到2029年！又一国产“神器” 爆单了】随着气温走低，国内“滑雪”搜索量暴涨，冷资源持续释放热效应。国产冰雪装备性能在线、性价比高，提升滑雪者满意度，雪场设施全产业链提速发展。数据显示，2025年我国冰雪产业规模达到10053亿元，冰雪装备规模接近850亿元，预计2026年冰雪装备规模突破千亿元。",
-        "publishedAt": "2026-11-25 06:16:07",
+        "title": "学习时报：算力供给要避免“一哄而上”",
+        "summary": "【学习时报：算力供给要避免“一哄而上”】习近平总书记在内蒙古乌兰察布考察时语重心长地指出，“我现在对发展新质生产力，包括对现在的几大领先产业，最担心的还是无序发展，一哄而起，最后一哄而散，那样更挫伤积极性。还有就是‘内卷’问题，盲目竞争，不顾自身条件地发展”，并对算力产业提出“高效、绿色、安全”的明确要求。其中“高效”被置于首位，意味着要加强科学规划、集约…",
+        "publishedAt": "2026-11-25 16:45:31",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611253938886119.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "AI服务器制造商慧与科技（HPE）收跌16.31%",
-        "summary": "AI服务器制造商慧与科技（HPE）收跌16.31%，创该公司2015年美国IPO以来最大单日跌幅，投资者担心其利润率。",
-        "publishedAt": "2026-11-25 05:31:49",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611253938875542.html",
+        "url": "https://finance.eastmoney.com/a/202611253939557886.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
           "AI算力"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "赛诺菲股价上涨3.7%",
+        "summary": "【赛诺菲股价上涨3.7%】赛诺菲股价上涨3.7%，此前加拿大皇家银行和巴克莱分别将其评级上调至“跑赢大盘”和“增持”。",
+        "publishedAt": "2026-11-25 16:43:07",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939557564.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
@@ -42403,7 +42402,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "弱",
     "emotionCycle": "分歧",
     "positionRule": {
@@ -42416,15 +42415,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-25 07:02:09",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 6 条；主题映射集中在 AI算力、有色稀土、金融。",
+        "generatedAt": "2026-11-25 16:59:56",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 15 条，风险 3 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为弱，总仓位按25%-50%控制。",
               "暂无清晰主线，优先等待资金和前排共振确认。",
-              "新闻/公告映射主题：AI算力、有色稀土、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -42520,7 +42519,7 @@
               "今日炸板 68 只，追高前先看前排封单和回封质量。",
               "今日跌停 2 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 2026中报预增，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：杭州解百:杭州解百集团股份有限公司股票交易异常波动公告；神雾节能:关于公司股票被实施其他风险警示暨停复牌的提示性公告。",
+              "新闻/公告风险：杭州解百:杭州解百集团股份有限公司股票交易异常波动公告；雀巢澳版婴配粉被检出“呕吐毒素” 海关总署提示“立即停止使用涉事产品”。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
