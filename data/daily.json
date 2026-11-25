@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-25",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-25 21:20:02",
+    "generatedAt": "2026-11-25 21:30:33",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -41954,10 +41954,12 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-25",
-    "generatedAt": "2026-11-25 21:21:16",
+    "generatedAt": "2026-11-25 21:31:32",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
-    "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+    "errors": [
+      "notices: (\"Connection broken: BrokenPipeError(32, 'Broken pipe')\", BrokenPipeError(32, 'Broken pipe'))"
+    ],
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 0 条；主题映射集中在 有色稀土、能源、AI算力。",
     "themes": [
       {
         "name": "有色稀土",
@@ -41965,18 +41967,8 @@
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 8,
-        "isFocusBoard": false
-      },
-      {
         "name": "能源",
-        "score": 7,
-        "isFocusBoard": false
-      },
-      {
-        "name": "新能源",
-        "score": 4,
+        "score": 3,
         "isFocusBoard": false
       },
       {
@@ -41985,213 +41977,12 @@
         "isFocusBoard": false
       },
       {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
-      },
-      {
-        "name": "汽车链",
+        "name": "金融",
         "score": 2,
         "isFocusBoard": false
       }
     ],
     "items": [
-      {
-        "title": "贝泰妮:关于回购公司股份方案实施完毕暨回购实施结果的公告",
-        "summary": "贝泰妮(300957)：贝泰妮:关于回购公司股份方案实施完毕暨回购实施结果的公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300957/AN202611251832038096.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "贝泰妮(300957)"
-        ],
-        "importance": 1,
-        "noticeType": "回购进展情况"
-      },
-      {
-        "title": "弘亚数控:2026年11月25日投资者关系活动记录表",
-        "summary": "弘亚数控(002833)：弘亚数控:2026年11月25日投资者关系活动记录表",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002833/AN202611251832035966.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "弘亚数控(002833)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "超纯应材:超纯应材投资者关系管理信息20261125",
-        "summary": "超纯应材(301717)：超纯应材:超纯应材投资者关系管理信息20261125",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301717/AN202611251832024724.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "超纯应材(301717)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "嘉立创:2026年11月25日投资者关系活动记录表",
-        "summary": "嘉立创(001232)：嘉立创:2026年11月25日投资者关系活动记录表",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/001232/AN202611251832039812.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "嘉立创(001232)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "德福科技:关于公司对外投资暨签订投资协议的公告",
-        "summary": "德福科技(301511)：德福科技:关于公司对外投资暨签订投资协议的公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301511/AN202611251832039811.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "德福科技(301511)"
-        ],
-        "importance": 1,
-        "noticeType": "签订协议"
-      },
-      {
-        "title": "科拓生物:关于回购公司股份比例达到4%暨回购完成的公告",
-        "summary": "科拓生物(300858)：科拓生物:关于回购公司股份比例达到4%暨回购完成的公告",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300858/AN202611251832039808.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "科拓生物(300858)"
-        ],
-        "importance": 1,
-        "noticeType": "回购实施公告"
-      },
-      {
-        "title": "安利股份:2026年11月25日投资者关系活动记录表",
-        "summary": "安利股份(300218)：安利股份:2026年11月25日投资者关系活动记录表",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300218/AN202611251832039670.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "安利股份(300218)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "满坤科技:2026年11月25日投资者关系活动记录表",
-        "summary": "满坤科技(301132)：满坤科技:2026年11月25日投资者关系活动记录表",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/301132/AN202611251832039493.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "满坤科技(301132)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "爱施德:2026年11月24-25日投资者关系活动记录表",
-        "summary": "爱施德(002416)：爱施德:2026年11月24-25日投资者关系活动记录表",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002416/AN202611251832035651.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "爱施德(002416)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "永信至诚:投资者关系活动记录表2026-002",
-        "summary": "永信至诚(688244)：永信至诚:投资者关系活动记录表2026-002",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688244/AN202611251832035874.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "永信至诚(688244)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "浙大网新:-浙大网新:2026年第三季度业绩说明会投资者关系活动记录表",
-        "summary": "浙大网新(600797)：浙大网新:-浙大网新:2026年第三季度业绩说明会投资者关系活动记录表",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600797/AN202611251832039206.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "浙大网新(600797)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "工业富联:富士康工业互联网股份有限公司投资者关系活动记录表20261123",
-        "summary": "工业富联(601138)：工业富联:富士康工业互联网股份有限公司投资者关系活动记录表20261123",
-        "publishedAt": "2026-11-25",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601138/AN202611251832039207.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "工业富联(601138)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
       {
         "title": "美国截至11月20日当周API汽油库存变动(万桶)",
         "summary": "美国截至11月20日当周API汽油库存变动(万桶)；公布 -4.7，预期 183.3，前值 512.2。",
@@ -42282,6 +42073,174 @@
         ],
         "tickers": [],
         "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "澳大利亚10月统计局CPI年率-季调后(%)",
+        "summary": "澳大利亚10月统计局CPI年率-季调后(%)；公布 4.9，预期 4.8，前值 4.3。",
+        "publishedAt": "2026-11-25 08:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "德国第三季度未季调季度GDP年率修正值(%)",
+        "summary": "德国第三季度未季调季度GDP年率修正值(%)；公布 1.2，预期 1.3，前值 1.3。",
+        "publishedAt": "2026-11-25 15:00",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "以议会初审通过法案 将就哈马斯袭击事件成立国家调查委员会",
+        "summary": "【以议会初审通过法案 将就哈马斯袭击事件成立国家调查委员会】当地时间25日，以色列议会以65票赞成、50票反对的结果，初审通过一项由正直党领导人埃森科特领衔的反对派阵营推动的法案，决定就2023年10月7日巴勒斯坦伊斯兰抵抗运动（哈马斯）袭击事件成立国家调查委员会。",
+        "publishedAt": "2026-11-25 21:25:40",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939790075.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "中荷外长共识声明",
+        "summary": "【中荷外长共识声明】2026年11月25日，中共中央政治局委员、外交部长王毅在北京同荷兰外交大臣贝伦德森举行会谈，就中荷关系等共同关心的问题深入交流。",
+        "publishedAt": "2026-11-25 21:25:00",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939789851.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国提议对马来西亚征收18%的关税协议税率",
+        "summary": "美国提议对马来西亚征收18%的关税协议税率。",
+        "publishedAt": "2026-11-25 21:20:11",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939787779.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国提议对日本和韩国加征15%关税 对欧盟商品征收最高20%关税",
+        "summary": "美国贸易调查后提议对日本和韩国加征15%的最惠国待遇关税，提议对欧盟商品征收最高20%关税。",
+        "publishedAt": "2026-11-25 21:18:23",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939785990.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国提议对新加坡征收至少10%的关税",
+        "summary": "美国提议对新加坡征收至少10%的关税。",
+        "publishedAt": "2026-11-25 21:18:15",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939785829.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国提议对印度征收17%的关税",
+        "summary": "美国提议对印度征收17%的关税。",
+        "publishedAt": "2026-11-25 21:16:33",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939787316.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国提议对越南征收20%的关税",
+        "summary": "美国提议对越南征收20%的关税。",
+        "publishedAt": "2026-11-25 21:16:31",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939783021.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国在贸易调查后提议对泰国加征至少18%的关税",
+        "summary": "美国在贸易调查后提议对泰国加征至少18%的关税。",
+        "publishedAt": "2026-11-25 21:16:14",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939782984.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "美国贸易调查后提议对欧盟商品征收最高20%关税",
+        "summary": "美国贸易调查后提议对欧盟商品征收最高20%关税。",
+        "publishedAt": "2026-11-25 21:11:10",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939780928.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "陈文清赴德国出席第六次中德高级别安全对话",
+        "summary": "【陈文清赴德国出席第六次中德高级别安全对话】当地时间11月24日，第六次中德高级别安全对话在德国柏林举行，中共中央政治局委员、中央政法委书记陈文清与德国联邦总理府部长瓦尔肯共同出席并致辞。",
+        "publishedAt": "2026-11-25 21:07:29",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611253939770374.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "中性",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -42512,15 +42471,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-25 21:21:16",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 12 条，风险 0 条；主题映射集中在 有色稀土、金融、能源。",
+        "generatedAt": "2026-11-25 21:31:32",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 0 条，风险 0 条；主题映射集中在 有色稀土、能源、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、白酒；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、金融、能源；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -42551,7 +42510,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-25 21:20:02",
+        "generatedAt": "2026-11-25 21:30:33",
         "summary": "上午情绪分 10，涨停 51 家，跌停 43 家，炸板 30 家，连板 14 家，最高 5 板。",
         "sections": [
           {
@@ -42590,7 +42549,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-25 21:20:02",
+        "generatedAt": "2026-11-25 21:30:33",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
