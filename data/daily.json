@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-26",
     "phase": "盘中快照",
-    "generatedAt": "2026-11-26 02:33:40",
+    "generatedAt": "2026-11-26 06:18:45",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -31376,7 +31376,8 @@
           }
         ]
       }
-    ]
+    ],
+    "source": "full-universe technical scan"
   },
   "executionPlan": {
     "marketLevel": "冰",
@@ -31548,24 +31549,29 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-26",
-    "generatedAt": "2026-11-26 02:34:13",
+    "generatedAt": "2026-11-26 06:19:21",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 AI算力、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 金融、有色稀土、AI算力。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 12,
-        "isFocusBoard": false
-      },
-      {
         "name": "金融",
-        "score": 12,
+        "score": 15,
         "isFocusBoard": false
       },
       {
         "name": "有色稀土",
-        "score": 12,
+        "score": 14,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
+        "score": 13,
+        "isFocusBoard": false
+      },
+      {
+        "name": "能源",
+        "score": 5,
         "isFocusBoard": false
       },
       {
@@ -31574,13 +31580,13 @@
         "isFocusBoard": false
       },
       {
-        "name": "低空经济",
-        "score": 3,
+        "name": "医药",
+        "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "能源",
-        "score": 3,
+        "name": "军工",
+        "score": 2,
         "isFocusBoard": false
       }
     ],
@@ -31750,43 +31756,50 @@
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "标普500指数和纳斯达克指数继续收窄跌幅，目前分别下跌0.6%和1.4%，道琼斯指数涨0.3%",
-        "summary": "标普500指数和纳斯达克指数继续收窄跌幅，目前分别下跌0.6%和1.4%。道琼斯指数涨0.3%。",
-        "publishedAt": "2026-11-26 02:19:41",
+        "title": "周四你需要知道的隔夜全球要闻",
+        "summary": "周四你需要知道的隔夜全球要闻：道指翻红芯片股继续调整；英伟达信用风险创新高、标普或下调其评级；“大空头”仓位布局转为多大于空。",
+        "publishedAt": "2026-11-26 06:00:13",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939938628.html",
+        "url": "https://finance.eastmoney.com/a/202611263939960859.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "半导体",
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "道琼斯工业平均指数转涨 此前一度下跌2.2%",
-        "summary": "道琼斯工业平均指数转涨，此前一度下跌2.2%。",
-        "publishedAt": "2026-11-26 01:55:47",
+        "title": "为科技创新输送金融活水 科创债年内发行规模达1.7万亿元",
+        "summary": "【为科技创新输送金融活水 科创债年内发行规模达1.7万亿元】作为债券市场服务科技创新的重要载体，科创债发行规模持续保持在高位水平。数据显示，以发行起始日为统计口径，截至11月25日，科创债发行规模年内已达1.70万亿元，发行数量1730只。与此同时，二级市场配套机制同步完善，24只科创债ETF总规模达3364亿元，与成立之初的规模相比增长明显，不断吸引增量…",
+        "publishedAt": "2026-11-26 05:52:45",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939935519.html",
+        "url": "https://finance.eastmoney.com/a/202611263939929188.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "金融"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "Anthropic股价拉升翻红 此前一度跌9.5%",
-        "summary": "标普500指数跌幅收窄至1.6%，纳斯达克100指数下跌2.9%。Anthropic股价拉升翻红，此前一度跌9.5%。",
-        "publishedAt": "2026-11-26 01:10:30",
+        "title": "AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录",
+        "summary": "【AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录】感恩节前夕，华尔街对AI举债扩张的担忧在信用市场持续发酵，CoreWeave、英伟达、甲骨文等多家科技公司的信用违约掉期（CDS）集体刷新纪录。",
+        "publishedAt": "2026-11-26 05:13:22",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939927284.html",
+        "url": "https://finance.eastmoney.com/a/202611263939950156.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [],
+        "themes": [
+          "AI算力"
+        ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
@@ -31828,33 +31841,32 @@
         "noticeType": "回购预案"
       },
       {
-        "title": "闪送第三季度营收下滑7.6%、单季转亏， 加码AI与低空布局能否突围巨头混战？",
-        "summary": "【闪送第三季度营收下滑7.6%、单季转亏， 加码AI与低空布局能否突围巨头混战？】11月24日晚间，国内即时专人直送平台闪送（纳斯达克代码：FLX）发布2026年第三季度未经审计财报。三季度，闪送实现总营收9.29亿元，较上年同期的10.05亿元下滑7.56%；录得净亏损680万元，上年同期净利润为4370万元。期内，闪送完成订单量6280万单，环比二季度…",
-        "publishedAt": "2026-11-26 02:09:09",
+        "title": "美国三季度GDP增速大幅上修至4.3% AI投资成经济增长核心引擎",
+        "summary": "【美国三季度GDP增速大幅上修至4.3% AI投资成经济增长核心引擎】尽管高利率环境持续对房地产等领域形成压力，但强劲的消费支出和人工智能(AI)相关投资为美国经济注入了强劲动力，推动三季度GDP增速大幅上修至三年来最快水平。",
+        "publishedAt": "2026-11-26 05:50:54",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939938489.html",
+        "url": "https://finance.eastmoney.com/a/202611253939913989.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力",
-          "低空经济"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "分析师称英伟达股票仍是稳健的长期价值买入标的",
-        "summary": "Prime Capital Financial董事长Scott Colangelo讨论为何英伟达是稳健的长期投资。他认为，英伟达这家科技巨头仍代表着强劲的价值机会。",
-        "publishedAt": "2026-11-26 01:23:19",
+        "title": "从“通道中介”转向“资本伙伴” 证券公司扩大科创投资版图",
+        "summary": "【从“通道中介”转向“资本伙伴” 证券公司扩大科创投资版图】近期，证券公司持续推进科创投资布局。通过密集发起设立私募股权基金、直投或借道私募基金等多元化方式，券商资本正加速向硬科技赛道集结。整体来看，科创投资已成为撬动券商盈利增长的重要支点之一。不过，面对市场行情波动带来的业绩起伏，券商仍需保持战略定力，以深度产业研判锚定优质标的，以耐心布局获取长期回报。",
+        "publishedAt": "2026-11-26 04:45:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939930192.html",
+        "url": "https://finance.eastmoney.com/a/202611263939937067.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
-          "AI算力"
+          "金融"
         ],
         "tickers": [],
         "importance": 1,
@@ -32104,15 +32116,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-26 02:34:13",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 AI算力、金融、有色稀土。",
+        "generatedAt": "2026-11-26 06:19:21",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 13 条；主题映射集中在 金融、有色稀土、AI算力。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、白酒；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、有色稀土、AI算力；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -32143,7 +32155,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-26 02:33:40",
+        "generatedAt": "2026-11-26 06:18:45",
         "summary": "上午情绪分 10，涨停 51 家，跌停 43 家，炸板 30 家，连板 14 家，最高 5 板。",
         "sections": [
           {
@@ -32182,7 +32194,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-26 02:33:40",
+        "generatedAt": "2026-11-26 06:18:45",
         "summary": "市场温度 冰，情绪周期偏退潮/冰点。亏钱效应占优，先防守再进攻",
         "sections": [
           {
