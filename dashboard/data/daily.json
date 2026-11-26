@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-26",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-26 06:34:25",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-26 06:34:25",
+    "lastNewsAt": "2026-11-26 16:46:33"
   },
   "indices": [
     {
@@ -31549,39 +31551,39 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-26",
-    "generatedAt": "2026-11-26 06:35:01",
+    "generatedAt": "2026-11-26 16:46:33",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 14 条；主题映射集中在 AI算力、金融、有色稀土。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 有色稀土、能源、金融。",
     "themes": [
       {
-        "name": "AI算力",
-        "score": 16,
-        "isFocusBoard": false
-      },
-      {
-        "name": "金融",
-        "score": 14,
-        "isFocusBoard": false
-      },
-      {
         "name": "有色稀土",
-        "score": 14,
+        "score": 12,
         "isFocusBoard": false
       },
       {
         "name": "能源",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "金融",
+        "score": 8,
+        "isFocusBoard": false
+      },
+      {
+        "name": "AI算力",
         "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "半导体",
-        "score": 4,
+        "score": 5,
         "isFocusBoard": false
       },
       {
         "name": "医药",
-        "score": 2,
+        "score": 4,
         "isFocusBoard": false
       },
       {
@@ -31738,87 +31740,36 @@
         "noticeType": "回复问询函公告"
       },
       {
-        "title": "*ST春天:青海春天关于对上海证券交易所《关于对青海春天药用资源科技股份有限公司2025年年报相关事项问询函》的回复公告",
-        "summary": "*ST春天(600381)：*ST春天:青海春天关于对上海证券交易所《关于对青海春天药用资源科技股份有限公司2025年年报相关事项问询函》的回复公告",
+        "title": "通则康威:投资者关系管理办法",
+        "summary": "通则康威(301718)：通则康威:投资者关系管理办法",
         "publishedAt": "2026-11-26",
         "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600381/AN202611251832040111.html",
+        "url": "https://data.eastmoney.com/notices/detail/301718/AN202611261832049216.html",
         "category": "notice",
         "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
+        "impact": "催化",
+        "themes": [],
         "tickers": [
-          "*ST春天(600381)"
+          "通则康威(301718)"
         ],
         "importance": 1,
-        "noticeType": "回复问询函公告"
+        "noticeType": "管理办法/制度"
       },
       {
-        "title": "年末“冲量”提前启动 个人养老金将迎增量资金",
-        "summary": "【年末“冲量”提前启动 个人养老金将迎增量资金】临近12月，银行的个人养老金缴存推广活动提前铺开，基金公司也在为相关产品积极拓展代销渠道。同时，上海证券报记者获悉，近日有基金公司收到监管方口头通知，旗下“固收+”基金有望申请增设Y类份额，新一批产品后续有望亮相。部分业内人士认为，岁末往往是个人养老金的缴存高峰期，随着更多含权产品进入个人养老金基金池，市场或…",
-        "publishedAt": "2026-11-26 06:25:31",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939939727.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
+        "title": "通则康威:对外投资决策管理制度",
+        "summary": "通则康威(301718)：通则康威:对外投资决策管理制度",
+        "publishedAt": "2026-11-26",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301718/AN202611261832049217.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "通则康威(301718)"
         ],
-        "tickers": [],
         "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "周四你需要知道的隔夜全球要闻",
-        "summary": "周四你需要知道的隔夜全球要闻：道指翻红芯片股继续调整；英伟达信用风险创新高、标普或下调其评级；“大空头”仓位布局转为多大于空。",
-        "publishedAt": "2026-11-26 06:00:13",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939960859.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "半导体",
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "为科技创新输送金融活水 科创债年内发行规模达1.7万亿元",
-        "summary": "【为科技创新输送金融活水 科创债年内发行规模达1.7万亿元】作为债券市场服务科技创新的重要载体，科创债发行规模持续保持在高位水平。数据显示，以发行起始日为统计口径，截至11月25日，科创债发行规模年内已达1.70万亿元，发行数量1730只。与此同时，二级市场配套机制同步完善，24只科创债ETF总规模达3364亿元，与成立之初的规模相比增长明显，不断吸引增量…",
-        "publishedAt": "2026-11-26 05:52:45",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939929188.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
-      },
-      {
-        "title": "AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录",
-        "summary": "【AI债务风险骤升：CoreWeave、英伟达、甲骨文等头部企业CDS集体刷新纪录】感恩节前夕，华尔街对AI举债扩张的担忧在信用市场持续发酵，CoreWeave、英伟达、甲骨文等多家科技公司的信用违约掉期（CDS）集体刷新纪录。",
-        "publishedAt": "2026-11-26 05:13:22",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939950156.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "风险",
-        "themes": [
-          "AI算力"
-        ],
-        "tickers": [],
-        "importance": 1,
-        "noticeType": ""
+        "noticeType": "管理办法/制度"
       },
       {
         "title": "高争民爆:关于股份回购结果暨股份变动的公告",
@@ -31839,33 +31790,48 @@
         "noticeType": "股本变动"
       },
       {
-        "title": "长光华芯:关于以集中竞价交易方式回购股份的预案",
-        "summary": "长光华芯(688048)：长光华芯:关于以集中竞价交易方式回购股份的预案",
-        "publishedAt": "2026-11-26",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/688048/AN202611251832040037.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "长光华芯(688048)"
-        ],
-        "importance": 1,
-        "noticeType": "回购预案"
-      },
-      {
-        "title": "2027年智能眼镜全球出货或超2600万台",
-        "summary": "【2027年智能眼镜全球出货或超2600万台】11月24日，国际数据公司（IDC）发布2027年中国智能眼镜市场洞察报告，预计2027年智能眼镜全球出货量将突破2622.1万台，中国市场突破450.6万台。随着行业加速发展，智能眼镜产品的AI能力、硬件体验和生态协同持续提升，市场定位和发展方向日益清晰。",
-        "publishedAt": "2026-11-26 06:18:00",
+        "title": "重大突破！我国首次开展省间省内绿电联合交易",
+        "summary": "【重大突破！我国首次开展省间省内绿电联合交易】记者从国家电网了解到，今天，我国首次开展省间省内绿电联合交易，全国统一电力市场建设迎来重大突破。",
+        "publishedAt": "2026-11-26 16:44:21",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611263939937642.html",
+        "url": "https://finance.eastmoney.com/a/202611263940648848.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "催化",
         "themes": [
+          "能源"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "长源东谷：取得1.8亿元股票回购专项贷款承诺函",
+        "summary": "【长源东谷：取得1.8亿元股票回购专项贷款承诺函】长源东谷(603950.SH)公告称，公司近日取得兴业银行襄阳分行出具的《贷款承诺函》，同意为公司股份回购项目提供贷款支持，借款金额不超过1.8亿元，且不超过回购金额上限的90%，借款期限不超过36个月。",
+        "publishedAt": "2026-11-26 16:37:16",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611263940642472.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "英伟达已要求其制造合作伙伴停止向四个东南亚国家运送服务器",
+        "summary": "【英伟达已要求其制造合作伙伴停止向四个东南亚国家运送服务器】据第一财经报道，英伟达已要求其制造合作伙伴停止向四个东南亚国家运送服务器。戴尔、超微电脑等负责将英伟达芯片组装成服务器的厂商，已通知马来西亚、新加坡、泰国和印度尼西亚的买家，英伟达不允许相关订单发货。",
+        "publishedAt": "2026-11-26 16:28:41",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611263940638126.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "半导体",
           "AI算力"
         ],
         "tickers": [],
@@ -31873,19 +31839,49 @@
         "noticeType": ""
       },
       {
-        "title": "美国三季度GDP增速大幅上修至4.3% AI投资成经济增长核心引擎",
-        "summary": "【美国三季度GDP增速大幅上修至4.3% AI投资成经济增长核心引擎】尽管高利率环境持续对房地产等领域形成压力，但强劲的消费支出和人工智能(AI)相关投资为美国经济注入了强劲动力，推动三季度GDP增速大幅上修至三年来最快水平。",
-        "publishedAt": "2026-11-26 05:50:54",
-        "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611253939913989.html",
-        "category": "market",
-        "credibility": "公开快讯",
-        "impact": "催化",
+        "title": "美国11月25日iShares黄金持仓-每日更新(吨)",
+        "summary": "美国11月25日iShares黄金持仓-每日更新(吨)；公布 459.47，预期 nan，前值 459.76。",
+        "publishedAt": "2026-11-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
         "themes": [
-          "AI算力"
+          "有色稀土"
         ],
         "tickers": [],
-        "importance": 1,
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月25日iShares白银持仓-每日更新(吨)",
+        "summary": "美国11月25日iShares白银持仓-每日更新(吨)；公布 15643.82，预期 nan，前值 15664.87。",
+        "publishedAt": "2026-11-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [],
+        "tickers": [],
+        "importance": 2,
+        "noticeType": ""
+      },
+      {
+        "title": "美国11月24日COMEX黄金库存-每日更新(百盎司)",
+        "summary": "美国11月24日COMEX黄金库存-每日更新(百盎司)；公布 227194.82，预期 nan，前值 227483.72。",
+        "publishedAt": "2026-11-26 06:30",
+        "source": "百度财经日历",
+        "url": "",
+        "category": "macro",
+        "credibility": "财经日历",
+        "impact": "宏观关注",
+        "themes": [
+          "有色稀土"
+        ],
+        "tickers": [],
+        "importance": 2,
         "noticeType": ""
       }
     ]
@@ -32103,7 +32099,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "冰",
     "emotionCycle": "退潮/冰点",
     "positionRule": {
@@ -32116,15 +32112,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-26 06:35:01",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 4 条，风险 14 条；主题映射集中在 AI算力、金融、有色稀土。",
+        "generatedAt": "2026-11-26 16:46:33",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 6 条，风险 9 条；主题映射集中在 有色稀土、能源、金融。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为冰，总仓位按0%-25%控制。",
               "主线候选：银行、白酒；首看 银行 的前排承接和中军量能。",
-              "新闻/公告映射主题：AI算力、金融、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
