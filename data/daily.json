@@ -1,10 +1,12 @@
 {
   "meta": {
     "tradeDate": "2026-11-27",
-    "phase": "盘中快照",
+    "phase": "盘前简报",
     "generatedAt": "2026-11-27 06:22:25",
     "source": "akshare: eastmoney/ths public data",
-    "errors": []
+    "errors": [],
+    "marketGeneratedAt": "2026-11-27 06:22:25",
+    "lastNewsAt": "2026-11-27 16:57:31"
   },
   "indices": [
     {
@@ -43666,24 +43668,24 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-27",
-    "generatedAt": "2026-11-27 06:23:08",
+    "generatedAt": "2026-11-27 16:57:31",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
-    "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 8 条；主题映射集中在 有色稀土、能源、金融。",
+    "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
     "themes": [
       {
-        "name": "有色稀土",
-        "score": 11,
+        "name": "金融",
+        "score": 36,
         "isFocusBoard": false
       },
       {
         "name": "能源",
-        "score": 10,
+        "score": 11,
         "isFocusBoard": false
       },
       {
-        "name": "金融",
-        "score": 9,
+        "name": "有色稀土",
+        "score": 7,
         "isFocusBoard": false
       },
       {
@@ -43695,237 +43697,33 @@
         "name": "AI算力",
         "score": 2,
         "isFocusBoard": false
-      },
-      {
-        "name": "军工",
-        "score": 2,
-        "isFocusBoard": false
       }
     ],
     "items": [
       {
-        "title": "通用股份:苏亚金诚会计师事务所(特殊普通合伙)关于江苏通用科技股份有限公司2026年半年度报告问询函的专项说明",
-        "summary": "通用股份(601500)：通用股份:苏亚金诚会计师事务所(特殊普通合伙)关于江苏通用科技股份有限公司2026年半年度报告问询函的专项说明",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601500/AN202611261832080712.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "通用股份(601500)"
-        ],
-        "importance": 1,
-        "noticeType": "专项说明/独立意见"
-      },
-      {
-        "title": "通用股份:江苏通用科技股份有限公司关于2026年半年度报告的信息披露监管问询函的回复公告",
-        "summary": "通用股份(601500)：通用股份:江苏通用科技股份有限公司关于2026年半年度报告的信息披露监管问询函的回复公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601500/AN202611261832080713.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "通用股份(601500)"
-        ],
-        "importance": 1,
-        "noticeType": "回复问询函公告"
-      },
-      {
-        "title": "天马科技:中兴华会计师事务所(特殊普通合伙)关于福建天马科技集团股份有限公司2026年半年度报告的信息披露监管问询函中有关事项的回复",
-        "summary": "天马科技(603668)：天马科技:中兴华会计师事务所(特殊普通合伙)关于福建天马科技集团股份有限公司2026年半年度报告的信息披露监管问询函中有关事项的回复",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/603668/AN202611261832078207.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "天马科技(603668)"
-        ],
-        "importance": 1,
-        "noticeType": "会计师事务所问询函回复公告"
-      },
-      {
-        "title": "长园集团:关于涉及诉讼事项进展的公告",
-        "summary": "长园集团(600525)：长园集团:关于涉及诉讼事项进展的公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600525/AN202611261832077971.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "长园集团(600525)"
-        ],
-        "importance": 1,
-        "noticeType": "诉讼仲裁"
-      },
-      {
-        "title": "永太科技:关于控股股东部分股权质押的公告",
-        "summary": "永太科技(002326)：永太科技:关于控股股东部分股权质押的公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002326/AN202611261832077738.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "永太科技(002326)"
-        ],
-        "importance": 1,
-        "noticeType": "股份质押、冻结"
-      },
-      {
-        "title": "冰山冷热:股票交易异常波动暨风险提示公告",
-        "summary": "冰山冷热(000530)：冰山冷热:股票交易异常波动暨风险提示公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/000530/AN202611261832077550.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "冰山冷热(000530)"
-        ],
-        "importance": 1,
-        "noticeType": "股票交易异常波动"
-      },
-      {
-        "title": "ST恒信:关于2026年第四次临时股东会相关提案情况的进展公告",
-        "summary": "ST恒信(300081)：ST恒信:关于2026年第四次临时股东会相关提案情况的进展公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/300081/AN202611261832077483.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "风险",
-        "themes": [],
-        "tickers": [
-          "ST恒信(300081)"
-        ],
-        "importance": 1,
-        "noticeType": "其他"
-      },
-      {
-        "title": "伦铜自11个月低点反弹 科技股上涨提振工业金属",
-        "summary": "【伦铜自11个月低点反弹 科技股上涨提振工业金属】伦铜周四由11个月低点反弹，其他大宗商品和科技股也走高，连续数日大幅下跌后，投资者重返风险较高的资产。LME 3个月期铜期货结算价上涨1.9%，部分收复本月以来的跌幅。铜价反弹与市场风险偏好的普遍改善同步，科技股在多个市场领涨，欧洲矿业股也走高。美国股指期货上涨，此前周三尾盘买盘推动纳斯达克100指数从熊市…",
-        "publishedAt": "2026-11-27 03:50:58",
+        "title": "黑龙江证监局对永商期货采取责令改正的行政监管措施",
+        "summary": "【黑龙江证监局对永商期货采取责令改正的行政监管措施】11月27日，黑龙江证监局发布关于对永商期货有限公司采取责令改正的行政监管措施的决定，经查，公司在网络和信息安全管理中存在以下违规行为：一是网络安全防护与集中运维管控不到位。二是重要系统变更管理与系统运行监测不规范。三是系统压力测试管理不规范。",
+        "publishedAt": "2026-11-27 16:52:36",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611273941013753.html",
+        "url": "https://finance.eastmoney.com/a/202611273941736575.html",
         "category": "market",
         "credibility": "公开快讯",
         "impact": "风险",
-        "themes": [
-          "有色稀土"
-        ],
+        "themes": [],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "宏盛华源:宏盛华源2026年第三季度业绩说明会召开实况",
-        "summary": "宏盛华源(601096)：宏盛华源:宏盛华源2026年第三季度业绩说明会召开实况",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/601096/AN202611261832077953.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "宏盛华源(601096)"
-        ],
-        "importance": 1,
-        "noticeType": "调研活动"
-      },
-      {
-        "title": "TCL中环:关于回购公司股份实施完毕暨股份变动的公告",
-        "summary": "TCL中环(002129)：TCL中环:关于回购公司股份实施完毕暨股份变动的公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002129/AN202611261832077737.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "TCL中环(002129)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "国金证券:国金证券股份有限公司关于回购股份注销实施暨股份变动的公告",
-        "summary": "国金证券(600109)：国金证券:国金证券股份有限公司关于回购股份注销实施暨股份变动的公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/600109/AN202611261832077272.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [
-          "金融"
-        ],
-        "tickers": [
-          "国金证券(600109)"
-        ],
-        "importance": 1,
-        "noticeType": "股本变动"
-      },
-      {
-        "title": "荣盛发展:关于债务重组的公告",
-        "summary": "荣盛发展(002146)：荣盛发展:关于债务重组的公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002146/AN202611261832077224.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "荣盛发展(002146)"
-        ],
-        "importance": 1,
-        "noticeType": "债务重组"
-      },
-      {
-        "title": "荣盛发展:关于债务重组中涉及担保事项的公告",
-        "summary": "荣盛发展(002146)：荣盛发展:关于债务重组中涉及担保事项的公告",
-        "publishedAt": "2026-11-27",
-        "source": "东方财富公告",
-        "url": "https://data.eastmoney.com/notices/detail/002146/AN202611261832077222.html",
-        "category": "notice",
-        "credibility": "公告/交易所数据",
-        "impact": "催化",
-        "themes": [],
-        "tickers": [
-          "荣盛发展(002146)"
-        ],
-        "importance": 1,
-        "noticeType": "其他担保公告"
-      },
-      {
-        "title": "A股上市公司锚定主业积极扩产 海外产能布局成重要投资方向",
-        "summary": "【A股上市公司锚定主业积极扩产 海外产能布局成重要投资方向】梳理发现，近期，多家上市公司相继披露扩产计划，投资领域涵盖电子信息、新能源、先进制造等产业链，部分项目投资额达数十亿元。有上市公司负责人表示，与单纯扩大生产规模不同，此轮投资更多聚焦企业主营业务，既着眼于满足下游需求增长，也注重高端产品布局和全球产能配置，显示出企业深耕主业、谋求长远发展的投资取向。",
-        "publishedAt": "2026-11-27 06:17:43",
+        "title": "新风光：控股股东等承诺24个月内不减持公司股份",
+        "summary": "【新风光：控股股东等承诺24个月内不减持公司股份】新风光(688663)11月27日公告，控股股东山东能源集团有限公司、股东汶上开元控股集团有限公司承诺自2026年11月27日起未来24个月内，除因同一控制下国有股权无偿划转外，不以其他任何方式转让或减持公司股票。",
+        "publishedAt": "2026-11-27 16:50:00",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611273941005074.html",
+        "url": "https://finance.eastmoney.com/a/202611273941736034.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
-          "新能源",
           "能源"
         ],
         "tickers": [],
@@ -43933,30 +43731,44 @@
         "noticeType": ""
       },
       {
-        "title": "世界黄金协会：黄金在不同经济周期中均具配置韧性",
-        "summary": "【世界黄金协会：黄金在不同经济周期中均具配置韧性】11月26日，世界黄金协会发布关于不同经济周期中黄金配置比例最新研究报告。报告认为，黄金在不同经济周期中均展现出较强韧性。在投资组合中保持一定比例的黄金配置，有助于改善整体组合表现。投资者可根据不同经济周期下各类资产的表现，动态调整黄金配置比例。",
-        "publishedAt": "2026-11-27 04:10:59",
+        "title": "艾森股份：控股股东、实际控制人及其一致行动人自愿承诺不减持公司股份",
+        "summary": "【艾森股份：控股股东、实际控制人及其一致行动人自愿承诺不减持公司股份】艾森股份(688720.SH)公告称，公司控股股东、实际控制人张兵、蔡卡敦及其一致行动人宁波艾森企业管理合伙企业自愿承诺，自公司首次公开发行限售股上市流通日起未来6个月内不转让或委托他人管理其持有的公司股份。",
+        "publishedAt": "2026-11-27 16:49:01",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611273941013567.html",
+        "url": "https://finance.eastmoney.com/a/202611273941734582.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
+        "themes": [],
+        "tickers": [],
+        "importance": 1,
+        "noticeType": ""
+      },
+      {
+        "title": "摩根大通：动量股及AI概念股抛售潮接近尾声 短期有望反弹但2027年市场仍面临下行风险",
+        "summary": "【摩根大通：动量股及AI概念股抛售潮接近尾声 短期有望反弹但2027年市场仍面临下行风险】11月27日，摩根大通策略师表示，动量股及人工智能概念股的大幅抛售已基本接近尾声，预计市场短期内将迎来反弹，但经济增长放缓可能导致股市在2027年再创新低。",
+        "publishedAt": "2026-11-27 16:46:21",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611273941733551.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "风险",
         "themes": [
-          "有色稀土"
+          "AI算力"
         ],
         "tickers": [],
         "importance": 1,
         "noticeType": ""
       },
       {
-        "title": "土耳其央行暂停一周期回购拍卖",
-        "summary": "土耳其央行暂停一周期回购拍卖。",
-        "publishedAt": "2026-11-27 03:18:01",
+        "title": "H&M创始家族斥资约2.5亿瑞典克朗增持公司股票",
+        "summary": "【H&M创始家族斥资约2.5亿瑞典克朗增持公司股票】11月27日，瑞典金融监管局文件显示，H&M集团创始家族通过投资工具RamsburyInvest，于11月24日至26日期间累计购入公司135.34万股股票，按披露的成交均价计算，总交易额约2.47亿瑞典克朗。",
+        "publishedAt": "2026-11-27 16:41:51",
         "source": "东方财富7x24",
-        "url": "https://finance.eastmoney.com/a/202611273941012514.html",
+        "url": "https://finance.eastmoney.com/a/202611273941726824.html",
         "category": "market",
         "credibility": "公开快讯",
-        "impact": "催化",
+        "impact": "风险",
         "themes": [
           "金融"
         ],
@@ -43965,33 +43777,230 @@
         "noticeType": ""
       },
       {
-        "title": "美国截至11月25日美联储资产负债表(万亿美元)",
-        "summary": "美国截至11月25日美联储资产负债表(万亿美元)；公布 nan，预期 nan，前值 6.79。",
-        "publishedAt": "2026-11-27 05:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "固德威:(688390)-投资者关系活动记录表-2026年第三季度业绩说明会",
+        "summary": "固德威(688390)：固德威:(688390)-投资者关系活动记录表-2026年第三季度业绩说明会",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/688390/AN202611271832109551.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [],
-        "tickers": [],
-        "importance": 2,
-        "noticeType": ""
+        "tickers": [
+          "固德威(688390)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
       },
       {
-        "title": "美国11月25日COMEX黄金库存-每日更新(百盎司)",
-        "summary": "美国11月25日COMEX黄金库存-每日更新(百盎司)；公布 nan，预期 nan，前值 227194.82。",
-        "publishedAt": "2026-11-27 06:30",
-        "source": "百度财经日历",
-        "url": "",
-        "category": "macro",
-        "credibility": "财经日历",
-        "impact": "宏观关注",
+        "title": "锡华科技:江苏锡华新能源科技股份有限公司投资者关系活动记录表(2026年11月27日)",
+        "summary": "锡华科技(603248)：锡华科技:江苏锡华新能源科技股份有限公司投资者关系活动记录表(2026年11月27日)",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/603248/AN202611271832109279.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
         "themes": [
-          "有色稀土"
+          "新能源",
+          "能源"
+        ],
+        "tickers": [
+          "锡华科技(603248)"
+        ],
+        "importance": 1,
+        "noticeType": "调研活动"
+      },
+      {
+        "title": "协昌科技:关于召开投资者说明会的提示性公告",
+        "summary": "协昌科技(301418)：协昌科技:关于召开投资者说明会的提示性公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301418/AN202611271832112031.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "协昌科技(301418)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "汉仪股份:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+        "summary": "汉仪股份(301270)：汉仪股份:关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301270/AN202611271832112023.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "汉仪股份(301270)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "南大光电:关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
+        "summary": "南大光电(300346)：南大光电:关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300346/AN202611271832112018.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "南大光电(300346)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "狄耐克:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "summary": "狄耐克(300884)：狄耐克:关于回购股份事项前十名股东和前十名无限售条件股东持股情况的公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300884/AN202611271832112012.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "狄耐克(300884)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "狄耐克:回购股份报告书",
+        "summary": "狄耐克(300884)：狄耐克:回购股份报告书",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300884/AN202611271832112033.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "狄耐克(300884)"
+        ],
+        "importance": 1,
+        "noticeType": "回购报告书"
+      },
+      {
+        "title": "欧陆通:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "summary": "欧陆通(300870)：欧陆通:关于取得金融机构股票回购专项贷款承诺函的公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300870/AN202611271832112015.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "欧陆通(300870)"
+        ],
+        "importance": 1,
+        "noticeType": "借贷"
+      },
+      {
+        "title": "博亚精工:关于回购公司股份比例达到3%的进展公告",
+        "summary": "博亚精工(300971)：博亚精工:关于回购公司股份比例达到3%的进展公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/300971/AN202611271832111939.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "博亚精工(300971)"
+        ],
+        "importance": 1,
+        "noticeType": "回购进展情况"
+      },
+      {
+        "title": "电投绿能:吉林电力股份有限公司2023年面向专业机构投资者公开发行科技创新绿色乡村振兴公司债券(专项用于碳中和)(第一期)2026年本息兑付暨摘牌公告(1)",
+        "summary": "电投绿能(000875)：电投绿能:吉林电力股份有限公司2023年面向专业机构投资者公开发行科技创新绿色乡村振兴公司债券(专项用于碳中和)(第一期)2026年本息兑付暨摘牌公告(1)",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/000875/AN202611271832111943.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "能源"
+        ],
+        "tickers": [
+          "电投绿能(000875)"
+        ],
+        "importance": 1,
+        "noticeType": "其他"
+      },
+      {
+        "title": "德福科技:关于回购公司股份方案的公告",
+        "summary": "德福科技(301511)：德福科技:关于回购公司股份方案的公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/301511/AN202611271832111686.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [
+          "金融"
+        ],
+        "tickers": [
+          "德福科技(301511)"
+        ],
+        "importance": 1,
+        "noticeType": "回购预案"
+      },
+      {
+        "title": "锦华新材:关于公司高级管理人员增持公司股份的公告",
+        "summary": "锦华新材(920015)：锦华新材:关于公司高级管理人员增持公司股份的公告",
+        "publishedAt": "2026-11-27",
+        "source": "东方财富公告",
+        "url": "https://data.eastmoney.com/notices/detail/920015/AN202611271832111632.html",
+        "category": "notice",
+        "credibility": "公告/交易所数据",
+        "impact": "催化",
+        "themes": [],
+        "tickers": [
+          "锦华新材(920015)"
+        ],
+        "importance": 1,
+        "noticeType": "股东/实际控制人股份增持"
+      },
+      {
+        "title": "德福科技：拟1亿元至2亿元回购公司股份",
+        "summary": "【德福科技：拟1亿元至2亿元回购公司股份】德福科技(301511.SZ)公告称，公司拟使用自有资金和自筹资金以集中竞价交易方式回购公司部分股份，用于维护公司价值及股东权益。本次回购资金总额不低于1亿元且不超过2亿元，回购价格不超过85元/股。",
+        "publishedAt": "2026-11-27 16:50:38",
+        "source": "东方财富7x24",
+        "url": "https://finance.eastmoney.com/a/202611273941735912.html",
+        "category": "market",
+        "credibility": "公开快讯",
+        "impact": "催化",
+        "themes": [
+          "金融"
         ],
         "tickers": [],
-        "importance": 2,
+        "importance": 1,
         "noticeType": ""
       }
     ]
@@ -44202,7 +44211,7 @@
     }
   ],
   "reports": {
-    "active": "noon",
+    "active": "pre-market",
     "marketLevel": "中",
     "emotionCycle": "高潮",
     "positionRule": {
@@ -44215,15 +44224,15 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-27 06:23:08",
-        "summary": "已抓取 18 条新闻/公告/日历事件，催化 8 条，风险 8 条；主题映射集中在 有色稀土、能源、金融。",
+        "generatedAt": "2026-11-27 16:57:31",
+        "summary": "已抓取 18 条新闻/公告/日历事件，催化 13 条，风险 5 条；主题映射集中在 金融、能源、有色稀土。",
         "sections": [
           {
             "title": "今日先看",
             "items": [
               "市场温度参考为中，总仓位按50%-75%控制。",
               "主线候选：元件、贵金属、共封装光学(CPO)；首看 元件 的前排承接和中军量能。",
-              "新闻/公告映射主题：有色稀土、能源、金融；需要与板块资金、前排承接和成交额共同验证。"
+              "新闻/公告映射主题：金融、能源、有色稀土；需要与板块资金、前排承接和成交额共同验证。"
             ]
           },
           {
@@ -44319,7 +44328,7 @@
               "今日炸板 29 只，追高前先看前排封单和回封质量。",
               "今日跌停 5 只，负反馈未完全消失，后排题材容错率下降。",
               "概念资金最活跃为 机器人概念，若明日资金转负，相关后排股要防冲高回落。",
-              "新闻/公告风险：通用股份:苏亚金诚会计师事务所(特殊普通合伙)关于江苏通用科技股份有限公司2026年半年度报告问询函的专项说明；通用股份:江苏通用科技股份有限公司关于2026年半年度报告的信息披露监管问询函的回复公告。",
+              "新闻/公告风险：黑龙江证监局对永商期货采取责令改正的行政监管措施；新风光：控股股东等承诺24个月内不减持公司股份。",
               "任何买卖计划都必须同时写清买点、止损、仓位和失效条件。"
             ]
           }
