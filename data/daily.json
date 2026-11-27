@@ -2,7 +2,7 @@
   "meta": {
     "tradeDate": "2026-11-27",
     "phase": "盘后复盘",
-    "generatedAt": "2026-11-28 01:39:53",
+    "generatedAt": "2026-11-28 01:59:47",
     "source": "akshare: eastmoney/ths public data",
     "errors": []
   },
@@ -2296,10 +2296,10 @@
       ],
       "sealAmount": "3301.4万",
       "turnover": "成交 10.6亿",
-      "reason": "通用设备方向涨停，涨停统计 1/1，首次封板 13:02:50，炸板 2 次。",
+      "reason": "通用设备方向涨停，涨停统计 1/1，首次封板 13:02:50，炸板 3 次。",
       "firstSeal": "13:02:50",
       "lastSeal": "13:05:53",
-      "failCount": 2
+      "failCount": 3
     },
     {
       "code": "600641",
@@ -2392,10 +2392,10 @@
       ],
       "sealAmount": "397.5万",
       "turnover": "成交 2.8亿",
-      "reason": "IT服务Ⅱ方向涨停，涨停统计 1/1，首次封板 13:03:06，炸板 13 次。",
+      "reason": "IT服务Ⅱ方向涨停，涨停统计 1/1，首次封板 13:03:06，炸板 14 次。",
       "firstSeal": "13:03:06",
       "lastSeal": "13:40:06",
-      "failCount": 13
+      "failCount": 14
     },
     {
       "code": "688361",
@@ -2584,10 +2584,10 @@
       ],
       "sealAmount": "3126.5万",
       "turnover": "成交 7.4亿",
-      "reason": "半导体方向涨停，涨停统计 1/1，首次封板 13:04:28，炸板 5 次。",
+      "reason": "半导体方向涨停，涨停统计 1/1，首次封板 13:04:28，炸板 7 次。",
       "firstSeal": "13:04:28",
       "lastSeal": "13:19:49",
-      "failCount": 5
+      "failCount": 7
     },
     {
       "code": "601519",
@@ -2600,10 +2600,10 @@
       ],
       "sealAmount": "1060.3万",
       "turnover": "成交 5.3亿",
-      "reason": "软件开发方向涨停，涨停统计 1/1，首次封板 13:05:02，炸板 12 次。",
+      "reason": "软件开发方向涨停，涨停统计 1/1，首次封板 13:05:02，炸板 13 次。",
       "firstSeal": "13:05:02",
       "lastSeal": "13:44:05",
-      "failCount": 12
+      "failCount": 13
     },
     {
       "code": "002065",
@@ -2632,10 +2632,10 @@
       ],
       "sealAmount": "4737.1万",
       "turnover": "成交 7.6亿",
-      "reason": "橡胶方向涨停，涨停统计 1/1，首次封板 13:06:06，炸板 7 次。",
+      "reason": "橡胶方向涨停，涨停统计 1/1，首次封板 13:06:06，炸板 6 次。",
       "firstSeal": "13:06:06",
       "lastSeal": "13:27:33",
-      "failCount": 7
+      "failCount": 6
     },
     {
       "code": "003026",
@@ -2696,10 +2696,10 @@
       ],
       "sealAmount": "3610.6万",
       "turnover": "成交 14.9亿",
-      "reason": "半导体方向涨停，涨停统计 1/1，首次封板 13:06:17，炸板 2 次。",
+      "reason": "半导体方向涨停，涨停统计 1/1，首次封板 13:06:17，炸板 3 次。",
       "firstSeal": "13:06:17",
       "lastSeal": "13:09:47",
-      "failCount": 2
+      "failCount": 3
     },
     {
       "code": "002396",
@@ -7206,133 +7206,35 @@
         "资金流入",
         "超额强势"
       ],
-      "ret5": 8.91,
-      "ret20": 1.12,
-      "drawdown": -8.52,
-      "position": 52,
-      "trend": "温和上行",
-      "points": [
+      "ret5": 11.25,
+      "ret20": 7.52,
+      "drawdown": 0,
+      "position": 76,
+      "trend": "强势结构",
+      "chartType": "snapshot",
+      "bars": [
         {
-          "date": "2026-10-27",
-          "close": 3996.38,
-          "changePct": -3.7
+          "label": "涨幅",
+          "value": 11.25,
+          "max": 6
         },
         {
-          "date": "2026-10-28",
-          "close": 4130.11,
-          "changePct": 3.35
+          "label": "超额",
+          "value": 7.52,
+          "max": 6
         },
         {
-          "date": "2026-10-29",
-          "close": 3964.48,
-          "changePct": -4.01
+          "label": "资金",
+          "value": 6,
+          "max": 6
         },
         {
-          "date": "2026-10-30",
-          "close": 3772.49,
-          "changePct": -4.84
-        },
-        {
-          "date": "2026-11-02",
-          "close": 3872.71,
-          "changePct": 2.66
-        },
-        {
-          "date": "2026-11-03",
-          "close": 3749.83,
-          "changePct": -3.17
-        },
-        {
-          "date": "2026-11-04",
-          "close": 3984.16,
-          "changePct": 6.25
-        },
-        {
-          "date": "2026-11-05",
-          "close": 4075.9,
-          "changePct": 2.3
-        },
-        {
-          "date": "2026-11-06",
-          "close": 3955.61,
-          "changePct": -2.95
-        },
-        {
-          "date": "2026-11-09",
-          "close": 3977.07,
-          "changePct": 0.54
-        },
-        {
-          "date": "2026-11-10",
-          "close": 4079.81,
-          "changePct": 2.58
-        },
-        {
-          "date": "2026-11-11",
-          "close": 4170.27,
-          "changePct": 2.22
-        },
-        {
-          "date": "2026-11-12",
-          "close": 4108.13,
-          "changePct": -1.49
-        },
-        {
-          "date": "2026-11-13",
-          "close": 4007.04,
-          "changePct": -2.46
-        },
-        {
-          "date": "2026-11-16",
-          "close": 3833.43,
-          "changePct": -4.33
-        },
-        {
-          "date": "2026-11-17",
-          "close": 3807.29,
-          "changePct": -0.68
-        },
-        {
-          "date": "2026-11-18",
-          "close": 3800.58,
-          "changePct": -0.18
-        },
-        {
-          "date": "2026-11-19",
-          "close": 3727.28,
-          "changePct": -1.93
-        },
-        {
-          "date": "2026-11-20",
-          "close": 3502.8,
-          "changePct": -6.02
-        },
-        {
-          "date": "2026-11-23",
-          "close": 3627.98,
-          "changePct": 3.57
-        },
-        {
-          "date": "2026-11-24",
-          "close": 3648.95,
-          "changePct": 0.58
-        },
-        {
-          "date": "2026-11-25",
-          "close": 3437.98,
-          "changePct": -5.78
-        },
-        {
-          "date": "2026-11-26",
-          "close": 3430.15,
-          "changePct": -0.23
-        },
-        {
-          "date": "2026-11-27",
-          "close": 3814.83,
-          "changePct": 11.21
+          "label": "评分",
+          "value": 6.33,
+          "max": 8
         }
-      ]
+      ],
+      "points": []
     },
     {
       "name": "数据中心(AIDC)",
@@ -7380,133 +7282,35 @@
         "资金流入",
         "超额强势"
       ],
-      "ret5": 8.58,
-      "ret20": 0.31,
-      "drawdown": -9.69,
-      "position": 46,
-      "trend": "温和上行",
-      "points": [
+      "ret5": 9.51,
+      "ret20": 5.78,
+      "drawdown": 0,
+      "position": 67,
+      "trend": "强势结构",
+      "chartType": "snapshot",
+      "bars": [
         {
-          "date": "2026-10-27",
-          "close": 3784.45,
-          "changePct": -3.53
+          "label": "涨幅",
+          "value": 9.51,
+          "max": 6
         },
         {
-          "date": "2026-10-28",
-          "close": 3869.76,
-          "changePct": 2.25
+          "label": "超额",
+          "value": 5.78,
+          "max": 6
         },
         {
-          "date": "2026-10-29",
-          "close": 3715.13,
-          "changePct": -4.0
+          "label": "资金",
+          "value": 6,
+          "max": 6
         },
         {
-          "date": "2026-10-30",
-          "close": 3539.56,
-          "changePct": -4.73
-        },
-        {
-          "date": "2026-11-02",
-          "close": 3676.75,
-          "changePct": 3.88
-        },
-        {
-          "date": "2026-11-03",
-          "close": 3595.57,
-          "changePct": -2.21
-        },
-        {
-          "date": "2026-11-04",
-          "close": 3744.02,
-          "changePct": 4.13
-        },
-        {
-          "date": "2026-11-05",
-          "close": 3847.94,
-          "changePct": 2.78
-        },
-        {
-          "date": "2026-11-06",
-          "close": 3750.02,
-          "changePct": -2.54
-        },
-        {
-          "date": "2026-11-09",
-          "close": 3764.05,
-          "changePct": 0.37
-        },
-        {
-          "date": "2026-11-10",
-          "close": 3868.87,
-          "changePct": 2.78
-        },
-        {
-          "date": "2026-11-11",
-          "close": 3931.49,
-          "changePct": 1.62
-        },
-        {
-          "date": "2026-11-12",
-          "close": 3841.27,
-          "changePct": -2.29
-        },
-        {
-          "date": "2026-11-13",
-          "close": 3756.84,
-          "changePct": -2.2
-        },
-        {
-          "date": "2026-11-16",
-          "close": 3625.86,
-          "changePct": -3.49
-        },
-        {
-          "date": "2026-11-17",
-          "close": 3567.12,
-          "changePct": -1.62
-        },
-        {
-          "date": "2026-11-18",
-          "close": 3566.03,
-          "changePct": -0.03
-        },
-        {
-          "date": "2026-11-19",
-          "close": 3458.32,
-          "changePct": -3.02
-        },
-        {
-          "date": "2026-11-20",
-          "close": 3270.17,
-          "changePct": -5.44
-        },
-        {
-          "date": "2026-11-23",
-          "close": 3382.51,
-          "changePct": 3.44
-        },
-        {
-          "date": "2026-11-24",
-          "close": 3394.43,
-          "changePct": 0.35
-        },
-        {
-          "date": "2026-11-25",
-          "close": 3241.02,
-          "changePct": -4.52
-        },
-        {
-          "date": "2026-11-26",
-          "close": 3232.24,
-          "changePct": -0.27
-        },
-        {
-          "date": "2026-11-27",
-          "close": 3550.68,
-          "changePct": 9.85
+          "label": "评分",
+          "value": 5.58,
+          "max": 8
         }
-      ]
+      ],
+      "points": []
     },
     {
       "name": "2026中报预增",
@@ -7516,133 +7320,35 @@
         "资金流入",
         "超额强势"
       ],
-      "ret5": 6.14,
-      "ret20": -2.99,
-      "drawdown": -9.3,
-      "position": 42,
-      "trend": "震荡观察",
-      "points": [
+      "ret5": 7.76,
+      "ret20": 4.03,
+      "drawdown": 0,
+      "position": 66,
+      "trend": "强势结构",
+      "chartType": "snapshot",
+      "bars": [
         {
-          "date": "2026-10-27",
-          "close": 882.87,
-          "changePct": -2.88
+          "label": "涨幅",
+          "value": 7.76,
+          "max": 6
         },
         {
-          "date": "2026-10-28",
-          "close": 901.1,
-          "changePct": 2.06
+          "label": "超额",
+          "value": 4.03,
+          "max": 6
         },
         {
-          "date": "2026-10-29",
-          "close": 870.35,
-          "changePct": -3.41
+          "label": "资金",
+          "value": 6,
+          "max": 6
         },
         {
-          "date": "2026-10-30",
-          "close": 844.61,
-          "changePct": -2.96
-        },
-        {
-          "date": "2026-11-02",
-          "close": 860.58,
-          "changePct": 1.89
-        },
-        {
-          "date": "2026-11-03",
-          "close": 844.06,
-          "changePct": -1.92
-        },
-        {
-          "date": "2026-11-04",
-          "close": 880.33,
-          "changePct": 4.3
-        },
-        {
-          "date": "2026-11-05",
-          "close": 897.13,
-          "changePct": 1.91
-        },
-        {
-          "date": "2026-11-06",
-          "close": 873.83,
-          "changePct": -2.6
-        },
-        {
-          "date": "2026-11-09",
-          "close": 875.85,
-          "changePct": 0.23
-        },
-        {
-          "date": "2026-11-10",
-          "close": 888.25,
-          "changePct": 1.42
-        },
-        {
-          "date": "2026-11-11",
-          "close": 903.36,
-          "changePct": 1.7
-        },
-        {
-          "date": "2026-11-12",
-          "close": 887.93,
-          "changePct": -1.71
-        },
-        {
-          "date": "2026-11-13",
-          "close": 863.98,
-          "changePct": -2.7
-        },
-        {
-          "date": "2026-11-16",
-          "close": 836.62,
-          "changePct": -3.17
-        },
-        {
-          "date": "2026-11-17",
-          "close": 829.3,
-          "changePct": -0.87
-        },
-        {
-          "date": "2026-11-18",
-          "close": 824.81,
-          "changePct": -0.54
-        },
-        {
-          "date": "2026-11-19",
-          "close": 809.87,
-          "changePct": -1.81
-        },
-        {
-          "date": "2026-11-20",
-          "close": 771.97,
-          "changePct": -4.68
-        },
-        {
-          "date": "2026-11-23",
-          "close": 793.86,
-          "changePct": 2.84
-        },
-        {
-          "date": "2026-11-24",
-          "close": 790.26,
-          "changePct": -0.45
-        },
-        {
-          "date": "2026-11-25",
-          "close": 759.22,
-          "changePct": -3.93
-        },
-        {
-          "date": "2026-11-26",
-          "close": 760.72,
-          "changePct": 0.2
-        },
-        {
-          "date": "2026-11-27",
-          "close": 819.36,
-          "changePct": 7.71
+          "label": "评分",
+          "value": 5.5,
+          "max": 8
         }
-      ]
+      ],
+      "points": []
     }
   ],
   "risks": [
@@ -68526,7 +68232,7 @@
   },
   "newsBrief": {
     "tradeDate": "2026-11-27",
-    "generatedAt": "2026-11-28 01:40:33",
+    "generatedAt": "2026-11-28 02:00:40",
     "source": "akshare: eastmoney/sina/baidu/eastmoney notices",
     "errors": [],
     "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 医药、有色稀土、AI算力。",
@@ -68557,17 +68263,17 @@
         "isFocusBoard": false
       },
       {
-        "name": "汽车链",
-        "score": 4,
-        "isFocusBoard": false
-      },
-      {
-        "name": "半导体",
+        "name": "低空经济",
         "score": 2,
         "isFocusBoard": false
       },
       {
-        "name": "军工",
+        "name": "汽车链",
+        "score": 2,
+        "isFocusBoard": false
+      },
+      {
+        "name": "半导体",
         "score": 2,
         "isFocusBoard": false
       }
@@ -69174,7 +68880,7 @@
         "id": "pre-market",
         "title": "早间新闻与今日关注",
         "stage": "盘前",
-        "generatedAt": "2026-11-28 01:40:33",
+        "generatedAt": "2026-11-28 02:00:40",
         "summary": "已抓取 18 条新闻/公告/日历事件，催化 11 条，风险 2 条；主题映射集中在 医药、有色稀土、AI算力。",
         "sections": [
           {
@@ -69213,7 +68919,7 @@
         "id": "noon",
         "title": "午间复盘",
         "stage": "11:30",
-        "generatedAt": "2026-11-28 01:39:53",
+        "generatedAt": "2026-11-28 01:59:47",
         "summary": "上午情绪分 100，涨停 417 家，跌停 0 家，炸板 42 家，连板 29 家，最高 6 板。",
         "sections": [
           {
@@ -69252,7 +68958,7 @@
         "id": "post-market",
         "title": "盘后完整版复盘",
         "stage": "21:00",
-        "generatedAt": "2026-11-28 01:39:53",
+        "generatedAt": "2026-11-28 01:59:47",
         "summary": "市场温度 强，情绪周期偏高潮。赚钱效应强，围绕主线前排做确认",
         "sections": [
           {
